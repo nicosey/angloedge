@@ -1,0 +1,24 @@
+---
+import { getCollection } from 'astro:content';
+import Briefing from '../../layouts/Briefing.astro';
+
+export async function getStaticPaths() {
+  const briefings = await getCollection('briefings');
+  return briefings.map((briefing) => ({
+    params: { slug: briefing.slug },
+    props: briefing,
+  }));
+}
+
+const briefing = Astro.props;
+const { Content } = await briefing.render();
+---
+
+<Briefing
+  title={briefing.data.title}
+  description={briefing.data.description}
+  pubDate={briefing.data.pubDate}
+  author={briefing.data.author}
+>
+  <Content />
+</Briefing>

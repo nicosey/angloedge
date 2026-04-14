@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Background -->
+  <rect width="500" height="500" fill="#0A2540"/>
+  
+  <!-- Geometric abstract design - capital market inspired -->
+  <!-- Upward trending line -->
+  <path d="M 100 350 L 200 250 L 300 200 L 400 150" stroke="#B8956A" stroke-width="20" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Grid elements suggesting data/markets -->
+  <g stroke="#B8956A" stroke-width="8" fill="none" opacity="0.6">
+    <line x1="150" y1="380" x2="150" y2="320"/>
+    <line x1="250" y1="380" x2="250" y2="240"/>
+    <line x1="350" y1="380" x2="350" y2="180"/>
+  </g>
+  
+  <!-- Accent element -->
+  <circle cx="400" cy="150" r="25" fill="#B8956A"/>
+  
+  <!-- Text anchor -->
+  <text x="250" y="450" font-family="serif" font-size="48" font-weight="bold" fill="#B8956A" text-anchor="middle">AE</text>
+</svg>

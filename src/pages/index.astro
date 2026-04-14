@@ -1,0 +1,96 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const briefings = (await getCollection('briefings')).sort(
+  (a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime()
+);
+
+const latest = briefings[0];
+const archive = briefings.slice(1);
+
+const formatDate = (date: Date) => {
+  return new Date(date).toLocaleDateString('en-GB', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric'
+  });
+};
+---
+
+<Base
+  title="AngloEdge – Intelligence for UK capital markets"
+  description="Daily briefings covering UK capital markets, equity research, and regulatory insights."
+>
+  <div class="max-w-4xl mx-auto px-6 py-12">
+    {/* Hero Section */}
+    <div class="mb-16 py-8">
+      <p class="text-brass font-sans text-sm font-semibold uppercase tracking-wide mb-4">Latest Briefing</p>
+      
+      {latest && (
+        <div class="mb-12">
+          <a href={`/briefings/${latest.slug}/`} class="group">
+            <h1 class="font-serif text-5xl font-bold text-navy mb-4 group-hover:text-brass transition-colors leading-tight">
+              {latest.data.title}
+            </h1>
+          </a>
+          <p class="text-gray-600 text-lg mb-6 leading-relaxed max-w-prose">
+            {latest.data.description}
+          </p>
+          <div class="flex items-center justify-between">
+            <time class="text-sm text-gray-500">
+              {formatDate(latest.data.pubDate)}
+            </time>
+            <a
+              href={`/briefings/${latest.slug}/`}
+              class="inline-flex items-center gap-2 text-navy hover:gap-3 transition-all font-sans font-medium text-sm"
+            >
+              Read article
+              <span>→</span>
+            </a>
+          </div>
+        </div>
+      )}
+    </div>
+
+    {/* Divider */}
+    <div class="border-t border-gray-200 my-12"></div>
+
+    {/* Archive Section */}
+    <div id="archive" class="scroll-mt-20">
+      <p class="text-brass font-sans text-sm font-semibold uppercase tracking-wide mb-8">Recent Briefings</p>
+      
+      <div class="space-y-8">
+        {archive.map((briefing) => (
+          <article class="group pb-8 border-b border-gray-200 last:border-0">
+            <a href={`/briefings/${briefing.slug}/`} class="block">
+              <h2 class="font-serif text-2xl font-bold text-navy mb-2 group-hover:text-brass transition-colors">
+                {briefing.data.title}
+              </h2>
+            </a>
+            <p class="text-gray-600 text-sm mb-4">
+              {briefing.data.description}
+            </p>
+            <div class="flex items-center justify-between text-sm">
+              <time class="text-gray-500">
+                {formatDate(briefing.data.pubDate)}
+              </time>
+              <a
+                href={`/briefings/${briefing.slug}/`}
+                class="text-navy hover:underline transition-colors"
+              >
+                Read →
+              </a>
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </div>
+</Base>
+
+<style>
+  :global(html) {
+    scroll-behavior: smooth;
+  }
+</style>

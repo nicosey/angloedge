@@ -1,0 +1,21 @@
+{
+  "name": "angloedge",
+  "version": "0.1.0",
+  "description": "Intelligence for UK capital markets",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "latest",
+    "@astrojs/rss": "latest",
+    "@astrojs/tailwind": "latest",
+    "tailwindcss": "latest",
+    "autoprefixer": "latest",
+    "postcss": "latest"
+  },
+  "devDependencies": {}
+}

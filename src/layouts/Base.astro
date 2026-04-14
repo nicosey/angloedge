@@ -1,0 +1,90 @@
+---
+import { ViewTransitions } from 'astro:transitions';
+import '../styles/global.css';
+import CookieConsent from '../components/CookieConsent.astro';
+
+export interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+  url?: string;
+}
+
+const { title = 'AngloEdge', description = 'Intelligence for UK capital markets', image = '/og-image.png', url = Astro.url.href } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    {/* SEO */}
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta name="robots" content="index, follow" />
+    
+    {/* Open Graph */}
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={image} />
+    <meta property="og:url" content={url} />
+    <meta property="og:type" content="website" />
+    
+    {/* Twitter Card */}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@angloedgee" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={image} />
+    
+    {/* Favicon */}
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" href="/logo.png" />
+    
+    {/* Google Fonts */}
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@400;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+    <ViewTransitions />
+  </head>
+  <body class="bg-white text-gray-900">
+    <header class="sticky top-0 z-40 border-b border-gray-200 bg-white/95 backdrop-blur-sm">
+      <nav class="max-w-4xl mx-auto px-6 py-4 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2">
+          <img src="/logo.png" alt="AngloEdge" class="h-8" />
+          <span class="font-serif text-lg font-bold text-navy hidden sm:inline">AngloEdge</span>
+        </a>
+        <div class="flex items-center gap-6">
+          <a href="/" class="text-sm text-gray-600 hover:text-navy transition-colors">Home</a>
+          <a href="/#archive" class="text-sm text-gray-600 hover:text-navy transition-colors">Briefings</a>
+          <a href="/about" class="text-sm text-gray-600 hover:text-navy transition-colors">About</a>
+          <a href="/services" class="text-sm text-gray-600 hover:text-navy transition-colors">Services</a>
+          <a href="/contact" class="text-sm text-gray-600 hover:text-navy transition-colors">Contact</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <slot />
+    </main>
+
+    <footer class="mt-16 border-t border-gray-200 bg-gray-50">
+      <div class="max-w-4xl mx-auto px-6 py-8 text-center text-sm text-gray-600">
+        <p>&copy; <span id="year"></span> AngloEdge. Intelligence for UK capital markets.</p>
+        <p class="mt-2">
+          <a href="https://x.com/angloedgee" class="hover:text-navy transition-colors">@angloedgee on X</a>
+        </p>
+      </div>
+    </footer>
+
+    <CookieConsent />
+
+    <script>
+      document.getElementById('year').textContent = new Date().getFullYear();
+    </script>
+
+
+  </body>
+</html>

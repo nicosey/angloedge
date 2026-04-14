@@ -1,0 +1,85 @@
+---
+---
+
+<div id="cookieBanner" class="fixed bottom-0 left-0 right-0 bg-white border-t border-gray-200 shadow-lg z-50 hidden">
+  <div class="max-w-4xl mx-auto px-6 py-4 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+    <p class="text-sm text-gray-700 flex-1">
+      We use cookies to improve your experience and analyze site traffic. By continuing to use this site, you agree to our <a href="/privacy" class="text-navy hover:underline">Privacy Policy</a>.
+    </p>
+    <div class="flex gap-3 shrink-0">
+      <button id="cookieDecline" class="px-4 py-2 text-sm text-gray-600 border border-gray-200 rounded hover:bg-gray-50 transition-colors">
+        Decline
+      </button>
+      <button id="cookieAccept" class="px-4 py-2 text-sm bg-navy text-white rounded hover:bg-blue-900 transition-colors">
+        Accept
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+  const cookieBanner = document.getElementById('cookieBanner');
+  const cookieAccept = document.getElementById('cookieAccept');
+  const cookieDecline = document.getElementById('cookieDecline');
+  const COOKIE_CONSENT_KEY = 'angloedge_cookie_consent';
+
+  // Check if user has already made a choice
+  const hasConsent = localStorage.getItem(COOKIE_CONSENT_KEY);
+
+  if (!hasConsent) {
+    // Show banner after a small delay
+    setTimeout(() => {
+      cookieBanner?.classList.remove('hidden');
+    }, 500);
+  } else if (hasConsent === 'accepted') {
+    // Load analytics if consent was given
+    loadAnalytics();
+  }
+
+  // Accept cookies
+  cookieAccept?.addEventListener('click', () => {
+    localStorage.setItem(COOKIE_CONSENT_KEY, 'accepted');
+    cookieBanner?.classList.add('hidden');
+    loadAnalytics();
+  });
+
+  // Decline cookies
+  cookieDecline?.addEventListener('click', () => {
+    localStorage.setItem(COOKIE_CONSENT_KEY, 'declined');
+    cookieBanner?.classList.add('hidden');
+  });
+
+  // Dismiss on ESC key
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && !cookieBanner?.classList.contains('hidden')) {
+      localStorage.setItem(COOKIE_CONSENT_KEY, 'declined');
+      cookieBanner?.classList.add('hidden');
+    }
+  });
+
+  function loadAnalytics() {
+    // Load Google Analytics or other tracking here
+    // Example:
+    // const script = document.createElement('script');
+    // script.src = 'https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID';
+    // script.async = true;
+    // document.head.appendChild(script);
+  }
+</script>
+
+<style>
+  #cookieBanner {
+    animation: slideUp 0.3s ease-out;
+  }
+
+  @keyframes slideUp {
+    from {
+      transform: translateY(100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+</style>

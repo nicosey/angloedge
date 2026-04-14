@@ -1,0 +1,20 @@
+---
+interface Props {
+  spaceId: string;
+  title?: string;
+}
+
+const { spaceId, title } = Astro.props;
+---
+
+<div class="my-8 rounded-xl overflow-hidden bg-gray-100 dark:bg-slate-800">
+  <iframe
+    src={`https://x.com/i/spaces/${spaceId}?s=20`}
+    width="100%"
+    height="600"
+    frameborder="0"
+    allow="autoplay"
+    class="w-full"
+  ></iframe>
+  {title && <p class="text-sm text-gray-600 dark:text-gray-400 p-4 text-center">{title}</p>}
+</div>

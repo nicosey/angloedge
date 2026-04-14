@@ -1,0 +1,34 @@
+---
+interface Props {
+  tweetId: string;
+}
+
+const { tweetId } = Astro.props;
+---
+
+<div class="my-8 flex justify-center">
+  <div 
+    class="twitter-tweet"
+    data-theme="light"
+  >
+    <a href={`https://twitter.com/i/web/status/${tweetId}`}></a>
+  </div>
+</div>
+
+<script>
+  if (window.twttr && window.twttr.widgets) {
+    window.twttr.widgets.load();
+  } else {
+    const script = document.createElement('script');
+    script.src = 'https://platform.twitter.com/widgets.js';
+    script.async = true;
+    script.charset = 'utf-8';
+    document.body.appendChild(script);
+  }
+</script>
+
+<style>
+  :global(.twitter-tweet) {
+    @apply dark:!bg-slate-800;
+  }
+</style>
