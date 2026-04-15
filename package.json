@@ -10,12 +10,12 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "latest",
     "@astrojs/rss": "latest",
+    "@astrojs/sitemap": "^3.7.2",
     "@astrojs/tailwind": "latest",
-    "tailwindcss": "latest",
+    "astro": "latest",
     "autoprefixer": "latest",
-    "postcss": "latest"
-  },
-  "devDependencies": {}
+    "postcss": "latest",
+    "tailwindcss": "latest"
+  }
 }
