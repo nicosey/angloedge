@@ -11,6 +11,7 @@ export interface Props {
 }
 
 const { title = 'AngloEdge', description = 'Intelligence for UK capital markets', image = '/og-image.png', url = Astro.url.href } = Astro.props;
+const absoluteImage = image.startsWith('http') ? image : `https://angloedge.com${image}`;
 ---
 
 <!doctype html>
@@ -27,16 +28,16 @@ const { title = 'AngloEdge', description = 'Intelligence for UK capital markets'
     {/* Open Graph */}
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:image" content={image} />
+    <meta property="og:image" content={absoluteImage} />
     <meta property="og:url" content={url} />
     <meta property="og:type" content="website" />
-    
+
     {/* Twitter Card */}
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@angloedgee" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
-    <meta name="twitter:image" content={image} />
+    <meta name="twitter:image" content={absoluteImage} />
     
     {/* Favicon */}
     <link rel="icon" href="/favicon.png" />
