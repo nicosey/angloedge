@@ -40,6 +40,9 @@ const absoluteImage = image.startsWith('http') ? image : `https://angloedge.com$
     <meta name="twitter:image" content={absoluteImage} />
     <meta name="twitter:image:alt" content={`${title} – AngloEdge`} />
     
+    {/* Canonical */}
+    <link rel="canonical" href={url} />
+
     {/* Favicon */}
     <link rel="icon" href="/favicon.png" />
     <link rel="apple-touch-icon" href="/logo.png" />
