@@ -10,7 +10,7 @@ export interface Props {
   url?: string;
 }
 
-const { title = 'AngloEdge', description = 'Intelligence for UK capital markets', image = '/og-image.png', url = Astro.url.href } = Astro.props;
+const { title = 'AngloEdge', description = 'Intelligence for UK capital markets', image = '/og-image-v2.png', url = Astro.url.href } = Astro.props;
 const absoluteImage = image.startsWith('http') ? image : `https://angloedge.com${image}`;
 ---
 
@@ -38,6 +38,7 @@ const absoluteImage = image.startsWith('http') ? image : `https://angloedge.com$
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={absoluteImage} />
+    <meta name="twitter:image:alt" content={`${title} – AngloEdge`} />
     
     {/* Favicon */}
     <link rel="icon" href="/favicon.png" />
