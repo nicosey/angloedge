@@ -7,7 +7,7 @@ const briefings = (await getCollection('briefings')).sort(
 );
 
 const latest = briefings[0];
-const archive = briefings.slice(1);
+const recent = briefings.slice(1, 4);
 
 const formatDate = (date: Date) => {
   return new Date(date).toLocaleDateString('en-GB', {
@@ -22,70 +22,115 @@ const formatDate = (date: Date) => {
   title="AngloEdge – Intelligence for UK capital markets"
   description="Daily briefings covering UK capital markets, equity research, and regulatory insights."
 >
-  <div class="max-w-4xl mx-auto px-6 py-12">
-    {/* Hero Section */}
-    <div class="mb-16 py-8">
-      <p class="text-brass font-sans text-sm font-semibold uppercase tracking-wide mb-4">Latest Briefing</p>
-      
-      {latest && (
-        <div class="mb-12">
-          <a href={`/briefings/${latest.slug}/`} class="group">
-            <h1 class="font-serif text-5xl font-bold text-navy mb-4 group-hover:text-brass transition-colors leading-tight">
-              {latest.data.title}
-            </h1>
+
+  {/* Hero */}
+  <section class="border-b border-gray-200 bg-navy">
+    <div class="max-w-4xl mx-auto px-6 py-20">
+      <div class="w-12 h-1 bg-brass mb-8"></div>
+      <h1 class="font-serif text-5xl font-bold text-white mb-6 leading-tight max-w-2xl">
+        Intelligence for UK capital markets.
+      </h1>
+      <p class="text-gray-300 text-lg max-w-xl leading-relaxed mb-10">
+        For institutional investors, corporate strategists, and policy participants who need to understand how UK finance actually works.
+      </p>
+      <div class="flex items-center gap-6">
+        {latest && (
+          <a
+            href={`/briefings/${latest.slug}/`}
+            class="inline-flex items-center gap-2 px-6 py-3 bg-brass text-white font-sans font-medium text-sm hover:bg-opacity-90 transition-all"
+          >
+            Read the latest briefing <span>→</span>
           </a>
-          <p class="text-gray-600 text-lg mb-6 leading-relaxed max-w-prose">
-            {latest.data.description}
-          </p>
-          <div class="flex items-center justify-between">
-            <time class="text-sm text-gray-500">
-              {formatDate(latest.data.pubDate)}
-            </time>
-            <a
-              href={`/briefings/${latest.slug}/`}
-              class="inline-flex items-center gap-2 text-navy hover:gap-3 transition-all font-sans font-medium text-sm"
-            >
-              Read article
-              <span>→</span>
-            </a>
-          </div>
-        </div>
-      )}
-    </div>
-
-    {/* Divider */}
-    <div class="border-t border-gray-200 my-12"></div>
-
-    {/* Archive Section */}
-    <div id="archive" class="scroll-mt-20">
-      <p class="text-brass font-sans text-sm font-semibold uppercase tracking-wide mb-8">Recent Briefings</p>
-      
-      <div class="space-y-8">
-        {archive.map((briefing) => (
-          <article class="group pb-8 border-b border-gray-200 last:border-0">
-            <a href={`/briefings/${briefing.slug}/`} class="block">
-              <h2 class="font-serif text-2xl font-bold text-navy mb-2 group-hover:text-brass transition-colors">
-                {briefing.data.title}
-              </h2>
-            </a>
-            <p class="text-gray-600 text-sm mb-4">
-              {briefing.data.description}
-            </p>
-            <div class="flex items-center justify-between text-sm">
-              <time class="text-gray-500">
-                {formatDate(briefing.data.pubDate)}
-              </time>
-              <a
-                href={`/briefings/${briefing.slug}/`}
-                class="text-navy hover:underline transition-colors"
-              >
-                Read →
-              </a>
-            </div>
-          </article>
-        ))}
+        )}
+        <a
+          href="/services"
+          class="text-sm font-sans text-gray-300 hover:text-white transition-colors"
+        >
+          Our services
+        </a>
       </div>
     </div>
+  </section>
+
+  <div class="max-w-4xl mx-auto px-6">
+
+    {/* Latest Briefing */}
+    {latest && (
+      <section class="py-16 border-b border-gray-200">
+        <p class="text-brass font-sans text-xs font-semibold uppercase tracking-widest mb-6">Latest Briefing</p>
+        <a href={`/briefings/${latest.slug}/`} class="group block">
+          <h2 class="font-serif text-4xl font-bold text-navy mb-4 group-hover:text-brass transition-colors leading-tight max-w-2xl">
+            {latest.data.title}
+          </h2>
+        </a>
+        <p class="text-gray-600 text-lg mb-6 leading-relaxed max-w-prose">
+          {latest.data.description}
+        </p>
+        <div class="flex items-center justify-between">
+          <time class="text-sm text-gray-500">{formatDate(latest.data.pubDate)}</time>
+          <a
+            href={`/briefings/${latest.slug}/`}
+            class="inline-flex items-center gap-2 text-navy hover:gap-3 transition-all font-sans font-medium text-sm"
+          >
+            Read article <span>→</span>
+          </a>
+        </div>
+      </section>
+    )}
+
+    {/* Recent Briefings */}
+    {recent.length > 0 && (
+      <section class="py-16 border-b border-gray-200">
+        <p class="text-brass font-sans text-xs font-semibold uppercase tracking-widest mb-8">Recent Briefings</p>
+        <div class="space-y-8">
+          {recent.map((briefing) => (
+            <article class="group pb-8 border-b border-gray-100 last:border-0 last:pb-0">
+              <a href={`/briefings/${briefing.slug}/`} class="block">
+                <h3 class="font-serif text-2xl font-bold text-navy mb-2 group-hover:text-brass transition-colors">
+                  {briefing.data.title}
+                </h3>
+              </a>
+              <p class="text-gray-600 text-sm mb-4 leading-relaxed">{briefing.data.description}</p>
+              <div class="flex items-center justify-between text-sm">
+                <time class="text-gray-500">{formatDate(briefing.data.pubDate)}</time>
+                <a href={`/briefings/${briefing.slug}/`} class="text-navy hover:underline">Read →</a>
+              </div>
+            </article>
+          ))}
+        </div>
+        <div class="mt-10">
+          <a href="/#archive" class="text-sm font-sans font-medium text-navy hover:underline">
+            View all briefings →
+          </a>
+        </div>
+      </section>
+    )}
+
+    {/* Services Strip */}
+    <section class="py-16">
+      <p class="text-brass font-sans text-xs font-semibold uppercase tracking-widest mb-8">Services</p>
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-8">
+        <div class="border-t-2 border-brass pt-6">
+          <h3 class="font-serif text-lg font-bold text-navy mb-2">Market Research</h3>
+          <p class="text-gray-600 text-sm mb-4 leading-relaxed">Deep-dive reports on sectors, regulatory regimes, and market structure.</p>
+          <p class="text-xs text-gray-400 mb-4">From £5,000</p>
+          <a href="/contact?service=research" class="text-sm font-sans text-navy hover:underline font-medium">Enquire →</a>
+        </div>
+        <div class="border-t-2 border-brass pt-6">
+          <h3 class="font-serif text-lg font-bold text-navy mb-2">Speaking & Events</h3>
+          <p class="text-gray-600 text-sm mb-4 leading-relaxed">Keynotes and boardroom sessions on UK capital markets strategy.</p>
+          <p class="text-xs text-gray-400 mb-4">Bespoke pricing</p>
+          <a href="/contact?service=speaking" class="text-sm font-sans text-navy hover:underline font-medium">Enquire →</a>
+        </div>
+        <div class="border-t-2 border-brass pt-6">
+          <h3 class="font-serif text-lg font-bold text-navy mb-2">Advisory</h3>
+          <p class="text-gray-600 text-sm mb-4 leading-relaxed">Ongoing intelligence and advisory tailored to your mandate.</p>
+          <p class="text-xs text-gray-400 mb-4">From £15,000/qtr</p>
+          <a href="/contact?service=advisory" class="text-sm font-sans text-navy hover:underline font-medium">Enquire →</a>
+        </div>
+      </div>
+    </section>
+
   </div>
 </Base>
 
