@@ -80,7 +80,7 @@ const formatDate = (date: Date) => {
 
     {/* Recent Briefings */}
     {recent.length > 0 && (
-      <section class="py-16 border-b border-gray-200">
+      <section id="archive" class="py-16 border-b border-gray-200 scroll-mt-20">
         <p class="text-brass font-sans text-xs font-semibold uppercase tracking-widest mb-8">Recent Briefings</p>
         <div class="space-y-8">
           {recent.map((briefing) => (
