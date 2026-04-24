@@ -11,10 +11,11 @@ import Base from '../layouts/Base.astro';
       </p>
     </header>
 
-    <form 
-      name="contact" 
-      method="POST" 
-      netlify 
+    <form
+      name="contact"
+      method="POST"
+      data-netlify="true"
+      data-astro-reload
       class="space-y-6"
     >
       <input type="hidden" name="form-name" value="contact" />
