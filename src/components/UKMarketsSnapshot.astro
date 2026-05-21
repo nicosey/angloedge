@@ -1,0 +1,201 @@
+---
+---
+
+<div class="uk-markets-snapshot bg-navy rounded-xl border border-white/10 overflow-hidden">
+
+  <div class="px-4 py-3 border-b border-white/10 flex items-center justify-between">
+    <div>
+      <h3 class="font-serif text-brass text-sm font-semibold leading-none">UK Markets Snapshot</h3>
+      <time id="markets-ts" class="block text-[10px] font-sans text-white/40 mt-0.5 tabular-nums"></time>
+    </div>
+    <button id="markets-refresh-all" class="text-white/30 hover:text-brass transition-colors text-base leading-none ml-3" aria-label="Refresh">
+      ↻
+    </button>
+  </div>
+
+  <div class="grid grid-cols-2 gap-2 p-2">
+
+    <div class="bg-white/[0.05] rounded-lg border border-white/10 p-3 flex flex-col" id="card-ftse100" style="min-height:108px">
+      <span class="text-[10px] font-sans font-semibold text-white/50 uppercase tracking-wider mb-auto">FTSE 100</span>
+      <div class="flex items-end justify-between gap-1 mt-2">
+        <div class="min-w-0">
+          <div class="card-price font-sans font-bold text-white tabular-nums leading-none" style="font-size:1.3rem">—</div>
+          <div class="card-change text-[11px] font-sans font-medium text-white/40 mt-1">—</div>
+        </div>
+        <div class="w-[68px] h-[44px] shrink-0 overflow-hidden">
+          <div class="tradingview-widget-container h-full w-full">
+            <div class="tradingview-widget-container__widget h-full"></div>
+            <script is:inline type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+            {"symbol":"INDEX:UKX","width":"100%","height":"100%","locale":"en","dateRange":"1D","colorTheme":"dark","trendLineColor":"rgba(184,149,106,1)","underLineColor":"rgba(184,149,106,0.1)","underLineBottomColor":"rgba(184,149,106,0)","isTransparent":true,"autosize":true,"chartOnly":true}
+            </script>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="bg-white/[0.05] rounded-lg border border-white/10 p-3 flex flex-col" id="card-ftse250" style="min-height:108px">
+      <span class="text-[10px] font-sans font-semibold text-white/50 uppercase tracking-wider mb-auto">FTSE 250</span>
+      <div class="flex items-end justify-between gap-1 mt-2">
+        <div class="min-w-0">
+          <div class="card-price font-sans font-bold text-white tabular-nums leading-none" style="font-size:1.3rem">—</div>
+          <div class="card-change text-[11px] font-sans font-medium text-white/40 mt-1">—</div>
+        </div>
+        <div class="w-[68px] h-[44px] shrink-0 overflow-hidden">
+          <div class="tradingview-widget-container h-full w-full">
+            <div class="tradingview-widget-container__widget h-full"></div>
+            <script is:inline type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+            {"symbol":"INDEX:MCX","width":"100%","height":"100%","locale":"en","dateRange":"1D","colorTheme":"dark","trendLineColor":"rgba(184,149,106,1)","underLineColor":"rgba(184,149,106,0.1)","underLineBottomColor":"rgba(184,149,106,0)","isTransparent":true,"autosize":true,"chartOnly":true}
+            </script>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="bg-white/[0.05] rounded-lg border border-white/10 p-3 flex flex-col" id="card-gb10y" style="min-height:108px">
+      <span class="text-[10px] font-sans font-semibold text-white/50 uppercase tracking-wider mb-auto">10Y Gilt</span>
+      <div class="flex items-end justify-between gap-1 mt-2">
+        <div class="min-w-0">
+          <div class="card-price font-sans font-bold text-white tabular-nums leading-none" style="font-size:1.3rem">—</div>
+          <div class="card-change text-[11px] font-sans font-medium text-white/40 mt-1">—</div>
+        </div>
+        <div class="w-[68px] h-[44px] shrink-0 overflow-hidden">
+          <div class="tradingview-widget-container h-full w-full">
+            <div class="tradingview-widget-container__widget h-full"></div>
+            <script is:inline type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+            {"symbol":"TVC:GB10Y","width":"100%","height":"100%","locale":"en","dateRange":"1D","colorTheme":"dark","trendLineColor":"rgba(184,149,106,1)","underLineColor":"rgba(184,149,106,0.1)","underLineBottomColor":"rgba(184,149,106,0)","isTransparent":true,"autosize":true,"chartOnly":true}
+            </script>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="bg-white/[0.05] rounded-lg border border-white/10 p-3 flex flex-col" id="card-gb30y" style="min-height:108px">
+      <span class="text-[10px] font-sans font-semibold text-white/50 uppercase tracking-wider mb-auto">30Y Gilt</span>
+      <div class="flex items-end justify-between gap-1 mt-2">
+        <div class="min-w-0">
+          <div class="card-price font-sans font-bold text-white tabular-nums leading-none" style="font-size:1.3rem">—</div>
+          <div class="card-change text-[11px] font-sans font-medium text-white/40 mt-1">—</div>
+        </div>
+        <div class="w-[68px] h-[44px] shrink-0 overflow-hidden">
+          <div class="tradingview-widget-container h-full w-full">
+            <div class="tradingview-widget-container__widget h-full"></div>
+            <script is:inline type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+            {"symbol":"TVC:GB30Y","width":"100%","height":"100%","locale":"en","dateRange":"1D","colorTheme":"dark","trendLineColor":"rgba(184,149,106,1)","underLineColor":"rgba(184,149,106,0.1)","underLineBottomColor":"rgba(184,149,106,0)","isTransparent":true,"autosize":true,"chartOnly":true}
+            </script>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="bg-white/[0.05] rounded-lg border border-white/10 p-3 flex flex-col" id="card-gbpusd" style="min-height:108px">
+      <span class="text-[10px] font-sans font-semibold text-white/50 uppercase tracking-wider mb-auto">GBP/USD</span>
+      <div class="flex items-end justify-between gap-1 mt-2">
+        <div class="min-w-0">
+          <div class="card-price font-sans font-bold text-white tabular-nums leading-none" style="font-size:1.3rem">—</div>
+          <div class="card-change text-[11px] font-sans font-medium text-white/40 mt-1">—</div>
+        </div>
+        <div class="w-[68px] h-[44px] shrink-0 overflow-hidden">
+          <div class="tradingview-widget-container h-full w-full">
+            <div class="tradingview-widget-container__widget h-full"></div>
+            <script is:inline type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+            {"symbol":"FX:GBPUSD","width":"100%","height":"100%","locale":"en","dateRange":"1D","colorTheme":"dark","trendLineColor":"rgba(184,149,106,1)","underLineColor":"rgba(184,149,106,0.1)","underLineBottomColor":"rgba(184,149,106,0)","isTransparent":true,"autosize":true,"chartOnly":true}
+            </script>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="bg-white/[0.05] rounded-lg border border-white/10 p-3 flex flex-col" id="card-brent" style="min-height:108px">
+      <span class="text-[10px] font-sans font-semibold text-white/50 uppercase tracking-wider mb-auto">Brent Crude</span>
+      <div class="flex items-end justify-between gap-1 mt-2">
+        <div class="min-w-0">
+          <div class="card-price font-sans font-bold text-white tabular-nums leading-none" style="font-size:1.3rem">—</div>
+          <div class="card-change text-[11px] font-sans font-medium text-white/40 mt-1">—</div>
+        </div>
+        <div class="w-[68px] h-[44px] shrink-0 overflow-hidden">
+          <div class="tradingview-widget-container h-full w-full">
+            <div class="tradingview-widget-container__widget h-full"></div>
+            <script is:inline type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+            {"symbol":"TVC:UKOIL","width":"100%","height":"100%","locale":"en","dateRange":"1D","colorTheme":"dark","trendLineColor":"rgba(184,149,106,1)","underLineColor":"rgba(184,149,106,0.1)","underLineBottomColor":"rgba(184,149,106,0)","isTransparent":true,"autosize":true,"chartOnly":true}
+            </script>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+  const YF = 'https://query1.finance.yahoo.com/v8/finance/chart/';
+
+  const INSTRUMENTS = [
+    { id: 'ftse100', symbol: '%5EFTSE',   type: 'index',     decimals: 2, prefix: ''  },
+    { id: 'ftse250', symbol: '%5EFTMC',   type: 'index',     decimals: 2, prefix: ''  },
+    { id: 'gb10y',   symbol: 'GB10Y%3DX', type: 'yield',     decimals: 2, prefix: ''  },
+    { id: 'gb30y',   symbol: 'GB30Y%3DX', type: 'yield',     decimals: 2, prefix: ''  },
+    { id: 'gbpusd',  symbol: 'GBPUSD%3DX',type: 'fx',        decimals: 4, prefix: ''  },
+    { id: 'brent',   symbol: 'BZ%3DF',    type: 'commodity', decimals: 2, prefix: '$' },
+  ];
+
+  async function fetchQuote(symbol) {
+    try {
+      const r = await fetch(`${YF}${symbol}?interval=1m&range=1d`);
+      if (!r.ok) return null;
+      const d = await r.json();
+      const m = d?.chart?.result?.[0]?.meta;
+      if (!m) return null;
+      return {
+        price: m.regularMarketPrice,
+        change: m.regularMarketChange,
+        pct: m.regularMarketChangePercent,
+      };
+    } catch { return null; }
+  }
+
+  function fmtPrice(price, type, decimals, prefix) {
+    if (price == null) return '—';
+    if (type === 'yield') return price.toFixed(2) + '%';
+    if (type === 'index') return price.toLocaleString('en-GB', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    return prefix + price.toFixed(decimals);
+  }
+
+  function fmtChange(change, pct, type) {
+    if (change == null) return '—';
+    const sign = change >= 0 ? '+' : '';
+    if (type === 'yield') return `${sign}${Math.round(change * 100)} bps`;
+    return `${sign}${pct.toFixed(2)}%`;
+  }
+
+  async function refresh() {
+    const results = await Promise.all(INSTRUMENTS.map(i => fetchQuote(i.symbol)));
+
+    INSTRUMENTS.forEach((inst, idx) => {
+      const card = document.getElementById(`card-${inst.id}`);
+      if (!card) return;
+      const priceEl = card.querySelector('.card-price');
+      const changeEl = card.querySelector('.card-change');
+      const q = results[idx];
+      if (q) {
+        priceEl.textContent = fmtPrice(q.price, inst.type, inst.decimals, inst.prefix);
+        changeEl.textContent = fmtChange(q.change, q.pct, inst.type);
+        changeEl.className = `card-change text-[11px] font-sans font-medium mt-1 ${q.change >= 0 ? 'text-emerald-400' : 'text-red-400'}`;
+      }
+    });
+
+    const ts = document.getElementById('markets-ts');
+    if (ts) {
+      const now = new Date();
+      ts.textContent = 'Last updated: ' + now.toLocaleDateString('en-GB', {
+        day: 'numeric', month: 'short', year: 'numeric',
+      }) + ' ' + now.toLocaleTimeString('en-GB', {
+        hour: '2-digit', minute: '2-digit', timeZone: 'Europe/London', timeZoneName: 'short',
+      });
+      ts.setAttribute('datetime', now.toISOString());
+    }
+  }
+
+  refresh();
+  document.getElementById('markets-refresh-all')?.addEventListener('click', refresh);
+  document.addEventListener('astro:page-load', refresh);
+</script>

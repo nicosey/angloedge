@@ -1,0 +1,38 @@
+---
+---
+
+<div class="uk-markets-compact bg-navy rounded-lg overflow-hidden border border-white/10 mb-8">
+  <div class="flex items-center justify-between px-4 py-2 border-b border-white/10">
+    <span class="text-[10px] font-sans font-semibold text-brass uppercase tracking-widest">
+      UK Markets — Live Prices
+    </span>
+    <time id="compact-timestamp" class="text-[10px] font-sans text-white/40 tabular-nums" datetime=""></time>
+  </div>
+  <!-- TradingView Ticker Tape: a slim horizontal scrolling strip -->
+  <div class="overflow-hidden" style="height: 52px;">
+    <div class="tradingview-widget-container h-full">
+      <div class="tradingview-widget-container__widget h-full"></div>
+      <script is:inline type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+      {"symbols":[{"proName":"INDEX:UKX","title":"FTSE 100"},{"proName":"INDEX:MCX","title":"FTSE 250"},{"proName":"TVC:GB10Y","title":"10Y Gilt"},{"proName":"TVC:GB30Y","title":"30Y Gilt"},{"proName":"FX:GBPUSD","title":"GBP/USD"},{"proName":"TVC:UKOIL","title":"Brent"}],"showSymbolLogo":false,"colorTheme":"dark","isTransparent":true,"displayMode":"compact","locale":"en"}
+      </script>
+    </div>
+  </div>
+</div>
+
+<script>
+  function setCompactTimestamp() {
+    const el = document.getElementById('compact-timestamp');
+    if (!el) return;
+    const now = new Date();
+    el.textContent = now.toLocaleTimeString('en-GB', {
+      hour: '2-digit',
+      minute: '2-digit',
+      timeZone: 'Europe/London',
+      timeZoneName: 'short',
+    });
+    el.setAttribute('datetime', now.toISOString());
+  }
+
+  setCompactTimestamp();
+  document.addEventListener('astro:page-load', setCompactTimestamp);
+</script>
