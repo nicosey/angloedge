@@ -4,7 +4,7 @@ import { test, expect } from '@playwright/test';
 const EXPECTED_SYMBOLS = [
   { id: 'FTSE 100',    symbol: 'OANDA:UK100GBP'           },
   { id: 'EUR/GBP',     symbol: 'FX:EURGBP'                },
-  { id: '10Y Gilt',    symbol: 'FRED:IRLTLT01GBM156N'      },
+  { id: 'Bitcoin',     symbol: 'BITSTAMP:BTCUSD'            },
   { id: 'Gold',        symbol: 'TVC:GOLD'                  },
   { id: 'GBP/USD',     symbol: 'FX:GBPUSD'                },
   { id: 'Brent Crude', symbol: 'TVC:UKOIL'                },
