@@ -67,12 +67,6 @@ const formatDate = (date: Date) => new Date(date).toLocaleDateString('en-GB', {
 </Base>
 
 <script>
-  const form    = document.getElementById('search-form') as HTMLFormElement;
-  const input   = document.getElementById('search-input') as HTMLInputElement;
-  const list    = document.getElementById('briefings-list') as HTMLElement;
-  const results = document.getElementById('search-results') as HTMLElement;
-  const empty   = document.getElementById('search-empty') as HTMLElement;
-
   let pagefind: any = null;
 
   async function getPagefind() {
@@ -84,7 +78,12 @@ const formatDate = (date: Date) => new Date(date).toLocaleDateString('en-GB', {
     return pagefind;
   }
 
-  async function runSearch(query: string) {
+  async function runSearch(
+    query: string,
+    list: HTMLElement,
+    results: HTMLElement,
+    empty: HTMLElement,
+  ) {
     query = query.trim();
 
     if (!query) {
@@ -129,16 +128,25 @@ const formatDate = (date: Date) => new Date(date).toLocaleDateString('en-GB', {
     }
   }
 
-  // Trigger on form submit (Enter key or button click)
-  form?.addEventListener('submit', (e) => {
-    e.preventDefault();
-    runSearch(input.value);
-  });
+  // Re-attach listeners on every page load (required for Astro View Transitions)
+  document.addEventListener('astro:page-load', () => {
+    const form    = document.getElementById('search-form') as HTMLFormElement;
+    const input   = document.getElementById('search-input') as HTMLInputElement;
+    const list    = document.getElementById('briefings-list') as HTMLElement;
+    const results = document.getElementById('search-results') as HTMLElement;
+    const empty   = document.getElementById('search-empty') as HTMLElement;
 
-  // Also trigger live as-you-type with debounce
-  let debounce: ReturnType<typeof setTimeout>;
-  input?.addEventListener('input', () => {
-    clearTimeout(debounce);
-    debounce = setTimeout(() => runSearch(input.value), 300);
+    if (!form || !input) return;
+
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      runSearch(input.value, list, results, empty);
+    });
+
+    let debounce: ReturnType<typeof setTimeout>;
+    input.addEventListener('input', () => {
+      clearTimeout(debounce);
+      debounce = setTimeout(() => runSearch(input.value, list, results, empty), 300);
+    });
   });
 </script>
