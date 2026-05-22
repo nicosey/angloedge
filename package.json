@@ -7,7 +7,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "test:symbols": "playwright test --config=playwright.config.cjs tests/markets-symbols.spec.js"
   },
   "dependencies": {
     "@astrojs/rss": "latest",
@@ -19,5 +20,8 @@
     "postcss": "latest",
     "satori": "^0.26.0",
     "tailwindcss": "latest"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.60.0"
   }
 }
