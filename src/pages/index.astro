@@ -24,40 +24,38 @@ const formatDate = (date: Date) => {
   description="Daily briefings covering UK capital markets, equity research, and regulatory insights."
 >
 
-  {/* Hero — text left, markets widget right */}
+  {/* Hero — single column, full width */}
   <section class="border-b border-gray-200 bg-navy">
-    <div class="max-w-6xl mx-auto px-6 py-10 lg:py-16 flex flex-col lg:flex-row lg:items-center lg:gap-12">
-      <div class="flex-1 py-4">
-        <div class="w-12 h-1 bg-brass mb-8"></div>
-        <h1 class="font-serif text-5xl font-bold text-white mb-6 leading-tight max-w-2xl">
-          Intelligence for UK capital markets.
-        </h1>
-        <p class="text-gray-300 text-lg max-w-xl leading-relaxed mb-10">
-          For institutional investors, corporate strategists, and policy participants who need to understand how UK finance actually works.
-        </p>
-        <div class="flex items-center gap-6">
-          {latest && (
-            <a
-              href={`/briefings/${latest.slug}/`}
-              class="inline-flex items-center gap-2 px-6 py-3 bg-brass text-white font-sans font-medium text-sm hover:bg-opacity-90 transition-all"
-            >
-              Read the latest briefing <span>→</span>
-            </a>
-          )}
-          <a href="/services" class="text-sm font-sans text-gray-300 hover:text-white transition-colors">
-            Our services
+    <div class="max-w-6xl mx-auto px-6 py-14">
+      <div class="w-12 h-1 bg-brass mb-8"></div>
+      <h1 class="font-serif text-5xl font-bold text-white mb-6 leading-tight max-w-2xl">
+        Intelligence for UK capital markets.
+      </h1>
+      <p class="text-gray-300 text-lg max-w-xl leading-relaxed mb-10">
+        For institutional investors, corporate strategists, and policy participants who need to understand how UK finance actually works.
+      </p>
+      <div class="flex items-center gap-6">
+        {latest && (
+          <a
+            href={`/briefings/${latest.slug}/`}
+            class="inline-flex items-center gap-2 px-6 py-3 bg-brass text-white font-sans font-medium text-sm hover:bg-opacity-90 transition-all"
+          >
+            Read the latest briefing <span>→</span>
           </a>
-        </div>
-      </div>
-      <div class="w-full lg:w-80 xl:w-96 flex-shrink-0 mt-8 lg:mt-0">
-        <UKMarketsSnapshot />
+        )}
+        <a href="/services" class="text-sm font-sans text-gray-300 hover:text-white transition-colors">
+          Our services
+        </a>
       </div>
     </div>
   </section>
 
-  {/* Below-hero: original content, unchanged */}
-  <div class="max-w-4xl mx-auto px-6">
-    <div>
+  {/* Content + sticky sidebar */}
+  <div class="max-w-6xl mx-auto px-6">
+    <div class="flex gap-12 items-start">
+
+      {/* Main content column */}
+      <div class="flex-1 min-w-0">
 
         {latest && (
           <section class="py-16 border-b border-gray-200">
@@ -130,6 +128,13 @@ const formatDate = (date: Date) => {
           </div>
         </section>
 
+      </div>
+
+      {/* Sticky sidebar — desktop only */}
+      <div class="hidden lg:block w-80 xl:w-96 flex-shrink-0 py-16">
+        <div class="sticky top-24">
+          <UKMarketsSnapshot />
+        </div>
       </div>
 
     </div>
