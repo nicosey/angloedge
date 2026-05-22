@@ -28,8 +28,8 @@ const formatDate = (date: Date) => {
   <section class="bg-navy border-b border-white/10">
     <div class="max-w-6xl mx-auto px-6 py-16 flex flex-col lg:flex-row lg:gap-16 lg:items-start">
 
-      {/* Latest briefing */}
-      <div class="flex-1 min-w-0 py-2">
+      {/* Latest briefing — second on mobile, first on desktop */}
+      <div class="flex-1 min-w-0 py-2 order-2 lg:order-1">
         <p class="text-brass font-sans text-xs font-semibold uppercase tracking-widest mb-6">Latest Briefing</p>
         {latest && (
           <>
@@ -52,8 +52,8 @@ const formatDate = (date: Date) => {
         )}
       </div>
 
-      {/* Markets widget — desktop only */}
-      <div class="hidden lg:block w-80 xl:w-96 flex-shrink-0 mt-2">
+      {/* Markets widget — first on mobile, right column on desktop */}
+      <div class="w-full lg:w-80 xl:w-96 flex-shrink-0 order-1 lg:order-2 mt-0 lg:mt-2">
         <UKMarketsSnapshot />
       </div>
 
