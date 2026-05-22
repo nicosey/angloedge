@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(git pull *)",
+      "Bash(npx astro *)",
+      "Bash(identify /Users/nicosey/projects/angloedge/public/og-image.png)",
+      "Bash(npm install *)",
+      "Bash(node -e \"require\\('satori'\\); require\\('@resvg/resvg-js'\\); console.log\\('ok'\\)\")",
+      "Bash(node scripts/generate-og.mjs)",
+      "Bash(npm run *)",
+      "Bash(node -e \"const p = require\\('./node_modules/@astrojs/sitemap/package.json'\\); const a = require\\('./node_modules/astro/package.json'\\); console.log\\('sitemap:', p.version, 'astro:', a.version\\)\")"
+    ]
+  }
+}

@@ -17,7 +17,7 @@ const formattedDate = new Date(pubDate).toLocaleDateString('en-GB', {
 });
 ---
 
-<Base title={title} description={description} url={Astro.url.href}>
+<Base title={title} description={description} url={Astro.url.href} image={`/og/${Astro.url.pathname.replace(/^\/briefings\//, '').replace(/\/$/, '')}.png`}>
   <article class="max-w-prose mx-auto px-6 py-12">
     <header class="mb-8">
       <a href="/" class="text-sm text-brass hover:text-navy transition-colors mb-4 inline-block">← Back to briefings</a>
