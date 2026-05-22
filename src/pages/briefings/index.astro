@@ -22,18 +22,26 @@ const formatDate = (date: Date) => new Date(date).toLocaleDateString('en-GB', {
       <h1 class="font-serif text-4xl font-bold text-navy mb-8">Briefings</h1>
 
       <!-- Search box -->
-      <div class="relative">
-        <svg class="absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400 pointer-events-none" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z"/>
-        </svg>
-        <input
-          id="search-input"
-          type="search"
-          placeholder="Search briefings…"
-          autocomplete="off"
-          class="w-full pl-11 pr-4 py-3 border border-gray-200 font-sans text-sm text-gray-900 placeholder-gray-400 focus:outline-none focus:border-brass focus:ring-1 focus:ring-brass rounded-none"
-        />
-      </div>
+      <form id="search-form" class="flex gap-2" onsubmit="return false;">
+        <div class="relative flex-1">
+          <svg class="absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400 pointer-events-none" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z"/>
+          </svg>
+          <input
+            id="search-input"
+            type="search"
+            placeholder="Search briefings…"
+            autocomplete="off"
+            class="w-full pl-11 pr-4 py-3 border border-gray-200 font-sans text-sm text-gray-900 placeholder-gray-400 focus:outline-none focus:border-brass focus:ring-1 focus:ring-brass rounded-none"
+          />
+        </div>
+        <button
+          type="submit"
+          class="px-6 py-3 bg-navy text-white font-sans text-sm font-medium hover:bg-brass transition-colors flex-shrink-0"
+        >
+          Search
+        </button>
+      </form>
     </div>
 
     <!-- Search results (hidden by default) -->
@@ -59,6 +67,7 @@ const formatDate = (date: Date) => new Date(date).toLocaleDateString('en-GB', {
 </Base>
 
 <script>
+  const form    = document.getElementById('search-form') as HTMLFormElement;
   const input   = document.getElementById('search-input') as HTMLInputElement;
   const list    = document.getElementById('briefings-list') as HTMLElement;
   const results = document.getElementById('search-results') as HTMLElement;
@@ -68,7 +77,7 @@ const formatDate = (date: Date) => new Date(date).toLocaleDateString('en-GB', {
 
   async function getPagefind() {
     if (!pagefind) {
-      // @ts-ignore — generated at build time
+      // @ts-ignore — generated at build time, not resolvable by Vite
       pagefind = await import('/pagefind/pagefind.js');
       await pagefind.init();
     }
@@ -76,48 +85,60 @@ const formatDate = (date: Date) => new Date(date).toLocaleDateString('en-GB', {
   }
 
   async function runSearch(query: string) {
-    if (!query.trim()) {
-      list.hidden    = false;
-      results.hidden = true;
-      empty.hidden   = true;
+    query = query.trim();
+
+    if (!query) {
+      list.hidden       = false;
+      results.hidden    = true;
+      empty.hidden      = true;
       results.innerHTML = '';
       return;
     }
 
-    list.hidden = true;
+    list.hidden    = true;
+    results.hidden = true;
+    empty.hidden   = true;
 
-    const pf     = await getPagefind();
-    const search = await pf.search(query);
+    try {
+      const pf     = await getPagefind();
+      const search = await pf.search(query);
 
-    if (!search.results.length) {
-      results.hidden = true;
-      results.innerHTML = '';
-      empty.hidden   = false;
-      empty.textContent = `No results for "${query}"`;
-      return;
+      if (!search.results.length) {
+        empty.hidden      = false;
+        empty.textContent = `No results for "${query}"`;
+        return;
+      }
+
+      const data = await Promise.all(search.results.slice(0, 20).map((r: any) => r.data()));
+
+      results.innerHTML = data.map((r: any) => `
+        <article class="group pb-8 border-b border-gray-100 last:border-0 last:pb-0">
+          <a href="${r.url}" class="block">
+            <h2 class="font-serif text-2xl font-bold text-navy mb-2 group-hover:text-brass transition-colors leading-tight">
+              ${r.meta?.title ?? 'Briefing'}
+            </h2>
+          </a>
+          <p class="text-gray-600 text-sm mb-3 leading-relaxed max-w-prose">${r.excerpt}</p>
+          ${r.meta?.date ? `<time class="text-xs font-sans text-gray-400 uppercase tracking-wide">${r.meta.date}</time>` : ''}
+        </article>
+      `).join('');
+      results.hidden = false;
+    } catch {
+      empty.hidden      = false;
+      empty.textContent = 'Search unavailable — please try again shortly.';
     }
-
-    empty.hidden = true;
-    const data   = await Promise.all(search.results.slice(0, 20).map((r: any) => r.data()));
-
-    results.innerHTML = data.map((r: any) => `
-      <article class="group pb-8 border-b border-gray-100 last:border-0 last:pb-0">
-        <a href="${r.url}" class="block">
-          <h2 class="font-serif text-2xl font-bold text-navy mb-2 group-hover:text-brass transition-colors leading-tight">
-            ${r.meta?.title ?? 'Briefing'}
-          </h2>
-        </a>
-        <p class="text-gray-600 text-sm mb-3 leading-relaxed max-w-prose">${r.excerpt}</p>
-        ${r.meta?.date ? `<time class="text-xs font-sans text-gray-400 uppercase tracking-wide">${r.meta.date}</time>` : ''}
-      </article>
-    `).join('');
-
-    results.hidden = false;
   }
 
+  // Trigger on form submit (Enter key or button click)
+  form?.addEventListener('submit', (e) => {
+    e.preventDefault();
+    runSearch(input.value);
+  });
+
+  // Also trigger live as-you-type with debounce
   let debounce: ReturnType<typeof setTimeout>;
   input?.addEventListener('input', () => {
     clearTimeout(debounce);
-    debounce = setTimeout(() => runSearch(input.value), 250);
+    debounce = setTimeout(() => runSearch(input.value), 300);
   });
 </script>
