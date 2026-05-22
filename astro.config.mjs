@@ -6,4 +6,11 @@ export default defineConfig({
   output: 'static',
   site: 'https://angloedge.com',
   integrations: [sitemap()],
+  vite: {
+    build: {
+      rollupOptions: {
+        external: ['/pagefind/pagefind.js'],
+      },
+    },
+  },
 });

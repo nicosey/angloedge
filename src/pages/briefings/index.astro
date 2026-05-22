@@ -1,0 +1,123 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const briefings = (await getCollection('briefings')).sort(
+  (a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime()
+);
+
+const formatDate = (date: Date) => new Date(date).toLocaleDateString('en-GB', {
+  day: 'numeric', month: 'long', year: 'numeric',
+});
+---
+
+<Base
+  title="Briefings — AngloEdge"
+  description="All briefings covering UK capital markets, equity research, and regulatory insights."
+>
+  <div class="max-w-4xl mx-auto px-6 py-14">
+
+    <div class="mb-10">
+      <p class="text-brass font-sans text-xs font-semibold uppercase tracking-widest mb-3">Archive</p>
+      <h1 class="font-serif text-4xl font-bold text-navy mb-8">Briefings</h1>
+
+      <!-- Search box -->
+      <div class="relative">
+        <svg class="absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400 pointer-events-none" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z"/>
+        </svg>
+        <input
+          id="search-input"
+          type="search"
+          placeholder="Search briefings…"
+          autocomplete="off"
+          class="w-full pl-11 pr-4 py-3 border border-gray-200 font-sans text-sm text-gray-900 placeholder-gray-400 focus:outline-none focus:border-brass focus:ring-1 focus:ring-brass rounded-none"
+        />
+      </div>
+    </div>
+
+    <!-- Search results (hidden by default) -->
+    <div id="search-results" class="hidden space-y-8 mb-10"></div>
+    <p id="search-empty" class="hidden text-gray-500 font-sans text-sm mb-10"></p>
+
+    <!-- Full archive list -->
+    <div id="briefings-list" class="space-y-8">
+      {briefings.map((briefing) => (
+        <article class="group pb-8 border-b border-gray-100 last:border-0 last:pb-0">
+          <a href={`/briefings/${briefing.slug}/`} class="block">
+            <h2 class="font-serif text-2xl font-bold text-navy mb-2 group-hover:text-brass transition-colors leading-tight">
+              {briefing.data.title}
+            </h2>
+          </a>
+          <p class="text-gray-600 text-sm mb-3 leading-relaxed max-w-prose">{briefing.data.description}</p>
+          <time class="text-xs font-sans text-gray-400 uppercase tracking-wide">{formatDate(briefing.data.pubDate)}</time>
+        </article>
+      ))}
+    </div>
+
+  </div>
+</Base>
+
+<script>
+  const input   = document.getElementById('search-input') as HTMLInputElement;
+  const list    = document.getElementById('briefings-list') as HTMLElement;
+  const results = document.getElementById('search-results') as HTMLElement;
+  const empty   = document.getElementById('search-empty') as HTMLElement;
+
+  let pagefind: any = null;
+
+  async function getPagefind() {
+    if (!pagefind) {
+      // @ts-ignore — generated at build time
+      pagefind = await import('/pagefind/pagefind.js');
+      await pagefind.init();
+    }
+    return pagefind;
+  }
+
+  async function runSearch(query: string) {
+    if (!query.trim()) {
+      list.hidden    = false;
+      results.hidden = true;
+      empty.hidden   = true;
+      results.innerHTML = '';
+      return;
+    }
+
+    list.hidden = true;
+
+    const pf     = await getPagefind();
+    const search = await pf.search(query);
+
+    if (!search.results.length) {
+      results.hidden = true;
+      results.innerHTML = '';
+      empty.hidden   = false;
+      empty.textContent = `No results for "${query}"`;
+      return;
+    }
+
+    empty.hidden = true;
+    const data   = await Promise.all(search.results.slice(0, 20).map((r: any) => r.data()));
+
+    results.innerHTML = data.map((r: any) => `
+      <article class="group pb-8 border-b border-gray-100 last:border-0 last:pb-0">
+        <a href="${r.url}" class="block">
+          <h2 class="font-serif text-2xl font-bold text-navy mb-2 group-hover:text-brass transition-colors leading-tight">
+            ${r.meta?.title ?? 'Briefing'}
+          </h2>
+        </a>
+        <p class="text-gray-600 text-sm mb-3 leading-relaxed max-w-prose">${r.excerpt}</p>
+        ${r.meta?.date ? `<time class="text-xs font-sans text-gray-400 uppercase tracking-wide">${r.meta.date}</time>` : ''}
+      </article>
+    `).join('');
+
+    results.hidden = false;
+  }
+
+  let debounce: ReturnType<typeof setTimeout>;
+  input?.addEventListener('input', () => {
+    clearTimeout(debounce);
+    debounce = setTimeout(() => runSearch(input.value), 250);
+  });
+</script>

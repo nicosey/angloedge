@@ -18,14 +18,14 @@ const formattedDate = new Date(pubDate).toLocaleDateString('en-GB', {
 ---
 
 <Base title={title} description={description} url={Astro.url.href} image={`/og/${Astro.url.pathname.replace(/^\/briefings\//, '').replace(/\/$/, '')}.png`}>
-  <article class="max-w-prose mx-auto px-6 py-12">
+  <article class="max-w-prose mx-auto px-6 py-12" data-pagefind-body>
     <header class="mb-8">
-      <a href="/" class="text-sm text-brass hover:text-navy transition-colors mb-4 inline-block">← Back to briefings</a>
+      <a href="/briefings/" class="text-sm text-brass hover:text-navy transition-colors mb-4 inline-block">← Back to briefings</a>
       <UKMarketsSnapshotCompact />
       <h1 class="font-serif text-4xl font-bold text-navy dark:text-brass mb-4 leading-tight">{title}</h1>
-      <time class="text-gray-600 dark:text-gray-400 text-sm">{formattedDate}</time>
+      <time class="text-gray-600 dark:text-gray-400 text-sm" data-pagefind-meta="date">{formattedDate}</time>
     </header>
-    
+
     <div class="prose prose-lg max-w-prose dark:prose-dark font-serif leading-tight space-y-6">
       <slot />
     </div>
