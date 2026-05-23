@@ -34,40 +34,44 @@ async function fetchPrices(): Promise<Prices> {
     asOf,
   });
 
-  try {
-    const url = 'https://query1.finance.yahoo.com/v7/finance/quote?symbols=%5EFTSE%2CGBPUSD%3DX%2CBZ%3DF%2CGC%3DF';
+  const fetchSymbol = async (sym: string) => {
+    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(sym)}?interval=1d&range=1d`;
     const res = await fetch(url, {
       headers: { 'User-Agent': 'Mozilla/5.0 (compatible; AngloEdge-OG/1.0)' },
       signal: AbortSignal.timeout(8_000),
     });
-    if (!res.ok) return blank();
+    if (!res.ok) return null;
     const json = await res.json() as any;
-    const quotes: any[] = json?.quoteResponse?.result ?? [];
-    if (!quotes.length) return blank();
+    return json?.chart?.result?.[0]?.meta ?? null;
+  };
 
-    const q   = (sym: string) => quotes.find(r => r.symbol === sym);
+  try {
+    const [ftse, gbp, brent, gold] = await Promise.all([
+      fetchSymbol('^FTSE'),
+      fetchSymbol('GBPUSD=X'),
+      fetchSymbol('BZ=F'),
+      fetchSymbol('GC=F'),
+    ]);
+
     const fmt = (n: number, dec = 0) =>
       n.toLocaleString('en-GB', { minimumFractionDigits: dec, maximumFractionDigits: dec });
-    const chg = (pct: number) => `${pct >= 0 ? '▲' : '▼'} ${Math.abs(pct).toFixed(2)}%`;
-
-    const ftse  = q('^FTSE');
-    const gbp   = q('GBPUSD=X');
-    const brent = q('BZ=F');
-    const gold  = q('GC=F');
+    const pct = (meta: any) =>
+      meta ? (meta.regularMarketPrice - meta.chartPreviousClose) / meta.chartPreviousClose * 100 : 0;
+    const chg = (p: number) => `${p >= 0 ? '▲' : '▼'} ${Math.abs(p).toFixed(2)}%`;
 
     return {
-      ftse:     ftse  ? fmt(ftse.regularMarketPrice)          : '—',
-      ftseChg:  ftse  ? chg(ftse.regularMarketChangePercent)  : '',
-      ftseUp:   ftse  ? ftse.regularMarketChangePercent >= 0  : true,
-      gbp:      gbp   ? fmt(gbp.regularMarketPrice, 4)        : '—',
-      gbpChg:   gbp   ? chg(gbp.regularMarketChangePercent)   : '',
-      gbpUp:    gbp   ? gbp.regularMarketChangePercent >= 0   : true,
-      brent:    brent ? `$${fmt(brent.regularMarketPrice, 2)}`: '—',
-      brentChg: brent ? chg(brent.regularMarketChangePercent) : '',
-      brentUp:  brent ? brent.regularMarketChangePercent >= 0 : true,
-      gold:     gold  ? `$${fmt(gold.regularMarketPrice)}`    : '—',
-      goldChg:  gold  ? chg(gold.regularMarketChangePercent)  : '',
-      goldUp:   gold  ? gold.regularMarketChangePercent >= 0  : true,
+      ftse:     ftse  ? fmt(ftse.regularMarketPrice)       : '—',
+      ftseChg:  ftse  ? chg(pct(ftse))                    : '',
+      ftseUp:   ftse  ? pct(ftse) >= 0                    : true,
+      gbp:      gbp   ? fmt(gbp.regularMarketPrice, 4)    : '—',
+      gbpChg:   gbp   ? chg(pct(gbp))                     : '',
+      gbpUp:    gbp   ? pct(gbp) >= 0                     : true,
+      brent:    brent ? `$${fmt(brent.regularMarketPrice, 2)}` : '—',
+      brentChg: brent ? chg(pct(brent))                   : '',
+      brentUp:  brent ? pct(brent) >= 0                   : true,
+      gold:     gold  ? `$${fmt(gold.regularMarketPrice)}` : '—',
+      goldChg:  gold  ? chg(pct(gold))                    : '',
+      goldUp:   gold  ? pct(gold) >= 0                    : true,
       asOf,
     };
   } catch {
