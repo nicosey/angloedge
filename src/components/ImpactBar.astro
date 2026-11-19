@@ -1,0 +1,18 @@
+---
+// Visual impact score (1–10) for an enriched announcement.
+export interface Props {
+  score: number;
+}
+const { score } = Astro.props;
+const filled = Math.max(0, Math.min(10, Math.round(score)));
+---
+
+<div class="mt-3 flex items-center gap-2" role="img" aria-label={`Impact score ${filled} out of 10`}>
+  <span class="font-sans text-[11px] font-semibold uppercase tracking-widest text-gray-500" aria-hidden="true">Impact</span>
+  <span class="flex gap-0.5" aria-hidden="true">
+    {Array.from({ length: 10 }, (_, i) => (
+      <span class={`h-1.5 w-3 ${i < filled ? (filled >= 8 ? 'bg-navy' : 'bg-brass') : 'bg-gray-200'}`}></span>
+    ))}
+  </span>
+  <span class="font-sans text-xs font-semibold tabular-nums text-navy" aria-hidden="true">{filled}/10</span>
+</div>

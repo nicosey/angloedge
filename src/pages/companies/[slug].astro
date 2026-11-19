@@ -1,0 +1,155 @@
+---
+import Base from '../../layouts/Base.astro';
+import ImpactBar from '../../components/ImpactBar.astro';
+import {
+  getAllCompanies, buildTimeline, dateSpan, inactiveSince, showInsight, normaliseThemes,
+  parseTimestamp, displayDate, formatDay, formatLong, formatTime, formatDayRange,
+  pageTitle, metaDescription, structuredData, jsonLd,
+  type Company,
+} from '../../lib/companies';
+
+export async function getStaticPaths() {
+  // The slug comes from the exported file and is permanent — never derive it here.
+  return getAllCompanies().map((company) => ({
+    params: { slug: company.slug },
+    props: { company },
+  }));
+}
+
+const { company } = Astro.props as { company: Company };
+const pageUrl = new URL(`/companies/${company.slug}/`, Astro.site).href;
+const timeline = buildTimeline(company.announcements);
+const { first, last } = dateSpan(company);
+const inactive = inactiveSince(company.latest_announcement);
+const coverage = first && last ? formatDayRange(first, last) : '—';
+---
+
+<Base title={pageTitle(company)} description={metaDescription(company)} url={pageUrl}>
+  <script type="application/ld+json" set:html={jsonLd(structuredData(company, pageUrl))} />
+
+  <div class="max-w-4xl mx-auto px-6 py-14">
+
+    <a href="/companies/" class="text-sm text-brass hover:text-navy transition-colors mb-6 inline-block">← All companies</a>
+
+    <header class="mb-10">
+      <p class="text-brass font-sans text-xs font-semibold uppercase tracking-widest mb-3">RNS Announcements</p>
+      <h1 class="font-serif text-4xl font-bold text-navy mb-6 leading-tight break-words">{company.name}</h1>
+
+      <dl class="grid grid-cols-2 sm:grid-cols-3 gap-6 border-t-2 border-brass pt-5 font-sans">
+        <div>
+          <dt class="text-xs uppercase tracking-wide text-gray-500 mb-1">Ticker</dt>
+          <dd class="text-lg font-semibold text-navy">{company.ticker}</dd>
+        </div>
+        <div>
+          <dt class="text-xs uppercase tracking-wide text-gray-500 mb-1">Announcements</dt>
+          <dd class="text-lg font-semibold text-navy tabular-nums">{company.announcement_count.toLocaleString('en-GB')}</dd>
+        </div>
+        <div class="col-span-2 sm:col-span-1">
+          <dt class="text-xs uppercase tracking-wide text-gray-500 mb-1">Coverage</dt>
+          <dd class="text-lg font-semibold text-navy">{coverage}</dd>
+        </div>
+      </dl>
+    </header>
+
+    {inactive && (
+      <div class="mb-10 border-l-4 border-gray-400 bg-gray-50 px-5 py-4 font-sans">
+        <p class="text-sm font-semibold text-gray-900">No filings since {formatLong(inactive)}</p>
+        <p class="text-sm text-gray-600 mt-1 leading-relaxed">
+          This company has not published an RNS announcement in over 90 days. It may have been acquired,
+          delisted or suspended. The record below is historical.
+        </p>
+      </div>
+    )}
+
+    <section aria-labelledby="announcements-heading">
+      <h2 id="announcements-heading" class="text-brass font-sans text-xs font-semibold uppercase tracking-widest mb-2">
+        Announcements, newest first
+      </h2>
+
+      <ol class="divide-y divide-gray-100 border-b border-gray-100">
+        {timeline.map((item) => {
+          if (item.kind === 'full') {
+            const a = item.a;
+            const d = parseTimestamp(a.timestamp);
+            const themes = showInsight(a) ? normaliseThemes(a.key_themes) : [];
+            return (
+              <li class="py-6">
+                <div class="flex flex-wrap items-center gap-x-3 gap-y-1 font-sans text-xs uppercase tracking-wide text-gray-500">
+                  <time datetime={a.timestamp}>{d ? `${formatDay(d)} · ${formatTime(d)}` : a.timestamp}</time>
+                  {a.category && <span class="font-semibold text-brass">{a.category}</span>}
+                </div>
+                <h3 class="font-serif text-lg font-bold text-navy leading-tight mt-1.5">
+                  {a.url
+                    ? <a href={a.url} target="_blank" rel="noopener" class="hover:text-brass transition-colors">{a.headline}<span class="sr-only"> (opens Investegate in a new tab)</span></a>
+                    : a.headline}
+                </h3>
+                {a.enriched && a.impact_score !== null && <ImpactBar score={a.impact_score} />}
+                {showInsight(a) && (
+                  <p class="mt-3 text-gray-700 text-sm leading-relaxed max-w-prose">{a.insight}</p>
+                )}
+                {themes.length > 0 && (
+                  <ul class="mt-3 flex flex-wrap gap-2" aria-label="Key themes">
+                    {themes.map((t) => (
+                      <li class="border border-gray-200 px-2 py-0.5 font-sans text-xs text-gray-600">{t}</li>
+                    ))}
+                  </ul>
+                )}
+              </li>
+            );
+          }
+
+          if (item.kind === 'compact') {
+            const a = item.a;
+            return (
+              <li class="co-r py-3 font-sans text-sm"><time datetime={a.timestamp}>{displayDate(a.timestamp)}</time>{a.url ? <a href={a.url} target="_blank" rel="noopener">{a.headline}</a> : <span>{a.headline}</span>}</li>
+            );
+          }
+
+          return (
+            <li class="py-3">
+              <details class="group font-sans text-sm">
+                <summary class="flex cursor-pointer list-none items-start gap-4 [&::-webkit-details-marker]:hidden">
+                  <time datetime={item.items[0].timestamp} class="w-24 shrink-0 text-gray-400 tabular-nums">{displayDate(item.items[0].timestamp)}</time>
+                  <span class="min-w-0 flex-1 text-gray-600">
+                    <span class="font-semibold text-navy">{item.items.length} routine filings</span>
+                    {item.range && <span class="text-gray-500"> · {item.range}</span>}
+                    <span class="block text-gray-500 mt-0.5">{item.counts.map(([label, n]) => `${n} ${label}`).join(' · ')}</span>
+                  </span>
+                  <svg class="mt-0.5 h-4 w-4 shrink-0 text-brass transition-transform group-open:rotate-90" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                  </svg>
+                </summary>
+                {/* Minimal markup (styles in co-rows below): runs can hold thousands of filings */}
+                <ol class="co-rows mt-3 ml-1 border-l border-gray-200 pl-4 space-y-2">
+                  {item.items.map((a) => (
+                    <li><time datetime={a.timestamp}>{displayDate(a.timestamp)}</time>{a.url ? <a href={a.url} target="_blank" rel="noopener">{a.headline}</a> : <span>{a.headline}</span>}</li>
+                  ))}
+                </ol>
+              </details>
+            </li>
+          );
+        })}
+      </ol>
+    </section>
+
+    <p class="mt-10 font-sans text-xs text-gray-500 leading-relaxed max-w-prose">
+      Headlines link to the original announcement on Investegate. Impact scores, insights and themes are
+      AngloEdge's own analysis and are not investment advice.
+    </p>
+
+    <div class="mt-8">
+      <a href="/companies/" class="text-sm font-sans font-medium text-navy hover:underline">Browse all companies →</a>
+    </div>
+
+  </div>
+</Base>
+
+<style is:global>
+  /* Compact routine-filing rows — kept class-free in markup because some
+     companies have thousands of them */
+  .co-r, .co-rows > li { @apply flex gap-4; }
+  .co-r > time, .co-rows > li > time { @apply w-24 shrink-0 text-gray-400 tabular-nums; }
+  .co-r > a, .co-r > span, .co-rows > li > a, .co-rows > li > span { @apply min-w-0 break-words text-gray-600; }
+  .co-r > a, .co-rows > li > a { @apply transition-colors; }
+  .co-r > a:hover, .co-rows > li > a:hover { @apply text-navy; }
+</style>

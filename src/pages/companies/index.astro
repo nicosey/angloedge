@@ -1,0 +1,181 @@
+---
+import Base from '../../layouts/Base.astro';
+import companiesIndex from '../../data/companies-index.json';
+import {
+  inactiveSince, parseTimestamp, formatDay, indexLetter,
+  type CompanyIndexEntry,
+} from '../../lib/companies';
+
+const RECENT_COUNT = 20;
+
+const entries = (companiesIndex as CompanyIndexEntry[]).map((c) => ({
+  ...c,
+  latest: parseTimestamp(c.latest_announcement),
+  inactive: inactiveSince(c.latest_announcement) !== null,
+}));
+
+const recent = [...entries]
+  .filter((c) => c.latest)
+  .sort((a, b) => b.latest!.getTime() - a.latest!.getTime())
+  .slice(0, RECENT_COUNT);
+
+const byName = [...entries].sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }));
+const groups = new Map<string, typeof entries>();
+for (const c of byName) {
+  const letter = indexLetter(c.name);
+  if (!groups.has(letter)) groups.set(letter, []);
+  groups.get(letter)!.push(c);
+}
+const letters = [...groups.keys()].sort((a, b) => (a === '#' ? 1 : b === '#' ? -1 : a.localeCompare(b)));
+const total = entries.length;
+const inactiveCount = entries.filter((c) => c.inactive).length;
+---
+
+<Base
+  title="Companies — RNS Announcements & Analysis | AngloEdge"
+  description={`RNS announcement records for ${total.toLocaleString('en-GB')} UK-listed companies, with AngloEdge impact scores and analysis of significant filings.`}
+>
+  <div class="max-w-4xl mx-auto px-6 py-14">
+
+    <div class="mb-10">
+      <p class="text-brass font-sans text-xs font-semibold uppercase tracking-widest mb-3">RNS Announcements</p>
+      <h1 class="font-serif text-4xl font-bold text-navy mb-4">Companies</h1>
+      <p class="text-gray-600 text-sm leading-relaxed max-w-prose mb-8">
+        Regulatory announcement records for {total.toLocaleString('en-GB')} companies, with impact scores and
+        analysis of significant filings. Each headline links to the original announcement.
+      </p>
+
+      <form id="company-filter" class="flex flex-col sm:flex-row sm:items-center gap-3" onsubmit="return false;" role="search">
+        <div class="relative flex-1">
+          <svg class="absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400 pointer-events-none" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z"/>
+          </svg>
+          <label for="company-filter-input" class="sr-only">Filter companies by name or ticker</label>
+          <input
+            id="company-filter-input"
+            type="search"
+            placeholder="Filter by company name or ticker…"
+            autocomplete="off"
+            class="w-full pl-11 pr-4 py-3 border border-gray-200 font-sans text-sm text-gray-900 placeholder-gray-400 focus:outline-none focus:border-brass focus:ring-1 focus:ring-brass rounded-none"
+          />
+        </div>
+        <label class="flex items-center gap-2 font-sans text-sm text-gray-600 shrink-0 cursor-pointer select-none">
+          <input id="company-filter-inactive" type="checkbox" class="accent-navy" />
+          Hide inactive ({inactiveCount})
+        </label>
+      </form>
+      <p id="company-filter-status" class="mt-3 font-sans text-xs text-gray-500" aria-live="polite">
+        {total.toLocaleString('en-GB')} companies
+      </p>
+    </div>
+
+    <section id="recently-active" class="mb-14" aria-labelledby="recent-heading">
+      <h2 id="recent-heading" class="text-brass font-sans text-xs font-semibold uppercase tracking-widest mb-5">Recently active</h2>
+      <ul class="grid grid-cols-1 sm:grid-cols-2 gap-x-8 border-t-2 border-brass">
+        {recent.map((c) => (
+          <li class="flex items-baseline justify-between gap-4 py-3 border-b border-gray-100">
+            <a href={`/companies/${c.slug}/`} class="font-serif font-semibold text-navy hover:text-brass transition-colors min-w-0 truncate">
+              {c.name} <span class="font-sans text-xs font-normal text-gray-500">{c.ticker}</span>
+            </a>
+            <time class="shrink-0 font-sans text-xs text-gray-400 tabular-nums">{formatDay(c.latest!)}</time>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <nav id="letter-bar" aria-label="Jump to letter" class="sticky top-16 z-30 -mx-6 px-6 py-3 mb-8 bg-white/95 backdrop-blur-sm border-y border-gray-200">
+      <ul class="flex flex-wrap gap-x-1 gap-y-1 font-sans text-sm">
+        {letters.map((l) => (
+          <li><a href={`#letter-${l === '#' ? 'num' : l}`} data-letter-link={l} class="inline-block w-7 text-center py-0.5 text-navy hover:bg-navy hover:text-white transition-colors">{l}</a></li>
+        ))}
+      </ul>
+    </nav>
+
+    <div id="company-list" class="space-y-12">
+      {letters.map((l) => (
+        <section id={`letter-${l === '#' ? 'num' : l}`} data-letter-section={l} class="scroll-mt-36">
+          <h2 class="font-serif text-2xl font-bold text-navy mb-3">{l}</h2>
+          {/* Row markup is kept minimal (styles in co-ix below): 1,700+ rows */}
+          <ul class="co-ix">
+            {groups.get(l)!.map((c) => (
+              <li data-inactive={c.inactive ? '' : undefined}><a href={`/companies/${c.slug}/`}><span class="n">{c.name}</span> <span class="t">{c.ticker}</span>{c.inactive && <span class="x">Inactive</span>}</a><span class="m">{c.announcement_count.toLocaleString('en-GB')}<span class="w"> announcements{c.latest && ` · ${formatDay(c.latest)}`}</span></span></li>
+            ))}
+          </ul>
+        </section>
+      ))}
+    </div>
+
+    <p id="company-filter-empty" hidden class="font-sans text-sm text-gray-500"></p>
+
+  </div>
+</Base>
+
+<script>
+  const normalise = (s: string) => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().trim();
+
+  // Re-attach on every page load (required for Astro View Transitions)
+  document.addEventListener('astro:page-load', () => {
+    const input    = document.getElementById('company-filter-input') as HTMLInputElement | null;
+    const inactive = document.getElementById('company-filter-inactive') as HTMLInputElement | null;
+    const status   = document.getElementById('company-filter-status');
+    const empty    = document.getElementById('company-filter-empty');
+    const recent   = document.getElementById('recently-active');
+    if (!input || !inactive || !status || !empty || !recent) return;
+
+    // Search key per row = normalised company name + ticker, read from the link text
+    const rows = [...document.querySelectorAll<HTMLElement>('#company-list .co-ix > li')].map((el) => ({
+      el,
+      key: normalise(el.querySelector('a')!.textContent ?? ''),
+      inactive: el.hasAttribute('data-inactive'),
+    }));
+    const sections = [...document.querySelectorAll<HTMLElement>('[data-letter-section]')];
+    const links    = [...document.querySelectorAll<HTMLElement>('[data-letter-link]')];
+    const total    = rows.length;
+
+    const apply = () => {
+      const q = normalise(input.value);
+      const hideInactive = inactive.checked;
+      let shown = 0;
+      for (const row of rows) {
+        const visible = (!q || row.key.includes(q)) && !(hideInactive && row.inactive);
+        row.el.hidden = !visible;
+        if (visible) shown++;
+      }
+      const lettersWithRows = new Set<string>();
+      for (const section of sections) {
+        const any = section.querySelector('.co-ix > li:not([hidden])') !== null;
+        section.hidden = !any;
+        if (any) lettersWithRows.add(section.dataset.letterSection!);
+      }
+      for (const link of links) {
+        const on = lettersWithRows.has(link.dataset.letterLink!);
+        link.classList.toggle('opacity-30', !on);
+        link.classList.toggle('pointer-events-none', !on);
+      }
+      recent.hidden = q.length > 0;
+      status.textContent = shown === total
+        ? `${total.toLocaleString('en-GB')} companies`
+        : `Showing ${shown.toLocaleString('en-GB')} of ${total.toLocaleString('en-GB')} companies`;
+      empty.hidden = shown > 0;
+      empty.textContent = shown ? '' : `No companies match "${input.value.trim()}".`;
+    };
+
+    input.addEventListener('input', apply);
+    inactive.addEventListener('change', apply);
+    if (input.value || inactive.checked) apply();   // restore state after back-navigation
+  });
+</script>
+
+<style is:global>
+  /* Compact company rows — classes kept short because there are 1,700+ rows */
+  .co-ix { @apply border-t border-gray-200; }
+  .co-ix > li { @apply flex items-baseline justify-between gap-4 py-2.5 border-b border-gray-100; }
+  .co-ix > li[hidden] { display: none; }
+  .co-ix a { @apply min-w-0 flex-1; }
+  .co-ix .n { @apply font-serif font-semibold text-navy transition-colors break-words; }
+  .co-ix a:hover .n { @apply text-brass; }
+  .co-ix .t { @apply ml-1 font-sans text-xs text-gray-500; }
+  .co-ix .x { @apply ml-2 align-middle border border-gray-300 px-1.5 py-px font-sans text-[10px] uppercase tracking-wide text-gray-500; }
+  .co-ix .m { @apply shrink-0 font-sans text-xs text-gray-400 tabular-nums text-right; }
+  .co-ix .w { @apply hidden sm:inline; }
+</style>
