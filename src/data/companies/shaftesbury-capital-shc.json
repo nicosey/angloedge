@@ -1,0 +1,55 @@
+{
+  "name": "Shaftesbury Capital",
+  "ticker": "SHC",
+  "slug": "shaftesbury-capital-shc",
+  "announcement_count": 4,
+  "latest_announcement": "2026-10-29T09:30:00",
+  "announcements": [
+    {
+      "timestamp": "2026-10-29T09:30:00",
+      "category": null,
+      "headline": "Director Declaration",
+      "url": "https://www.investegate.co.uk/announcement/rns/shaftesbury-capital--shc/director-declaration/9848185",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-08-12T09:00:00",
+      "category": "Dividend",
+      "headline": "2026 Interim Dividend - Exchange Rate",
+      "url": "https://www.investegate.co.uk/announcement/rns/shaftesbury-capital--shc/2026-interim-dividend-exchange-rate/9717812",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-07-30T09:00:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/shaftesbury-capital--shc/director-pdmr-shareholding/9695771",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on SHC's valuation or strategy, reflecting typical insider activity rather than a signal of significant corporate change.",
+      "key_themes": [
+        "regulatory_compliance",
+        "low_impact"
+      ]
+    },
+    {
+      "timestamp": "2026-06-29T09:45:00",
+      "category": "Results",
+      "headline": "Notice of 2026 interim results",
+      "url": "https://www.investegate.co.uk/announcement/rns/shaftesbury-capital--shc/notice-of-2026-interim-results/9641687",
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This is a standard administrative notice for Shaftesbury's interim results rather than a substantive trading update; in the current high-yield property sector, investors will scrutinize rental reversion and voids to gauge resilience against rising financing costs.",
+      "key_themes": [
+        "Interim Results",
+        "Real Estate"
+      ]
+    }
+  ]
+}

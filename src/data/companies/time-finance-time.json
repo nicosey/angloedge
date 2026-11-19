@@ -1,0 +1,62 @@
+{
+  "name": "Time Finance",
+  "ticker": "TIME",
+  "slug": "time-finance-time",
+  "announcement_count": 5,
+  "latest_announcement": "2026-11-05T11:01:00",
+  "announcements": [
+    {
+      "timestamp": "2026-11-05T11:01:00",
+      "category": "AGM/EGM",
+      "headline": "Notice of AGM",
+      "url": "https://www.investegate.co.uk/announcement/rns/time-finance--time/notice-of-agm/9860614",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-10-01T12:51:00",
+      "category": "Results",
+      "headline": "Results of Court Meeting and General Meeting",
+      "url": "https://www.investegate.co.uk/announcement/rns/time-finance--time/results-of-court-meeting-and-general-meeting/9802279",
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement confirms the procedural approval of a scheme of arrangement, likely facilitating a capital raise or restructuring to address liquidity constraints common in the UK alternative finance sector; while necessary for survival, it typically signals dilution rather than organic growth.",
+      "key_themes": [
+        "Corporate Action",
+        "Liquidity Management"
+      ]
+    },
+    {
+      "timestamp": "2026-08-17T07:45:00",
+      "category": null,
+      "headline": "Disclosure Table",
+      "url": "https://www.investegate.co.uk/announcement/rns/time-finance--time/disclosure-table/9724630",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-08-17T07:00:00",
+      "category": null,
+      "headline": "Recommended Cash Acquisition of Time Finance plc",
+      "url": "https://www.investegate.co.uk/announcement/rns/time-finance--time/recommended-cash-acquisition-of-time-finance-plc/9723817",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-09T07:00:00",
+      "category": null,
+      "headline": "Lending Book Milestone & Notice of Q4 Update",
+      "url": "https://www.investegate.co.uk/announcement/rns/time-finance--time/lending-book-milestone-notice-of-q4-update/9607736",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    }
+  ]
+}

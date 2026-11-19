@@ -1,0 +1,45 @@
+{
+  "name": "Molecule Group plc",
+  "ticker": "MOL",
+  "slug": "molecule-group-mol",
+  "announcement_count": 3,
+  "latest_announcement": "2026-11-13T08:00:00",
+  "announcements": [
+    {
+      "timestamp": "2026-11-13T08:00:00",
+      "category": null,
+      "headline": "Board Update",
+      "url": "https://www.investegate.co.uk/announcement/rns/molecule-group-plc--mol/board-update-/9874245",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-10-21T16:10:00",
+      "category": "Director Dealing",
+      "headline": "Grant of Options and Director Dealing",
+      "url": "https://www.investegate.co.uk/announcement/rns/molecule-group-plc--mol/grant-of-options-and-director-dealing-/9834967",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine administrative disclosure of option grants and director dealings typical for Molecule Group's biotech model; lacks the transformative catalysts required to move the stock price in a sector already sensitive to clinical trial outcomes rather than internal governance events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Biotech Sector"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T13:23:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Transaction",
+      "url": "https://www.investegate.co.uk/announcement/rns/molecule-group-plc--mol/director-pdmr-transaction-/9820728",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Standard disclosure of individual director transactions which typically carries negligible signal for institutional investors compared to aggregate insider net buying/selling trends.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    }
+  ]
+}

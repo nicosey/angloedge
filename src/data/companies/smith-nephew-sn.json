@@ -1,0 +1,661 @@
+{
+  "name": "Smith & Nephew",
+  "ticker": "SN.",
+  "slug": "smith-nephew-sn",
+  "announcement_count": 61,
+  "latest_announcement": "2026-11-18T13:50:00",
+  "announcements": [
+    {
+      "timestamp": "2026-11-18T13:50:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./director-pdmr-shareholding/9882286",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures typically carry minimal market impact unless they signal coordinated insider sentiment shifts; without volume context or unusual timing relative to SN. earnings, this remains an administrative filing with no immediate strategic implication for the orthopaedics and sports medicine sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-11-16T08:20:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./transaction-in-own-shares/9876803",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-11T15:18:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./director-pdmr-shareholding/9870713",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on SN. share price dynamics, reflecting individual portfolio management rather than corporate strategy shifts.",
+      "key_themes": [
+        "regulatory compliance",
+        "minor administrative"
+      ]
+    },
+    {
+      "timestamp": "2026-11-11T07:30:00",
+      "category": "Share Buyback",
+      "headline": "Share Buyback Programme",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./share-buyback-programme/9869499",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine share buybacks are standard capital allocation tools for mature medtech firms like S&N to manage EPS dilution from RSUs; without disclosed volume or price parameters in the headline, this signals no immediate strategic shift or liquidity injection.",
+      "key_themes": [
+        "capital return",
+        "shareholder yield",
+        "medtech"
+      ]
+    },
+    {
+      "timestamp": "2026-11-04T07:00:00",
+      "category": "Trading Update",
+      "headline": "Smith+Nephew Third Quarter 2026 Trading Update",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./smith-nephew-third-quarter-2026-trading-update/9856829",
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a key bellwether for the global orthopaedics and sports medicine sector, SN. Q3 updates are critical for gauging demand resilience amid macroeconomic headwinds and supply chain normalization.",
+      "key_themes": [
+        "Orthopaedics",
+        "Trading Update"
+      ]
+    },
+    {
+      "timestamp": "2026-11-02T12:12:00",
+      "category": null,
+      "headline": "Total Voting Rights",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./total-voting-rights/9853616",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-10-22T10:25:00",
+      "category": "Dividend",
+      "headline": "Sterling Amount of Dividend",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./sterling-amount-of-dividend/9836546",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-10-08T14:27:00",
+      "category": "Results",
+      "headline": "Notice of Results",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./notice-of-results/9814066",
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a constituent of the FTSE 100, Smith & Nephew's results are closely watched for signals on medical device demand recovery and margin resilience amid inflationary pressures; however, without specific financial data in this notice, the immediate market reaction is likely muted compared to full report releases.",
+      "key_themes": [
+        "FTSE 100",
+        "Medical Devices",
+        "Earnings Release"
+      ]
+    },
+    {
+      "timestamp": "2026-10-06T09:00:00",
+      "category": null,
+      "headline": "Smith+Nephew lanza en Europa el innovador imp...",
+      "url": "https://www.investegate.co.uk/announcement/gnw/smith-nephew--sn./smith-nephew-lanza-en-europa-el-innovador-imp-/9808666",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-10-06T09:00:00",
+      "category": null,
+      "headline": "Smith+Nephew lancia in Europa CARTIHEAL™ AGIL...",
+      "url": "https://www.investegate.co.uk/announcement/gnw/smith-nephew--sn./smith-nephew-lancia-in-europa-cartiheal-agil-/9808665",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-10-06T09:00:00",
+      "category": null,
+      "headline": "Smith+Nephew’s revolutionary CARTIHEAL™ AGILI...",
+      "url": "https://www.investegate.co.uk/announcement/gnw/smith-nephew--sn./smith-nephew-s-revolutionary-cartiheal-agili-/9808664",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-10-01T10:03:00",
+      "category": null,
+      "headline": "Total Voting Rights",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./total-voting-rights/9801609",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-09-23T16:11:00",
+      "category": null,
+      "headline": "Smith+Nephew launches the new EVOS™ PELVIC P...",
+      "url": "https://www.investegate.co.uk/announcement/gnw/smith-nephew--sn./-smith-nephew-launches-the-new-evos-pelvic-p-/9787708",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-09-22T13:00:00",
+      "category": null,
+      "headline": "Natural design. Amplified: Smith+Nephew annou...",
+      "url": "https://www.investegate.co.uk/announcement/gnw/smith-nephew--sn./natural-design-amplified-smith-nephew-annou-/9785036",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-09-21T15:00:00",
+      "category": null,
+      "headline": "Smith+Nephew to showcase leading shoulder tec...",
+      "url": "https://www.investegate.co.uk/announcement/gnw/smith-nephew--sn./smith-nephew-to-showcase-leading-shoulder-tec-/9782778",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-09-18T14:29:00",
+      "category": null,
+      "headline": "Admission to Trading",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./admission-to-trading/9780312",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-09-16T10:15:00",
+      "category": null,
+      "headline": "Result of cash tender offer for 2030 bonds",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./result-of-cash-tender-offer-for-2030-bonds-/9775140",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-09-09T09:29:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./director-pdmr-shareholding/9763067",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealings typically signal negligible immediate market impact compared to institutional flows; in the current medtech environment, investor focus remains on margin expansion and supply chain resilience rather than individual insider transactions.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-09-08T12:45:00",
+      "category": null,
+      "headline": "Cash tender offer for 2030 bonds up to $250m",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./cash-tender-offer-for-2030-bonds-up-to-250m/9761245",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-09-02T14:38:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./director-pdmr-shareholding/9752430",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealings in the UK medical devices sector are typically low-impact administrative events unless they signal a coordinated exit by multiple PDMRs during a period of valuation stress; without context on volume or price, this lacks strategic weight.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-09-02T11:53:00",
+      "category": null,
+      "headline": "Shareholder Consultation & Grant of Awards",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./shareholder-consultation-grant-of-awards/9752049",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-09-01T11:16:00",
+      "category": null,
+      "headline": "Total Voting Rights",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./total-voting-rights/9749478",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-08-21T12:41:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./holding-s-in-company/9734753",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-08-19T07:00:00",
+      "category": null,
+      "headline": "Directorate change",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./directorate-change/9728527",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-08-18T10:23:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./director-pdmr-shareholding/9727486",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on SN. shares price action, reflecting individual portfolio management rather than corporate strategy shifts.",
+      "key_themes": [
+        "regulatory_compliance",
+        "minor_event"
+      ]
+    },
+    {
+      "timestamp": "2026-08-18T08:01:00",
+      "category": null,
+      "headline": "Smith+Nephew and Imperial College London laun...",
+      "url": "https://www.investegate.co.uk/announcement/gnw/smith-nephew--sn./smith-nephew-and-imperial-college-london-laun-/9726992",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-08-17T13:00:00",
+      "category": null,
+      "headline": "Smith+Nephew’s new FLOW FLEXTEND™ COBLATION™ ...",
+      "url": "https://www.investegate.co.uk/announcement/gnw/smith-nephew--sn./smith-nephew-s-new-flow-flextend-coblation-/9725588",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-08-13T10:13:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./transaction-in-own-shares/9720525",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-08-12T14:58:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./director-pdmr-shareholding/9718641",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures typically carry negligible market impact unless they signal coordinated insider sentiment shifts; without volume context or unusual timing relative to SN. earnings, this remains an administrative filing with no immediate strategic implication for the orthopaedics sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-08-12T09:10:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./holding-s-in-company/9717825",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-08-07T10:37:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./transaction-in-own-shares/9710922",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-08-04T07:00:00",
+      "category": null,
+      "headline": "Half-Year Report",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./half-year-report/9702432",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-08-03T13:29:00",
+      "category": null,
+      "headline": "Total Voting Rights",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./total-voting-rights/9701724",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-07-31T10:30:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./transaction-in-own-shares/9698474",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-07-29T15:00:00",
+      "category": null,
+      "headline": "Smith+Nephew’s TESSA™ Spatial Surgery System ...",
+      "url": "https://www.investegate.co.uk/announcement/gnw/smith-nephew--sn./smith-nephew-s-tessa-spatial-surgery-system-/9694268",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-07-27T09:16:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./holding-s-in-company/9688620",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-07-24T11:07:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./transaction-in-own-shares/9686701",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-07-23T09:19:00",
+      "category": "Results",
+      "headline": "Notice of Results",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./notice-of-results/9683997",
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a constituent of the FTSE 100, Smith & Nephew's results are closely watched for signals on medical device demand resilience and margin recovery amid inflationary pressures; this announcement triggers immediate repricing based on guidance and segment performance.",
+      "key_themes": [
+        "Medical Devices",
+        "FTSE 100",
+        "Earnings Release"
+      ]
+    },
+    {
+      "timestamp": "2026-07-22T09:25:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./holding-s-in-company/9681723",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-07-21T11:45:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./director-pdmr-shareholding/9679977",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on SN. shares price action, reflecting individual portfolio management rather than corporate strategy shifts.",
+      "key_themes": [
+        "regulatory_compliance",
+        "minor_administrative"
+      ]
+    },
+    {
+      "timestamp": "2026-07-17T09:15:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./transaction-in-own-shares/9674723",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-07-15T13:30:00",
+      "category": null,
+      "headline": "Smith+Nephew introduces groundbreaking LYNX™ ...",
+      "url": "https://www.investegate.co.uk/announcement/gnw/smith-nephew--sn./smith-nephew-introduces-groundbreaking-lynx-/9670764",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-07-10T12:01:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./transaction-in-own-shares/9663555",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-07-03T09:07:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./transaction-in-own-shares/9651715",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-07-02T09:16:00",
+      "category": null,
+      "headline": "Block Admission Application",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./block-admission-application/9649467",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-07-01T11:09:00",
+      "category": null,
+      "headline": "Total Voting Rights",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./total-voting-rights/9647358",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-30T10:07:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./holding-s-in-company/9644349",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-26T09:54:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./transaction-in-own-shares/9639137",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-26T09:52:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./holding-s-in-company/9639135",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-19T09:21:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./transaction-in-own-shares/9627583",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-17T09:03:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./holding-s-in-company/9622983",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-12T10:18:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./transaction-in-own-shares/9615998",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-11T08:42:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./holding-s-in-company/9613543",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-08T18:22:00",
+      "category": null,
+      "headline": "Smith+Nephew announces first clinical cases w...",
+      "url": "https://www.investegate.co.uk/announcement/gnw/smith-nephew--sn./smith-nephew-announces-first-clinical-cases-w-/9607606",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-05T12:12:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./transaction-in-own-shares/9604740",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-04T16:05:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./director-pdmr-shareholding/9602859",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on SN. share price dynamics, reflecting individual portfolio management rather than corporate strategic shifts.",
+      "key_themes": [
+        "regulatory_compliance",
+        "insider_activity"
+      ]
+    },
+    {
+      "timestamp": "2026-06-03T11:21:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./director-pdmr-shareholding/9599954",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on SN. shares price or corporate strategy, reflecting individual portfolio management rather than company-level sentiment shifts.",
+      "key_themes": [
+        "regulatory_compliance",
+        "minor_administrative"
+      ]
+    },
+    {
+      "timestamp": "2026-06-03T10:35:00",
+      "category": null,
+      "headline": "Admission to Trading",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./admission-to-trading/9599841",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-01T15:10:00",
+      "category": null,
+      "headline": "Total Voting Rights",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./total-voting-rights/9595559",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-05-29T10:37:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./transaction-in-own-shares/9592199",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-05-27T09:31:00",
+      "category": null,
+      "headline": "Pre Stabilisation Notice",
+      "url": "https://www.investegate.co.uk/announcement/rns/smith-nephew--sn./pre-stabilisation-notice/9587495",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    }
+  ]
+}

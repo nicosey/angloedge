@@ -1,0 +1,42 @@
+{
+  "name": "Hansard Global",
+  "ticker": "HSD",
+  "slug": "hansard-global-hsd",
+  "announcement_count": 3,
+  "latest_announcement": "2026-11-04T12:41:00",
+  "announcements": [
+    {
+      "timestamp": "2026-11-04T12:41:00",
+      "category": "AGM/EGM",
+      "headline": "Result of AGM",
+      "url": "https://www.investegate.co.uk/announcement/rns/hansard-global--hsd/result-of-agm/9858499",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-10-02T08:02:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/hansard-global--hsd/director-pdmr-shareholding/9803845",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible signal for institutional investors unless aggregated across the board; lacks the volume or context to suggest a strategic shift in Hansard Global's capital allocation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-09-24T07:00:00",
+      "category": null,
+      "headline": "Annual Financial Report",
+      "url": "https://www.investegate.co.uk/announcement/rns/hansard-global--hsd/annual-financial-report/9787956",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    }
+  ]
+}

@@ -1,0 +1,880 @@
+{
+  "name": "GSK",
+  "ticker": "GSK",
+  "slug": "gsk-gsk",
+  "announcement_count": 77,
+  "latest_announcement": "2026-11-19T07:00:00",
+  "announcements": [
+    {
+      "timestamp": "2026-11-19T07:00:00",
+      "category": null,
+      "headline": "Velzatinib obtains ODD in Japan for GIST treatment",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/velzatinib-obtains-odd-in-japan-for-gist-treatment/9883107",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-18T07:00:00",
+      "category": null,
+      "headline": "FDA approves Nelkarmi for pretreated ALK+ NSCLC",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/fda-approves-nelkarmi-for-pretreated-alk-nsclc-/9880525",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-17T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9880252",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on GSK's valuation or strategic direction, reflecting normal liquidity management rather than significant insider sentiment shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-11-13T07:00:00",
+      "category": null,
+      "headline": "Bexsero booster receives positive CHMP opinion",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/bexsero-booster-receives-positive-chmp-opinion/9873604",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-12T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9873206",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on GSK's valuation or strategy, especially given the company's current focus on post-spinoff integration and pipeline execution rather than insider trading signals.",
+      "key_themes": [
+        "regulatory compliance",
+        "minor administrative"
+      ]
+    },
+    {
+      "timestamp": "2026-11-06T15:00:00",
+      "category": "Dividend",
+      "headline": "GSK publishes provisional dividend dates",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/gsk-publishes-provisional-dividend-dates/9863473",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-02T15:00:00",
+      "category": null,
+      "headline": "Total Voting Rights",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/total-voting-rights/9854006",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-10-26T15:30:00",
+      "category": null,
+      "headline": "Ris-Rez positive Ph 3 osteosarcoma data in China",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/ris-rez-positive-ph-3-osteosarcoma-data-in-china/9842062",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-10-26T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9842060",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealings typically reflect personal liquidity management rather than corporate strategy shifts; without volume context indicating significant insider conviction or divergence, this holds negligible pricing power for GSK's broader pharma sector trajectory.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-10-26T07:05:00",
+      "category": null,
+      "headline": "Jemperli data show 76% complete response rate",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/jemperli-data-show-76-complete-response-rate/9840306",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-10-26T07:00:00",
+      "category": null,
+      "headline": "Positive Mo-Rez Phase Ib data in ovarian cancer",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/positive-mo-rez-phase-ib-data-in-ovarian-cancer-/9840039",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-10-21T07:00:00",
+      "category": null,
+      "headline": "US FDA approves Hibsago for chronic hepatitis B",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/us-fda-approves-hibsago-for-chronic-hepatitis-b/9832842",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-10-19T17:21:00",
+      "category": null,
+      "headline": "Jemperli approved in MSI-H/dMMR rectal cancer",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/jemperli-approved-in-msi-h-dmmr-rectal-cancer/9830389",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-10-19T07:00:00",
+      "category": null,
+      "headline": "Ris-Rez positive early data in lung cancer",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/ris-rez-positive-early-data-in-lung-cancer/9828286",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-10-15T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9825668",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard regulatory disclosure of individual insider transactions which carries no intrinsic signal regarding GSK's strategic direction or financial health, especially given the company's recent focus on its HIV/Hep C franchise and vaccine pipeline.",
+      "key_themes": [
+        "regulatory_compliance",
+        "insider_activity"
+      ]
+    },
+    {
+      "timestamp": "2026-10-14T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9823342",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on GSK's valuation or strategy, reflecting individual portfolio management rather than corporate signaling.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9821003",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on GSK's valuation or strategy, reflecting normal insider activity rather than a signal of corporate transformation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9818849",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures typically carry negligible market impact unless involving substantial insider selling by the CEO or CFO during periods of volatility; without volume context, this is standard administrative noise rather than a strategic signal.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-10-08T15:00:00",
+      "category": null,
+      "headline": "Wendy Becker CBE - New Directorship",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/wendy-becker-cbe-new-directorship/9814142",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-10-06T15:00:00",
+      "category": null,
+      "headline": "Admission to Trading",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/admission-to-trading/9809565",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-10-01T15:00:00",
+      "category": null,
+      "headline": "Total Voting Rights",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/total-voting-rights/9802542",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-09-24T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9789986",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealings in GSK typically reflect individual portfolio management rather than corporate sentiment shifts, especially given the company's strong post-vaccine cash flow and ongoing pharma pipeline execution.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-09-22T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9785319",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on GSK's valuation or strategy, especially given the company's ongoing integration of GlaxoSmithKline and focus on vaccine and consumer health growth.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-09-15T07:00:00",
+      "category": null,
+      "headline": "GSK to acquire T cell-engager for multiple myeloma",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/gsk-to-acquire-t-cell-engager-for-multiple-myeloma/9771611",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-09-14T07:00:00",
+      "category": null,
+      "headline": "Ris-Rez Positive Ph 3 OS Lung Cancer Data in China",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/ris-rez-positive-ph-3-os-lung-cancer-data-in-china/9769144",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-09-14T07:00:00",
+      "category": null,
+      "headline": "Jideytro positive data for ROS1-positive NSCLC",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/jideytro-positive-data-for-ros1-positive-nsclc/9769137",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-09-11T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9768747",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on GSK's valuation or strategic direction, reflecting normal liquidity management rather than significant insider sentiment shifts.",
+      "key_themes": [
+        "regulatory_compliance",
+        "minor_administrative"
+      ]
+    },
+    {
+      "timestamp": "2026-09-10T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9766387",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on GSK's valuation or strategic direction, reflecting individual portfolio management rather than corporate sentiment shifts.",
+      "key_themes": [
+        "regulatory compliance",
+        "minor administrative"
+      ]
+    },
+    {
+      "timestamp": "2026-09-10T07:00:00",
+      "category": null,
+      "headline": "Japan approval of Shingrix in a prefilled syringe",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/japan-approval-of-shingrix-in-a-prefilled-syringe/9764377",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-09-09T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9764004",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on GSK's valuation or strategy, reflecting normal portfolio management rather than significant insider sentiment shifts.",
+      "key_themes": [
+        "regulatory compliance",
+        "minor administrative"
+      ]
+    },
+    {
+      "timestamp": "2026-09-09T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9764003",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealings typically reflect personal liquidity management rather than corporate strategy signals; without volume context, this holds negligible predictive value for GSK's near-term valuation despite the pharma sector's current focus on pipeline catalysts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-09-01T15:00:00",
+      "category": null,
+      "headline": "Total Voting Rights",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/total-voting-rights/9749979",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-08-26T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9741900",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on GSK's valuation or strategic trajectory, reflecting normal portfolio management rather than significant insider sentiment shifts.",
+      "key_themes": [
+        "regulatory_compliance",
+        "minor_administrative"
+      ]
+    },
+    {
+      "timestamp": "2026-08-24T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9737347",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures are standard regulatory filings that rarely signal immediate strategic shifts or material value creation for GSK's pharma/biotech portfolio.",
+      "key_themes": [
+        "regulatory_compliance",
+        "minor_administrative"
+      ]
+    },
+    {
+      "timestamp": "2026-08-24T07:02:00",
+      "category": null,
+      "headline": "First global approval for Hibsago in Japan",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/first-global-approval-for-hibsago-in-japan/9735453",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-08-24T07:00:00",
+      "category": null,
+      "headline": "US FDA to review Jemperli for rectal cancer",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/us-fda-to-review-jemperli-for-rectal-cancer/9735284",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-08-18T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9728220",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on GSK's valuation or strategic trajectory, reflecting individual portfolio management rather than corporate signaling.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-08-13T15:33:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9721245",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on GSK's valuation or strategy, reflecting normal liquidity management rather than significant insider sentiment shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-08-11T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9716442",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible impact on GSK's valuation or strategy, especially given the company's ongoing focus on vaccine and consumer health growth rather than insider trading signals.",
+      "key_themes": [
+        "regulatory compliance",
+        "low materiality"
+      ]
+    },
+    {
+      "timestamp": "2026-08-03T15:00:00",
+      "category": null,
+      "headline": "Total Voting Rights",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/total-voting-rights/9701957",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-07-30T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9696772",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on GSK's valuation or strategic trajectory, reflecting individual portfolio management rather than corporate signaling.",
+      "key_themes": [
+        "regulatory compliance",
+        "minor administrative"
+      ]
+    },
+    {
+      "timestamp": "2026-07-28T12:05:00",
+      "category": null,
+      "headline": "New GSK flagship R&D centre in Cambridge",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/new-gsk-flagship-r-d-centre-in-cambridge/9691528",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-07-28T12:00:00",
+      "category": "Results",
+      "headline": "2nd Quarter Results",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/2nd-quarter-results/9691506",
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "GSK's Q2 results reflect the ongoing structural shift in its portfolio towards vaccines and consumer health, with performance heavily influenced by the timing of flu vaccine demand and the continued integration of the Haleon spin-off. While likely meeting consensus, the lack of a major strategic pivot or significant guidance revision suggests limited immediate catalyst for share price re-rating compared to transformative M&A events.",
+      "key_themes": [
+        "Vaccines",
+        "Consumer Health",
+        "Portfolio Transition"
+      ]
+    },
+    {
+      "timestamp": "2026-07-28T11:06:00",
+      "category": "Results",
+      "headline": "Hansoh positive 2nd Phase III results for Riz-Rez",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/hansoh-positive-2nd-phase-iii-results-for-riz-rez-/9691333",
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "While positive Phase III data for Riz-Rez (likely a typo for a CNS asset like risperidone formulation or similar) validates pipeline progress, it represents an incremental clinical milestone rather than a near-term revenue driver. GSK's current valuation is heavily anchored to its vaccine franchise and oncology portfolio, rendering this specific CNS update immaterial to overall equity performance.",
+      "key_themes": [
+        "Pipeline Development",
+        "CNS Portfolio"
+      ]
+    },
+    {
+      "timestamp": "2026-07-24T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9687336",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on GSK's valuation or strategic trajectory, reflecting individual portfolio management rather than corporate sentiment shifts.",
+      "key_themes": [
+        "regulatory compliance",
+        "minor administrative"
+      ]
+    },
+    {
+      "timestamp": "2026-07-24T15:00:00",
+      "category": null,
+      "headline": "Admission to Trading",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/admission-to-trading/9687224",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-07-20T07:00:00",
+      "category": null,
+      "headline": "Bexsero 1-dose booster EMA file acceptance",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/bexsero-1-dose-booster-ema-file-acceptance-/9675809",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-07-17T12:00:00",
+      "category": null,
+      "headline": "Audit tender conclusion",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/audit-tender-conclusion/9675102",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-07-17T09:30:00",
+      "category": "Results",
+      "headline": "Camlipixant phase III results update",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/camlipixant-phase-iii-results-update-/9674738",
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Positive phase III data for Camlipixant addresses the unmet need for non-vitamin K antagonist oral anticoagulants (NOACs) in patients with severe renal impairment or on dialysis, a high-value niche where GSK faces limited competition. This success de-risks the late-stage pipeline and offers a potential incremental revenue stream in the cardiovascular segment, though it does not offset broader structural headwinds in the pharma sector.",
+      "key_themes": [
+        "Pipeline De-risking",
+        "Cardiovascular Innovation",
+        "Renal Indication"
+      ]
+    },
+    {
+      "timestamp": "2026-07-16T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9673287",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on GSK's valuation or strategic trajectory, especially given the company's ongoing focus on vaccine portfolio growth and pharmaceutical pipeline execution.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-07-15T13:38:00",
+      "category": null,
+      "headline": "GSK completes acquisition of Nuvalent, Inc",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/gsk-completes-acquisition-of-nuvalent-inc/9670780",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-07-14T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9668630",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on GSK's valuation or strategic trajectory, reflecting individual portfolio management rather than corporate sentiment shifts.",
+      "key_themes": [
+        "regulatory compliance",
+        "minor administrative"
+      ]
+    },
+    {
+      "timestamp": "2026-07-13T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9666294",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on GSK's valuation or strategic trajectory, reflecting normal liquidity management rather than significant insider sentiment shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-07-13T07:00:00",
+      "category": null,
+      "headline": "Positive Jemperli data in dMMR/MSI-H rectal cancer",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/positive-jemperli-data-in-dmmr-msi-h-rectal-cancer/9664237",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-07-10T11:58:00",
+      "category": "Results",
+      "headline": "Hansoh positive Phase III results for Riz-Rez",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/hansoh-positive-phase-iii-results-for-riz-rez-/9663537",
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This is a third-party development update with no direct financial or equity impact on GSK's valuation or pipeline; Hansoh Pharmaceutical's success in the respiratory space does not translate to GSK's commercial interests or strategic positioning.",
+      "key_themes": [
+        "Third-party news",
+        "Respiratory sector"
+      ]
+    },
+    {
+      "timestamp": "2026-07-09T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9661747",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealings typically reflect individual liquidity needs rather than corporate strategy, offering minimal signal for GSK's broader pharmaceutical pipeline or restructuring efforts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-07-09T10:00:00",
+      "category": null,
+      "headline": "Directorate change",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/directorate-change/9660813",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-07-01T15:00:00",
+      "category": null,
+      "headline": "Total Voting Rights",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/total-voting-rights/9647945",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-29T15:00:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/holding-s-in-company/9642509",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-29T15:00:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/transaction-in-own-shares/9642502",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-26T15:00:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/holding-s-in-company/9639944",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-24T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9635096",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible impact on GSK's valuation or strategy, especially given the company's current focus on post-spinoff execution and vaccine portfolio growth.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-06-24T14:52:00",
+      "category": null,
+      "headline": "GSK announces tender offer to acquire Nuvalent",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/gsk-announces-tender-offer-to-acquire-nuvalent/9634976",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-23T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9632737",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on GSK's valuation or strategic direction, reflecting normal liquidity management rather than significant insider sentiment shifts.",
+      "key_themes": [
+        "regulatory_compliance",
+        "minor_administrative"
+      ]
+    },
+    {
+      "timestamp": "2026-06-17T16:06:00",
+      "category": null,
+      "headline": "cUTI oral antibiotic Tebipenem approved by US FDA",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/cuti-oral-antibiotic-tebipenem-approved-by-us-fda-/9623910",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-15T15:00:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/transaction-in-own-shares/9619054",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-12T07:00:00",
+      "category": null,
+      "headline": "Momelotinib orphan drug designations for VEXAS",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/momelotinib-orphan-drug-designations-for-vexas-/9614837",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-11T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9614374",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on GSK's valuation or strategic trajectory, reflecting standard liquidity management rather than significant insider sentiment shifts.",
+      "key_themes": [
+        "regulatory_compliance",
+        "minor_administrative"
+      ]
+    },
+    {
+      "timestamp": "2026-06-10T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9612073",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on GSK's valuation or strategic direction, reflecting normal liquidity management rather than significant insider sentiment shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-06-09T17:51:00",
+      "category": null,
+      "headline": "Dr Hal Barron – New Directorship",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/dr-hal-barron-new-directorship/9609899",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-08T15:00:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/transaction-in-own-shares/9607345",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-01T15:00:00",
+      "category": null,
+      "headline": "Total Voting Rights",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/total-voting-rights/9595528",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-01T15:00:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/transaction-in-own-shares/9595519",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-05-28T09:30:00",
+      "category": null,
+      "headline": "Positive Phase 3 data for bepirovirsen",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/positive-phase-3-data-for-bepirovirsen-/9589720",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-05-27T15:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9588311",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing disclosures typically carry negligible market impact unless they signal coordinated insider sentiment shifts, which is rare for GSK given its large-cap liquidity and recent strategic focus on vaccine and consumer health spin-offs.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-05-26T15:00:00",
+      "category": null,
+      "headline": "Admission to Trading",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/admission-to-trading/9586156",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-05-26T15:00:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/transaction-in-own-shares/9586151",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    }
+  ]
+}

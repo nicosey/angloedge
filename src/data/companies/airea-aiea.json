@@ -1,0 +1,71 @@
+{
+  "name": "AIREA",
+  "ticker": "AIEA",
+  "slug": "airea-aiea",
+  "announcement_count": 5,
+  "latest_announcement": "2026-09-30T07:00:00",
+  "announcements": [
+    {
+      "timestamp": "2026-09-30T07:00:00",
+      "category": null,
+      "headline": "Investor Presentation",
+      "url": "https://www.investegate.co.uk/announcement/rns/airea--aiea/investor-presentation/9797753",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-09-22T07:00:00",
+      "category": "Director Dealing",
+      "headline": "PDMR Dealings",
+      "url": "https://www.investegate.co.uk/announcement/rns/airea--aiea/pdmr-dealings/9783242",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard PDMR disclosure with no material price sensitivity; without volume data indicating significant insider conviction or divestment, it holds negligible predictive value for AIEA's near-term equity performance.",
+      "key_themes": [
+        "regulatory_compliance",
+        "low_materiality"
+      ]
+    },
+    {
+      "timestamp": "2026-08-10T09:50:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Dealing",
+      "url": "https://www.investegate.co.uk/announcement/rns/airea--aiea/director-pdmr-dealing/9713075",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible signal for institutional investors compared to aggregate insider buying/selling trends or board-level strategy shifts.",
+      "key_themes": [
+        "regulatory_compliance",
+        "minor_administrative"
+      ]
+    },
+    {
+      "timestamp": "2026-06-16T09:49:00",
+      "category": "Director Dealing",
+      "headline": "Director / PDMR Dealing",
+      "url": "https://www.investegate.co.uk/announcement/rns/airea--aiea/director-pdmr-dealing/9620689",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealing announcements typically carry minimal market impact unless they signal a coordinated shift in insider sentiment; without volume or price context, this is classified as administrative noise rather than a strategic signal.",
+      "key_themes": [
+        "insider_activity",
+        "low_impact"
+      ]
+    },
+    {
+      "timestamp": "2026-06-08T17:10:00",
+      "category": "Director Dealing",
+      "headline": "Exercise of Options / PDMR notification",
+      "url": "https://www.investegate.co.uk/announcement/rns/airea--aiea/exercise-of-options-pdmr-notification-/9607518",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Exercise of options by a PDMR is a standard administrative event indicating no immediate change in beneficial ownership or strategic direction. Without context on the size of the exercise or the specific director's role, this lacks the materiality to influence market sentiment or valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    }
+  ]
+}

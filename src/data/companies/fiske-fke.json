@@ -1,0 +1,42 @@
+{
+  "name": "Fiske",
+  "ticker": "FKE",
+  "slug": "fiske-fke",
+  "announcement_count": 3,
+  "latest_announcement": "2026-11-13T13:25:00",
+  "announcements": [
+    {
+      "timestamp": "2026-11-13T13:25:00",
+      "category": "AGM/EGM",
+      "headline": "Result of AGM",
+      "url": "https://www.investegate.co.uk/announcement/rns/fiske--fke/result-of-agm/9875063",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-10-16T15:13:00",
+      "category": "Director Dealing",
+      "headline": "Director Dealing",
+      "url": "https://www.investegate.co.uk/announcement/rns/fiske--fke/director-dealing/9827894",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealings in the small-cap space typically signal minimal immediate market impact unless accompanied by significant volume or insider cluster activity; without transaction specifics, this remains an administrative disclosure with negligible price sensitivity.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-07-31T07:00:00",
+      "category": null,
+      "headline": "Change of Nominated Adviser",
+      "url": "https://www.investegate.co.uk/announcement/rns/fiske--fke/change-of-nominated-adviser/9697111",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    }
+  ]
+}

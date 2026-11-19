@@ -1,0 +1,72 @@
+{
+  "name": "Investacc Group Limited",
+  "ticker": "INAC",
+  "slug": "investacc-group-inac",
+  "announcement_count": 5,
+  "latest_announcement": "2026-11-03T18:30:00",
+  "announcements": [
+    {
+      "timestamp": "2026-11-03T18:30:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/investacc-group-limited--inac/holding-s-in-company/9856707",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-10-15T07:00:00",
+      "category": "Director Dealing",
+      "headline": "TR1 Notification of major holdings",
+      "url": "https://www.investegate.co.uk/announcement/rns/investacc-group-limited--inac/tr1-notification-of-major-holdings-/9823619",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard TR1 filing for major holdings disclosure, which is routine regulatory compliance rather than an active trading signal; without specific transaction details indicating significant insider buying or selling, it carries negligible immediate market impact.",
+      "key_themes": [
+        "regulatory_compliance",
+        "minor_administrative"
+      ]
+    },
+    {
+      "timestamp": "2026-10-09T07:00:00",
+      "category": "Placing",
+      "headline": "Result of Secondary Placing",
+      "url": "https://www.investegate.co.uk/announcement/rns/investacc-group-limited--inac/result-of-secondary-placing-/9814523",
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Secondary placings in the UK small-cap space often signal a need for liquidity or debt reduction rather than aggressive growth, potentially diluting existing shareholders without an immediate accretive asset acquisition.",
+      "key_themes": [
+        "capital_raise",
+        "dilution_risk"
+      ]
+    },
+    {
+      "timestamp": "2026-09-24T07:00:00",
+      "category": "Results",
+      "headline": "Interim results for six months ended 30 June 2026",
+      "url": "https://www.investegate.co.uk/announcement/rns/investacc-group-limited--inac/interim-results-for-six-months-ended-30-june-2026/9787961",
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a micro-cap investment trust with high liquidity constraints, INAC's interim results are closely watched by its niche shareholder base for dividend sustainability and NAV performance rather than broad market impact. The announcement serves as a routine health check for a specialized vehicle in the current high-yield, volatile equity environment.",
+      "key_themes": [
+        "Interim Results",
+        "Investment Trust",
+        "Micro-cap"
+      ]
+    },
+    {
+      "timestamp": "2026-08-17T07:00:00",
+      "category": "Results",
+      "headline": "Trading Update & Interim Results Publication Date",
+      "url": "https://www.investegate.co.uk/announcement/rns/investacc-group-limited--inac/trading-update-interim-results-publication-date/9723855",
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a micro-cap investment trust with historically low liquidity and high expense ratios relative to assets, this update serves as a critical sentiment check for the niche private equity/venture capital sector rather than a market-moving event.",
+      "key_themes": [
+        "Interim Results",
+        "Micro-cap Liquidity Risk"
+      ]
+    }
+  ]
+}

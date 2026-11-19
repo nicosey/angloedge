@@ -1,0 +1,42 @@
+{
+  "name": "REPUBLIC OF ANGOLA (THE)",
+  "ticker": "42RV",
+  "slug": "republic-of-angola-42rv",
+  "announcement_count": 3,
+  "latest_announcement": "2026-06-08T14:44:00",
+  "announcements": [
+    {
+      "timestamp": "2026-06-08T14:44:00",
+      "category": null,
+      "headline": "Post Stab Notice - Angola USD Jan 31 & Mar 37",
+      "url": "https://www.investegate.co.uk/announcement/rns/republic-of-angola-the---42rv/post-stab-notice-angola-usd-jan-31-mar-37/9607319",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-06-04T12:12:00",
+      "category": null,
+      "headline": "Correction of Outstanding Principal of 2028 Notes",
+      "url": "https://www.investegate.co.uk/announcement/rns/republic-of-angola-the---42rv/correction-of-outstanding-principal-of-2028-notes-/9602276",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-05-28T11:12:00",
+      "category": "Results",
+      "headline": "Tender Offer Results Announcement",
+      "url": "https://www.investegate.co.uk/announcement/rns/republic-of-angola-the---42rv/tender-offer-results-announcement/9590039",
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement concerns a sovereign debt tender offer by the Republic of Angola, not a UK-listed equity; the ticker 42RV appears to be a Bloomberg identifier for the bond rather than a company share, rendering standard UK equity impact analysis inapplicable.",
+      "key_themes": [
+        "Sovereign Debt",
+        "Irrelevant Ticker"
+      ]
+    }
+  ]
+}
