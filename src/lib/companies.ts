@@ -243,7 +243,7 @@ export function structuredData(c: Company, pageUrl: string): object {
       itemListElement: notable.map((a, i) => ({
         '@type': 'ListItem',
         position: i + 1,
-        name: a.headline,
+        name: displayHeadline(a.headline, c.name),
       })),
     });
   }
@@ -253,6 +253,64 @@ export function structuredData(c: Company, pageUrl: string): object {
 /** Escape JSON for safe embedding inside a <script> element. */
 export function jsonLd(data: object): string {
   return JSON.stringify(data).replace(/</g, '\\u003c');
+}
+
+// ── headline display ────────────────────────────────────────
+// EQS-routed headlines often start "Company Name plc: …", which repeats the
+// page title. Strip that prefix for display only — stored data is untouched.
+
+/** Legal forms: a prefix longer than the stored name must end in one of these. */
+const LEGAL_FORMS = new Set([
+  'plc', 'limited', 'ltd', 'se', 'ag', 'sa', 'sas', 'asa', 'ab', 'as', 'nv', 'oy', 'oyj',
+  'inc', 'corp', 'corporation', 'kgaa', 'aktiengesellschaft', 'spa', 'llc', 'lp', 'publ',
+]);
+
+/** Legal forms plus generic and share-class words ignored when comparing names. */
+const NAME_NOISE = new Set([
+  ...LEGAL_FORMS, 'group', 'groupe', 'holdings', 'holding', 'the', 'and', 'company', 'co',
+  'ord', 'shs', 'shares', 'n', 'e', 'cdi', 'di', 'npv', 'pref', 'reg',
+]);
+
+function nameTokens(text: string): string[] {
+  return text
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/&/g, ' and ')
+    .replace(/[^a-z0-9]+/g, ' ')
+    .split(' ')
+    .filter(Boolean);
+}
+
+const nameCore = (tokens: string[]) => tokens.filter((t) => !NAME_NOISE.has(t));
+
+/** True if a's tokens start b's (or are equal). */
+const startsWith = (a: string[], b: string[]) => a.length <= b.length && a.every((t, i) => t === b[i]);
+
+/**
+ * True when a headline prefix names the same company. Legal forms and
+ * share-class words are ignored, then either the cores are identical, the
+ * prefix is a short form of the name ("Novo" for "Novo Nordisk A/S"), or the
+ * prefix is a fuller form that still ends in a legal form ("IDEX Biometrics
+ * ASA" for "Idex Asa"). A longer prefix that doesn't end in a legal form is
+ * headline content ("Aperam - Third quarter results"), so it never matches.
+ */
+export function isSameCompany(prefix: string, companyName: string): boolean {
+  const raw = nameTokens(prefix);
+  const p = nameCore(raw), n = nameCore(nameTokens(companyName));
+  if (!p.length || !n.length || p[0].length < 2) return false;
+  if (p.length === n.length) return p.every((t, i) => t === n[i]);
+  if (p.length < n.length) return p[0].length >= 3 && startsWith(p, n);
+  const last = raw.filter((t) => t !== 'company').pop() ?? '';   // 'Inc. ("Company")'
+  return n[0].length >= 3 && startsWith(n, p) && LEGAL_FORMS.has(last);
+}
+
+/** Headline for display, without a leading "<this company>:" prefix. */
+export function displayHeadline(headline: string, companyName: string): string {
+  const m = /^\s*([^:]{2,80}?)\s*:\s+(.*)$/s.exec(headline ?? '');
+  if (!m || !isSameCompany(m[1], companyName)) return headline;
+  const rest = m[2].trim();
+  // Keep the original if nothing meaningful is left (e.g. "Acme plc: ...")
+  return /[a-z0-9]/i.test(rest.replace(/\.{3}|…/g, '')) ? rest : headline;
 }
 
 /** Index grouping key: A–Z, or '#' for names not starting with a letter. */

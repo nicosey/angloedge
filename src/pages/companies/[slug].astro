@@ -3,7 +3,7 @@ import Base from '../../layouts/Base.astro';
 import ImpactBar from '../../components/ImpactBar.astro';
 import {
   getAllCompanies, buildTimeline, dateSpan, inactiveSince, showInsight, normaliseThemes,
-  parseTimestamp, displayDate, formatDay, formatLong, formatTime, formatDayRange,
+  parseTimestamp, displayDate, displayHeadline, formatDay, formatLong, formatTime, formatDayRange,
   pageTitle, metaDescription, structuredData, jsonLd,
   type Company,
 } from '../../lib/companies';
@@ -78,7 +78,7 @@ const coverage = first && last ? formatDayRange(first, last) : '—';
                   <time datetime={a.timestamp}>{d ? `${formatDay(d)} · ${formatTime(d)}` : a.timestamp}</time>
                   {a.category && <span class="font-semibold text-brass">{a.category}</span>}
                 </div>
-                <h3 class="font-serif text-lg font-bold text-navy leading-tight mt-1.5">{a.headline}</h3>
+                <h3 class="font-serif text-lg font-bold text-navy leading-tight mt-1.5">{displayHeadline(a.headline, company.name)}</h3>
                 {a.enriched && a.impact_score !== null && <ImpactBar score={a.impact_score} />}
                 {showInsight(a) && (
                   <p class="mt-3 text-gray-700 text-sm leading-relaxed max-w-prose">{a.insight}</p>
@@ -97,7 +97,7 @@ const coverage = first && last ? formatDayRange(first, last) : '—';
           if (item.kind === 'compact') {
             const a = item.a;
             return (
-              <li class="co-r py-3 font-sans text-sm"><time datetime={a.timestamp}>{displayDate(a.timestamp)}</time><span>{a.headline}{a.category && <b> · {a.category}</b>}</span></li>
+              <li class="co-r py-3 font-sans text-sm"><time datetime={a.timestamp}>{displayDate(a.timestamp)}</time><span>{displayHeadline(a.headline, company.name)}{a.category && <b> · {a.category}</b>}</span></li>
             );
           }
 
