@@ -2,9 +2,42 @@
   "name": "Kier Group",
   "ticker": "KIE",
   "slug": "kier-group-kie",
-  "announcement_count": 55,
-  "latest_announcement": "2026-11-18T18:15:00",
+  "announcement_count": 58,
+  "latest_announcement": "2026-11-20T18:21:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-20T18:21:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/kier-group--kie/transaction-in-own-shares/9887351",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-20T18:20:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/kier-group--kie/holding-s-in-company/9887350",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-19T17:20:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/kier-group--kie/director-pdmr-shareholding/9885045",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine PDMR disclosures in the UK construction sector are typically administrative with negligible price impact unless accompanied by significant volume or unusual timing relative to earnings releases.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
     {
       "timestamp": "2026-11-18T18:15:00",
       "category": "Director Dealing",

@@ -2,9 +2,52 @@
   "name": "HSBC Holdings",
   "ticker": "HSBA",
   "slug": "hsbc-holdings-hsba",
-  "announcement_count": 123,
-  "latest_announcement": "2026-11-19T15:12:00",
+  "announcement_count": 127,
+  "latest_announcement": "2026-11-20T18:01:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-20T18:01:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/transaction-in-own-shares/9887341",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-20T16:22:00",
+      "category": "Director Dealing",
+      "headline": "TR1 Notification of major interest in shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/tr1-notification-of-major-interest-in-shares/9887266",
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard regulatory filing for major shareholding changes under the UK Disclosure Guidance and Transparency Rules (DTR), common in large-cap banking stocks where institutional flows or executive holdings shift slightly; it carries no intrinsic signal regarding HSBC's operational performance or strategic direction.",
+      "key_themes": [
+        "Regulatory Compliance",
+        "Shareholding Structure"
+      ]
+    },
+    {
+      "timestamp": "2026-11-20T11:00:00",
+      "category": null,
+      "headline": "Result of Tender Offer",
+      "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/result-of-tender-offer/9886595",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-19T18:19:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/transaction-in-own-shares/9885078",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-19T15:12:00",
       "category": null,

@@ -2,9 +2,32 @@
   "name": "Smart (J) & Co.",
   "ticker": "SMJ",
   "slug": "smart-j-smj",
-  "announcement_count": 8,
-  "latest_announcement": "2026-10-12T13:56:00",
+  "announcement_count": 10,
+  "latest_announcement": "2026-11-20T09:53:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-20T09:53:00",
+      "category": "Dividend",
+      "headline": "Dividend Declaration",
+      "url": "https://www.investegate.co.uk/announcement/rns/smart-j-co---smj/dividend-declaration/9886492",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-20T09:45:00",
+      "category": "Results",
+      "headline": "Preliminary Results",
+      "url": "https://www.investegate.co.uk/announcement/rns/smart-j-co---smj/preliminary-results/9886483",
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a micro-cap with limited liquidity, this results release is notable for providing essential visibility into the company's operational health and cash position, though it lacks the transformative catalysts required for significant price discovery.",
+      "key_themes": [
+        "Results",
+        "Micro-cap"
+      ]
+    },
     {
       "timestamp": "2026-10-12T13:56:00",
       "category": null,
