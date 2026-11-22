@@ -78,11 +78,7 @@ const coverage = first && last ? formatDayRange(first, last) : '—';
                   <time datetime={a.timestamp}>{d ? `${formatDay(d)} · ${formatTime(d)}` : a.timestamp}</time>
                   {a.category && <span class="font-semibold text-brass">{a.category}</span>}
                 </div>
-                <h3 class="font-serif text-lg font-bold text-navy leading-tight mt-1.5">
-                  {a.url
-                    ? <a href={a.url} target="_blank" rel="noopener" class="hover:text-brass transition-colors">{a.headline}<span class="sr-only"> (opens Investegate in a new tab)</span></a>
-                    : a.headline}
-                </h3>
+                <h3 class="font-serif text-lg font-bold text-navy leading-tight mt-1.5">{a.headline}</h3>
                 {a.enriched && a.impact_score !== null && <ImpactBar score={a.impact_score} />}
                 {showInsight(a) && (
                   <p class="mt-3 text-gray-700 text-sm leading-relaxed max-w-prose">{a.insight}</p>
@@ -101,11 +97,11 @@ const coverage = first && last ? formatDayRange(first, last) : '—';
           if (item.kind === 'compact') {
             const a = item.a;
             return (
-              <li class="co-r py-3 font-sans text-sm"><time datetime={a.timestamp}>{displayDate(a.timestamp)}</time><span>{a.headline}</span></li>
+              <li class="co-r py-3 font-sans text-sm"><time datetime={a.timestamp}>{displayDate(a.timestamp)}</time><span>{a.headline}{a.category && <b> · {a.category}</b>}</span></li>
             );
           }
 
-          // Summary only: routine filings are never linked, grouped or not
+          // Summary only: individual routine filings are not listed
           return (
             <li class="flex items-start gap-4 py-3 font-sans text-sm">
               <time datetime={item.items[0].timestamp} class="w-24 shrink-0 text-gray-400 tabular-nums">{displayDate(item.items[0].timestamp)}</time>
@@ -121,8 +117,7 @@ const coverage = first && last ? formatDayRange(first, last) : '—';
     </section>
 
     <p class="mt-10 font-sans text-xs text-gray-500 leading-relaxed max-w-prose">
-      Headlines link to the original announcement on Investegate. Impact scores, insights and themes are
-      AngloEdge's own analysis and are not investment advice.
+      Impact scores, insights and themes are AngloEdge's own analysis and are not investment advice.
     </p>
 
     <div class="mt-8">
@@ -137,4 +132,5 @@ const coverage = first && last ? formatDayRange(first, last) : '—';
   .co-r { @apply flex gap-4; }
   .co-r > time { @apply w-24 shrink-0 text-gray-400 tabular-nums; }
   .co-r > span { @apply min-w-0 break-words text-gray-600; }
+  .co-r > span > b { @apply font-normal text-brass; }
 </style>

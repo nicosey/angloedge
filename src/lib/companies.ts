@@ -1,7 +1,7 @@
 // Company pages: data loading and display rules for the per-company RNS files
 // exported by the pipeline into src/data/. Fully static — read at build time.
 //
-// Only our own fields are rendered: timestamp, category, headline, link, and
+// Only our own fields are rendered: timestamp, category, headline, and
 // our generated score/insight/themes. Announcement body text is never stored
 // here and must never be rendered or synthesised.
 
@@ -223,7 +223,7 @@ export function metaDescription(c: Company): string {
 }
 
 export function structuredData(c: Company, pageUrl: string): object {
-  const notable = c.announcements.filter((a) => !routineType(a) && a.url).slice(0, ITEMLIST_MAX);
+  const notable = c.announcements.filter((a) => !routineType(a)).slice(0, ITEMLIST_MAX);
   const graph: object[] = [
     {
       '@type': 'Corporation',
@@ -244,7 +244,6 @@ export function structuredData(c: Company, pageUrl: string): object {
         '@type': 'ListItem',
         position: i + 1,
         name: a.headline,
-        url: a.url,
       })),
     });
   }
