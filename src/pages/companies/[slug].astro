@@ -105,27 +105,15 @@ const coverage = first && last ? formatDayRange(first, last) : '—';
             );
           }
 
+          // Summary only: individual routine filings are deliberately not listed or linked
           return (
-            <li class="py-3">
-              <details class="group font-sans text-sm">
-                <summary class="flex cursor-pointer list-none items-start gap-4 [&::-webkit-details-marker]:hidden">
-                  <time datetime={item.items[0].timestamp} class="w-24 shrink-0 text-gray-400 tabular-nums">{displayDate(item.items[0].timestamp)}</time>
-                  <span class="min-w-0 flex-1 text-gray-600">
-                    <span class="font-semibold text-navy">{item.items.length} routine filings</span>
-                    {item.range && <span class="text-gray-500"> · {item.range}</span>}
-                    <span class="block text-gray-500 mt-0.5">{item.counts.map(([label, n]) => `${n} ${label}`).join(' · ')}</span>
-                  </span>
-                  <svg class="mt-0.5 h-4 w-4 shrink-0 text-brass transition-transform group-open:rotate-90" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-                  </svg>
-                </summary>
-                {/* Minimal markup (styles in co-rows below): runs can hold thousands of filings */}
-                <ol class="co-rows mt-3 ml-1 border-l border-gray-200 pl-4 space-y-2">
-                  {item.items.map((a) => (
-                    <li><time datetime={a.timestamp}>{displayDate(a.timestamp)}</time>{a.url ? <a href={a.url} target="_blank" rel="noopener">{a.headline}</a> : <span>{a.headline}</span>}</li>
-                  ))}
-                </ol>
-              </details>
+            <li class="flex items-start gap-4 py-3 font-sans text-sm">
+              <time datetime={item.items[0].timestamp} class="w-24 shrink-0 text-gray-400 tabular-nums">{displayDate(item.items[0].timestamp)}</time>
+              <span class="min-w-0 flex-1 text-gray-600">
+                <span class="font-semibold text-navy">{item.items.length} routine filings</span>
+                {item.range && <span class="text-gray-500"> · {item.range}</span>}
+                <span class="block text-gray-500 mt-0.5">{item.counts.map(([label, n]) => `${n} ${label}`).join(' · ')}</span>
+              </span>
             </li>
           );
         })}
@@ -145,11 +133,10 @@ const coverage = first && last ? formatDayRange(first, last) : '—';
 </Base>
 
 <style is:global>
-  /* Compact routine-filing rows — kept class-free in markup because some
-     companies have thousands of them */
-  .co-r, .co-rows > li { @apply flex gap-4; }
-  .co-r > time, .co-rows > li > time { @apply w-24 shrink-0 text-gray-400 tabular-nums; }
-  .co-r > a, .co-r > span, .co-rows > li > a, .co-rows > li > span { @apply min-w-0 break-words text-gray-600; }
-  .co-r > a, .co-rows > li > a { @apply transition-colors; }
-  .co-r > a:hover, .co-rows > li > a:hover { @apply text-navy; }
+  /* Compact (lone) routine-filing rows — kept class-free in markup */
+  .co-r { @apply flex gap-4; }
+  .co-r > time { @apply w-24 shrink-0 text-gray-400 tabular-nums; }
+  .co-r > a, .co-r > span { @apply min-w-0 break-words text-gray-600; }
+  .co-r > a { @apply transition-colors; }
+  .co-r > a:hover { @apply text-navy; }
 </style>
