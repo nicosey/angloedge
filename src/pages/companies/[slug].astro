@@ -101,11 +101,11 @@ const coverage = first && last ? formatDayRange(first, last) : '—';
           if (item.kind === 'compact') {
             const a = item.a;
             return (
-              <li class="co-r py-3 font-sans text-sm"><time datetime={a.timestamp}>{displayDate(a.timestamp)}</time>{a.url ? <a href={a.url} target="_blank" rel="noopener">{a.headline}</a> : <span>{a.headline}</span>}</li>
+              <li class="co-r py-3 font-sans text-sm"><time datetime={a.timestamp}>{displayDate(a.timestamp)}</time><span>{a.headline}</span></li>
             );
           }
 
-          // Summary only: individual routine filings are deliberately not listed or linked
+          // Summary only: routine filings are never linked, grouped or not
           return (
             <li class="flex items-start gap-4 py-3 font-sans text-sm">
               <time datetime={item.items[0].timestamp} class="w-24 shrink-0 text-gray-400 tabular-nums">{displayDate(item.items[0].timestamp)}</time>
@@ -133,10 +133,8 @@ const coverage = first && last ? formatDayRange(first, last) : '—';
 </Base>
 
 <style is:global>
-  /* Compact (lone) routine-filing rows — kept class-free in markup */
+  /* Lone routine-filing rows — routine filings are never linked */
   .co-r { @apply flex gap-4; }
   .co-r > time { @apply w-24 shrink-0 text-gray-400 tabular-nums; }
-  .co-r > a, .co-r > span { @apply min-w-0 break-words text-gray-600; }
-  .co-r > a { @apply transition-colors; }
-  .co-r > a:hover { @apply text-navy; }
+  .co-r > span { @apply min-w-0 break-words text-gray-600; }
 </style>
