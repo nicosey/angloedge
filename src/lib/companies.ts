@@ -10,6 +10,8 @@ export interface Announcement {
   category: string | null;
   headline: string;
   url: string | null;
+  /** Routine filing label from the pipeline (routine_filings.py), or null. */
+  routine_type: string | null;
   enriched: boolean;
   impact_score: number | null;
   insight: string | null;
@@ -44,22 +46,9 @@ export const INACTIVE_AFTER_DAYS = 90;
 /** Cap on announcements listed in the schema.org ItemList. */
 export const ITEMLIST_MAX = 100;
 
-/**
- * Routine filing types, first match wins. A routine announcement that was
- * enriched with a score >= INSIGHT_MIN_SCORE is treated as substantive.
- * Deliberately excludes admission to trading, gearing, EQS-PVR and block
- * listings — admissions in particular are substantive events.
- */
-export const ROUTINE_TYPES: { label: string; pattern: RegExp }[] = [
-  { label: 'Transaction in Own Shares', pattern: /transactions? in own shares/i },
-  { label: 'Holding(s) in Company',     pattern: /holding\(?s?\)? in company|notification of major holdings|\btr-?1\b/i },
-  { label: 'Total Voting Rights',       pattern: /total voting rights/i },
-  { label: 'Form 8.3',                  pattern: /form 8\.3/i },
-  { label: 'Form 8 (DD)',               pattern: /form 8 \(dd\)/i },
-  { label: 'Form 38.5',                 pattern: /(?:rule|form)\s*-?\s*38\.5/i },
-  { label: 'Final Terms',               pattern: /final terms/i },
-  { label: 'Disclosure Table',          pattern: /disclosure table/i },
-];
+// Routine filing classification lives in the pipeline (routine_filings.py) and
+// arrives as each announcement's routine_type — there are no patterns here, so
+// the site and the enrichment step can't disagree.
 
 // ── data ────────────────────────────────────────────────────
 
@@ -141,11 +130,13 @@ export function normaliseThemes(themes: string[] | null): string[] {
   return out;
 }
 
-/** Routine type label for an announcement, or null if it is substantive. */
+/**
+ * Routine type label for display grouping, or null if shown in full. A routine
+ * filing that was enriched with a score >= INSIGHT_MIN_SCORE is shown in full.
+ */
 export function routineType(a: Announcement): string | null {
   if (a.enriched && (a.impact_score ?? 0) >= INSIGHT_MIN_SCORE) return null;
-  const hit = ROUTINE_TYPES.find((t) => t.pattern.test(a.headline ?? ''));
-  return hit ? hit.label : null;
+  return a.routine_type ?? null;
 }
 
 export type TimelineItem =
