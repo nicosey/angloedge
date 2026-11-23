@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Notice of Redemption 3.529% bonds due 2042",
       "url": "https://www.investegate.co.uk/announcement/rns/eversholt-funding-plc--77we/notice-of-redemption-3-529-bonds-due-2042/9694724",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Notice of Redemption 2.742% bonds due 2040",
       "url": "https://www.investegate.co.uk/announcement/rns/eversholt-funding-plc--77we/notice-of-redemption-2-742-bonds-due-2040/9628745",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,10 +32,14 @@
       "category": null,
       "headline": "Update on Capital Structure",
       "url": "https://www.investegate.co.uk/announcement/rns/eversholt-funding-plc--77we/update-on-capital-structure/9604103",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a SPAC vehicle with no underlying operating assets, this update likely pertains to administrative restructuring or extension of the business combination deadline rather than operational performance, carrying minimal intrinsic value impact for shareholders.",
+      "key_themes": [
+        "SPAC",
+        "Corporate Governance"
+      ]
     }
   ]
 }

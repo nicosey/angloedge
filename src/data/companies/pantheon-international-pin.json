@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/transaction-in-own-shares/9885165",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/holding-s-in-company/9876981",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/holding-s-in-company/9872339",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +43,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/total-voting-rights/9853630",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,16 +54,21 @@
       "category": null,
       "headline": "Extension of Credit Facility",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/extension-of-credit-facility/9852032",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative extension of the revolving credit facility, common for private equity firms to maintain liquidity flexibility; it carries no immediate strategic implication or market-moving risk.",
+      "key_themes": [
+        "liquidity",
+        "administrative"
+      ]
     },
     {
       "timestamp": "2026-10-27T09:48:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/holding-s-in-company/9843550",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,16 +79,21 @@
       "category": null,
       "headline": "Monthly Performance Update",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/monthly-performance-update/9842513",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine monthly performance updates are standard operational disclosures for private equity managers like Pantheon, offering no new material information to alter valuation or sentiment.",
+      "key_themes": [
+        "routine disclosure",
+        "private equity"
+      ]
     },
     {
       "timestamp": "2026-10-26T07:00:00",
       "category": null,
       "headline": "Kepler Trust Intelligence: New Research",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/kepler-trust-intelligence-new-research/9840057",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,16 +104,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/result-of-agm/9823155",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director re-elections and auditor appointments rather than transformative strategic shifts or capital allocation changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-10-05T09:10:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/holding-s-in-company/9806449",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -110,6 +129,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/total-voting-rights/9801645",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -120,16 +140,21 @@
       "category": null,
       "headline": "Capital Markets Event Materials Available",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/capital-markets-event-materials-available/9801571",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative release facilitating investor relations rather than conveying new financial data or strategic shifts; such materials are routine for private equity firms like Pantheon to support ongoing dialogue but do not inherently signal immediate value creation or risk.",
+      "key_themes": [
+        "Investor Relations",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-25T10:45:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/holding-s-in-company/9791688",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -140,16 +165,21 @@
       "category": null,
       "headline": "Monthly Performance Update",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/monthly-performance-update-/9790440",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine monthly performance updates are standard operational disclosures for Pantheon with no material price-sensitive information or strategic shifts implied.",
+      "key_themes": [
+        "routine disclosure",
+        "private equity"
+      ]
     },
     {
       "timestamp": "2026-09-04T07:00:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/transaction-in-own-shares/9755135",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -160,6 +190,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/total-voting-rights/9749155",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -170,16 +201,21 @@
       "category": null,
       "headline": "Monthly Performance Update",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/monthly-performance-update-/9740075",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine monthly performance updates are standard operational disclosures for Pantheon with no material impact on valuation or strategy, reflecting the firm's established reporting cadence rather than any new market-moving catalyst.",
+      "key_themes": [
+        "routine_disclosure",
+        "private_equity"
+      ]
     },
     {
       "timestamp": "2026-08-25T15:28:00",
       "category": null,
       "headline": "Investor Presentation via Investor Meet Company",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/investor-presentation-via-investor-meet-company/9739630",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -190,6 +226,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/transaction-in-own-shares/9737657",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -200,6 +237,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/transaction-in-own-shares/9733024",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -210,6 +248,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/transaction-in-own-shares/9726167",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -220,6 +259,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/transaction-in-own-shares/9721520",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -230,6 +270,7 @@
       "category": null,
       "headline": "QuotedData's In The HotSeat",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/quoteddata-s-in-the-hotseat/9720885",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -240,16 +281,22 @@
       "category": "Results",
       "headline": "Annual Financial Report and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/annual-financial-report-and-notice-of-agm-/9702588",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a key player in the private equity infrastructure, this annual report provides critical visibility into capital deployment velocity and fee income stability amidst rising interest rates; however, without specific earnings beats or guidance changes, it remains a standard cyclical update rather than a market-moving event.",
+      "key_themes": [
+        "Private Equity",
+        "Annual Results",
+        "Capital Deployment"
+      ]
     },
     {
       "timestamp": "2026-08-03T10:21:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/total-voting-rights/9700983",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -260,16 +307,21 @@
       "category": null,
       "headline": "Monthly Performance Update",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/monthly-performance-update/9690130",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine monthly performance updates are standard operational disclosures for Pantheon with no material impact on valuation or strategy, reflecting the firm's established reporting cadence rather than any new market-moving catalyst.",
+      "key_themes": [
+        "routine_disclosure",
+        "private_equity"
+      ]
     },
     {
       "timestamp": "2026-07-03T07:00:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/transaction-in-own-shares/9650635",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -280,16 +332,21 @@
       "category": null,
       "headline": "Monthly Performance Update",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/monthly-performance-update/9648591",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine monthly performance updates are standard operational disclosures for Pantheon International that provide no new material information regarding strategy, capital allocation, or valuation drivers.",
+      "key_themes": [
+        "routine_disclosure",
+        "private_equity"
+      ]
     },
     {
       "timestamp": "2026-07-01T09:55:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/total-voting-rights/9647056",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -300,6 +357,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/holding-s-in-company/9600560",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -310,6 +368,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/holding-s-in-company/9599658",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -320,6 +379,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/director-pdmr-shareholding/9595288",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on Pantheon's valuation or strategy, reflecting normal liquidity management rather than significant insider sentiment shifts.",
@@ -333,6 +393,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/total-voting-rights/9594928",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -343,10 +404,14 @@
       "category": null,
       "headline": "Monthly Performance Update",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-international--pin/monthly-performance-update-/9591068",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine monthly performance updates are standard operational disclosures for private equity managers like Pantheon and do not alter the fundamental valuation thesis or signal material changes in strategy.",
+      "key_themes": [
+        "routine_disclosure",
+        "private_equity"
+      ]
     }
   ]
 }

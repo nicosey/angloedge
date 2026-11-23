@@ -10,26 +10,35 @@
       "category": null,
       "headline": "Grant of Restrictive Share Units",
       "url": "https://www.investegate.co.uk/announcement/rns/triad-group--trd/grant-of-restrictive-share-units/9778692",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard executive compensation mechanism typical for UK AIM-listed firms like Triad Group to align management interests with shareholders; it carries no immediate financial or strategic weight compared to operational results.",
+      "key_themes": [
+        "Executive Compensation",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-07-30T12:00:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/triad-group--trd/result-of-agm/9696340",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which typically rubber-stamps routine matters like director reappointments and auditor appointments without altering the company's strategic trajectory or valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-07-20T12:00:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/triad-group--trd/total-voting-rights/9677339",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +49,7 @@
       "category": "Dividend",
       "headline": "Notice of AGM and Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/triad-group--trd/notice-of-agm-and-dividend-declaration/9656691",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +60,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/triad-group--trd/director-pdmr-shareholding/9650324",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions which carries minimal intrinsic signal for Triad Group's fundamental valuation or near-term operational outlook.",
@@ -63,6 +74,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/triad-group--trd/director-pdmr-shareholding/9650213",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible pricing impact for the broader market. Without context on volume or direction (buy/sell), this remains a routine administrative filing rather than a strategic signal.",
@@ -76,6 +88,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/triad-group--trd/total-voting-rights/9649541",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

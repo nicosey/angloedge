@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/tracsis--trcs/total-voting-rights/9854325",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/tracsis--trcs/holding-s-in-company/9850768",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/tracsis--trcs/holding-s-in-company/9837469",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +43,7 @@
       "category": "Results",
       "headline": "Notice of Results Presentations",
       "url": "https://www.investegate.co.uk/announcement/rns/tracsis--trcs/notice-of-results-presentations-/9832871",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the date for results presentations rather than disclosing financial data itself; while essential for investor relations, it lacks immediate catalyst value compared to substantive earnings releases or strategic updates.",
@@ -53,6 +57,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR/PCA Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/tracsis--trcs/director-pdmr-pca-shareholding-/9800417",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of director shareholding changes which provides no new fundamental data on Tracsis's operational performance or valuation drivers in the transport tech sector.",
@@ -66,16 +71,21 @@
       "category": null,
       "headline": "Change of Registrar",
       "url": "https://www.investegate.co.uk/announcement/rns/tracsis--trcs/change-of-registrar/9757603",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the transfer of share registry services, likely to Computershare or Link Group, which has no bearing on Tracsis's operational performance or valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-01T07:00:00",
       "category": null,
       "headline": "Block Listing Six Monthly Return",
       "url": "https://www.investegate.co.uk/announcement/rns/tracsis--trcs/block-listing-six-monthly-return/9747527",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -86,26 +96,36 @@
       "category": null,
       "headline": "Award of Options",
       "url": "https://www.investegate.co.uk/announcement/rns/tracsis--trcs/award-of-options-/9742150",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding the grant of share options to staff, likely part of an existing long-term incentive plan rather than a new strategic initiative. Such routine equity compensation events have negligible immediate impact on Tracsis's valuation or operational trajectory.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Compensation"
+      ]
     },
     {
       "timestamp": "2026-08-24T07:00:00",
       "category": "Acquisition",
       "headline": "Trading Update and Completion of Acquisition",
       "url": "https://www.investegate.co.uk/announcement/rns/tracsis--trcs/trading-update-and-completion-of-acquisition/9735245",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Completion of acquisition signals aggressive inorganic growth strategy for Tracsis to expand its digital fleet management capabilities, aligning with the broader sector trend of consolidation among smaller UK tech firms seeking scale.",
+      "key_themes": [
+        "M&A",
+        "Digital Transformation",
+        "Scale"
+      ]
     },
     {
       "timestamp": "2026-08-03T12:35:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/tracsis--trcs/director-pdmr-shareholding/9701605",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in the UK transport tech sector typically signal internal alignment rather than strategic shifts, especially given Tracsis's focus on digital transformation contracts and recent market consolidation trends.",
@@ -119,10 +139,15 @@
       "category": "Acquisition",
       "headline": "Proposed acquisition of Mistral Data Limited",
       "url": "https://www.investegate.co.uk/announcement/rns/tracsis--trcs/proposed-acquisition-of-mistral-data-limited/9692321",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "This acquisition signals Tracsis's aggressive pivot towards data monetisation and AI-driven analytics, aligning with the broader transport tech sector's shift from pure software provision to high-margin data services. It mitigates reliance on cyclical government contracts by diversifying revenue streams through proprietary traffic data assets.",
+      "key_themes": [
+        "Data Monetisation",
+        "Strategic Pivot",
+        "AI Integration"
+      ]
     }
   ]
 }

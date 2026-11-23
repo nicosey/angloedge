@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Total Voting Rights and Capital",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-technology-general-vct--aatg/total-voting-rights-and-capital/9851407",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Transaction",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-technology-general-vct--aatg/director-pdmr-transaction/9850432",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements in VCTs typically reflect personal portfolio management rather than corporate strategy, offering negligible signal for share price direction given the illiquid nature of the asset class.",
@@ -34,6 +36,7 @@
       "category": null,
       "headline": "Issue of Equity and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-technology-general-vct--aatg/issue-of-equity-and-total-voting-rights-/9850429",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -44,6 +47,7 @@
       "category": null,
       "headline": "Issue of a Supplementary Prospectus",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-technology-general-vct--aatg/issue-of-a-supplementary-prospectus/9839610",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -54,6 +58,7 @@
       "category": null,
       "headline": "Total Voting Rights and Capital",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-technology-general-vct--aatg/total-voting-rights-and-capital/9799784",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -64,16 +69,22 @@
       "category": "Results",
       "headline": "Albion Technology & General VCT PLC: Half-yearly Financial Report",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-technology-general-vct--aatg/albion-technology-general-vct-plc-half-yea-/9784766",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a VCT, the primary market driver is dividend yield sustainability rather than capital growth; this report confirms the fund's ability to maintain tax-efficient income distributions amidst current high-interest-rate pressures on portfolio valuations.",
+      "key_themes": [
+        "VCT Dividends",
+        "Interim Results",
+        "Tax-Efficient Income"
+      ]
     },
     {
       "timestamp": "2026-08-28T16:00:00",
       "category": null,
       "headline": "Total Voting Rights and Capital",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-technology-general-vct--aatg/total-voting-rights-and-capital/9746427",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -84,16 +95,22 @@
       "category": null,
       "headline": "Publication of Prospectus",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-technology-general-vct--aatg/publication-of-prospectus/9728152",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing for an existing VCT product launch rather than a corporate event; it signals capital raising intent but carries no immediate operational impact on the listed entity's balance sheet or management.",
+      "key_themes": [
+        "VCT",
+        "Capital Raising",
+        "Regulatory Filing"
+      ]
     },
     {
       "timestamp": "2026-07-31T16:00:00",
       "category": null,
       "headline": "Total Voting Rights and Capital",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-technology-general-vct--aatg/total-voting-rights-and-capital/9699275",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -104,6 +121,7 @@
       "category": null,
       "headline": "Notification of Admission of Further Securities to Trading (PRM 1.6.4R) and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-technology-general-vct--aatg/notification-of-admission-of-further-securiti-/9645254",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -114,16 +132,22 @@
       "category": null,
       "headline": "Statement regarding the proposed issue of a prospectus",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-technology-general-vct--aatg/statement-regarding-the-proposed-issue-of-a-p-/9627696",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The issuance of a prospectus signals an imminent capital raise or listing event for Albion Technology & General VCT, likely aimed at replenishing investable assets in the UK venture capital sector amid tightening liquidity. This is a standard but critical operational step for VCTs to maintain their investment mandate and meet FCA requirements.",
+      "key_themes": [
+        "Capital Raise",
+        "VCT Operations",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-06-12T11:19:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-technology-general-vct--aatg/director-pdmr-shareholding/9616246",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions, which typically carries negligible market impact unless the volume is exceptional or signals a coordinated shift in insider sentiment. For a VCT, such routine filings are administrative necessities rather than indicators of strategic direction or valuation changes.",
@@ -137,6 +161,7 @@
       "category": null,
       "headline": "Issue of Equity and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-technology-general-vct--aatg/issue-of-equity-and-total-voting-rights/9616236",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -147,26 +172,36 @@
       "category": "AGM/EGM",
       "headline": "AGM Statement",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-technology-general-vct--aatg/agm-statement/9609930",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative filing for a VCT AGM with no substantive corporate actions or strategic shifts indicated, reflecting standard governance compliance rather than market-moving events.",
+      "key_themes": [
+        "Corporate Governance",
+        "VCT Administration"
+      ]
     },
     {
       "timestamp": "2026-06-09T11:43:00",
       "category": "Results",
       "headline": "Albion Technology & General VCT PLC: Interim Management Statement",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-technology-general-vct--aatg/albion-technology-general-vct-plc-interim-/9609358",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a VCT, this interim statement primarily reflects portfolio valuation changes and liquidity management rather than operational earnings; in the current UK private equity climate, such updates are critical for investors assessing NAV stability and dividend sustainability amidst broader market volatility.",
+      "key_themes": [
+        "VCT",
+        "Interim Results",
+        "NAV"
+      ]
     },
     {
       "timestamp": "2026-05-29T16:00:00",
       "category": null,
       "headline": "Total Voting Rights and Capital",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-technology-general-vct--aatg/total-voting-rights-and-capital/9592869",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

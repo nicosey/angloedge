@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/harvest-minerals-limited-di---hmi/interim-results/9798450",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap exploration stage company with no revenue, interim results primarily serve as a cash burn update rather than a performance indicator; the market focus will be on liquidity runway and dilution risk amidst the broader junior mining sector's funding constraints.",
@@ -24,36 +25,50 @@
       "category": null,
       "headline": "Technical Cooperation Agreement",
       "url": "https://www.investegate.co.uk/announcement/rns/harvest-minerals-limited-di---hmi/technical-cooperation-agreement/9770302",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Technical cooperation agreements are standard operational steps for junior miners to validate resource potential rather than immediate commercial milestones; without disclosed funding or offtake commitments, the market impact is limited to speculative exploration updates.",
+      "key_themes": [
+        "Exploration",
+        "Strategic Partnership"
+      ]
     },
     {
       "timestamp": "2026-09-14T09:31:00",
       "category": "AGM/EGM",
       "headline": "Results of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/harvest-minerals-limited-di---hmi/results-of-agm/9770245",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of routine shareholder votes at Harvest Minerals' AGM, which typically involves re-electing directors and approving fees rather than strategic shifts or capital raises.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-09-01T08:30:00",
       "category": "Acquisition",
       "headline": "Completed acquisition of Scanty Mineracao & TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/harvest-minerals-limited-di---hmi/completed-acquisition-of-scanty-mineracao-tvr/9748850",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This acquisition expands Harvest Minerals' lithium portfolio in Brazil, aligning with the broader sector trend of Western miners securing upstream supply to meet EV battery demand; however, the strategic value depends heavily on the grade and processing costs of the Scanty asset relative to current LME lithium carbonate prices.",
+      "key_themes": [
+        "Lithium",
+        "Brazilian Assets",
+        "Supply Chain Security"
+      ]
     },
     {
       "timestamp": "2026-08-14T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/harvest-minerals-limited-di---hmi/notice-of-agm/9721567",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -64,16 +79,22 @@
       "category": "Acquisition",
       "headline": "Acquisition of Brazilian Rare Earth Portfolio",
       "url": "https://www.investegate.co.uk/announcement/rns/harvest-minerals-limited-di---hmi/acquisition-of-brazilian-rare-earth-portfolio-/9679229",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "This acquisition diversifies Harvest Minerals' asset base into the high-growth rare earths sector, aligning with global supply chain decoupling trends and increasing demand for critical minerals in EV and defence applications.",
+      "key_themes": [
+        "Rare Earths",
+        "Supply Chain Security",
+        "Strategic Expansion"
+      ]
     },
     {
       "timestamp": "2026-06-30T08:21:00",
       "category": "Results",
       "headline": "2025 Final Results",
       "url": "https://www.investegate.co.uk/announcement/rns/harvest-minerals-limited-di---hmi/2025-final-results-/9644113",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a junior explorer with no production history, final results typically confirm cash burn rather than operational milestones; without evidence of a major discovery or financing event, the market impact remains limited to routine liquidity monitoring.",

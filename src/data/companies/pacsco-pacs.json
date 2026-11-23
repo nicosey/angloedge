@@ -10,66 +10,92 @@
       "category": null,
       "headline": "Restoration - PACSCo Limited",
       "url": "https://www.investegate.co.uk/announcement/rns/pacsco-limited--pacs/restoration-pacsco-limited/9855274",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "A restoration announcement is a standard administrative procedure to reinstate a delisted company's listing on the London Stock Exchange, carrying no intrinsic financial value or operational change.",
+      "key_themes": [
+        "administrative",
+        "listing_status"
+      ]
     },
     {
       "timestamp": "2026-10-01T07:30:00",
       "category": null,
       "headline": "Suspension - PACSCo Limited",
       "url": "https://www.investegate.co.uk/announcement/rns/pacsco-limited--pacs/suspension-pacsco-limited/9801097",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Suspension of a AIM-listed company typically signals severe liquidity issues, regulatory non-compliance, or imminent insolvency proceedings, effectively freezing shareholder value and indicating a critical failure in corporate governance.",
+      "key_themes": [
+        "Liquidity Crisis",
+        "Regulatory Risk"
+      ]
     },
     {
       "timestamp": "2026-09-29T12:30:00",
       "category": null,
       "headline": "2026 Annual Accounts Timetable",
       "url": "https://www.investegate.co.uk/announcement/rns/pacsco-limited--pacs/2026-annual-accounts-timetable/9796822",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure confirming the publication schedule for annual accounts, which carries no immediate price-sensitive information or strategic shift.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-08-07T08:54:00",
       "category": null,
       "headline": "Completion of Disposal and Rule 15 Classification",
       "url": "https://www.investegate.co.uk/announcement/rns/pacsco-limited--pacs/completion-of-disposal-and-rule-15-classification/9710623",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms the administrative closure of a prior disposal transaction, likely resulting in a cash gain that will boost net assets but offering no new organic growth catalysts for PACSCo's core IT infrastructure business.",
+      "key_themes": [
+        "Corporate Action",
+        "Asset Disposal"
+      ]
     },
     {
       "timestamp": "2026-07-24T11:00:00",
       "category": null,
       "headline": "Update on Company's Future Strategy",
       "url": "https://www.investegate.co.uk/announcement/rns/pacsco-limited--pacs/update-on-company-s-future-strategy/9686688",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Strategic updates for PACSCo typically signal incremental operational shifts rather than transformative events; without details on significant M&A or capital raises, the market impact remains limited compared to sector peers executing aggressive consolidation.",
+      "key_themes": [
+        "Corporate Strategy",
+        "Operational Update"
+      ]
     },
     {
       "timestamp": "2026-07-01T07:00:00",
       "category": null,
       "headline": "Update on Mozambique Asset Disposal",
       "url": "https://www.investegate.co.uk/announcement/rns/pacsco-limited--pacs/update-on-mozambique-asset-disposal/9645709",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The disposal of the Mozambique asset represents a strategic pivot to de-risk the portfolio and likely unlock liquidity, aligning with broader sector trends of UK infrastructure firms shedding non-core or high-risk emerging market exposures.",
+      "key_themes": [
+        "Asset Disposal",
+        "Risk Mitigation",
+        "Capital Allocation"
+      ]
     },
     {
       "timestamp": "2026-06-18T07:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/pacsco-limited--pacs/holding-s-in-company/9624160",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,6 +106,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/pacsco-limited--pacs/holding-s-in-company/9585996",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

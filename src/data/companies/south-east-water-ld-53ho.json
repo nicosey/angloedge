@@ -2,44 +2,74 @@
   "name": "SOUTH EAST WATER LD",
   "ticker": "53HO",
   "slug": "south-east-water-ld-53ho",
-  "announcement_count": 7,
-  "latest_announcement": "2026-10-30T08:15:00",
+  "announcement_count": 8,
+  "latest_announcement": "2026-11-23T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T07:00:00",
+      "category": "Results",
+      "headline": "Half-year Financial Report",
+      "url": "https://www.investegate.co.uk/announcement/rns/south-east-water-ld--53ho/half-year-financial-report/9887527",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a regulated utility with high debt loads and ongoing regulatory scrutiny, this interim report is critical for assessing cash flow resilience and dividend sustainability amidst rising interest rates and inflation pressures.",
+      "key_themes": [
+        "Regulated Utility",
+        "Interim Results",
+        "Debt Management"
+      ]
+    },
     {
       "timestamp": "2026-10-30T08:15:00",
       "category": null,
       "headline": "SEW - Further Equity Commitment",
       "url": "https://www.investegate.co.uk/announcement/rns/south-east-water-ld--53ho/sew-further-equity-commitment/9850270",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This equity commitment signals critical capital injection requirements for a regulated utility facing intense scrutiny over infrastructure investment and environmental compliance, reflecting broader sector pressures on water companies to fund necessary upgrades amid regulatory caps.",
+      "key_themes": [
+        "Capital Raise",
+        "Regulated Utilities",
+        "Infrastructure Investment"
+      ]
     },
     {
       "timestamp": "2026-07-24T13:28:00",
       "category": null,
       "headline": "Rating",
       "url": "https://www.investegate.co.uk/announcement/rns/south-east-water-ld--53ho/rating-/9687066",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "A standalone 'Rating' announcement for a regulated utility typically signifies a credit rating review by agencies like Moody's or S&P rather than a material corporate event; without details on direction (upgrade/downgrade) or magnitude, the immediate market impact is negligible.",
+      "key_themes": [
+        "Credit Rating",
+        "Regulated Utility"
+      ]
     },
     {
       "timestamp": "2026-07-24T09:52:00",
       "category": null,
       "headline": "Liquidity Update",
       "url": "https://www.investegate.co.uk/announcement/rns/south-east-water-ld--53ho/liquidity-update-/9686382",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Liquidity updates for private water companies like South East Water are critical early warning signals for solvency and regulatory compliance; given the sector's high leverage and recent Ofwat scrutiny on financial resilience, this suggests potential distress or urgent refinancing needs rather than routine administration.",
+      "key_themes": [
+        "Financial Distress",
+        "Regulatory Risk",
+        "Water Sector"
+      ]
     },
     {
       "timestamp": "2026-07-23T07:00:00",
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/south-east-water-ld--53ho/director-declaration-/9683011",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,30 +80,43 @@
       "category": "Results",
       "headline": "Annual Financial Report 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/south-east-water-ld--53ho/annual-financial-report-2026-/9673317",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a regulated utility with high debt loads and tight margins, South East Water's annual results are critical for assessing its ability to meet Ofwat's price review obligations and fund necessary infrastructure upgrades without triggering credit downgrades.",
+      "key_themes": [
+        "Regulated Utility",
+        "Debt Management",
+        "Ofwat Price Review"
+      ]
     },
     {
       "timestamp": "2026-07-14T18:25:00",
       "category": null,
       "headline": "Ofwat undertakings",
       "url": "https://www.investegate.co.uk/announcement/rns/south-east-water-ld--53ho/ofwat-undertakings/9668843",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Ofwat undertakings typically signal regulatory compliance adjustments or minor penalty settlements rather than fundamental business shifts; for South East Water, this reflects ongoing sector-wide scrutiny on performance and investment but lacks the transformative impact of major M&A or profit warnings.",
+      "key_themes": [
+        "Regulatory Compliance",
+        "Water Sector Oversight"
+      ]
     },
     {
       "timestamp": "2026-05-28T17:12:00",
       "category": null,
       "headline": "Rating",
       "url": "https://www.investegate.co.uk/announcement/rns/south-east-water-ld--53ho/rating/9590688",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "A standalone 'Rating' announcement for a regulated utility typically signifies a credit rating review by agencies like Moody's or S&P rather than operational news; while critical for long-term financing costs, it lacks immediate transformative catalysts compared to earnings or M&A events.",
+      "key_themes": [
+        "Credit Rating",
+        "Regulated Utility"
+      ]
     }
   ]
 }

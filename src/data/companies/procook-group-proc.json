@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Investor Presentation via Investor Meet Company",
       "url": "https://www.investegate.co.uk/announcement/rns/procook-group--proc/investor-presentation-via-investor-meet-company/9877273",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,26 +21,35 @@
       "category": null,
       "headline": "Grant of Executive Share Awards",
       "url": "https://www.investegate.co.uk/announcement/rns/procook-group--proc/grant-of-executive-share-awards/9790008",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine executive compensation grant typical for UK listed consumer goods firms like ProCook; lacks transformative strategic signal but aligns with standard retention practices in the competitive retail sector.",
+      "key_themes": [
+        "Executive Compensation",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-09-11T11:30:00",
       "category": "AGM/EGM",
       "headline": "Result of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/procook-group--proc/result-of-annual-general-meeting/9768233",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results typically confirm shareholder approval of standard governance items with no immediate price-sensitive catalysts, reflecting the low volatility nature of post-results administrative filings in the consumer discretionary sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-08-14T09:36:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/procook-group--proc/director-pdmr-shareholding/9722486",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate price impact for ProCook, a company currently navigating significant operational restructuring and liquidity challenges in the competitive UK homeware sector.",
@@ -53,6 +63,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/procook-group--proc/notice-of-agm/9714396",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,26 +74,35 @@
       "category": "Appointment",
       "headline": "Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/procook-group--proc/board-changes/9702452",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board changes in the consumer discretionary sector typically signal governance maintenance rather than strategic pivot; without details on executive departure or new expertise, this lacks immediate catalyst potential for PROC's valuation.",
+      "key_themes": [
+        "Governance",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-07-08T12:41:00",
       "category": null,
       "headline": "Annual Report and Accounts",
       "url": "https://www.investegate.co.uk/announcement/rns/procook-group--proc/annual-report-and-accounts/9659025",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a routine statutory filing for a consumer discretionary retailer in a cost-of-living crisis environment, this document offers no immediate catalyst for price discovery beyond verifying management's stated trajectory against market expectations.",
+      "key_themes": [
+        "Annual Report",
+        "Consumer Discretionary"
+      ]
     },
     {
       "timestamp": "2026-06-18T07:00:00",
       "category": null,
       "headline": "Investor Presentation via Investor Meet Company",
       "url": "https://www.investegate.co.uk/announcement/rns/procook-group--proc/investor-presentation-via-investor-meet-company/9624300",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -93,6 +113,7 @@
       "category": "Results",
       "headline": "Notice of Full Year Results Date",
       "url": "https://www.investegate.co.uk/announcement/rns/procook-group--proc/notice-of-full-year-results-date/9613201",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the date for the FY results, which is routine for PROC given its recent history of trading updates and strategic shifts in the competitive UK homeware sector.",
@@ -106,10 +127,15 @@
       "category": "Appointment",
       "headline": "Appointment of Sole Corporate Broker",
       "url": "https://www.investegate.co.uk/announcement/rns/procook-group--proc/appointment-of-sole-corporate-broker/9610076",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "ProCook appointing a sole corporate broker signals a strategic pivot to enhance investor relations and liquidity following its AIM listing, a common step for growth-stage consumer brands seeking to broaden their shareholder base in the current market.",
+      "key_themes": [
+        "Investor Relations",
+        "AIM Listing",
+        "Corporate Governance"
+      ]
     }
   ]
 }

@@ -10,6 +10,7 @@
       "category": null,
       "headline": "TR-1 Notification",
       "url": "https://www.investegate.co.uk/announcement/rns/pebble-beach-systems-group--peb/tr-1-notification/9789630",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,30 +21,42 @@
       "category": null,
       "headline": "Capital Reduction Update",
       "url": "https://www.investegate.co.uk/announcement/rns/pebble-beach-systems-group--peb/capital-reduction-update-/9693772",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Capital reductions in the UK small-cap tech sector often signal a shift towards capital efficiency or preparation for M&A, but without details on the mechanism (e.g., return of capital vs. share cancellation), the immediate financial impact remains ambiguous compared to a full results release.",
+      "key_themes": [
+        "capital management",
+        "corporate action"
+      ]
     },
     {
       "timestamp": "2026-06-24T14:45:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM and GM",
       "url": "https://www.investegate.co.uk/announcement/rns/pebble-beach-systems-group--peb/result-of-agm-and-gm/9634962",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no immediate financial or strategic weight for Pebble Beach Systems Group.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-05-29T10:56:00",
       "category": "AGM/EGM",
       "headline": "Annual Report and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/pebble-beach-systems-group--peb/annual-report-and-notice-of-agm/9592307",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for Pebble Beach Systems Group, serving primarily to convene the AGM and distribute annual accounts rather than signaling any immediate strategic shift or material financial event.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     }
   ]
 }

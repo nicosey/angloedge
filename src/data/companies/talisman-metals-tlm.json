@@ -10,16 +10,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/talisman-metals-plc--tlm/result-of-agm-/9875097",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative filing confirming shareholder approval for standard annual resolutions; lacks any material strategic shifts, capital allocation changes, or governance controversies that would influence valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-10-15T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/talisman-metals-plc--tlm/notice-of-agm-/9823642",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,26 +35,35 @@
       "category": null,
       "headline": "Investor Webinar – Thursday 22 October",
       "url": "https://www.investegate.co.uk/announcement/rns/talisman-metals-plc--tlm/investor-webinar-thursday-22-october/9821372",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations event with no immediate price-sensitive data release; in the current junior mining sector, such webinars are routine engagement tools rather than catalysts for valuation shifts.",
+      "key_themes": [
+        "Investor Relations",
+        "Corporate Communications"
+      ]
     },
     {
       "timestamp": "2026-10-09T07:00:00",
       "category": null,
       "headline": "Issue of Options",
       "url": "https://www.investegate.co.uk/announcement/rns/talisman-metals-plc--tlm/issue-of-options-/9814527",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Option issuances are standard administrative mechanisms for equity incentive plans in junior mining stocks, carrying negligible immediate dilution or strategic weight compared to core exploration milestones.",
+      "key_themes": [
+        "Corporate Governance",
+        "Minor Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-30T18:04:00",
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/talisman-metals-plc--tlm/interim-results-/9800046",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a junior explorer with no production, interim results primarily serve as a cash burn update rather than an operational catalyst; the market focus will be on funding runway and exploration progress amidst the current volatility in base metal prices.",
@@ -64,26 +78,35 @@
       "category": null,
       "headline": "Management Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/talisman-metals-plc--tlm/management-changes/9783280",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Executive changes in junior mining firms are common operational adjustments with limited immediate financial impact unless tied to a strategic pivot; without details on the departing CEO's tenure or the successor's track record, this is treated as routine administrative news.",
+      "key_themes": [
+        "Corporate Governance",
+        "Management Transition"
+      ]
     },
     {
       "timestamp": "2026-09-14T07:00:00",
       "category": null,
       "headline": "Tirzzit Drill Campaign Update",
       "url": "https://www.investegate.co.uk/announcement/rns/talisman-metals-plc--tlm/tirzzit-drill-campaign-update-/9769152",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Drill campaign updates are standard operational disclosures for junior miners like Talisman Metals, providing incremental data rather than transformative catalysts; without assay results confirming high-grade intersections or resource expansion, the market typically views this as routine exploration progress.",
+      "key_themes": [
+        "exploration",
+        "operational update"
+      ]
     },
     {
       "timestamp": "2026-09-11T13:33:00",
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/talisman-metals-plc--tlm/tr-1-notification-of-major-holdings-/9768488",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -94,16 +117,22 @@
       "category": null,
       "headline": "Fougnar License Renewal",
       "url": "https://www.investegate.co.uk/announcement/rns/talisman-metals-plc--tlm/fougnar-license-renewal/9749149",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Securing the Fougnar license is a critical operational prerequisite for Talisman's gold development in Côte d'Ivoire, mitigating immediate regulatory risk and validating the project's continuity amidst broader African mining jurisdictional volatility.",
+      "key_themes": [
+        "regulatory compliance",
+        "asset security",
+        "Côte d'Ivoire"
+      ]
     },
     {
       "timestamp": "2026-08-28T17:05:00",
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/talisman-metals-plc--tlm/tr-1-notification-of-major-holdings/9746504",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -114,6 +143,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/talisman-metals-plc--tlm/tr-1-notification-of-major-holdings/9746243",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -124,6 +154,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/talisman-metals-plc--tlm/tr-1-notification-of-major-holdings-/9742156",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -134,30 +165,42 @@
       "category": null,
       "headline": "Completion of £501,800 Placement",
       "url": "https://www.investegate.co.uk/announcement/rns/talisman-metals-plc--tlm/completion-of-501-800-placement/9730764",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The £501,800 raise is immaterial for a listed entity, indicating negligible dilution or strategic impact; such small placements are typical administrative capital maintenance actions rather than transformative events.",
+      "key_themes": [
+        "minor_capital_action",
+        "administrative"
+      ]
     },
     {
       "timestamp": "2026-08-18T07:00:00",
       "category": null,
       "headline": "Drill Mobilisation at the Tirzzit Copper Project",
       "url": "https://www.investegate.co.uk/announcement/rns/talisman-metals-plc--tlm/drill-mobilisation-at-the-tirzzit-copper-project/9726212",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Drill mobilisation is a standard operational milestone in junior mining development, signaling progress but lacking the transformative catalysts required for significant re-rating; market reaction will likely be muted until assay results or resource updates are released.",
+      "key_themes": [
+        "Exploration",
+        "Project Development"
+      ]
     },
     {
       "timestamp": "2026-07-23T07:00:00",
       "category": null,
       "headline": "Tirzzit Mapping Identifies New Mineralisation",
       "url": "https://www.investegate.co.uk/announcement/rns/talisman-metals-plc--tlm/tirzzit-mapping-identifies-new-mineralisation-/9683029",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "While mapping new mineralisation is positive for the exploration narrative, it lacks immediate commercial weight without assay data or resource definition, keeping it in the routine update category typical of junior miners.",
+      "key_themes": [
+        "Exploration",
+        "Mineral Discovery"
+      ]
     }
   ]
 }

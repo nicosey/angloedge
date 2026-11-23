@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/director-pdmr-shareholding/9875435",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry negligible market impact unless involving substantial block trades or insider trading alerts; without volume or price context, this is standard regulatory compliance rather than a strategic signal.",
@@ -23,6 +24,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/total-voting-rights/9874897",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -33,6 +35,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9873283",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,6 +46,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9868378",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,6 +57,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9863608",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,16 +68,22 @@
       "category": null,
       "headline": "September 2026 Tender - Purchase of Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/september-2026-tender-purchase-of-shares/9862830",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This tender represents a standard capital management mechanism for investment trusts, allowing CVCG to manage its discount/premium dynamics and enhance NAV per share through opportunistic buybacks. While routine for the sector, it signals management's assessment of current valuation levels relative to intrinsic asset value.",
+      "key_themes": [
+        "Capital Management",
+        "NAV Support",
+        "Investment Trusts"
+      ]
     },
     {
       "timestamp": "2026-11-05T15:34:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9861190",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,6 +94,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/director-pdmr-shareholding/9858885",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry negligible market impact unless involving substantial block trades or insider trading allegations; without volume or price context, this is standard regulatory compliance rather than a strategic signal.",
@@ -96,6 +108,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/director-pdmr-shareholding/9858877",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Director dealings are routine disclosures with negligible immediate market impact unless involving significant block trades; without volume or price context, this remains an administrative filing rather than a signal of strategic shift.",
@@ -109,6 +122,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9856650",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -119,6 +133,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/director-pdmr-shareholding/9856606",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible market impact unless aggregated across multiple PDMRs or indicating a significant shift in insider sentiment.",
@@ -129,6 +144,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9851316",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -139,6 +155,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9850961",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -149,16 +166,21 @@
       "category": null,
       "headline": "Publication of September 2026 Monthly Report",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/publication-of-september-2026-monthly-report/9848949",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard monthly reporting obligation for an investment trust, providing no new material information or catalysts to drive immediate price action.",
+      "key_themes": [
+        "Routine Disclosure",
+        "Investment Trust"
+      ]
     },
     {
       "timestamp": "2026-10-29T11:05:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9848422",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -169,16 +191,21 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/dividend-declaration/9846626",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a closed-end investment trust, dividend declarations are the primary mechanism for investor returns and signal management's confidence in underlying asset performance; however, without specific yield data or NAV context, this remains a routine income update rather than a transformative event.",
+      "key_themes": [
+        "Investment Trust",
+        "Income Distribution"
+      ]
     },
     {
       "timestamp": "2026-10-28T15:36:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9846611",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -189,16 +216,21 @@
       "category": null,
       "headline": "September 2026 Tender Price",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/september-2026-tender-price/9844420",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard monthly administrative disclosure required by the fund's prospectus to maintain liquidity and transparency for shareholders redeeming units.",
+      "key_themes": [
+        "Routine Disclosure",
+        "Liquidity Management"
+      ]
     },
     {
       "timestamp": "2026-10-27T14:53:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9844201",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -209,6 +241,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/director-pdmr-shareholding/9844158",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Director dealings are standard regulatory disclosures with negligible immediate market impact unless involving significant block trades; without volume or price context, this remains an administrative filing rather than a signal of strategic shift.",
@@ -222,26 +255,35 @@
       "category": null,
       "headline": "September 2026 Tender Price",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/september-2026-tender-price/9827836",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard monthly administrative update for an investment trust, providing no new strategic direction or material financial data to alter valuation models.",
+      "key_themes": [
+        "Investment Trust",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-10-01T15:05:00",
       "category": null,
       "headline": "Publication of August 2026 Monthly Report",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/publication-of-august-2026-monthly-report/9802571",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard monthly reporting requirement for an investment trust, providing no new material information to influence valuation or strategy.",
+      "key_themes": [
+        "Routine Disclosure",
+        "Investment Trust"
+      ]
     },
     {
       "timestamp": "2026-10-01T10:56:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/total-voting-rights/9801848",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -252,16 +294,21 @@
       "category": null,
       "headline": "Investor Webinar",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/investor-webinar/9792808",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Investor webinars are standard investor relations activities with no immediate financial impact or price-sensitive information; they serve to maintain engagement rather than signal strategic shifts.",
+      "key_themes": [
+        "Investor Relations",
+        "Corporate Communications"
+      ]
     },
     {
       "timestamp": "2026-09-17T16:27:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9778322",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -272,6 +319,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9763846",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -282,6 +330,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9754789",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -292,16 +341,21 @@
       "category": null,
       "headline": "PUBLICATION OF MONTHLY REPORT",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/publication-of-monthly-report-/9752556",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard monthly reporting requirement for an investment trust, offering no new material information to influence valuation or strategy.",
+      "key_themes": [
+        "Routine Disclosure",
+        "Investment Trust"
+      ]
     },
     {
       "timestamp": "2026-09-01T15:34:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9750096",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -312,16 +366,22 @@
       "category": null,
       "headline": "Result of Tender Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/result-of-tender-offer/9722546",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement reflects a standard tender offer result for an investment trust, likely involving the repurchase of shares at a discount to NAV; while it supports share price stability, it lacks the transformative strategic weight required for a higher impact score.",
+      "key_themes": [
+        "investment trust",
+        "share buyback",
+        "capital management"
+      ]
     },
     {
       "timestamp": "2026-08-13T15:40:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9721252",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -332,6 +392,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/director-pdmr-shareholding/9710741",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry negligible market impact unless they signal a coordinated shift in insider sentiment; without volume or price context, this remains an administrative filing with no immediate strategic implication for CVCG.",
@@ -345,6 +406,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9709518",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -355,6 +417,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9707008",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -365,6 +428,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9699291",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -375,16 +439,21 @@
       "category": null,
       "headline": "Publication of June 2026 Monthly Report",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/publication-of-june-2026-monthly-report-/9696659",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard monthly reporting requirement for an investment trust, providing routine NAV and performance data without triggering any material price-sensitive events or strategic shifts.",
+      "key_themes": [
+        "Monthly Reporting",
+        "Investment Trust"
+      ]
     },
     {
       "timestamp": "2026-07-30T14:56:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9696654",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -395,16 +464,21 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/dividend-declaration/9689618",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine dividend declaration for a closed-end fund; while income stability is key for CVCG's investor base, this action lacks the transformative catalysts required to drive significant re-rating in the current high-yield environment.",
+      "key_themes": [
+        "Income Distribution",
+        "Closed-End Fund"
+      ]
     },
     {
       "timestamp": "2026-07-24T15:19:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9687263",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -415,6 +489,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/director-pdmr-shareholding/9687188",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in closed-end funds like CVCG typically reflect personal portfolio rebalancing rather than strategic shifts, offering minimal signal on the underlying asset quality or future performance.",
@@ -428,26 +503,36 @@
       "category": "Placing",
       "headline": "WRAP Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/wrap-retail-offer-/9657465",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This WRAP Retail Offer facilitates a capital raise targeting retail investors, likely to support the investment trust's liquidity or funding strategy in a challenging market environment; while not transformative, it signals active management of the fund's balance sheet amidst broader sector pressures on closed-end funds.",
+      "key_themes": [
+        "capital_raise",
+        "retail_distribution",
+        "investment_trust"
+      ]
     },
     {
       "timestamp": "2026-07-07T16:24:00",
       "category": null,
       "headline": "CVC Credit Investment management team changes",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/cvc-credit-investment-management-team-changes/9656958",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine personnel adjustments within the investment management team of a closed-end fund typically carry negligible immediate financial impact on NAV performance or strategy execution.",
+      "key_themes": [
+        "Corporate Governance",
+        "Management Continuity"
+      ]
     },
     {
       "timestamp": "2026-07-07T15:47:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9656928",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -458,6 +543,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9652539",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -468,6 +554,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9650198",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -478,26 +565,35 @@
       "category": null,
       "headline": "PUBLICATION OF MONTHLY REPORT",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/publication-of-monthly-report-/9649522",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard monthly reporting requirement for an investment trust, providing no new material information to alter the valuation thesis or market sentiment.",
+      "key_themes": [
+        "Investment Trust",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-07-02T09:42:00",
       "category": null,
       "headline": "Fund Research Report",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/fund-research-report-/9649521",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Fund research reports are standard informational disclosures that rarely trigger immediate price action unless they signal a significant change in investment thesis or portfolio composition; without specific data on holdings or valuation changes, this is likely routine investor relations activity.",
+      "key_themes": [
+        "Investor Relations",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-07-01T17:16:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9648243",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -508,16 +604,21 @@
       "category": null,
       "headline": "New Research Available: Floating-Rate Resilience, Opportunistic Upside",
       "url": "https://www.investegate.co.uk/announcement/ukn/cvc-income-growth-limited-npv-gbp--cvcg/new-research-available-floating-rate-resilie-/9648127",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard marketing distribution of third-party research rather than company-specific operational news, indicating no immediate fundamental catalyst for CVCG.",
+      "key_themes": [
+        "Investor Relations",
+        "Market Commentary"
+      ]
     },
     {
       "timestamp": "2026-07-01T09:48:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/total-voting-rights/9647037",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -528,16 +629,21 @@
       "category": null,
       "headline": "JULY 2026 SHARE CONVERSION - REPLACEMENT",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/july-2026-share-conversion-replacement/9628383",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the periodic share conversion mechanism of an investment trust, ensuring the NAV per share remains aligned with market price; it carries no fundamental change to the portfolio or strategic direction.",
+      "key_themes": [
+        "investment_trust",
+        "administrative"
+      ]
     },
     {
       "timestamp": "2026-06-18T14:37:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9626072",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -548,16 +654,21 @@
       "category": null,
       "headline": "JULY 2026 SHARE CONVERSION",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/july-2026-share-conversion/9625785",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative conversion of shares for CVC Income & Growth Limited, likely related to its closed-end fund structure or dividend reinvestment plan, with no material impact on valuation or strategy.",
+      "key_themes": [
+        "Corporate Action",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-01T10:11:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/total-voting-rights/9594734",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -568,16 +679,21 @@
       "category": null,
       "headline": "PUBLICATION OF MONTHLY REPORT",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/publication-of-monthly-report-/9592983",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard monthly reporting requirement for an investment trust, providing no new material information to influence valuation or strategy.",
+      "key_themes": [
+        "Routine Disclosure",
+        "Investment Trust"
+      ]
     },
     {
       "timestamp": "2026-05-27T16:12:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/cvc-income-growth-limited-npv-gbp--cvcg/issue-of-equity/9588349",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,

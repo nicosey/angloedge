@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Disclosure Table",
       "url": "https://www.investegate.co.uk/announcement/rns/cyanconnode-holdings--cyan/disclosure-table/9770694",
+      "routine_type": "Disclosure Table",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,26 +21,36 @@
       "category": null,
       "headline": "Scheme Effective",
       "url": "https://www.investegate.co.uk/announcement/rns/cyanconnode-holdings--cyan/scheme-effective/9770657",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The 'Scheme Effective' status confirms the legal completion of a takeover bid, ending market uncertainty but offering no immediate upside catalyst for remaining shareholders who have already priced in the exit premium. This is a standard administrative milestone in UK M&A transactions, typically resulting in low liquidity and neutral price action as the deal transitions to settlement.",
+      "key_themes": [
+        "M&A Completion",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-09-14T07:30:00",
       "category": null,
       "headline": "Suspension - CyanConnode Holdings plc",
       "url": "https://www.investegate.co.uk/announcement/rns/cyanconnode-holdings--cyan/suspension-cyanconnode-holdings-plc/9769917",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Suspension of a AIM-listed tech firm like CyanConnode typically signals severe liquidity crises, potential insolvency, or imminent delisting, reflecting the high-risk nature of the UK small-cap tech sector where such events often precede corporate collapse.",
+      "key_themes": [
+        "Delisting Risk",
+        "Liquidity Crisis",
+        "AIM Volatility"
+      ]
     },
     {
       "timestamp": "2026-09-10T12:09:00",
       "category": null,
       "headline": "Court Sanction of Scheme and Rule 2.9 Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/cyanconnode-holdings--cyan/court-sanction-of-scheme-and-rule-2-9-announcement/9765910",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,26 +61,35 @@
       "category": null,
       "headline": "Update on Irrevocable Undertakings",
       "url": "https://www.investegate.co.uk/announcement/rns/cyanconnode-holdings--cyan/update-on-irrevocable-undertakings/9732278",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Irrevocable undertakings are standard procedural mechanics for securing shareholder approval in corporate actions, indicating no new material information or strategic shift beyond the initial proposal.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-08-10T14:00:00",
       "category": null,
       "headline": "Publication and Posting of the Scheme Document",
       "url": "https://www.investegate.co.uk/announcement/rns/cyanconnode-holdings--cyan/publication-and-posting-of-the-scheme-document/9713769",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement marks a procedural milestone in an ongoing scheme of arrangement rather than a standalone catalyst; the market impact will be dictated by the underlying deal terms and valuation premium disclosed within the document itself.",
+      "key_themes": [
+        "Corporate Action",
+        "Procedural Update"
+      ]
     },
     {
       "timestamp": "2026-08-05T15:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/cyanconnode-holdings--cyan/holding-s-in-company/9706887",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,26 +100,36 @@
       "category": "Acquisition",
       "headline": "Recommended Cash Acquisition of CyanConnode",
       "url": "https://www.investegate.co.uk/announcement/rns/cyanconnode-holdings--cyan/recommended-cash-acquisition-of-cyanconnode/9699298",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "A recommended cash acquisition represents a transformative strategic shift for Cyanconnode Holdings, likely signaling consolidation in the niche tech sector and potential immediate accretion to shareholder value through premium pricing.",
+      "key_themes": [
+        "M&A",
+        "Strategic Consolidation",
+        "Shareholder Value"
+      ]
     },
     {
       "timestamp": "2026-07-28T14:45:00",
       "category": "Acquisition",
       "headline": "Extension of PUSU Deadline",
       "url": "https://www.investegate.co.uk/announcement/rns/cyanconnode-holdings--cyan/extension-of-pusu-deadline/9691772",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This is a procedural extension of the Puttable Unsecured Subordinated Notes (PUSU) deadline, indicating no immediate liquidity crisis but highlighting ongoing refinancing pressure common in small-cap debt structures. It signals management's continued reliance on debt instruments rather than equity, with minimal strategic impact on core operations.",
+      "key_themes": [
+        "Debt Refinancing",
+        "Liquidity Management"
+      ]
     },
     {
       "timestamp": "2026-07-24T10:49:00",
       "category": null,
       "headline": "Form 8 (DD) - CyanConnode Holdings plc",
       "url": "https://www.investegate.co.uk/announcement/rns/cyanconnode-holdings--cyan/form-8-dd-cyanconnode-holdings-plc/9686669",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -110,6 +140,7 @@
       "category": null,
       "headline": "Form 8 (DD) - CyanConnode Holdings plc",
       "url": "https://www.investegate.co.uk/announcement/rns/cyanconnode-holdings--cyan/form-8-dd-cyanconnode-holdings-plc/9684595",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -120,16 +151,21 @@
       "category": "Acquisition",
       "headline": "Extension of PUSU Deadline",
       "url": "https://www.investegate.co.uk/announcement/rns/cyanconnode-holdings--cyan/extension-of-pusu-deadline-/9680462",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This is a procedural extension of the Puttable Unsecured Subordinated Notes (PUSU) deadline, indicating no immediate liquidity crisis but highlighting ongoing refinancing dependency; such administrative delays are common in distressed or turnaround scenarios and do not inherently signal value destruction without accompanying financial distress.",
+      "key_themes": [
+        "Refinancing Risk",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-06-26T15:30:00",
       "category": null,
       "headline": "Block listing update and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/cyanconnode-holdings--cyan/block-listing-update-and-total-voting-rights/9640052",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -140,10 +176,14 @@
       "category": "Acquisition",
       "headline": "Extension of PUSU Deadline",
       "url": "https://www.investegate.co.uk/announcement/rns/cyanconnode-holdings--cyan/extension-of-pusu-deadline/9586213",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This is a procedural administrative update regarding the timeline for a Puttable Unsecured Subordinated Note (PUSU) rather than a fundamental change in business strategy or financial health.",
+      "key_themes": [
+        "administrative",
+        "debt_management"
+      ]
     }
   ]
 }

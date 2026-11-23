@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/national-gas-transmission-plc--58wt/admission-to-trading/9843590",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Publication of Final Terms",
       "url": "https://www.investegate.co.uk/announcement/rns/national-gas-transmission-plc--58wt/publication-of-final-terms/9839715",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Publication of a Supplementary Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/national-gas-transmission-plc--58wt/publication-of-a-supplementary-prospectus/9684745",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,10 +43,15 @@
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/national-gas-transmission-plc--58wt/annual-financial-report/9677060",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a regulated monopoly with high visibility on Ofgem's RIIO-G2 price control outcomes, this report provides critical data on network investment efficiency and allowed returns rather than speculative growth. The market focus will be on the stability of dividends and the alignment of capital expenditure with long-term decarbonisation mandates.",
+      "key_themes": [
+        "Regulated Returns",
+        "Infrastructure Investment",
+        "Dividend Stability"
+      ]
     }
   ]
 }

@@ -10,16 +10,21 @@
       "category": null,
       "headline": "MelloLondon Investor Conference",
       "url": "https://www.investegate.co.uk/announcement/rns/srt-marine-systems--srt/mellolondon-investor-conference/9871320",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Attendance at a niche investor conference is a standard IR activity with no immediate financial impact or material news flow for SRT Marine Systems.",
+      "key_themes": [
+        "Investor Relations",
+        "Market Visibility"
+      ]
     },
     {
       "timestamp": "2026-11-03T07:00:00",
       "category": "Results",
       "headline": "Notice of Annual Results, Investor Webcast and AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/srt-marine-systems--srt/notice-of-annual-results-investor-webcast-and-agm/9854658",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the schedule for annual results and the AGM, lacking any immediate price-sensitive data or strategic shifts typical of transformative events in the marine engineering sector.",
@@ -33,26 +38,35 @@
       "category": null,
       "headline": "MelloMonday Investor Webinar",
       "url": "https://www.investegate.co.uk/announcement/rns/srt-marine-systems--srt/mellomonday-investor-webinar/9830115",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations event with no immediate financial or operational impact on SRT Marine Systems; such webinars are routine engagement tools rather than catalysts for share price movement.",
+      "key_themes": [
+        "Investor Relations",
+        "Corporate Communications"
+      ]
     },
     {
       "timestamp": "2026-07-30T07:00:00",
       "category": null,
       "headline": "Live Webcast: 9:00am, 4 August 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/srt-marine-systems--srt/live-webcast-9-00am-4-august-2026/9694722",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "A scheduled webcast announcement is standard investor relations activity with no immediate price-sensitive information; without details on the agenda, it lacks the transformative catalysts like M&A or major earnings shifts required for higher scoring.",
+      "key_themes": [
+        "Investor Relations",
+        "Corporate Communications"
+      ]
     },
     {
       "timestamp": "2026-07-29T07:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/srt-marine-systems--srt/director-pdmr-shareholding/9692338",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate price impact for SRT Marine Systems, reflecting normal insider activity rather than a strategic shift in the offshore energy sector.",
@@ -66,6 +80,7 @@
       "category": "Trading Update",
       "headline": "FY2026 Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/srt-marine-systems--srt/fy2026-trading-update-/9682985",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap with limited liquidity, any FY2026 trading update provides critical visibility into order book health and margin resilience in the offshore energy sector, though it lacks the transformative weight of M&A or major capital raises.",

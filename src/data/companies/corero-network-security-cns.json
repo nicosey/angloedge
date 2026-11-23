@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Blocklisting Return",
       "url": "https://www.investegate.co.uk/announcement/rns/corero-network-security--cns/blocklisting-return/9873605",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/corero-network-security--cns/holding-s-in-company/9862804",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Exercise of Options and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/corero-network-security--cns/exercise-of-options-and-total-voting-rights/9861122",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,16 +43,21 @@
       "category": null,
       "headline": "Investment in Regional Leadership and Partnerships",
       "url": "https://www.investegate.co.uk/announcement/rns/corero-network-security--cns/investment-in-regional-leadership-and-partnerships/9856997",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement reflects standard operational scaling within the competitive UK cybersecurity sector rather than a transformative event; while regional leadership strengthens execution capability, it lacks the immediate financial catalyst or strategic pivot required to significantly alter investor valuation models.",
+      "key_themes": [
+        "Corporate Governance",
+        "Cybersecurity Sector"
+      ]
     },
     {
       "timestamp": "2026-10-26T09:03:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/corero-network-security--cns/director-pdmr-shareholding/9841105",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements for small-cap cybersecurity firms like Corero typically reflect personal portfolio management rather than strategic shifts, offering limited alpha in a sector where valuation is driven by recurring revenue growth and M&A activity.",
@@ -63,16 +71,22 @@
       "category": null,
       "headline": "Q3 2026 Commercial Update",
       "url": "https://www.investegate.co.uk/announcement/rns/corero-network-security--cns/q3-2026-commercial-update/9821319",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a small-cap cybersecurity firm, CNS relies heavily on commercial momentum to justify valuation multiples; this update likely signals order book health amidst broader enterprise IT spend caution, serving as a critical sentiment gauge for the sector's resilience.",
+      "key_themes": [
+        "cybersecurity demand",
+        "SME market dynamics",
+        "commercial traction"
+      ]
     },
     {
       "timestamp": "2026-08-26T07:00:00",
       "category": "Results",
       "headline": "Notice of Results & Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/corero-network-security--cns/notice-of-results-investor-presentation/9739931",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a small-cap cybersecurity firm in a consolidating sector, this announcement signals a critical inflection point where management must demonstrate tangible growth to justify valuation multiples amidst rising interest rates and competitive pressure from larger peers.",
@@ -87,16 +101,21 @@
       "category": null,
       "headline": "AI-Augmented Cloud-Assist for SmartWall ONE™",
       "url": "https://www.investegate.co.uk/announcement/rns/corero-network-security--cns/ai-augmented-cloud-assist-for-smartwall-one-/9733080",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This product enhancement signals a defensive pivot to align with market demand for AI-driven cybersecurity solutions, but as a feature update rather than a commercial milestone, it lacks immediate revenue impact or strategic scale comparable to transformative events.",
+      "key_themes": [
+        "AI Integration",
+        "Product Development"
+      ]
     },
     {
       "timestamp": "2026-08-05T13:26:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/corero-network-security--cns/holding-s-in-company/9706747",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -107,6 +126,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/corero-network-security--cns/holding-s-in-company/9706746",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -117,20 +137,29 @@
       "category": null,
       "headline": "Key Customer Contract Extension",
       "url": "https://www.investegate.co.uk/announcement/rns/corero-network-security--cns/key-customer-contract-extension/9624391",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Extension of a key customer contract in the cybersecurity sector signals recurring revenue stability and validates CNS's product-market fit amidst ongoing consolidation pressures. While not transformative, it mitigates near-term churn risk and supports valuation multiples for a small-cap tech firm.",
+      "key_themes": [
+        "recurring revenue",
+        "customer retention",
+        "cybersecurity"
+      ]
     },
     {
       "timestamp": "2026-06-01T07:00:00",
       "category": "AGM/EGM",
       "headline": "Posting of 2025 Accounts & Notice of 2026 AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/corero-network-security--cns/posting-of-2025-accounts-notice-of-2026-agm/9593426",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for Corero Network Security, marking the transition to the next AGM cycle and publication of annual accounts rather than a material corporate action or strategic shift.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     }
   ]
 }

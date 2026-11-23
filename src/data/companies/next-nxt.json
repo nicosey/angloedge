@@ -2,14 +2,29 @@
   "name": "Next",
   "ticker": "NXT",
   "slug": "next-nxt",
-  "announcement_count": 6,
-  "latest_announcement": "2026-10-02T11:53:00",
+  "announcement_count": 7,
+  "latest_announcement": "2026-11-23T11:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T11:00:00",
+      "category": null,
+      "headline": "Third-Party Data Incident",
+      "url": "https://www.investegate.co.uk/announcement/rns/next--nxt/third-party-data-incident/9889007",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "While Next's robust balance sheet likely insulates it from immediate financial damage, this incident highlights the persistent operational risks in retail data security and may trigger short-term reputational scrutiny amidst heightened consumer privacy awareness.",
+      "key_themes": [
+        "cybersecurity",
+        "operational risk"
+      ]
+    },
     {
       "timestamp": "2026-10-02T11:53:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/next--nxt/director-pdmr-shareholding/9804574",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in retail typically signal low immediate volatility unless accompanied by block trades; without volume data, this is standard administrative disclosure rather than a strategic indicator.",
@@ -23,16 +38,21 @@
       "category": null,
       "headline": "Important Victory For NEXT In Equal Pay Appeal",
       "url": "https://www.investegate.co.uk/announcement/rns/next--nxt/important-victory-for-next-in-equal-pay-appeal/9758892",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This legal victory mitigates a significant contingent liability risk for Next, avoiding the precedent of large-scale equal pay payouts that have plagued competitors like Tesco and Sainsbury's, thereby protecting future margin stability in the retail sector.",
+      "key_themes": [
+        "Legal Risk",
+        "Retail Sector Precedent"
+      ]
     },
     {
       "timestamp": "2026-08-12T11:07:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/next--nxt/director-pdmr-shareholding/9718128",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Next's valuation or operational trajectory, reflecting individual portfolio management rather than corporate strategy shifts.",
@@ -46,6 +66,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/next--nxt/director-pdmr-shareholding/9711077",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director transactions which lacks the materiality to influence institutional sentiment or share price direction in the absence of aggregate insider buying/selling trends.",
@@ -59,6 +80,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/next--nxt/director-pdmr-shareholding/9639335",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in UK retail rarely signal immediate strategic shifts compared to broader macro pressures on consumer spending; without volume or price context, this is standard administrative noise rather than a market-moving event.",
@@ -72,6 +94,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/next--nxt/transaction-in-own-shares/9586323",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,

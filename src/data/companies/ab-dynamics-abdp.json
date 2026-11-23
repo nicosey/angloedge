@@ -2,14 +2,54 @@
   "name": "AB Dynamics",
   "ticker": "ABDP",
   "slug": "ab-dynamics-abdp",
-  "announcement_count": 10,
-  "latest_announcement": "2026-11-17T07:00:00",
+  "announcement_count": 13,
+  "latest_announcement": "2026-11-23T15:15:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T15:15:00",
+      "category": "AGM/EGM",
+      "headline": "Notice of Annual Report and Accounts and AGM 2027",
+      "url": "https://www.investegate.co.uk/announcement/rns/ab-dynamics--abdp/notice-of-annual-report-and-accounts-and-agm-2027/9889542",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice for the 2027 AGM, indicating no immediate corporate action or material financial disclosure. As AB Dynamics is a small-cap automotive supplier, routine governance filings have negligible short-term price impact compared to earnings or contract wins.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
+    },
+    {
+      "timestamp": "2026-11-23T07:00:00",
+      "category": null,
+      "headline": "Shareholding in AB Dynamics plc",
+      "url": "https://www.investegate.co.uk/announcement/rns/ab-dynamics--abdp/shareholding-in-ab-dynamics-plc/9887552",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard RNS filing for shareholding disclosure, likely triggered by a director or substantial shareholder crossing the 3% threshold; it carries no intrinsic commercial value or strategic signal for AB Dynamics' operations.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Disclosure"
+      ]
+    },
+    {
+      "timestamp": "2026-11-23T07:00:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/ab-dynamics--abdp/holding-s-in-company/9887530",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-17T07:00:00",
       "category": "Director Dealing",
       "headline": "LTIP Awards and Director/PDMR Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/ab-dynamics--abdp/ltip-awards-and-director-pdmr-dealings/9878206",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine LTIP awards and director dealings are standard administrative disclosures for AB Dynamics, lacking the transformative catalysts required to move the stock price significantly in the current automotive supply chain sector.",
@@ -23,6 +63,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/ab-dynamics--abdp/director-pdmr-shareholding/9867522",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate price impact unless the volume is exceptionally large or signals a sudden change in insider sentiment during a period of volatility.",
@@ -36,6 +77,7 @@
       "category": "Results",
       "headline": "Notice of Results and Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/ab-dynamics--abdp/notice-of-results-and-investor-presentation/9832868",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap with limited liquidity, the release of full results and an investor presentation is critical for restoring transparency and potentially attracting institutional interest after prolonged periods of low visibility.",
@@ -49,6 +91,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/ab-dynamics--abdp/holding-s-in-company/9816173",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -59,6 +102,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/ab-dynamics--abdp/director-pdmr-shareholding/9792343",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry negligible market impact unless accompanied by unusual volume or context; without details on direction or magnitude, this remains an administrative filing with no immediate strategic implication for ABDP.",
@@ -72,6 +116,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/ab-dynamics--abdp/holding-s-in-company/9766437",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -82,6 +127,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/ab-dynamics--abdp/director-pdmr-shareholding/9732660",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry negligible market impact unless accompanied by unusual volume or context; without details on direction or size, this is standard administrative compliance rather than a signal of strategic intent.",
@@ -95,16 +141,22 @@
       "category": "Acquisition",
       "headline": "Acquisition of eMpulse Test Systems LLC",
       "url": "https://www.investegate.co.uk/announcement/rns/ab-dynamics--abdp/acquisition-of-empulse-test-systems-llc/9730761",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This acquisition signals a strategic pivot into the high-growth US EV testing market, diversifying revenue streams beyond traditional ICE components and addressing sector-wide demand for electrification validation.",
+      "key_themes": [
+        "EV Infrastructure",
+        "Geographic Diversification",
+        "Strategic Growth"
+      ]
     },
     {
       "timestamp": "2026-08-17T16:30:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/ab-dynamics--abdp/holding-s-in-company/9725961",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -115,10 +167,14 @@
       "category": "Appointment",
       "headline": "Appointment of Group Chief Financial Officer",
       "url": "https://www.investegate.co.uk/announcement/rns/ab-dynamics--abdp/appointment-of-group-chief-financial-officer/9645677",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This appointment signals a push for financial discipline within the UK automotive supply chain, likely aiming to optimize working capital and margins amid intense pressure from OEM cost-cutting and EV transition costs.",
+      "key_themes": [
+        "Corporate Governance",
+        "Automotive Supply Chain"
+      ]
     }
   ]
 }

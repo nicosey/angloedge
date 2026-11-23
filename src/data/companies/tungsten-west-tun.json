@@ -10,6 +10,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/tr-1-notification-of-major-holdings/9867499",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,21 @@
       "category": null,
       "headline": "Capital Reduction",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/capital-reduction-/9859154",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Capital reductions in the UK AIM market are typically used to return surplus cash to shareholders or clean up balance sheets following acquisitions; for Tungsten West, this signals a potential shift towards shareholder returns or strategic restructuring rather than organic growth.",
+      "key_themes": [
+        "capital_return",
+        "balance_sheet_optimisation"
+      ]
     },
     {
       "timestamp": "2026-10-19T09:36:00",
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/tr-1-notification-of-major-holdings/9829329",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,26 +46,35 @@
       "category": null,
       "headline": "Corporate Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/corporate-presentation/9819266",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Corporate presentations are standard investor relations tools that rarely contain material non-public information or immediate catalysts for Tungsten West's exploration programme.",
+      "key_themes": [
+        "Investor Relations",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-10-07T07:00:00",
       "category": "Appointment",
       "headline": "Appointment of Joint Corporate Broker",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/appointment-of-joint-corporate-broker/9810107",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The appointment of joint brokers signals a strategic pivot to enhance liquidity and investor relations for Tungsten West's critical battery materials supply chain, aligning with the UK government's push for domestic EV infrastructure resilience amid intensifying global competition.",
+      "key_themes": [
+        "Investor Relations",
+        "EV Supply Chain"
+      ]
     },
     {
       "timestamp": "2026-10-06T10:02:00",
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/tr-1-notification-of-major-holdings-/9808807",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,26 +85,35 @@
       "category": "Appointment",
       "headline": "Board Change",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/board-change-/9800418",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board changes in small-cap mining firms are typically administrative unless linked to a strategic pivot or distress; without details on the appointee's background or specific mandate, this lacks immediate market-moving catalysts.",
+      "key_themes": [
+        "Governance",
+        "Small Cap"
+      ]
     },
     {
       "timestamp": "2026-09-29T14:49:00",
       "category": "AGM/EGM",
       "headline": "Result of Annual General Meeting and Board changes",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/result-of-annual-general-meeting-and-board-changes/9797073",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine governance update with no material financial or strategic implications for Tungsten West's exploration programme; typical of small-cap mining firms where board changes rarely signal immediate operational shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Minor Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-24T07:00:00",
       "category": null,
       "headline": "Exercise of Options & TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/exercise-of-options-tvr/9787998",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -100,16 +124,22 @@
       "category": "Appointment",
       "headline": "Appointment of Joint Broker",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/appointment-of-joint-broker-/9778567",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Appointing a joint broker is a standard liquidity management step for AIM companies like Tungsten West, often indicating preparation for potential capital raising or M&A activity rather than immediate operational change; it lacks the transformative weight of a confirmed deal.",
+      "key_themes": [
+        "liquidity",
+        "corporate governance",
+        "AIM"
+      ]
     },
     {
       "timestamp": "2026-09-09T14:17:00",
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/tr-1-notification-of-major-holdings/9763818",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -120,6 +150,7 @@
       "category": "Results",
       "headline": "Financial Results for the Year Ended 31 March 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/financial-results-for-the-year-ended-31-march-2026/9752872",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a pre-revenue exploration stage company, the release of annual results is primarily an administrative compliance exercise rather than a value-driving event, with no immediate catalysts for share price movement absent significant new resource delineation.",
@@ -133,6 +164,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/tr-1-notification-of-major-holdings-/9749398",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -143,6 +175,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/tr-1-notification-of-major-holdings/9745705",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -153,16 +186,21 @@
       "category": null,
       "headline": "Short-Term Loan Repayment",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/short-term-loan-repayment/9745287",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Repayment of short-term debt is a standard liquidity management action that reduces interest expense but signals no immediate strategic shift or capital raising activity.",
+      "key_themes": [
+        "liquidity",
+        "debt_reduction"
+      ]
     },
     {
       "timestamp": "2026-08-27T08:50:00",
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/tr-1-notification-of-major-holdings/9743197",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -173,6 +211,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/tr-1-notification-of-major-holdings/9741242",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -183,6 +222,7 @@
       "category": null,
       "headline": "Grant of Awards under Long Term Incentive Plan",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/grant-of-awards-under-long-term-incentive-plan/9738670",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -193,16 +233,22 @@
       "category": null,
       "headline": "Strategic Investment by the UK Government NWF",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/strategic-investment-by-the-uk-government-nwf/9737700",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "Direct equity injection by the UK Government's National Wealth Fund signals strong sovereign endorsement of Tungsten West's critical minerals strategy, validating the sector's geopolitical importance and potentially lowering future financing costs for rare earth processing projects.",
+      "key_themes": [
+        "Critical Minerals",
+        "Sovereign Investment",
+        "Strategic Autonomy"
+      ]
     },
     {
       "timestamp": "2026-08-12T09:00:00",
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/tr-1-notification-of-major-holdings/9717816",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -213,6 +259,7 @@
       "category": null,
       "headline": "Grant of Awards under Long Term Incentive Plan",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/grant-of-awards-under-long-term-incentive-plan/9680705",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -223,6 +270,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/tr-1-notification-of-major-holdings/9663604",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -233,6 +281,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/tr-1-notification-of-major-holdings/9663603",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -243,6 +292,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/tr-1-notification-of-major-holdings/9660812",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -253,6 +303,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/tr-1-notification-of-major-holdings/9632130",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -263,10 +314,14 @@
       "category": null,
       "headline": "Presentation at the UK Mining Conference",
       "url": "https://www.investegate.co.uk/announcement/rns/tungsten-west--tun/presentation-at-the-uk-mining-conference-/9607789",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard investor relations activity with no immediate financial or operational impact; while it aids visibility in the current resource nationalism climate, it does not alter the company's valuation or strategic trajectory.",
+      "key_themes": [
+        "Investor Relations",
+        "Market Visibility"
+      ]
     }
   ]
 }

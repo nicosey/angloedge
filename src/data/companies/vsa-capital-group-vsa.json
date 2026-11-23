@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/vsa-capital-group-plc--vsa/director-dealing/9825406",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Director dealings are standard regulatory disclosures with minimal intrinsic market impact unless involving significant block trades or insider signals; without volume or price context, this remains a routine administrative filing.",
@@ -23,6 +24,7 @@
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/vsa-capital-group-plc--vsa/notification-of-major-holdings/9769124",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -33,6 +35,7 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM, Share Consolidation and TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/vsa-capital-group-plc--vsa/result-of-agm-share-consolidation-and-tvr/9765467",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,26 +46,35 @@
       "category": "AGM/EGM",
       "headline": "AGM Notice, Share Consolidation & Warrant Exercise",
       "url": "https://www.investegate.co.uk/announcement/rns/vsa-capital-group-plc--vsa/agm-notice-share-consolidation-warrant-exercise/9723835",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The share consolidation is a defensive measure to maintain London Stock Exchange listing requirements rather than a value-creating event, while the warrant exercise represents minor dilution typical of small-cap capital structures.",
+      "key_themes": [
+        "Corporate Governance",
+        "Capital Structure"
+      ]
     },
     {
       "timestamp": "2026-07-09T07:00:00",
       "category": null,
       "headline": "Issue of CSOP Options",
       "url": "https://www.investegate.co.uk/announcement/rns/vsa-capital-group-plc--vsa/issue-of-csop-options/9659714",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "CSOP option grants are standard executive remuneration mechanisms with negligible immediate dilution or cash impact, reflecting routine governance rather than strategic shifts in the private equity sector.",
+      "key_themes": [
+        "executive compensation",
+        "corporate governance"
+      ]
     },
     {
       "timestamp": "2026-07-08T07:00:00",
       "category": "Results",
       "headline": "Audited results for the year ended 31 March 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/vsa-capital-group-plc--vsa/audited-results-for-the-year-ended-31-march-2026/9657197",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a small-cap investment trust with limited liquidity, VSA's annual results serve as a critical barometer for its net asset value trajectory and dividend sustainability rather than triggering immediate market volatility. The focus will be on the performance of its concentrated portfolio in the face of current UK equity valuation dislocations.",

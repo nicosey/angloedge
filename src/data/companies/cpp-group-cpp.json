@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/cpp-group--cpp/holding-s-in-company/9682431",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,26 +21,35 @@
       "category": null,
       "headline": "Result of Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/cpp-group--cpp/result-of-meeting/9668587",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of a board meeting, likely related to routine governance or minor operational decisions rather than transformative corporate action.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-30T15:03:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/cpp-group--cpp/result-of-agm/9645120",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting confirmation of shareholder votes for CPP Group's AGM, typically rubber-stamping routine resolutions such as director reappointments and fee approvals without material strategic implications.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-24T17:35:00",
       "category": null,
       "headline": "Notice of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/cpp-group--cpp/notice-of-gm/9635259",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,16 +60,21 @@
       "category": "AGM/EGM",
       "headline": "Posting of Annual Report and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/cpp-group--cpp/posting-of-annual-report-and-notice-of-agm/9605074",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for CPP Group, serving only to convene the AGM rather than disclose material financial or strategic changes. In the absence of specific agenda items like major capital returns or leadership shifts, the announcement carries negligible immediate market impact.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-06-02T07:00:00",
       "category": "Results",
       "headline": "PRELIMINARY RESULTS YEAR ENDED 31 DECEMBER 2025",
       "url": "https://www.investegate.co.uk/announcement/rns/cpp-group--cpp/preliminary-results-year-ended-31-december-2025/9596005",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a key player in the UK general insurance market, CPP Group's full-year results provide critical insight into consumer resilience and pricing power amid persistent inflationary pressures. The outcome will signal whether the sector can sustain premium growth to offset rising claims costs, a key theme for the broader UK financials sector.",

@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding in Company",
       "url": "https://www.investegate.co.uk/announcement/prn/acuity-rm-group--acrm/holding-in-company/9867454",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Exercise of Share Warrants",
       "url": "https://www.investegate.co.uk/announcement/prn/acuity-rm-group--acrm/exercise-of-share-warrants/9864976",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Exercise of Share Warrants",
       "url": "https://www.investegate.co.uk/announcement/prn/acuity-rm-group--acrm/exercise-of-share-warrants/9856310",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +43,7 @@
       "category": null,
       "headline": "Exercise of Share Warrants",
       "url": "https://www.investegate.co.uk/announcement/prn/acuity-rm-group--acrm/exercise-of-share-warrants/9818111",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +54,7 @@
       "category": null,
       "headline": "Holding in Company",
       "url": "https://www.investegate.co.uk/announcement/prn/acuity-rm-group--acrm/holding-in-company/9802192",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +65,7 @@
       "category": null,
       "headline": "Exercise of Share Warrants",
       "url": "https://www.investegate.co.uk/announcement/prn/acuity-rm-group--acrm/exercise-of-share-warrants/9802132",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,36 +76,50 @@
       "category": null,
       "headline": "Contract expansion",
       "url": "https://www.investegate.co.uk/announcement/rns/acuity-rm-group--acrm/contract-expansion/9769156",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Contract expansions in the risk management advisory sector signal organic growth and client retention strength, which is critical for recurring revenue models but lacks the transformative scale of M&A.",
+      "key_themes": [
+        "organic growth",
+        "client retention",
+        "recurring revenue"
+      ]
     },
     {
       "timestamp": "2026-07-31T07:00:00",
       "category": null,
       "headline": "Contract Renewal and Expansion",
       "url": "https://www.investegate.co.uk/announcement/rns/acuity-rm-group--acrm/contract-renewal-and-expansion/9697133",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Contract renewals are standard operational maintenance for Acuity's RM business model, indicating client retention rather than organic growth acceleration; without disclosed revenue uplifts or new logo acquisitions, this lacks the catalyst potential to drive significant multiple expansion.",
+      "key_themes": [
+        "client_retention",
+        "operational_routine"
+      ]
     },
     {
       "timestamp": "2026-07-29T15:18:00",
       "category": "AGM/EGM",
       "headline": "Result of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/prn/acuity-rm-group--acrm/result-of-annual-general-meeting/9694335",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results typically confirm shareholder approval of standard governance matters with negligible immediate financial impact, reflecting the low volatility characteristic of small-cap property management firms like Acuity RM.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-07-22T10:43:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/prn/acuity-rm-group--acrm/issue-of-equity/9681940",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -110,26 +130,37 @@
       "category": null,
       "headline": "First sale of the new STREAM® Cloud platform",
       "url": "https://www.investegate.co.uk/announcement/rns/acuity-rm-group--acrm/first-sale-of-the-new-stream-cloud-platform/9664253",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Launch of the STREAM Cloud platform signals a strategic pivot to SaaS, addressing the critical industry-wide migration from legacy on-premise systems in UK residential conveyancing and reducing long-term churn risk.",
+      "key_themes": [
+        "Digital Transformation",
+        "SaaS Transition",
+        "Conveyancing Tech"
+      ]
     },
     {
       "timestamp": "2026-07-07T13:53:00",
       "category": "AGM/EGM",
       "headline": "Result of General Meeting and Subscription",
       "url": "https://www.investegate.co.uk/announcement/prn/acuity-rm-group--acrm/result-of-general-meeting-and-subscription/9656621",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms the successful subscription of new shares, likely for working capital or debt repayment rather than transformative growth, reflecting a routine capital management exercise typical for mid-cap property managers in the current rate environment.",
+      "key_themes": [
+        "capital_raise",
+        "share_subscription",
+        "corporate_governance"
+      ]
     },
     {
       "timestamp": "2026-07-02T11:08:00",
       "category": "AGM/EGM",
       "headline": "Notice of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/prn/acuity-rm-group--acrm/notice-of-annual-general-meeting/9649734",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -140,6 +171,7 @@
       "category": "Results",
       "headline": "Final Results 2025 Investor Presentation via Investor Meet Company",
       "url": "https://www.investegate.co.uk/announcement/prn/acuity-rm-group--acrm/final-results-2025-investor-presentation-via-/9642667",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a niche asset manager in the UK residential buy-to-let sector, ACRM's final results provide critical visibility into rental yield compression and regulatory headwinds; however, without specific EPS or dividend data in the headline, it remains a standard reporting event rather than a market-moving catalyst.",
@@ -154,10 +186,14 @@
       "category": null,
       "headline": "Contract Expansion",
       "url": "https://www.investegate.co.uk/announcement/rns/acuity-rm-group--acrm/contract-expansion/9605523",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Contract expansions in the risk management advisory sector typically signal incremental revenue growth rather than structural transformation, reflecting steady demand for regulatory compliance services amidst ongoing UK financial sector scrutiny.",
+      "key_themes": [
+        "Revenue Growth",
+        "Regulatory Compliance"
+      ]
     }
   ]
 }

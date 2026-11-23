@@ -10,36 +10,49 @@
       "category": null,
       "headline": "Anemos signs contract with Constantine Wind Energy",
       "url": "https://www.investegate.co.uk/announcement/rns/european-green-transition--egt/anemos-signs-contract-with-constantine-wind-energy/9866480",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This contract confirms EGT's operational momentum in the UK offshore wind supply chain but represents a standard commercial milestone rather than a transformative event; sector context suggests increasing competition for Tier 2/3 supplier contracts as major developers like Ørsted and RWE scale up.",
+      "key_themes": [
+        "Offshore Wind",
+        "Commercial Contract"
+      ]
     },
     {
       "timestamp": "2026-11-04T07:00:00",
       "category": "Appointment",
       "headline": "Appointment of Nominated Adviser and Broker",
       "url": "https://www.investegate.co.uk/announcement/rns/european-green-transition--egt/appointment-of-nominated-adviser-and-broker-/9856976",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Appointing a broker is a critical infrastructure step for AIM-listed companies seeking liquidity and visibility, often preceding a capital raise or M&A activity; without details on the firm's tier or fee structure, it signals intent rather than immediate value creation.",
+      "key_themes": [
+        "AIM Liquidity",
+        "Capital Markets Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-09-24T07:00:00",
       "category": null,
       "headline": "EGT secures O&M contract renewal with Drax",
       "url": "https://www.investegate.co.uk/announcement/rns/european-green-transition--egt/egt-secures-o-m-contract-renewal-with-drax-/9787997",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This renewal confirms the operational stability of EGT's service portfolio within the UK energy transition sector, mitigating near-term revenue risk. While not transformative, it validates the company's competitive positioning against rivals in the post-privatisation grid maintenance market.",
+      "key_themes": [
+        "Revenue Visibility",
+        "Energy Transition Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-07-30T07:00:00",
       "category": "Director Dealing",
       "headline": "PDMR Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/european-green-transition--egt/pdmr-dealings-/9694708",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "As a standard PDMR disclosure with no specified transaction value or direction, this filing lacks the materiality to influence valuation; in the current UK market, investors prioritize substantive capital allocation signals over routine insider reporting.",
@@ -53,6 +66,7 @@
       "category": "Trading Update",
       "headline": "H1 2026 Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/european-green-transition--egt/h1-2026-trading-update/9692332",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a mid-tier player in the decarbonisation supply chain, H1 results will be scrutinised for margin resilience against rising input costs and potential demand dilution from EU policy shifts.",
@@ -66,26 +80,35 @@
       "category": null,
       "headline": "Long Term Incentive Awards",
       "url": "https://www.investegate.co.uk/announcement/rns/european-green-transition--egt/long-term-incentive-awards/9673569",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative disclosure regarding executive compensation structures rather than a material corporate event; while LTIs align management with long-term shareholder value, they do not immediately impact financials or valuation multiples.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Compensation"
+      ]
     },
     {
       "timestamp": "2026-06-29T12:21:00",
       "category": "AGM/EGM",
       "headline": "Results of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/european-green-transition--egt/results-of-annual-general-meeting/9642184",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results typically confirm shareholder approval of standard administrative items rather than signaling strategic shifts; without details on specific resolutions passed, this is a low-information event for valuation purposes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-05T07:00:00",
       "category": "Director Dealing",
       "headline": "PDMR Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/european-green-transition--egt/pdmr-dealings-/9603075",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR dealings in the green transition sector typically signal individual portfolio management rather than corporate strategy shifts, lacking the transformative weight of M&A or capital raises.",
@@ -99,10 +122,14 @@
       "category": "AGM/EGM",
       "headline": "Annual Report & AGM Notice",
       "url": "https://www.investegate.co.uk/announcement/rns/european-green-transition--egt/annual-report-agm-notice/9600716",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM notices are standard administrative filings with negligible immediate market impact, though they serve as a critical governance checkpoint for shareholder approval of executive remuneration and director reappointments.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     }
   ]
 }

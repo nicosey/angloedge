@@ -10,56 +10,80 @@
       "category": null,
       "headline": "Publication of a Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/publication-of-a-prospectus/9854188",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing for a Closed-Ended Fund (CEF) to launch a new investment vehicle, indicating routine capital formation rather than operational news for existing shareholders. In the current high-interest-rate environment, such VCT launches are common as managers seek fresh equity to deploy into tax-efficient portfolios.",
+      "key_themes": [
+        "VCT",
+        "Capital Raise",
+        "Closed-Ended Fund"
+      ]
     },
     {
       "timestamp": "2026-11-02T16:23:00",
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/dividend-declaration/9854186",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine dividend declaration for a closed-end investment trust with limited market liquidity; typical income distribution rather than a signal of fundamental value creation or strategic shift.",
+      "key_themes": [
+        "income_distribution",
+        "closed_end_fund"
+      ]
     },
     {
       "timestamp": "2026-10-21T14:07:00",
       "category": null,
       "headline": "Portfolio Update",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/portfolio-update/9834722",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a Venture Capital Trust, portfolio updates are standard disclosures detailing asset performance rather than corporate strategy shifts; without specific details on significant disposals or new investments in this headline, the market impact is negligible.",
+      "key_themes": [
+        "VCT",
+        "Portfolio Management"
+      ]
     },
     {
       "timestamp": "2026-10-14T10:17:00",
       "category": "Results",
       "headline": "Half-year Report",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/half-year-report-/9822605",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a VCT, this is a standard regulatory filing rather than a market-moving event; however, the half-year results are critical for investors to assess dividend sustainability and NAV erosion in the current high-interest-rate environment.",
+      "key_themes": [
+        "VCT",
+        "Interim Results",
+        "Dividend Sustainability"
+      ]
     },
     {
       "timestamp": "2026-09-28T09:57:00",
       "category": "Placing",
       "headline": "Intention to Fundraise",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/intention-to-fundraise/9793946",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This capital raise is critical for Puma VCT 13 to maintain its investment pipeline in a constrained UK private equity market, where liquidity premiums are rising and exit opportunities remain limited.",
+      "key_themes": [
+        "capital_raise",
+        "vct_fund_management",
+        "liquidity_management"
+      ]
     },
     {
       "timestamp": "2026-09-02T14:15:00",
       "category": null,
       "headline": "Admission of Further Securities to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/admission-of-further-securities-to-trading-/9752394",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,6 +94,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/total-voting-rights/9746435",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,6 +105,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/issue-of-equity/9746319",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,6 +116,7 @@
       "category": null,
       "headline": "Block Listing",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/block-listing-/9744086",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -100,6 +127,7 @@
       "category": null,
       "headline": "Transaction in Own Shares and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/transaction-in-own-shares-and-total-voting-rights/9694406",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -110,36 +138,49 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/result-of-agm/9691525",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of an Annual General Meeting for a Venture Capital Trust, carrying no material financial or strategic implications for share price valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-07-24T10:00:00",
       "category": null,
       "headline": "Offer for Subscription - Update",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/offer-for-subscription-update/9686396",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update for a Venture Capital Trust regarding its ongoing subscription offer, indicating routine fundraising activity rather than any transformative corporate event or material change in fundamentals.",
+      "key_themes": [
+        "VCT",
+        "Capital Raising"
+      ]
     },
     {
       "timestamp": "2026-07-21T09:00:00",
       "category": null,
       "headline": "Portfolio Update",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/portfolio-update/9679427",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a VCT, this update likely reflects standard portfolio valuation adjustments or dividend declarations rather than transformative corporate events; without specific material transaction details in the headline, it falls under routine administrative reporting for closed-end funds.",
+      "key_themes": [
+        "VCT",
+        "Portfolio Management"
+      ]
     },
     {
       "timestamp": "2026-06-30T16:15:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/total-voting-rights/9645280",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -150,6 +191,7 @@
       "category": null,
       "headline": "Issue of Supplementary Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/issue-of-supplementary-prospectus/9639390",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -160,6 +202,7 @@
       "category": null,
       "headline": "Admission of Further Securities to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/admission-of-further-securities-to-trading-/9625655",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -170,6 +213,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/issue-of-equity/9621445",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -180,16 +224,21 @@
       "category": "Results",
       "headline": "Annual Financial Report for Year Ended 28 Feb 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/annual-financial-report-for-year-ended-28-feb-2026/9616645",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a closed-end investment trust, the annual report primarily confirms NAV performance and dividend policy rather than triggering immediate price discovery; without evidence of significant NAV growth or special dividends in the headline, this is routine compliance for income-focused investors.",
+      "key_themes": [
+        "NAV Performance",
+        "Dividend Policy"
+      ]
     },
     {
       "timestamp": "2026-05-29T16:09:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/total-voting-rights/9592878",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

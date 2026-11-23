@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/holding-s-in-company/9875558",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/holding-s-in-company/9873346",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/holding-s-in-company/9851537",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,66 +43,95 @@
       "category": null,
       "headline": "PureTech Health Wins 2026 Prix Galien USA Award",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/puretech-health-wins-2026-prix-galien-usa-award-/9849264",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "While the Prix Galien award validates PureTech's scientific credibility and enhances brand equity within the biotech sector, it is a non-financial accolade that does not directly alter revenue projections or valuation multiples.",
+      "key_themes": [
+        "Scientific Validation",
+        "Brand Equity"
+      ]
     },
     {
       "timestamp": "2026-10-29T11:00:00",
       "category": "Appointment",
       "headline": "PRTC's Celea Appoints Paul Audhya, MD, MBA, as CMO",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/prtc-s-celea-appoints-paul-audhya-md-mba-as-cmo/9848399",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard operational appointment for Celea, PureTech's oncology subsidiary, rather than a group-level strategic shift; while strengthening leadership in the competitive immuno-oncology space, it lacks the transformative catalyst required to move PRTC's valuation significantly.",
+      "key_themes": [
+        "Corporate Governance",
+        "Biotech Leadership"
+      ]
     },
     {
       "timestamp": "2026-10-26T07:00:00",
       "category": null,
       "headline": "PRTC's Gallop Presents Ph1b LYT-200 Data at ESMO",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/prtc-s-gallop-presents-ph1b-lyt-200-data-at-esmo/9840061",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Presentation of Phase 1b data for LYT-200 at ESMO provides critical early efficacy signals for PureTech's autoimmune pipeline, potentially validating the platform and supporting future valuation or partnership discussions despite the early-stage nature of the data.",
+      "key_themes": [
+        "Clinical Data",
+        "Autoimmune",
+        "Pipeline Progression"
+      ]
     },
     {
       "timestamp": "2026-10-19T07:00:00",
       "category": null,
       "headline": "PRTC's Gallop to Present Ph1b LYT-200 Data at ESMO",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/prtc-s-gallop-to-present-ph1b-lyt-200-data-at-esmo/9828298",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Presentation of Phase 1b LYT-200 data at ESMO serves as a critical de-risking milestone for PureTech's lead asset in the competitive autoimmune sector, potentially validating its platform technology and attracting strategic partnership interest.",
+      "key_themes": [
+        "Clinical Data Readout",
+        "Autoimmune Pipeline",
+        "ESMO Conference"
+      ]
     },
     {
       "timestamp": "2026-10-09T18:00:00",
       "category": null,
       "headline": "PRTC's SPTX Presents Phase 1 GlyphAgo Data at ECNP",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/prtc-s-sptx-presents-phase-1-glyphago-data-at-ecnp/9816656",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The presentation of Phase 1 GlyphAgo data provides critical early validation for PureTech's asset selection strategy in the neurodegeneration sector, though it remains a pre-clinical/early clinical update rather than a commercial catalyst. This reinforces confidence in their proprietary platform but lacks the binary risk/reward profile of a full trial readout or partnership announcement.",
+      "key_themes": [
+        "Neurodegeneration",
+        "Clinical Data Readout",
+        "Platform Validation"
+      ]
     },
     {
       "timestamp": "2026-10-07T18:00:00",
       "category": null,
       "headline": "PRTC's SPTX: Phase 2a Trial of GlyphAgo Initiated",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/prtc-s-sptx-phase-2a-trial-of-glyphago-initiated/9812099",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Initiating a Phase 2a trial for GlyphAgo marks a critical de-risking step for PureTech's proprietary asset in the neurodegeneration space, validating their platform strategy amidst sector-wide scrutiny of Alzheimer's drug efficacy.",
+      "key_themes": [
+        "Clinical Milestone",
+        "Neuroscience",
+        "Biotech R&D"
+      ]
     },
     {
       "timestamp": "2026-09-25T18:13:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/holding-s-in-company/9792501",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -110,16 +142,22 @@
       "category": null,
       "headline": "PRTC's Gallop: Positive FDA Meeting & Fast Track",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/prtc-s-gallop-positive-fda-meeting-fast-track/9780836",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "Fast Track designation significantly de-risks the commercialisation timeline for PRTC's portfolio by accelerating regulatory review, a critical catalyst for biotech valuations in the current capital-constrained environment.",
+      "key_themes": [
+        "regulatory_catalyst",
+        "fast_track_designation",
+        "pipeline_valuation"
+      ]
     },
     {
       "timestamp": "2026-09-04T17:30:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/holding-s-in-company/9757395",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -130,6 +168,7 @@
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/notice-of-results/9755178",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the release of results rather than the results themselves; without accompanying financial data or guidance, it carries no immediate pricing impact for PureTech Health.",
@@ -143,6 +182,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/holding-s-in-company/9744374",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -153,16 +193,21 @@
       "category": null,
       "headline": "PRTC's Celea:2 Deupirfenidone Presentations at ERS",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/prtc-s-celea-2-deupirfenidone-presentations-at-ers/9739308",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard scientific dissemination event for an early-stage biotech; without accompanying clinical data readouts or partnership announcements, it holds negligible immediate financial impact on PRTC's valuation.",
+      "key_themes": [
+        "Clinical Development",
+        "Fibrosis"
+      ]
     },
     {
       "timestamp": "2026-07-17T17:00:00",
       "category": "Director Dealing",
       "headline": "PDMR Notification RSU Vesting",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/pdmr-notification-rsu-vesting/9675594",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard administrative notification regarding the vesting of Restricted Stock Units (RSUs) to a Person Discharging Managerial Responsibilities, indicating no new open market transaction or strategic shift. Such routine equity compensation events are common in biotech and carry negligible immediate impact on share price dynamics.",
@@ -176,16 +221,22 @@
       "category": null,
       "headline": "PRTC: Celea Doses 1st Patient in Phase 3 IPF Trial",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/prtc-celea-doses-1st-patient-in-phase-3-ipf-trial/9664249",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "First patient dosing in a Phase 3 IPF trial is a critical de-risking milestone for PureTech's lead asset, Celea, validating the clinical pathway ahead of pivotal readouts. This advances the biotech sector's focus on fibrotic diseases but carries execution risk given the high failure rates and long timelines typical of late-stage pulmonary trials.",
+      "key_themes": [
+        "Phase 3 Clinical Trial",
+        "Fibrosis",
+        "Biopharma"
+      ]
     },
     {
       "timestamp": "2026-07-09T07:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/director-pdmr-shareholding/9659722",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR dealings in the biotech sector are typically low-impact unless they signal a coordinated exit by key insiders; without volume context, this is treated as standard administrative noise rather than a strategic shift.",
@@ -199,46 +250,67 @@
       "category": null,
       "headline": "PRTC Launches Celea w/ $180M & Top Tier Syndicate",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/prtc-launches-celea-w-180m-top-tier-syndicate/9648593",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "The $180M capital raise establishes a robust balance sheet for Celea's Phase 2b trial of CTI-160, significantly de-risking the near-term catalyst profile and enabling potential late-stage development without immediate dilution pressure. This validates PureTech's asset-light licensing model and positions Celea to compete effectively in the high-value neurology space against larger biotechs.",
+      "key_themes": [
+        "Capital Raise",
+        "Neurology",
+        "De-risking",
+        "CTI-160"
+      ]
     },
     {
       "timestamp": "2026-07-02T07:00:00",
       "category": null,
       "headline": "PRTC Launches Celea: $180M & Asset Transfer",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/prtc-launches-celea-180m-asset-transfer/9648421",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "This $180M transaction represents a critical de-risking event for PureTech, converting illiquid biotech assets into immediate liquidity to extend the cash runway and reduce dilution risk in a high-interest-rate environment. It signals a strategic pivot towards capital efficiency and validates the commercial potential of the Celea platform, distinguishing PRTC from peers still reliant on speculative clinical milestones.",
+      "key_themes": [
+        "Asset Monetization",
+        "Liquidity Extension",
+        "Biotech Financing"
+      ]
     },
     {
       "timestamp": "2026-06-10T17:38:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/result-of-agm/9612206",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine shareholder ratification of board decisions carries negligible immediate financial impact; however, in the volatile biotech sector, AGM outcomes can signal governance stability or dissent regarding executive remuneration and strategic direction.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-09T07:00:00",
       "category": null,
       "headline": "PRTC's SPTX: New Positive GlyphAgo Ph1 Dosing Data",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/prtc-s-sptx-new-positive-glyphago-ph1-dosing-data/9607788",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Positive Phase 1 data for SPTX in GlyphAgo provides critical early validation of PureTech's anti-glycation platform, reducing binary risk ahead of pivotal Phase 2 trials and reinforcing the company's strategic pivot towards clinical-stage asset development.",
+      "key_themes": [
+        "Clinical Milestone",
+        "Asset Validation",
+        "Biotech Pipeline"
+      ]
     },
     {
       "timestamp": "2026-06-04T17:37:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/holding-s-in-company/9602951",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -249,6 +321,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/holding-s-in-company/9588463",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

@@ -10,6 +10,7 @@
       "category": "Trading Update",
       "headline": "Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/adsure-services-plc--ads/trading-update/9859309",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 4,
       "insight": "As a micro-cap with limited liquidity and niche exposure to the UK insurance broking sector, this update likely reflects routine operational monitoring rather than a material shift in valuation drivers or strategic direction.",
@@ -23,6 +24,7 @@
       "category": "Results",
       "headline": "AGM Results",
       "url": "https://www.investegate.co.uk/announcement/rns/adsure-services-plc--ads/agm-results/9783245",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap with limited liquidity, the release of AGM results provides essential fundamental data points for valuation, though it lacks the transformative catalysts typical of larger caps.",
@@ -37,6 +39,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM and Directorate Change",
       "url": "https://www.investegate.co.uk/announcement/rns/adsure-services-plc--ads/notice-of-agm-and-directorate-change/9737681",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -47,6 +50,7 @@
       "category": "Results",
       "headline": "Final Results and Dividend",
       "url": "https://www.investegate.co.uk/announcement/rns/adsure-services-plc--ads/final-results-and-dividend/9733051",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap with limited liquidity, this results release provides essential fundamental visibility for the existing shareholder base rather than driving broad market sentiment; the focus remains on dividend sustainability and cash flow generation in a competitive insurance broking sector.",
@@ -60,10 +64,14 @@
       "category": null,
       "headline": "Passing away of Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/rns/adsure-services-plc--ads/passing-away-of-non-executive-director/9586480",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The loss of a Non-Executive Director is an administrative governance matter with negligible immediate financial impact on Adsure's core insurance broking operations, though it necessitates prompt board succession planning to maintain regulatory compliance.",
+      "key_themes": [
+        "Governance",
+        "Board Composition"
+      ]
     }
   ]
 }

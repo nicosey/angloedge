@@ -10,46 +10,63 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/mycelx-technologies-corporation-di---myx/result-of-agm/9802723",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no immediate financial or strategic weight for MYX investors.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-09-17T16:00:00",
       "category": null,
       "headline": "Adjournment of Annual Meeting to 1 October 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/mycelx-technologies-corporation-di---myx/adjournment-of-annual-meeting-to-1-october-2026/9778301",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative postponement with no immediate financial or strategic implication for the share price. The two-year delay to 2026 suggests significant procedural hurdles or shareholder engagement issues, but without accompanying commentary on governance failures or capital needs, it remains a low-impact event.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-17T13:50:00",
       "category": "AGM/EGM",
       "headline": "AGM Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/mycelx-technologies-corporation-di---myx/agm-statement/9778068",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the convening of an Annual General Meeting, carrying no immediate financial or strategic weight for MYX shareholders.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-08-03T15:02:00",
       "category": null,
       "headline": "Notice of 2026 Annual Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/mycelx-technologies-corporation-di---myx/notice-of-2026-annual-meeting/9701983",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice for a UK AIM-listed company, indicating routine governance rather than any material strategic shift or financial event.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Meeting"
+      ]
     },
     {
       "timestamp": "2026-07-31T17:26:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/mycelx-technologies-corporation-di---myx/holding-s-in-company/9699426",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,20 +77,28 @@
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/mycelx-technologies-corporation-di---myx/annual-financial-report/9621079",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a micro-cap technology firm with historically low liquidity and limited analyst coverage, this annual report is unlikely to move the broader market; impact is confined to existing shareholders monitoring operational continuity rather than strategic transformation.",
+      "key_themes": [
+        "annual results",
+        "micro-cap"
+      ]
     },
     {
       "timestamp": "2026-06-03T07:00:00",
       "category": "Appointment",
       "headline": "Appointment of Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/rns/mycelx-technologies-corporation-di---myx/appointment-of-non-executive-director/9598413",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine appointment of a non-executive director is standard corporate governance practice with negligible immediate financial impact, though it may signal board refreshment efforts in the competitive tech sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     }
   ]
 }

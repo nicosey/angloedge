@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Full Year Results",
       "url": "https://www.investegate.co.uk/announcement/rns/mantle-resilience-plc--mntl/full-year-results/9851552",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a pre-revenue SPAC with no operational history, full year results are largely administrative disclosures of cash burn and governance status rather than indicators of commercial momentum.",
@@ -24,6 +25,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/mantle-resilience-plc--mntl/holding-s-in-company/9832610",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -34,50 +36,71 @@
       "category": null,
       "headline": "Change of Name",
       "url": "https://www.investegate.co.uk/announcement/rns/mantle-resilience-plc--mntl/change-of-name/9830360",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "A name change is a purely administrative action with no immediate financial or operational impact on Mantle Resilience Plc, suggesting the company is maintaining its current strategic trajectory without signaling a major pivot or capital event.",
+      "key_themes": [
+        "administrative",
+        "branding"
+      ]
     },
     {
       "timestamp": "2026-10-19T12:48:00",
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/mantle-resilience-plc--mntl/result-of-general-meeting/9829924",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at Mantle Resilience's AGM/EGM, which typically involves routine matters such as director reappointments or fee approvals rather than strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-10-19T07:00:00",
       "category": null,
       "headline": "Statement ahead of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/mantle-resilience-plc--mntl/statement-ahead-of-general-meeting/9828256",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing required for UK listed companies to provide shareholders with necessary materials ahead of a General Meeting, typically involving routine matters like director re-elections or fee approvals rather than strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Relations"
+      ]
     },
     {
       "timestamp": "2026-10-16T15:41:00",
       "category": "Appointment",
       "headline": "Directorate Change",
       "url": "https://www.investegate.co.uk/announcement/rns/mantle-resilience-plc--mntl/directorate-change-/9827953",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board-level personnel changes in the resilience infrastructure sector typically signal governance continuity rather than strategic pivots, lacking the immediate catalyst for significant re-rating seen in transformative M&A or capital raises.",
+      "key_themes": [
+        "Corporate Governance",
+        "Leadership Stability"
+      ]
     },
     {
       "timestamp": "2026-10-15T07:00:00",
       "category": null,
       "headline": "Recyclus secures largest contract with global OEM",
       "url": "https://www.investegate.co.uk/announcement/rns/mantle-resilience-plc--mntl/recyclus-secures-largest-contract-with-global-oem-/9823604",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Securing a contract with a global OEM validates Mantle's technology in the high-growth circular economy sector and suggests potential for recurring revenue streams, though the financial magnitude remains undisclosed.",
+      "key_themes": [
+        "circular_economy",
+        "commercial_milestone",
+        "oem_partnership"
+      ]
     }
   ]
 }

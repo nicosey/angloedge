@@ -2,24 +2,40 @@
   "name": "TBC Bank Group",
   "ticker": "TBCG",
   "slug": "tbc-bank-group-tbcg",
-  "announcement_count": 20,
-  "latest_announcement": "2026-11-17T15:53:00",
+  "announcement_count": 21,
+  "latest_announcement": "2026-11-23T10:23:00",
   "announcements": [
     {
-      "timestamp": "2026-11-17T15:53:00",
-      "category": "AGM/EGM",
-      "headline": "Update on 2026 AGM Resolution Vote",
-      "url": "https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/update-on-2026-agm-resolution-vote/9880274",
+      "timestamp": "2026-11-23T10:23:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/transaction-in-own-shares/9888907",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
       "key_themes": null
     },
     {
+      "timestamp": "2026-11-17T15:53:00",
+      "category": "AGM/EGM",
+      "headline": "Update on 2026 AGM Resolution Vote",
+      "url": "https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/update-on-2026-agm-resolution-vote/9880274",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard procedural update regarding shareholder approval for the Annual General Meeting, indicating no immediate material corporate action or strategic shift. Such administrative filings are routine governance requirements with negligible short-term impact on TBCG's equity valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
+    },
+    {
       "timestamp": "2026-11-16T11:40:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/transaction-in-own-shares/9877348",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +46,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/director-pdmr-shareholding/9872739",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR shareholding disclosures are standard regulatory filings with negligible immediate price impact; without details on transaction direction (buy/sell) or volume, this data point lacks strategic signal compared to broader banking sector valuation trends.",
@@ -43,6 +60,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/holding-s-in-company/9867956",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,16 +71,21 @@
       "category": "Dividend",
       "headline": "Dividend Currency Conversion Rate",
       "url": "https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/dividend-currency-conversion-rate/9862599",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding the GBP/GEL exchange rate applied to the dividend payment, devoid of strategic significance or earnings impact.",
+      "key_themes": [
+        "administrative",
+        "currency_conversion"
+      ]
     },
     {
       "timestamp": "2026-11-06T07:00:00",
       "category": "Share Buyback",
       "headline": "Share Buyback Commencement",
       "url": "https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/share-buyback-commencement/9861620",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine administrative filing for a share buyback tranche; while positive for EPS accretion, it lacks the transformative scale of major M&A or capital raises typical of high-impact corporate actions in the UK equity market.",
@@ -76,6 +99,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/director-pdmr-shareholding/9809409",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR shareholding disclosures are standard regulatory filings with negligible immediate price impact; without details on transaction direction (buy/sell) or volume relative to free float, this data point lacks strategic signal for TBCG's valuation.",
@@ -89,6 +113,7 @@
       "category": "Results",
       "headline": "TBC to Announce 3Q and 9M 2026 Financial Results",
       "url": "https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/tbc-to-announce-3q-and-9m-2026-financial-results/9808660",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a newly listed entity on the London Stock Exchange, this announcement marks a critical milestone in establishing its financial track record and investor credibility post-IPO. The focus will be on validating the growth strategy and asset quality of this Georgian banking giant within the competitive UK financial sector.",
@@ -103,6 +128,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/director-pdmr-shareholding/9798939",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry minimal immediate market impact unless accompanied by unusual volume or timing relative to price movements; without specific transaction details in the headline, this is classified as standard administrative reporting.",
@@ -116,6 +142,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/holding-s-in-company/9787713",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -126,16 +153,21 @@
       "category": "Dividend",
       "headline": "Dividend Currency Conversion Rate",
       "url": "https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/dividend-currency-conversion-rate/9734029",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a purely administrative disclosure regarding the GBP/USD exchange rate used for dividend calculations, carrying no fundamental impact on TBCG's valuation or operational outlook.",
+      "key_themes": [
+        "administrative",
+        "dividend"
+      ]
     },
     {
       "timestamp": "2026-08-18T12:06:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/director-pdmr-shareholding/9727851",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on share price dynamics or valuation metrics for TBCG.",
@@ -149,6 +181,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/director-pdmr-shareholding/9722911",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory compliance events that rarely signal immediate strategic shifts or material value changes for TBCG compared to operational metrics.",
@@ -162,26 +195,37 @@
       "category": "Dividend",
       "headline": "Declaration of 2Q 2026 Quarterly Dividend",
       "url": "https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/declaration-of-2q-2026-quarterly-dividend/9707316",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The declaration of a Q2 2026 dividend confirms TBCG's commitment to returning capital to shareholders despite the extended timeline, signalling sustained cash flow generation in the Georgian banking sector. This routine income event reinforces the stock's appeal to yield-focused investors but lacks the transformative catalyst required for significant re-rating.",
+      "key_themes": [
+        "shareholder returns",
+        "dividend policy",
+        "cash flow stability"
+      ]
     },
     {
       "timestamp": "2026-07-24T15:04:00",
       "category": "Acquisition",
       "headline": "Acquisition of Majority Stake in OLX Uzbekistan",
       "url": "https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/acquisition-of-majority-stake-in-olx-uzbekistan/9687231",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "TBCG's acquisition of OLX Uzbekistan represents a targeted expansion into the high-growth CIS digital advertising market, leveraging its existing fintech ecosystem rather than signaling transformative group-wide M&A.",
+      "key_themes": [
+        "CIS Expansion",
+        "Digital Advertising",
+        "Strategic Growth"
+      ]
     },
     {
       "timestamp": "2026-07-06T09:00:00",
       "category": "Results",
       "headline": "TBC to Announce 2Q and 1H 2026 Financial Results",
       "url": "https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/tbc-to-announce-2q-and-1h-2026-financial-results/9653831",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a high-beta proxy for Georgian macro stability and regional banking health, this interim update will be scrutinized for NIM compression pressures and asset quality trends amidst broader emerging market volatility.",
@@ -195,6 +239,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/holding-s-in-company/9628240",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -205,6 +250,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/director-pdmr-shareholding/9604884",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on TBCG's valuation or strategic trajectory, reflecting standard insider compliance rather than significant insider sentiment shifts.",
@@ -218,20 +264,28 @@
       "category": "Dividend",
       "headline": "Dividend Currency Conversion Rate",
       "url": "https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/dividend-currency-conversion-rate/9604190",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a purely administrative disclosure regarding the GBP/GEL exchange rate used for dividend calculations, carrying no fundamental impact on TBCG's financial performance or valuation.",
+      "key_themes": [
+        "administrative",
+        "currency_conversion"
+      ]
     },
     {
       "timestamp": "2026-06-02T12:29:00",
       "category": null,
       "headline": "Sustainability Report 2025",
       "url": "https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/sustainability-report-2025/9597595",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a non-financial reporting entity in the UK market, this sustainability report serves primarily as ESG compliance and stakeholder engagement rather than a direct value driver; it lacks the material financial catalysts associated with higher-impact corporate actions.",
+      "key_themes": [
+        "ESG Reporting",
+        "Corporate Governance"
+      ]
     }
   ]
 }

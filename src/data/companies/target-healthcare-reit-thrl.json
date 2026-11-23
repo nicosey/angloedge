@@ -10,16 +10,21 @@
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/target-healthcare-reit-ltd--thrl/annual-financial-report/9820595",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a standard annual report filing for a REIT, this lacks the transformative catalysts required for high impact; market reaction will depend entirely on underlying dividend coverage and property valuation adjustments rather than strategic shifts.",
+      "key_themes": [
+        "Annual Report",
+        "REIT"
+      ]
     },
     {
       "timestamp": "2026-09-23T07:00:00",
       "category": null,
       "headline": "Investor Presentation via Investor Meet Company",
       "url": "https://www.investegate.co.uk/announcement/rns/target-healthcare-reit-ltd--thrl/investor-presentation-via-investor-meet-company/9785642",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/target-healthcare-reit-ltd--thrl/director-pdmr-shareholding/9785629",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Target Healthcare REIT's valuation or strategy, reflecting normal liquidity management rather than significant insider sentiment shifts.",
@@ -43,6 +49,7 @@
       "category": "Results",
       "headline": "Notice of Full Year Results",
       "url": "https://www.investegate.co.uk/announcement/rns/target-healthcare-reit-ltd--thrl/notice-of-full-year-results/9773969",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative filing for the annual report release; without disclosed financials, it carries no immediate pricing impact, though it sets the stage for scrutiny on UK REIT dividend sustainability amid rising interest rates.",
@@ -56,6 +63,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/target-healthcare-reit-ltd--thrl/holding-s-in-company/9726194",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -66,20 +74,29 @@
       "category": null,
       "headline": "Edison issues report on Target Healthcare REIT (THRL)",
       "url": "https://www.investegate.co.uk/announcement/eqs/target-healthcare-reit-ltd--thrl/edison-issues-report-on-target-healthcare-rei-/9716458",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Third-party research reports from brokers like Edison are informational rather than transformative, serving to maintain visibility in a niche sector where liquidity and analyst coverage are typically thin.",
+      "key_themes": [
+        "analyst_coverage",
+        "informational"
+      ]
     },
     {
       "timestamp": "2026-08-05T07:00:00",
       "category": "Dividend",
       "headline": "Net Asset Value, Corporate Update & Dividend",
       "url": "https://www.investegate.co.uk/announcement/rns/target-healthcare-reit-ltd--thrl/net-asset-value-corporate-update-dividend/9704905",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "THRL's update likely addresses the critical NAV discount and dividend sustainability concerns central to the UK REIT sector's current valuation crisis, offering clarity on asset quality and liquidity in a high-rate environment.",
+      "key_themes": [
+        "NAV Discount",
+        "Dividend Sustainability",
+        "UK REIT Sector"
+      ]
     }
   ]
 }

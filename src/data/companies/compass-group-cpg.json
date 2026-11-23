@@ -2,24 +2,40 @@
   "name": "Compass Group",
   "ticker": "CPG",
   "slug": "compass-group-cpg",
-  "announcement_count": 3,
-  "latest_announcement": "2026-10-23T14:00:00",
+  "announcement_count": 4,
+  "latest_announcement": "2026-11-23T11:30:00",
   "announcements": [
     {
-      "timestamp": "2026-10-23T14:00:00",
-      "category": "Appointment",
-      "headline": "Directorate change",
-      "url": "https://www.investegate.co.uk/announcement/rns/compass-group--cpg/directorate-change/9839479",
+      "timestamp": "2026-11-23T11:30:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/compass-group--cpg/holding-s-in-company/9889101",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
       "key_themes": null
     },
     {
+      "timestamp": "2026-10-23T14:00:00",
+      "category": "Appointment",
+      "headline": "Directorate change",
+      "url": "https://www.investegate.co.uk/announcement/rns/compass-group--cpg/directorate-change/9839479",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine board-level personnel adjustments in the global contract catering sector typically carry negligible immediate financial impact, as Compass Group's operational resilience is driven by long-term contractual backlogs rather than executive succession volatility.",
+      "key_themes": [
+        "Corporate Governance",
+        "Leadership Stability"
+      ]
+    },
+    {
       "timestamp": "2026-09-10T15:15:00",
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/compass-group--cpg/admission-to-trading/9766306",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,10 +46,15 @@
       "category": "Dividend",
       "headline": "Sterling Equivalent of Interim Dividend",
       "url": "https://www.investegate.co.uk/announcement/rns/compass-group--cpg/sterling-equivalent-of-interim-dividend/9668456",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This announcement confirms the sterling conversion of the interim dividend, a standard procedural step following the US dollar declaration that provides clarity on cash flow distribution for UK-based shareholders without signaling strategic shifts or earnings revisions.",
+      "key_themes": [
+        "Dividend",
+        "Cash Flow",
+        "Routine"
+      ]
     }
   ]
 }

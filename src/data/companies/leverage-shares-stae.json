@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Results of Adjourned Meeting- -3x Short Taiwan ETP",
       "url": "https://www.investegate.co.uk/announcement/rns/leverage-shares-public-limited-company--stae/results-of-adjourned-meeting-3x-short-taiwan-etp/9661306",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a procedural administrative update regarding the adjournment of a meeting for a leveraged inverse ETF, indicating no immediate fundamental shift in the underlying Taiwan semiconductor sector or the product's viability.",
@@ -23,20 +24,28 @@
       "category": null,
       "headline": "Notice of Adjourned Meeting - -3x Short Taiwan ETP",
       "url": "https://www.investegate.co.uk/announcement/rns/leverage-shares-public-limited-company--stae/notice-of-adjourned-meeting-3x-short-taiwan-etp/9631547",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice regarding the scheduling of a shareholder meeting for an ETP issuer, indicating no immediate material change to the underlying asset's performance or the fund's structure.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-05-29T15:54:00",
       "category": null,
       "headline": "ETP Noteholder Meeting Notice – -3x Taiwan",
       "url": "https://www.investegate.co.uk/announcement/rns/leverage-shares-public-limited-company--stae/etp-noteholder-meeting-notice-3x-taiwan/9592848",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice for an ETP product, indicating routine governance rather than fundamental corporate change; such meetings typically address minor structural adjustments or renewals with negligible impact on the issuer's core valuation.",
+      "key_themes": [
+        "ETP",
+        "Governance"
+      ]
     }
   ]
 }

@@ -10,26 +10,35 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/fisher-james-sons--fsj/directorate-change/9780792",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative update regarding board composition for a niche industrial services firm; without details on the appointee's background or specific mandate, this lacks immediate strategic weight compared to operational metrics.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-08-10T07:00:00",
       "category": null,
       "headline": "Notice of Analyst and Investor Presentations",
       "url": "https://www.investegate.co.uk/announcement/rns/fisher-james-sons--fsj/notice-of-analyst-and-investor-presentations/9711925",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice facilitating investor relations rather than conveying substantive financial data or strategic shifts; such announcements are routine for maintaining market visibility and do not indicate immediate catalysts for valuation changes.",
+      "key_themes": [
+        "Investor Relations",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-10T10:25:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/fisher-james-sons--fsj/director-pdmr-shareholding/9663281",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements typically carry minimal immediate market impact unless accompanied by unusual volume or context; without details on the nature of the transaction (buy/sell) or size, this is classified as administrative.",
@@ -43,6 +52,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/fisher-james-sons--fsj/director-pdmr-shareholding/9608892",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements typically signal low immediate volatility for FSJ, a niche player in the UK construction supply chain, unless the volume suggests significant insider conviction shifts which are not evident here.",

@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/silver-bullet-data-services-group--sbds/holding-s-in-company/9650688",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,26 +21,36 @@
       "category": null,
       "headline": "Silver Bullet Data Services Group",
       "url": "https://www.investegate.co.uk/announcement/rns/silver-bullet-data-services-group--sbds/silver-bullet-data-services-group/9648254",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The headline lacks substantive content, suggesting a boilerplate filing or administrative update with no immediate material impact on valuation or strategy.",
+      "key_themes": [
+        "administrative",
+        "low-impact"
+      ]
     },
     {
       "timestamp": "2026-07-01T07:30:00",
       "category": null,
       "headline": "Suspension - Silver Bullet Data Services Group PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/silver-bullet-data-services-group--sbds/suspension-silver-bullet-data-services-group-plc/9646473",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Suspension of a AIM-listed data services firm typically signals severe liquidity constraints, potential insolvency, or material undisclosed information, creating high binary risk for shareholders and often preceding administration or forced delisting.",
+      "key_themes": [
+        "liquidity crisis",
+        "regulatory risk",
+        "AIM volatility"
+      ]
     },
     {
       "timestamp": "2026-06-30T07:00:00",
       "category": "Results",
       "headline": "Accounting date, Results & Suspension -Replacement",
       "url": "https://www.investegate.co.uk/announcement/rns/silver-bullet-data-services-group--sbds/accounting-date-results-suspension-replacement/9643055",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 9,
       "insight": "The explicit mention of 'Suspension' alongside a replacement results announcement is a severe red flag in UK equity markets, typically indicating imminent regulatory scrutiny, potential fraud exposure, or critical liquidity failure rather than standard reporting delays.",
@@ -54,26 +65,35 @@
       "category": null,
       "headline": "Accounting Reference Date, Accounts & Suspension",
       "url": "https://www.investegate.co.uk/announcement/rns/silver-bullet-data-services-group--sbds/accounting-reference-date-accounts-suspension/9642790",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Administrative updates regarding accounting reference dates are standard compliance filings with negligible immediate market impact; however, the inclusion of 'Suspension' in the headline warrants caution as it may indicate a temporary halt in trading pending further disclosure or regulatory review.",
+      "key_themes": [
+        "Corporate Governance",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-06-25T13:12:00",
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/silver-bullet-data-services-group--sbds/result-of-general-meeting/9637303",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results typically confirm shareholder ratification of standard governance matters without altering the fundamental investment thesis or capital structure.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-10T13:53:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/silver-bullet-data-services-group--sbds/holding-s-in-company/9611893",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -84,10 +104,14 @@
       "category": null,
       "headline": "Proposed AIM Delisting & Notice of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/silver-bullet-data-services-group--sbds/proposed-aim-delisting-notice-of-general-meeting/9607769",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Delisting from AIM typically signals a transition to private ownership or a move to a larger exchange, often resulting in immediate liquidity loss for retail investors and potential valuation discounts due to the lack of public market scrutiny.",
+      "key_themes": [
+        "AIM Delisting",
+        "Liquidity Risk"
+      ]
     }
   ]
 }

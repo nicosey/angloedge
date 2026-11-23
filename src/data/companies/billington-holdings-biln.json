@@ -10,16 +10,21 @@
       "category": "Appointment",
       "headline": "Directorate Change",
       "url": "https://www.investegate.co.uk/announcement/rns/billington-holdings--biln/directorate-change/9742145",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Directorate changes are standard corporate governance updates that rarely signal immediate strategic shifts or material financial impact for Billington Holdings.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-18T15:42:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/billington-holdings--biln/holding-s-in-company/9728232",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/billington-holdings--biln/holding-s-in-company/9717999",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,20 +46,28 @@
       "category": "Appointment",
       "headline": "Billington Leadership Appointments",
       "url": "https://www.investegate.co.uk/announcement/rns/billington-holdings--biln/billington-leadership-appointments/9692370",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine executive appointments in the construction sector signal operational continuity rather than strategic pivots; without details on the appointees' track record or specific mandates, this lacks the transformative catalyst required for immediate re-rating.",
+      "key_themes": [
+        "Corporate Governance",
+        "Leadership Stability"
+      ]
     },
     {
       "timestamp": "2026-06-02T13:14:00",
       "category": "AGM/EGM",
       "headline": "Result of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/billington-holdings--biln/result-of-annual-general-meeting/9597758",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results typically confirm shareholder approval for standard administrative matters rather than signaling strategic shifts; without details on specific resolutions passed, the market impact is negligible compared to earnings or M&A announcements.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     }
   ]
 }

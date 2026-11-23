@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "ProVen VCT plc: Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proven-vct-plc-director-pdmr-shareholding/9886569",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements for VCTs and typically carry negligible market impact unless the volume is exceptional or signals a sudden loss of confidence, neither of which is evident here.",
@@ -23,16 +24,21 @@
       "category": null,
       "headline": "ProVen VCT plc: Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proven-vct-plc-issue-of-equity/9886568",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement reflects standard equity issuance for a VCT to maintain its qualifying portfolio size under HMRC rules rather than indicating strategic expansion or M&A activity. Such routine capital management actions are typical for the sector and do not signal a shift in investment thesis or significant value creation.",
+      "key_themes": [
+        "VCT Compliance",
+        "Routine Capital Action"
+      ]
     },
     {
       "timestamp": "2026-11-13T12:59:00",
       "category": "Acquisition",
       "headline": "Proposed Merger and ProVen VCT Offer",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proposed-merger-and-proven-vct-offer-/9874939",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 8,
       "insight": "This merger represents a structural consolidation within the VCT sector, likely aimed at achieving critical mass to survive regulatory tightening and improve economies of scale. Such transformative deals signal a shift from organic growth to inorganic expansion as a primary strategy for VCT survival.",
@@ -46,6 +52,7 @@
       "category": null,
       "headline": "ProVen VCT plc: Admission of Further Securities to Trading",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proven-vct-plc-admission-of-further-securiti-/9868364",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -56,6 +63,7 @@
       "category": null,
       "headline": "ProVen VCT plc: Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proven-vct-plc-total-voting-rights/9853036",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -66,26 +74,37 @@
       "category": "Results",
       "headline": "ProVen VCT plc: Half-Yearly Report",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proven-vct-plc-half-yearly-report/9824757",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a VCT, the primary market driver is dividend yield and NAV stability rather than growth; this report confirms income generation capabilities but lacks the transformative catalysts required for significant multiple expansion.",
+      "key_themes": [
+        "VCT",
+        "Interim Results",
+        "Income Distribution"
+      ]
     },
     {
       "timestamp": "2026-10-07T12:11:00",
       "category": null,
       "headline": "ProVen VCT plc: Issue of Equity and Closure of Offer for Subscription",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proven-vct-plc-issue-of-equity-and-closure-o-/9811524",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The closure of the offer for subscription indicates a standard lifecycle event for this VCT rather than a strategic pivot; while capital raises are vital for investment vehicles to deploy funds, the administrative nature of closing an offer has negligible immediate impact on share price or long-term valuation.",
+      "key_themes": [
+        "VCT",
+        "Capital Raise",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-10-01T11:42:00",
       "category": null,
       "headline": "ProVen VCT plc: Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proven-vct-plc-total-voting-rights/9802004",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -96,6 +115,7 @@
       "category": "Acquisition",
       "headline": "Joint Announcement - Merger Discussions",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/joint-announcement-merger-discussions/9773636",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 9,
       "insight": "A merger of two VCTs represents a transformative consolidation event in the closed-end fund sector, significantly altering the asset base and investment strategy for PVN while eliminating a direct peer competitor.",
@@ -110,16 +130,21 @@
       "category": null,
       "headline": "ProVen VCT plc: Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proven-vct-plc-issue-of-equity/9768515",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement reflects standard equity issuance for a VCT to maintain compliance with HMRC's £15m annual investment limit and fund ongoing operations rather than signaling transformative growth or strategic shifts.",
+      "key_themes": [
+        "VCT Compliance",
+        "Capital Raising"
+      ]
     },
     {
       "timestamp": "2026-09-01T12:00:00",
       "category": null,
       "headline": "ProVen VCT plc: Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proven-vct-plc-total-voting-rights/9749606",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -130,6 +155,7 @@
       "category": null,
       "headline": "ProVen VCT plc: Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proven-vct-plc-transaction-in-own-shares/9744184",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -140,6 +166,7 @@
       "category": null,
       "headline": "ProVen VCT plc: Admission of Further Securities to Trading (DRIS)",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proven-vct-plc-admission-of-further-securiti-/9741425",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -150,6 +177,7 @@
       "category": "Director Dealing",
       "headline": "ProVen VCT plc: Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proven-vct-plc-director-pdmr-shareholding/9723026",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine disclosure of individual director transactions in a closed-end VCT carries minimal market-moving weight compared to aggregate fund flows or NAV changes.",
@@ -163,16 +191,21 @@
       "category": null,
       "headline": "ProVen VCT plc: Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proven-vct-plc-issue-of-equity/9723024",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement reflects a standard equity issuance typical for VCTs to maintain compliance with HMRC's £1 million annual investment limit per company, rather than signaling a strategic shift or major capital event.",
+      "key_themes": [
+        "VCT Compliance",
+        "Capital Raising"
+      ]
     },
     {
       "timestamp": "2026-08-03T09:46:00",
       "category": null,
       "headline": "ProVen VCT plc: Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proven-vct-plc-total-voting-rights/9700813",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -183,6 +216,7 @@
       "category": null,
       "headline": "ProVen VCT plc: Admission of Further Securities to Trading",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proven-vct-plc-admission-of-further-securiti-/9699241",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -193,36 +227,52 @@
       "category": "AGM/EGM",
       "headline": "ProVen VCT plc: Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proven-vct-plc-result-of-agm/9671120",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no intrinsic valuation impact for ProVen VCT beyond routine governance compliance.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-07-15T17:41:00",
       "category": "Results",
       "headline": "ProVen VCT plc: Interim Management Statement",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proven-vct-plc-interim-management-statement/9671118",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a VCT, PVN's interim statement is critical for tracking NAV erosion amidst the current high-interest-rate environment and illiquid private markets; investors will scrutinize dividend sustainability and portfolio valuation adjustments against peers like Baillie Gifford or City of London.",
+      "key_themes": [
+        "VCT",
+        "NAV",
+        "Dividend Sustainability",
+        "Interim Results"
+      ]
     },
     {
       "timestamp": "2026-07-03T11:24:00",
       "category": null,
       "headline": "ProVen VCT plc: Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proven-vct-plc-issue-of-equity/9652223",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement reflects standard capital raising activity typical for VCTs to maintain investment mandates or manage liquidity, rather than a transformative corporate event. While necessary for operational continuity, such equity issues often signal dilution pressure on existing shareholders without immediate value accretion.",
+      "key_themes": [
+        "Capital Raising",
+        "VCT Sector",
+        "Share Dilution"
+      ]
     },
     {
       "timestamp": "2026-07-01T09:41:00",
       "category": null,
       "headline": "ProVen VCT plc: Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proven-vct-plc-total-voting-rights/9647019",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -233,16 +283,22 @@
       "category": "Results",
       "headline": "ProVen VCT plc: Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proven-vct-plc-annual-financial-report/9599311",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a closed-end VCT, the annual report primarily serves as a regulatory disclosure of NAV and dividend distribution rather than a catalyst for share price re-rating; without specific details on exceptional gains or strategic shifts in the insight, this is treated as routine compliance.",
+      "key_themes": [
+        "VCT",
+        "Annual Report",
+        "NAV"
+      ]
     },
     {
       "timestamp": "2026-06-01T09:27:00",
       "category": null,
       "headline": "ProVen VCT plc: Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proven-vct-plc-total-voting-rights/9594541",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -253,6 +309,7 @@
       "category": null,
       "headline": "ProVen VCT plc: Admission of Further Securities to Trading",
       "url": "https://www.investegate.co.uk/announcement/gnw/proven-vct--pvn/proven-vct-plc-admission-of-further-securiti-/9593026",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,

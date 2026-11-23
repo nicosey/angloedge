@@ -10,16 +10,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/panthera-resources--pat/result-of-agm/9870035",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for an exploration-stage junior typically carry negligible immediate financial impact unless significant shareholder dissent or special resolutions were passed; without evidence of major capital raising or leadership changes, this is standard corporate governance housekeeping.",
+      "key_themes": [
+        "Corporate Governance",
+        "Junior Mining"
+      ]
     },
     {
       "timestamp": "2026-10-15T12:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/panthera-resources--pat/notice-of-agm/9825175",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,26 +35,36 @@
       "category": "AGM/EGM",
       "headline": "AGM Update",
       "url": "https://www.investegate.co.uk/announcement/rns/panthera-resources--pat/agm-update/9796587",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative filing for a small-cap explorer with no material operational changes or capital implications; typical of standard governance compliance rather than strategic signaling.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-09T11:00:00",
       "category": null,
       "headline": "Equity Financing Update",
       "url": "https://www.investegate.co.uk/announcement/rns/panthera-resources--pat/equity-financing-update-/9763398",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Equity financing updates for junior explorers like Panthera Resources typically signal dilution to fund drilling campaigns, reflecting the sector's reliance on capital markets rather than organic cash flow during the exploration phase.",
+      "key_themes": [
+        "capital_raise",
+        "dilution_risk",
+        "exploration_funding"
+      ]
     },
     {
       "timestamp": "2026-09-03T07:00:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/panthera-resources--pat/issue-of-equity/9752875",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,40 +75,57 @@
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/panthera-resources--pat/annual-financial-report-/9752874",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a pre-revenue exploration company, the annual report primarily serves as a compliance update on cash burn and drilling progress rather than a value-creating event, offering limited immediate catalyst for share price movement compared to assay results or financing news.",
+      "key_themes": [
+        "exploration",
+        "cash_burn",
+        "compliance"
+      ]
     },
     {
       "timestamp": "2026-07-20T07:45:00",
       "category": null,
       "headline": "Arbitration Update",
       "url": "https://www.investegate.co.uk/announcement/rns/panthera-resources--pat/arbitration-update/9676571",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Arbitration updates in junior mining typically signal protracted legal disputes over asset ownership or joint venture terms rather than immediate financial outcomes, creating prolonged uncertainty and potential liquidity drag for Panthera Resources.",
+      "key_themes": [
+        "Legal Risk",
+        "Asset Uncertainty"
+      ]
     },
     {
       "timestamp": "2026-06-11T07:08:00",
       "category": null,
       "headline": "Conversion of Options",
       "url": "https://www.investegate.co.uk/announcement/rns/panthera-resources--pat/conversion-of-options/9612703",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the exercise of warrants or options, likely for cash consideration or share issuance, which typically has negligible dilution impact on Panthera's exploration-stage valuation.",
+      "key_themes": [
+        "Corporate Action",
+        "Dilution"
+      ]
     },
     {
       "timestamp": "2026-06-03T07:00:00",
       "category": null,
       "headline": "Online Investor Webinar",
       "url": "https://www.investegate.co.uk/announcement/rns/panthera-resources--pat/online-investor-webinar/9598432",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations activity with no immediate financial or operational impact on Panthera Resources' valuation or share price.",
+      "key_themes": [
+        "Investor Relations",
+        "Corporate Communications"
+      ]
     }
   ]
 }

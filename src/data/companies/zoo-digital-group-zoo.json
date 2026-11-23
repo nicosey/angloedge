@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Interim Results - Replacement",
       "url": "https://www.investegate.co.uk/announcement/rns/zoo-digital-group--zoo/interim-results-replacement/9867846",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a replacement interim results for a small-cap digital media firm, this update is critical for assessing liquidity and burn rate in the volatile ad-tech sector, though it lacks the transformative catalysts of major M&A or strategic pivots.",
@@ -23,16 +24,21 @@
       "category": null,
       "headline": "Investor Event – MelloLondon",
       "url": "https://www.investegate.co.uk/announcement/rns/zoo-digital-group--zoo/investor-event-mellolondon/9854671",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Investor events for micro-cap tech firms like Zoo Digital are typically low-conviction marketing exercises with limited immediate financial impact; without disclosed deal flow or revenue guidance, this lacks the catalyst weight to drive significant re-rating.",
+      "key_themes": [
+        "investor relations",
+        "micro-cap tech"
+      ]
     },
     {
       "timestamp": "2026-10-29T07:00:00",
       "category": "Results",
       "headline": "Notice of Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/zoo-digital-group--zoo/notice-of-interim-results/9846927",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a small-cap digital media firm operating in a volatile ad-tech environment, this interim update is critical for gauging liquidity and operational resilience amid sector-wide margin pressures.",
@@ -46,26 +52,35 @@
       "category": "AGM/EGM",
       "headline": "Publication of Annual Report and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/zoo-digital-group--zoo/publication-of-annual-report-and-notice-of-agm/9744387",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for the AGM notice and annual report, carrying no immediate price-sensitive information or strategic shifts for Zoo Digital Group.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-08-27T10:30:00",
       "category": null,
       "headline": "Publication of Quarterly Investor Newsletter",
       "url": "https://www.investegate.co.uk/announcement/rns/zoo-digital-group--zoo/publication-of-quarterly-investor-newsletter-/9743435",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine investor communication lacking material price-sensitive data; in the current high-rate environment for digital media firms, such newsletters rarely drive valuation shifts without accompanying financial metrics.",
+      "key_themes": [
+        "Investor Relations",
+        "Low Impact"
+      ]
     },
     {
       "timestamp": "2026-08-07T16:16:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/zoo-digital-group--zoo/holding-s-in-company/9711676",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -76,6 +91,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/zoo-digital-group--zoo/holding-s-in-company/9708753",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -86,6 +102,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/zoo-digital-group--zoo/holding-s-in-company/9707105",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -96,6 +113,7 @@
       "category": "Results",
       "headline": "Notice of Final Results and Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/zoo-digital-group--zoo/notice-of-final-results-and-investor-presentation/9685288",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap tech firm with limited liquidity, the release of final results provides essential fundamental clarity for existing shareholders, though it lacks the transformative catalyst required for significant institutional interest or price discovery.",
@@ -109,10 +127,14 @@
       "category": null,
       "headline": "Publication of Quarterly Investor Newsletter",
       "url": "https://www.investegate.co.uk/announcement/rns/zoo-digital-group--zoo/publication-of-quarterly-investor-newsletter/9609377",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations update with no material financial or operational disclosures; in the current UK market environment, such routine communications are priced in and unlikely to drive volatility without accompanying earnings data.",
+      "key_themes": [
+        "Investor Relations",
+        "Routine Disclosure"
+      ]
     }
   ]
 }

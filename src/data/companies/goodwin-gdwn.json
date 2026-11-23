@@ -10,46 +10,63 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/goodwin-plc--gdwn/result-of-agm/9813720",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the Annual General Meeting, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-09-09T09:27:00",
       "category": null,
       "headline": "Sale of Mechanical Engineering Division",
       "url": "https://www.investegate.co.uk/announcement/rns/goodwin-plc--gdwn/sale-of-mechanical-engineering-division-/9763064",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Divesting the mechanical engineering division signals a strategic pivot towards core competencies, likely aimed at improving margins and reducing capital intensity in a cyclical sector. This non-core asset sale may unlock shareholder value but reflects a contraction in operational scope amid challenging industrial demand.",
+      "key_themes": [
+        "Strategic Refocus",
+        "Asset Divestment"
+      ]
     },
     {
       "timestamp": "2026-09-09T08:00:00",
       "category": null,
       "headline": "Response to Press Speculation",
       "url": "https://www.investegate.co.uk/announcement/rns/goodwin-plc--gdwn/response-to-press-speculation/9762791",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Standard defensive communication to quell market noise without disclosing material non-public information; typical for low-float small caps facing speculative trading rather than fundamental shifts.",
+      "key_themes": [
+        "market speculation",
+        "investor relations"
+      ]
     },
     {
       "timestamp": "2026-08-28T14:41:00",
       "category": "Dividend",
       "headline": "Accounts Posting and Dividend Timetable",
       "url": "https://www.investegate.co.uk/announcement/rns/goodwin-plc--gdwn/accounts-posting-and-dividend-timetable-/9746241",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative filing confirming the dividend schedule following the release of annual accounts; it signals no immediate change in capital allocation strategy but lacks the transformative catalysts required for significant price action.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Returns"
+      ]
     },
     {
       "timestamp": "2026-08-28T07:00:00",
       "category": "Results",
       "headline": "Preliminary results for the year ended 30 Apr 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/goodwin-plc--gdwn/preliminary-results-for-the-year-ended-30-apr-2026/9744376",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a small-cap industrial services firm with low liquidity, this full-year result is critical for validating the company's post-pandemic recovery trajectory and dividend sustainability against rising operational costs.",
@@ -64,10 +81,14 @@
       "category": null,
       "headline": "Recent press speculation",
       "url": "https://www.investegate.co.uk/announcement/rns/goodwin-plc--gdwn/recent-press-speculation/9710409",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard market integrity response to unfounded speculation, indicating no material transaction or operational change; such denials typically have negligible price impact unless the rumor was already heavily priced in.",
+      "key_themes": [
+        "market speculation",
+        "corporate governance"
+      ]
     }
   ]
 }

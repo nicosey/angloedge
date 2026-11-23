@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Notice of Redemption Price",
       "url": "https://www.investegate.co.uk/announcement/rns/folio-residential-finance-no-1-plc--32ob/notice-of-redemption-price-/9851286",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Notice to Noteholders",
       "url": "https://www.investegate.co.uk/announcement/rns/folio-residential-finance-no-1-plc--32ob/notice-to-noteholders/9838772",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Notice to noteholders",
       "url": "https://www.investegate.co.uk/announcement/rns/folio-residential-finance-no-1-plc--32ob/notice-to-noteholders/9838643",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,10 +43,15 @@
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/folio-residential-finance-no-1-plc--32ob/annual-financial-report/9782948",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a special purpose vehicle (SPV) for securitised residential mortgages, this report reflects the performance of a static pool rather than operational growth; impact is limited to yield analysis for existing note holders and secondary market pricing of the debt instruments.",
+      "key_themes": [
+        "Securitisation",
+        "Residential Mortgages",
+        "SPV Results"
+      ]
     }
   ]
 }

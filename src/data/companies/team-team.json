@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/team--team/holding-s-in-company/9718146",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/team--team/holding-s-in-company/9715430",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/team--team/holding-s-in-company/9715427",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,16 +43,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/team--team/result-of-agm/9699471",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital allocation changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-07-29T12:53:00",
       "category": "Director Dealing",
       "headline": "Director’s Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/team--team/director-s-dealing/9694067",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Team's valuation or operational trajectory in the competitive UK recruitment sector.",
@@ -63,6 +71,7 @@
       "category": "Director Dealing",
       "headline": "Director’s Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/team--team/director-s-dealing/9690772",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Team's valuation or operational trajectory.",
@@ -76,6 +85,7 @@
       "category": "Director Dealing",
       "headline": "Director’s Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/team--team/director-s-dealing/9686743",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory filings with negligible immediate price impact unless the volume is exceptionally large or signals a clear shift in insider sentiment; without specific transaction details, this remains an administrative update.",
@@ -89,26 +99,35 @@
       "category": null,
       "headline": "Settlement of NEBA deferred consideration",
       "url": "https://www.investegate.co.uk/announcement/rns/team--team/settlement-of-neba-deferred-consideration/9684992",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Settlement of NEBA deferred consideration is a standard post-acquisition cash outflow with no immediate impact on operational performance or future earnings power. While it reduces net cash reserves, this is a routine administrative event typical in M&A integration cycles rather than a strategic shift.",
+      "key_themes": [
+        "M&A Integration",
+        "Cash Flow"
+      ]
     },
     {
       "timestamp": "2026-07-23T15:56:00",
       "category": "Appointment",
       "headline": "Appointment of Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/rns/team--team/appointment-of-non-executive-director/9684989",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine governance update for a small-cap tech firm; without details on the appointee's background, this lacks immediate strategic weight or market-moving catalyst potential.",
+      "key_themes": [
+        "Governance",
+        "Small Cap"
+      ]
     },
     {
       "timestamp": "2026-07-16T10:08:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/team--team/notice-of-agm/9672576",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -119,26 +138,35 @@
       "category": "Appointment",
       "headline": "Appointment of Broker",
       "url": "https://www.investegate.co.uk/announcement/rns/team--team/appointment-of-broker/9663028",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine administrative update indicating a change in corporate broker for Team Holdings; lacks immediate strategic catalysts but ensures continued market access and liquidity support.",
+      "key_themes": [
+        "Corporate Governance",
+        "Market Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-07-09T11:31:00",
       "category": null,
       "headline": "Director Bonus Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/team--team/director-bonus-shares-/9661134",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative issuance of bonus shares to directors, likely tied to deferred compensation or share plan vesting, carrying no material financial impact on the company's balance sheet or equity value.",
+      "key_themes": [
+        "corporate_governance",
+        "administrative"
+      ]
     },
     {
       "timestamp": "2026-07-08T07:15:00",
       "category": "Director Dealing",
       "headline": "Director Share Purchase",
       "url": "https://www.investegate.co.uk/announcement/rns/team--team/director-share-purchase/9657982",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Director purchases in the UK tech sector often signal internal confidence but carry limited immediate market impact unless accompanied by significant volume; this is a standard insider dealing disclosure rather than a transformative event.",
@@ -152,6 +180,7 @@
       "category": "Director Dealing",
       "headline": "Director Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/team--team/director-dealing-/9649465",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Team's valuation or operational trajectory in the competitive UK recruitment sector.",
@@ -165,6 +194,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/team--team/holding-s-in-company/9647077",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -175,10 +205,15 @@
       "category": "Acquisition",
       "headline": "Completion of EPIC Book acquisition",
       "url": "https://www.investegate.co.uk/announcement/rns/team--team/completion-of-epic-book-acquisition/9645423",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This acquisition consolidates Team's position in the UK digital identity market by adding EPIC Book's user base and technology, reinforcing its moat against competitors like Onfido and Jumio in a sector driven by stringent KYC/AML regulatory demands.",
+      "key_themes": [
+        "Digital Identity",
+        "Market Consolidation",
+        "KYC/AML"
+      ]
     }
   ]
 }

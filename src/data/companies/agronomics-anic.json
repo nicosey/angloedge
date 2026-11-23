@@ -10,36 +10,49 @@
       "category": null,
       "headline": "Solar Foods receive EFSA positive opinion",
       "url": "https://www.investegate.co.uk/announcement/rns/agronomics-limited--anic/solar-foods-receive-efsa-positive-opinion-/9873607",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement concerns Solar Foods, a separate entity from Agronomics Limited (ANIC), indicating no direct operational or financial impact on the listed company.",
+      "key_themes": [
+        "irrelevant_news",
+        "market_noise"
+      ]
     },
     {
       "timestamp": "2026-11-11T07:00:00",
       "category": null,
       "headline": "Portfolio Update",
       "url": "https://www.investegate.co.uk/announcement/rns/agronomics-limited--anic/portfolio-update/9868863",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Portfolio updates are standard informational disclosures for investment trusts that rarely move share prices without accompanying NAV changes or dividend announcements; ANIC's status as a niche agri-tech vehicle limits immediate sector-wide precedent impact.",
+      "key_themes": [
+        "investment trust",
+        "portfolio disclosure"
+      ]
     },
     {
       "timestamp": "2026-09-29T17:43:00",
       "category": null,
       "headline": "Update on Liberation Bioindustries",
       "url": "https://www.investegate.co.uk/announcement/rns/agronomics-limited--anic/update-on-liberation-bioindustries-/9797369",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This update likely pertains to the ongoing integration of Liberation Bioindustries, a subsidiary acquired to bolster agritech capabilities; without material financial metrics or strategic pivots, it represents routine operational reporting rather than a value-driving event for ANIC.",
+      "key_themes": [
+        "subsidiary_update",
+        "agritech_integration"
+      ]
     },
     {
       "timestamp": "2026-07-14T08:50:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/agronomics-limited--anic/director-pdmr-shareholding/9667648",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures for a micro-cap agritech firm typically carry negligible market impact unless accompanied by significant volume or insider trading alerts, reflecting standard liquidity management rather than strategic signaling.",
@@ -54,30 +67,44 @@
       "category": "Acquisition",
       "headline": "Portfolio company Tropic acquires Rahan Meristem",
       "url": "https://www.investegate.co.uk/announcement/rns/agronomics-limited--anic/portfolio-company-tropic-acquires-rahan-meristem/9635581",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This acquisition signals Tropic's aggressive expansion into the high-growth cannabis genetics market, leveraging Agronomics' platform strategy to consolidate UK horticultural assets and secure proprietary IP in a regulated sector.",
+      "key_themes": [
+        "Cannabis Sector",
+        "Platform Consolidation",
+        "IP Acquisition"
+      ]
     },
     {
       "timestamp": "2026-06-04T17:59:00",
       "category": null,
       "headline": "Agronomics portfolio company HydGene Update",
       "url": "https://www.investegate.co.uk/announcement/rns/agronomics-limited--anic/agronomics-portfolio-company-hydgene-update/9602962",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a portfolio company update for a pre-revenue agritech firm, this likely represents routine operational progress rather than a value-inflecting event; HydGene's hydrogen technology remains in the development phase with no immediate revenue visibility to drive ANIC's valuation.",
+      "key_themes": [
+        "portfolio_update",
+        "agritech",
+        "hydrogen"
+      ]
     },
     {
       "timestamp": "2026-06-04T17:58:00",
       "category": null,
       "headline": "Agronomics portfolio company Bond Pet Foods Update",
       "url": "https://www.investegate.co.uk/announcement/rns/agronomics-limited--anic/agronomics-portfolio-company-bond-pet-foods-update/9602961",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a venture capital trust holding a minority stake in Bond Pet Foods, this update reflects operational progress of a portfolio company rather than direct corporate action by Agronomics, limiting immediate financial impact on ANIC's NAV.",
+      "key_themes": [
+        "Portfolio Update",
+        "Consumer Staples"
+      ]
     }
   ]
 }

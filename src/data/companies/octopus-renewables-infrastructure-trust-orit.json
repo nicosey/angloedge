@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Kepler Trust Intelligence: New Research",
       "url": "https://www.investegate.co.uk/announcement/rns/octopus-renewables-infrastructure-trust--orit/kepler-trust-intelligence-new-research/9861630",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/octopus-renewables-infrastructure-trust--orit/holding-s-in-company/9846490",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "QuotedData's In The HotSeat",
       "url": "https://www.investegate.co.uk/announcement/rns/octopus-renewables-infrastructure-trust--orit/quoteddata-s-in-the-hotseat/9825770",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,16 +43,22 @@
       "category": "Acquisition",
       "headline": "Conditional Acquisition of UK Solar Project",
       "url": "https://www.investegate.co.uk/announcement/rns/octopus-renewables-infrastructure-trust--orit/conditional-acquisition-of-uk-solar-project/9821358",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This acquisition expands ORIT's UK solar portfolio, directly supporting the fund's growth strategy in a market where renewable capacity remains scarce and yields are compressing due to rising interest rates.",
+      "key_themes": [
+        "UK Solar",
+        "Portfolio Expansion",
+        "Renewable Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-09-25T15:40:00",
       "category": null,
       "headline": "Results analysis from Kepler Trust Intelligence",
       "url": "https://www.investegate.co.uk/announcement/rns/octopus-renewables-infrastructure-trust--orit/results-analysis-from-kepler-trust-intelligence/9792358",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +69,7 @@
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/octopus-renewables-infrastructure-trust--orit/notice-of-results/9757600",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the publication date of results rather than disclosing financial data; for ORIT, market focus remains on NAV stability and dividend sustainability amidst rising UK interest rates affecting renewable project financing.",
@@ -73,40 +83,58 @@
       "category": null,
       "headline": "Q2 2026 Factsheet and Net Asset Value",
       "url": "https://www.investegate.co.uk/announcement/rns/octopus-renewables-infrastructure-trust--orit/q2-2026-factsheet-and-net-asset-value-/9699772",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Routine quarterly NAV disclosure for a UK REIT; while critical for tracking dividend cover and asset performance in the current high-rate environment, it lacks the transformative catalysts required for significant price re-rating.",
+      "key_themes": [
+        "NAV",
+        "REIT",
+        "Renewables"
+      ]
     },
     {
       "timestamp": "2026-08-03T07:00:00",
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/octopus-renewables-infrastructure-trust--orit/dividend-declaration/9699739",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a regulated investment trust with a fixed dividend policy, ORIT's declaration confirms adherence to its income mandate amidst rising UK base rates that typically pressure REIT-like valuations; the key market focus will be on whether the payout is maintained or adjusted following recent infrastructure sector yield compression.",
+      "key_themes": [
+        "Income Trust",
+        "Infrastructure Sector",
+        "Dividend Policy"
+      ]
     },
     {
       "timestamp": "2026-06-12T15:15:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/octopus-renewables-infrastructure-trust--orit/result-of-agm/9616687",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director re-elections and auditor appointments rather than strategic shifts or capital events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-06-12T12:00:00",
       "category": "Appointment",
       "headline": "Directorate Change",
       "url": "https://www.investegate.co.uk/announcement/rns/octopus-renewables-infrastructure-trust--orit/directorate-change/9616368",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board composition update with no immediate strategic or financial impact; typical for investment trusts maintaining governance standards rather than signaling a shift in capital allocation or leadership.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     }
   ]
 }

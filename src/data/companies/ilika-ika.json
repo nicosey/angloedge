@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Trading Update & Notice of Half-Year Results",
       "url": "https://www.investegate.co.uk/announcement/rns/ilika--ika/trading-update-notice-of-half-year-results/9882910",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a pre-revenue deep tech firm in the battery materials space, Ilika's half-year results are critical for validating its cash runway and technological milestones amidst a sector facing intense scrutiny over commercialization timelines.",
@@ -24,26 +25,36 @@
       "category": null,
       "headline": "Ilika Launches ORKA Brand for Marine Applications",
       "url": "https://www.investegate.co.uk/announcement/rns/ilika--ika/ilika-launches-orka-brand-for-marine-applications/9835299",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "ORKA represents a strategic pivot to the high-growth marine energy sector, diversifying Ilika's revenue base beyond its core battery tech, but as a brand launch it lacks immediate financial materiality or valuation impact.",
+      "key_themes": [
+        "Marine Energy",
+        "Diversification",
+        "Commercialisation"
+      ]
     },
     {
       "timestamp": "2026-09-22T16:00:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM & Award of Executive Share Options",
       "url": "https://www.investegate.co.uk/announcement/rns/ilika--ika/result-of-agm-award-of-executive-share-options/9785336",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard corporate governance filing confirming shareholder approval for executive incentives, lacking any material financial or strategic catalysts for Ilika's battery technology valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Compensation"
+      ]
     },
     {
       "timestamp": "2026-08-28T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM and Posting of Annual Report",
       "url": "https://www.investegate.co.uk/announcement/rns/ilika--ika/notice-of-agm-and-posting-of-annual-report/9744394",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -54,6 +65,7 @@
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/ilika--ika/notification-of-major-holdings-/9665581",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -64,6 +76,7 @@
       "category": null,
       "headline": "TR-1: NOTIFICATION OF MAJOR HOLDINGS",
       "url": "https://www.investegate.co.uk/announcement/rns/ilika--ika/tr-1-notification-of-major-holdings-/9663484",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -74,26 +87,37 @@
       "category": "Placing",
       "headline": "Result of Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/ilika--ika/result-of-retail-offer-/9657054",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 4,
+      "insight": "This announcement confirms the closure of the retail tranche for a placing that has already diluted existing shareholders; while the institutional side sets the valuation floor, the retail result offers limited strategic insight beyond confirming demand levels in a capital-intensive sector.",
+      "key_themes": [
+        "dilution",
+        "capital_raise",
+        "battery_tech"
+      ]
     },
     {
       "timestamp": "2026-07-03T07:05:00",
       "category": "Placing",
       "headline": "Retail Offer for up to £0.5 million",
       "url": "https://www.investegate.co.uk/announcement/rns/ilika--ika/retail-offer-for-up-to-0-5-million/9650918",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 4,
+      "insight": "This is a negligible retail placings exercise typical of micro-cap biotech firms seeking to extend cash runway without significant dilution impact; it reflects routine liquidity management rather than strategic transformation.",
+      "key_themes": [
+        "Capital Raise",
+        "Micro-cap Biotech",
+        "Cash Runway"
+      ]
     },
     {
       "timestamp": "2026-07-03T07:00:00",
       "category": "Placing",
       "headline": "Result of Placing & Director Subscription",
       "url": "https://www.investegate.co.uk/announcement/rns/ilika--ika/result-of-placing-director-subscription-/9650659",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "This capital raise provides essential liquidity for Ilika's solid-state battery commercialization, a critical juncture in the high-risk EV materials sector where funding dilution is common but necessary to bridge the gap between R&D and mass production.",
@@ -108,10 +132,15 @@
       "category": null,
       "headline": "Proposed Capital Raising to raise £5.0 million",
       "url": "https://www.investegate.co.uk/announcement/rns/ilika--ika/proposed-capital-raising-to-raise-5-0-million/9650529",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This £5m equity raise is a necessary lifeline for the cash-burning battery materials sector, reflecting the broader industry's struggle to secure non-dilutive funding amidst high interest rates and delayed commercialization timelines.",
+      "key_themes": [
+        "dilution",
+        "battery technology",
+        "cash burn"
+      ]
     }
   ]
 }

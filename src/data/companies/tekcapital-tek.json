@@ -2,24 +2,43 @@
   "name": "Tekcapital",
   "ticker": "TEK",
   "slug": "tekcapital-tek",
-  "announcement_count": 36,
-  "latest_announcement": "2026-11-20T07:00:00",
+  "announcement_count": 37,
+  "latest_announcement": "2026-11-23T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T07:00:00",
+      "category": null,
+      "headline": "Directors Co-Author New Book 'The Salt Shift'",
+      "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/directors-co-author-new-book-the-salt-shift-/9887557",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a low-impact administrative disclosure regarding a personal activity by directors, offering no insight into Tekcapital's operational performance or strategic direction. Such non-financial announcements are routine and do not influence the company's valuation or market sentiment.",
+      "key_themes": [
+        "Corporate Governance",
+        "Non-Financial Disclosure"
+      ]
+    },
     {
       "timestamp": "2026-11-20T07:00:00",
       "category": null,
       "headline": "Portfolio Company Update - Vesari Inc",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/portfolio-company-update-vesari-inc-/9885170",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a micro-cap venture capital firm, Tekcapital's portfolio updates are inherently opaque regarding immediate financial impact; without specific valuation changes or liquidity events for Vesari Inc., this remains an informational disclosure with negligible short-term price catalyst.",
+      "key_themes": [
+        "Venture Capital",
+        "Portfolio Disclosure"
+      ]
     },
     {
       "timestamp": "2026-11-12T15:27:00",
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/notification-of-major-holdings-/9873197",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,16 +49,21 @@
       "category": null,
       "headline": "Portfolio Company Update - Vesari Inc",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/portfolio-company-update-vesari-inc/9861642",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a venture capital trust, Tekcapital's value is derived from its underlying portfolio; this update likely reflects standard reporting of a private holding rather than a market-moving event for the listed vehicle itself.",
+      "key_themes": [
+        "Venture Capital",
+        "Portfolio Reporting"
+      ]
     },
     {
       "timestamp": "2026-11-03T14:04:00",
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/notification-of-major-holdings-/9856316",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +74,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/total-voting-rights-/9851157",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +85,7 @@
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/notification-of-major-holdings/9844176",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,6 +96,7 @@
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/notification-of-major-holdings-/9839686",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,16 +107,21 @@
       "category": null,
       "headline": "Portfolio Company Update – Innovative Eyewear Inc",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/portfolio-company-update-innovative-eyewear-inc/9828301",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a venture capital trust, Tekcapital's portfolio updates are inherently opaque regarding immediate financial impact; without disclosed valuation changes or exit proceeds, this remains an informational update with negligible short-term price sensitivity for the AIM-listed vehicle.",
+      "key_themes": [
+        "Venture Capital",
+        "Portfolio Update"
+      ]
     },
     {
       "timestamp": "2026-10-13T15:49:00",
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/notification-of-major-holdings-/9821022",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -100,6 +132,7 @@
       "category": null,
       "headline": "Notification of Major Holdings - Replacement",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/notification-of-major-holdings-replacement/9818531",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -110,6 +143,7 @@
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/notification-of-major-holdings/9816318",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -120,6 +154,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/holding-s-in-company/9814541",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -130,6 +165,7 @@
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/notification-of-major-holdings/9814536",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -140,26 +176,35 @@
       "category": null,
       "headline": "Portfolio Company Update - Innovative Eyewear",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/portfolio-company-update-innovative-eyewear/9812304",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Portfolio updates for micro-cap investment trusts like Tekcapital rarely drive immediate share price action unless they signal a major exit or acquisition; this reflects standard reporting of underlying asset performance rather than transformative corporate activity.",
+      "key_themes": [
+        "portfolio_update",
+        "consumer_discretionary"
+      ]
     },
     {
       "timestamp": "2026-10-06T07:00:00",
       "category": null,
       "headline": "Innovative Eyewear Inc Record Q3 2026 Net Sales",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/innovative-eyewear-inc-record-q3-2026-net-sales/9807701",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The announcement references a future date (Q3 2026), indicating it is likely a forward-looking projection or an error in the provided text rather than current financial data; without actual figures, it holds no immediate market weight for Tekcapital's valuation.",
+      "key_themes": [
+        "Forward Guidance",
+        "Data Anomaly"
+      ]
     },
     {
       "timestamp": "2026-10-02T07:00:00",
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/notification-of-major-holdings/9803028",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -170,6 +215,7 @@
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/notification-of-major-holdings-/9803027",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -180,6 +226,7 @@
       "category": "Placing",
       "headline": "Placing to Raise £0.55 Million",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/placing-to-raise-0-55-million-/9795241",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 4,
       "insight": "The £0.55m placing is a negligible capital raise for Tekcapital, indicating no immediate strategic shift or major liquidity need; such micro-cap fundraising events typically have minimal price impact unless accompanied by significant dilution warnings.",
@@ -193,106 +240,149 @@
       "category": null,
       "headline": "Portfolio Company Update - Vesari Inc",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/portfolio-company-update-vesari-inc/9778564",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a micro-cap venture capital firm with limited liquidity, Tekcapital's update on portfolio company Vesari Inc is unlikely to drive immediate share price movement but provides essential visibility into asset valuation and potential future exits in the private tech sector.",
+      "key_themes": [
+        "portfolio_update",
+        "venture_capital"
+      ]
     },
     {
       "timestamp": "2026-08-28T07:00:00",
       "category": null,
       "headline": "Portfolio Company Update - Guident Corp.",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/portfolio-company-update-guident-corp-/9744402",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a micro-cap venture capital firm, Tekcapital's portfolio updates are typically low-liquidity events with minimal immediate market impact unless they signal a major exit or impairment; this update likely reflects standard reporting rather than transformative news.",
+      "key_themes": [
+        "Venture Capital",
+        "Portfolio Reporting"
+      ]
     },
     {
       "timestamp": "2026-08-28T07:00:00",
       "category": "Results",
       "headline": "Half year report",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/half-year-report-/9744324",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a micro-cap AIM listing with historically low liquidity and limited analyst coverage, this interim report provides essential visibility into cash burn and operational progress for existing shareholders, though it lacks the scale to influence broader market sentiment or attract institutional interest.",
+      "key_themes": [
+        "Interim Results",
+        "Micro-cap Disclosure"
+      ]
     },
     {
       "timestamp": "2026-08-25T07:00:00",
       "category": null,
       "headline": "Innovative Eyewear Inc Expansion into 150 Stores",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/innovative-eyewear-inc-expansion-into-150-stores/9737703",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Distribution expansion into 150 stores signals commercial traction for Tekcapital's innovative eyewear proposition, yet the lack of disclosed revenue figures or margin impact limits immediate financial quantification compared to transformative M&A events.",
+      "key_themes": [
+        "commercial_expansion",
+        "retail_distribution"
+      ]
     },
     {
       "timestamp": "2026-08-24T07:00:00",
       "category": null,
       "headline": "Portfolio Company Update - Innovative Eyewear Inc",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/portfolio-company-update-innovative-eyewear-inc/9735294",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a venture capital trust, Tekcapital's portfolio updates are inherently opaque and lack the transparency required for immediate valuation adjustments; without disclosed financials or specific milestones, this remains an administrative disclosure with negligible near-term market impact.",
+      "key_themes": [
+        "Venture Capital",
+        "Portfolio Update",
+        "Low Transparency"
+      ]
     },
     {
       "timestamp": "2026-08-21T09:23:00",
       "category": "Results",
       "headline": "Unaudited Half Year Report - Replacement",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/unaudited-half-year-report-replacement-/9734113",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "The 'Replacement' designation indicates a technical correction of a previous filing rather than new financial data, suggesting no material change in the underlying half-year performance or strategic outlook.",
+      "key_themes": [
+        "Administrative",
+        "Filing Correction"
+      ]
     },
     {
       "timestamp": "2026-08-21T07:15:00",
       "category": null,
       "headline": "Portfolio Company Update -Innovative Eyewear Inc",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/portfolio-company-update-innovative-eyewear-inc/9733830",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a venture capital trust, Tekcapital's portfolio updates are inherently opaque regarding immediate financial impact; without disclosed valuation changes or specific exit milestones, this remains an informational disclosure with negligible short-term price sensitivity for the AIM-listed vehicle.",
+      "key_themes": [
+        "Venture Capital",
+        "Portfolio Update"
+      ]
     },
     {
       "timestamp": "2026-08-21T07:00:00",
       "category": null,
       "headline": "Portfolio Company Update - Guident Corp",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/portfolio-company-update-guident-corp/9733052",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a micro-cap investment trust with limited liquidity, Tekcapital's update on portfolio company Guident Corp is likely to have negligible immediate price impact unless it signals a significant exit or impairment; such updates are routine for holding companies and rarely drive standalone valuation changes.",
+      "key_themes": [
+        "portfolio_update",
+        "micro_cap",
+        "investment_trust"
+      ]
     },
     {
       "timestamp": "2026-08-20T07:00:00",
       "category": "Appointment",
       "headline": "Vesari Inc Appointment to Science Advisory Board",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/vesari-inc-appointment-to-science-advisory-board/9730808",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This appointment signals a strategic pivot toward deep tech validation but lacks immediate financial catalysts; such advisory boards are common for credibility in early-stage UK biotech and AI plays rather than indicators of imminent revenue or M&A.",
+      "key_themes": [
+        "governance",
+        "deep tech"
+      ]
     },
     {
       "timestamp": "2026-08-19T07:00:00",
       "category": null,
       "headline": "Vesari Secures Twelfth Patent Application",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/vesari-secures-twelfth-patent-application/9728561",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Securing a patent application is a standard operational milestone for early-stage biotech firms like Tekcapital, offering limited immediate commercial value or revenue visibility compared to transformative events like clinical trial results or M&A.",
+      "key_themes": [
+        "IP Development",
+        "Routine Corporate Update"
+      ]
     },
     {
       "timestamp": "2026-08-18T07:00:00",
       "category": null,
       "headline": "Investor Presentation - Vesari, Inc.",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/investor-presentation-vesari-inc-/9726215",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -303,56 +393,78 @@
       "category": null,
       "headline": "Portfolio Company Update - Vesari Inc",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/portfolio-company-update-vesari-inc-/9673584",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a venture capital trust, Tekcapital's value is derived from its underlying portfolio; this update likely reflects standard reporting of a private holding rather than a liquid market catalyst, offering limited immediate price impact for TEK shares.",
+      "key_themes": [
+        "Venture Capital",
+        "Portfolio Reporting"
+      ]
     },
     {
       "timestamp": "2026-07-15T07:00:00",
       "category": null,
       "headline": "Portfolio Company Update -Vesari Inc",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/portfolio-company-update-vesari-inc/9668994",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a venture capital trust, Tekcapital's value is derived from its portfolio performance; this update likely pertains to Vesari Inc's operational status rather than immediate financial impact on TEK's NAV. Without details of a significant exit or impairment, such announcements are routine for VCTs and typically have negligible short-term price impact.",
+      "key_themes": [
+        "VCT Portfolio",
+        "Venture Capital"
+      ]
     },
     {
       "timestamp": "2026-07-07T07:00:00",
       "category": null,
       "headline": "Portfolio Company Update - Innovative Eyewear Inc",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/portfolio-company-update-innovative-eyewear-inc/9654918",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a venture capital trust, Tekcapital's portfolio updates are inherently opaque regarding immediate financial impact; without disclosed valuation changes or specific exit milestones, this remains a low-visibility administrative disclosure typical of the sector.",
+      "key_themes": [
+        "Venture Capital",
+        "Portfolio Update"
+      ]
     },
     {
       "timestamp": "2026-07-06T07:00:00",
       "category": null,
       "headline": "Innovative Eyewear Preliminary Q2 2026 Net Sales",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/innovative-eyewear-preliminary-q2-2026-net-sales/9653039",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Tekcapital's pivot to eyewear represents a high-risk strategic diversification into a competitive consumer retail sector, diverging from its traditional investment holding model. While Q2 sales data provides early validation of this new venture, the execution risk remains elevated given the capital intensity and margin pressures inherent in physical retail.",
+      "key_themes": [
+        "Strategic Pivot",
+        "Consumer Retail",
+        "Execution Risk"
+      ]
     },
     {
       "timestamp": "2026-06-29T12:02:00",
       "category": "AGM/EGM",
       "headline": "Results of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/results-of-annual-general-meeting-/9642154",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results typically confirm shareholder approval of standard administrative matters with negligible immediate financial impact, reflecting the low volatility and small-cap nature of Tekcapital's listing.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-24T14:52:00",
       "category": "AGM/EGM",
       "headline": "Notice of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/notice-of-annual-general-meeting/9634977",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -363,6 +475,7 @@
       "category": "Results",
       "headline": "Results for Year Ended 31 December 2025",
       "url": "https://www.investegate.co.uk/announcement/rns/tekcapital--tek/results-for-year-ended-31-december-2025/9586459",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap AIM listing, Tekcapital's annual results are critical for assessing liquidity and survival, though the lack of transformative M&A or major capital raises limits the immediate market-moving potential compared to larger peers.",

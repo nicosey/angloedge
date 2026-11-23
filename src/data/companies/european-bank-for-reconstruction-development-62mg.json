@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Post Stabilisation Notice - European Bank for  R&D",
       "url": "https://www.investegate.co.uk/announcement/rns/european-bank-for-reconstruction-development--62mg/post-stabilisation-notice-european-bank-for-r-d/9802781",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,22 @@
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/european-bank-for-reconstruction-development--62mg/half-year-financial-report-/9789141",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a quasi-sovereign multilateral development bank listed on the LSE, this report reflects stable dividend policy and capital adequacy rather than commercial growth dynamics; it serves primarily as a yield anchor for income-focused portfolios amidst rising interest rate environments.",
+      "key_themes": [
+        "Multilateral Development Bank",
+        "Dividend Yield",
+        "Capital Adequacy"
+      ]
     },
     {
       "timestamp": "2026-09-24T09:44:00",
       "category": "Results",
       "headline": "1st Quarter Results",
       "url": "https://www.investegate.co.uk/announcement/rns/european-bank-for-reconstruction-development--62mg/1st-quarter-results-/9789120",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a quasi-sovereign lender with a unique multi-currency funding profile, this update provides critical insight into the EBRD's risk appetite and capital adequacy amid European geopolitical instability, serving as a barometer for development finance sector health rather than standard commercial banking metrics.",

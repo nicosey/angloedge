@@ -10,36 +10,51 @@
       "category": null,
       "headline": "Press speculation and Suspension of Listing",
       "url": "https://www.investegate.co.uk/announcement/rns/miotal-plc--mio/press-speculation-and-suspension-of-listing/9876794",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Suspension of listing due to press speculation is a critical red flag in the UK micro-cap space, often preceding delisting or severe liquidity crises as seen in recent SPAC and penny stock collapses; it signals imminent regulatory scrutiny or undisclosed material non-public information.",
+      "key_themes": [
+        "Regulatory Risk",
+        "Liquidity Crisis",
+        "Market Integrity"
+      ]
     },
     {
       "timestamp": "2026-11-13T14:12:00",
       "category": null,
       "headline": "Update on Opportunity",
       "url": "https://www.investegate.co.uk/announcement/rns/miotal-plc--mio/update-on-opportunity-/9875152",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Vague 'opportunity' updates are standard boilerplate for micro-cap exploration firms to maintain share price visibility without material news; lacking specific asset details or financial metrics, this holds negligible immediate investment value.",
+      "key_themes": [
+        "micro-cap",
+        "exploration",
+        "marketability"
+      ]
     },
     {
       "timestamp": "2026-07-23T12:56:00",
       "category": null,
       "headline": "Change in Strategy",
       "url": "https://www.investegate.co.uk/announcement/rns/miotal-plc--mio/change-in-strategy-/9684696",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Strategic pivots in small-cap UK equities often signal underlying distress or a lack of organic growth, creating high execution risk without immediate financial visibility.",
+      "key_themes": [
+        "Corporate Governance",
+        "Strategic Pivot"
+      ]
     },
     {
       "timestamp": "2026-06-19T16:06:00",
       "category": "Results",
       "headline": "Interim Results to 31 March 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/miotal-plc--mio/interim-results-to-31-march-2026/9628402",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap AIM-listed entity, Miotal's interim results are routine but critical for assessing liquidity and operational viability in the volatile junior mining sector, where cash burn rates often dictate survival.",

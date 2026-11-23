@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Mandatory Notification of Trade",
       "url": "https://www.investegate.co.uk/announcement/gnw/dno-international-asa--0mhp/mandatory-notification-of-trade/9853507",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a mandatory notification of trade for Dno International ASA, this is likely a routine insider dealing disclosure rather than a material corporate event; without specific volume or price data indicating significant block trading, it holds minimal immediate market impact.",
+      "key_themes": [
+        "Insider Dealing",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-08-20T16:04:00",
       "category": null,
       "headline": "Form 8 (OPD) - DNO ASA",
       "url": "https://www.investegate.co.uk/announcement/rns/dno-international-asa--0mhp/form-8-opd-dno-asa/9732829",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": null,
       "headline": "Rule 2.9 Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/dno-international-asa--0mhp/rule-2-9-announcement/9725911",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,

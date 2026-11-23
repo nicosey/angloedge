@@ -10,16 +10,21 @@
       "category": "AGM/EGM",
       "headline": "Result of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/prn/malibu-life-holdings-limited--mlhl/result-of-annual-general-meeting/9856448",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for a micro-cap entity typically involve standard shareholder ratification with negligible immediate market impact unless controversial resolutions were passed.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap"
+      ]
     },
     {
       "timestamp": "2026-10-22T18:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/prn/malibu-life-holdings-limited--mlhl/holding-s-in-company/9837457",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/prn/malibu-life-holdings-limited--mlhl/notice-of-annual-general-meeting/9799807",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,46 +46,64 @@
       "category": null,
       "headline": "Admission to Trading Announcement",
       "url": "https://www.investegate.co.uk/announcement/prn/malibu-life-holdings-limited--mlhl/admission-to-trading-announcement/9773341",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the listing of shares, likely following a previous placement or IPO, rather than a substantive corporate event; MLHL's niche position in the UK life settlement market offers limited immediate catalyst for price action without accompanying financial data.",
+      "key_themes": [
+        "Admission to Trading",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-14T16:40:00",
       "category": "Results",
       "headline": "Notice of Release Date for Interim Report and Financials",
       "url": "https://www.investegate.co.uk/announcement/prn/malibu-life-holdings-limited--mlhl/notice-of-release-date-for-interim-report-and-/9771261",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This is a standard interim results announcement for a small-cap life assurance firm, indicating routine financial disclosure rather than transformative corporate action; market reaction will depend entirely on the underlying solvency margins and investment returns in the current high-rate environment.",
+      "key_themes": [
+        "Interim Results",
+        "Life Assurance",
+        "Small Cap"
+      ]
     },
     {
       "timestamp": "2026-09-11T14:55:00",
       "category": null,
       "headline": "Announcement of Share Issuance",
       "url": "https://www.investegate.co.uk/announcement/prn/malibu-life-holdings-limited--mlhl/announcement-of-share-issuance/9768611",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Share issuance announcements for small-cap life offices like Malibu Life often signal dilution to fund growth or meet solvency requirements without clear strategic upside, typically pressuring the share price unless tied to a specific high-value asset acquisition.",
+      "key_themes": [
+        "dilution",
+        "capital raising"
+      ]
     },
     {
       "timestamp": "2026-08-24T13:27:00",
       "category": "Director Dealing",
       "headline": "Announcement of Transactions by PDMRs/PCAs",
       "url": "https://www.investegate.co.uk/announcement/prn/malibu-life-holdings-limited--mlhl/announcement-of-transactions-by-pdmrs-pcas/9737111",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard regulatory disclosure of insider transactions with no inherent market-moving significance; without details on direction (buy/sell) or volume relative to holdings, it provides no actionable signal for MLHL's valuation.",
+      "key_themes": [
+        "Regulatory Compliance",
+        "Insider Activity"
+      ]
     },
     {
       "timestamp": "2026-08-24T07:02:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/prn/malibu-life-holdings-limited--mlhl/total-voting-rights/9735525",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,6 +114,7 @@
       "category": "Placing",
       "headline": "Placing and Open Offer",
       "url": "https://www.investegate.co.uk/announcement/prn/malibu-life-holdings-limited--mlhl/placing-and-open-offer/9699455",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "The dual placing and open offer indicates a necessary capital raise to fund growth or strengthen the balance sheet, typical for small-cap life sciences firms navigating R&D cycles; however, it carries dilution risk that may pressure the share price in the short term.",
@@ -104,20 +129,28 @@
       "category": null,
       "headline": "Executive Share Awards",
       "url": "https://www.investegate.co.uk/announcement/prn/malibu-life-holdings-limited--mlhl/executive-share-awards/9609751",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Executive share awards are standard compensation mechanisms with negligible immediate financial impact on MLHL's valuation or liquidity, reflecting routine governance rather than strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Compensation"
+      ]
     },
     {
       "timestamp": "2026-06-09T15:30:00",
       "category": null,
       "headline": "Strategy Committee Deferred Share Awards",
       "url": "https://www.investegate.co.uk/announcement/prn/malibu-life-holdings-limited--mlhl/strategy-committee-deferred-share-awards/9609750",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the vesting of deferred share awards for the Strategy Committee, indicating routine executive compensation mechanics rather than any strategic shift or material financial event.",
+      "key_themes": [
+        "executive_compensation",
+        "corporate_governance"
+      ]
     }
   ]
 }

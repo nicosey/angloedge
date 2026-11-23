@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding - Replacement",
       "url": "https://www.investegate.co.uk/announcement/rns/tavistock-investments--tavi/director-pdmr-shareholding-replacement/9887238",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory filing for a closed-end investment trust; director dealings are routine administrative events that rarely signal immediate strategic shifts in the UK property or asset management sector.",
@@ -23,6 +24,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/tavistock-investments--tavi/director-pdmr-shareholding/9887177",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Director dealings are routine disclosures with negligible immediate impact on Tavistock's valuation; without volume or price context, these filings offer no signal of insider sentiment or strategic shift.",
@@ -36,6 +38,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/tavistock-investments--tavi/director-pdmr-shareholding/9886727",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry minimal market impact unless accompanied by unusual volume or context suggesting insider sentiment shifts; without specific transaction details, this remains an administrative filing with no immediate strategic implication for Tavistock's valuation.",
@@ -49,6 +52,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/tavistock-investments--tavi/director-pdmr-shareholding/9886577",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements for Tavistock Investments typically reflect standard portfolio rebalancing rather than significant strategic shifts, offering limited immediate alpha given the fund's established long-only mandate.",
@@ -62,26 +66,35 @@
       "category": null,
       "headline": "Exclusivity and Option Agreement",
       "url": "https://www.investegate.co.uk/announcement/rns/tavistock-investments--tavi/exclusivity-and-option-agreement/9884179",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Exclusivity agreements are standard pre-M&A procedural steps that signal potential deal activity but carry no guaranteed outcome, often resulting in market uncertainty rather than immediate value creation.",
+      "key_themes": [
+        "M&A speculation",
+        "Corporate governance"
+      ]
     },
     {
       "timestamp": "2026-11-05T14:20:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/tavistock-investments--tavi/result-of-agm/9861034",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which typically rubber-stamp routine governance matters without altering the investment thesis or capital structure.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-10-12T12:17:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/tavistock-investments--tavi/holding-s-in-company/9818376",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -92,6 +105,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/tavistock-investments--tavi/notice-of-agm/9810101",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -102,30 +116,43 @@
       "category": "Acquisition",
       "headline": "Acquisition of Plus Group",
       "url": "https://www.investegate.co.uk/announcement/rns/tavistock-investments--tavi/acquisition-of-plus-group/9689929",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This acquisition marks a pivotal strategic pivot for Tavistock from its traditional private equity roots into the high-growth UK tech infrastructure sector, leveraging Plus Group's data centre assets to capitalize on the surging demand for AI and cloud computing capacity.",
+      "key_themes": [
+        "Strategic Pivot",
+        "Tech Infrastructure",
+        "AI Enabler"
+      ]
     },
     {
       "timestamp": "2026-07-22T12:35:00",
       "category": null,
       "headline": "Settlement of Litigation",
       "url": "https://www.investegate.co.uk/announcement/rns/tavistock-investments--tavi/settlement-of-litigation/9682357",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Litigation settlement typically removes a known overhang on the balance sheet, but for Tavistock Investments, this is likely a routine resolution of historical holdings rather than a transformative event. The impact is limited by the fund's size and the non-recurring nature of such legal outcomes.",
+      "key_themes": [
+        "Legal Resolution",
+        "Balance Sheet Clarity"
+      ]
     },
     {
       "timestamp": "2026-05-29T09:00:00",
       "category": "Appointment",
       "headline": "Directorate Change",
       "url": "https://www.investegate.co.uk/announcement/rns/tavistock-investments--tavi/directorate-change/9591956",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board-level personnel adjustments in investment trusts typically signal governance continuity rather than strategic shifts; without details on the specific role or background of the appointee, this lacks the catalyst potential for significant re-rating.",
+      "key_themes": [
+        "governance",
+        "investment trust"
+      ]
     }
   ]
 }

@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Group Consolidation - update",
       "url": "https://www.investegate.co.uk/announcement/rns/jigsaw-funding-plc--zm87/group-consolidation-update/9798436",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement reflects standard portfolio rebalancing within the specialist finance sector, likely involving the sale of non-core assets or minor subsidiaries to optimize capital efficiency rather than indicating a strategic pivot or distress.",
+      "key_themes": [
+        "Portfolio Optimization",
+        "Corporate Housekeeping"
+      ]
     },
     {
       "timestamp": "2026-09-24T15:31:00",
       "category": "Results",
       "headline": "Final Results - Group",
       "url": "https://www.investegate.co.uk/announcement/rns/jigsaw-funding-plc--zm87/final-results-group-/9789992",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a non-operating holding company for the Jigsaw Group of funds, this announcement primarily serves as a regulatory compliance exercise rather than a catalyst for share price movement, reflecting standard annual reporting cycles in the asset management sector.",
@@ -33,6 +38,7 @@
       "category": "Results",
       "headline": "Final Results",
       "url": "https://www.investegate.co.uk/announcement/rns/jigsaw-funding-plc--zm87/final-results-/9789991",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a SPAC with limited operational history, final results typically confirm the completion of the listing process rather than indicating substantive business performance, reflecting standard administrative closure for this vehicle type.",
@@ -46,10 +52,14 @@
       "category": null,
       "headline": "Strategic Partnership",
       "url": "https://www.investegate.co.uk/announcement/rns/jigsaw-funding-plc--zm87/strategic-partnership/9750016",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Strategic partnerships for funding platforms typically signal a push to diversify revenue streams beyond core lending margins; while potentially accretive long-term, these announcements often lack immediate financial quantification and carry execution risk in a tightening credit environment.",
+      "key_themes": [
+        "business model diversification",
+        "strategic alliance"
+      ]
     }
   ]
 }

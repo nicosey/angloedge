@@ -2,14 +2,26 @@
   "name": "NewRiver REIT",
   "ticker": "NRR",
   "slug": "newriver-reit-nrr",
-  "announcement_count": 12,
-  "latest_announcement": "2026-11-13T18:18:00",
+  "announcement_count": 13,
+  "latest_announcement": "2026-11-23T10:53:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T10:53:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/holding-s-in-company/9888997",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-13T18:18:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/holding-s-in-company/9875586",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +32,7 @@
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/notice-of-results/9869733",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the publication date of results rather than disclosing financial data itself; for NewRiver REIT, market focus will remain on its ongoing transition to a growth-oriented portfolio and execution of its strategic reset.",
@@ -33,6 +46,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/total-voting-rights/9802917",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,6 +57,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/director-pdmr-shareholding/9763572",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on share price or capital structure, reflecting individual portfolio management rather than corporate strategy shifts.",
@@ -56,6 +71,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/total-voting-rights/9752654",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -66,56 +82,78 @@
       "category": "Dividend",
       "headline": "Scrip dividend share allotment",
       "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/scrip-dividend-share-allotment/9702138",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative allotment of shares under the existing scrip dividend facility, indicating no new capital raise or strategic shift. While it confirms shareholder preference for reinvestment over cash, it has negligible immediate impact on NewRiver's liquidity or valuation compared to core operational metrics.",
+      "key_themes": [
+        "Corporate Action",
+        "Capital Structure"
+      ]
     },
     {
       "timestamp": "2026-07-29T16:14:00",
       "category": "Appointment",
       "headline": "Appointments to the Board",
       "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/appointments-to-the-board/9694415",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board appointments are standard governance updates for NewRiver REIT, lacking the immediate catalysts of M&A or significant capital raises that typically drive UK equity volatility.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-25T17:53:00",
       "category": "AGM/EGM",
       "headline": "Annual Report and Accounts and AGM 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/annual-report-and-accounts-and-agm-2026/9637763",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine AGM filing serves as a standard governance checkpoint for NewRiver REIT; while critical for shareholder approval of director remuneration and auditor appointment, it lacks the transformative catalysts or material financial disclosures required to drive immediate share price volatility.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-25T14:30:00",
       "category": "Dividend",
       "headline": "Scrip Dividend Reference Price",
       "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/scrip-dividend-reference-price-/9637441",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice defining the reference price for the scrip dividend option, lacking any substantive strategic shift or financial data that would alter valuation models.",
+      "key_themes": [
+        "Corporate Action",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-05T10:33:00",
       "category": "Dividend",
       "headline": "Dividend Declaration & Scrip Dividend Scheme",
       "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/dividend-declaration-scrip-dividend-scheme/9604515",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The introduction of a scrip dividend scheme is a strategic capital management move typical for UK REITs to preserve cash during high-interest rate environments, though it may signal limited organic growth opportunities or a desire to avoid dilutive equity raises.",
+      "key_themes": [
+        "Capital Allocation",
+        "Cash Preservation",
+        "REIT Sector Strategy"
+      ]
     },
     {
       "timestamp": "2026-06-02T07:00:00",
       "category": "Results",
       "headline": "Preliminary results for year ended 31 March 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/preliminary-results-for-year-ended-31-march-2026/9596006",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a major UK listed REIT, NewRiver's annual results are critical for assessing exposure to the distressed retail and logistics sectors amid rising interest rates and economic uncertainty, directly influencing dividend sustainability and NAV estimates.",
@@ -130,6 +168,7 @@
       "category": "Results",
       "headline": "Full Year Results Details & Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/full-year-results-details-investor-presentation/9594214",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Full year results for a UK REIT are standard periodic disclosures that typically confirm dividend sustainability and portfolio performance rather than signaling immediate strategic shifts, though they provide critical data for yield-seeking investors in the current high-rate environment.",

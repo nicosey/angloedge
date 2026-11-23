@@ -10,16 +10,21 @@
       "category": "Appointment",
       "headline": "Board Update",
       "url": "https://www.investegate.co.uk/announcement/rns/molecule-group-plc--mol/board-update-/9874245",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board updates for Molecule Group typically involve minor administrative changes or standard director appointments rather than strategic pivots; without specific details on high-profile executive hires or governance overhauls, this lacks the catalyst potential to drive significant re-rating in the current biotech funding environment.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-10-21T16:10:00",
       "category": "Director Dealing",
       "headline": "Grant of Options and Director Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/molecule-group-plc--mol/grant-of-options-and-director-dealing-/9834967",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine administrative disclosure of option grants and director dealings typical for Molecule Group's biotech model; lacks the transformative catalysts required to move the stock price in a sector already sensitive to clinical trial outcomes rather than internal governance events.",
@@ -33,6 +38,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Transaction",
       "url": "https://www.investegate.co.uk/announcement/rns/molecule-group-plc--mol/director-pdmr-transaction-/9820728",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard disclosure of individual director transactions which typically carries negligible signal for institutional investors compared to aggregate insider net buying/selling trends.",

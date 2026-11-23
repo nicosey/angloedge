@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Notice of Results, Analyst Briefing, Investor Pres",
       "url": "https://www.investegate.co.uk/announcement/rns/pci-pal--pcip/notice-of-results-analyst-briefing-investor-pres/9880603",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a micro-cap fintech with limited liquidity, this announcement serves as a critical transparency event for institutional due diligence rather than an immediate catalyst for price discovery; the focus will be on customer acquisition costs and regulatory compliance progress within the competitive UK payments sector.",
@@ -23,16 +24,21 @@
       "category": null,
       "headline": "Conference attendance at Mello2026 Investor event",
       "url": "https://www.investegate.co.uk/announcement/rns/pci-pal--pcip/conference-attendance-at-mello2026-investor-event/9873615",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Attendance at a niche investor conference is standard marketing activity for PCI-Pal, offering negligible immediate catalyst value compared to operational updates or financial results.",
+      "key_themes": [
+        "Investor Relations",
+        "Market Visibility"
+      ]
     },
     {
       "timestamp": "2026-11-12T07:00:00",
       "category": "Results",
       "headline": "FY26 Results Timing & FY27 Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/pci-pal--pcip/fy26-results-timing-fy27-trading-update/9871314",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative update regarding reporting timelines rather than a substantive financial disclosure, offering no new data on PCI-Pal's operational performance or valuation drivers.",
@@ -46,16 +52,22 @@
       "category": null,
       "headline": "Confirmation of reseller partnership with BT",
       "url": "https://www.investegate.co.uk/announcement/rns/pci-pal--pcip/confirmation-of-reseller-partnership-with-bt/9783276",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Securing a reseller partnership with BT provides PCI-Pal with immediate access to a massive enterprise customer base, significantly de-risking its go-to-market strategy and validating its cybersecurity proposition in the competitive UK SME sector.",
+      "key_themes": [
+        "channel_partnership",
+        "cybersecurity",
+        "distribution"
+      ]
     },
     {
       "timestamp": "2026-08-17T07:00:00",
       "category": "Results",
       "headline": "Notice of Results, Analyst Briefing, Investor Pres",
       "url": "https://www.investegate.co.uk/announcement/rns/pci-pal--pcip/notice-of-results-analyst-briefing-investor-pres/9723840",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a micro-cap with limited liquidity, PCI-PAL's results release is routine but critical for shareholder visibility; the inclusion of an analyst briefing suggests management is actively seeking to improve market engagement and potentially correct valuation disconnects in the niche payment processing sector.",
@@ -69,6 +81,7 @@
       "category": "Director Dealing",
       "headline": "Director Share Purchase",
       "url": "https://www.investegate.co.uk/announcement/rns/pci-pal--pcip/director-share-purchase/9706704",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Director purchases in the PCI-PAL context typically signal internal confidence but lack the transformative weight of M&A or major capital raises; this is a routine insider dealing event with limited immediate market-moving potential.",
@@ -82,6 +95,7 @@
       "category": "Director Dealing",
       "headline": "Director Share Purchase",
       "url": "https://www.investegate.co.uk/announcement/rns/pci-pal--pcip/director-share-purchase/9698599",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director share purchases in the UK equity market are typically low-conviction signals that rarely drive immediate price action without accompanying volume or sector-wide catalysts.",
@@ -95,10 +109,15 @@
       "category": null,
       "headline": "New Strategic Partnership with NiCE Confirmed",
       "url": "https://www.investegate.co.uk/announcement/rns/pci-pal--pcip/new-strategic-partnership-with-nice-confirmed/9694735",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This partnership validates PCI-Pal's AI-driven compliance technology within the UK healthcare sector, addressing a critical pain point for NHS trusts and private providers amid rising regulatory scrutiny. While not transformative, it signals commercial traction and potential revenue diversification beyond legacy hardware sales.",
+      "key_themes": [
+        "Healthcare IT",
+        "AI Compliance",
+        "Strategic Partnership"
+      ]
     }
   ]
 }

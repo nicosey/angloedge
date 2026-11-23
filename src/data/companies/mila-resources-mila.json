@@ -10,6 +10,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/mfn/mila-resources--mila/notice-of-annual-general-meeting/9875223",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Results",
       "headline": "Final Results",
       "url": "https://www.investegate.co.uk/announcement/rns/mila-resources--mila/final-results/9833713",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a micro-cap resource explorer with limited liquidity and no established production history, final results typically serve as administrative updates rather than market-moving events unless accompanied by significant drilling success or funding.",
@@ -34,6 +36,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/mila-resources--mila/holding-s-in-company/9767549",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -44,6 +47,7 @@
       "category": "Placing",
       "headline": "Oversubscribed Placing of £1.5m",
       "url": "https://www.investegate.co.uk/announcement/rns/mila-resources--mila/oversubscribed-placing-of-1-5m/9759119",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "The oversubscribed nature of this £1.5m placing indicates strong institutional confidence in Mila Resources' exploration potential, providing essential liquidity for drilling programs without significant dilution pressure.",
@@ -58,16 +62,21 @@
       "category": null,
       "headline": "Upgraded JORC Resource at Kathleen Valley",
       "url": "https://www.investegate.co.uk/announcement/rns/mila-resources--mila/upgraded-jorc-resource-at-kathleen-valley-/9739903",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "An upgraded JORC resource at Kathleen Valley signals potential value creation for this junior explorer, though without a defined PEA or feasibility study, the immediate financial impact remains speculative compared to major producers.",
+      "key_themes": [
+        "Resource Expansion",
+        "Junior Mining"
+      ]
     },
     {
       "timestamp": "2026-08-20T07:00:00",
       "category": "Results",
       "headline": "Highly Positive Geophysics Results from Monal",
       "url": "https://www.investegate.co.uk/announcement/rns/mila-resources--mila/highly-positive-geophysics-results-from-monal/9730768",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Positive geophysics data at Monal validates the exploration thesis for this junior explorer, potentially de-risking the asset and supporting a near-term capital raise or resource definition drill program in a competitive UK AIM mining sector.",
@@ -82,26 +91,35 @@
       "category": null,
       "headline": "Queensland Exploration Programme & Drilling Update",
       "url": "https://www.investegate.co.uk/announcement/rns/mila-resources--mila/queensland-exploration-programme-drilling-update/9725216",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Exploration updates for junior miners like Mila Resources typically carry low immediate financial impact unless they announce a resource upgrade or discovery; this is likely routine operational reporting with limited near-term catalyst potential.",
+      "key_themes": [
+        "exploration",
+        "drilling"
+      ]
     },
     {
       "timestamp": "2026-08-12T07:00:00",
       "category": null,
       "headline": "Mila moves to 100% Ownership in Queensland",
       "url": "https://www.investegate.co.uk/announcement/rns/mila-resources--mila/mila-moves-to-100-ownership-in-queensland/9716759",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Full consolidation of the Queensland asset eliminates minority interest dilution and simplifies the cap table, directly boosting attributable earnings per share for Mila Resources shareholders.",
+      "key_themes": [
+        "Asset Consolidation",
+        "Earnings Accretion"
+      ]
     },
     {
       "timestamp": "2026-07-30T07:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/mila-resources--mila/holding-s-in-company/9694720",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -112,20 +130,28 @@
       "category": null,
       "headline": "Management Share Options",
       "url": "https://www.investegate.co.uk/announcement/rns/mila-resources--mila/management-share-options/9637914",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding executive compensation structures rather than a material corporate event; it signals no immediate change in control, strategy, or financial position for Mila Resources.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Compensation"
+      ]
     },
     {
       "timestamp": "2026-06-22T07:00:00",
       "category": null,
       "headline": "Commencement of IP Survey at Monal Au-Cu Project",
       "url": "https://www.investegate.co.uk/announcement/rns/mila-resources--mila/commencement-of-ip-survey-at-monal-au-cu-project-/9628759",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard technical update for an early-stage explorer, confirming due diligence progress rather than commercial viability; without assay results or resource estimates, the market will likely view this as low-impact noise amidst broader junior mining volatility.",
+      "key_themes": [
+        "exploration",
+        "due_diligence"
+      ]
     }
   ]
 }

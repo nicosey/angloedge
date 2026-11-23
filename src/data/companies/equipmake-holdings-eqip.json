@@ -10,6 +10,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/equipmake-holdings-plc--eqip/notice-of-agm-/9858880",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,22 @@
       "category": null,
       "headline": "Project Coeus Hybrid Power Unit Begins Testing",
       "url": "https://www.investegate.co.uk/announcement/rns/equipmake-holdings-plc--eqip/project-coeus-hybrid-power-unit-begins-testing/9807699",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This milestone validates Equipmake's proprietary hybrid power technology in a high-growth data centre market, reducing execution risk and potentially accelerating revenue recognition from pilot to commercial scale.",
+      "key_themes": [
+        "Data Centre Infrastructure",
+        "Energy Transition",
+        "Technology Validation"
+      ]
     },
     {
       "timestamp": "2026-09-21T09:15:00",
       "category": "Director Dealing",
       "headline": "Director’s Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/equipmake-holdings-plc--eqip/director-s-dealing-/9781895",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry negligible market impact unless involving substantial block trades or insider trading allegations; without volume or price context, this remains an administrative filing with no immediate strategic implication for EQIP.",
@@ -43,6 +50,7 @@
       "category": "Trading Update",
       "headline": "Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/equipmake-holdings-plc--eqip/trading-update-/9678474",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 4,
       "insight": "As a micro-cap with limited liquidity and historical volatility, EQIP's routine trading update lacks the transformative catalysts required for significant price discovery, reflecting the broader challenges in scaling UK deep-tech manufacturing.",
@@ -57,6 +65,7 @@
       "category": "Director Dealing",
       "headline": "Director’s Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/equipmake-holdings-plc--eqip/director-s-dealing-/9635419",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry negligible market impact unless involving substantial block trades or insider trading allegations; without volume or price context, this is standard administrative compliance rather than a signal of strategic shift.",
@@ -70,16 +79,21 @@
       "category": "Director Dealing",
       "headline": "Directors’ Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/equipmake-holdings-plc--eqip/directors-dealings/9633071",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealings in the industrial decarbonisation sector typically signal internal monitoring rather than strategic shifts; without volume or price context, this lacks the transformative weight of M&A or capital raises.",
+      "key_themes": [
+        "Corporate Governance",
+        "Minor Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-22T07:00:00",
       "category": "Trading Update",
       "headline": "Trading Update and Directorate Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/equipmake-holdings-plc--eqip/trading-update-and-directorate-changes-/9628743",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "The combination of a trading update with directorate changes signals potential strategic realignment or governance restructuring, which is common in UK small-caps navigating post-IPO volatility or sector consolidation pressures.",

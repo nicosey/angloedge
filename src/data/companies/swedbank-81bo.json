@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Post Stabilisation Notice Swedbank 10NC5 Tier 2",
       "url": "https://www.investegate.co.uk/announcement/rns/swedbank-ab--81bo/post-stabilisation-notice-swedbank-10nc5-tier-2/9846176",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,22 @@
       "category": "Results",
       "headline": "Swedbank's interim report for the third quarter 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/swedbank-ab--81bo/swedbank-s-interim-report-for-the-third-quarter-/9835289",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a major Nordic financial institution, Swedbank's Q3 interim results provide critical visibility into the region's credit quality and net interest margin resilience amid persistent high interest rates, serving as a key barometer for European banking sector health.",
+      "key_themes": [
+        "Interim Results",
+        "Nordic Banking",
+        "Interest Rate Sensitivity"
+      ]
     },
     {
       "timestamp": "2026-09-10T14:53:00",
       "category": null,
       "headline": "Post Stabilisation Notice - Swedbank SP",
       "url": "https://www.investegate.co.uk/announcement/rns/swedbank-ab--81bo/post-stabilisation-notice-swedbank-sp/9766257",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +47,7 @@
       "category": null,
       "headline": "Pre-Stabilisation Notice - Swedbank SP",
       "url": "https://www.investegate.co.uk/announcement/rns/swedbank-ab--81bo/pre-stabilisation-notice-swedbank-sp/9717823",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,20 +58,29 @@
       "category": "Results",
       "headline": "Swedbank's interim report for the second quarter 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/swedbank-ab--81bo/swedbank-s-interim-report-for-the-second-quarte-/9673592",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a major Nordic lender, Swedbank's Q2 interim results provide critical visibility into the resilience of Scandinavian credit quality and net interest margins amid persistent high-rate environments; any deviation in impairment charges or fee income will signal broader sector health.",
+      "key_themes": [
+        "Nordic Banking",
+        "Interim Results",
+        "Credit Quality"
+      ]
     },
     {
       "timestamp": "2026-07-16T14:55:00",
       "category": null,
       "headline": "Settlement with DFS - all investigations of historical shortcomings concluded",
       "url": "https://www.investegate.co.uk/announcement/rns/swedbank-ab--81bo/settlement-with-dfs-all-investigations-of-/9673182",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement resolves regulatory overhang for Swedbank's UK subsidiary, DFS, eliminating potential future liabilities but offering no immediate financial upside or strategic shift given the minor scale of the entity relative to the parent.",
+      "key_themes": [
+        "Regulatory Compliance",
+        "Risk Mitigation"
+      ]
     }
   ]
 }

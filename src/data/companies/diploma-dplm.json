@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/diploma--dplm/director-pdmr-shareholding/9887255",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR shareholding disclosures are standard regulatory filings with negligible immediate price impact; without specific transaction details indicating significant insider conviction or divergence, these events rarely drive short-term equity volatility in the engineering services sector.",
@@ -23,6 +24,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/diploma--dplm/director-pdmr-shareholding/9880575",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Diploma's valuation or strategic direction, reflecting normal insider activity rather than a signal of material change.",
@@ -36,6 +38,7 @@
       "category": "Results",
       "headline": "Diploma PLC Full Year Results 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/diploma--dplm/diploma-plc-full-year-results-2026-/9878205",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a key player in the UK's infrastructure and engineering consultancy sector, Diploma's full-year results provide critical visibility into the health of the public works pipeline and private investment flows. The outcome will likely influence sentiment across the broader AIM-listed professional services group, particularly regarding margin resilience amid rising input costs.",
@@ -49,6 +52,7 @@
       "category": null,
       "headline": "Block Listing Application",
       "url": "https://www.investegate.co.uk/announcement/rns/diploma--dplm/block-listing-application-/9873209",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -59,6 +63,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/diploma--dplm/holding-s-in-company/9839723",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -69,6 +74,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/diploma--dplm/director-pdmr-shareholding/9787511",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements for Diploma are typically low-impact administrative disclosures lacking the transformative weight of M&A or major capital raises; without specific volume or price context indicating insider conviction, these events rarely move the stock materially in the current infrastructure sector environment.",
@@ -82,6 +88,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/diploma--dplm/holding-s-in-company/9779852",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -92,6 +99,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/diploma--dplm/holding-s-in-company/9779824",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -102,6 +110,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/diploma--dplm/director-pdmr-shareholding/9677024",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR shareholding disclosure lacks the materiality to influence DPLM's valuation or trading dynamics, reflecting standard compliance rather than strategic signal in the current infrastructure sector context.",
@@ -115,20 +124,28 @@
       "category": null,
       "headline": "Change of Director responsibilities",
       "url": "https://www.investegate.co.uk/announcement/rns/diploma--dplm/change-of-director-responsibilities-/9652608",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative update regarding internal governance structures rather than executive succession or strategic pivot; lacks the materiality to influence valuation or sentiment for this engineering services firm.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-01T16:00:00",
       "category": "Appointment",
       "headline": "Appointment of Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/rns/diploma--dplm/appointment-of-non-executive-director/9595678",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine governance update for a specialist engineering services firm; without details on the appointee's background or board composition changes, this lacks immediate strategic weight compared to operational performance drivers.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     }
   ]
 }

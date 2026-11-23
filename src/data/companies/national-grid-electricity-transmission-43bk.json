@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Admission to Trading of Transferable Securities",
       "url": "https://www.investegate.co.uk/announcement/rns/national-grid-electricity-transmission-plc--43bk/admission-to-trading-of-transferable-securities/9717813",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for the admission of transferable securities, likely related to existing debt instruments or warrants, indicating no immediate strategic shift or capital raising event.",
+      "key_themes": [
+        "Administrative",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-08-11T09:21:00",
       "category": null,
       "headline": "Publication of Final Terms",
       "url": "https://www.investegate.co.uk/announcement/rns/national-grid-electricity-transmission-plc--43bk/publication-of-final-terms/9715431",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,10 +35,14 @@
       "category": null,
       "headline": "Publication of Annual Report and Accounts",
       "url": "https://www.investegate.co.uk/announcement/rns/national-grid-electricity-transmission-plc--43bk/publication-of-annual-report-and-accounts-/9682716",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard regulatory filing for an established utility; while the annual report contains critical data on RIIO-ED2 revenue allowances and network investment plans, the announcement itself carries no new market-moving information or strategic shift.",
+      "key_themes": [
+        "Regulatory Filing",
+        "Utility Sector"
+      ]
     }
   ]
 }

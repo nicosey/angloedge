@@ -10,26 +10,36 @@
       "category": null,
       "headline": "Drilling commences on the Ongombo Project",
       "url": "https://www.investegate.co.uk/announcement/rns/african-pioneer-npv--afp/drilling-commences-on-the-ongombo-project/9825941",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Drilling commencement is a standard operational milestone for junior explorers like AFP, signaling progress but lacking the transformative financial impact of discovery results or major financing; sector precedent shows such announcements rarely move share prices without subsequent assay data.",
+      "key_themes": [
+        "Exploration Update",
+        "Junior Mining"
+      ]
     },
     {
       "timestamp": "2026-09-21T14:20:00",
       "category": null,
       "headline": "Conditions Precedent met re Xinhai Agreement",
       "url": "https://www.investegate.co.uk/announcement/rns/african-pioneer-npv--afp/conditions-precedent-met-re-xinhai-agreement/9782666",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The satisfaction of conditions precedent for the Xinhai Agreement signals a critical operational milestone for AFP's mining projects, reducing execution risk and validating the technical partnership with a major EPC provider in the African mining sector.",
+      "key_themes": [
+        "Mining Operations",
+        "Strategic Partnership",
+        "Project Execution"
+      ]
     },
     {
       "timestamp": "2026-08-28T08:53:00",
       "category": null,
       "headline": "Exercise of Warrants, Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/african-pioneer-npv--afp/exercise-of-warrants-total-voting-rights/9745442",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,16 +50,22 @@
       "category": null,
       "headline": "Update on Warrant Exercise",
       "url": "https://www.investegate.co.uk/announcement/rns/african-pioneer-npv--afp/update-on-warrant-exercise-/9734839",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Warrant exercises are standard dilutive events for AIM-listed exploration companies like AFP, typically reflecting minor capital injection rather than transformative growth; without disclosed volume or pricing details, the market impact is likely negligible compared to core drilling results.",
+      "key_themes": [
+        "dilution",
+        "capital_raise",
+        "warrants"
+      ]
     },
     {
       "timestamp": "2026-08-11T12:52:00",
       "category": null,
       "headline": "Exercise of Warrants, Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/african-pioneer-npv--afp/exercise-of-warrants-total-voting-rights-/9716106",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,26 +76,35 @@
       "category": null,
       "headline": "Financing and Mine Development Agreement",
       "url": "https://www.investegate.co.uk/announcement/rns/african-pioneer-npv--afp/financing-and-mine-development-agreement-/9695624",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "Securing financing and development agreements is a critical inflection point for junior miners like AFP, transitioning the asset from exploration to production and de-risking the project timeline. This signals strong institutional or strategic partner confidence in the underlying resource, potentially unlocking significant value if execution aligns with market expectations for commodity cycles.",
+      "key_themes": [
+        "Capital Raise",
+        "Project Development"
+      ]
     },
     {
       "timestamp": "2026-06-19T16:16:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/african-pioneer-npv--afp/result-of-agm/9628409",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of an AGM for a micro-cap exploration company; without specific details on voting results or new mandates, it carries no immediate market-moving significance.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap"
+      ]
     },
     {
       "timestamp": "2026-06-03T10:24:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/african-pioneer-npv--afp/holding-s-in-company/9599792",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,6 +115,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/african-pioneer-npv--afp/notice-of-agm/9588144",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,

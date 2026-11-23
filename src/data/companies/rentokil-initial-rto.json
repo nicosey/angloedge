@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/rentokil-initial--rto/director-pdmr-shareholding/9884795",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on RTO's valuation or operational trajectory, reflecting normal insider activity rather than a strategic shift in the competitive integrated pest management sector.",
@@ -23,16 +24,21 @@
       "category": "Appointment",
       "headline": "Directorate change - NED changes",
       "url": "https://www.investegate.co.uk/announcement/rns/rentokil-initial--rto/directorate-change-ned-changes/9873585",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine non-executive director changes are standard governance maintenance for RTO, lacking the strategic weight of executive turnover or M&A; however, in a sector facing margin pressure from wage inflation and energy costs, stable board composition is a baseline requirement rather than a catalyst.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Stability"
+      ]
     },
     {
       "timestamp": "2026-10-27T07:00:00",
       "category": "Share Buyback",
       "headline": "Commencement of Share Buyback Programme",
       "url": "https://www.investegate.co.uk/announcement/rns/rentokil-initial--rto/commencement-of-share-buyback-programme/9842380",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "This buyback signals management's confidence in RTO's post-restructuring cash flow generation and commitment to returning capital, aligning with broader UK industrials' focus on shareholder returns amid high interest rates. While positive for EPS accretion, the strategic impact is limited compared to organic growth drivers in the competitive commercial cleaning sector.",
@@ -47,6 +53,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/rentokil-initial--rto/director-pdmr-shareholding/9839518",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings typically signal low immediate market impact unless accompanied by unusual volume or timing relative to earnings; in the competitive UK facilities management sector, such disclosures are standard governance requirements rather than strategic signals.",
@@ -60,16 +67,21 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/rentokil-initial--rto/directorate-change/9835268",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board-level personnel changes in the integrated facilities management sector typically signal governance continuity rather than strategic disruption, with limited immediate impact on RTO's operational execution or valuation multiples.",
+      "key_themes": [
+        "Corporate Governance",
+        "Leadership Stability"
+      ]
     },
     {
       "timestamp": "2026-10-06T11:15:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/rentokil-initial--rto/holding-s-in-company/9809005",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,6 +92,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/rentokil-initial--rto/holding-s-in-company/9798891",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,26 +103,35 @@
       "category": "Dividend",
       "headline": "Interim Dividend – Pence Sterling Amount Payable",
       "url": "https://www.investegate.co.uk/announcement/rns/rentokil-initial--rto/interim-dividend-pence-sterling-amount-payable/9744059",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine interim dividend declaration reflects standard capital allocation rather than strategic shift; in the current high-interest-rate environment for UK commercial services, this signals maintenance of shareholder returns but lacks transformative growth indicators.",
+      "key_themes": [
+        "capital_allocation",
+        "dividend_policy"
+      ]
     },
     {
       "timestamp": "2026-08-13T09:30:00",
       "category": "Appointment",
       "headline": "Organisational Changes & Leadership Appointments",
       "url": "https://www.investegate.co.uk/announcement/rns/rentokil-initial--rto/organisational-changes-leadership-appointments/9720343",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Leadership appointments signal a strategic pivot to address operational inefficiencies and margin pressure in the competitive UK integrated facilities management sector, aiming to restore investor confidence after recent underperformance.",
+      "key_themes": [
+        "Corporate Governance",
+        "Operational Turnaround"
+      ]
     },
     {
       "timestamp": "2026-08-04T10:30:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/rentokil-initial--rto/holding-s-in-company/9703826",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -120,6 +142,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/rentokil-initial--rto/director-pdmr-shareholding/9701676",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on RTO's valuation or strategic direction, reflecting normal liquidity management rather than significant insider sentiment shifts.",
@@ -133,6 +156,7 @@
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/rentokil-initial--rto/director-declaration/9672501",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,

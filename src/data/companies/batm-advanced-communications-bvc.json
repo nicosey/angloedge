@@ -10,6 +10,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/batm-advanced-communications-ltd---bvc/notice-of-agm/9881778",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,36 +21,50 @@
       "category": null,
       "headline": "BATM wins additional $4.0m cybersecurity order",
       "url": "https://www.investegate.co.uk/announcement/rns/batm-advanced-communications-ltd---bvc/batm-wins-additional-4-0m-cybersecurity-order/9868829",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This contract validates BATM's niche in secure communications for government and critical infrastructure, reinforcing its position against larger competitors like Thales, though the $4m revenue is immaterial to overall group financials.",
+      "key_themes": [
+        "Government Contracts",
+        "Cybersecurity",
+        "Revenue Growth"
+      ]
     },
     {
       "timestamp": "2026-09-24T11:00:00",
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/batm-advanced-communications-ltd---bvc/result-of-general-meeting/9789359",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the AGM/EGM, which carries no immediate financial or strategic weight for BATM Advanced Communications.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-09-07T07:00:00",
       "category": null,
       "headline": "New $1.0m order from leading US Broadband Provider",
       "url": "https://www.investegate.co.uk/announcement/rns/batm-advanced-communications-ltd---bvc/new-1-0m-order-from-leading-us-broadband-provider/9757602",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "A $1.0m order is immaterial to BATM's valuation given its micro-cap status and historical revenue volatility; it serves primarily as a validation of product-market fit in the US broadband sector rather than a catalyst for significant financial re-rating.",
+      "key_themes": [
+        "US Expansion",
+        "Micro-cap Revenue"
+      ]
     },
     {
       "timestamp": "2026-08-17T07:00:00",
       "category": null,
       "headline": "Notice of GM and Update on Transaction",
       "url": "https://www.investegate.co.uk/announcement/rns/batm-advanced-communications-ltd---bvc/notice-of-gm-and-update-on-transaction/9723851",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,30 +75,44 @@
       "category": null,
       "headline": "First Order for Tactical Encryption Platform",
       "url": "https://www.investegate.co.uk/announcement/rns/batm-advanced-communications-ltd---bvc/first-order-for-tactical-encryption-platform/9704912",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Validates the commercial viability of BATM's tactical encryption technology in a high-growth defence sector, serving as a critical proof-of-concept for future government contracts amid rising global geopolitical tensions.",
+      "key_themes": [
+        "Defence Tech",
+        "Revenue Validation",
+        "Geopolitical Tailwinds"
+      ]
     },
     {
       "timestamp": "2026-07-06T07:00:00",
       "category": null,
       "headline": "Contract extension with top US broadband operator",
       "url": "https://www.investegate.co.uk/announcement/rns/batm-advanced-communications-ltd---bvc/contract-extension-with-top-us-broadband-operator/9653045",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Validates BATM's commercial traction in the high-growth US fixed wireless access (FWA) market, countering skepticism regarding its path to profitability and demonstrating that its proprietary technology is being retained by key enterprise clients.",
+      "key_themes": [
+        "US Market Expansion",
+        "Fixed Wireless Access",
+        "Revenue Visibility"
+      ]
     },
     {
       "timestamp": "2026-06-25T07:00:00",
       "category": null,
       "headline": "New contract with leading US Broadband Provider",
       "url": "https://www.investegate.co.uk/announcement/rns/batm-advanced-communications-ltd---bvc/new-contract-with-leading-us-broadband-provider/9635583",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Validates BATM's commercial traction in the high-growth US fixed wireless access (FWA) market, addressing prior investor skepticism regarding revenue conversion from pilot to production contracts.",
+      "key_themes": [
+        "US Market Expansion",
+        "FWA Commercialization"
+      ]
     }
   ]
 }

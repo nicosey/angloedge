@@ -2,14 +2,26 @@
   "name": "TPXimpact Holdings",
   "ticker": "TPX",
   "slug": "tpximpact-holdings-tpx",
-  "announcement_count": 20,
-  "latest_announcement": "2026-11-19T07:00:00",
+  "announcement_count": 21,
+  "latest_announcement": "2026-11-23T15:31:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T15:31:00",
+      "category": null,
+      "headline": "Notification of Major Holdings",
+      "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/notification-of-major-holdings/9889620",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-19T07:00:00",
       "category": null,
       "headline": "Exercise of Options & Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/exercise-of-options-total-voting-rights/9882976",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +32,7 @@
       "category": null,
       "headline": "Exercise of Options & Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/exercise-of-options-total-voting-rights/9879351",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +43,7 @@
       "category": null,
       "headline": "Exercise of Options & Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/exercise-of-options-total-voting-rights-/9872279",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,16 +54,21 @@
       "category": null,
       "headline": "Share Incentive Plan",
       "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/share-incentive-plan/9871325",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for an employee share scheme, indicating routine HR governance rather than strategic capital allocation or insider sentiment shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-11-10T09:59:00",
       "category": null,
       "headline": "Grant of Options",
       "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/grant-of-options/9867504",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +79,7 @@
       "category": "Results",
       "headline": "Unaudited Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/unaudited-interim-results/9866456",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a mid-cap industrial services firm, TPXimpact's interim results provide essential visibility into the health of its core UK infrastructure and maintenance contracts, though such updates are typically routine unless they signal a significant margin shift or guidance change amidst current inflationary pressures.",
@@ -73,6 +93,7 @@
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/notification-of-major-holdings/9854069",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,6 +104,7 @@
       "category": null,
       "headline": "Exercise of Options & Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/exercise-of-options-total-voting-rights/9853871",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -93,6 +115,7 @@
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/notice-of-results/9840052",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the release of results rather than the results themselves; without data on revenue growth, margin compression, or dividend changes, it holds no immediate pricing power for TPXimpact's industrial packaging sector.",
@@ -106,6 +129,7 @@
       "category": null,
       "headline": "Exercise of Options & Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/exercise-of-options-total-voting-rights/9825940",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -116,6 +140,7 @@
       "category": "Trading Update",
       "headline": "First Half Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/first-half-trading-update/9823593",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a mid-cap industrial services firm, TPX's interim update provides critical visibility into margin resilience amid rising input costs and labor shortages, serving as a key sentiment indicator for the broader UK SME industrials sector.",
@@ -129,16 +154,21 @@
       "category": null,
       "headline": "Share Incentive Plan",
       "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/share-incentive-plan/9812279",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Standard equity incentive plan implementation typical for mid-cap UK firms to retain talent; lacks the transformative catalysts or financial distress signals that drive significant re-rating in the current market environment.",
+      "key_themes": [
+        "Corporate Governance",
+        "Employee Retention"
+      ]
     },
     {
       "timestamp": "2026-09-16T11:44:00",
       "category": null,
       "headline": "Exercise of Options & Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/exercise-of-options-total-voting-rights/9775452",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -149,16 +179,21 @@
       "category": null,
       "headline": "Share Incentive Plan",
       "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/share-incentive-plan/9744397",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Standard equity incentive plan implementation aimed at staff retention in a competitive tech recruitment market; lacks immediate financial impact or strategic pivot signals compared to transformative corporate actions.",
+      "key_themes": [
+        "Corporate Governance",
+        "HR Strategy"
+      ]
     },
     {
       "timestamp": "2026-08-05T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/notice-of-agm/9704911",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -169,16 +204,21 @@
       "category": null,
       "headline": "Share Incentive Plan",
       "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/share-incentive-plan/9662004",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Standard equity incentive plan implementation aimed at aligning management with shareholder interests; while positive for long-term retention, it lacks the transformative catalyst required to drive immediate re-rating in the current UK mid-cap environment.",
+      "key_themes": [
+        "Corporate Governance",
+        "Management Alignment"
+      ]
     },
     {
       "timestamp": "2026-07-03T10:35:00",
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/notification-of-major-holdings/9651998",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -189,6 +229,7 @@
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/notification-of-major-holdings/9649416",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -199,6 +240,7 @@
       "category": "Results",
       "headline": "Unaudited preliminary results",
       "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/unaudited-preliminary-results/9619529",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a mid-cap industrial services firm, TPXimpact's preliminary results are closely watched for margin resilience amid rising input costs and supply chain volatility, though the lack of specific guidance limits immediate market reaction.",
@@ -213,10 +255,14 @@
       "category": null,
       "headline": "Share Incentive Plan",
       "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/share-incentive-plan/9612444",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for employee share ownership, indicating routine retention efforts rather than any material strategic shift or capital event in the competitive IT services sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Employee Retention"
+      ]
     }
   ]
 }

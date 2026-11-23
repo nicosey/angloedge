@@ -10,6 +10,7 @@
       "category": "Trading Update",
       "headline": "Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/flowtech-fluidpower--flo/trading-update/9878200",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a small-cap industrial services firm with limited analyst coverage, any trading update carries disproportionate weight for liquidity and sentiment; however, without specific financial metrics in the prompt, it is classified as routine market noise rather than a transformative event.",
@@ -24,6 +25,7 @@
       "category": "Director Dealing",
       "headline": "Employee Incentive Arrangements and PDMR Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/flowtech-fluidpower--flo/employee-incentive-arrangements-and-pdmr-dealings/9828288",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine disclosure of employee incentive arrangements and PDMR dealings indicates standard corporate governance compliance rather than significant strategic shifts or insider sentiment signals.",
@@ -37,6 +39,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/flowtech-fluidpower--flo/holding-s-in-company/9773253",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -47,30 +50,42 @@
       "category": "AGM/EGM",
       "headline": "2026 Annual General Meeting - Result of voting",
       "url": "https://www.investegate.co.uk/announcement/rns/flowtech-fluidpower--flo/2026-annual-general-meeting-result-of-voting/9628138",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at an AGM, which carries no intrinsic value impact on Flowtech Fluidpower's equity valuation or operational trajectory.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-04T07:00:00",
       "category": "Acquisition",
       "headline": "Acquisition of Helipebs Controls Ltd",
       "url": "https://www.investegate.co.uk/announcement/rns/flowtech-fluidpower--flo/acquisition-of-helipebs-controls-ltd-/9600686",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This acquisition signals a strategic pivot into the high-growth hydrogen economy, aligning Flowtech with the UK's net-zero infrastructure push and diversifying revenue beyond traditional fluid power sectors.",
+      "key_themes": [
+        "Hydrogen Economy",
+        "Strategic Diversification"
+      ]
     },
     {
       "timestamp": "2026-05-28T07:00:00",
       "category": "AGM/EGM",
       "headline": "2025 Annual Report Posting & Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/flowtech-fluidpower--flo/2025-annual-report-posting-notice-of-agm/9588709",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for the annual report and AGM notice, indicating no immediate material corporate action or strategic shift in the industrial fluid power sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     }
   ]
 }

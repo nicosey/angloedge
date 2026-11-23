@@ -2,44 +2,71 @@
   "name": "Develop North",
   "ticker": "DVNO",
   "slug": "develop-north-dvno",
-  "announcement_count": 6,
-  "latest_announcement": "2026-11-19T13:07:00",
+  "announcement_count": 7,
+  "latest_announcement": "2026-11-23T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T07:00:00",
+      "category": "Appointment",
+      "headline": "Appointment of Finance Director",
+      "url": "https://www.investegate.co.uk/announcement/rns/develop-north--dvno/appointment-of-finance-director/9887564",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine executive appointment typical for small-cap infrastructure firms; lacks immediate market-moving catalysts unless the appointee brings specific regulatory leverage in the UK energy transition sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Small Cap"
+      ]
+    },
     {
       "timestamp": "2026-11-19T13:07:00",
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/develop-north--dvno/dividend-declaration/9884684",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Dividend declarations for Develop North are typically nominal or non-existent given its growth-stage status in the UK residential development sector; this likely represents a routine administrative update with negligible financial impact on valuation.",
+      "key_themes": [
+        "Corporate Action",
+        "UK Real Estate"
+      ]
     },
     {
       "timestamp": "2026-08-28T07:00:00",
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/develop-north--dvno/dividend-declaration/9744378",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a pre-revenue development stage company with no established cash flow history, this dividend declaration is likely administrative or nominal, offering negligible fundamental value to shareholders compared to capital preservation needs.",
+      "key_themes": [
+        "cash_flow_constraint",
+        "development_stage"
+      ]
     },
     {
       "timestamp": "2026-08-17T07:00:00",
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/develop-north--dvno/directorate-change/9723823",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine executive changes in the small-cap infrastructure sector rarely signal immediate strategic shifts without accompanying commentary on capital allocation or project pipeline; investors should monitor for subsequent trading updates to gauge if this aligns with broader governance reforms.",
+      "key_themes": [
+        "corporate_governance",
+        "small_cap_equity"
+      ]
     },
     {
       "timestamp": "2026-08-12T12:48:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/develop-north--dvno/director-pdmr-shareholding/9718435",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure for Develop North with no indication of material insider activity or strategic shift; routine director dealing is common in small-cap development firms and lacks immediate market-moving significance.",
@@ -53,6 +80,7 @@
       "category": null,
       "headline": "Closed Period",
       "url": "https://www.investegate.co.uk/announcement/rns/develop-north--dvno/closed-period/9648149",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,10 +91,14 @@
       "category": "Appointment",
       "headline": "Appointment of Joint Broker",
       "url": "https://www.investegate.co.uk/announcement/rns/develop-north--dvno/appointment-of-joint-broker/9621958",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The appointment of joint brokers signals a strategic pivot to enhance liquidity and investor relations for Develop North, likely in preparation for increased capital raising activities or broader market exposure within the UK residential development sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Capital Markets"
+      ]
     }
   ]
 }

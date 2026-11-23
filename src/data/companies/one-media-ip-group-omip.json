@@ -2,14 +2,30 @@
   "name": "One Media IP Group",
   "ticker": "OMIP",
   "slug": "one-media-ip-group-omip",
-  "announcement_count": 4,
-  "latest_announcement": "2026-10-26T11:15:00",
+  "announcement_count": 5,
+  "latest_announcement": "2026-11-23T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T07:00:00",
+      "category": null,
+      "headline": "Proposed disposal of One Media iP & Notice of GM",
+      "url": "https://www.investegate.co.uk/announcement/rns/one-media-ip-group--omip/proposed-disposal-of-one-media-ip-notice-of-gm/9887520",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The disposal of One Media iP signals a strategic pivot away from legacy print advertising assets towards digital growth, reflecting the broader structural decline in UK classifieds revenue and the sector-wide consolidation trend seen among peers like Reach plc.",
+      "key_themes": [
+        "Strategic Restructuring",
+        "Asset Divestment",
+        "Digital Transformation"
+      ]
+    },
     {
       "timestamp": "2026-10-26T11:15:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/one-media-ip-group--omip/holding-s-in-company/9841594",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,26 +36,35 @@
       "category": null,
       "headline": "Repayment of Bank Debt",
       "url": "https://www.investegate.co.uk/announcement/rns/one-media-ip-group--omip/repayment-of-bank-debt/9736281",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Debt repayment is a standard balance sheet maintenance activity for OMIP, reflecting prudent cash flow management rather than a strategic pivot; while it reduces interest expense risk in a high-rate environment, it lacks the transformative catalyst required to drive significant multiple expansion.",
+      "key_themes": [
+        "deleveraging",
+        "cash flow"
+      ]
     },
     {
       "timestamp": "2026-08-24T08:19:00",
       "category": null,
       "headline": "Disposal of Interest in Round Group Limited",
       "url": "https://www.investegate.co.uk/announcement/rns/one-media-ip-group--omip/disposal-of-interest-in-round-group-limited/9736262",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This disposal likely represents a portfolio rationalisation to unlock trapped value in a non-core asset, reflecting the broader trend of UK media groups streamlining operations amid digital ad market volatility.",
+      "key_themes": [
+        "Portfolio Rationalisation",
+        "Asset Divestment"
+      ]
     },
     {
       "timestamp": "2026-07-15T15:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/one-media-ip-group--omip/holding-s-in-company/9670882",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

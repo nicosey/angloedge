@@ -10,6 +10,7 @@
       "category": "Share Buyback",
       "headline": "Share Repurchase Program - Weekly Report",
       "url": "https://www.investegate.co.uk/announcement/rns/sunbelt-rentals-holdings-inc---sunb/share-repurchase-program-weekly-report/9842342",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine weekly disclosure of a pre-authorized buyback program; while indicative of management confidence in cash flow generation within the equipment rental sector, the incremental market impact is negligible without context on total volume or price.",
@@ -23,26 +24,35 @@
       "category": null,
       "headline": "Publication of Current Report on Form 8-K/A",
       "url": "https://www.investegate.co.uk/announcement/rns/sunbelt-rentals-holdings-inc---sunb/publication-of-current-report-on-form-8-k-a/9840038",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing amending a previous Form 8-K submission, typically correcting minor data errors or updating attachments without altering the underlying business narrative or financial position.",
+      "key_themes": [
+        "regulatory_compliance",
+        "administrative"
+      ]
     },
     {
       "timestamp": "2026-09-10T07:00:00",
       "category": "Results",
       "headline": "Publication of Quarterly Report on Form 10-Q",
       "url": "https://www.investegate.co.uk/announcement/rns/sunbelt-rentals-holdings-inc---sunb/publication-of-quarterly-report-on-form-10-q/9764381",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This is a standard regulatory filing for quarterly results rather than a standalone trading update; while essential for tracking the US equipment rental sector's margin resilience against inflation, it lacks the immediate catalystic weight of a profit warning or strategic shift.",
+      "key_themes": [
+        "Quarterly Results",
+        "Regulatory Filing"
+      ]
     },
     {
       "timestamp": "2026-09-09T15:44:00",
       "category": "Results",
       "headline": "Q1 FY2027 Earnings Release",
       "url": "https://www.investegate.co.uk/announcement/rns/sunbelt-rentals-holdings-inc---sunb/q1-fy2027-earnings-release/9764023",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a US-listed entity, SUNB's Q1 FY2027 results will be closely watched for evidence of sustained equipment rental demand and margin resilience amid potential macro headwinds, serving as a bellwether for the broader industrial services sector.",
@@ -56,26 +66,35 @@
       "category": null,
       "headline": "Publication of Current Report on Form 8-K",
       "url": "https://www.investegate.co.uk/announcement/rns/sunbelt-rentals-holdings-inc---sunb/publication-of-current-report-on-form-8-k/9763640",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing requirement for US-listed companies to disclose material events; without the attached 8-K content, it carries no intrinsic market-moving weight and is classified as routine administrative disclosure.",
+      "key_themes": [
+        "regulatory_compliance",
+        "us_equity"
+      ]
     },
     {
       "timestamp": "2026-09-09T12:33:00",
       "category": "Dividend",
       "headline": "Dividend Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/sunbelt-rentals-holdings-inc---sunb/dividend-announcement/9763622",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This dividend announcement signals management's confidence in the durability of cash flows within the UK equipment rental sector, reinforcing SUNB's position as a stable income generator amidst broader economic uncertainty.",
+      "key_themes": [
+        "capital allocation",
+        "income stability"
+      ]
     },
     {
       "timestamp": "2026-08-25T07:00:00",
       "category": "Share Buyback",
       "headline": "Share Repurchase Program - Weekly Report",
       "url": "https://www.investegate.co.uk/announcement/prn/sunbelt-rentals-holdings-inc---sunb/share-repurchase-program-weekly-report/9737581",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine weekly disclosure of a pre-authorized buyback program indicates ongoing capital return but lacks the transformative scale or specific tranche size necessary to signal immediate sentiment shifts in the US equipment rental sector.",
@@ -89,60 +108,86 @@
       "category": null,
       "headline": "Transactions by Directors and Persons Discharging Managerial Responsibilities",
       "url": "https://www.investegate.co.uk/announcement/prn/sunbelt-rentals-holdings-inc---sunb/transactions-by-directors-and-persons-dischar-/9737580",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure of insider transactions with no inherent market-moving significance; without details on volume or direction (buy/sell), it provides no actionable signal for equity valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
     },
     {
       "timestamp": "2026-07-07T22:49:00",
       "category": null,
       "headline": "Sunbelt Rentals Announces Pricing of $450 million Senior Notes due 2030 and $750 million Senior Notes due 2036",
       "url": "https://www.investegate.co.uk/announcement/prn/sunbelt-rentals-holdings-inc---sunb/sunbelt-rentals-announces-pricing-of-450-mil-/9657074",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The $1.25bn debt issuance signals aggressive capital deployment to fuel organic growth in the fragmented UK and European equipment rental market, leveraging low borrowing costs to maintain competitive advantage against rivals like United Rentals.",
+      "key_themes": [
+        "Capital Raise",
+        "Debt Financing",
+        "Market Expansion"
+      ]
     },
     {
       "timestamp": "2026-07-07T15:03:00",
       "category": "Dividend",
       "headline": "Sunbelt Rentals Holdings, Inc. Dividend Announcement",
       "url": "https://www.investegate.co.uk/announcement/prn/sunbelt-rentals-holdings-inc---sunb/sunbelt-rentals-holdings-inc-dividend-annou-/9656754",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine dividend announcements are standard income signals rather than transformative events; without context on yield changes or special dividends, this lacks the catalyst potential for significant price movement in the equipment rental sector.",
+      "key_themes": [
+        "dividend",
+        "income"
+      ]
     },
     {
       "timestamp": "2026-07-06T16:15:00",
       "category": null,
       "headline": "Sunbelt Announces Launch of Private Offering of Senior Notes",
       "url": "https://www.investegate.co.uk/announcement/prn/sunbelt-rentals-holdings-inc---sunb/sunbelt-announces-launch-of-private-offering-/9654627",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The launch of a private senior notes offering signals active capital structure management to fund growth or refinance debt, reflecting the equipment rental sector's reliance on leverage for expansion amid rising interest rates.",
+      "key_themes": [
+        "capital_raise",
+        "debt_financing",
+        "equipment_rental"
+      ]
     },
     {
       "timestamp": "2026-06-24T07:09:00",
       "category": null,
       "headline": "Publication of Annual Report on Form 10-K",
       "url": "https://www.investegate.co.uk/announcement/rns/sunbelt-rentals-holdings-inc---sunb/publication-of-annual-report-on-form-10-k/9633349",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing for an annual report, carrying no immediate price-sensitive catalysts beyond the inherent data contained within; market reaction will depend entirely on the specific financial metrics disclosed rather than the announcement itself.",
+      "key_themes": [
+        "Regulatory Filing",
+        "Annual Report"
+      ]
     },
     {
       "timestamp": "2026-06-23T13:27:00",
       "category": null,
       "headline": "Publication of Current Report on Form 8-K",
       "url": "https://www.investegate.co.uk/announcement/rns/sunbelt-rentals-holdings-inc---sunb/publication-of-current-report-on-form-8-k/9632505",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing requirement for US-listed companies reporting material events; without the attached 8-K content, it carries no intrinsic market-moving weight and is typical administrative noise.",
+      "key_themes": [
+        "Regulatory Compliance",
+        "Administrative"
+      ]
     }
   ]
 }

@@ -10,26 +10,36 @@
       "category": null,
       "headline": "Loan Repayments",
       "url": "https://www.investegate.co.uk/announcement/rns/aiq-limited-di---aiq/loan-repayments/9819251",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine debt servicing activity for a micro-cap AI software firm; lacking materiality to alter valuation multiples or signal distress given the company's typical cash burn profile and lack of recent liquidity events.",
+      "key_themes": [
+        "debt_management",
+        "micro_cap"
+      ]
     },
     {
       "timestamp": "2026-08-19T07:00:00",
       "category": null,
       "headline": "Issue of Convertible Loan Notes",
       "url": "https://www.investegate.co.uk/announcement/rns/aiq-limited-di---aiq/issue-of-convertible-loan-notes/9728520",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "AIQ's issuance of convertible loan notes signals a pragmatic capital raise to fund growth without immediate equity dilution, reflecting the current market's preference for debt financing in the volatile AI infrastructure sector.",
+      "key_themes": [
+        "capital_raise",
+        "convertible_debt",
+        "ai_infrastructure"
+      ]
     },
     {
       "timestamp": "2026-08-07T13:06:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/aiq-limited-di---aiq/holding-s-in-company/9711313",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,26 +50,37 @@
       "category": null,
       "headline": "Issue of Convertible Loan Note",
       "url": "https://www.investegate.co.uk/announcement/rns/aiq-limited-di---aiq/issue-of-convertible-loan-note/9701055",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The issuance of a Convertible Loan Note (CLN) is a standard but critical capital management tool for AIQ, allowing the company to secure growth funding with deferred dilution while mitigating immediate cash flow pressure. In the current high-interest-rate environment, this instrument offers a cost-effective alternative to equity placement or traditional debt, signaling management's confidence in future valuation appreciation.",
+      "key_themes": [
+        "Capital Raising",
+        "Dilution Management",
+        "Funding Strategy"
+      ]
     },
     {
       "timestamp": "2026-07-29T07:00:00",
       "category": null,
       "headline": "Issue of Convertible Loan Notes",
       "url": "https://www.investegate.co.uk/announcement/rns/aiq-limited-di---aiq/issue-of-convertible-loan-notes/9692326",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "AIQ's issuance of convertible loan notes signals a pragmatic capital raise to fund growth without immediate equity dilution, reflecting the current market's preference for debt instruments in a high-interest-rate environment while preserving shareholder value.",
+      "key_themes": [
+        "capital_raise",
+        "debt_financing",
+        "growth_funding"
+      ]
     },
     {
       "timestamp": "2026-07-29T07:00:00",
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/aiq-limited-di---aiq/interim-results/9692323",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a small-cap AI data provider, AIQ's interim results are critical for validating its pivot from pure R&D to commercial revenue generation in a sector currently facing intense scrutiny over monetisation timelines. The market will focus heavily on cash burn rates and customer acquisition costs to determine if the company can achieve sustainability before dilution becomes necessary.",
@@ -74,10 +95,15 @@
       "category": null,
       "headline": "Convertible Loan Note Agreements",
       "url": "https://www.investegate.co.uk/announcement/rns/aiq-limited-di---aiq/convertible-loan-note-agreements/9653542",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "AIQ's issuance of convertible loan notes signals a pragmatic capital raise to fund growth without immediate equity dilution, reflecting the current market's preference for debt instruments in a high-interest-rate environment while preserving shareholder value.",
+      "key_themes": [
+        "capital_raise",
+        "debt_financing",
+        "dilution_management"
+      ]
     }
   ]
 }

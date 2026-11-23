@@ -10,46 +10,64 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-venture-trust--nvt/dividend-declaration/9887049",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine dividend declaration for a closed-end investment trust; while income stability is valued by the target demographic, this action lacks the transformative catalysts required to drive significant multiple expansion or share price volatility in the current high-yield environment.",
+      "key_themes": [
+        "income",
+        "closed-end fund",
+        "dividend"
+      ]
     },
     {
       "timestamp": "2026-11-20T14:00:00",
       "category": "Results",
       "headline": "Half-yearly Financial Report for the six months ended 30 September 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-venture-trust--nvt/half-yearly-financial-report-for-the-six-mont-/9887043",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a standard semi-annual disclosure for an investment trust, this report provides essential NAV and performance data but lacks the transformative catalysts required for immediate price re-rating; investors will focus on relative performance against the broader UK equity market context.",
+      "key_themes": [
+        "Interim Results",
+        "Investment Trust"
+      ]
     },
     {
       "timestamp": "2026-09-30T08:00:00",
       "category": null,
       "headline": "Offer for Subscription",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-venture-trust--nvt/offer-for-subscription-/9798453",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Subscription offers are standard administrative procedures for investment trusts to maintain their NAV discount/premium status by issuing new shares; this indicates routine capital management rather than a transformative strategic shift or distress signal.",
+      "key_themes": [
+        "NAV Management",
+        "Capital Raising"
+      ]
     },
     {
       "timestamp": "2026-09-16T13:30:00",
       "category": null,
       "headline": "Publication of an Offer Document",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-venture-trust--nvt/publication-of-an-offer-document/9775717",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard procedural filing for an ongoing offer, likely a tender offer or rights issue, rather than a transformative event; the market impact will be dictated by the specific terms (discount/premium) and size relative to NAV, which are not visible in this headline alone.",
+      "key_themes": [
+        "Corporate Action",
+        "Capital Management"
+      ]
     },
     {
       "timestamp": "2026-09-11T15:45:00",
       "category": null,
       "headline": "Admission of further securities to trading",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-venture-trust--nvt/admission-of-further-securities-to-trading-/9768771",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +78,7 @@
       "category": null,
       "headline": "Issue of equity and voting rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-venture-trust--nvt/issue-of-equity-and-voting-rights-/9756474",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,16 +89,21 @@
       "category": null,
       "headline": "Amendment to Investment Advisory Agreement",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-venture-trust--nvt/amendment-to-investment-advisory-agreement-/9718347",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Administrative amendment to the investment advisory agreement typically reflects standard fee adjustments or operational updates rather than strategic shifts; without details on manager changes or significant fee hikes, this is a low-impact routine filing for an investment trust.",
+      "key_themes": [
+        "Investment Trust",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-31T15:00:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-venture-trust--nvt/total-voting-rights/9699147",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,16 +114,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-venture-trust--nvt/result-of-agm/9690908",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of routine shareholder votes, typically involving dividend approvals and director reappointments, which carries no immediate price-sensitive implication for Northern Venture Trust.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-06-30T11:00:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-venture-trust--nvt/total-voting-rights/9644493",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -110,40 +139,57 @@
       "category": "Results",
       "headline": "Annual Financial Report and Notice of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-venture-trust--nvt/annual-financial-report-and-notice-of-annual-/9639715",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "Routine annual results for a closed-end fund typically signal status quo in NAV performance and dividend policy rather than strategic shifts; investors will focus on the discount/premium movement relative to peers like Scottish Mortgage or Baillie Gifford amid current tech volatility.",
+      "key_themes": [
+        "Annual Report",
+        "AGM Notice"
+      ]
     },
     {
       "timestamp": "2026-06-11T15:10:00",
       "category": "Placing",
       "headline": "Statement regarding intention to fundraise",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-venture-trust--nvt/statement-regarding-intention-to-fundraise/9614305",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This capital raise signals a strategic pivot to expand the investment universe beyond traditional UK small/mid-caps into global equities, aiming to enhance long-term returns in a competitive closed-end fund landscape.",
+      "key_themes": [
+        "Strategic Expansion",
+        "Capital Raise"
+      ]
     },
     {
       "timestamp": "2026-06-11T15:05:00",
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-venture-trust--nvt/dividend-declaration/9614295",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a closed-end investment trust, dividend declarations are the primary mechanism for investor returns and signal management's confidence in underlying NAV growth and liquidity; this routine action reinforces income stability but lacks the transformative catalyst required for higher scoring.",
+      "key_themes": [
+        "income_generation",
+        "investment_trusts",
+        "capital_allocation"
+      ]
     },
     {
       "timestamp": "2026-06-11T15:00:00",
       "category": null,
       "headline": "Annual Report and Financial Statements for the year ended 31 March 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-venture-trust--nvt/annual-report-and-financial-statements-for-th-/9614286",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard annual report filing for an investment trust, providing routine governance and performance data rather than triggering immediate market-moving catalysts like M&A or significant dividend changes.",
+      "key_themes": [
+        "Annual Report",
+        "Investment Trust"
+      ]
     }
   ]
 }

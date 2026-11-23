@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/roadside-real-estate--road/holding-s-in-company/9862978",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Director Dealing",
       "headline": "Result of Placing and Director Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/roadside-real-estate--road/result-of-placing-and-director-dealing/9828070",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "While the 'Placing' component suggests a capital raise that could fund growth or deleverage, the explicit inclusion of 'Director Dealing' often signals insider activity that requires careful scrutiny; without volume details, this remains a standard administrative disclosure rather than a market-moving event for the UK property sector.",
@@ -33,6 +35,7 @@
       "category": "Placing",
       "headline": "Proposed Placing of Existing Ordinary Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/roadside-real-estate--road/proposed-placing-of-existing-ordinary-shares-/9827995",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "This placing indicates a need for immediate liquidity or capital injection in a sector currently facing high financing costs and valuation pressure; the discount to NAV will likely test market appetite for UK property assets amid broader economic uncertainty.",
@@ -47,80 +50,114 @@
       "category": null,
       "headline": "Sale of CSS Loan Note",
       "url": "https://www.investegate.co.uk/announcement/rns/roadside-real-estate--road/sale-of-css-loan-note/9792821",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The sale of a CSS (Corporate Security Scheme) loan note represents a minor capital structure adjustment rather than a strategic shift; in the current UK property sector context, such actions are typically administrative liquidity management or refinancing steps with negligible impact on core operational valuation.",
+      "key_themes": [
+        "Capital Structure",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-14T07:30:00",
       "category": "Director Dealing",
       "headline": "Director Dealings and Changes to the Concert Party",
       "url": "https://www.investegate.co.uk/announcement/rns/roadside-real-estate--road/director-dealings-and-changes-to-the-concert-party/9722206",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealings in the UK real estate sector are typically low-impact administrative events unless accompanied by significant block trades; without volume or price context, this suggests standard portfolio management rather than strategic signaling.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
     },
     {
       "timestamp": "2026-08-13T08:00:00",
       "category": null,
       "headline": "Intention to Deal",
       "url": "https://www.investegate.co.uk/announcement/rns/roadside-real-estate--road/intention-to-deal/9719906",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "An 'Intention to Deal' RNS for a small-cap property firm typically signals the initiation of negotiations for asset acquisition or disposal, creating short-term speculative volatility but lacking immediate fundamental impact until terms are finalized.",
+      "key_themes": [
+        "M&A Activity",
+        "Small Cap Speculation"
+      ]
     },
     {
       "timestamp": "2026-07-22T16:33:00",
       "category": "Acquisition",
       "headline": "Completion of Acquisition",
       "url": "https://www.investegate.co.uk/announcement/rns/roadside-real-estate--road/completion-of-acquisition/9682725",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Completion of an acquisition signals active capital deployment in a fragmented UK property market, potentially enhancing scale but introducing integration risks and leverage concerns for a mid-cap vehicle.",
+      "key_themes": [
+        "M&A",
+        "Portfolio Expansion"
+      ]
     },
     {
       "timestamp": "2026-06-17T07:01:00",
       "category": "Acquisition",
       "headline": "Acquisition of Ross Road Petrol Filling Station",
       "url": "https://www.investegate.co.uk/announcement/rns/roadside-real-estate--road/acquisition-of-ross-road-petrol-filling-station/9622055",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This acquisition diversifies Roadside Real Estate's portfolio into the high-yield fuel retail sector, capitalizing on the stable cash flows of essential infrastructure amidst rising energy volatility. It signals a strategic shift towards defensive assets with long-term lease structures, potentially lowering the group's overall earnings volatility.",
+      "key_themes": [
+        "Portfolio Diversification",
+        "Fuel Retail",
+        "Defensive Assets"
+      ]
     },
     {
       "timestamp": "2026-06-17T07:00:00",
       "category": "Acquisition",
       "headline": "Completion of Acquisition",
       "url": "https://www.investegate.co.uk/announcement/rns/roadside-real-estate--road/completion-of-acquisition/9621825",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Completion of an acquisition signals active capital deployment in a fragmented UK real estate market, suggesting Roadside Real Estate is pursuing scale to enhance yield and operational efficiency amidst rising interest rates.",
+      "key_themes": [
+        "M&A",
+        "Scale",
+        "UK Property"
+      ]
     },
     {
       "timestamp": "2026-06-15T07:00:00",
       "category": null,
       "headline": "Receipt of Proceeds from Second Tranche Put Option",
       "url": "https://www.investegate.co.uk/announcement/rns/roadside-real-estate--road/receipt-of-proceeds-from-second-tranche-put-option/9617250",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This administrative receipt of proceeds from a put option likely represents the settlement of a prior hedging arrangement rather than new capital generation, indicating limited immediate strategic impact on Roadside Real Estate's balance sheet or operations.",
+      "key_themes": [
+        "Corporate Finance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-05-28T07:00:00",
       "category": "Acquisition",
       "headline": "Update on Acquisitions",
       "url": "https://www.investegate.co.uk/announcement/rns/roadside-real-estate--road/update-on-acquisitions/9588650",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a 'Update on Acquisitions' for a micro-cap vehicle like Roadside Real Estate, this likely details incremental portfolio expansion rather than transformative M&A; without disclosed deal size or strategic rationale, the market impact remains limited to routine operational growth.",
+      "key_themes": [
+        "portfolio_expansion",
+        "micro_cap_activity"
+      ]
     }
   ]
 }

@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sealand-capital-galaxy-limited-di---scgl/director-pdmr-shareholding/9881611",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions with no inherent market-moving significance; without volume or price context indicating insider conviction, it remains routine administrative noise in the UK equity landscape.",
@@ -23,6 +24,7 @@
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/sealand-capital-galaxy-limited-di---scgl/exercise-of-warrants/9875777",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -33,16 +35,21 @@
       "category": null,
       "headline": "LAUNCH OF AI-POWERED CONTENT CREATION PLATFORM",
       "url": "https://www.investegate.co.uk/announcement/rns/sealand-capital-galaxy-limited-di---scgl/launch-of-ai-powered-content-creation-platform/9752913",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Launch of a content creation platform is a standard operational update for a micro-cap investment vehicle, lacking the material financial impact or strategic pivot required to move the needle on valuation.",
+      "key_themes": [
+        "AI",
+        "Product Launch"
+      ]
     },
     {
       "timestamp": "2026-08-27T07:00:00",
       "category": null,
       "headline": "Exercise of Warrants, Issue of Equity and TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/sealand-capital-galaxy-limited-di---scgl/exercise-of-warrants-issue-of-equity-and-tvr/9742167",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,46 +60,64 @@
       "category": null,
       "headline": "EXPANDING DIGITAL FINANCIAL CAPABILITIES",
       "url": "https://www.investegate.co.uk/announcement/rns/sealand-capital-galaxy-limited-di---scgl/expanding-digital-financial-capabilities/9714364",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The announcement reflects standard operational expansion for a digital infrastructure firm rather than a material value driver; without disclosed financial metrics or strategic partnerships, the market impact is negligible compared to transformative corporate actions.",
+      "key_themes": [
+        "Digital Infrastructure",
+        "Operational Update"
+      ]
     },
     {
       "timestamp": "2026-07-27T07:00:00",
       "category": null,
       "headline": "Sealand Launches AI Data Security Platform",
       "url": "https://www.investegate.co.uk/announcement/rns/sealand-capital-galaxy-limited-di---scgl/sealand-launches-ai-data-security-platform/9687779",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement reflects a standard product launch for an AIM-listed micro-cap with negligible immediate financial impact; without disclosed revenue figures or client contracts, it lacks the materiality to influence valuation metrics.",
+      "key_themes": [
+        "product_launch",
+        "micro_cap",
+        "ai_sector"
+      ]
     },
     {
       "timestamp": "2026-07-20T07:00:00",
       "category": null,
       "headline": "SEALAND SECURES COMPUTING ADVISORY MANDATE",
       "url": "https://www.investegate.co.uk/announcement/rns/sealand-capital-galaxy-limited-di---scgl/sealand-secures-computing-advisory-mandate/9675820",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Securing a computing advisory mandate is a standard operational win for an investment firm like Sealand Capital Galaxy, indicating business development activity but lacking the transformative scale of M&A or significant capital raises seen in higher-impact categories.",
+      "key_themes": [
+        "business development",
+        "advisory services"
+      ]
     },
     {
       "timestamp": "2026-07-14T11:40:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/sealand-capital-galaxy-limited-di---scgl/result-of-agm/9668094",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of an Annual General Meeting, which typically involves routine matters such as director re-elections and auditor appointments rather than strategic shifts or capital raises.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-06-15T07:00:00",
       "category": "Results",
       "headline": "Final Results and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/sealand-capital-galaxy-limited-di---scgl/final-results-and-notice-of-agm/9617098",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a micro-cap investment trust, SCGL's final results are routine administrative disclosures with negligible market-moving potential, reflecting standard reporting cycles rather than strategic shifts or material financial events.",

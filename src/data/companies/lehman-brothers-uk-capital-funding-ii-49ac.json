@@ -10,30 +10,42 @@
       "category": null,
       "headline": "EQS-News: Notice of Interim Payment",
       "url": "https://www.investegate.co.uk/announcement/eqs/lehman-brothers-uk-capital-funding-ii-lp--49ac/eqs-news-notice-of-interim-payment-/9746418",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice from Lehman Brothers UK Capital Funding II LP regarding an interim payment on senior notes, reflecting routine debt servicing rather than any operational change or strategic shift for the broader market.",
+      "key_themes": [
+        "Debt Servicing",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-28T15:30:00",
       "category": null,
       "headline": "Notice of Interim Payment",
       "url": "https://www.investegate.co.uk/announcement/rns/lehman-brothers-uk-capital-funding-ii-lp--49ac/notice-of-interim-payment-/9746406",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement is an administrative notice regarding a payment from Lehman Brothers UK Capital Funding II LP, a legacy vehicle associated with the collapsed investment bank, rather than a listed equity issuer. It carries no strategic implication for current market participants or sector trends.",
+      "key_themes": [
+        "legacy debt",
+        "administrative"
+      ]
     },
     {
       "timestamp": "2026-08-05T16:16:00",
       "category": null,
       "headline": "Notice of Proposed Interim Payment",
       "url": "https://www.investegate.co.uk/announcement/rns/lehman-brothers-uk-capital-funding-ii-lp--49ac/notice-of-proposed-interim-payment-/9707016",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement is an administrative notice regarding a proposed interim payment from Lehman Brothers UK Capital Funding II LP, likely related to the ongoing wind-down of legacy structured finance vehicles rather than active corporate strategy. It carries negligible impact on current UK equity markets as it pertains to historical insolvency proceedings and does not signal new investment or operational shifts.",
+      "key_themes": [
+        "Legacy Insolvency",
+        "Administrative Notice"
+      ]
     }
   ]
 }

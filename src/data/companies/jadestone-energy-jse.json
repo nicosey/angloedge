@@ -2,14 +2,30 @@
   "name": "Jadestone Energy",
   "ticker": "JSE",
   "slug": "jadestone-energy-jse",
-  "announcement_count": 15,
-  "latest_announcement": "2026-10-28T07:00:00",
+  "announcement_count": 16,
+  "latest_announcement": "2026-11-23T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T07:00:00",
+      "category": null,
+      "headline": "Requisition of General Meeting by Prima Energy",
+      "url": "https://www.investegate.co.uk/announcement/rns/jadestone-energy--jse/requisition-of-general-meeting-by-prima-energy/9887558",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Prima Energy's requisition signals active shareholder dissent regarding Jadestone's capital allocation or strategic direction, reflecting the broader UK E&P sector's pressure for higher returns and reduced capex. This corporate governance challenge introduces execution risk but may force management to adopt a more aggressive return-of-capital policy.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Activism",
+        "UK E&P Sector"
+      ]
+    },
     {
       "timestamp": "2026-10-28T07:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/jadestone-energy--jse/holding-s-in-company/9844612",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +36,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/jadestone-energy--jse/holding-s-in-company/9844605",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,16 +47,21 @@
       "category": null,
       "headline": "Change of Substantial Shareholder",
       "url": "https://www.investegate.co.uk/announcement/rns/jadestone-energy--jse/change-of-substantial-shareholder/9752910",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Changes in substantial shareholder status for JSE typically reflect portfolio rebalancing by existing institutional investors rather than strategic shifts, indicating low immediate impact on operational control or capital structure.",
+      "key_themes": [
+        "shareholder composition",
+        "institutional activity"
+      ]
     },
     {
       "timestamp": "2026-09-03T07:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/jadestone-energy--jse/holding-s-in-company/9752892",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +72,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/jadestone-energy--jse/holding-s-in-company/9752891",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,36 +83,50 @@
       "category": null,
       "headline": "Response to Statement by Prima Energy",
       "url": "https://www.investegate.co.uk/announcement/rns/jadestone-energy--jse/response-to-statement-by-prima-energy/9751883",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This RNS reflects ongoing corporate governance friction between Jadestone and activist shareholder Prima Energy rather than immediate operational or financial transformation; while it signals potential board changes or strategic shifts, the lack of concrete commercial terms limits near-term valuation impact.",
+      "key_themes": [
+        "Corporate Governance",
+        "Activist Investor"
+      ]
     },
     {
       "timestamp": "2026-09-02T10:49:00",
       "category": "Acquisition",
       "headline": "Prima Energy acquires 28.3% in Jadestone Energy",
       "url": "https://www.investegate.co.uk/announcement/rns/jadestone-energy--jse/prima-energy-acquires-28-3-in-jadestone-energy/9751761",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Prima Energy's acquisition of a 28.3% stake signals strong institutional confidence in Jadestone's UK North Sea assets and validates the sector's ongoing consolidation trend driven by rising breakeven costs and the need for operational scale.",
+      "key_themes": [
+        "UK North Sea",
+        "Strategic Investment",
+        "Sector Consolidation"
+      ]
     },
     {
       "timestamp": "2026-08-28T07:15:00",
       "category": null,
       "headline": "Change of Director",
       "url": "https://www.investegate.co.uk/announcement/rns/jadestone-energy--jse/change-of-director/9745141",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative filing with no immediate strategic implication for Jadestone's upstream operations or valuation in the current UK E&P landscape.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-27T07:00:00",
       "category": "Results",
       "headline": "2026 Half Year Results",
       "url": "https://www.investegate.co.uk/announcement/rns/jadestone-energy--jse/2026-half-year-results-/9742142",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a pure-play E&P with high leverage to Brent prices, JSE's half-year results will directly signal cash flow resilience and dividend sustainability in the current volatile oil environment, serving as a key barometer for UK onshore exploration viability.",
@@ -104,6 +141,7 @@
       "category": "Trading Update",
       "headline": "H1 2026 Trading Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/jadestone-energy--jse/h1-2026-trading-statement/9692331",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a pure-play E&P with high leverage to Brent prices, this H1 update serves as a critical sentiment barometer for the UK upstream sector's recovery trajectory post-2023 downturn. The market will scrutinize production guidance and cost inflation relative to peers like Centrica or Harbour Energy to gauge operational efficiency in a maturing basin.",
@@ -118,6 +156,7 @@
       "category": "Trading Update",
       "headline": "Notice of H1 2026 Trading Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/jadestone-energy--jse/notice-of-h1-2026-trading-statement/9678487",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a pre-revenue exploration company, Jadestone's value is entirely driven by its asset base rather than operational cash flow; this update serves as a critical sentiment gauge for the UK onshore oil & gas sector amidst ongoing energy security debates.",
@@ -132,6 +171,7 @@
       "category": null,
       "headline": "Jadestone Energy PLC - Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/jadestone-energy--jse/jadestone-energy-plc-holding-s-in-company/9675932",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -142,30 +182,43 @@
       "category": null,
       "headline": "Second Malaysian Campaign Well Flows at 2,800 bopd",
       "url": "https://www.investegate.co.uk/announcement/rns/jadestone-energy--jse/second-malaysian-campaign-well-flows-at-2-800-bopd/9675805",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "A 2,800 bopd flow rate from a Malaysian campaign well signals successful appraisal or infill drilling, validating the company's exploration thesis and potentially de-risking future production forecasts in a sector where capital discipline is paramount.",
+      "key_themes": [
+        "Exploration Success",
+        "Production Growth",
+        "Malaysia Operations"
+      ]
     },
     {
       "timestamp": "2026-06-16T08:00:00",
       "category": null,
       "headline": "Publication of Sustainability Report",
       "url": "https://www.investegate.co.uk/announcement/rns/jadestone-energy--jse/publication-of-sustainability-report/9620313",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Publication of a sustainability report is a standard governance compliance exercise for UK-listed E&P firms facing increasing ESG scrutiny from institutional investors, but it carries no immediate financial or operational weight.",
+      "key_themes": [
+        "ESG",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-06-11T11:06:00",
       "category": "AGM/EGM",
       "headline": "Results of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/jadestone-energy--jse/results-of-annual-general-meeting/9613876",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for an E&P firm typically confirm shareholder approval of standard governance items rather than signaling strategic shifts, reflecting the sector's current focus on capital discipline and dividend sustainability amid volatile oil prices.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     }
   ]
 }

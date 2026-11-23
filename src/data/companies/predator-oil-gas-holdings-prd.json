@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "PDMR Notification Corrected",
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/pdmr-notification-corrected/9886591",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a minor administrative correction to a previous PDMR notification, indicating no change in the underlying transaction or sentiment. In the volatile E&P sector, such clerical updates are noise and carry zero strategic weight for valuation.",
@@ -23,6 +24,7 @@
       "category": "Director Dealing",
       "headline": "PDMR Notfication",
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/pdmr-notfication/9885059",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard PDMR notification for a micro-cap exploration company with negligible liquidity; without volume or price context, this offers no actionable signal on insider conviction or capital commitment.",
@@ -36,6 +38,7 @@
       "category": "Director Dealing",
       "headline": "PDMR Notification",
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/pdmr-notification/9885028",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard PDMR notification with no disclosed transaction details, rendering it neutral for immediate price action; in the volatile E&P sector, such opaque filings are typically ignored by institutional investors unless accompanied by significant volume or strategic context.",
@@ -49,6 +52,7 @@
       "category": "Director Dealing",
       "headline": "PDMR Notification",
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/pdmr-notification-/9884045",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard PDMR notification with no disclosed transaction details, rendering it informationally neutral for immediate price action. In the current UK E&P sector, such routine filings are common and lack the strategic weight of major M&A or capital raises.",
@@ -62,6 +66,7 @@
       "category": null,
       "headline": "Total Voting Rights & Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/total-voting-rights-admission-to-trading/9851188",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -72,16 +77,22 @@
       "category": null,
       "headline": "MOU-6 preliminary well testing update",
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/mou-6-preliminary-well-testing-update/9849219",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Preliminary well testing updates are standard exploration milestones that rarely trigger immediate valuation shifts without confirmed commercial reserves; for PRD, this reinforces the speculative nature of its asset base rather than signaling imminent production revenue.",
+      "key_themes": [
+        "exploration",
+        "well_testing",
+        "upstream_development"
+      ]
     },
     {
       "timestamp": "2026-10-27T14:24:00",
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/notification-of-major-holdings-/9844183",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -92,16 +103,21 @@
       "category": null,
       "headline": "Chief Executive Broadcast Interview",
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/chief-executive-broadcast-interview/9835285",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Executive interviews are primarily PR-driven communications with negligible immediate financial impact on valuation; without disclosed material data or strategic shifts, these events rarely move share prices in the volatile E&P sector.",
+      "key_themes": [
+        "Investor Relations",
+        "Media Engagement"
+      ]
     },
     {
       "timestamp": "2026-10-15T07:48:00",
       "category": "Placing",
       "headline": "Placing to Raise £2.5 Million",
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/placing-to-raise-2-5-million/9824456",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This £2.5m placing represents a modest capital injection typical for junior E&P firms to fund exploration drilling or working capital, avoiding immediate dilution panic but signaling continued reliance on equity markets in a high-interest-rate environment.",
@@ -115,66 +131,93 @@
       "category": "AGM/EGM",
       "headline": "Result of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/result-of-annual-general-meeting/9823154",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes, which carries no intrinsic value impact for Predator Oil & Gas given its history of operational stagnation and lack of recent material corporate actions.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-10-14T07:00:00",
       "category": null,
       "headline": "MOU-6(Morocco) and Snowcap-3 (Trinidad)",
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/mou-6-morocco-and-snowcap-3-trinidad-/9821361",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The MOU for Morocco's NPV block is exploratory with no guaranteed value, while the Snowcap-3 well in Trinidad represents a standard operational update; neither constitutes a material financial event or immediate catalyst for PRD.",
+      "key_themes": [
+        "Exploration",
+        "Operational Update"
+      ]
     },
     {
       "timestamp": "2026-10-14T07:00:00",
       "category": "AGM/EGM",
       "headline": "AGM Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/agm-presentation-/9821360",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Standard AGM presentations for small-cap E&P firms are routine governance events with negligible immediate price impact, reflecting the sector's current focus on operational execution and capital discipline rather than strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Investor Relations"
+      ]
     },
     {
       "timestamp": "2026-09-30T10:25:00",
       "category": null,
       "headline": "Interim Financial Statements",
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/interim-financial-statements/9798892",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Interim results for a junior E&P like PRD are critical for validating reserve life and cash burn rates in the current high-interest-rate environment; any deviation from consensus on production or costs will trigger immediate repricing.",
+      "key_themes": [
+        "Junior E&P",
+        "Interim Results",
+        "Cash Flow"
+      ]
     },
     {
       "timestamp": "2026-09-21T07:00:00",
       "category": "AGM/EGM",
       "headline": "AGM Notice",
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/agm-notice-/9780824",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative notice for an AGM of a small-cap exploration company; without details on agenda items like capital raises or director changes, this carries no immediate pricing impact.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-21T07:00:00",
       "category": null,
       "headline": "Morocco – Commencement MOU-6 drilling operations",
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/morocco-commencement-mou-6-drilling-operations/9780770",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Commencement of drilling operations marks a critical value-inflection point for PRD, transitioning the asset from exploration to potential production and validating the Morocco play's technical viability amidst a broader sector focus on efficient E&P execution.",
+      "key_themes": [
+        "Drilling Operations",
+        "Morocco Asset Development",
+        "Exploration Progress"
+      ]
     },
     {
       "timestamp": "2026-08-28T14:00:00",
       "category": null,
       "headline": "Total Voting Rights & Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/total-voting-rights-admission-to-trading/9746183",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -185,6 +228,7 @@
       "category": "Director Dealing",
       "headline": "PDMR Notifications",
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/pdmr-notifications/9728526",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard PDMR notification for a micro-cap E&P firm; without volume data, this is routine administrative disclosure with negligible immediate market impact.",
@@ -198,10 +242,15 @@
       "category": null,
       "headline": "Execution of Amendment rig contract to drill MOU-6",
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/execution-of-amendment-rig-contract-to-drill-mou-6/9692361",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This amendment signals operational momentum in the UK North Sea, likely optimizing drilling efficiency or cost structures for the MOU-6 well, which is critical for validating resource estimates and reducing breakeven costs in a high-interest-rate environment.",
+      "key_themes": [
+        "North Sea",
+        "Drilling Operations",
+        "Cost Optimization"
+      ]
     }
   ]
 }

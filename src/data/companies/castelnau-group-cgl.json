@@ -10,16 +10,21 @@
       "category": "AGM/EGM",
       "headline": "Result of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/prn/castelnau-group-limited--cgl/result-of-annual-general-meeting/9775972",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results typically confirm standard shareholder approvals for directors' remuneration and auditor appointments, offering no new strategic direction or financial catalysts for the small-cap private equity sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-08-11T13:06:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/prn/castelnau-group-limited--cgl/notice-of-agm/9716143",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,10 +35,14 @@
       "category": null,
       "headline": "Q2 2026 INVESTMENT REPORT",
       "url": "https://www.investegate.co.uk/announcement/rns/castelnau-group-limited--cgl/q2-2026-investment-report/9683969",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a private investment vehicle, the Q2 report provides granular portfolio performance data but lacks immediate catalysts for public market re-rating; value is derived from tracking asset realization timelines rather than operational surprises.",
+      "key_themes": [
+        "portfolio_performance",
+        "private_equity_tracking"
+      ]
     }
   ]
 }

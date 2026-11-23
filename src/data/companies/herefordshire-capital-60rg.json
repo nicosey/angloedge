@@ -10,16 +10,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/herefordshire-capital-plc--60rg/result-of-agm/9775725",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-09-01T14:34:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/herefordshire-capital-plc--60rg/notice-of-agm/9749930",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,20 +35,28 @@
       "category": null,
       "headline": "Moody's Credit Rating",
       "url": "https://www.investegate.co.uk/announcement/rns/herefordshire-capital-plc--60rg/moody-s-credit-rating/9699268",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Moody's credit rating announcements for small-cap UK investment trusts are typically routine administrative updates with negligible immediate market impact, as the company's capital structure and borrowing capacity remain unchanged.",
+      "key_themes": [
+        "credit_rating",
+        "administrative"
+      ]
     },
     {
       "timestamp": "2026-07-16T09:03:00",
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/herefordshire-capital-plc--60rg/directorate-change/9672341",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative updates to the board composition are standard for small-cap investment trusts like Herefordshire Capital and typically carry no immediate market-moving implication unless accompanied by a change in strategic direction or significant shareholding shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Small Cap"
+      ]
     }
   ]
 }

@@ -10,30 +10,44 @@
       "category": null,
       "headline": "Credit Rating - S&P Global Ratings",
       "url": "https://www.investegate.co.uk/announcement/rns/boston-mayflower-finance-plc--90iy/credit-rating-s-p-global-ratings/9886811",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Credit rating updates for closed-end investment trusts like Boston Mayflower are typically administrative or reflect minor balance sheet adjustments rather than fundamental shifts in asset quality or strategy, having negligible immediate impact on share price performance.",
+      "key_themes": [
+        "credit_rating",
+        "administrative"
+      ]
     },
     {
       "timestamp": "2026-08-20T12:02:00",
       "category": "Results",
       "headline": "LHP Annual Financial Report 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/boston-mayflower-finance-plc--90iy/lhp-annual-financial-report-2026/9732336",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a London-listed investment trust focused on the US private equity market, this annual report provides critical visibility into net asset value (NAV) performance and dividend sustainability during a period of elevated interest rates. The results will be scrutinized for leverage management and liquidity in the secondary buyout sector, which has faced valuation headwinds since 2022.",
+      "key_themes": [
+        "investment trust",
+        "private equity",
+        "NAV performance",
+        "dividend policy"
+      ]
     },
     {
       "timestamp": "2026-06-26T09:29:00",
       "category": null,
       "headline": "Director Departure",
       "url": "https://www.investegate.co.uk/announcement/rns/boston-mayflower-finance-plc--90iy/director-departure/9639093",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Director departures in closed-end investment trusts are common administrative events that rarely signal distress unless accompanied by a change in the board's composition or strategy; without details on the departing director's role (e.g., Chair vs. independent non-executive), this is likely routine governance maintenance.",
+      "key_themes": [
+        "Governance",
+        "Closed-End Fund"
+      ]
     }
   ]
 }

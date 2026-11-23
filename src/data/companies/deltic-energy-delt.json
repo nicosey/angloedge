@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Disclosure Table",
       "url": "https://www.investegate.co.uk/announcement/rns/deltic-energy--delt/disclosure-table/9722221",
+      "routine_type": "Disclosure Table",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,22 @@
       "category": null,
       "headline": "Suspension - Deltic Energy PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/deltic-energy--delt/suspension-deltic-energy-plc/9722205",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Suspensions in the UK energy sector typically signal severe liquidity crises, insolvency risks, or imminent delisting, as seen with peers like Centrica's historical struggles or recent oil service firm collapses. This event likely triggers immediate margin calls and forces a scramble for emergency capital or administration, representing an existential threat to shareholder value.",
+      "key_themes": [
+        "Insolvency Risk",
+        "Liquidity Crisis",
+        "Delisting Threat"
+      ]
     },
     {
       "timestamp": "2026-08-13T14:23:00",
       "category": "Acquisition",
       "headline": "Court Sanction of Scheme of Arrangement",
       "url": "https://www.investegate.co.uk/announcement/rns/deltic-energy--delt/court-sanction-of-scheme-of-arrangement/9721079",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 9,
       "insight": "This court sanction finalizes the transformative acquisition of Wood Group PSN's offshore wind assets, significantly expanding Deltic Energy's operational footprint and revenue base in the high-growth offshore wind sector.",
@@ -44,6 +51,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/deltic-energy--delt/holding-s-in-company/9701050",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -54,16 +62,21 @@
       "category": "AGM/EGM",
       "headline": "Results of Court Meeting and General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/deltic-energy--delt/results-of-court-meeting-and-general-meeting/9634772",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard procedural disclosure confirming the ratification of routine resolutions at Deltic Energy's AGM/EGM, carrying no new strategic direction or financial data.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-10T11:22:00",
       "category": null,
       "headline": "Disclosure Table",
       "url": "https://www.investegate.co.uk/announcement/rns/deltic-energy--delt/disclosure-table/9611543",
+      "routine_type": "Disclosure Table",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -74,30 +87,42 @@
       "category": null,
       "headline": "No intention to make an offer for Deltic Energy",
       "url": "https://www.investegate.co.uk/announcement/rns/deltic-energy--delt/no-intention-to-make-an-offer-for-deltic-energy/9611507",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement confirms the absence of a takeover bid, eliminating immediate speculative upside for DELT shareholders and reinforcing the stock's reliance on organic operational performance rather than M&A arbitrage.",
+      "key_themes": [
+        "M&A",
+        "Speculation"
+      ]
     },
     {
       "timestamp": "2026-06-09T09:00:00",
       "category": null,
       "headline": "Deltic Energy plc - deadline for clarification",
       "url": "https://www.investegate.co.uk/announcement/rns/deltic-energy--delt/deltic-energy-plc-deadline-for-clarification/9608878",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory deadline notice for a prior clarification request, indicating no new material information has emerged that would alter the company's fundamental valuation or trading status.",
+      "key_themes": [
+        "regulatory_compliance",
+        "market_silence"
+      ]
     },
     {
       "timestamp": "2026-06-03T11:15:00",
       "category": null,
       "headline": "No intention to make an offer for Deltic Energy",
       "url": "https://www.investegate.co.uk/announcement/rns/deltic-energy--delt/no-intention-to-make-an-offer-for-deltic-energy/9599931",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement serves as a defensive clarification to quell takeover speculation, likely triggered by recent share price volatility or activist interest common in the mid-cap energy sector. While it removes immediate M&A upside, it confirms management's commitment to organic growth and strategic independence.",
+      "key_themes": [
+        "Takeover Speculation",
+        "Corporate Governance"
+      ]
     }
   ]
 }

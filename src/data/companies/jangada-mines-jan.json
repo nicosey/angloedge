@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/jangada-mines--jan/holding-s-in-company/9880283",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,21 @@
       "category": null,
       "headline": "Interview with Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/rns/jangada-mines--jan/interview-with-non-executive-director-/9879585",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Executive interviews in junior mining RNSs are primarily PR-driven communications with negligible immediate financial impact, reflecting the speculative nature of exploration-stage equities rather than fundamental operational shifts.",
+      "key_themes": [
+        "investor relations",
+        "exploration stage"
+      ]
     },
     {
       "timestamp": "2026-09-30T07:00:00",
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/jangada-mines--jan/interim-results/9797698",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a junior explorer, Jangada's interim results primarily serve to validate cash burn rates and exploration progress rather than immediate revenue generation; in the current capital-constrained mining sector, the focus is on whether these updates de-risk the asset sufficiently to attract future funding or strategic interest.",
@@ -44,40 +50,58 @@
       "category": null,
       "headline": "Molly Gold Project Drilling & Exploration Update",
       "url": "https://www.investegate.co.uk/announcement/rns/jangada-mines--jan/molly-gold-project-drilling-exploration-update-/9723819",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Exploration updates for junior miners like Jangada are routine catalysts that rarely move the market without definitive resource delineation; current gold price strength provides a supportive backdrop but does not offset the inherent execution risk of early-stage drilling.",
+      "key_themes": [
+        "exploration",
+        "gold mining",
+        "drilling results"
+      ]
     },
     {
       "timestamp": "2026-08-06T13:46:00",
       "category": "AGM/EGM",
       "headline": "Result of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/jangada-mines--jan/result-of-annual-general-meeting-/9709155",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "AGM results are typically administrative for junior explorers like Jangada Mines, confirming routine governance rather than signaling strategic shifts or capital raises.",
+      "key_themes": [
+        "corporate_governance",
+        "routine_disclosure"
+      ]
     },
     {
       "timestamp": "2026-06-08T07:00:00",
       "category": null,
       "headline": "Molly Gold Project - Phase 2 Drilling Commencement",
       "url": "https://www.investegate.co.uk/announcement/rns/jangada-mines--jan/molly-gold-project-phase-2-drilling-commencement/9605359",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Phase 2 drilling marks a standard progression in the exploration lifecycle for junior miners like Jangada, validating initial findings but lacking immediate commercial catalysts compared to resource definition or production milestones.",
+      "key_themes": [
+        "Exploration",
+        "Capex Execution"
+      ]
     },
     {
       "timestamp": "2026-05-27T07:00:00",
       "category": null,
       "headline": "Molly Gold Project, Brazil - Drilling Update",
       "url": "https://www.investegate.co.uk/announcement/rns/jangada-mines--jan/molly-gold-project-brazil-drilling-update/9586469",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Exploration updates for junior miners like Jangada are routine catalysts that rarely move the share price without assay results confirming high-grade intersections; this update likely serves to maintain investor interest rather than signal immediate value creation.",
+      "key_themes": [
+        "exploration",
+        "drilling",
+        "gold"
+      ]
     }
   ]
 }

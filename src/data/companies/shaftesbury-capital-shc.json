@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/shaftesbury-capital--shc/director-declaration/9848185",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,21 @@
       "category": "Dividend",
       "headline": "2026 Interim Dividend - Exchange Rate",
       "url": "https://www.investegate.co.uk/announcement/rns/shaftesbury-capital--shc/2026-interim-dividend-exchange-rate/9717812",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement clarifies the FX methodology for the interim dividend rather than declaring a new payout level, indicating no immediate change to shareholder yield expectations. In the current high-rate environment, SHC's focus remains on preserving NAV through prudent capital allocation rather than aggressive income expansion.",
+      "key_themes": [
+        "FX Mechanics",
+        "Dividend Policy"
+      ]
     },
     {
       "timestamp": "2026-07-30T09:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/shaftesbury-capital--shc/director-pdmr-shareholding/9695771",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on SHC's valuation or strategy, reflecting typical insider activity rather than a signal of significant corporate change.",
@@ -43,6 +49,7 @@
       "category": "Results",
       "headline": "Notice of 2026 interim results",
       "url": "https://www.investegate.co.uk/announcement/rns/shaftesbury-capital--shc/notice-of-2026-interim-results/9641687",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "This is a standard administrative notice for Shaftesbury's interim results rather than a substantive trading update; in the current high-yield property sector, investors will scrutinize rental reversion and voids to gauge resilience against rising financing costs.",

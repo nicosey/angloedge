@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/pembroke-vct-b--pemb/transaction-in-own-shares/9884669",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,21 @@
       "category": "Appointment",
       "headline": "Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/pembroke-vct-b--pemb/board-changes/9880395",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board changes in a VCT typically reflect standard governance maintenance rather than strategic shifts; without details on the nature of the appointments, this lacks the catalyst potential for significant price movement.",
+      "key_themes": [
+        "governance",
+        "vct"
+      ]
     },
     {
       "timestamp": "2026-11-12T14:17:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/pembroke-vct-b--pemb/director-pdmr-shareholding/9873042",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures for a VCT typically carry negligible market impact unless involving significant block trades, which are not indicated here; these filings are standard regulatory compliance rather than strategic signals.",
@@ -43,6 +49,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/pembroke-vct-b--pemb/issue-of-equity/9872249",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,16 +60,22 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/pembroke-vct-b--pemb/dividend-declaration/9858418",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine dividend declaration for a VCT; while positive for income-focused retail investors, it lacks the transformative catalysts required to drive significant capital appreciation in the current high-rate environment.",
+      "key_themes": [
+        "VCT",
+        "Dividend",
+        "Income"
+      ]
     },
     {
       "timestamp": "2026-10-30T09:00:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/pembroke-vct-b--pemb/total-voting-rights/9850327",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,6 +86,7 @@
       "category": null,
       "headline": "Publication of a Supplementary Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/pembroke-vct-b--pemb/publication-of-a-supplementary-prospectus/9818550",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,6 +97,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/pembroke-vct-b--pemb/total-voting-rights/9799778",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -93,16 +108,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/pembroke-vct-b--pemb/result-of-agm/9775662",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of an Annual General Meeting for a Venture Capital Trust, which typically involves routine approvals for director re-election and fee structures rather than strategic shifts or capital raises.",
+      "key_themes": [
+        "Corporate Governance",
+        "VCT"
+      ]
     },
     {
       "timestamp": "2026-08-28T16:00:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/pembroke-vct-b--pemb/total-voting-rights/9746422",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -113,6 +133,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/pembroke-vct-b--pemb/total-voting-rights/9701335",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -123,6 +144,7 @@
       "category": null,
       "headline": "Notification of Admission of Shares and TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/pembroke-vct-b--pemb/notification-of-admission-of-shares-and-tvr/9644152",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -133,26 +155,37 @@
       "category": null,
       "headline": "Intention to Launch an Offer for Subscription",
       "url": "https://www.investegate.co.uk/announcement/rns/pembroke-vct-b--pemb/intention-to-launch-an-offer-for-subscription/9640072",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This announcement signals a proactive capital raise to sustain the fund's investment mandate in the current VCT landscape, reflecting the sector-wide pressure on managers to maintain asset quality and investor confidence amid tighter regulatory scrutiny.",
+      "key_themes": [
+        "Capital Raise",
+        "VCT Sector",
+        "Fund Management"
+      ]
     },
     {
       "timestamp": "2026-06-26T15:31:00",
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/pembroke-vct-b--pemb/annual-financial-report/9640055",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a standard annual report for a Venture Capital Trust, this filing primarily serves as a compliance requirement rather than a catalyst for immediate price action, reflecting the routine nature of closed-end fund reporting cycles.",
+      "key_themes": [
+        "VCT",
+        "Annual Report",
+        "Compliance"
+      ]
     },
     {
       "timestamp": "2026-05-29T16:00:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/pembroke-vct-b--pemb/total-voting-rights/9592862",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -163,6 +196,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/pembroke-vct-b--pemb/issue-of-equity/9592183",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -173,10 +207,14 @@
       "category": null,
       "headline": "Notification of Admission of Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/pembroke-vct-b--pemb/notification-of-admission-of-shares-/9590322",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the listing of new shares, likely related to ongoing capital raising or subscription rights typical for VCTs; it carries no intrinsic valuation impact without details on pricing or volume.",
+      "key_themes": [
+        "VCT",
+        "Administrative"
+      ]
     }
   ]
 }

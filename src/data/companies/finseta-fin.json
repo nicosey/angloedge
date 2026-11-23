@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/finseta-plc--fin/holding-s-in-company/9873132",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/finseta-plc--fin/holding-s-in-company/9873108",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/finseta-plc--fin/holding-s-in-company/9870571",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +43,7 @@
       "category": null,
       "headline": "Notice of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/finseta-plc--fin/notice-of-general-meeting-/9865164",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,16 +54,21 @@
       "category": "Placing",
       "headline": "Affiliate Relationship and Fundraising",
       "url": "https://www.investegate.co.uk/announcement/rns/finseta-plc--fin/affiliate-relationship-and-fundraising/9861641",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The combination of a placing and an affiliate relationship suggests a strategic capital raise to fund growth or acquisitions, likely aimed at expanding market share in the competitive financial technology sector.",
+      "key_themes": [
+        "capital_raise",
+        "strategic_partnership"
+      ]
     },
     {
       "timestamp": "2026-09-16T07:00:00",
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/finseta-plc--fin/interim-results/9773935",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap with limited liquidity, FIN's interim results provide essential visibility into its niche property tech model, but lack the scale to drive significant sector-wide precedent or major capital reallocation.",
@@ -73,6 +82,7 @@
       "category": "Results",
       "headline": "Notice of Investor Presentation & Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/finseta-plc--fin/notice-of-investor-presentation-interim-results/9761965",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap fintech, this interim results release is critical for validating the company's pivot from legacy asset management to its new digital wealth platform, addressing recent investor concerns over strategic execution and cash burn.",
@@ -87,6 +97,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/finseta-plc--fin/holding-s-in-company/9650185",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -97,10 +108,14 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/finseta-plc--fin/result-of-agm/9645132",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results typically confirm standard shareholder approvals with minimal market-moving substance; for Finseta, this serves as a low-visibility governance checkpoint rather than a catalyst for valuation re-rating.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     }
   ]
 }

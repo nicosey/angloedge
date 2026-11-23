@@ -10,6 +10,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/acg-acquisition-company-limited-cls-a-npv-di---acg/tr-1-notification-of-major-holdings/9882796",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,46 +21,66 @@
       "category": null,
       "headline": "ACG Metals Mandates Managers - USD Bond Financing",
       "url": "https://www.investegate.co.uk/announcement/rns/acg-acquisition-company-limited-cls-a-npv-di---acg/acg-metals-mandates-managers-usd-bond-financing/9868824",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Securing USD bond financing via mandated managers signals a decisive pivot to international capital markets for ACG Metals, likely to fund exploration or development without immediate equity dilution, reflecting the sector's reliance on debt to sustain operations amidst volatile commodity prices.",
+      "key_themes": [
+        "Debt Financing",
+        "Mining Sector",
+        "Capital Structure"
+      ]
     },
     {
       "timestamp": "2026-11-04T07:00:00",
       "category": "AGM/EGM",
       "headline": "2026 Extraordinary General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/acg-acquisition-company-limited-cls-a-npv-di---acg/2026-extraordinary-general-meeting/9856993",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative notice for an EGM, likely concerning routine shareholder approvals such as director re-elections or mandate renewals rather than transformative corporate actions.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-11-03T17:47:00",
       "category": "Acquisition",
       "headline": "ACG to Acquire Blue Moon Norway (Replacement)",
       "url": "https://www.investegate.co.uk/announcement/rns/acg-acquisition-company-limited-cls-a-npv-di---acg/acg-to-acquire-blue-moon-norway-replacement-/9856700",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This replacement RNS confirms the acquisition of Blue Moon Norway, a key step in ACG's strategy to consolidate its renewable energy portfolio; while strategically positive for long-term asset growth, it is a routine execution update rather than a transformative market-moving event.",
+      "key_themes": [
+        "M&A",
+        "Renewable Energy",
+        "SPAC"
+      ]
     },
     {
       "timestamp": "2026-10-20T07:00:00",
       "category": null,
       "headline": "2026 Gediktepe Competent Person’s Report",
       "url": "https://www.investegate.co.uk/announcement/rns/acg-acquisition-company-limited-cls-a-npv-di---acg/2026-gediktepe-competent-person-s-report/9830666",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a technical disclosure required to validate the asset base for the SPAC's investment thesis rather than an immediate catalyst for share price movement; while it confirms the geological viability of the Gediktepe project, the market will focus on execution risks and timeline to production rather than the report itself.",
+      "key_themes": [
+        "SPAC",
+        "Mining",
+        "Due Diligence"
+      ]
     },
     {
       "timestamp": "2026-10-16T07:00:00",
       "category": "Results",
       "headline": "2026 Annual General Meeting Results",
       "url": "https://www.investegate.co.uk/announcement/rns/acg-acquisition-company-limited-cls-a-npv-di---acg/2026-annual-general-meeting-results-/9825947",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative filing for an SPAC's Annual General Meeting results, indicating routine governance compliance rather than substantive operational change or financial performance.",
@@ -73,16 +94,21 @@
       "category": "AGM/EGM",
       "headline": "2026 Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/acg-acquisition-company-limited-cls-a-npv-di---acg/2026-annual-general-meeting/9785653",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice for an Annual General Meeting, indicating routine corporate governance rather than any material strategic shift or financial event.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-09-17T07:00:00",
       "category": "Results",
       "headline": "H1 2026 Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/acg-acquisition-company-limited-cls-a-npv-di---acg/h1-2026-interim-results/9776263",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a SPAC with a H1 2026 reporting date, this interim result likely reflects the post-merger integration phase of a recently acquired target rather than organic growth, serving as a critical validation of the acquisition thesis in a market where SPAC performance has faced intense scrutiny.",
@@ -96,6 +122,7 @@
       "category": null,
       "headline": "Block Admission Application",
       "url": "https://www.investegate.co.uk/announcement/rns/acg-acquisition-company-limited-cls-a-npv-di---acg/block-admission-application/9766706",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -106,26 +133,36 @@
       "category": "Acquisition",
       "headline": "ACG to Acquire Licence to Extend Gold Production",
       "url": "https://www.investegate.co.uk/announcement/rns/acg-acquisition-company-limited-cls-a-npv-di---acg/acg-to-acquire-licence-to-extend-gold-production/9757566",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This acquisition extends the mine life of ACG's UK gold assets, directly addressing the critical depleting reserves issue facing junior miners and providing a tangible path to sustained cash flow generation in a high-gold-price environment.",
+      "key_themes": [
+        "Mine Life Extension",
+        "Gold Production",
+        "Asset Development"
+      ]
     },
     {
       "timestamp": "2026-09-03T07:00:00",
       "category": null,
       "headline": "Adoption of New Corporate Governance Policies",
       "url": "https://www.investegate.co.uk/announcement/rns/acg-acquisition-company-limited-cls-a-npv-di---acg/adoption-of-new-corporate-governance-policies/9752907",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Adoption of corporate governance policies is a standard administrative compliance step for SPACs, typically required to maintain listing status or prepare for de-SPACing, but it carries no immediate financial or operational weight.",
+      "key_themes": [
+        "Corporate Governance",
+        "SPAC Administration"
+      ]
     },
     {
       "timestamp": "2026-07-27T14:39:00",
       "category": null,
       "headline": "Report on Payments to Governments 2025",
       "url": "https://www.investegate.co.uk/announcement/rns/acg-acquisition-company-limited-cls-a-npv-di---acg/report-on-payments-to-governments-2025/9689455",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -136,6 +173,7 @@
       "category": null,
       "headline": "Exercise of Warrants and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/acg-acquisition-company-limited-cls-a-npv-di---acg/exercise-of-warrants-and-total-voting-rights/9668435",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -146,16 +184,22 @@
       "category": null,
       "headline": "H1 2026 Operations Update",
       "url": "https://www.investegate.co.uk/announcement/rns/acg-acquisition-company-limited-cls-a-npv-di---acg/h1-2026-operations-update/9666646",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a SPAC, this update likely details the status of target identification or business combination progress rather than operational performance; in the current UK market environment, such announcements are critical for assessing whether the entity will liquidate or successfully merge with a private company.",
+      "key_themes": [
+        "SPAC",
+        "Business Combination",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-06-26T14:26:00",
       "category": null,
       "headline": "Exercise of Warrants and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/acg-acquisition-company-limited-cls-a-npv-di---acg/exercise-of-warrants-and-total-voting-rights/9639854",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

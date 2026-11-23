@@ -2,14 +2,29 @@
   "name": "EPE Special Opportunities Limited (DI)",
   "ticker": "EO.P",
   "slug": "epe-special-opportunities-eo-p",
-  "announcement_count": 27,
-  "latest_announcement": "2026-11-20T15:00:00",
+  "announcement_count": 28,
+  "latest_announcement": "2026-11-23T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T07:00:00",
+      "category": null,
+      "headline": "Redemption of ZDP Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/redemption-of-zdp-shares/9887572",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Redemption of Zero Dividend Preference (ZDP) shares is a standard capital structure adjustment for EPE, typically executed to manage gearing ratios or prepare for specific investment vehicles rather than signaling strategic distress. While it alters the equity base, it lacks the transformative impact of major M&A or significant profit warnings.",
+      "key_themes": [
+        "Capital Structure",
+        "Administrative Action"
+      ]
+    },
     {
       "timestamp": "2026-11-20T15:00:00",
       "category": "Director Dealing",
       "headline": "PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/pdmr-shareholding-/9887156",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of insider shareholding changes, which provides transparency but lacks the transformative catalysts required for significant price movement in the private equity sector.",
@@ -23,6 +38,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/transaction-in-own-shares/9878252",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -33,6 +49,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/transaction-in-own-shares/9874226",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,16 +60,22 @@
       "category": null,
       "headline": "Announcement of Share Buy Backs",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/announcement-of-share-buy-backs/9864627",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Share buybacks signal management's confidence in intrinsic value and provide a mechanism to offset dilution from employee share schemes, which is a positive but routine capital allocation decision for EPE Special Opportunities given its closed-end fund structure.",
+      "key_themes": [
+        "capital return",
+        "shareholder value",
+        "closed-end fund"
+      ]
     },
     {
       "timestamp": "2026-10-06T07:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/director-pdmr-shareholding/9807675",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions rather than a corporate strategy signal; without details on volume or direction (buy/sell), it holds no predictive value for EPE's infrastructure investment thesis.",
@@ -66,16 +89,22 @@
       "category": "Results",
       "headline": "Half-year Report",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/half-year-report/9761836",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a major UK listed infrastructure investment trust, EPE's half-year results provide critical visibility into the performance of its renewable energy and transport assets amid rising interest rates and inflationary pressures on OPEX.",
+      "key_themes": [
+        "Infrastructure",
+        "Renewable Energy",
+        "Dividend Yield"
+      ]
     },
     {
       "timestamp": "2026-08-27T09:31:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/holding-s-in-company/9743250",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -86,6 +115,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/holding-s-in-company/9714368",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -96,6 +126,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/holding-s-in-company/9710411",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -106,26 +137,36 @@
       "category": null,
       "headline": "Update on Share Buy Backs",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/update-on-share-buy-backs/9709675",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Share buybacks in the infrastructure/energy transition sector typically signal management's confidence in cash flow generation but offer limited immediate upside for shareholders compared to growth catalysts; this is a routine capital allocation move rather than a transformative event.",
+      "key_themes": [
+        "capital return",
+        "shareholder value"
+      ]
     },
     {
       "timestamp": "2026-08-06T16:00:00",
       "category": null,
       "headline": "Further Issuance of Unsecured Loan Notes",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/further-issuance-of-unsecured-loan-notes-/9709444",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Issuing unsecured loan notes indicates a preference for debt over equity dilution to fund growth or refinance, reflecting confidence in cash flow generation but increasing leverage risk; this is typical for infrastructure-focused investment trusts seeking to maintain NAV stability while expanding their portfolio.",
+      "key_themes": [
+        "capital_structure",
+        "debt_funding",
+        "infrastructure_investment"
+      ]
     },
     {
       "timestamp": "2026-08-03T12:00:00",
       "category": null,
       "headline": "Change of Registered Office",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/change-of-registered-office/9701479",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -136,56 +177,78 @@
       "category": null,
       "headline": "Partial Redemption of Unsecured Loan Notes",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/partial-redemption-of-unsecured-loan-notes-/9697125",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Partial redemption of unsecured loan notes signals active balance sheet deleveraging and improved liquidity management for this infrastructure-focused investment vehicle, reducing interest expense risk without diluting equity holders.",
+      "key_themes": [
+        "deleveraging",
+        "capital_structure",
+        "infrastructure_finance"
+      ]
     },
     {
       "timestamp": "2026-07-27T12:00:00",
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/annual-financial-report/9689197",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a standard annual report for an investment trust, this filing primarily confirms historical NAV performance and dividend policy rather than signaling immediate strategic shifts or material value creation events.",
+      "key_themes": [
+        "Annual Report",
+        "NAV Performance"
+      ]
     },
     {
       "timestamp": "2026-07-23T14:15:00",
       "category": null,
       "headline": "Exercise of Special Redemption Option",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/exercise-of-special-redemption-option/9684816",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative exercise of a redemption option within EPE's existing capital structure, likely reflecting minor portfolio rebalancing rather than a strategic shift; it carries no material implication for shareholder value or operational direction.",
+      "key_themes": [
+        "Capital Structure",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-22T07:00:00",
       "category": null,
       "headline": "Amendment and Extension of Unsecured Loan Notes",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/amendment-and-extension-of-unsecured-loan-notes/9680722",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This amendment primarily serves to extend the maturity of existing debt, indicating a need for liquidity management rather than strategic expansion; while it avoids immediate default risk, it signals potential cash flow constraints typical of private equity sponsors navigating higher interest rate environments.",
+      "key_themes": [
+        "Debt Restructuring",
+        "Liquidity Management"
+      ]
     },
     {
       "timestamp": "2026-07-14T12:20:00",
       "category": null,
       "headline": "Amendment and Extension of Unsecured Loan Notes",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/amendment-and-extension-of-unsecured-loan-notes/9668178",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This amendment extends the maturity of unsecured loan notes, likely to manage liquidity or refinance existing debt obligations without immediate cash outflow; while it avoids an immediate default, it signals potential near-term funding pressure common in leveraged infrastructure portfolios.",
+      "key_themes": [
+        "Debt Restructuring",
+        "Liquidity Management"
+      ]
     },
     {
       "timestamp": "2026-07-06T18:15:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/transaction-in-own-shares/9654746",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -196,6 +259,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/transaction-in-own-shares/9653699",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -206,6 +270,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/transaction-in-own-shares/9636490",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -216,6 +281,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/transaction-in-own-shares/9630716",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -226,26 +292,37 @@
       "category": null,
       "headline": "Recommencement of Share Buy Backs",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/recommencement-of-share-buy-backs/9626571",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The recommencement of share buybacks signals management's confidence in the asset portfolio's valuation and cash generation capabilities, serving as a key mechanism to enhance NAV per share in a sector where discount compression is critical for investor sentiment.",
+      "key_themes": [
+        "capital return",
+        "NAV support",
+        "private equity"
+      ]
     },
     {
       "timestamp": "2026-06-05T17:20:00",
       "category": null,
       "headline": "Update on Share Buy Backs",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/update-on-share-buy-backs/9605147",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "EPE's continued share buybacks signal strong free cash flow generation and management confidence in the firm's valuation, serving as a defensive capital return mechanism typical for private equity firms navigating current market volatility.",
+      "key_themes": [
+        "capital allocation",
+        "shareholder returns",
+        "private equity"
+      ]
     },
     {
       "timestamp": "2026-06-01T16:25:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/transaction-in-own-shares/9595709",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -256,16 +333,21 @@
       "category": null,
       "headline": "Announcement of Share Buy Backs",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/announcement-of-share-buy-backs/9593412",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Share buybacks signal management's confidence in intrinsic value and provide immediate earnings per share accretion, which is particularly relevant for EPE as a private equity vehicle seeking to optimize NAV returns amidst current market volatility.",
+      "key_themes": [
+        "capital return",
+        "NAV support"
+      ]
     },
     {
       "timestamp": "2026-05-29T13:30:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/director-pdmr-shareholding/9592588",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions, which typically carries negligible market impact unless the volume or direction signals a coordinated shift in insider sentiment. In the current UK equity environment, isolated director dealings are routine administrative events rather than strategic indicators.",
@@ -279,10 +361,15 @@
       "category": null,
       "headline": "Partial Sell Down of Investment in Luceco plc",
       "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/partial-sell-down-of-investment-in-luceco-plc-/9588335",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This partial sell-down reflects standard portfolio rebalancing by a specialist energy infrastructure fund rather than a loss of confidence in Luceco's core business, though it highlights the ongoing liquidity constraints and valuation discounts typical of the UK AIM market for mid-cap industrial stocks.",
+      "key_themes": [
+        "Portfolio Rebalancing",
+        "AIM Liquidity",
+        "Energy Infrastructure"
+      ]
     }
   ]
 }

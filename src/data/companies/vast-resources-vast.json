@@ -10,6 +10,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/vast-resources--vast/notice-of-agm/9861631",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/vast-resources--vast/holding-s-in-company/9768894",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,110 +32,157 @@
       "category": null,
       "headline": "Vast Admitted to DIBC & Cornerstone Consortium",
       "url": "https://www.investegate.co.uk/announcement/rns/vast-resources--vast/vast-admitted-to-dibc-cornerstone-consortium/9735296",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "The admission of DIBC (Deep Industry Business Corporation) and a cornerstone consortium signals a high-probability capital raise or strategic partnership, which is critical for funding exploration in the competitive UK junior mining sector. This move mitigates immediate liquidity risk and validates the project's technical merit to institutional investors, distinguishing it from typical speculative announcements.",
+      "key_themes": [
+        "Capital Raise",
+        "Strategic Partnership",
+        "Junior Mining"
+      ]
     },
     {
       "timestamp": "2026-08-21T10:45:00",
       "category": null,
       "headline": "Repayment of Debt",
       "url": "https://www.investegate.co.uk/announcement/rns/vast-resources--vast/repayment-of-debt/9734344",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Debt repayment is a standard liquidity management action that reduces interest burden but offers no immediate value accretion for Vast Resources' exploration-stage equity; without concurrent asset acquisition or production milestones, this remains an administrative update rather than a catalyst for re-rating.",
+      "key_themes": [
+        "liquidity",
+        "deleveraging"
+      ]
     },
     {
       "timestamp": "2026-08-20T07:00:00",
       "category": null,
       "headline": "Further Subscription & Issue of Fee Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/vast-resources--vast/further-subscription-issue-of-fee-shares/9730773",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement reflects a standard capital raise mechanism typical for junior mining explorers to fund ongoing drilling programs rather than indicating transformative growth or distress. While necessary for operational continuity, such dilutive events are routine in the sector and rarely drive immediate share price appreciation without concurrent geological success.",
+      "key_themes": [
+        "capital_raise",
+        "dilution",
+        "exploration_funding"
+      ]
     },
     {
       "timestamp": "2026-08-19T08:00:00",
       "category": null,
       "headline": "Readmission - Vast Resources Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/vast-resources--vast/readmission-vast-resources-plc/9729346",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Readmission to the AIM market typically signals a restructuring of capital or governance rather than an operational catalyst; without accompanying details on new funding or strategic direction, this is primarily an administrative milestone with limited immediate price impact.",
+      "key_themes": [
+        "Corporate Governance",
+        "Market Listing"
+      ]
     },
     {
       "timestamp": "2026-08-19T07:00:00",
       "category": null,
       "headline": "Completion of RTO & Re-Admission to Trading on AIM",
       "url": "https://www.investegate.co.uk/announcement/rns/vast-resources--vast/completion-of-rto-re-admission-to-trading-on-aim/9728626",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This RTO is a standard administrative procedure for private companies seeking AIM listing, indicating no immediate operational catalyst or value accretion. While it grants access to public capital markets, the event itself is routine and lacks the transformative M&A or financial metrics required for significant market reaction.",
+      "key_themes": [
+        "Corporate Action",
+        "AIM Listing"
+      ]
     },
     {
       "timestamp": "2026-08-18T12:00:00",
       "category": "AGM/EGM",
       "headline": "Results of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/vast-resources--vast/results-of-general-meeting/9727840",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at Vast Resources' AGM/EGM, which typically involves routine matters like director reappointments or fee approvals rather than strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-08-17T14:15:00",
       "category": null,
       "headline": "Glencore Finance Agreement",
       "url": "https://www.investegate.co.uk/announcement/rns/vast-resources--vast/glencore-finance-agreement-/9725730",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Financing agreements are standard operational necessities for junior explorers to fund drilling campaigns rather than value-accretive events; without disclosed equity dilution terms or specific project milestones, this signals routine liquidity management in a capital-intensive sector.",
+      "key_themes": [
+        "Corporate Finance",
+        "Exploration Funding"
+      ]
     },
     {
       "timestamp": "2026-08-06T09:15:00",
       "category": "Placing",
       "headline": "Oversubscribed Retail Offer & Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/vast-resources--vast/oversubscribed-retail-offer-total-voting-rights-/9708402",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The oversubscribed retail offer signals strong grassroots investor appetite for Vast Resources' exploration narrative, providing essential liquidity without immediate dilution from institutional placing, though it highlights the company's reliance on retail sentiment in a volatile junior mining sector.",
+      "key_themes": [
+        "Retail Sentiment",
+        "Capital Raise",
+        "Junior Mining"
+      ]
     },
     {
       "timestamp": "2026-08-04T08:00:00",
       "category": null,
       "headline": "Schedule One - Vast Resources PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/vast-resources--vast/schedule-one-vast-resources-plc/9703228",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Schedule One announcements are standard administrative filings under the UK Listing Rules, typically confirming compliance with disclosure requirements rather than conveying substantive operational news or strategic shifts.",
+      "key_themes": [
+        "regulatory_compliance",
+        "administrative"
+      ]
     },
     {
       "timestamp": "2026-07-27T09:45:00",
       "category": null,
       "headline": "US$10M Debt Facility and Transaction Update",
       "url": "https://www.investegate.co.uk/announcement/rns/vast-resources--vast/us-10m-debt-facility-and-transaction-update/9688636",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Securing a $10M debt facility provides essential liquidity for Vast Resources to advance exploration without immediate equity dilution, though it signals reliance on debt in a capital-intensive junior mining sector where cash burn is critical.",
+      "key_themes": [
+        "liquidity",
+        "exploration_funding"
+      ]
     },
     {
       "timestamp": "2026-06-16T12:52:00",
       "category": "Acquisition",
       "headline": "Update on Proposed Acquisition",
       "url": "https://www.investegate.co.uk/announcement/rns/vast-resources--vast/update-on-proposed-acquisition/9621258",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a micro-cap exploration entity, Vast Resources lacks the balance sheet to execute transformative M&A; this update likely reflects standard due diligence delays or minor asset consolidation rather than a strategic pivot, posing minimal immediate value impact.",
+      "key_themes": [
+        "exploration",
+        "corporate_action"
+      ]
     }
   ]
 }

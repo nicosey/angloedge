@@ -10,36 +10,49 @@
       "category": null,
       "headline": "Grant of LTIP options",
       "url": "https://www.investegate.co.uk/announcement/rns/ampeak-energy-limited--amp/grant-of-ltip-options-/9879955",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine LTIP grant aligns management incentives with long-term value creation but signals no immediate catalyst for share price movement; typical for small-cap energy firms seeking to retain talent in a competitive market.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Compensation"
+      ]
     },
     {
       "timestamp": "2026-11-11T07:00:00",
       "category": null,
       "headline": "Major milestone reached on flagship AW1 project",
       "url": "https://www.investegate.co.uk/announcement/rns/ampeak-energy-limited--amp/major-milestone-reached-on-flagship-aw1-project/9868869",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Achieving a major milestone on the flagship AW1 project validates Ampeak's technical execution in the competitive UK offshore wind supply chain, reducing execution risk and potentially accelerating revenue recognition timelines.",
+      "key_themes": [
+        "Offshore Wind",
+        "Project Execution"
+      ]
     },
     {
       "timestamp": "2026-10-06T15:25:00",
       "category": "Director Dealing",
       "headline": "Director Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/ampeak-energy-limited--amp/director-dealings/9809641",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealings in the small-cap energy sector typically signal internal alignment rather than strategic shifts, offering negligible immediate catalyst for share price movement compared to operational updates.",
+      "key_themes": [
+        "corporate_governance",
+        "minor_administrative"
+      ]
     },
     {
       "timestamp": "2026-10-05T07:00:00",
       "category": null,
       "headline": "TR1 Notification",
       "url": "https://www.investegate.co.uk/announcement/rns/ampeak-energy-limited--amp/tr1-notification/9805336",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,36 +63,50 @@
       "category": "Director Dealing",
       "headline": "Director Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/ampeak-energy-limited--amp/director-dealings/9804346",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealings in the small-cap energy sector typically signal low immediate market impact unless accompanied by volume anomalies or insider cluster activity; without specific transaction values, this remains an administrative disclosure with negligible strategic implication.",
+      "key_themes": [
+        "corporate_governance",
+        "minor_disclosure"
+      ]
     },
     {
       "timestamp": "2026-09-28T13:11:00",
       "category": "Director Dealing",
       "headline": "Director Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/ampeak-energy-limited--amp/director-dealings/9794437",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible signal for share price direction in the absence of aggregate insider cluster data or concurrent strategic announcements.",
+      "key_themes": [
+        "regulatory_compliance",
+        "low_signal"
+      ]
     },
     {
       "timestamp": "2026-09-23T08:00:00",
       "category": null,
       "headline": "CEO Succession",
       "url": "https://www.investegate.co.uk/announcement/rns/ampeak-energy-limited--amp/ceo-succession/9786523",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "CEO succession in the volatile UK energy sector signals a critical strategic inflection point; investors will scrutinize whether the incoming leadership maintains current exploration momentum or pivots to capital preservation amid rising interest rates and commodity price sensitivity.",
+      "key_themes": [
+        "Leadership Change",
+        "Strategic Uncertainty",
+        "Energy Sector Volatility"
+      ]
     },
     {
       "timestamp": "2026-09-18T07:00:00",
       "category": null,
       "headline": "Ampeak Block Listing Application",
       "url": "https://www.investegate.co.uk/announcement/rns/ampeak-energy-limited--amp/ampeak-block-listing-application/9778559",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,6 +117,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM and proposed Board appointments",
       "url": "https://www.investegate.co.uk/announcement/rns/ampeak-energy-limited--amp/notice-of-agm-and-proposed-board-appointments/9638047",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,

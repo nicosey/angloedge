@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/parvus-energy-efficiency-trust-plc--aeet/director-pdmr-shareholding/9881784",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate price impact; without volume or direction specifics, they offer no actionable signal for Parvus Energy Efficiency Trust PLC's valuation.",
@@ -23,6 +24,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/parvus-energy-efficiency-trust-plc--aeet/director-pdmr-shareholding/9881783",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Director dealings in closed-end investment trusts like AEET are typically low-impact administrative events that rarely signal immediate fundamental shifts, especially given the sector's current focus on NAV discounts and dividend sustainability rather than insider trading activity.",
@@ -37,6 +39,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/parvus-energy-efficiency-trust-plc--aeet/holding-s-in-company/9799039",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -47,20 +50,29 @@
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/parvus-energy-efficiency-trust-plc--aeet/half-year-financial-report/9790439",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a closed-end fund focused on energy efficiency, AEET's interim results primarily reflect portfolio valuation changes and dividend sustainability rather than operational M&A or strategic pivots, typical for routine income-focused equity trusts.",
+      "key_themes": [
+        "interim results",
+        "closed-end fund",
+        "dividend yield"
+      ]
     },
     {
       "timestamp": "2026-09-25T07:00:00",
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/parvus-energy-efficiency-trust-plc--aeet/dividend-declaration/9790289",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine dividend declaration for a closed-end investment trust; while income stability is key for AEET's shareholder base, this action lacks the transformative catalysts required to drive significant re-rating in the current high-yield environment.",
+      "key_themes": [
+        "Income Trust",
+        "Dividend Policy"
+      ]
     }
   ]
 }

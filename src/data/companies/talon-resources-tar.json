@@ -2,44 +2,87 @@
   "name": "Talon Resources Plc",
   "ticker": "TAR",
   "slug": "talon-resources-tar",
-  "announcement_count": 11,
-  "latest_announcement": "2026-11-16T13:00:00",
+  "announcement_count": 13,
+  "latest_announcement": "2026-11-23T15:08:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T15:08:00",
+      "category": "AGM/EGM",
+      "headline": "Result of AGM",
+      "url": "https://www.investegate.co.uk/announcement/rns/talon-resources-plc--tar/result-of-agm/9889535",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at Talon Resources' Annual General Meeting, carrying no new strategic information or financial data.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
+    },
+    {
+      "timestamp": "2026-11-23T10:00:00",
+      "category": "Appointment",
+      "headline": "Directorate change",
+      "url": "https://www.investegate.co.uk/announcement/rns/talon-resources-plc--tar/directorate-change/9888779",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board-level changes in junior exploration firms typically signal governance maintenance rather than strategic pivot; without context on the appointee's specific resource expertise or a concurrent capital raise, this lacks immediate catalyst potential for TAR.",
+      "key_themes": [
+        "Corporate Governance",
+        "Management Structure"
+      ]
+    },
     {
       "timestamp": "2026-11-16T13:00:00",
       "category": null,
       "headline": "Capital Access Window",
       "url": "https://www.investegate.co.uk/announcement/rns/talon-resources-plc--tar/capital-access-window/9877576",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement signals a standard operational mechanism for accessing capital rather than a transformative event, likely indicating routine funding needs or liquidity management typical of small-cap resource explorers without immediate major deal flow.",
+      "key_themes": [
+        "capital raising",
+        "liquidity",
+        "small cap"
+      ]
     },
     {
       "timestamp": "2026-11-16T13:00:00",
       "category": null,
       "headline": "Capital Access Window - Talon Resources plc",
       "url": "https://www.investegate.co.uk/announcement/rns/talon-resources-plc--tar/capital-access-window-talon-resources-plc-/9877574",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice regarding the reopening of the share dealing window for directors, indicating no immediate material corporate action or insider trading activity.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Dealing"
+      ]
     },
     {
       "timestamp": "2026-11-12T07:15:00",
       "category": null,
       "headline": "Major Gold Intercept at Eagle Lake",
       "url": "https://www.investegate.co.uk/announcement/rns/talon-resources-plc--tar/major-gold-intercept-at-eagle-lake/9871969",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "High-grade gold intercepts at Eagle Lake significantly de-risk the project's resource potential and enhance optionality for future M&A or financing, aligning with the current market preference for high-quality, near-term production assets in the junior mining sector.",
+      "key_themes": [
+        "Exploration Success",
+        "Gold Price Sensitivity",
+        "Asset De-risking"
+      ]
     },
     {
       "timestamp": "2026-10-30T16:26:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/talon-resources-plc--tar/notice-of-agm/9851426",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,56 +93,77 @@
       "category": null,
       "headline": "Drill Programme Preparation Completed - Eagle Lake",
       "url": "https://www.investegate.co.uk/announcement/rns/talon-resources-plc--tar/drill-programme-preparation-completed-eagle-lake/9737674",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms operational readiness for the Eagle Lake drill programme but lacks immediate geological data or resource definition results; in the junior mining sector, such preparatory updates are routine milestones that typically generate limited investor interest until assay results demonstrate economic viability.",
+      "key_themes": [
+        "Exploration",
+        "Operational Update"
+      ]
     },
     {
       "timestamp": "2026-06-26T16:15:00",
       "category": "Director Dealing",
       "headline": "Director Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/talon-resources-plc--tar/director-dealings/9640081",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealings in the junior exploration space typically signal minimal immediate price impact unless accompanied by volume anomalies or concurrent drill results; without specific transaction values or insider names, this remains an administrative filing with low predictive power for share movement.",
+      "key_themes": [
+        "minor_administrative",
+        "director_dealing"
+      ]
     },
     {
       "timestamp": "2026-06-26T07:00:00",
       "category": null,
       "headline": "Publication of Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/talon-resources-plc--tar/publication-of-investor-presentation/9638057",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine investor relations activity typical for junior explorers seeking to maintain visibility during exploration phases; lacks immediate catalysts like resource definition updates or financing news.",
+      "key_themes": [
+        "investor_relations",
+        "exploration"
+      ]
     },
     {
       "timestamp": "2026-06-23T08:00:00",
       "category": null,
       "headline": "Readmission - Talon Resources plc",
       "url": "https://www.investegate.co.uk/announcement/rns/talon-resources-plc--tar/readmission-talon-resources-plc/9631513",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Readmission typically follows a delisting or restructuring event, often signaling a return to public markets after a period of private consolidation or SPAC de-spacification; for TAR, this implies a reset of liquidity and investor base rather than immediate operational transformation.",
+      "key_themes": [
+        "Corporate Restructuring",
+        "Market Access"
+      ]
     },
     {
       "timestamp": "2026-06-23T07:00:00",
       "category": "New Listing",
       "headline": "Admission to AIM and First Day of Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/talon-resources-plc--tar/admission-to-aim-and-first-day-of-dealings-/9630730",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Admission to AIM is a standard administrative milestone for private companies seeking liquidity rather than a transformative event in itself; the market impact will depend entirely on the underlying asset quality and initial trading volume rather than the listing status.",
+      "key_themes": [
+        "AIM Listing",
+        "Liquidity Event"
+      ]
     },
     {
       "timestamp": "2026-05-28T17:35:00",
       "category": null,
       "headline": "Notice of GM & Publication of Admission Document",
       "url": "https://www.investegate.co.uk/announcement/rns/talon-resources-plc--tar/notice-of-gm-publication-of-admission-document/9590725",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -110,10 +174,14 @@
       "category": null,
       "headline": "Schedule One - Talon Resources plc",
       "url": "https://www.investegate.co.uk/announcement/rns/talon-resources-plc--tar/schedule-one-talon-resources-plc/9587234",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Schedule One announcements are standard administrative filings under the UK Listing Rules confirming share capital details; they carry no intrinsic market-moving information regarding Talon's operational performance or strategic direction.",
+      "key_themes": [
+        "regulatory_compliance",
+        "corporate_governance"
+      ]
     }
   ]
 }

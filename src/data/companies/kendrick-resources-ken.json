@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Teufelskuppe – New Drill Results",
       "url": "https://www.investegate.co.uk/announcement/rns/kendrick-resources--ken/teufelskuppe-new-drill-results/9691186",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "High-grade drill results at Teufelskuppe validate the asset's potential as a high-margin silver producer, offering a catalyst for re-rating in the current precious metals bull market, though execution risk remains until resource definition is complete.",
@@ -24,6 +25,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/kendrick-resources--ken/total-voting-rights/9644510",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -34,6 +36,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/kendrick-resources--ken/holding-s-in-company/9620564",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -44,26 +47,35 @@
       "category": null,
       "headline": "Update on Kieshöhe Project (Correction)",
       "url": "https://www.investegate.co.uk/announcement/rns/kendrick-resources--ken/update-on-kiesh-he-project-correction-/9604537",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a correction to a previous update on the Kieshöhe Project, this RNS likely clarifies technical or administrative details rather than introducing new material developments, reflecting standard disclosure hygiene for junior explorers.",
+      "key_themes": [
+        "correction",
+        "exploration_update"
+      ]
     },
     {
       "timestamp": "2026-06-05T07:00:00",
       "category": null,
       "headline": "Update on Kieshöhe Project",
       "url": "https://www.investegate.co.uk/announcement/rns/kendrick-resources--ken/update-on-kiesh-he-project/9603052",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a junior explorer, this update likely pertains to routine exploration progress rather than commercial milestones; without evidence of significant resource definition or financing, the market impact remains limited compared to major development announcements.",
+      "key_themes": [
+        "Exploration Update",
+        "Junior Mining"
+      ]
     },
     {
       "timestamp": "2026-06-03T15:01:00",
       "category": null,
       "headline": "Issue of Equity and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/kendrick-resources--ken/issue-of-equity-and-total-voting-rights/9600350",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

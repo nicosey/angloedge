@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Form 8 - Gresham House Energy Storage Fund plc",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-energy-storage-fund--grid/form-8-gresham-house-energy-storage-fund-plc/9870916",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Disclosure Table",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-energy-storage-fund--grid/disclosure-table/9854045",
+      "routine_type": "Disclosure Table",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,16 +32,22 @@
       "category": null,
       "headline": "Launch of a Formal Sale Process",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-energy-storage-fund--grid/launch-of-a-formal-sale-process-/9853973",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Initiating a formal sale process for GRID signals a definitive exit from the operational energy storage asset class, likely driven by the need to crystallize value in a sector facing margin compression and high interest rates. This precedent mirrors the consolidation trend among smaller UK infrastructure funds seeking liquidity or strategic pivots away from heavy capex-intensive renewable generation.",
+      "key_themes": [
+        "Asset Disposal",
+        "Infrastructure Consolidation",
+        "Liquidity Event"
+      ]
     },
     {
       "timestamp": "2026-10-01T12:08:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-energy-storage-fund--grid/director-pdmr-shareholding/9802103",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions rather than a corporate strategy shift; in the current high-interest-rate environment for infrastructure debt, such routine filings offer no signal of strategic direction or valuation change.",
@@ -53,6 +61,7 @@
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-energy-storage-fund--grid/director-declaration/9799197",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,6 +72,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-energy-storage-fund--grid/director-pdmr-shareholding/9792333",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures in the infrastructure/energy storage sector typically reflect personal portfolio management rather than strategic shifts, offering limited signal for GRID's operational outlook.",
@@ -76,6 +86,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-energy-storage-fund--grid/director-pdmr-shareholding/9789842",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions rather than a corporate action or strategic shift; in the current UK equity market, routine PDMR dealings without accompanying block trades or significant insider buying/selling signals carry negligible pricing impact.",
@@ -89,6 +100,7 @@
       "category": "Director Dealing",
       "headline": "Replacement: Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-energy-storage-fund--grid/replacement-director-pdmr-shareholding/9787193",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard administrative filing for PDMR shareholding changes, likely reflecting routine portfolio rebalancing or tax obligations rather than a directional signal on GRID's underlying asset performance.",
@@ -102,6 +114,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-energy-storage-fund--grid/director-pdmr-shareholding/9787053",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate market impact; GRID's focus remains on long-term infrastructure asset accumulation rather than short-term equity speculation.",
@@ -115,6 +128,7 @@
       "category": "Results",
       "headline": "Notice of Interim 2026 Results",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-energy-storage-fund--grid/notice-of-interim-2026-results/9778560",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Interim results for a specialized energy storage fund are critical for validating the asset class's yield potential amid UK grid congestion and capacity market volatility; this update will likely drive NAV reassessment for income-focused institutional allocators.",
@@ -129,6 +143,7 @@
       "category": "Results",
       "headline": "Trading update for HY results to 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-energy-storage-fund--grid/trading-update-for-hy-results-to-30-june-2026/9750396",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a specialized energy storage fund, GRID's trading update provides critical visibility into the UK's emerging battery storage market dynamics and revenue stability amid volatile wholesale electricity prices.",
@@ -143,6 +158,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-energy-storage-fund--grid/holding-s-in-company/9720870",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -153,16 +169,21 @@
       "category": "AGM/EGM",
       "headline": "Result of 2026 Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-energy-storage-fund--grid/result-of-2026-annual-general-meeting/9637643",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of a routine AGM for an investment trust; such announcements carry no intrinsic market-moving value unless specific contentious resolutions were passed, which are not indicated here.",
+      "key_themes": [
+        "Corporate Governance",
+        "Investment Trust"
+      ]
     },
     {
       "timestamp": "2026-06-12T09:36:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-energy-storage-fund--grid/holding-s-in-company/9615874",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -173,30 +194,43 @@
       "category": "AGM/EGM",
       "headline": "Notice of 2026 Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-energy-storage-fund--grid/notice-of-2026-annual-general-meeting/9590922",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice for the 2026 AGM, indicating routine governance compliance rather than any immediate strategic shift or material corporate action.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-05-28T12:20:00",
       "category": null,
       "headline": "SPAs signed for two pipeline projects",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-energy-storage-fund--grid/spas-signed-for-two-pipeline-projects/9590305",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Signing SPAs for two pipeline projects confirms GRID's execution capability in the UK battery storage market, validating its strategy to scale asset ownership post-SPV divestments. This reduces reliance on development fees and enhances long-term yield visibility amidst strong grid connection demand.",
+      "key_themes": [
+        "Asset Scaling",
+        "UK Battery Storage",
+        "Execution Confirmation"
+      ]
     },
     {
       "timestamp": "2026-05-28T07:00:00",
       "category": null,
       "headline": "2026 Capital Markets Webinar",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-energy-storage-fund--grid/2026-capital-markets-webinar/9588712",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations event with no immediate financial impact on GRID's valuation or liquidity; it reflects routine engagement rather than material corporate action.",
+      "key_themes": [
+        "Investor Relations",
+        "Capital Markets"
+      ]
     }
   ]
 }

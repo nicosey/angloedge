@@ -10,36 +10,49 @@
       "category": null,
       "headline": "Chairman Receives Prestigious Award",
       "url": "https://www.investegate.co.uk/announcement/rns/hemogenyx-pharmaceuticals--hemo/chairman-receives-prestigious-award/9883111",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a low-impact corporate governance update with no immediate financial or operational implications for Hemogenyx's valuation or clinical pipeline trajectory.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Recognition"
+      ]
     },
     {
       "timestamp": "2026-11-12T07:00:00",
       "category": null,
       "headline": "First Patient Treated in Second Adult Dose Cohort",
       "url": "https://www.investegate.co.uk/announcement/rns/hemogenyx-pharmaceuticals--hemo/first-patient-treated-in-second-adult-dose-cohort/9871327",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This milestone confirms clinical progression for Hemogenyx's lead asset but represents a low-impact operational update typical of pre-revenue biotechs, lacking immediate catalysts for valuation re-rating.",
+      "key_themes": [
+        "Clinical Development",
+        "Biotech Pipeline"
+      ]
     },
     {
       "timestamp": "2026-07-29T07:00:00",
       "category": null,
       "headline": "Collaboration and Company Update",
       "url": "https://www.investegate.co.uk/announcement/rns/hemogenyx-pharmaceuticals--hemo/collaboration-and-company-update-/9692329",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Collaboration announcements for pre-revenue biotechs like Hemogenyx are standard pipeline validation steps that rarely drive immediate valuation changes without accompanying clinical data or milestone payments; the market typically views these as low-impact administrative updates until tangible revenue or trial results emerge.",
+      "key_themes": [
+        "partnership",
+        "pipeline_validation"
+      ]
     },
     {
       "timestamp": "2026-06-05T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/hemogenyx-pharmaceuticals--hemo/notice-of-agm/9603088",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +63,7 @@
       "category": null,
       "headline": "Grant of Options and Extension of Warrant Term",
       "url": "https://www.investegate.co.uk/announcement/rns/hemogenyx-pharmaceuticals--hemo/grant-of-options-and-extension-of-warrant-term-/9591976",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,

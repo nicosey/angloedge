@@ -10,26 +10,35 @@
       "category": "AGM/EGM",
       "headline": "Result of EGM",
       "url": "https://www.investegate.co.uk/announcement/rns/ormonde-mining-cdi---orm/result-of-egm/9844332",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "EGM results for junior explorers are typically procedural rubber-stamps for shareholder ratification of routine matters rather than catalysts for valuation re-rating.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-10-05T14:50:00",
       "category": "AGM/EGM",
       "headline": "Proposed Capital Reorganisation & Notice of EGM",
       "url": "https://www.investegate.co.uk/announcement/rns/ormonde-mining-cdi---orm/proposed-capital-reorganisation-notice-of-egm/9807236",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Capital reorganisations in the junior mining sector are typically structural necessities to consolidate share registries or facilitate future fundraising rather than value-creating events; however, they signal active management of the cap table ahead of potential liquidity needs.",
+      "key_themes": [
+        "Corporate Action",
+        "Junior Mining"
+      ]
     },
     {
       "timestamp": "2026-09-25T07:00:00",
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/ormonde-mining-cdi---orm/interim-results/9790288",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a junior explorer with no production history, this interim report primarily serves as a progress update on exploration activities rather than a financial performance indicator; market reaction will hinge entirely on the quality of new drill results or resource estimates disclosed.",
@@ -43,36 +52,49 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/ormonde-mining-cdi---orm/result-of-agm-/9773418",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure confirming the outcome of annual shareholder meetings, which carries no immediate financial or strategic weight for Ormonde Mining's exploration prospects or valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-08-18T15:40:00",
       "category": "AGM/EGM",
       "headline": "Posting of Annual Report and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/ormonde-mining-cdi---orm/posting-of-annual-report-and-notice-of-agm/9728230",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for UK-listed mining companies to satisfy regulatory requirements for shareholder approval of directors' remuneration and auditor reappointment, carrying no immediate price-sensitive information or strategic shift.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-07-30T07:00:00",
       "category": null,
       "headline": "Investee Company Update: Peak Nickel",
       "url": "https://www.investegate.co.uk/announcement/rns/ormonde-mining-cdi---orm/investee-company-update-peak-nickel/9694712",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This update reflects standard operational reporting for a junior explorer, lacking the material catalysts like resource definition upgrades or financing required to move the share price significantly in the current nickel oversupply environment.",
+      "key_themes": [
+        "operational_update",
+        "commodity_exposure"
+      ]
     },
     {
       "timestamp": "2026-07-14T07:00:00",
       "category": null,
       "headline": "Holdings in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/ormonde-mining-cdi---orm/holdings-in-company/9666663",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,6 +105,7 @@
       "category": "Results",
       "headline": "Final Results",
       "url": "https://www.investegate.co.uk/announcement/rns/ormonde-mining-cdi---orm/final-results/9642759",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a junior explorer with no production history, final results are primarily administrative filings confirming cash burn rather than operational milestones, offering limited immediate catalyst for share price movement.",

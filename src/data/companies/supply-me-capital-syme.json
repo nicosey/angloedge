@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Delay in publication of H1 2026 interim results",
       "url": "https://www.investegate.co.uk/announcement/rns/supply-me-capital--syme/delay-in-publication-of-h1-2026-interim-results/9783272",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Delays in interim results for a micro-cap like SYME often signal underlying accounting complexities or liquidity constraints rather than simple administrative lag, raising red flags for investor confidence in the absence of a clear explanation.",
@@ -23,20 +24,28 @@
       "category": null,
       "headline": "Amendment to Nuburu On-Demand Funding Facility",
       "url": "https://www.investegate.co.uk/announcement/rns/supply-me-capital--syme/amendment-to-nuburu-on-demand-funding-facility/9620723",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Amendments to existing debt facilities are standard operational maintenance for capital-intensive firms like Supply@Me, indicating no immediate distress but also no transformative growth catalyst.",
+      "key_themes": [
+        "debt_management",
+        "operational_routine"
+      ]
     },
     {
       "timestamp": "2026-06-11T10:03:00",
       "category": null,
       "headline": "Exercise of Open Offer Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/supply-me-capital--syme/exercise-of-open-offer-warrants/9613684",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Exercise of open offer warrants typically represents a non-cash accounting event with minimal immediate dilution impact compared to the initial subscription, suggesting limited short-term price volatility unless accompanied by significant underlying trading updates.",
+      "key_themes": [
+        "capital_structure",
+        "warrant_exercise"
+      ]
     }
   ]
 }

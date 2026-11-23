@@ -10,16 +10,21 @@
       "category": "Appointment",
       "headline": "COO Appointment to the Board",
       "url": "https://www.investegate.co.uk/announcement/rns/iomart-group--iom/coo-appointment-to-the-board/9883095",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine executive appointment in the UK cloud infrastructure sector; while stabilizing leadership is positive for Iomart's operational continuity, it lacks the transformative catalyst required to significantly alter market valuation or competitive positioning.",
+      "key_themes": [
+        "Corporate Governance",
+        "Cloud Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-10-26T14:06:00",
       "category": null,
       "headline": "Grant of Options to Director",
       "url": "https://www.investegate.co.uk/announcement/rns/iomart-group--iom/grant-of-options-to-director-/9841921",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,36 +35,49 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/iomart-group--iom/result-of-agm/9791682",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting confirmation of shareholder votes for Iomart Group's Annual General Meeting, reflecting routine corporate governance rather than any material strategic shift or financial event.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-09-02T12:00:00",
       "category": "AGM/EGM",
       "headline": "Annual Report and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/iomart-group--iom/annual-report-and-notice-of-agm/9752092",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for the Iomart Group AGM, serving primarily to convene shareholders for routine matters rather than signaling any immediate strategic shift or material financial event.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Meeting"
+      ]
     },
     {
       "timestamp": "2026-08-14T07:00:00",
       "category": "Appointment",
       "headline": "CFO Appointment",
       "url": "https://www.investegate.co.uk/announcement/rns/iomart-group--iom/cfo-appointment/9721543",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This appointment signals a critical pivot for Iomart's turnaround strategy, aiming to restore investor confidence through rigorous financial governance and cost discipline following previous operational challenges in the UK cloud infrastructure sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Turnaround Strategy"
+      ]
     },
     {
       "timestamp": "2026-06-23T07:00:00",
       "category": "Results",
       "headline": "Final Results",
       "url": "https://www.investegate.co.uk/announcement/rns/iomart-group--iom/final-results/9630721",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a micro-cap infrastructure asset with limited liquidity, final results typically trigger minimal market reaction unless accompanied by significant dividend changes or debt restructuring; this falls under routine financial reporting for the sector.",
@@ -73,6 +91,7 @@
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/iomart-group--iom/notice-of-results/9628762",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the publication of results rather than the results themselves, offering no immediate trading signal or strategic shift for the UK infrastructure and digital services sector.",

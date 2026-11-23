@@ -10,16 +10,21 @@
       "category": "AGM/EGM",
       "headline": "Results of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/dp-aircraft-i-limited-pref--dpa/results-of-annual-general-meeting/9887099",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for a small-cap aircraft leasing firm typically involve standard shareholder ratifications with no material strategic shifts or capital allocation changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Small Cap"
+      ]
     },
     {
       "timestamp": "2026-11-18T07:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/dp-aircraft-i-limited-pref--dpa/director-pdmr-shareholding/9880558",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions within the niche aircraft leasing sector, lacking the scale or strategic weight to influence broader market sentiment or valuation multiples.",
@@ -33,6 +38,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/dp-aircraft-i-limited-pref--dpa/director-pdmr-shareholding/9873586",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions rather than a corporate action or strategic shift, offering no immediate signal on DP Aircraft's operational health or valuation.",
@@ -46,6 +52,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/dp-aircraft-i-limited-pref--dpa/notice-of-agm/9846630",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -56,26 +63,36 @@
       "category": "Results",
       "headline": "Interim Report and Accounts",
       "url": "https://www.investegate.co.uk/announcement/rns/dp-aircraft-i-limited-pref--dpa/interim-report-and-accounts-/9792818",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a niche aerospace MRO player, DPA's interim results provide critical visibility into the recovery of commercial aviation maintenance demand and supply chain constraints, though without significant guidance shifts or capital actions, the impact remains limited to sentiment rather than fundamental re-rating.",
+      "key_themes": [
+        "Interim Results",
+        "Aerospace MRO",
+        "Sector Recovery"
+      ]
     },
     {
       "timestamp": "2026-09-15T09:18:00",
       "category": "Appointment",
       "headline": "Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/dp-aircraft-i-limited-pref--dpa/board-changes/9772702",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine board changes for a micro-cap SPAC vehicle with negligible trading volume and no active operational mandate; lacks the strategic weight to influence valuation or liquidity.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap"
+      ]
     },
     {
       "timestamp": "2026-06-18T11:45:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/dp-aircraft-i-limited-pref--dpa/director-pdmr-shareholding/9625776",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of a director's shareholding change, which is routine administrative noise with no immediate strategic implication for DP Aircraft I Limited Pref.",
@@ -89,6 +106,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/dp-aircraft-i-limited-pref--dpa/director-pdmr-shareholding/9623944",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of a director's personal transaction, which typically carries negligible immediate impact on share price unless the volume is exceptionally large or signals a lack of confidence. In the absence of context regarding the direction (buy/sell) or size, this falls squarely into routine administrative reporting.",
@@ -102,20 +120,28 @@
       "category": "Appointment",
       "headline": "Director Retirement",
       "url": "https://www.investegate.co.uk/announcement/rns/dp-aircraft-i-limited-pref--dpa/director-retirement/9623156",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding board composition for a small-cap AIM-listed entity, carrying no immediate financial or strategic weight for the equity.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Changes"
+      ]
     },
     {
       "timestamp": "2026-06-12T07:00:00",
       "category": null,
       "headline": "Drawdown and Repayment of Debt Facilities",
       "url": "https://www.investegate.co.uk/announcement/rns/dp-aircraft-i-limited-pref--dpa/drawdown-and-repayment-of-debt-facilities-/9614840",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Debt drawdowns are standard operational mechanics for capital-intensive sectors like aviation leasing, indicating funding for fleet expansion rather than distress; however, without context on facility size or covenants, the market impact remains neutral.",
+      "key_themes": [
+        "capital_allocation",
+        "debt_finance"
+      ]
     }
   ]
 }

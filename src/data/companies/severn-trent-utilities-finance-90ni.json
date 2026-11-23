@@ -10,26 +10,35 @@
       "category": null,
       "headline": "Notification of Admission",
       "url": "https://www.investegate.co.uk/announcement/rns/severn-trent-utilities-finance-plc--90ni/notification-of-admission/9811818",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notification regarding the admission of debt securities, likely for refinancing or liquidity management rather than equity dilution. Such filings are routine for regulated utilities like Severn Trent and carry no immediate strategic implications for share price valuation.",
+      "key_themes": [
+        "Debt Issuance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-10-07T14:41:00",
       "category": null,
       "headline": "Notification of Admission",
       "url": "https://www.investegate.co.uk/announcement/rns/severn-trent-utilities-finance-plc--90ni/notification-of-admission-/9811796",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notification for the admission of debt securities, likely a bond issuance to refinance existing liabilities or fund infrastructure projects. Such filings are routine for regulated utilities and carry no immediate strategic implications for equity valuation.",
+      "key_themes": [
+        "Debt Issuance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-10-06T11:00:00",
       "category": null,
       "headline": "Publication of Final Terms",
       "url": "https://www.investegate.co.uk/announcement/rns/severn-trent-utilities-finance-plc--90ni/publication-of-final-terms/9808988",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +49,7 @@
       "category": null,
       "headline": "Publication of Final Terms",
       "url": "https://www.investegate.co.uk/announcement/rns/severn-trent-utilities-finance-plc--90ni/publication-of-final-terms/9808957",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,10 +60,14 @@
       "category": null,
       "headline": "Financial Statements - ST Utilities Finance Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/severn-trent-utilities-finance-plc--90ni/financial-statements-st-utilities-finance-plc/9670802",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard regulatory filing for a finance subsidiary of Severn Trent, likely reflecting routine debt issuance or group restructuring rather than operational performance. As a financing vehicle, its results are immaterial to the parent company's core utility operations and investor valuation.",
+      "key_themes": [
+        "regulatory compliance",
+        "corporate finance"
+      ]
     }
   ]
 }

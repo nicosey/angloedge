@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Monthly Factsheet as at 30 September 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/mobius-investment-trust--mmit/monthly-factsheet-as-at-30-september-2026/9844150",
+      "routine_type": "Portfolio Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/mobius-investment-trust--mmit/holding-s-in-company/9817976",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Monthly Factsheet",
       "url": "https://www.investegate.co.uk/announcement/rns/mobius-investment-trust--mmit/monthly-factsheet/9794764",
+      "routine_type": "Portfolio Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,16 +43,21 @@
       "category": null,
       "headline": "MCP Emerging Markets Investor Day 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/mobius-investment-trust--mmit/mcp-emerging-markets-investor-day-2026/9747522",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations event with no immediate financial impact on the trust's NAV or distribution policy; it serves primarily as a platform for management to articulate strategy rather than signal material change.",
+      "key_themes": [
+        "Investor Relations",
+        "Emerging Markets"
+      ]
     },
     {
       "timestamp": "2026-08-25T12:29:00",
       "category": null,
       "headline": "Monthly Factsheet as at 31 July 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/mobius-investment-trust--mmit/monthly-factsheet-as-at-31-july-2026-/9739345",
+      "routine_type": "Portfolio Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +68,7 @@
       "category": null,
       "headline": "Investor Presentation via Investor Meet Company",
       "url": "https://www.investegate.co.uk/announcement/rns/mobius-investment-trust--mmit/investor-presentation-via-investor-meet-company/9723841",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,6 +79,7 @@
       "category": null,
       "headline": "Monthly Factsheet as at 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/mobius-investment-trust--mmit/monthly-factsheet-as-at-30-june-2026/9692365",
+      "routine_type": "Portfolio Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,6 +90,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/mobius-investment-trust--mmit/director-pdmr-shareholding/9648289",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in closed-end investment trusts like Mobius rarely signal immediate strategic shifts or material value changes compared to open-market equities, as holdings are often static or part of long-term alignment strategies.",
@@ -93,10 +104,14 @@
       "category": null,
       "headline": "Company Secretary Change",
       "url": "https://www.investegate.co.uk/announcement/rns/mobius-investment-trust--mmit/company-secretary-change/9585964",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing regarding company secretarial arrangements, which carries no direct financial or strategic weight for the investment trust's portfolio performance.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     }
   ]
 }

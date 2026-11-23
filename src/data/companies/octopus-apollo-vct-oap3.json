@@ -2,14 +2,29 @@
   "name": "Octopus Apollo VCT",
   "ticker": "OAP3",
   "slug": "octopus-apollo-vct-oap3",
-  "announcement_count": 18,
-  "latest_announcement": "2026-10-23T10:30:00",
+  "announcement_count": 19,
+  "latest_announcement": "2026-11-23T16:10:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T16:10:00",
+      "category": null,
+      "headline": "Purchase of Own Securities and Total Voting R...",
+      "url": "https://www.investegate.co.uk/announcement/gnw/octopus-apollo-vct--oap3/purchase-of-own-securities-and-total-voting-r-/9889640",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing for Octopus Apollo VCT to execute its ongoing share buyback programme, a routine capital management tool rather than a transformative event. While it signals confidence in the underlying portfolio valuation, the impact on NAV per share is likely marginal given the typical size of such tranches.",
+      "key_themes": [
+        "Share Buyback",
+        "VCT Capital Management"
+      ]
+    },
     {
       "timestamp": "2026-10-23T10:30:00",
       "category": "Director Dealing",
       "headline": "DIRECTOR / PDMR NOTIFICATION",
       "url": "https://www.investegate.co.uk/announcement/gnw/octopus-apollo-vct--oap3/director-pdmr-notification/9838905",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard PDMR notification for a VCT with typically low liquidity and minimal market-moving potential; routine director dealings rarely signal strategic shifts in closed-end investment vehicles.",
@@ -24,16 +39,22 @@
       "category": null,
       "headline": "Publication of Prospectus",
       "url": "https://www.investegate.co.uk/announcement/gnw/octopus-apollo-vct--oap3/publication-of-prospectus/9824896",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard regulatory filing for the Octopus Apollo VCT, indicating preparation for a new fund launch or capital raise rather than an immediate market-moving event. While it signals continued activity in the alternative investment sector, the impact on OAP3's share price will likely be neutral until subscription details and pricing are disclosed.",
+      "key_themes": [
+        "VCT",
+        "Capital Raise",
+        "Regulatory Filing"
+      ]
     },
     {
       "timestamp": "2026-10-09T15:05:00",
       "category": "Results",
       "headline": "Half-Yearly Results",
       "url": "https://www.investegate.co.uk/announcement/gnw/octopus-apollo-vct--oap3/half-yearly-results/9816436",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a standard half-yearly results release for a VCT, this is routine income-generating activity rather than a transformative event; however, it provides critical visibility into the fund's ability to maintain tax-efficient dividends amidst the current high-interest-rate environment affecting alternative asset valuations.",
@@ -48,36 +69,50 @@
       "category": null,
       "headline": "Statement regarding Intention to Launch Offer for Subscription",
       "url": "https://www.investegate.co.uk/announcement/gnw/octopus-apollo-vct--oap3/statement-regarding-intention-to-launch-offer-/9739289",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This announcement signals a proactive capital raise to sustain the VCT's investment mandate in a high-interest-rate environment, reflecting the sector-wide pressure on new money inflows and the necessity for active fund management to maintain investor confidence.",
+      "key_themes": [
+        "Capital Raise",
+        "VCT Sector Dynamics",
+        "Fund Continuity"
+      ]
     },
     {
       "timestamp": "2026-07-13T16:00:00",
       "category": "Placing",
       "headline": "Intention to Fundraise",
       "url": "https://www.investegate.co.uk/announcement/gnw/octopus-apollo-vct--oap3/intention-to-fundraise/9666350",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This capital raise is critical for Octopus Apollo VCT to maintain its investment pipeline in a constrained market where new fund launches have slowed significantly; it signals active management but also highlights the liquidity challenges inherent in the current VCT sector.",
+      "key_themes": [
+        "Capital Raise",
+        "VCT Sector Liquidity"
+      ]
     },
     {
       "timestamp": "2026-07-09T14:45:00",
       "category": "AGM/EGM",
       "headline": "Results of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/gnw/octopus-apollo-vct--oap3/results-of-annual-general-meeting/9661611",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine shareholder ratification of AGM resolutions carries no material financial impact for Octopus Apollo VCT, as these meetings typically confirm standard governance matters rather than initiating strategic shifts or capital changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "VCT Administration"
+      ]
     },
     {
       "timestamp": "2026-07-06T10:05:00",
       "category": null,
       "headline": "Admission of Further Securities to Trading",
       "url": "https://www.investegate.co.uk/announcement/gnw/octopus-apollo-vct--oap3/admission-of-further-securities-to-trading/9653957",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -88,6 +123,7 @@
       "category": null,
       "headline": "Admission of Further Securities to Trading",
       "url": "https://www.investegate.co.uk/announcement/gnw/octopus-apollo-vct--oap3/admission-of-further-securities-to-trading/9653951",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -98,6 +134,7 @@
       "category": null,
       "headline": "Issue of Equity and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/octopus-apollo-vct--oap3/issue-of-equity-and-total-voting-rights/9647737",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -108,6 +145,7 @@
       "category": null,
       "headline": "Purchase of Own Securities and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/octopus-apollo-vct--oap3/purchase-of-own-securities-and-total-voting-r-/9637636",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -118,6 +156,7 @@
       "category": "Director Dealing",
       "headline": "DIRECTOR / PDMR NOTIFICATION",
       "url": "https://www.investegate.co.uk/announcement/gnw/octopus-apollo-vct--oap3/director-pdmr-notification/9627698",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR notification for a VCT with limited liquidity and no strategic inflection point; typical of passive holding patterns in closed-end funds rather than active value creation.",
@@ -132,6 +171,7 @@
       "category": null,
       "headline": "ISSUE OF EQUITY AND TOTAL VOTING RIGHTS",
       "url": "https://www.investegate.co.uk/announcement/gnw/octopus-apollo-vct--oap3/issue-of-equity-and-total-voting-rights/9627691",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -142,6 +182,7 @@
       "category": null,
       "headline": "Publication of Supplementary Prospectus",
       "url": "https://www.investegate.co.uk/announcement/gnw/octopus-apollo-vct--oap3/publication-of-supplementary-prospectus/9609760",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -152,6 +193,7 @@
       "category": null,
       "headline": "Admission of Further Securities to Trading",
       "url": "https://www.investegate.co.uk/announcement/gnw/octopus-apollo-vct--oap3/admission-of-further-securities-to-trading/9606706",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -162,6 +204,7 @@
       "category": null,
       "headline": "Admission of Further Securities to Trading",
       "url": "https://www.investegate.co.uk/announcement/gnw/octopus-apollo-vct--oap3/admission-of-further-securities-to-trading/9606696",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -172,16 +215,22 @@
       "category": null,
       "headline": "Annual Report for the year ended 31 January 2026 and Notice of Meeting",
       "url": "https://www.investegate.co.uk/announcement/gnw/octopus-apollo-vct--oap3/annual-report-for-the-year-ended-31-january-2-/9606603",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard annual report filing for a VCT, providing essential NAV and dividend data for income-focused investors but lacking the transformative catalysts required for significant price re-rating in the current market.",
+      "key_themes": [
+        "VCT",
+        "Annual Report",
+        "Income"
+      ]
     },
     {
       "timestamp": "2026-05-26T16:05:00",
       "category": null,
       "headline": "Issue of Equity and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/octopus-apollo-vct--oap3/issue-of-equity-and-total-voting-rights/9586207",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -192,6 +241,7 @@
       "category": null,
       "headline": "Issue of Equity and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/octopus-apollo-vct--oap3/issue-of-equity-and-total-voting-rights/9586202",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

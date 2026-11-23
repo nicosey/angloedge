@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Publication of a Prospectus",
       "url": "https://www.investegate.co.uk/announcement/prn/anglian-water-services-financing-plc--71ga/publication-of-a-prospectus/9820888",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "Publication of a prospectus signals an imminent capital raise or bond issuance, critical for Anglian Water's infrastructure investment and debt management in the highly regulated UK water sector.",
+      "key_themes": [
+        "Capital Raise",
+        "Regulated Utilities"
+      ]
     },
     {
       "timestamp": "2026-09-16T16:32:00",
       "category": null,
       "headline": "Publication of Pricing Supplement",
       "url": "https://www.investegate.co.uk/announcement/prn/anglian-water-services-financing-plc--71ga/publication-of-pricing-supplement/9776030",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,16 +35,22 @@
       "category": null,
       "headline": "Publication of Information Memorandum",
       "url": "https://www.investegate.co.uk/announcement/prn/anglian-water-services-financing-plc--71ga/publication-of-information-memorandum/9750103",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative filing for debt issuance, likely related to the regulated utility sector's ongoing need to refinance maturing obligations or fund capital expenditure under Ofwat's RIIO-2 framework. While essential for liquidity management, it carries no direct strategic surprise or equity value implication compared to operational results.",
+      "key_themes": [
+        "Debt Issuance",
+        "Regulated Utilities",
+        "Administrative Filing"
+      ]
     },
     {
       "timestamp": "2026-07-07T11:18:00",
       "category": null,
       "headline": "Final Terms",
       "url": "https://www.investegate.co.uk/announcement/prn/anglian-water-services-financing-plc--71ga/final-terms/9656306",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +61,7 @@
       "category": null,
       "headline": "Publication of a Supplementary Prospectus",
       "url": "https://www.investegate.co.uk/announcement/prn/anglian-water-services-financing-plc--71ga/publication-of-a-supplementary-prospectus/9611751",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +72,7 @@
       "category": null,
       "headline": "Publication of Pricing Supplement",
       "url": "https://www.investegate.co.uk/announcement/prn/anglian-water-services-financing-plc--71ga/publication-of-pricing-supplement/9609177",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,10 +83,15 @@
       "category": null,
       "headline": "Anglian Water confirms final £200m tranche of £500m equity injection",
       "url": "https://www.investegate.co.uk/announcement/prn/anglian-water-services-financing-plc--71ga/anglian-water-confirms-final-200m-tranche-of-/9595329",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Completion of the final tranche signals successful execution of a critical capital raise essential for meeting RIIO-GD2 regulatory investment requirements and maintaining credit ratings in a high-interest-rate environment.",
+      "key_themes": [
+        "Capital Raise",
+        "Water Infrastructure",
+        "Regulatory Compliance"
+      ]
     }
   ]
 }

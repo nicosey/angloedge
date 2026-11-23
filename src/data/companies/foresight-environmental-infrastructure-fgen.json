@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/foresight-environmental-infrastructure-limited--fgen/notice-of-results/9853255",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the release of results rather than the results themselves; without data on dividend sustainability or asset valuations in the renewable infrastructure sector, it holds no immediate market-moving weight.",
@@ -23,16 +24,22 @@
       "category": "Appointment",
       "headline": "Appointment of Joint Corporate Broker",
       "url": "https://www.investegate.co.uk/announcement/rns/foresight-environmental-infrastructure-limited--fgen/appointment-of-joint-corporate-broker-/9780833",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Appointing a joint corporate broker signals Foresight's intent to enhance investor relations and liquidity for its infrastructure assets, a common strategic move in the UK mid-cap infrastructure sector to support valuation multiples amid rising interest rates.",
+      "key_themes": [
+        "Investor Relations",
+        "Infrastructure Sector",
+        "Capital Markets"
+      ]
     },
     {
       "timestamp": "2026-09-17T14:45:00",
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/foresight-environmental-infrastructure-limited--fgen/director-declaration/9778165",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,26 +50,36 @@
       "category": "Appointment",
       "headline": "Appointment of Independent Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/rns/foresight-environmental-infrastructure-limited--fgen/appointment-of-independent-non-executive-director/9778077",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine governance update typical for AIM-listed infrastructure funds; lacks immediate catalyst for valuation re-rating unless the appointee brings specific M&A or regulatory expertise to offset current sector headwinds.",
+      "key_themes": [
+        "Governance",
+        "AIM",
+        "Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-09-17T12:00:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/foresight-environmental-infrastructure-limited--fgen/result-of-agm/9777826",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at Foresight's Annual General Meeting, typically covering routine matters such as director reappointments and fee approvals rather than strategic shifts or capital allocation changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-08-20T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/foresight-environmental-infrastructure-limited--fgen/notice-of-annual-general-meeting/9730799",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,36 +90,51 @@
       "category": "Dividend",
       "headline": "Net Asset Value and Dividend Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/foresight-environmental-infrastructure-limited--fgen/net-asset-value-and-dividend-announcement/9716744",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "FGEN's NAV update provides critical visibility into the valuation of its renewable energy infrastructure portfolio amidst rising interest rates and grid connection delays, directly influencing investor sentiment on yield sustainability.",
+      "key_themes": [
+        "NAV Update",
+        "Renewable Infrastructure",
+        "Dividend Policy"
+      ]
     },
     {
       "timestamp": "2026-06-18T07:04:00",
       "category": "Appointment",
       "headline": "Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/foresight-environmental-infrastructure-limited--fgen/board-changes/9624410",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board changes in the UK infrastructure REIT sector typically signal governance continuity rather than strategic disruption; without details on executive departures or new strategic mandates, this is unlikely to move the share price materially.",
+      "key_themes": [
+        "Corporate Governance",
+        "UK Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-06-18T07:00:00",
       "category": null,
       "headline": "Annual Report for the Year Ended 31 March 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/foresight-environmental-infrastructure-limited--fgen/annual-report-for-the-year-ended-31-march-2026-/9624141",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a regulated infrastructure fund, FGEN's annual report is the primary vehicle for disclosing dividend policy and portfolio performance, directly influencing yield-seeking investor sentiment in the current high-rate environment.",
+      "key_themes": [
+        "Annual Results",
+        "Dividend Policy",
+        "Infrastructure Sector"
+      ]
     },
     {
       "timestamp": "2026-05-27T07:01:00",
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/foresight-environmental-infrastructure-limited--fgen/notice-of-results/9586629",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the release of results rather than the results themselves, offering no immediate trading signal or strategic shift for the UK listed infrastructure sector.",
@@ -116,10 +148,15 @@
       "category": "Dividend",
       "headline": "Net Asset Value and Dividend Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/foresight-environmental-infrastructure-limited--fgen/net-asset-value-and-dividend-announcement/9586478",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a high-yield infrastructure fund, FGEN's NAV and dividend updates are critical for income-focused investors monitoring the impact of rising interest rates on asset valuations and distribution sustainability.",
+      "key_themes": [
+        "NAV update",
+        "Dividend announcement",
+        "Infrastructure yield"
+      ]
     }
   ]
 }

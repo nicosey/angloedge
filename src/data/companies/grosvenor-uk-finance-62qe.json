@@ -10,30 +10,42 @@
       "category": null,
       "headline": "Cancellation - Grosvenor UK Finance Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/grosvenor-uk-finance-plc--62qe/cancellation-grosvenor-uk-finance-plc/9798446",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Cancellation of a bond tranche is a standard administrative procedure following redemption or maturity, indicating no new capital raise or distress signal. This has negligible immediate impact on equity valuation as it reflects the normal lifecycle of debt instruments rather than strategic shifts.",
+      "key_themes": [
+        "Corporate Action",
+        "Debt Management"
+      ]
     },
     {
       "timestamp": "2026-09-14T07:30:00",
       "category": null,
       "headline": "Suspension - Grosvenor UK Finance PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/grosvenor-uk-finance-plc--62qe/suspension-grosvenor-uk-finance-plc-/9769918",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Suspensions in UK REITs typically signal imminent corporate action such as a scheme of arrangement or capital restructuring rather than distress; for Grosvenor, this likely precedes a significant balance sheet optimization or listing status change given the group's private nature.",
+      "key_themes": [
+        "Corporate Action",
+        "REIT Restructuring"
+      ]
     },
     {
       "timestamp": "2026-08-13T07:00:00",
       "category": null,
       "headline": "Notice of Debenture Stock Redemption",
       "url": "https://www.investegate.co.uk/announcement/rns/grosvenor-uk-finance-plc--62qe/notice-of-debenture-stock-redemption/9719086",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard debt maturity event for a property finance vehicle, reflecting routine balance sheet management rather than strategic shifts in the UK real estate sector.",
+      "key_themes": [
+        "Debt Maturity",
+        "Corporate Action"
+      ]
     }
   ]
 }

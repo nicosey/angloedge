@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/triple-point-vct-2011-venture--tpon/transaction-in-own-shares/9884977",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/triple-point-vct-2011-venture--tpon/total-voting-rights/9799470",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,16 +32,21 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/triple-point-vct-2011-venture--tpon/dividend-declaration/9786805",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a VCT, dividend declarations are the primary mechanism for delivering tax-efficient returns to retail investors, making this a routine but critical income event rather than a transformative corporate action.",
+      "key_themes": [
+        "VCT Income",
+        "Dividend Declaration"
+      ]
     },
     {
       "timestamp": "2026-09-04T14:52:00",
       "category": null,
       "headline": "Issue of Equity and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/triple-point-vct-2011-venture--tpon/issue-of-equity-and-total-voting-rights/9757059",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,16 +57,22 @@
       "category": null,
       "headline": "Publication of a Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/triple-point-vct-2011-venture--tpon/publication-of-a-prospectus/9749424",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The publication of a prospectus signals an imminent capital raise or new fund launch, which is critical for Triple Point VCT 2011 to maintain its investment pipeline and meet regulatory requirements. In the current high-interest-rate environment, successful fundraising is vital for VCTs to sustain liquidity and deploy capital into the private equity market.",
+      "key_themes": [
+        "Capital Raise",
+        "VCT Fundraising",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-08-28T12:15:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/triple-point-vct-2011-venture--tpon/total-voting-rights/9746017",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,6 +83,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/triple-point-vct-2011-venture--tpon/transaction-in-own-shares/9741951",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,36 +94,51 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/triple-point-vct-2011-venture--tpon/result-of-agm/9698796",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for a VCT typically involve standard shareholder approvals with no material strategic shifts or capital events, reflecting the stable but low-growth nature of closed-end investment trusts in the current UK market.",
+      "key_themes": [
+        "Corporate Governance",
+        "VCT"
+      ]
     },
     {
       "timestamp": "2026-07-06T07:00:00",
       "category": "Results",
       "headline": "Annual Financial Report and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/triple-point-vct-2011-venture--tpon/annual-financial-report-and-notice-of-agm/9653031",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "Routine annual reporting for a closed-end VCT with limited immediate market-moving catalysts; investor focus remains on NAV stability and dividend continuity rather than transformative growth.",
+      "key_themes": [
+        "VCT",
+        "Annual Report",
+        "Dividend"
+      ]
     },
     {
       "timestamp": "2026-07-03T11:56:00",
       "category": null,
       "headline": "Intention to Launch an Offer for Subscription",
       "url": "https://www.investegate.co.uk/announcement/rns/triple-point-vct-2011-venture--tpon/intention-to-launch-an-offer-for-subscription/9652320",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This announcement signals a capital raise to fund new VCT investments, directly impacting the share price via dilution but potentially boosting NAV growth if deployed into high-yield assets; it reflects the sector's ongoing need for fresh equity to maintain investment momentum amidst tightening tax relief rules.",
+      "key_themes": [
+        "Capital Raise",
+        "VCT Sector",
+        "NAV Dilution"
+      ]
     },
     {
       "timestamp": "2026-06-30T15:35:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/triple-point-vct-2011-venture--tpon/total-voting-rights/9645229",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -120,6 +149,7 @@
       "category": "Results",
       "headline": "Final Results for the year ended 28 February 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/triple-point-vct-2011-venture--tpon/final-results-for-the-year-ended-28-february-2026/9642298",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a VCT, the primary metric is dividend yield stability rather than capital growth; this final results announcement confirms the fund's ability to maintain its tax-advantaged income stream for shareholders amidst current high-interest-rate pressures on alternative investments.",

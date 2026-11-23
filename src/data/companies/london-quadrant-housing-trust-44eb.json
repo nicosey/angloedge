@@ -10,16 +10,22 @@
       "category": null,
       "headline": "EMTN Programme Update",
       "url": "https://www.investegate.co.uk/announcement/rns/london-quadrant-housing-trust--44eb/emtn-programme-update-/9873145",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the issuance framework for London & Quadrant Housing Trust's debt instruments, indicating no immediate change in capital structure or strategic direction. Such announcements are routine for housing associations to maintain liquidity and funding flexibility without signaling specific market-moving events.",
+      "key_themes": [
+        "Corporate Finance",
+        "Debt Issuance",
+        "Housing Sector"
+      ]
     },
     {
       "timestamp": "2026-11-06T09:00:00",
       "category": "Trading Update",
       "headline": "Q2 Trading Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/london-quadrant-housing-trust--44eb/q2-trading-statement/9862598",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a listed social housing REIT, this update provides critical visibility into rental growth trajectories and void rates amidst the current cost-of-living crisis, directly influencing dividend sustainability assessments for income-focused investors.",
@@ -34,16 +40,21 @@
       "category": "Appointment",
       "headline": "Audited Financial Statements & Group Board Change",
       "url": "https://www.investegate.co.uk/announcement/rns/london-quadrant-housing-trust--44eb/audited-financial-statements-group-board-change/9787251",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine governance update for a non-listed housing trust; the appointment of audited financial statements confirms regulatory compliance rather than signaling strategic shifts, with limited immediate market relevance given the entity's private status.",
+      "key_themes": [
+        "Governance",
+        "Compliance"
+      ]
     },
     {
       "timestamp": "2026-08-07T11:21:00",
       "category": "Trading Update",
       "headline": "Q1 Trading Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/london-quadrant-housing-trust--44eb/q1-trading-statement/9711038",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 4,
       "insight": "As a private registered provider of social housing, L&Q's Q1 update lacks the public market liquidity and volatility drivers typical of listed equities; such updates are primarily for regulatory compliance and stakeholder assurance rather than price discovery.",
@@ -57,20 +68,28 @@
       "category": null,
       "headline": "L&Q doubles resident representation on Group Board",
       "url": "https://www.investegate.co.uk/announcement/rns/london-quadrant-housing-trust--44eb/l-q-doubles-resident-representation-on-group-board/9700778",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a governance adjustment within a private housing association, not a listed equity event; it has zero direct financial impact on L&Q's capital structure or valuation.",
+      "key_themes": [
+        "Governance",
+        "Private Sector"
+      ]
     },
     {
       "timestamp": "2026-06-16T14:30:00",
       "category": null,
       "headline": "Sale of L&Q PRS Co Ltd to MSREI for £1,045m",
       "url": "https://www.investegate.co.uk/announcement/rns/london-quadrant-housing-trust--44eb/sale-of-l-q-prs-co-ltd-to-msrei-for-1-045m/9621428",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This £1.045bn disposal represents a significant portfolio exit for L&Q, likely reflecting the ongoing pressure on social housing providers to monetize PRS assets to fund new build targets and manage balance sheets amid rising interest rates.",
+      "key_themes": [
+        "Portfolio Rationalization",
+        "PRS Market Liquidity"
+      ]
     }
   ]
 }

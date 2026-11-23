@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-infrastructure--pint/holding-s-in-company/9842108",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Results",
       "headline": "Interim Dividend and Notice of Half Year Results",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-infrastructure--pint/interim-dividend-and-notice-of-half-year-results/9778542",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "Routine interim dividend declaration confirms stable cash flow generation typical of infrastructure assets but lacks the transformative catalysts required for significant re-rating in the current high-yield environment.",
@@ -33,40 +35,59 @@
       "category": null,
       "headline": "Publication of Sustainability Report",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-infrastructure--pint/publication-of-sustainability-report/9640571",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Publication of a sustainability report is a standard governance disclosure for UK infrastructure funds, reflecting increasing LP demand for ESG data rather than indicating immediate financial impact or strategic shift.",
+      "key_themes": [
+        "ESG",
+        "Governance",
+        "Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-06-23T07:00:00",
       "category": null,
       "headline": "Net Asset Value(s)",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-infrastructure--pint/net-asset-value-s-/9630754",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine NAV disclosure is standard operational reporting for closed-end infrastructure funds like Pantheon Infrastructure, providing transparency on valuation but lacking the catalystic weight of M&A or strategic shifts seen in the current rate-sensitive sector.",
+      "key_themes": [
+        "NAV",
+        "Infrastructure",
+        "Closed-End Fund"
+      ]
     },
     {
       "timestamp": "2026-06-22T07:00:00",
       "category": null,
       "headline": "Investment in US Renewable Energy Company",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-infrastructure--pint/investment-in-us-renewable-energy-company/9628756",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This deal aligns with Pantheon's core strategy of scaling its renewable energy platform through opportunistic acquisitions, reinforcing its position in the high-demand US clean energy sector amidst rising interest rates.",
+      "key_themes": [
+        "Infrastructure",
+        "Renewable Energy",
+        "M&A"
+      ]
     },
     {
       "timestamp": "2026-06-18T14:13:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-infrastructure--pint/result-of-agm/9626035",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting confirmation of shareholder approvals for routine governance matters, which carries no intrinsic valuation impact on the infrastructure asset management sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     }
   ]
 }

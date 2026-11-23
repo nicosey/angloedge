@@ -2,14 +2,29 @@
   "name": "Halma",
   "ticker": "HLMA",
   "slug": "halma-hlma",
-  "announcement_count": 13,
-  "latest_announcement": "2026-11-18T09:30:00",
+  "announcement_count": 14,
+  "latest_announcement": "2026-11-23T14:14:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T14:14:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/halma--hlma/director-pdmr-shareholding/9889427",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealings typically signal low immediate market impact compared to strategic corporate actions; without disclosed volume or direction (buy/sell), this remains an administrative filing with negligible influence on HLMA's valuation trajectory.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
     {
       "timestamp": "2026-11-18T09:30:00",
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/halma--hlma/director-declaration/9881597",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +35,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/halma--hlma/director-pdmr-shareholding/9802313",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard administrative disclosures with negligible fundamental impact on Halma's valuation or strategic trajectory in the safety and security sector.",
@@ -33,6 +49,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/halma--hlma/director-pdmr-shareholding/9713303",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures that rarely signal immediate strategic shifts or material value changes for Halma's diversified safety and environmental portfolio.",
@@ -46,6 +63,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/halma--hlma/director-pdmr-shareholding/9687172",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings are standard administrative disclosures with negligible fundamental impact on Halma's safety technology valuation or growth trajectory.",
@@ -59,16 +77,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/halma--hlma/result-of-agm/9684789",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at Halma's Annual General Meeting, which typically involves routine matters such as director re-elections and auditor appointments without strategic deviation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-29T15:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/halma--hlma/director-pdmr-shareholding/9642513",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard administrative disclosures with negligible fundamental impact on Halma's valuation or strategic trajectory.",
@@ -82,6 +105,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/halma--hlma/director-pdmr-shareholding/9642512",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard administrative disclosures with negligible fundamental impact on Halma's valuation or operational trajectory.",
@@ -95,6 +119,7 @@
       "category": null,
       "headline": "TR1 Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/halma--hlma/tr1-notification-of-major-holdings/9634892",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -105,6 +130,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/halma--hlma/director-pdmr-shareholding/9632624",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard administrative disclosures with negligible immediate impact on Halma's valuation or strategic trajectory, reflecting normal liquidity management rather than significant insider sentiment shifts.",
@@ -118,6 +144,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/halma--hlma/director-pdmr-shareholding/9621534",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures that rarely signal immediate strategic shifts or material value changes for Halma, a diversified safety and security group with a strong history of organic growth and disciplined capital allocation.",
@@ -131,6 +158,7 @@
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/halma--hlma/director-declaration/9620593",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -141,20 +169,28 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/halma--hlma/directorate-change/9616785",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine board-level personnel adjustments are standard governance maintenance for Halma's diversified safety and security portfolio, lacking the strategic weight to alter the company's long-term growth trajectory or valuation multiples.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-05-28T07:15:00",
       "category": "Appointment",
       "headline": "Executive Board changes",
       "url": "https://www.investegate.co.uk/announcement/rns/halma--hlma/executive-board-changes/9589426",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Executive board changes at Halma are typically managed internally to ensure continuity in its high-margin safety and environmental technology portfolio; without details on a departing CEO or interim leadership gap, this is likely routine succession planning rather than a signal of strategic distress.",
+      "key_themes": [
+        "Corporate Governance",
+        "Leadership Continuity"
+      ]
     }
   ]
 }

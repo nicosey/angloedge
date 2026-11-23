@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Interim Results, Share Issue and TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/sancus-lending-group-limited-npv--lend/interim-results-share-issue-and-tvr/9771581",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "The combination of interim results with a share issue suggests capital raising to support lending growth in the high-interest alternative finance sector, while TVR indicates active management of loan-to-value ratios amid tightening credit conditions.",
@@ -24,20 +25,28 @@
       "category": "Appointment",
       "headline": "Directorate Change, Trading & Bond Issue",
       "url": "https://www.investegate.co.uk/announcement/rns/sancus-lending-group-limited-npv--lend/directorate-change-trading-bond-issue/9662009",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The combination of a new director appointment with a bond issue suggests active capital restructuring to support lending growth in the current high-rate environment, indicating strategic expansion rather than mere administrative change.",
+      "key_themes": [
+        "Capital Raise",
+        "Leadership Change"
+      ]
     },
     {
       "timestamp": "2026-06-09T11:18:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/sancus-lending-group-limited-npv--lend/result-of-agm/9609259",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters like director reappointments and auditor ratification rather than strategic shifts or capital raises.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     }
   ]
 }

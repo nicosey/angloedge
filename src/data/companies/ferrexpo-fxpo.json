@@ -10,26 +10,35 @@
       "category": null,
       "headline": "Temporary suspension of production",
       "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/temporary-suspension-of-production/9866487",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This suspension reflects the severe geopolitical headwinds and supply chain disruptions inherent to Ferrexpo's Ukrainian operations, directly threatening revenue streams in a sector already grappling with high energy costs and logistics bottlenecks.",
+      "key_themes": [
+        "Geopolitical Risk",
+        "Operational Disruption"
+      ]
     },
     {
       "timestamp": "2026-10-09T12:00:00",
       "category": null,
       "headline": "Result of Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/result-of-meeting/9816048",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement confirms the outcome of a shareholder meeting, likely related to regulatory compliance or governance structures rather than core business strategy; without details on specific resolutions, it represents routine corporate administration with negligible immediate financial impact.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-09-25T07:00:00",
       "category": "Results",
       "headline": "Interim Results for the six months to 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/interim-results-for-the-six-months-to-30-june-2026/9790278",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Interim results for a major UK-listed commodity producer provide critical visibility into iron ore pricing dynamics and margin resilience amidst geopolitical headwinds, serving as a key sentiment indicator for the materials sector.",
@@ -44,6 +53,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/holding-s-in-company/9787985",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -54,6 +64,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/holding-s-in-company/9787346",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -64,6 +75,7 @@
       "category": "AGM/EGM",
       "headline": "Results of General Meeting and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/results-of-general-meeting-and-total-voting-rights/9782661",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -74,6 +86,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/tr-1-notification-of-major-holdings/9773948",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -84,36 +97,50 @@
       "category": null,
       "headline": "US$15 Million Loan Facility from Fevamotinico",
       "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/us-15-million-loan-facility-from-fevamotinico/9759941",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This $15m facility is a minor administrative financing move for Ferrexpo, likely supporting working capital rather than signaling transformative growth or distress in the iron ore sector.",
+      "key_themes": [
+        "Corporate Finance",
+        "Liquidity"
+      ]
     },
     {
       "timestamp": "2026-09-07T07:00:00",
       "category": null,
       "headline": "Restart of production at Ukrainian operations",
       "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/restart-of-production-at-ukrainian-operations/9757558",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "Resumption of production in a war-torn jurisdiction signals a critical de-risking milestone for FXPO's core revenue stream, directly addressing the primary existential threat to its asset base and validating operational resilience amidst geopolitical volatility.",
+      "key_themes": [
+        "Geopolitical Risk",
+        "Operational Resilience",
+        "Commodity Supply"
+      ]
     },
     {
       "timestamp": "2026-09-04T16:32:00",
       "category": null,
       "headline": "Publication of Circular, notice of GM and 2025 ARA",
       "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/publication-of-circular-notice-of-gm-and-2025-ara/9757331",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative filing for the upcoming Annual General Meeting and publication of the annual report; while FXPO's governance structure regarding its Ukrainian ownership remains a persistent geopolitical overhang, this specific notice does not introduce new material financial or strategic developments.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Relations"
+      ]
     },
     {
       "timestamp": "2026-09-04T07:00:00",
       "category": "Results",
       "headline": "Results of Fundraise",
       "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/results-of-fundraise/9755149",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 8,
       "insight": "A capital raise for Ferrexpo signals urgent liquidity needs to sustain operations amid geopolitical sanctions and supply chain disruptions in the Ukrainian/Russian market, reflecting broader sector pressures on commodity exporters facing infrastructure and payment bottlenecks.",
@@ -128,16 +155,22 @@
       "category": "Placing",
       "headline": "Proposed equity fundraise to raise US$100 million",
       "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/proposed-equity-fundraise-to-raise-us-100-million/9754948",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The US$100m equity raise signals urgent liquidity management amid ongoing geopolitical risks in Ukraine, a precedent seen in other resource exporters during sanction uncertainty periods.",
+      "key_themes": [
+        "Capital Raise",
+        "Geopolitical Risk",
+        "Liquidity"
+      ]
     },
     {
       "timestamp": "2026-09-03T15:58:00",
       "category": "Results",
       "headline": "Full Year Financial Results for 2025",
       "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/full-year-financial-results-for-2025/9754947",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a key European producer of high-grade iron ore pellets, FXPO's full-year results provide critical visibility into demand resilience within the steel sector amid ongoing geopolitical and tariff uncertainties.",
@@ -152,36 +185,50 @@
       "category": null,
       "headline": "Update regarding Ukrainian subsidiary",
       "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/update-regarding-ukrainian-subsidiary/9707307",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "While Ferrexpo's operational resilience is notable, the announcement likely reiterates ongoing geopolitical risks and sanctions compliance challenges inherent to Ukrainian-listed entities, limiting immediate upside without concrete resolution of supply chain or asset security issues.",
+      "key_themes": [
+        "Geopolitical Risk",
+        "Operational Update"
+      ]
     },
     {
       "timestamp": "2026-08-05T07:00:00",
       "category": null,
       "headline": "Update on vessel incident, logistics & operations",
       "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/update-on-vessel-incident-logistics-operations/9704916",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Logistical disruptions in Ukraine directly threaten Ferrexpo's export capacity and margin stability, reflecting the persistent operational risks inherent in Eastern European commodity exporters despite hedging efforts.",
+      "key_themes": [
+        "Operational Risk",
+        "Geopolitical Exposure"
+      ]
     },
     {
       "timestamp": "2026-07-28T07:00:00",
       "category": null,
       "headline": "Update on logistics disruption and vessel incident",
       "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/update-on-logistics-disruption-and-vessel-incident/9689930",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "Logistics bottlenecks in the Baltic region directly threaten Ferrexpo's export volumes and margin stability, reflecting persistent geopolitical friction in the Russian ferrous metals supply chain that has become a structural risk for exporters.",
+      "key_themes": [
+        "Supply Chain Disruption",
+        "Geopolitical Risk",
+        "Operational Headwinds"
+      ]
     },
     {
       "timestamp": "2026-07-01T12:48:00",
       "category": null,
       "headline": "Report on Payments to Governments to 31 Dec 2025",
       "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/report-on-payments-to-governments-to-31-dec-2025/9647663",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -192,30 +239,43 @@
       "category": null,
       "headline": "Suspended Company Notice - Deletion",
       "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/suspended-company-notice-deletion/9642776",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Deletion from the FTSE 250 index triggers mandatory selling by passive funds and likely results in a significant liquidity premium expansion for FXPO, reflecting the severe structural headwinds of its Ukrainian asset base and geopolitical risk profile.",
+      "key_themes": [
+        "Index Deletion",
+        "Liquidity Risk",
+        "Geopolitical Exposure"
+      ]
     },
     {
       "timestamp": "2026-06-29T13:09:00",
       "category": "AGM/EGM",
       "headline": "Results of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/results-of-annual-general-meeting/9642334",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for a sanctioned Ukrainian miner typically involve standard shareholder ratifications with no material strategic shifts or capital allocation changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Sanctions Context"
+      ]
     },
     {
       "timestamp": "2026-05-29T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of 2026 Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/notice-of-2026-annual-general-meeting/9590920",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice for the 2026 AGM, which holds no immediate pricing impact given the significant time horizon and lack of disclosed extraordinary resolutions.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     }
   ]
 }

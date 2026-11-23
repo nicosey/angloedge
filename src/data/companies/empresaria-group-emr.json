@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Company LTIP Awards",
       "url": "https://www.investegate.co.uk/announcement/rns/empresaria-group--emr/company-ltip-awards/9745867",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding the grant of long-term incentive plan awards to executives, which is routine for listed companies and carries no immediate financial or strategic weight.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Compensation"
+      ]
     },
     {
       "timestamp": "2026-08-26T07:00:00",
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/empresaria-group--emr/interim-results/9739897",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap property investment trust, EMR's interim results provide essential visibility on net asset value (NAV) per share and dividend sustainability in a high-interest-rate environment, though the lack of transformative catalysts limits immediate market reaction.",
@@ -33,10 +38,14 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/empresaria-group--emr/result-of-agm/9642411",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the Annual General Meeting, which typically ratifies routine matters such as director reappointments and auditor appointments without altering the company's strategic trajectory or financial position.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     }
   ]
 }

@@ -10,6 +10,7 @@
       "category": "Trading Update",
       "headline": "Golden Lane Housing - Trading Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/rcb-bonds-plc--mcp2/golden-lane-housing-trading-statement/9874795",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 4,
       "insight": "RCB Bonds PLC is a SPAC with no operational assets; this update concerns Golden Lane Housing (a separate entity) and likely reflects administrative cross-reference or investor confusion rather than direct financial impact on RCB.",
@@ -23,16 +24,21 @@
       "category": null,
       "headline": "Golden Lane Housing Social Impact Report",
       "url": "https://www.investegate.co.uk/announcement/rns/rcb-bonds-plc--mcp2/golden-lane-housing-social-impact-report-/9804980",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a non-financial ESG disclosure with no direct material impact on RCB Bonds' debt servicing capacity or credit metrics, reflecting standard reporting for social housing lenders rather than a strategic shift.",
+      "key_themes": [
+        "ESG",
+        "Social Housing"
+      ]
     },
     {
       "timestamp": "2026-07-29T13:07:00",
       "category": "Trading Update",
       "headline": "Golden Lane Housing - Trading Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/rcb-bonds-plc--mcp2/golden-lane-housing-trading-statement/9694093",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 4,
       "insight": "RCB Bonds is a SPAC vehicle with no operational assets; this update concerns Golden Lane Housing, its former target which has since been delisted and restructured, rendering the announcement historically irrelevant to current market dynamics.",

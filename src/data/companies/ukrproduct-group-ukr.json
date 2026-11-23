@@ -10,16 +10,21 @@
       "category": "AGM/EGM",
       "headline": "Result of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/ukrproduct-group-ltd--ukr/result-of-annual-general-meeting/9725916",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for a micro-cap entity typically involve standard shareholder ratification with negligible immediate market impact unless specific contentious resolutions were passed.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap"
+      ]
     },
     {
       "timestamp": "2026-07-29T12:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/ukrproduct-group-ltd--ukr/notice-of-agm-/9693970",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,16 +35,21 @@
       "category": "AGM/EGM",
       "headline": "AGM Cancellation",
       "url": "https://www.investegate.co.uk/announcement/rns/ukrproduct-group-ltd--ukr/agm-cancellation/9693540",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Cancellation of an AGM is a standard administrative procedure with no direct financial implication for Ukrproduct Group, reflecting routine corporate governance rather than strategic distress or opportunity.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-22T07:00:00",
       "category": "Results",
       "headline": "Final Results and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/ukrproduct-group-ltd--ukr/final-results-and-notice-of-agm/9628675",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "Routine final results release for a small-cap entity with limited market liquidity; without evidence of significant margin expansion or dividend growth, this is likely to have negligible price impact compared to broader macro factors affecting the UK small-cap index.",
@@ -53,10 +63,14 @@
       "category": null,
       "headline": "Operational Update",
       "url": "https://www.investegate.co.uk/announcement/rns/ukrproduct-group-ltd--ukr/operational-update-/9590335",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Operational updates for small-cap UKR typically serve as low-visibility maintenance disclosures rather than catalysts; without specific guidance changes or M&A details, the market impact is negligible compared to earnings releases.",
+      "key_themes": [
+        "operational_update",
+        "low_impact"
+      ]
     }
   ]
 }

@@ -10,26 +10,35 @@
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/maven-income-growth-4-vct--mav4/result-of-general-meeting-/9873228",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of a VCT's Annual General Meeting, which typically involves routine matters such as dividend approvals and director elections rather than transformative strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "VCT Administration"
+      ]
     },
     {
       "timestamp": "2026-10-05T15:21:00",
       "category": null,
       "headline": "Offer for Subscription",
       "url": "https://www.investegate.co.uk/announcement/rns/maven-income-growth-4-vct--mav4/offer-for-subscription-/9807335",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard capital raising exercise typical for VCTs to maintain investment capacity, lacking the transformative nature of M&A or significant profit warnings that drive immediate price volatility.",
+      "key_themes": [
+        "capital_raise",
+        "vct_fund_management"
+      ]
     },
     {
       "timestamp": "2026-09-03T09:15:00",
       "category": null,
       "headline": "Admission of Further Securities to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/maven-income-growth-4-vct--mav4/admission-of-further-securities-to-trading/9753963",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +49,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/maven-income-growth-4-vct--mav4/director-pdmr-shareholding/9745681",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible market impact for VCTs, where liquidity is already constrained and share price movements are driven by dividend yields rather than insider activity.",
@@ -53,6 +63,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/maven-income-growth-4-vct--mav4/issue-of-equity/9745675",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,26 +74,37 @@
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/maven-income-growth-4-vct--mav4/half-year-financial-report/9741930",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a VCT, this interim report is critical for assessing dividend sustainability and NAV stability in a high-interest-rate environment where liquidity premiums are compressing valuations.",
+      "key_themes": [
+        "VCT",
+        "Interim Results",
+        "Dividend Sustainability"
+      ]
     },
     {
       "timestamp": "2026-08-19T15:57:00",
       "category": "Dividend",
       "headline": "Unaudited NAV - Dividend Investment Scheme",
       "url": "https://www.investegate.co.uk/announcement/rns/maven-income-growth-4-vct--mav4/unaudited-nav-dividend-investment-scheme/9730553",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine NAV publication for a VCT is an administrative compliance requirement rather than a catalyst for price movement; the primary investor focus remains on dividend yield sustainability and tax efficiency in the current high-rate environment.",
+      "key_themes": [
+        "VCT",
+        "NAV",
+        "Dividend"
+      ]
     },
     {
       "timestamp": "2026-08-18T16:37:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/maven-income-growth-4-vct--mav4/transaction-in-own-shares/9728285",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -93,20 +115,30 @@
       "category": null,
       "headline": "Statement re Intended Offers for Subscription",
       "url": "https://www.investegate.co.uk/announcement/rns/maven-income-growth-4-vct--mav4/statement-re-intended-offers-for-subscription-/9682994",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This RNS signals a capital raise for the VCT, which is routine for income-focused funds to maintain investment capacity but indicates potential pressure on existing NAV per share if not offset by asset growth. In the current high-interest-rate environment, such offers are critical for VCTs to sustain dividend yields and attract new retail investors seeking tax relief.",
+      "key_themes": [
+        "Capital Raise",
+        "VCT",
+        "Income Fund"
+      ]
     },
     {
       "timestamp": "2026-07-10T15:28:00",
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/maven-income-growth-4-vct--mav4/dividend-declaration/9663909",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a VCT, dividend declarations are the primary mechanism for delivering tax-efficient returns to retail investors; this confirms ongoing capital deployment and income generation capabilities in a challenging private equity market.",
+      "key_themes": [
+        "VCT",
+        "Dividend",
+        "Income"
+      ]
     }
   ]
 }

@@ -10,36 +10,50 @@
       "category": null,
       "headline": "Capital Access Window - Reabold Resources Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/capital-access-window-reabold-resources-plc/9886047",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The vague 'Capital Access Window' headline suggests a minor administrative update or preliminary exploration of funding options rather than a definitive transaction, typical of low-liquidity small-cap speculative activity with minimal immediate market impact.",
+      "key_themes": [
+        "capital_raise",
+        "speculative"
+      ]
     },
     {
       "timestamp": "2026-11-20T07:00:00",
       "category": "Placing",
       "headline": "West Newton Update and Proposed Fundraising",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/west-newton-update-and-proposed-fundraising-/9885175",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "The combination of a West Newton operational update with a proposed fundraising indicates critical capital needs for Reabold Resources to sustain exploration efforts, reflecting the high cash-burn reality of junior mining equities in the current macro environment.",
+      "key_themes": [
+        "Capital Raise",
+        "Exploration Funding",
+        "Junior Mining Risk"
+      ]
     },
     {
       "timestamp": "2026-11-17T10:57:00",
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/result-of-general-meeting-/9879531",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a standard AGM result announcement for a small-cap resource explorer, this confirms routine governance matters rather than signaling strategic shifts or material financial developments.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-11-11T13:30:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/holding-s-in-company/9870496",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,56 +64,77 @@
       "category": null,
       "headline": "Reabold Notes Beacon Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/reabold-notes-beacon-announcement/9866620",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The term 'Beacon' in mining RNSs typically denotes a minor operational update or resource estimate refinement rather than a transformative event; without details on material grade changes or new discovery metrics, this is likely routine noise for the speculative junior miner sector.",
+      "key_themes": [
+        "mining",
+        "operational_update"
+      ]
     },
     {
       "timestamp": "2026-11-09T07:00:00",
       "category": null,
       "headline": "West Newton Feasibility Study",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/west-newton-feasibility-study/9863810",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "A feasibility study for West Newton is a standard technical milestone in the exploration lifecycle rather than a commercial catalyst; without defined resource estimates or an immediate development decision, it offers limited near-term value accretion compared to major production announcements.",
+      "key_themes": [
+        "Exploration",
+        "Technical Update"
+      ]
     },
     {
       "timestamp": "2026-10-30T07:00:00",
       "category": null,
       "headline": "Publication of Circular & Notice of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/publication-of-circular-notice-of-gm/9849257",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for a General Meeting, typically required for routine corporate governance matters rather than transformative events. Without specific details on the agenda items (e.g., special resolution for capital increase or director appointment), it lacks immediate market-moving catalysts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-10-29T07:00:00",
       "category": null,
       "headline": "Reabold Welcomes UK Data Centre Covenant",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/reabold-welcomes-uk-data-centre-covenant/9846925",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The announcement reflects a standard ESG compliance update regarding the UK Data Centre Covenant rather than a material operational shift or financial event for Reabold Resources.",
+      "key_themes": [
+        "ESG",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-10-07T07:07:00",
       "category": null,
       "headline": "Reabold Notes Beacon Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/reabold-notes-beacon-announcement/9810230",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The term 'Beacon' in a mining context typically denotes a minor exploration milestone or drill result rather than a commercial breakthrough; without specific assay data or resource upgrade details, this is likely routine technical reporting with negligible immediate financial impact.",
+      "key_themes": [
+        "exploration_update",
+        "routine_disclosure"
+      ]
     },
     {
       "timestamp": "2026-10-02T17:15:00",
       "category": null,
       "headline": "Disclosure Table",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/disclosure-table/9805164",
+      "routine_type": "Disclosure Table",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -110,16 +145,21 @@
       "category": null,
       "headline": "Day 59 Acceptance Level Update",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/day-59-acceptance-level-update/9803013",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Day 59 updates are standard administrative disclosures for RNS-regulated capital raises, indicating no material deviation from the original terms rather than a strategic shift.",
+      "key_themes": [
+        "capital_markets",
+        "regulatory_compliance"
+      ]
     },
     {
       "timestamp": "2026-09-24T12:00:00",
       "category": null,
       "headline": "Disclosure under Rule 2.10(a)",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/disclosure-under-rule-2-10-a-/9789555",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -130,36 +170,49 @@
       "category": null,
       "headline": "Reabold Notes Beacon Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/reabold-notes-beacon-announcement/9785918",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The term 'Beacon' in mining RNSs typically denotes a minor exploration update or resource definition rather than a material commercial development; without disclosed reserve upgrades or financing, this is likely routine technical reporting with negligible immediate market impact.",
+      "key_themes": [
+        "exploration_update",
+        "routine_disclosure"
+      ]
     },
     {
       "timestamp": "2026-09-22T12:57:00",
       "category": null,
       "headline": "Day 49 Acceptance Level Update",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/day-49-acceptance-level-update/9785032",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the acceptance level of a prior transaction, likely indicating no material deviation from expected outcomes rather than a strategic shift. In the resource sector, such routine filings are common and lack the transformative catalysts required to move share price significantly.",
+      "key_themes": [
+        "administrative",
+        "routine_update"
+      ]
     },
     {
       "timestamp": "2026-09-21T07:00:00",
       "category": null,
       "headline": "Reabold's Response to Union Jack Circular",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/reabold-s-response-to-union-jack-circular/9780783",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a defensive corporate governance response to activist pressure rather than an operational catalyst; without disclosed strategic changes or financial data, the market will likely view this as noise amidst broader resource sector volatility.",
+      "key_themes": [
+        "Corporate Governance",
+        "Activist Investor"
+      ]
     },
     {
       "timestamp": "2026-09-16T13:00:00",
       "category": null,
       "headline": "Disclosure under Rule 2.10(a)",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/disclosure-under-rule-2-10-a-/9775663",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -170,86 +223,120 @@
       "category": null,
       "headline": "Day 42 Acceptance Level Update",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/day-42-acceptance-level-update/9772657",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the acceptance level of a prior offer or transaction, typical for small-cap resource firms and devoid of new fundamental catalysts.",
+      "key_themes": [
+        "Corporate Action",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-11T16:00:00",
       "category": null,
       "headline": "Union Jack Oil - Day 60",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/union-jack-oil-day-60/9768789",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Day 60 updates are standard operational disclosures in the E&P sector, typically confirming drilling timelines rather than delivering material financial shifts; without explicit reserve upgrades or cost overruns, this remains a low-impact administrative filing.",
+      "key_themes": [
+        "Operational Update",
+        "Drilling Progress"
+      ]
     },
     {
       "timestamp": "2026-09-09T07:00:00",
       "category": null,
       "headline": "West Newton Update, Data Centre Feasibility Study",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/west-newton-update-data-centre-feasibility-study/9761966",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The West Newton data centre feasibility study signals a strategic pivot to high-growth digital infrastructure, aligning with the UK's expanding hyperscaler demand and energy transition narratives, though it remains an early-stage speculative catalyst rather than immediate value realization.",
+      "key_themes": [
+        "Data Centre",
+        "Infrastructure Development",
+        "Strategic Pivot"
+      ]
     },
     {
       "timestamp": "2026-09-04T14:00:00",
       "category": null,
       "headline": "Union Jack Oil plc",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/union-jack-oil-plc/9756953",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This announcement signals a major M&A transaction for Reabold Resources, likely involving the acquisition of Union Jack Oil plc, which represents a transformative strategic shift and significant capital deployment for the company.",
+      "key_themes": [
+        "M&A",
+        "Strategic Expansion"
+      ]
     },
     {
       "timestamp": "2026-09-04T13:15:00",
       "category": null,
       "headline": "Statement regarding Reabold offer",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/statement-regarding-reabold-offer-/9756878",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a micro-cap resource stock with negligible liquidity, an 'offer' announcement typically signals either a speculative takeover bid or a rights issue to fund exploration, both of which carry high execution risk and limited immediate market impact.",
+      "key_themes": [
+        "corporate action",
+        "liquidity risk"
+      ]
     },
     {
       "timestamp": "2026-09-04T07:00:00",
       "category": null,
       "headline": "Day 35 Acceptance Level Update",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/day-35-acceptance-level-update/9755152",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the acceptance level of a prior offer or transaction, indicating no material change in deal terms or strategic direction. For a small-cap resource company like Reabold Resources, such routine disclosures typically have negligible impact on share price unless they signal a failure to reach critical thresholds.",
+      "key_themes": [
+        "Corporate Action",
+        "Administrative Update"
+      ]
     },
     {
       "timestamp": "2026-08-28T12:01:00",
       "category": null,
       "headline": "Day 28 Acceptance Level Update",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/day-28-acceptance-level-update/9745991",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the progress of an existing offer, likely indicating no material change in shareholder support or deal terms; such routine disclosures are common in UK takeover processes and rarely drive immediate price action without new substantive data.",
+      "key_themes": [
+        "Corporate Action",
+        "Administrative Update"
+      ]
     },
     {
       "timestamp": "2026-08-20T07:00:00",
       "category": null,
       "headline": "Day 21 Acceptance Level Update",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/day-21-acceptance-level-update/9730774",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the acceptance level of a prior offer or placement, indicating no material change in strategic direction or capital structure.",
+      "key_themes": [
+        "Corporate Action",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-05T07:00:00",
       "category": null,
       "headline": "Disclosure under Rule 2.10(a)",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/disclosure-under-rule-2-10-a-/9704915",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -260,36 +347,49 @@
       "category": "AGM/EGM",
       "headline": "Result of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/result-of-annual-general-meeting/9696078",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results typically confirm standard shareholder approvals with minimal market-moving potential unless contested votes reveal governance instability.",
+      "key_themes": [
+        "corporate_governance",
+        "shareholder_approval"
+      ]
     },
     {
       "timestamp": "2026-07-30T07:23:00",
       "category": null,
       "headline": "Video for Union Jack Shareholders",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/video-for-union-jack-shareholders-/9695496",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a purely administrative media update with no financial or strategic substance, typical of low-liquidity AIM micro-caps attempting to maintain visibility without material news.",
+      "key_themes": [
+        "Corporate Communications",
+        "Investor Relations"
+      ]
     },
     {
       "timestamp": "2026-07-02T11:32:00",
       "category": "Appointment",
       "headline": "Appointment of NED to the Board of Rathlin Energy",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/appointment-of-ned-to-the-board-of-rathlin-energy/9649808",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard governance update for an AIM-listed exploration company with no immediate financial or operational impact; such appointments are routine compliance measures rather than signals of strategic shift or value creation.",
+      "key_themes": [
+        "Corporate Governance",
+        "AIM Compliance"
+      ]
     },
     {
       "timestamp": "2026-07-02T10:29:00",
       "category": "Director Dealing",
       "headline": "Share Option Awards PDMR Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/share-option-awards-pdmr-dealing/9649659",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard administrative disclosure of executive share options, which carries negligible immediate market impact compared to open market transactions. In the current UK equity climate, such routine filings are often overshadowed by broader macro pressures on small-cap resource stocks.",
@@ -303,26 +403,36 @@
       "category": null,
       "headline": "Recommended All Share Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/recommended-all-share-offer/9647684",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "A recommended all-share offer signals a transformative M&A event likely aimed at consolidating assets or achieving scale in the resource sector, fundamentally altering the company's capital structure and strategic direction.",
+      "key_themes": [
+        "M&A",
+        "Corporate Action",
+        "Strategic Consolidation"
+      ]
     },
     {
       "timestamp": "2026-06-30T07:07:00",
       "category": null,
       "headline": "Reabold Notes Beacon Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/reabold-notes-beacon-announcement/9643307",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The term 'Beacon' in mining RNS announcements typically denotes a new drill result or resource estimate update rather than a corporate action; without specific grade or tonnage data indicating a step-change, this is likely routine exploration reporting with limited immediate market impact.",
+      "key_themes": [
+        "Exploration Update",
+        "Resource Estimation"
+      ]
     },
     {
       "timestamp": "2026-06-29T11:59:00",
       "category": null,
       "headline": "Form 8 (OPD) - Reabold Resources PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/form-8-opd-reabold-resources-plc/9642136",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -333,16 +443,21 @@
       "category": "Acquisition",
       "headline": "Statement re Possible Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/statement-re-possible-offer/9618342",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a 'Statement re Possible Offer' for a small-cap resource stock, this indicates potential speculative activity but lacks the concrete details of valuation or deal size required to assess transformative impact immediately.",
+      "key_themes": [
+        "M&A speculation",
+        "Small cap volatility"
+      ]
     },
     {
       "timestamp": "2026-06-15T07:45:00",
       "category": null,
       "headline": "Disclosure Table",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/disclosure-table-/9617959",
+      "routine_type": "Disclosure Table",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -353,6 +468,7 @@
       "category": null,
       "headline": "Standard form for notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/standard-form-for-notification-of-major-holdings/9602154",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -363,16 +479,21 @@
       "category": null,
       "headline": "Exclusivity Agreement with Zenith Energy",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/exclusivity-agreement-with-zenith-energy/9598663",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Exclusivity agreements in the junior resource sector typically signal early-stage due diligence rather than immediate value creation, carrying high execution risk and minimal near-term financial impact.",
+      "key_themes": [
+        "exploration",
+        "deal_flow"
+      ]
     },
     {
       "timestamp": "2026-05-27T12:09:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/reabold-resources--rbd/director-pdmr-shareholding/9587946",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements in the mining sector typically carry minimal market-moving weight unless accompanied by significant volume or insider trading alerts, suggesting standard portfolio management rather than a strategic shift.",

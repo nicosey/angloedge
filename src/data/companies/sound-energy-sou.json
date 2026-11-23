@@ -2,34 +2,57 @@
   "name": "Sound Energy",
   "ticker": "SOU",
   "slug": "sound-energy-sou",
-  "announcement_count": 11,
-  "latest_announcement": "2026-09-17T07:00:00",
+  "announcement_count": 12,
+  "latest_announcement": "2026-11-23T08:02:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T08:02:00",
+      "category": null,
+      "headline": "Grant of Restricted Shares and Options",
+      "url": "https://www.investegate.co.uk/announcement/rns/sound-energy--sou/grant-of-restricted-shares-and-options/9888431",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine executive incentive alignment typical for junior E&P firms; lacks the transformative capital or M&A catalysts required to move SOU's valuation beyond its underlying asset base.",
+      "key_themes": [
+        "Executive Compensation",
+        "Corporate Governance"
+      ]
+    },
     {
       "timestamp": "2026-09-17T07:00:00",
       "category": "Results",
       "headline": "Half-year Report",
       "url": "https://www.investegate.co.uk/announcement/rns/sound-energy--sou/half-year-report/9776257",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a pure-play North Sea E&P with high leverage to Brent prices and operational risk, this interim report is critical for assessing cash flow resilience amid volatile energy markets and UK tax regime changes.",
+      "key_themes": [
+        "Interim Results",
+        "North Sea E&P"
+      ]
     },
     {
       "timestamp": "2026-08-14T07:00:00",
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/sound-energy--sou/directorate-change/9721548",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board composition changes in the UK E&P sector are common governance updates with negligible immediate financial impact unless linked to a strategic pivot or distress signal.",
+      "key_themes": [
+        "Corporate Governance",
+        "UK E&P"
+      ]
     },
     {
       "timestamp": "2026-08-11T13:37:00",
       "category": null,
       "headline": "Notice of Redemption",
       "url": "https://www.investegate.co.uk/announcement/rns/sound-energy--sou/notice-of-redemption/9716179",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,16 +63,21 @@
       "category": null,
       "headline": "Completion of Disposal",
       "url": "https://www.investegate.co.uk/announcement/rns/sound-energy--sou/completion-of-disposal/9702440",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Asset disposals in the UK E&P sector are typically executed to reduce leverage or fund high-return exploration, indicating a focus on balance sheet health rather than organic growth; this is a routine capital management move for Sound Energy.",
+      "key_themes": [
+        "Capital Allocation",
+        "Deleveraging"
+      ]
     },
     {
       "timestamp": "2026-06-24T07:15:00",
       "category": "Director Dealing",
       "headline": "PDMR Dealings, Exercise of Options & TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/sound-energy--sou/pdmr-dealings-exercise-of-options-tvr/9633843",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR dealings in the UK E&P sector are typically low-impact administrative events unless they signal a coordinated exit by key insiders; without volume context, this remains a minor disclosure.",
@@ -63,26 +91,36 @@
       "category": null,
       "headline": "Result of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/sound-energy--sou/result-of-gm-/9621130",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "GM typically denotes a General Meeting for minor administrative approvals or share capital increases; without details on the agenda (e.g., authority to allot shares), this is likely routine governance rather than a strategic catalyst.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-12T10:17:00",
       "category": null,
       "headline": "Successful Completion of Bond Restructuring",
       "url": "https://www.investegate.co.uk/announcement/rns/sound-energy--sou/successful-completion-of-bond-restructuring/9615993",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The successful restructuring of Sound Energy's debt removes immediate liquidity risk and extends the maturity profile, providing essential financial stability for its UK shale gas exploration activities in a sector where capital discipline is paramount.",
+      "key_themes": [
+        "Debt Restructuring",
+        "Liquidity Management",
+        "Shale Gas"
+      ]
     },
     {
       "timestamp": "2026-05-29T14:32:00",
       "category": null,
       "headline": "Notice of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/sound-energy--sou/notice-of-gm/9592702",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -93,30 +131,42 @@
       "category": "AGM/EGM",
       "headline": "Publication of Annual Report and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/sound-energy--sou/publication-of-annual-report-and-notice-of-agm/9589723",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for UK-listed E&P companies, serving primarily to facilitate shareholder approval of resolutions rather than signaling new strategic direction or financial performance.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-05-28T07:00:00",
       "category": null,
       "headline": "Notice of Meeting for Senior Secured Noteholders",
       "url": "https://www.investegate.co.uk/announcement/rns/sound-energy--sou/notice-of-meeting-for-senior-secured-noteholders-/9588702",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This notice signals active engagement with senior debt holders, likely concerning covenant compliance or refinancing terms amidst the volatile North Sea energy landscape; such meetings often precede critical decisions on liquidity management or asset disposals rather than routine administration.",
+      "key_themes": [
+        "Debt Restructuring",
+        "North Sea E&P"
+      ]
     },
     {
       "timestamp": "2026-05-26T10:17:00",
       "category": null,
       "headline": "Notification of Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/sound-energy--sou/notification-of-investor-presentation/9585523",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations activity with no immediate price-sensitive information; while it may signal management's intent to maintain liquidity or prepare for future capital raising in the current high-rate environment, it lacks the transformative catalyst required for significant valuation re-rating.",
+      "key_themes": [
+        "Investor Relations",
+        "Capital Markets"
+      ]
     }
   ]
 }

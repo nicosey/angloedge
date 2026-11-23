@@ -2,24 +2,40 @@
   "name": "MORGAN STANLEY B.V.",
   "ticker": "71LF",
   "slug": "morgan-stanley-b-v-71lf",
-  "announcement_count": 127,
-  "latest_announcement": "2026-11-20T13:20:00",
+  "announcement_count": 128,
+  "latest_announcement": "2026-11-23T16:29:00",
   "announcements": [
     {
-      "timestamp": "2026-11-20T13:20:00",
+      "timestamp": "2026-11-23T16:29:00",
       "category": null,
-      "headline": "ISM -MSBV - PARTIAL_RETIREMENT - 20-11-2026",
-      "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-20-11-2026/9886953",
+      "headline": "ISM_MSBV_EARLY REDEMPTION_23-11-2026",
+      "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_23-11-2026/9889654",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
       "key_themes": null
     },
     {
+      "timestamp": "2026-11-20T13:20:00",
+      "category": null,
+      "headline": "ISM -MSBV - PARTIAL_RETIREMENT - 20-11-2026",
+      "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-20-11-2026/9886953",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley BV, a routine capital structure adjustment with no material impact on UK equity valuations or the broader market.",
+      "key_themes": [
+        "Debt Management",
+        "Administrative"
+      ]
+    },
+    {
       "timestamp": "2026-11-17T13:02:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_17-11-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_17-11-2026/9879941",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,16 +46,21 @@
       "category": null,
       "headline": "ISM-  MSBV - PARTIAL_RETIREMENT - 17-11-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-17-11-2026/9879933",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This RNS pertains to Morgan Stanley Bank NV, a non-UK incorporated entity, rendering it immaterial for UK equity market participants. The 'partial retirement' of securities is a standard administrative capital management action with no strategic implications for listed companies.",
+      "key_themes": [
+        "administrative",
+        "non-uk-entity"
+      ]
     },
     {
       "timestamp": "2026-11-16T14:10:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_16-11-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_16-11-2026/9877692",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,16 +71,21 @@
       "category": "Appointment",
       "headline": "ISM-  MSBV-RETIREMENT - 16-11-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-retirement-16-11-2026/9877689",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This RNS concerns Morgan Stanley B.V., a non-UK incorporated entity, rendering it irrelevant to UK equity market dynamics; the 'retirement' notification is an administrative personnel update with zero strategic or financial implication for listed companies.",
+      "key_themes": [
+        "Administrative",
+        "Non-UK Entity"
+      ]
     },
     {
       "timestamp": "2026-11-12T16:09:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_12-11-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_12-11-2026/9873244",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,16 +96,21 @@
       "category": null,
       "headline": "ISM_MSBV_RETIREMENT_11-11-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_retirement_11-11-2026/9870824",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 1,
+      "insight": "This is a standard administrative retirement of an ISIN code for Morgan Stanley B.V., indicating no change in the underlying equity value or corporate strategy.",
+      "key_themes": [
+        "administrative",
+        "isin_retirement"
+      ]
     },
     {
       "timestamp": "2026-11-11T15:59:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_11-11-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_11-11-2026/9870819",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,16 +121,21 @@
       "category": null,
       "headline": "ISM_MSBV_RETIREMENT_10-11-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_retirement_10-11-2026/9868321",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 1,
+      "insight": "This is a standard administrative filing by Morgan Stanley B.V., a non-UK incorporated entity, regarding the retirement of securities; it carries no material implication for UK-listed equities or market sentiment.",
+      "key_themes": [
+        "Administrative",
+        "Non-Material"
+      ]
     },
     {
       "timestamp": "2026-11-05T13:17:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_05-11-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_05-11-2026/9860919",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -110,6 +146,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_04-11-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_04-11-2026/9858646",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -120,16 +157,21 @@
       "category": "Appointment",
       "headline": "ISM - MSBV -RETIREMENT -04-11-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-retirement-04-11-2026/9858645",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is an administrative filing for Morgan Stanley B.V., a non-listed special purpose vehicle used for debt issuance, not the listed UK entity MSIG or related equities. Retirement of a senior note has no direct impact on UK equity valuations or corporate governance.",
+      "key_themes": [
+        "administrative",
+        "debt_maturity"
+      ]
     },
     {
       "timestamp": "2026-11-03T13:43:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_03-11-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_03-11-2026/9856259",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -140,6 +182,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_02-11-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_02-11-2026/9853825",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -150,6 +193,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_28-10-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_28-10-2026/9846485",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -160,16 +204,21 @@
       "category": null,
       "headline": "ISM - MSBV - PARTIAL_RETIREMENT -28-10-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-28-10-2026/9846480",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, reflecting routine liability management rather than equity-moving news. Such capital structure adjustments are common for global banks and have negligible direct impact on UK-listed equities.",
+      "key_themes": [
+        "Debt Management",
+        "Capital Structure"
+      ]
     },
     {
       "timestamp": "2026-10-27T13:38:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_27-10-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_27-10-2026/9844119",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -180,16 +229,21 @@
       "category": null,
       "headline": "ISM - MSBV - PARTIAL_RETIREMENT -23-10-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-23-10-2026/9839578",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, reflecting routine liability management rather than equity-side corporate action. It has no material implication for UK-listed equities or the broader market sentiment.",
+      "key_themes": [
+        "Debt Management",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-10-22T15:00:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_22-10-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_22-10-2026/9837114",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -200,16 +254,21 @@
       "category": "Appointment",
       "headline": "ISM - MSBV- PARTIAL RETIREMENT -22-10-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial-retirement-22-10-2026/9837112",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard partial retirement of debt instruments by Morgan Stanley's Dutch subsidiary, reflecting routine liability management rather than equity market-moving news. Such transactions are common for global banks to optimize capital structure and have negligible impact on UK-listed equities.",
+      "key_themes": [
+        "Debt Management",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-10-21T15:40:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_21-10-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_21-10-2026/9834947",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -220,16 +279,21 @@
       "category": null,
       "headline": "ISM - MSBV- PARTIAL_RETIREMENT -21-10-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-21-10-2026/9834943",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, a routine capital management action with no material impact on UK equity valuations or the broader market.",
+      "key_themes": [
+        "Debt Management",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-10-19T14:29:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_19-10-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_19-10-2026/9830114",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -240,6 +304,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_16-10-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_16-10-2026/9827983",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -250,36 +315,49 @@
       "category": "Appointment",
       "headline": "ISM - MSBV- RETIREMENT -16-10-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-retirement-16-10-2026/9827981",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This RNS concerns Morgan Stanley B.V., a non-UK incorporated entity, rendering it irrelevant to UK equity market dynamics; additionally, the date 16-10-2026 is in the future, suggesting a data error or placeholder rather than an actionable event.",
+      "key_themes": [
+        "irrelevant_entity",
+        "future_date"
+      ]
     },
     {
       "timestamp": "2026-10-15T16:17:00",
       "category": null,
       "headline": "ISM - MSBV - ISSUER CALL-XS3242815333 -15th Oct 26",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-issuer-call-xs3242815333-15th-oct-26/9825716",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard issuer call for a Morgan Stanley bond (XS3242815333), not an equity announcement; it serves as routine investor relations activity with no direct impact on UK listed equities.",
+      "key_themes": [
+        "Debt Capital Markets",
+        "Investor Relations"
+      ]
     },
     {
       "timestamp": "2026-10-15T16:15:00",
       "category": null,
       "headline": "ISM_MSBV_PARTIAL RETIRMENT_15-10-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_partial-retirment_15-10-2026/9825714",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley B.V., a routine capital structure adjustment for a global investment bank rather than an equity-moving event. Such transactions are administrative in nature and do not signal strategic shifts or financial distress in the UK market.",
+      "key_themes": [
+        "Debt Management",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-10-14T15:03:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_14-10-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_14-10-2026/9823244",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -290,6 +368,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_12-10-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_12-10-2026/9818697",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -300,46 +379,63 @@
       "category": null,
       "headline": "ISM - MSBV- PARTIAL_RETIREMENT -08-10-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-08-10-2026/9814166",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, reflecting routine liability management rather than equity market-moving events.",
+      "key_themes": [
+        "Debt Management",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-10-08T15:12:00",
       "category": null,
       "headline": "ISM - MSBV - ISSUER CALL -XS3242731662- 08-10-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-issuer-call-xs3242731662-08-10-2026/9814160",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 1,
+      "insight": "This is an issuer call for a Morgan Stanley B.V. senior unsecured note (XS3242731662), representing routine debt market communication rather than equity-moving corporate action.",
+      "key_themes": [
+        "Debt Issuance",
+        "Investor Relations"
+      ]
     },
     {
       "timestamp": "2026-10-07T14:38:00",
       "category": null,
       "headline": "ISM - MSBV-  PARTIAL_RETIREMENT -CANCEL-07-10-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-cancel-07-10-2026/9811792",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 1,
+      "insight": "This is an administrative cancellation of a partial retirement for Morgan Stanley's own debt securities, not an equity event; it has zero implication for UK listed equities.",
+      "key_themes": [
+        "administrative",
+        "debt"
+      ]
     },
     {
       "timestamp": "2026-10-06T16:01:00",
       "category": null,
       "headline": "ISM - MSBV-  PARTIAL_RETIREMENT -06-10-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-06-10-2026/9809703",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This RNS pertains to Morgan Stanley B.V., a non-UK listed entity, rendering it immaterial for UK equity market analysis; the partial retirement of debt instruments is a standard capital management activity with no direct impact on domestic equities.",
+      "key_themes": [
+        "Non-UK Entity",
+        "Debt Instrument"
+      ]
     },
     {
       "timestamp": "2026-10-05T17:56:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_05-10-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_05-10-2026/9807544",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -350,6 +446,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_30-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_30-09-2026/9799608",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -360,26 +457,35 @@
       "category": "Appointment",
       "headline": "ISM -MSBV-RETIREMENT -30-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-retirement-30-09-2026/9799605",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This RNS concerns Morgan Stanley B.V., a non-UK incorporated special purpose vehicle (SPV) rather than the listed UK entity, rendering it immaterial for UK equity investors. The 'retirement' notice is a standard administrative update regarding the maturity or wind-down of specific debt instruments or SPV structures.",
+      "key_themes": [
+        "Corporate Action",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-28T15:19:00",
       "category": null,
       "headline": "ISM - MSBV- PARTIAL_RETIREMENT -28-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-28-09-2026/9794665",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley BV, a routine capital structure adjustment for a global investment bank with no direct implication for UK-listed equities or the broader market.",
+      "key_themes": [
+        "Debt Management",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-09-25T14:46:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_25-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_25-09-2026/9792209",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -390,26 +496,35 @@
       "category": null,
       "headline": "ISM - MSBV - ISSUER CALL -XS3242588252 -25-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-issuer-call-xs3242588252-25-09-2026/9792204",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard issuer call for a Morgan Stanley B.V. bond (XS3242588252), likely addressing coupon payment logistics or corporate action details rather than equity fundamentals. As a debt instrument of a US bank's Dutch subsidiary, it has negligible direct impact on UK equity markets.",
+      "key_themes": [
+        "Debt Issuer Call",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-09-24T15:14:00",
       "category": null,
       "headline": "ISM_MSBV_RETIREMENT_24-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_retirement_24-09-2026/9789908",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative retirement of a debt instrument by Morgan Stanley B.V., a non-UK listed entity, indicating routine treasury management rather than any material event for UK equity markets.",
+      "key_themes": [
+        "Corporate Action",
+        "Debt Retirement"
+      ]
     },
     {
       "timestamp": "2026-09-24T14:54:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_24-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_24-09-2026/9789857",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -420,26 +535,35 @@
       "category": null,
       "headline": "ISM - MSBV - CA - CFR - 24-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-ca-cfr-24-09-2026/9789848",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 1,
+      "insight": "This is a standard regulatory filing for Morgan Stanley B.V., a non-operating special purpose vehicle (SPV) used for debt issuance and capital management; it carries no direct operational or financial implications for UK-listed equities.",
+      "key_themes": [
+        "Corporate Action",
+        "Debt Issuance"
+      ]
     },
     {
       "timestamp": "2026-09-24T09:22:00",
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/half-year-financial-report-/9789013",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a debt issuer rather than an operating UK-listed company, this RNS provides no direct equity catalyst for Morgan Stanley Group plc (MSL.L) but confirms the solvency and reporting discipline of its European funding vehicle within the current high-yield credit environment.",
+      "key_themes": [
+        "Corporate Debt",
+        "Financial Services"
+      ]
     },
     {
       "timestamp": "2026-09-23T15:19:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_23-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_23-09-2026/9787609",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -450,16 +574,21 @@
       "category": null,
       "headline": "ISM - MSBV-  PARTIAL_RETIREMENT - 23-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-23-09-2026/9787607",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley B.V., a routine capital structure adjustment for an investment-grade issuer with no material impact on UK equity valuations or sector dynamics.",
+      "key_themes": [
+        "Debt Management",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-09-22T15:13:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_22-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_22-09-2026/9785266",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -470,6 +599,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_18-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_18-09-2026/9780383",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -480,26 +610,35 @@
       "category": null,
       "headline": "ISM -MSBV- PARTIAL_RETIREMENT -17-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-17-09-2026/9778175",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, reflecting routine liability management rather than equity market-moving news. Such administrative actions are common for global banks to optimize funding structures and have no direct implication for UK-listed equities.",
+      "key_themes": [
+        "Debt Management",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-16T14:27:00",
       "category": null,
       "headline": "ISM - MSBV-  PARTIAL_RETIREMENT -16-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-16-09-2026/9775795",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, reflecting routine liability management rather than a strategic shift in the UK equity landscape.",
+      "key_themes": [
+        "Debt Management",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-09-15T14:30:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_15-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_15-09-2026/9773449",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -510,16 +649,21 @@
       "category": null,
       "headline": "ISM - MSBV - PARTIAL_RETIREMENT -11-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-11-09-2026/9768780",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, reflecting routine liability management rather than a strategic shift in the UK equity landscape.",
+      "key_themes": [
+        "Debt Management",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-09-11T15:32:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_11-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_11-09-2026/9768756",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -530,16 +674,21 @@
       "category": null,
       "headline": "ISM - MSBV- PARTIAL_RETIREMENT -10-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-10-09-2026/9766415",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, reflecting routine liability management rather than equity-moving news; such capital structure adjustments are common for global banks and have negligible impact on UK-listed equities.",
+      "key_themes": [
+        "Debt Management",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-09-09T14:58:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_09-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_09-09-2026/9763860",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -550,26 +699,35 @@
       "category": null,
       "headline": "ISM - MSBV- PARTIAL_RETIREMENT -08-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-08-09-2026/9761566",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 1,
+      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, a routine liability management operation with no material impact on UK equity fundamentals or valuation.",
+      "key_themes": [
+        "Debt Management",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-09-03T16:05:00",
       "category": "Appointment",
       "headline": "ISM - MSBV - RETIREMENT - 03-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-retirement-03-09-2026/9754958",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for Morgan Stanley B.V., a non-UK listed SPV entity, indicating a routine personnel change rather than a strategic shift in the parent UK-listed bank. Such filings have negligible impact on equity valuation or market sentiment.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative Filing"
+      ]
     },
     {
       "timestamp": "2026-09-03T15:06:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_03-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_03-09-2026/9754763",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -580,6 +738,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_02-09-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_02-09-2026/9752474",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -590,6 +749,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_27-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_27-08-2026/9744229",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -600,6 +760,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_25-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_25-08-2026/9739588",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -610,16 +771,21 @@
       "category": null,
       "headline": "ISM- MSBV- PARTIAL_RETIREMENT -25-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-25-08-2026/9739587",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is an administrative debt instrument update from a non-UK listed entity with no direct equity impact on UK-listed companies.",
+      "key_themes": [
+        "Corporate Action",
+        "Debt Management"
+      ]
     },
     {
       "timestamp": "2026-08-24T14:48:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_24-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_24-08-2026/9737243",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -630,26 +796,35 @@
       "category": null,
       "headline": "ISM-MSBV- PARTIAL_RETIREMENT -21-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-21-08-2026/9734898",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, reflecting routine liability management rather than equity-moving news. Such administrative actions are common for global banks to optimize capital structure and have no direct implication for UK-listed equities.",
+      "key_themes": [
+        "Debt Management",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-21T14:24:00",
       "category": null,
       "headline": "ISM - MSBV - ISSUER CALL -XS3280137384 -21-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-issuer-call-xs3280137384-21-08-2026/9734894",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 1,
+      "insight": "This is an administrative issuer call for a Morgan Stanley bond (XS3280137384), not an equity event for a UK-listed company; it has zero impact on UK equity valuations or corporate governance.",
+      "key_themes": [
+        "Corporate Bond",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-20T14:32:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_20-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_20-08-2026/9732668",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -660,6 +835,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_19-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_19-08-2026/9730515",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -670,16 +846,21 @@
       "category": null,
       "headline": "ISM - MSBV - PARTIAL_RETIREMENT -18-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-18-08-2026/9728123",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, reflecting routine liability management rather than equity-moving news for UK-listed entities.",
+      "key_themes": [
+        "Debt Management",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-08-18T14:45:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_18-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_18-08-2026/9728105",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -690,6 +871,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_13-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_13-08-2026/9721180",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -700,16 +882,21 @@
       "category": null,
       "headline": "ISM - MSBV - PARTIAL_RETIREMENT - 13-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-13-08-2026/9721172",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley BV, a routine capital structure adjustment with no material impact on UK equity valuations or the broader market.",
+      "key_themes": [
+        "Debt Management",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-08-12T16:17:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_12-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_12-08-2026/9718811",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -720,6 +907,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_11-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_11-08-2026/9716451",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -730,16 +918,21 @@
       "category": "Appointment",
       "headline": "ISM - MSBV -RETIREMENT - 11-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-retirement-11-08-2026/9716448",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard personnel change at Morgan Stanley B.V., an SPV typically used for debt issuance rather than operational equity risk; such administrative updates have negligible impact on UK-listed equities or broader market sentiment.",
+      "key_themes": [
+        "Corporate Administration",
+        "Personnel Change"
+      ]
     },
     {
       "timestamp": "2026-08-10T14:35:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_10-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_10-08-2026/9713831",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -750,36 +943,49 @@
       "category": null,
       "headline": "ISM - MSBV -CA - CARREFOUR- 10-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-ca-carrefour-10-08-2026/9713828",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing for Morgan Stanley's holding in Carrefour, likely reflecting routine portfolio adjustments or compliance reporting rather than a material strategic shift in the UK equity landscape.",
+      "key_themes": [
+        "Morgan Stanley",
+        "Carrefour"
+      ]
     },
     {
       "timestamp": "2026-08-06T15:08:00",
       "category": null,
       "headline": "ISM - MSBV - ISSUER CALL - XS3280089551-06-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-issuer-call-xs3280089551-06-08-2026/9709298",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is an administrative issuer call for a Morgan Stanley B.V. senior unsecured note (XS3280089551) maturing in 2026, indicating routine debt management or liquidity operations rather than equity-moving corporate action.",
+      "key_themes": [
+        "Debt Issuance",
+        "Corporate Finance"
+      ]
     },
     {
       "timestamp": "2026-08-06T15:06:00",
       "category": null,
       "headline": "ISM - MSBV - ISSUER CALL -XS2877627476 -06-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-issuer-call-xs2877627476-06-08-2026/9709296",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 1,
+      "insight": "This is an administrative issuer call for a Morgan Stanley B.V. senior unsecured note (XS2877627476), not a UK-listed equity event; it has zero direct impact on UK equities as it pertains to offshore debt issuance by a US bank's Dutch subsidiary.",
+      "key_themes": [
+        "Debt Issuance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-05T14:43:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_05-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_05-08-2026/9706851",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -790,26 +996,35 @@
       "category": null,
       "headline": "ISM - MSBV - ISSUER CALL -XS2877627559 -05-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-issuer-call-xs2877627559-05-08-2026/9706847",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 1,
+      "insight": "This is an administrative issuer call for a Morgan Stanley B.V. bond (XS2877627559), not an equity announcement; it has zero impact on UK listed equities as it pertains to debt capital markets and foreign corporate entities.",
+      "key_themes": [
+        "Debt Capital Markets",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-05T14:38:00",
       "category": null,
       "headline": "ISM - MSBV - ISSUER CALL -XS2877627476 -05-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-issuer-call-xs2877627476-05-08-2026/9706841",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 1,
+      "insight": "This is an issuer call for a Morgan Stanley B.V. bond (XS2877627476), not a UK-listed equity company; therefore, it has zero direct impact on UK equity markets.",
+      "key_themes": [
+        "Corporate Bond",
+        "No Equity Impact"
+      ]
     },
     {
       "timestamp": "2026-08-04T15:03:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_04-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_04-08-2026/9704457",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -820,16 +1035,21 @@
       "category": "Appointment",
       "headline": "ISM- MSBV-RETIREMENT - 04-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-retirement-04-08-2026/9704454",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement concerns a non-UK listed entity (Morgan Stanley B.V.) and likely represents an administrative personnel change rather than a material corporate event for UK equity markets.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-03T15:01:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_03-08-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_03-08-2026/9701981",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -840,6 +1060,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_31-07-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_31-07-2026/9699098",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -850,6 +1071,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_30-07-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_30-07-2026/9696706",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -860,6 +1082,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_28-07-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_28-07-2026/9691924",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -870,16 +1093,21 @@
       "category": null,
       "headline": "ISM -MSBV- PARTIAL_RETIREMENT -28-07-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-28-07-2026/9691921",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice regarding the partial retirement of debt securities by Morgan Stanley B.V., a non-UK incorporated entity with no direct listing on the UK markets; it carries zero material implication for UK equity investors.",
+      "key_themes": [
+        "Debt Administration",
+        "Non-UK Entity"
+      ]
     },
     {
       "timestamp": "2026-07-23T15:04:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_23-07-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_23-07-2026/9684894",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -890,6 +1118,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_22-07-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_22-07-2026/9682548",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -900,6 +1129,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_16-07-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_16-07-2026/9673159",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -910,6 +1140,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_15-07-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_15-07-2026/9671150",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -920,6 +1151,7 @@
       "category": null,
       "headline": "GEM_MSBV_EARLY REDEMPTION_15-07-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/gem_msbv_early-redemption_15-07-2026/9670980",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -930,6 +1162,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_14-07-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_14-07-2026/9668576",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -940,6 +1173,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_09-07-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_09-07-2026/9661677",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -950,6 +1184,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_08-07-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_08-07-2026/9659388",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -960,16 +1195,21 @@
       "category": "Appointment",
       "headline": "ISM - MSBV- RETIREMENT -08-07-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-retirement-08-07-2026/9659384",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is an administrative filing for Morgan Stanley B.V., a non-UK incorporated entity, indicating a routine personnel change rather than a strategic shift in the UK equity landscape.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-07T15:26:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_07-07-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_07-07-2026/9656811",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -980,6 +1220,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_03-07-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_03-07-2026/9652573",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -990,6 +1231,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_02-07-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_02-07-2026/9650472",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -1000,6 +1242,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_29-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_29-06-2026/9642523",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -1010,6 +1253,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_25-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_25-06-2026/9637531",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -1020,6 +1264,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_24-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_24-06-2026/9635113",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -1030,26 +1275,35 @@
       "category": null,
       "headline": "ISM - MSBV- PARTIAL_RETIREMENT - AMEND- 24-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-amend-24-06-2026/9635110",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This RNS details a partial retirement of debt securities by Morgan Stanley B.V., an administrative capital structure adjustment with no direct impact on UK-listed equities. Such transactions are routine for global investment banks managing liquidity and do not signal strategic shifts or performance changes in the underlying equity markets.",
+      "key_themes": [
+        "Corporate Action",
+        "Debt Management"
+      ]
     },
     {
       "timestamp": "2026-06-24T15:42:00",
       "category": null,
       "headline": "ISM - MSBV- PARTIAL_RETIREMENT -24-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-24-06-2026/9635109",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, reflecting routine liability management rather than equity market movement. Such capital structure adjustments are common for global banks and have negligible direct impact on UK-listed equities.",
+      "key_themes": [
+        "Debt Management",
+        "Capital Structure"
+      ]
     },
     {
       "timestamp": "2026-06-19T16:15:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_19-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_19-06-2026/9628408",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -1060,26 +1314,35 @@
       "category": "Appointment",
       "headline": "ISM - MSBV - RETIREMENT-19-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-retirement-19-06-2026/9628405",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard personnel change announcement for Morgan Stanley B.V., a non-UK listed entity, resulting in zero material impact on UK equity markets or investor sentiment.",
+      "key_themes": [
+        "Corporate Governance",
+        "Personnel Change"
+      ]
     },
     {
       "timestamp": "2026-06-19T16:09:00",
       "category": null,
       "headline": "ISM - MSBV - PARTIAL_RETIREMENT-19-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-19-06-2026/9628403",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, reflecting routine liability management rather than equity-moving news for UK-listed entities.",
+      "key_themes": [
+        "Debt Management",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-06-18T15:48:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_18-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_18-06-2026/9626172",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -1090,6 +1353,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_17-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_17-06-2026/9623877",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -1100,6 +1364,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_15-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_15-06-2026/9619106",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -1110,6 +1375,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_12-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_12-06-2026/9616652",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -1120,6 +1386,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_11-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_11-06-2026/9614360",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -1130,16 +1397,21 @@
       "category": null,
       "headline": "ISM - MSBV - ISSUER CALL -XS2877363551- 11-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-issuer-call-xs2877363551-11-06-2026/9614346",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 1,
+      "insight": "This is an issuer call for a Morgan Stanley B.V. senior unsecured bond (XS2877363551), not a UK-listed equity announcement; it represents routine debt investor relations activity with zero direct impact on UK equity valuations.",
+      "key_themes": [
+        "Debt Issuance",
+        "Investor Relations"
+      ]
     },
     {
       "timestamp": "2026-06-10T16:11:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_10-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_10-06-2026/9612089",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -1150,26 +1422,35 @@
       "category": "Appointment",
       "headline": "ISM - MSBV -PARTIAL RETIREMENT - 10-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial-retirement-10-06-2026/9612088",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard partial retirement of an ISM (Internal Shareholding Model) award by Morgan Stanley B.V., a non-listed entity, indicating routine internal equity administration rather than a market-moving event for UK equities.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-10T16:09:00",
       "category": "Appointment",
       "headline": "ISM - MSBV - RETIREMENT - INITIATION - 10-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-retirement-initiation-10-06-2026/9612087",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing for Morgan Stanley B.V., a non-UK incorporated entity, indicating routine personnel changes rather than a material event for UK-listed equities or the broader market.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-09T15:36:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_09-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_09-06-2026/9609753",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -1180,16 +1461,21 @@
       "category": null,
       "headline": "ISM- MSBV - CA - KERING - 09-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-ca-kering-09-06-2026/9609749",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This RNS represents a standard disclosure of a derivative position by Morgan Stanley BV regarding Kering, likely reflecting hedging activity rather than a directional equity stake change; without specific volume or delta data, it lacks the materiality to influence Kering's valuation or strategic outlook.",
+      "key_themes": [
+        "Derivative Position",
+        "Luxury Sector"
+      ]
     },
     {
       "timestamp": "2026-06-08T16:04:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_08-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_08-06-2026/9607447",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -1200,16 +1486,21 @@
       "category": null,
       "headline": "ISM - MSBV - ISSUER CALL - 08-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-issuer-call-08-06-2026/9607437",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 1,
+      "insight": "This is a standard issuer call notification from Morgan Stanley B.V., a non-UK listed entity, providing no material information for UK equity investors.",
+      "key_themes": [
+        "Corporate Communications",
+        "Non-Material"
+      ]
     },
     {
       "timestamp": "2026-06-05T15:25:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_05-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_05-06-2026/9605028",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -1220,6 +1511,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_03-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_03-06-2026/9600436",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -1230,16 +1522,21 @@
       "category": null,
       "headline": "ISM - MSBV- ALL - PARTIAL_RETIREMENT -02-05-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-all-partial_retirement-02-05-2026/9598059",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley B.V., a routine capital structure adjustment for an investment-grade issuer with no material implication for UK equity markets or the broader sector.",
+      "key_themes": [
+        "Capital Management",
+        "Debt Retirement"
+      ]
     },
     {
       "timestamp": "2026-06-01T15:24:00",
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_01-06-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_01-06-2026/9595597",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -1250,6 +1547,7 @@
       "category": null,
       "headline": "ISM_MSBV_EARLY REDEMPTION_28-05-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_28-05-2026/9590617",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -1260,20 +1558,28 @@
       "category": null,
       "headline": "ISM - MSBV - PARTIAL_RETIREMENT -28-05-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-28-05-2026/9590616",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is an administrative partial retirement of debt securities by Morgan Stanley BV, a routine capital structure adjustment with no direct impact on UK equity valuations.",
+      "key_themes": [
+        "Capital Management",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-05-26T14:54:00",
       "category": null,
       "headline": "ISM - MSBV - CA -GLEN LN -26-05-2026",
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-ca-glen-ln-26-05-2026-/9586142",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 1,
+      "insight": "This is a standard ISM notification of a shareholding change by Morgan Stanley BV in Glencore, reflecting routine portfolio management rather than a strategic shift or material market-moving event.",
+      "key_themes": [
+        "Shareholding Change",
+        "Institutional Investor"
+      ]
     }
   ]
 }

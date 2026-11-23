@@ -2,34 +2,54 @@
   "name": "Churchill China",
   "ticker": "CHH",
   "slug": "churchill-china-chh",
-  "announcement_count": 12,
-  "latest_announcement": "2026-11-18T09:00:00",
+  "announcement_count": 13,
+  "latest_announcement": "2026-11-23T12:19:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T12:19:00",
+      "category": null,
+      "headline": "Director Declaration",
+      "url": "https://www.investegate.co.uk/announcement/rns/churchill-china--chh/director-declaration-/9889246",
+      "routine_type": "Director Declaration",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-18T09:00:00",
       "category": "Appointment",
       "headline": "Directorate Change",
       "url": "https://www.investegate.co.uk/announcement/rns/churchill-china--chh/directorate-change-/9881572",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine administrative updates to the board composition are standard governance practices for Churchill China and do not signal immediate strategic shifts or value-creating events in the current ceramic tableware sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-11-13T07:00:00",
       "category": "Appointment",
       "headline": "CFO Appointment",
       "url": "https://www.investegate.co.uk/announcement/rns/churchill-china--chh/cfo-appointment-/9873593",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine executive succession in a stable, niche ceramics manufacturer; lacks the transformative catalysts required for significant re-rating given CHH's consistent dividend profile and lack of immediate sector headwinds.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Succession"
+      ]
     },
     {
       "timestamp": "2026-10-21T13:06:00",
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/churchill-china--chh/notification-of-major-holdings/9834654",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +60,7 @@
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/churchill-china--chh/interim-results-/9757729",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a niche player in the high-margin ceramic tableware sector, Churchill China's interim results provide critical visibility into consumer discretionary spending resilience amid UK cost-of-living pressures; any deviation from consensus will directly impact sentiment on household retail demand.",
@@ -54,16 +75,21 @@
       "category": null,
       "headline": "Change of Nominated Advisor and Sole Broker",
       "url": "https://www.investegate.co.uk/announcement/rns/churchill-china--chh/change-of-nominated-advisor-and-sole-broker/9757604",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the appointment of a new broker for Churchill China, likely reflecting routine market-making arrangements rather than a strategic shift or capital raise.",
+      "key_themes": [
+        "Corporate Governance",
+        "Brokerage"
+      ]
     },
     {
       "timestamp": "2026-08-28T07:00:00",
       "category": "Results",
       "headline": "Notification of Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/churchill-china--chh/notification-of-interim-results-/9744395",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a niche player in the premium tableware sector, Churchill China's interim results provide critical visibility into consumer discretionary spending resilience amid UK cost-of-living pressures; any deviation from consensus will signal broader retail health trends.",
@@ -77,26 +103,35 @@
       "category": null,
       "headline": "CEO Succession",
       "url": "https://www.investegate.co.uk/announcement/rns/churchill-china--chh/ceo-succession-/9740925",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "CEO succession in the ceramics sector is a critical governance event that introduces execution risk during a period of fragile consumer demand and supply chain normalization; market reaction will hinge on the successor's track record in navigating margin pressures.",
+      "key_themes": [
+        "Corporate Governance",
+        "Leadership Transition"
+      ]
     },
     {
       "timestamp": "2026-08-21T09:30:00",
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/churchill-china--chh/directorate-change/9734193",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board-level personnel adjustments in the ceramics sector typically signal governance continuity rather than strategic pivots, lacking the immediate catalyst impact of M&A or earnings revisions.",
+      "key_themes": [
+        "Corporate Governance",
+        "Leadership Stability"
+      ]
     },
     {
       "timestamp": "2026-08-05T10:12:00",
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/churchill-china--chh/notification-of-major-holdings-/9706143",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -107,6 +142,7 @@
       "category": "Trading Update",
       "headline": "Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/churchill-china--chh/trading-update-/9697088",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a niche leader in premium tableware, Churchill China's update signals demand resilience amid cost-of-living pressures, offering a counter-narrative to broader consumer discretionary weakness and highlighting the defensive quality of its luxury brand positioning.",
@@ -121,20 +157,28 @@
       "category": null,
       "headline": "Change of Auditor",
       "url": "https://www.investegate.co.uk/announcement/rns/churchill-china--chh/change-of-auditor-/9621960",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing reflecting the conclusion of an audit cycle rather than a material corporate event; such announcements are routine for AIM-listed ceramics manufacturers and carry no immediate strategic or financial implications for CHH.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-05-29T17:35:00",
       "category": "AGM/EGM",
       "headline": "Results of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/churchill-china--chh/results-of-agm/9593008",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine shareholder ratification of resolutions following the release of annual results; typical for CHH's governance cycle with no material strategic shifts or capital allocation changes indicated.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     }
   ]
 }

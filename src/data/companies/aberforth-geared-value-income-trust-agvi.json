@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/prn/aberforth-geared-value-income-trust--agvi/director-pdmr-shareholding/9749489",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in closed-end funds typically reflect personal portfolio rebalancing rather than corporate strategy shifts; without volume context indicating significant insider conviction or divestment, this holds negligible pricing power for AGVI.",
@@ -23,6 +24,7 @@
       "category": null,
       "headline": "Kepler Trust Intelligence: New Research",
       "url": "https://www.investegate.co.uk/announcement/rns/aberforth-geared-value-income-trust--agvi/kepler-trust-intelligence-new-research/9733077",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -33,26 +35,37 @@
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/prn/aberforth-geared-value-income-trust--agvi/annual-financial-report/9709110",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a standard annual report for an investment trust, this confirms the fund's ongoing strategy and NAV performance without signaling immediate transformative events or distress, fitting the 'notable but routine' category for income-focused investors monitoring yield sustainability.",
+      "key_themes": [
+        "investment trust",
+        "annual results",
+        "NAV performance"
+      ]
     },
     {
       "timestamp": "2026-07-30T07:05:00",
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/prn/aberforth-geared-value-income-trust--agvi/dividend-declaration/9694996",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine dividend declaration typical for closed-end funds; lacks transformative catalysts but signals continued income generation capability in a volatile market environment.",
+      "key_themes": [
+        "Dividend",
+        "Income",
+        "Closed-End Fund"
+      ]
     },
     {
       "timestamp": "2026-07-01T12:21:00",
       "category": null,
       "headline": "Statement re Closed Period Update",
       "url": "https://www.investegate.co.uk/announcement/prn/aberforth-geared-value-income-trust--agvi/statement-re-closed-period-update/9647613",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,6 +76,7 @@
       "category": null,
       "headline": "Statement re Closed Period",
       "url": "https://www.investegate.co.uk/announcement/prn/aberforth-geared-value-income-trust--agvi/statement-re-closed-period/9632397",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,

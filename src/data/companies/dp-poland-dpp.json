@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "PCA / PDMR Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/dp-poland--dpp/pca-pdmr-dealing/9832847",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of insider transactions with no inherent market-moving significance; without volume or price data indicating unusual activity, it reflects routine compliance rather than strategic shifts in the Polish industrial sector.",
@@ -23,6 +24,7 @@
       "category": "Trading Update",
       "headline": "Q3 2026 Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/dp-poland--dpp/q3-2026-trading-update/9821325",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap with limited liquidity, any trading update from DP Poland carries disproportionate weight for its small shareholder base, though the lack of material M&A or profit warning keeps it in the 'routine' category.",
@@ -36,6 +38,7 @@
       "category": "Director Dealing",
       "headline": "PCA / PDMR Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/dp-poland--dpp/pca-pdmr-dealing/9815604",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of insider trading activity with no inherent market-moving significance; without volume or price context, it cannot signal conviction or divergence in management sentiment.",
@@ -49,6 +52,7 @@
       "category": "Results",
       "headline": "Interim Results for the period ended 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/dp-poland--dpp/interim-results-for-the-period-ended-30-june-2026/9771580",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a niche player in the Polish logistics sector, DPP's interim results provide critical visibility into cross-border trade flows and margin resilience amid EU regulatory shifts; however, as a standard half-year update without major strategic pivots, it remains a routine data point for existing holders rather than a market-moving event.",
@@ -63,6 +67,7 @@
       "category": "Director Dealing",
       "headline": "PCA / PDMR Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/dp-poland--dpp/pca-pdmr-dealing/9707331",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of insider trading activity rather than a corporate action; without volume or price data indicating significant conviction, it holds no immediate predictive value for share price movement.",
@@ -76,6 +81,7 @@
       "category": "Director Dealing",
       "headline": "PCA / PDMR Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/dp-poland--dpp/pca-pdmr-dealing/9689941",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory filing for Personal Conduct of Managers (PDMR) dealing, which provides no new fundamental data on DP Poland's operations or valuation. While director transactions can signal confidence or lack thereof, isolated small-scale dealings are routine administrative events with negligible immediate market impact.",
@@ -89,6 +95,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/dp-poland--dpp/director-pdmr-shareholding/9680697",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure for a small-cap Polish listed entity; without volume or price data, this routine filing offers no actionable signal on management sentiment or corporate strategy.",
@@ -102,16 +109,22 @@
       "category": null,
       "headline": "CEO Succession",
       "url": "https://www.investegate.co.uk/announcement/rns/dp-poland--dpp/ceo-succession/9675794",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "CEO succession in the Polish industrial sector is a critical governance event that introduces execution risk during a period of elevated energy costs and supply chain volatility; investors will scrutinize the successor's track record for navigating EU regulatory tailwinds versus macroeconomic headwinds.",
+      "key_themes": [
+        "Governance",
+        "Leadership Transition",
+        "Execution Risk"
+      ]
     },
     {
       "timestamp": "2026-07-07T07:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/dp-poland--dpp/holding-s-in-company/9654897",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -122,20 +135,28 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/dp-poland--dpp/result-of-agm/9634548",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no intrinsic financial value or strategic shift for DP Poland.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-05-29T12:00:00",
       "category": "AGM/EGM",
       "headline": "2025 Annual Report and Notice of 2026 AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/dp-poland--dpp/2025-annual-report-and-notice-of-2026-agm/9592478",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for DP Poland, serving primarily to convene the AGM and distribute annual accounts rather than signaling any immediate strategic shift or material financial event.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     }
   ]
 }

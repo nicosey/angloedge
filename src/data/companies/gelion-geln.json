@@ -10,76 +10,106 @@
       "category": "Appointment",
       "headline": "Appointment of Worley for early phase engineering",
       "url": "https://www.investegate.co.uk/announcement/rns/gelion--geln/appointment-of-worley-for-early-phase-engineering/9882965",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Engaging Worley signals Gelion's transition from pure-play R&D to early-stage engineering, a critical step for de-risking its proprietary technology and attracting industrial partners in the decarbonisation sector.",
+      "key_themes": [
+        "commercialisation",
+        "de-risking",
+        "engineering"
+      ]
     },
     {
       "timestamp": "2026-11-17T10:00:00",
       "category": "AGM/EGM",
       "headline": "Result of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/gelion--geln/result-of-annual-general-meeting/9879423",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of routine shareholder votes, which typically carries no immediate price-sensitive information for Gelion's operational trajectory.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-11-17T07:00:00",
       "category": "Appointment",
       "headline": "Appointment of Joint Broker",
       "url": "https://www.investegate.co.uk/announcement/rns/gelion--geln/appointment-of-joint-broker/9878196",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The appointment of joint brokers signals Gelion's active pursuit of enhanced market liquidity and investor access ahead of potential capital raising activities, reflecting a strategic move to bolster its profile in the competitive UK biotech sector.",
+      "key_themes": [
+        "Capital Markets",
+        "Investor Relations"
+      ]
     },
     {
       "timestamp": "2026-11-11T07:00:00",
       "category": null,
       "headline": "AUKUS approval strengthens defence market access",
       "url": "https://www.investegate.co.uk/announcement/rns/gelion--geln/aukus-approval-strengthens-defence-market-access/9868865",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This announcement highlights Gelion's strategic positioning within the UK defence supply chain, leveraging geopolitical tailwinds from AUKUS to validate its technology transfer capabilities rather than signaling immediate revenue inflection.",
+      "key_themes": [
+        "Geopolitical Tailwinds",
+        "Defence Sector"
+      ]
     },
     {
       "timestamp": "2026-11-03T07:00:00",
       "category": null,
       "headline": "Investor Events",
       "url": "https://www.investegate.co.uk/announcement/rns/gelion--geln/investor-events/9854669",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Investor events are standard engagement tools with no immediate financial impact; Gelion's focus on its proprietary platform and M&A strategy provides visibility but lacks the catalysts required for significant price movement.",
+      "key_themes": [
+        "Investor Relations",
+        "Strategic Communication"
+      ]
     },
     {
       "timestamp": "2026-10-29T07:00:00",
       "category": null,
       "headline": "Issue of Q3 2026 Newsletter",
       "url": "https://www.investegate.co.uk/announcement/rns/gelion--geln/issue-of-q3-2026-newsletter/9846933",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard quarterly newsletter update rather than a material corporate action or financial disclosure, offering no new price-sensitive information for the UK equity market.",
+      "key_themes": [
+        "Investor Relations",
+        "Routine Communication"
+      ]
     },
     {
       "timestamp": "2026-10-23T10:37:00",
       "category": "AGM/EGM",
       "headline": "Posting of Annual Report and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/gelion--geln/posting-of-annual-report-and-notice-of-agm/9838913",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for Gelion's Annual General Meeting, serving as a routine governance checkpoint rather than a catalyst for immediate share price movement.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-10-21T07:00:00",
       "category": "Results",
       "headline": "Final Results",
       "url": "https://www.investegate.co.uk/announcement/rns/gelion--geln/final-results/9832833",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As Gelion transitions from a pure-play biotech to a commercial-stage pharmaceutical company, these final results validate its pivot towards revenue generation and operational maturity, distinguishing it from pre-revenue peers in the volatile UK biotech sector.",
@@ -94,16 +124,22 @@
       "category": null,
       "headline": "Strong Independent U.S. Validation of Gelion's NES",
       "url": "https://www.investegate.co.uk/announcement/rns/gelion--geln/strong-independent-u-s-validation-of-gelion-s-nes/9828289",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This validation significantly de-risks Gelion's proprietary NES technology for the US market, a critical step given the region's stringent regulatory environment and high valuation premiums for proven biotech IP. It serves as a pivotal commercial milestone that could accelerate licensing deals or partnership discussions with major pharma players seeking novel anti-obesity assets.",
+      "key_themes": [
+        "Clinical Validation",
+        "US Market Entry",
+        "Asset De-risking"
+      ]
     },
     {
       "timestamp": "2026-10-12T07:00:00",
       "category": "Results",
       "headline": "Notice of Final Results and Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/gelion--geln/notice-of-final-results-and-investor-presentation/9816839",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As Gelion transitions from a holding company to an operating group with distinct divisions (Gelion Pharma, Gelion Life Sciences, and Gelion Capital), this announcement is critical for establishing the new valuation framework and assessing the strategic clarity of its portfolio companies.",
@@ -117,46 +153,65 @@
       "category": null,
       "headline": "Material Transfer Agreement with Global Auto OEM",
       "url": "https://www.investegate.co.uk/announcement/rns/gelion--geln/material-transfer-agreement-with-global-auto-oem-/9807689",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "Securing a Material Transfer Agreement with a global OEM validates Gelion's proprietary battery technology in the high-stakes automotive sector, signaling potential for significant revenue scaling and de-risking the commercialization path amidst intensifying EV supply chain competition.",
+      "key_themes": [
+        "EV Supply Chain",
+        "Commercial Validation",
+        "Strategic Partnership"
+      ]
     },
     {
       "timestamp": "2026-09-23T07:00:00",
       "category": null,
       "headline": "Patents Update",
       "url": "https://www.investegate.co.uk/announcement/rns/gelion--geln/patents-update/9785654",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As Gelion transitions from a pure-play biotech to a commercial-stage company, routine patent updates serve primarily as defensive IP maintenance rather than value-accretive catalysts, reflecting standard operational diligence in the crowded UK biotech sector.",
+      "key_themes": [
+        "Intellectual Property",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-08-26T07:00:00",
       "category": null,
       "headline": "Successful completion of drone mission testing",
       "url": "https://www.investegate.co.uk/announcement/rns/gelion--geln/successful-completion-of-drone-mission-testing/9739902",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This confirms technical progress in Gelion's drone delivery logistics but represents a minor operational milestone rather than a commercial catalyst, given the nascent state of UK drone infrastructure and lack of immediate revenue visibility.",
+      "key_themes": [
+        "Drone Logistics",
+        "Operational Update"
+      ]
     },
     {
       "timestamp": "2026-08-07T07:30:00",
       "category": null,
       "headline": "Funded development and scale-up agreement",
       "url": "https://www.investegate.co.uk/announcement/rns/gelion--geln/funded-development-and-scale-up-agreement-/9710437",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This agreement signals Gelion's transition from pure R&D to commercial scale-up, validating its platform technology with a funded partner and reducing execution risk for the next growth phase.",
+      "key_themes": [
+        "Commercialisation",
+        "Partnership",
+        "Scale-up"
+      ]
     },
     {
       "timestamp": "2026-07-27T07:37:00",
       "category": null,
       "headline": "Block Admission Return",
       "url": "https://www.investegate.co.uk/announcement/rns/gelion--geln/block-admission-return/9688423",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -167,60 +222,85 @@
       "category": null,
       "headline": "Issue of Q2 Newsletter",
       "url": "https://www.investegate.co.uk/announcement/rns/gelion--geln/issue-of-q2-newsletter/9664261",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations update with no material financial or operational disclosure; Gelion's current valuation is driven by clinical trial milestones and partnership developments rather than periodic newsletters.",
+      "key_themes": [
+        "Investor Relations",
+        "Biotech"
+      ]
     },
     {
       "timestamp": "2026-06-30T07:01:00",
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/gelion--geln/directorate-change/9643176",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board-level restructuring common in UK AIM biotech firms to enhance governance; lacks immediate catalyst for valuation re-rating without accompanying clinical or commercial milestones.",
+      "key_themes": [
+        "Corporate Governance",
+        "AIM Biotech"
+      ]
     },
     {
       "timestamp": "2026-06-30T07:00:00",
       "category": null,
       "headline": "US market entry and Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/gelion--geln/us-market-entry-and-investor-presentation/9643059",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Gelion's entry into the US market signals a critical strategic pivot to diversify revenue streams beyond its traditional UK/European base, addressing investor concerns over geographic concentration and growth ceilings in a mature biotech sector.",
+      "key_themes": [
+        "Geographic Expansion",
+        "Growth Strategy"
+      ]
     },
     {
       "timestamp": "2026-06-16T07:00:00",
       "category": null,
       "headline": "Exclusive Licence Agreement",
       "url": "https://www.investegate.co.uk/announcement/rns/gelion--geln/exclusive-licence-agreement-/9619659",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "While exclusive licensing deals can provide non-dilutive funding for Gelion's oncology pipeline, they are routine commercial milestones rather than transformative events; market reaction will depend heavily on undisclosed financial terms and the specific asset's development stage.",
+      "key_themes": [
+        "commercialisation",
+        "biotech financing"
+      ]
     },
     {
       "timestamp": "2026-06-04T12:53:00",
       "category": null,
       "headline": "Publication of Research Report",
       "url": "https://www.investegate.co.uk/announcement/rns/gelion--geln/publication-of-research-report/9602311",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Publication of a research report is an informational event rather than a corporate action, typically reflecting analyst coverage or third-party analysis without immediate fundamental impact on Gelion's balance sheet or operations.",
+      "key_themes": [
+        "analyst_coverage",
+        "informational"
+      ]
     },
     {
       "timestamp": "2026-06-02T07:00:00",
       "category": null,
       "headline": "Nissan Project, Grant Award, Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/gelion--geln/nissan-project-grant-award-investor-presentation/9596031",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The Nissan project grant validates Gelion's niche in battery recycling infrastructure, providing tangible revenue visibility and de-risking the commercialisation of their technology ahead of the EV supply chain boom.",
+      "key_themes": [
+        "EV Supply Chain",
+        "Government Grants",
+        "Battery Recycling"
+      ]
     }
   ]
 }

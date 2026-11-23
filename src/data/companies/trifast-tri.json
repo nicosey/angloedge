@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Capital Reduction Effective",
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/capital-reduction-effective/9884622",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement confirms the legal completion of a capital reduction, likely facilitating a return of excess cash to shareholders or simplifying the share structure; it is an administrative milestone rather than a strategic pivot.",
+      "key_themes": [
+        "capital management",
+        "shareholder returns"
+      ]
     },
     {
       "timestamp": "2026-11-19T12:31:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/holding-s-in-company/9884531",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/director-pdmr-shareholding/9884371",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements for Trifast typically reflect standard liquidity events rather than strategic shifts, offering no immediate signal of insider conviction or divergence in a sector currently focused on supply chain resilience and automation.",
@@ -43,6 +49,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/holding-s-in-company/9843980",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,6 +60,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/director-pdmr-shareholding/9825311",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements typically signal low immediate market impact unless accompanied by significant volume or unusual timing relative to price action; without specific transaction details in the headline, this remains an administrative disclosure rather than a strategic signal.",
@@ -66,46 +74,63 @@
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/result-of-general-meeting/9822982",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at Trifast's AGM/EGM, typically covering routine matters like director reappointments or fee approvals rather than strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-09-25T16:00:00",
       "category": null,
       "headline": "Capital Reduction, Circular and Notice of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/capital-reduction-circular-and-notice-of-gm/9792376",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Capital reductions in the UK are typically executed to return excess cash to shareholders or clean up the balance sheet by writing off accumulated losses, often signaling a mature, cash-generative business rather than aggressive growth. For Trifast, this suggests a focus on capital efficiency and potentially enhancing EPS, though it lacks the transformative upside of M&A.",
+      "key_themes": [
+        "Capital Return",
+        "Balance Sheet Optimization"
+      ]
     },
     {
       "timestamp": "2026-09-08T13:49:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/result-of-agm/9761365",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which typically involves routine ratification of director reappointments and auditor appointments without material strategic shifts or capital allocation changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-08-27T15:00:00",
       "category": "Dividend",
       "headline": "Confirmation of final dividend timetable",
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/confirmation-of-final-dividend-timetable/9744061",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update confirming the payment schedule for an already-declared dividend, offering no new strategic direction or financial data to alter market sentiment.",
+      "key_themes": [
+        "Corporate Action",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-08-27T09:50:00",
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/director-declaration/9743343",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -116,6 +141,7 @@
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/director-declaration/9694723",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -126,6 +152,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/holding-s-in-company/9654244",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -136,6 +163,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/director-pdmr-shareholding/9654179",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on share price momentum or valuation metrics for Trifast.",
@@ -149,6 +177,7 @@
       "category": "Results",
       "headline": "Final Results",
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/final-results/9648414",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a high-beta component of the FTSE 250, Trifast's final results serve as a critical barometer for global manufacturing and automotive supply chain health; any deviation in margin or order book visibility will likely trigger immediate repricing relative to peers like Cooper Standard or GKN.",
@@ -163,6 +192,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/holding-s-in-company/9639111",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -173,16 +203,21 @@
       "category": null,
       "headline": "Change of Adviser",
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/change-of-adviser/9612465",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the appointment of a new corporate broker, common for small-cap firms seeking better liquidity or market coverage rather than indicating a fundamental shift in strategy.",
+      "key_themes": [
+        "Corporate Governance",
+        "Broker Appointment"
+      ]
     },
     {
       "timestamp": "2026-06-03T07:46:00",
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/director-declaration/9599186",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,

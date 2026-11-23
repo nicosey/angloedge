@@ -10,6 +10,7 @@
       "category": "Acquisition",
       "headline": "Scheme of Arrangement becomes Effective",
       "url": "https://www.investegate.co.uk/announcement/rns/zinnwald-lithium--znwd/scheme-of-arrangement-becomes-effective/9688886",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 8,
       "insight": "The effective scheme marks the completion of Zinnwald Lithium's acquisition by European Metals Holdings, a transformative consolidation in the European battery metals sector that eliminates ZNWD as an independent entity and finalizes a key strategic merger for EMH.",
@@ -24,16 +25,22 @@
       "category": null,
       "headline": "Suspension - Zinnwald Lithium plc",
       "url": "https://www.investegate.co.uk/announcement/rns/zinnwald-lithium--znwd/suspension-zinnwald-lithium-plc/9688414",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Suspension of a junior explorer like Zinnwald Lithium typically signals severe liquidity constraints, potential insolvency, or the imminent collapse of a critical transaction, reflecting the broader capital winter facing UK-listed mining juniors. This event carries high risk of permanent capital loss for shareholders and often precedes a forced delisting or dilutive rescue financing.",
+      "key_themes": [
+        "liquidity crisis",
+        "junior miner distress",
+        "capital market access failure"
+      ]
     },
     {
       "timestamp": "2026-07-24T09:00:00",
       "category": null,
       "headline": "Form 8(DD)- Zinnwald Lithium (Osman Cherif Rifaat)",
       "url": "https://www.investegate.co.uk/announcement/rns/zinnwald-lithium--znwd/form-8-dd-zinnwald-lithium-osman-cherif-rifaat-/9686222",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -44,6 +51,7 @@
       "category": null,
       "headline": "Form 8(DD)-Zinnwald Lithium plc (Anton du Plessis)",
       "url": "https://www.investegate.co.uk/announcement/rns/zinnwald-lithium--znwd/form-8-dd-zinnwald-lithium-plc-anton-du-plessis-/9686221",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -54,6 +62,7 @@
       "category": null,
       "headline": "Court Sanction, TVR & Rule 2.9 Disclosure",
       "url": "https://www.investegate.co.uk/announcement/rns/zinnwald-lithium--znwd/court-sanction-tvr-rule-2-9-disclosure/9684850",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -64,26 +73,35 @@
       "category": "AGM/EGM",
       "headline": "Results of Court Meeting and General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/zinnwald-lithium--znwd/results-of-court-meeting-and-general-meeting/9666149",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms the procedural ratification of prior capital raising terms rather than signaling new strategic direction or funding; for ZNWD, the critical market driver remains the execution of the Jadar project in Serbia amid ongoing geopolitical and regulatory hurdles.",
+      "key_themes": [
+        "Corporate Governance",
+        "Procedural Confirmation"
+      ]
     },
     {
       "timestamp": "2026-06-10T12:02:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/zinnwald-lithium--znwd/result-of-agm/9611687",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard procedural filing confirming shareholder approval for routine governance matters, offering no new strategic direction or financial catalysts amidst the broader sector's focus on capital efficiency and project financing.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-05-29T11:45:00",
       "category": null,
       "headline": "Form 8 (OPD) - Zinnwald Lithium PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/zinnwald-lithium--znwd/form-8-opd-zinnwald-lithium-plc/9592420",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -94,6 +112,7 @@
       "category": null,
       "headline": "Form 8 (OPD) Zinnwald Lithium plc",
       "url": "https://www.investegate.co.uk/announcement/rns/zinnwald-lithium--znwd/form-8-opd-zinnwald-lithium-plc/9590077",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,

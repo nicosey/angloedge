@@ -10,6 +10,7 @@
       "category": null,
       "headline": "TR-1 Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/atalaya-mining--atym/tr-1-notification-of-major-holdings/9887353",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/atalaya-mining--atym/director-declaration-/9886840",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,16 +32,22 @@
       "category": "Acquisition",
       "headline": "Atalaya Acquires Tharsis Mining",
       "url": "https://www.investegate.co.uk/announcement/rns/atalaya-mining--atym/atalaya-acquires-tharsis-mining-/9870287",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "This acquisition marks a pivotal strategic pivot for Atalaya from its traditional Iberian base into the critical copper and gold sectors via Tharsis's assets, significantly altering its portfolio risk profile and growth trajectory in line with global electrification demand.",
+      "key_themes": [
+        "Strategic Pivot",
+        "Copper Acquisition",
+        "Portfolio Diversification"
+      ]
     },
     {
       "timestamp": "2026-10-28T08:26:00",
       "category": "Results",
       "headline": "Notice of Q3 and YTD 2026 Financial Results",
       "url": "https://www.investegate.co.uk/announcement/rns/atalaya-mining--atym/notice-of-q3-and-ytd-2026-financial-results-/9845637",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a junior miner with high leverage to copper prices, ATYM's Q3 results will be scrutinized for operational efficiency and cash flow resilience amidst volatile base metal markets; any deviation from consensus guidance could trigger significant volatility given the stock's beta.",
@@ -53,16 +61,21 @@
       "category": null,
       "headline": "Touro Declared Strategic Project",
       "url": "https://www.investegate.co.uk/announcement/rns/atalaya-mining--atym/touro-declared-strategic-project-/9816840",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Elevating Touro to a strategic project signals management's intent to accelerate capital allocation towards higher-margin assets, likely enhancing long-term valuation multiples despite near-term execution risks in the copper sector.",
+      "key_themes": [
+        "Strategic Repositioning",
+        "Copper Exposure"
+      ]
     },
     {
       "timestamp": "2026-09-28T11:51:00",
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/atalaya-mining--atym/director-declaration/9794295",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,6 +86,7 @@
       "category": null,
       "headline": "TR-1",
       "url": "https://www.investegate.co.uk/announcement/rns/atalaya-mining--atym/tr-1/9723837",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,6 +97,7 @@
       "category": "Results",
       "headline": "Results secondary placing Atalaya Mining Copper SA",
       "url": "https://www.investegate.co.uk/announcement/rns/atalaya-mining--atym/results-secondary-placing-atalaya-mining-copper-sa/9716728",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "The secondary placing indicates institutional confidence in Atalaya's transition to a pure-play copper producer following the sale of its Spanish assets, providing essential liquidity for its strategic pivot and dividend policy without significant dilution concerns.",
@@ -97,6 +112,7 @@
       "category": "Placing",
       "headline": "Secondary placing in Atalaya Mining Copper SA",
       "url": "https://www.investegate.co.uk/announcement/rns/atalaya-mining--atym/secondary-placing-in-atalaya-mining-copper-sa/9716512",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "This secondary placing indicates institutional investors are reducing exposure to Atalaya Mining, likely reflecting broader caution regarding copper price volatility and operational risks in Spain. Such dilutive actions often signal a lack of confidence in near-term upside or a need for the company to manage its balance sheet amid market uncertainty.",
@@ -111,6 +127,7 @@
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/atalaya-mining--atym/director-declaration/9694423",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -121,6 +138,7 @@
       "category": "Results",
       "headline": "Notice of Q2 and H1 2026 Financial Results",
       "url": "https://www.investegate.co.uk/announcement/rns/atalaya-mining--atym/notice-of-q2-and-h1-2026-financial-results/9689956",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a mid-cap miner with high leverage to copper prices, the H1 2026 results will be scrutinized for margin resilience against rising energy and input costs; any deviation from consensus guidance could trigger significant volatility given the sector's current focus on capital discipline.",
@@ -134,26 +152,35 @@
       "category": null,
       "headline": "Correction re: Q2 2026 Operations Update",
       "url": "https://www.investegate.co.uk/announcement/rns/atalaya-mining--atym/correction-re-q2-2026-operations-update/9680461",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Administrative correction of a previous operational update suggests minor data adjustment rather than fundamental performance shift; lacks the materiality to alter valuation models for this junior miner.",
+      "key_themes": [
+        "Corporate Governance",
+        "Data Accuracy"
+      ]
     },
     {
       "timestamp": "2026-07-14T07:00:00",
       "category": null,
       "headline": "Q2 2026 Operations Update",
       "url": "https://www.investegate.co.uk/announcement/rns/atalaya-mining--atym/q2-2026-operations-update-/9666655",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a junior miner with high leverage to copper prices, operational updates are critical for validating production guidance and cost discipline in an inflationary environment; this update serves as a key sentiment indicator for the base metals sector.",
+      "key_themes": [
+        "operational efficiency",
+        "commodity exposure"
+      ]
     },
     {
       "timestamp": "2026-06-25T14:21:00",
       "category": "Results",
       "headline": "AGM 2026 – Voting Results",
       "url": "https://www.investegate.co.uk/announcement/rns/atalaya-mining--atym/agm-2026-voting-results-/9637422",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which carries no direct financial impact on Atalaya Mining's valuation or operational trajectory.",
@@ -167,10 +194,14 @@
       "category": "Dividend",
       "headline": "2025 Final Dividend Timetable",
       "url": "https://www.investegate.co.uk/announcement/rns/atalaya-mining--atym/2025-final-dividend-timetable/9637421",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative timetable for the final dividend payment, lacking any substantive signal regarding capital allocation strategy or underlying asset performance in the current base metals cycle.",
+      "key_themes": [
+        "Corporate Action",
+        "Routine Disclosure"
+      ]
     }
   ]
 }

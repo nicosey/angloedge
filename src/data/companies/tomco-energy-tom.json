@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/tomco-energy--tom/holding-s-in-company/9877624",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/tomco-energy--tom/holding-s-in-company/9858169",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/tomco-energy--tom/holding-s-in-company/9850944",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +43,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/tomco-energy--tom/holding-s-in-company/9848962",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +54,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/tomco-energy--tom/holding-s-in-company/9817960",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +65,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/tomco-energy--tom/holding-s-in-company/9817958",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,30 +76,42 @@
       "category": null,
       "headline": "Update re: Valkor, drilling plans and Greenfield",
       "url": "https://www.investegate.co.uk/announcement/rns/tomco-energy--tom/update-re-valkor-drilling-plans-and-greenfield/9789000",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The update on Valkor drilling plans signals a critical execution phase for Tomco's primary asset, reducing exploration uncertainty but highlighting the high-risk nature of junior energy equities in the current capital-constrained environment.",
+      "key_themes": [
+        "Exploration Update",
+        "Asset Development"
+      ]
     },
     {
       "timestamp": "2026-06-30T18:00:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/tomco-energy--tom/result-of-agm/9645434",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital raises.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-05-29T08:26:00",
       "category": "Appointment",
       "headline": "Director Appointment and Options Grant",
       "url": "https://www.investegate.co.uk/announcement/rns/tomco-energy--tom/director-appointment-and-options-grant/9591814",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine administrative update regarding board composition and equity incentives; lacks the transformative catalysts like major M&A or capital raises required to move TOM's valuation significantly in the current speculative energy sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Compensation"
+      ]
     }
   ]
 }

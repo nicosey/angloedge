@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/krm22--krm/holding-s-in-company/9797273",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/krm22--krm/director-pdmr-shareholding/9734203",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of insider shareholding changes which lacks the materiality to influence valuation; without context on volume or price, this is routine administrative noise rather than a signal of strategic intent.",
@@ -33,6 +35,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/krm22--krm/director-pdmr-shareholding/9731992",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of insider transactions with no inherent market-moving significance; without volume or price context, it indicates routine compliance rather than strategic conviction or divergence.",
@@ -46,16 +49,21 @@
       "category": "Director Dealing",
       "headline": "Director Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/krm22--krm/director-dealings/9704348",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible signal value for institutional investors compared to aggregate insider net buying/selling trends.",
+      "key_themes": [
+        "regulatory_compliance",
+        "low_signal"
+      ]
     },
     {
       "timestamp": "2026-07-14T16:13:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/krm22--krm/holding-s-in-company/9668672",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -66,36 +74,49 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/krm22--krm/result-of-agm/9623746",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no inherent financial impact or strategic shift for KRM.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-06-12T07:00:00",
       "category": "Director Dealing",
       "headline": "Director Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/krm22--krm/director-dealings/9614719",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealings typically signal minimal immediate market impact unless accompanied by unusual volume or timing relative to price movements; without specific transaction details in the headline, this is classified as administrative noise rather than a strategic signal.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
     },
     {
       "timestamp": "2026-06-11T07:00:00",
       "category": null,
       "headline": "Issue of RSU's and Grant of Options",
       "url": "https://www.investegate.co.uk/announcement/rns/krm22--krm/issue-of-rsu-s-and-grant-of-options-/9612443",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Standard equity incentive issuance typical for talent retention in the competitive UK tech sector; lacks transformative capital raising or M&A activity to drive immediate valuation re-rating.",
+      "key_themes": [
+        "executive_compensation",
+        "equity_incentives"
+      ]
     },
     {
       "timestamp": "2026-05-26T15:24:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/krm22--krm/holding-s-in-company/9586178",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -106,6 +127,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/krm22--krm/holding-s-in-company/9586078",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

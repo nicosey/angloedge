@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/prn/manchester-london-investment-trust--mnl/director-declaration/9868206",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,26 +21,35 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/prn/manchester-london-investment-trust--mnl/result-of-agm/9858651",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting; absent specific details on significant shareholder resolutions or capital changes in the headline, it carries no immediate market-moving weight for MNL.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-09-23T17:59:00",
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/prn/manchester-london-investment-trust--mnl/annual-financial-report/9787834",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a standard annual report for an investment trust, this is routine disclosure rather than a market-moving event; however, it provides the necessary data to assess NAV performance and discount trends in the current volatile UK equity environment.",
+      "key_themes": [
+        "Annual Results",
+        "Investment Trust"
+      ]
     },
     {
       "timestamp": "2026-09-16T16:02:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding clarification - ce...",
       "url": "https://www.investegate.co.uk/announcement/prn/manchester-london-investment-trust--mnl/director-pdmr-shareholding-clarification-ce-/9776002",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions, likely reflecting routine portfolio rebalancing rather than a signal of institutional conviction or divergence. In the current UK investment trust sector, such minor administrative filings rarely move share prices unless accompanied by significant volume or context regarding insider sentiment shifts.",

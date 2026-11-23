@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Publication of a Prospectus",
       "url": "https://www.investegate.co.uk/announcement/prn/anglian-water-osprey-financing-plc--11js/publication-of-a-prospectus/9820894",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard regulatory filing for the Anglian Water consortium's refinancing, reflecting routine capital structure maintenance rather than a transformative event in the UK water sector.",
+      "key_themes": [
+        "Regulatory Filing",
+        "Debt Refinancing"
+      ]
     },
     {
       "timestamp": "2026-06-29T14:59:00",
       "category": null,
       "headline": "Publication of a Supplementary Prospectus",
       "url": "https://www.investegate.co.uk/announcement/prn/anglian-water-osprey-financing-plc--11js/publication-of-a-supplementary-prospectus/9642584",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,10 +35,14 @@
       "category": null,
       "headline": "Anglian Water confirms final £200m tranche of £500m equity injection",
       "url": "https://www.investegate.co.uk/announcement/prn/anglian-water-osprey-financing-plc--11js/anglian-water-confirms-final-200m-tranche-of-/9595337",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Completion of the final equity tranche signals successful capital raising to meet regulatory solvency requirements amid ongoing Ofwat scrutiny, reducing immediate refinancing risk but highlighting the sector's persistent balance sheet fragility.",
+      "key_themes": [
+        "Regulatory Capital",
+        "Water Sector Solvency"
+      ]
     }
   ]
 }

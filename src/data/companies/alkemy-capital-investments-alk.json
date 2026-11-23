@@ -10,26 +10,35 @@
       "category": null,
       "headline": "Glencore increases to 100% TVL Offtake",
       "url": "https://www.investegate.co.uk/announcement/rns/alkemy-capital-investments--alk/glencore-increases-to-100-tvl-offtake/9882983",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This headline refers to Glencore's acquisition of TVL (a copper mine in Zambia), not Alkemy Capital Investments; therefore, the announcement has zero direct financial impact on ALK. It is likely a data ingestion error or irrelevant noise for this specific equity.",
+      "key_themes": [
+        "irrelevant",
+        "data_error"
+      ]
     },
     {
       "timestamp": "2026-11-03T12:18:00",
       "category": null,
       "headline": "Loan Conversion",
       "url": "https://www.investegate.co.uk/announcement/rns/alkemy-capital-investments--alk/loan-conversion-/9856091",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Loan conversions are standard balance sheet hygiene for investment trusts like Alkemy, typically executed to reduce leverage costs and strengthen the net asset value without diluting shareholders; this is a routine capital structure adjustment rather than a strategic pivot.",
+      "key_themes": [
+        "deleveraging",
+        "balance sheet optimization"
+      ]
     },
     {
       "timestamp": "2026-10-14T07:00:00",
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/alkemy-capital-investments--alk/interim-results/9821318",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a small-cap investment trust, Alkemy's interim results provide critical visibility into its net asset value trajectory and liquidity position within the volatile private equity and venture capital sector, directly influencing investor sentiment on its discount/premium dynamics.",
@@ -44,86 +53,119 @@
       "category": null,
       "headline": "TVL to Establish Qualification & Validation Centre",
       "url": "https://www.investegate.co.uk/announcement/rns/alkemy-capital-investments--alk/tvl-to-establish-qualification-validation-centre/9819248",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement reflects a standard operational milestone for a Special Purpose Acquisition Company (SPAC) seeking to satisfy regulatory listing requirements rather than indicating immediate commercial traction or revenue generation.",
+      "key_themes": [
+        "SPAC",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-09-29T07:00:00",
       "category": null,
       "headline": "Glencore visits TVL site at Billingham",
       "url": "https://www.investegate.co.uk/announcement/rns/alkemy-capital-investments--alk/glencore-visits-tvl-site-at-billingham/9795288",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard operational update regarding site access rather than a material corporate event; Alkemy Capital's primary exposure to Billingham is indirect via its holding in Tata Steel, making this news irrelevant to ALK's immediate valuation.",
+      "key_themes": [
+        "Operational Update",
+        "Indirect Exposure"
+      ]
     },
     {
       "timestamp": "2026-09-17T07:00:00",
       "category": null,
       "headline": "TVL Secures £18.3m UK Government Support",
       "url": "https://www.investegate.co.uk/announcement/rns/alkemy-capital-investments--alk/tvl-secures-18-3m-uk-government-support/9776303",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The headline refers to TVL (likely a portfolio company or typo for a different entity) rather than Alkemy Capital Investments itself; as an investment trust, ALK's share price is driven by NAV movements and dividend policy, not direct government grants to underlying assets unless material to the portfolio valuation.",
+      "key_themes": [
+        "Corporate Confusion",
+        "Portfolio Company News"
+      ]
     },
     {
       "timestamp": "2026-09-02T08:59:00",
       "category": null,
       "headline": "Loan Conversion",
       "url": "https://www.investegate.co.uk/announcement/rns/alkemy-capital-investments--alk/loan-conversion/9751510",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Loan conversions are standard balance sheet hygiene for private equity-backed firms like Alkemy, typically executed to reduce interest costs and improve leverage ratios rather than signaling new growth capital or strategic shifts.",
+      "key_themes": [
+        "balance_sheet_optimisation",
+        "debt_management"
+      ]
     },
     {
       "timestamp": "2026-08-11T09:32:00",
       "category": null,
       "headline": "Loan Conversion",
       "url": "https://www.investegate.co.uk/announcement/rns/alkemy-capital-investments--alk/loan-conversion/9715513",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Loan conversions are standard balance sheet hygiene for investment trusts like Alkemy, typically executed to reduce interest costs and improve gearing ratios rather than signaling strategic shifts or value creation.",
+      "key_themes": [
+        "balance_sheet_management",
+        "gearing_reduction"
+      ]
     },
     {
       "timestamp": "2026-07-08T14:20:00",
       "category": null,
       "headline": "TVL and E3 Lithium Refining Partnership",
       "url": "https://www.investegate.co.uk/announcement/rns/alkemy-capital-investments--alk/tvl-and-e3-lithium-refining-partnership/9659171",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This partnership signals a strategic pivot into the EV battery supply chain, aligning with UK government industrial strategy, but as a capital-light JV it poses minimal immediate earnings impact for Alkemy.",
+      "key_themes": [
+        "EV Supply Chain",
+        "Strategic Partnership"
+      ]
     },
     {
       "timestamp": "2026-07-03T14:11:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/alkemy-capital-investments--alk/result-of-agm/9652509",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no intrinsic valuation impact for Alkemy Capital Investments beyond routine corporate governance compliance.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-15T07:01:00",
       "category": null,
       "headline": "Tees Valley Lithium: Publication of Impact Report",
       "url": "https://www.investegate.co.uk/announcement/rns/alkemy-capital-investments--alk/tees-valley-lithium-publication-of-impact-report/9617346",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Publication of an impact report for a project-stage asset like Tees Valley Lithium is primarily a PR exercise to maintain investor interest rather than a value-accretive event; without accompanying financial metrics or development milestones, it lacks immediate catalyst potential in the current capital-constrained junior mining sector.",
+      "key_themes": [
+        "ESG Reporting",
+        "Project Update"
+      ]
     },
     {
       "timestamp": "2026-06-15T07:00:00",
       "category": null,
       "headline": "Issue of Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/alkemy-capital-investments--alk/issue-of-shares/9617105",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -134,6 +176,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/alkemy-capital-investments--alk/notice-of-agm/9610077",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,

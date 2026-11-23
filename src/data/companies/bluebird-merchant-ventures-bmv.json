@@ -2,14 +2,26 @@
   "name": "Bluebird Merchant Ventures (DI)",
   "ticker": "BMV",
   "slug": "bluebird-merchant-ventures-bmv",
-  "announcement_count": 23,
-  "latest_announcement": "2026-11-20T08:02:00",
+  "announcement_count": 24,
+  "latest_announcement": "2026-11-23T13:44:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T13:44:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/transaction-in-own-shares/9889375",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T08:02:00",
       "category": "AGM/EGM",
       "headline": "Notice of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/notice-of-annual-general-meeting/9886093",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +32,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/transaction-in-own-shares/9877955",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +43,7 @@
       "category": "Director Dealing",
       "headline": "PCA / PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/pca-pdmr-shareholding/9873251",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of insider shareholding changes with no inherent market-moving catalyst; without volume or price context, it remains an administrative filing rather than a signal of strategic intent.",
@@ -43,6 +57,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/transaction-in-own-shares/9865364",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,16 +68,21 @@
       "category": null,
       "headline": "Reminder re. Investor Webinar",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/reminder-re-investor-webinar/9860543",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative reminder for an investor webinar, indicating no immediate material developments or urgent catalysts. Such communications are routine engagement tools with negligible direct impact on share price volatility or valuation.",
+      "key_themes": [
+        "Investor Relations",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-11-03T17:05:00",
       "category": null,
       "headline": "Transactions in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/transactions-in-own-shares/9856663",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,6 +93,7 @@
       "category": "Share Buyback",
       "headline": "Share Buyback Programme",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/share-buyback-programme/9828291",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine share buybacks by small-cap investment trusts like BMV are typically administrative capital management tools rather than transformative events, offering limited immediate value uplift unless executed at a significant discount to NAV.",
@@ -86,16 +107,21 @@
       "category": null,
       "headline": "Project El Alamo Moves into Execution",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/project-el-alamo-moves-into-execution/9807693",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Execution phase announcements for small-cap mining ventures like Bluebird Merchant Ventures typically signal operational progress but carry high technical and financing risks without immediate revenue visibility. The market generally views such updates as routine milestones rather than transformative events unless accompanied by a significant capital raise or offtake agreement.",
+      "key_themes": [
+        "Project Execution",
+        "Small Cap Mining"
+      ]
     },
     {
       "timestamp": "2026-09-29T07:00:00",
       "category": null,
       "headline": "Holdings in Company - TR-1s and PCA",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/holdings-in-company-tr-1s-and-pca/9795263",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -106,6 +132,7 @@
       "category": null,
       "headline": "Admission of Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/admission-of-shares/9792118",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -116,16 +143,21 @@
       "category": "Director Dealing",
       "headline": "Share Issuance, Debt Conversion, TR-1s and PDMRs",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/share-issuance-debt-conversion-tr-1s-and-pdmrs-/9778569",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement reflects standard regulatory compliance for PDMRs and routine administrative capital actions rather than a strategic shift or material value event.",
+      "key_themes": [
+        "Regulatory Compliance",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-09-11T07:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/holding-s-in-company/9766686",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -136,16 +168,21 @@
       "category": null,
       "headline": "BMV Secures Option on Santa Teresa Gold Project",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/bmv-secures-option-on-santa-teresa-gold-project/9757557",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Securing an option is a standard early-stage exploration step that carries minimal immediate financial impact; value realization depends entirely on subsequent drilling results and resource definition rather than the option agreement itself.",
+      "key_themes": [
+        "Exploration",
+        "Option Agreement"
+      ]
     },
     {
       "timestamp": "2026-09-04T07:00:00",
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/interim-results/9755150",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap AIM vehicle with limited operational scale, interim results primarily serve as a liquidity and governance check rather than a fundamental catalyst; however, any deviation in cash burn or net asset value per share will disproportionately impact the stock's valuation due to its illiquid nature.",
@@ -159,6 +196,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/holding-s-in-company/9737685",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -169,6 +207,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/holding-s-in-company/9725008",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -179,16 +218,21 @@
       "category": null,
       "headline": "July 2026 Operational Update",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/july-2026-operational-update/9712171",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a DI (De-invoicing/Shell) entity, operational updates are typically devoid of fundamental value drivers unless they signal a change in investment strategy or asset disposal; this likely represents routine administrative reporting with negligible market impact.",
+      "key_themes": [
+        "Corporate Governance",
+        "Low Liquidity"
+      ]
     },
     {
       "timestamp": "2026-07-09T14:10:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/holding-s-in-company/9661554",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -199,6 +243,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/holding-s-in-company/9661286",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -209,6 +254,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/holding-s-in-company/9652295",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -219,6 +265,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/holding-s-in-company/9635270",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -229,6 +276,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/holding-s-in-company/9632603",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -239,10 +287,14 @@
       "category": null,
       "headline": "Strategic Streaming, Treasury and Asset Update",
       "url": "https://www.investegate.co.uk/announcement/rns/bluebird-merchant-ventures-di---bmv/strategic-streaming-treasury-and-asset-update-/9603043",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The announcement pertains to a dormant shell company with no active operations, rendering the update on streaming and treasury purely administrative for a vehicle likely in liquidation or dormant status.",
+      "key_themes": [
+        "Shell Company",
+        "Administrative Update"
+      ]
     }
   ]
 }

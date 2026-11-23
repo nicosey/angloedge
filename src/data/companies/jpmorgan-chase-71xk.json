@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-chase-co--71xk/holding-s-in-company/9848824",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-chase-co--71xk/holding-s-in-company/9848055",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,16 +32,21 @@
       "category": null,
       "headline": "JPMC&Co. 8-K Oct 13, 2026 (3Q2026 presentation)",
       "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-chase-co--71xk/jpmc-co-8-k-oct-13-2026-3q2026-presentation-/9821012",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard regulatory filing for a US-listed multinational with no direct listing on the UK market; it holds zero material impact on UK equity valuations or trading dynamics.",
+      "key_themes": [
+        "US Market",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-10-13T12:07:00",
       "category": "Results",
       "headline": "JPMC&Co. 8-K 3Q2026 earnings release (13 Oct 2026)",
       "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-chase-co--71xk/jpmc-co-8-k-3q2026-earnings-release-13-oct-2026-/9820617",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a US-listed entity, this filing has zero direct impact on UK equity valuations or liquidity; it serves only as a macro indicator for global financial sector sentiment and cross-border capital flows.",
@@ -53,16 +60,21 @@
       "category": null,
       "headline": "JPMC&Co. 2Q 2026 Form 10-Q",
       "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-chase-co--71xk/jpmc-co-2q-2026-form-10-q/9709609",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a US-listed entity, this filing has no direct regulatory impact on UK equity markets; however, it provides critical benchmarking data for the global banking sector's credit quality and net interest margin trends ahead of Q3 earnings season.",
+      "key_themes": [
+        "Global Banking",
+        "Earnings Benchmark"
+      ]
     },
     {
       "timestamp": "2026-08-06T13:34:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-chase-co--71xk/holding-s-in-company/9709135",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,16 +85,21 @@
       "category": null,
       "headline": "8-K dated July 14, 2026 (2Q2026 presentation)",
       "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-chase-co--71xk/8-k-dated-july-14-2026-2q2026-presentation-/9668642",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing for a US-listed multinational, carrying zero direct pricing impact on UK equities due to currency and jurisdictional separation.",
+      "key_themes": [
+        "US Banking",
+        "Regulatory Filing"
+      ]
     },
     {
       "timestamp": "2026-07-14T12:25:00",
       "category": "Results",
       "headline": "JPMC&Co. 8-K 2Q2026 earnings release 14 July 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-chase-co--71xk/jpmc-co-8-k-2q2026-earnings-release-14-july-2026/9668183",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a US-listed entity, this filing has zero direct impact on UK equity markets; however, it serves as a critical sentiment indicator for the global financial sector and potential cross-border M&A activity.",

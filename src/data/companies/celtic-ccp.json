@@ -10,6 +10,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of General Meeting & Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/celtic--ccp/notice-of-general-meeting-annual-general-meeting/9863431",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,21 @@
       "category": null,
       "headline": "Issued Share Capital",
       "url": "https://www.investegate.co.uk/announcement/rns/celtic--ccp/issued-share-capital/9787710",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the current issued share capital structure, likely triggered by routine corporate actions rather than strategic shifts. Without accompanying details on new issuances or buybacks, it holds no immediate investment significance for Celtic Partners.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-22T18:00:00",
       "category": "Results",
       "headline": "Results for the year ended 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/celtic--ccp/results-for-the-year-ended-30-june-2026/9785489",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a small-cap AIM-listed entity with limited liquidity, the release of full-year results for June 2026 serves as a critical sentiment gauge for its niche sector, likely impacting institutional interest more than broad market indices.",
@@ -43,50 +49,70 @@
       "category": "Appointment",
       "headline": "Directorate Appointments",
       "url": "https://www.investegate.co.uk/announcement/rns/celtic--ccp/directorate-appointments/9779593",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board-level personnel changes in the small-cap infrastructure sector typically signal operational continuity rather than strategic pivot; without details on the appointees' specific mandates or track record, this lacks the catalyst potential for significant re-rating.",
+      "key_themes": [
+        "Corporate Governance",
+        "Small Cap"
+      ]
     },
     {
       "timestamp": "2026-08-28T16:41:00",
       "category": null,
       "headline": "Issued Share Capital - Replacement",
       "url": "https://www.investegate.co.uk/announcement/rns/celtic--ccp/issued-share-capital-replacement/9746463",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the replacement of share certificates, likely triggered by the transition to CREST dematerialisation or routine corporate housekeeping rather than any substantive change in capital structure or ownership.",
+      "key_themes": [
+        "Administrative",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-08-28T15:35:00",
       "category": null,
       "headline": "Issued Share Capital",
       "url": "https://www.investegate.co.uk/announcement/rns/celtic--ccp/issued-share-capital/9746417",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the current issued share capital structure, likely following a previous corporate action or routine update. It carries no immediate investment signal or strategic implication for Celtic Partners.",
+      "key_themes": [
+        "administrative",
+        "corporate_governance"
+      ]
     },
     {
       "timestamp": "2026-07-31T07:00:00",
       "category": "Dividend",
       "headline": "Scrip Dividend Price",
       "url": "https://www.investegate.co.uk/announcement/rns/celtic--ccp/scrip-dividend-price/9697101",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative announcement setting the price for the Celtic Commodity Partners scrip dividend option, which has negligible fundamental impact on valuation or liquidity.",
+      "key_themes": [
+        "Corporate Action",
+        "Dividend"
+      ]
     },
     {
       "timestamp": "2026-06-11T12:00:00",
       "category": "Appointment",
       "headline": "Martin O’Neill appointed as permanent Manager",
       "url": "https://www.investegate.co.uk/announcement/rns/celtic--ccp/martin-o-neill-appointed-as-permanent-manager/9614028",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a corporate governance update for a non-traded entity with no direct equity market impact; Celtic Group plc (CCP) operates in the leisure and hospitality sector where managerial appointments are routine operational matters rather than value-driving events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Leisure & Hospitality"
+      ]
     }
   ]
 }

@@ -10,16 +10,22 @@
       "category": null,
       "headline": "Framework agreement with NMDC Infra",
       "url": "https://www.investegate.co.uk/announcement/rns/tekmar-group--tgp/framework-agreement-with-nmdc-infra-/9863987",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This framework agreement signals a strategic pivot into the Indian infrastructure market, offering long-term diversification potential but lacking immediate revenue visibility or binding financial commitments typical of transformative deals.",
+      "key_themes": [
+        "international expansion",
+        "infrastructure",
+        "strategic partnership"
+      ]
     },
     {
       "timestamp": "2026-10-05T10:22:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/tekmar-group--tgp/director-pdmr-shareholding/9806710",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of insider shareholding changes, which provides transparency but lacks the transformative catalysts required for significant price movement in the AIM-listed engineering sector.",
@@ -33,6 +39,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/tekmar-group--tgp/director-pdmr-shareholding/9784502",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory filing for insider shareholding changes which provides minimal new fundamental data; without volume or price context, it remains a low-impact administrative update typical of the UK AIM market.",
@@ -46,16 +53,21 @@
       "category": null,
       "headline": "Legacy Defect Notifications",
       "url": "https://www.investegate.co.uk/announcement/rns/tekmar-group--tgp/legacy-defect-notifications/9762980",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Legacy defect notifications typically signal contingent liabilities rather than immediate cash flow shocks, but they introduce execution risk for Tekmar's project delivery and potential margin erosion in a sector already sensitive to construction cost inflation.",
+      "key_themes": [
+        "contingent liability",
+        "project risk"
+      ]
     },
     {
       "timestamp": "2026-06-18T07:05:00",
       "category": null,
       "headline": "Investor Presentation via Investor Meet Company",
       "url": "https://www.investegate.co.uk/announcement/rns/tekmar-group--tgp/investor-presentation-via-investor-meet-company/9624412",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -66,6 +78,7 @@
       "category": "Results",
       "headline": "Unaudited Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/tekmar-group--tgp/unaudited-interim-results/9624143",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a niche player in the UK's fragmented industrial gas safety sector, Tekmar's interim results provide a critical barometer for mid-cap industrial demand and margin resilience amid persistent inflationary pressures.",

@@ -2,34 +2,57 @@
   "name": "Phoenix Copper Limited",
   "ticker": "PXC",
   "slug": "phoenix-copper-pxc",
-  "announcement_count": 17,
-  "latest_announcement": "2026-11-12T07:01:00",
+  "announcement_count": 18,
+  "latest_announcement": "2026-11-23T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T07:00:00",
+      "category": null,
+      "headline": "Improved economics published in the updated PFS",
+      "url": "https://www.investegate.co.uk/announcement/rns/phoenix-copper-limited--pxc/improved-economics-published-in-the-updated-pfs/9887559",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "An updated PFS with improved economics suggests enhanced project viability, potentially lowering the hurdle rate for final investment decisions in a capital-constrained junior mining environment.",
+      "key_themes": [
+        "Project Finance",
+        "Resource Development"
+      ]
+    },
     {
       "timestamp": "2026-11-12T07:01:00",
       "category": null,
       "headline": "Conference Attendance at Mello2026 Investor Event",
       "url": "https://www.investegate.co.uk/announcement/rns/phoenix-copper-limited--pxc/conference-attendance-at-mello2026-investor-event/9871469",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Attendance announcements for junior mining conferences are standard marketing activities with negligible immediate financial impact; PXC remains a speculative exploration play dependent on geological results rather than event exposure.",
+      "key_themes": [
+        "investor_relations",
+        "exploration"
+      ]
     },
     {
       "timestamp": "2026-11-12T07:00:00",
       "category": null,
       "headline": "Change of Auditor",
       "url": "https://www.investegate.co.uk/announcement/rns/phoenix-copper-limited--pxc/change-of-auditor-/9871333",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Auditor changes in junior mining are often benign administrative updates but can signal governance friction; without context on the reason (e.g., resignation vs. routine rotation), it remains a low-impact operational detail rather than a fundamental value driver.",
+      "key_themes": [
+        "Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-10-09T07:00:00",
       "category": null,
       "headline": "Block Listing Six Monthly Return",
       "url": "https://www.investegate.co.uk/announcement/rns/phoenix-copper-limited--pxc/block-listing-six-monthly-return-/9814567",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +63,7 @@
       "category": null,
       "headline": "Investor Presentation via Investor Meet Company",
       "url": "https://www.investegate.co.uk/announcement/rns/phoenix-copper-limited--pxc/investor-presentation-via-investor-meet-company/9776297",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +74,7 @@
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/phoenix-copper-limited--pxc/interim-results/9766662",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Interim results for an exploration-stage junior like Phoenix Copper are routine updates that rarely move the needle unless they reveal a significant resource upgrade or funding shortfall; without details of a major discovery or strategic pivot, this remains a standard reporting event with limited immediate catalyst potential.",
@@ -63,6 +88,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/phoenix-copper-limited--pxc/tr-1-notification-of-major-holdings-/9714028",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,6 +99,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/phoenix-copper-limited--pxc/tr-1-notification-of-major-holdings-/9714018",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,6 +110,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/phoenix-copper-limited--pxc/tr-1-notification-of-major-holdings/9714002",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -93,76 +121,107 @@
       "category": null,
       "headline": "Assessment Fee Payments & Indigo Capital Repayment",
       "url": "https://www.investegate.co.uk/announcement/rns/phoenix-copper-limited--pxc/assessment-fee-payments-indigo-capital-repayment/9702467",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement reflects standard operational expenditure for a junior explorer, indicating no material change to the company's financial position or strategic trajectory compared to routine drilling or assay costs.",
+      "key_themes": [
+        "operational_expense",
+        "exploration_funding"
+      ]
     },
     {
       "timestamp": "2026-07-24T16:18:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM & Completion of Fundraise",
       "url": "https://www.investegate.co.uk/announcement/rns/phoenix-copper-limited--pxc/result-of-agm-completion-of-fundraise-/9687369",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The completion of the fundraise provides essential liquidity for Phoenix Copper's exploration programme in a high-cost environment, mitigating immediate dilution risks but signalling continued reliance on equity markets for survival rather than organic cash flow.",
+      "key_themes": [
+        "Capital Raise",
+        "Exploration Funding",
+        "Dilution"
+      ]
     },
     {
       "timestamp": "2026-07-17T17:06:00",
       "category": "AGM/EGM",
       "headline": "AGM Online Access",
       "url": "https://www.investegate.co.uk/announcement/rns/phoenix-copper-limited--pxc/agm-online-access-/9675603",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice regarding the logistics of an Annual General Meeting, indicating no immediate material corporate actions or financial disclosures are attached to this specific filing.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-10T16:16:00",
       "category": null,
       "headline": "Investor Q&A and Shareholder Letter",
       "url": "https://www.investegate.co.uk/announcement/rns/phoenix-copper-limited--pxc/investor-q-a-and-shareholder-letter/9663953",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations update typical for junior explorers lacking material news flow; without disclosed assay results or resource updates, it holds no immediate valuation impact compared to data-driven announcements.",
+      "key_themes": [
+        "Investor Relations",
+        "Exploration"
+      ]
     },
     {
       "timestamp": "2026-07-10T07:00:00",
       "category": "Placing",
       "headline": "Result of Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/phoenix-copper-limited--pxc/result-of-retail-offer/9661965",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 4,
+      "insight": "The conclusion of a retail offer for an exploration-stage junior like Phoenix Copper typically signals a modest capital raise to fund drilling programs rather than transformative growth; without concurrent major asset acquisition or resource definition success, the market impact remains limited.",
+      "key_themes": [
+        "Capital Raise",
+        "Exploration Stage"
+      ]
     },
     {
       "timestamp": "2026-07-08T14:30:00",
       "category": "AGM/EGM",
       "headline": "Posting of AGM Notice",
       "url": "https://www.investegate.co.uk/announcement/rns/phoenix-copper-limited--pxc/posting-of-agm-notice/9659190",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative filing for a small-cap explorer; AGM notices are standard governance requirements with no immediate price-sensitive catalysts or strategic shifts implied.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-06T12:00:00",
       "category": "Placing",
       "headline": "Launch of Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/phoenix-copper-limited--pxc/launch-of-retail-offer/9654242",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 4,
+      "insight": "Retail offers in junior mining are primarily liquidity vehicles to fund exploration rather than value-creating events; they often signal a lack of institutional confidence and carry high dilution risk for existing shareholders.",
+      "key_themes": [
+        "dilution",
+        "liquidity",
+        "retail_fundraising"
+      ]
     },
     {
       "timestamp": "2026-07-06T11:25:00",
       "category": "Placing",
       "headline": "Result of Placing and Subscription",
       "url": "https://www.investegate.co.uk/announcement/rns/phoenix-copper-limited--pxc/result-of-placing-and-subscription-/9654125",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Phoenix Copper is executing a capital raise to fund exploration and development, a standard but critical lifeline for junior miners in the current high-interest-rate environment; success depends on securing institutional backing amidst sector-wide liquidity constraints.",
@@ -177,6 +236,7 @@
       "category": "Placing",
       "headline": "Proposed Placing, Subscription and Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/phoenix-copper-limited--pxc/proposed-placing-subscription-and-retail-offer-/9652717",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "This capital raise is critical for Phoenix Copper to fund the development of its Cobre Panama project, a high-profile asset currently entangled in complex political and regulatory challenges in Central America. The move signals management's intent to maintain operational momentum despite significant jurisdictional risks that have previously suppressed valuation multiples.",

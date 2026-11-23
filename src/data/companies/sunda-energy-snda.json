@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/director-pdmr-shareholding/9863270",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Director dealings in the E&P sector are often noise unless accompanied by significant volume or insider cluster activity; without disclosed size or direction, this lacks the signal required to influence valuation models for SNDA.",
@@ -23,16 +24,21 @@
       "category": null,
       "headline": "Operations Update",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/operations-update-/9862384",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a pre-revenue exploration company, operational updates on drilling progress are routine and carry minimal immediate financial impact unless they signal a commercial discovery; without specific assay results or reserve upgrades, this is standard administrative disclosure.",
+      "key_themes": [
+        "exploration",
+        "operational_update"
+      ]
     },
     {
       "timestamp": "2026-10-22T16:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/holding-s-in-company/9837264",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,16 +49,21 @@
       "category": null,
       "headline": "PSC Extension and update",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/psc-extension-and-update/9828534",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the extension of a Person with Significant Control declaration, likely reflecting routine compliance adjustments rather than a change in ultimate ownership or strategic direction.",
+      "key_themes": [
+        "Corporate Governance",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-10-15T10:55:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/holding-s-in-company/9824887",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,6 +74,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/holding-s-in-company/9823354",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,16 +85,22 @@
       "category": null,
       "headline": "New Zealand exploration permit application",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/new-zealand-exploration-permit-application/9821555",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This represents a standard exploratory step for Sunda Energy's NZ assets rather than a commercial breakthrough; without assay results or resource estimates, the market will view this as low-probability speculation typical of junior exploration plays.",
+      "key_themes": [
+        "exploration",
+        "New Zealand",
+        "permitting"
+      ]
     },
     {
       "timestamp": "2026-10-13T11:07:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/holding-s-in-company/9820298",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -93,16 +111,21 @@
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/result-of-general-meeting/9814123",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes, which typically carries no immediate price sensitivity unless it involves a contentious capital raise or governance dispute.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-10-05T07:43:00",
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/exercise-of-warrants-/9806137",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -113,6 +136,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/total-voting-rights/9798928",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -123,16 +147,22 @@
       "category": "Placing",
       "headline": "Result of WRAP Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/result-of-wrap-retail-offer-/9787963",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 4,
+      "insight": "This announcement confirms the closure of a retail capital raise, which is routine for small-cap exploration firms but dilutive to existing shareholders; without details on the placing component or use of proceeds, it lacks transformative strategic weight.",
+      "key_themes": [
+        "capital_raise",
+        "dilution",
+        "exploration_funding"
+      ]
     },
     {
       "timestamp": "2026-09-23T10:40:00",
       "category": null,
       "headline": "Posting of Circular and Notice of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/posting-of-circular-and-notice-of-general-meeting/9787035",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -143,26 +173,36 @@
       "category": null,
       "headline": "Capital Access Window - Sunda Energy Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/capital-access-window-sunda-energy-plc/9784033",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice regarding the reopening of the capital raise window for existing subscribers, indicating no new material developments or significant dilution events beyond the initial prospectus terms.",
+      "key_themes": [
+        "Capital Raise",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-22T07:01:00",
       "category": "Placing",
       "headline": "WRAP Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/wrap-retail-offer/9783407",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 4,
+      "insight": "The WRAP Retail Offer indicates a targeted capital raise aimed at retail investors to fund exploration drilling, reflecting the high-risk, cash-burn nature of junior E&P firms rather than transformative strategic growth.",
+      "key_themes": [
+        "capital_raise",
+        "exploration_funding",
+        "retail_investor_focus"
+      ]
     },
     {
       "timestamp": "2026-09-22T07:00:00",
       "category": "Placing",
       "headline": "Placing and Subscription",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/placing-and-subscription/9783273",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Sunda Energy's capital raise is critical for funding its transition from exploration to production at the Sunda Basin assets, addressing immediate liquidity needs in a high-cost environment. This action mitigates near-term dilution risks associated with further financing but underscores the capital intensity required to monetize unconventional gas reserves.",
@@ -177,46 +217,64 @@
       "category": null,
       "headline": "Capital Access Window - Sunda Energy Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/capital-access-window-sunda-energy-plc/9765157",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notification regarding the company's ability to access capital markets, lacking any specific transaction details or pricing that would indicate immediate dilution or strategic shift.",
+      "key_themes": [
+        "Corporate Governance",
+        "Capital Markets"
+      ]
     },
     {
       "timestamp": "2026-09-10T07:01:00",
       "category": null,
       "headline": "Capital Access Window - Trading Halt",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/capital-access-window-trading-halt/9764516",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Trading halts for capital access are standard procedure to ensure fair pricing during fundraising, but the lack of disclosed terms suggests potential dilution risks for existing shareholders in a sector already facing liquidity constraints.",
+      "key_themes": [
+        "Capital Raise",
+        "Shareholder Dilution",
+        "Liquidity Risk"
+      ]
     },
     {
       "timestamp": "2026-09-03T07:06:00",
       "category": null,
       "headline": "Philippines Prospect: Prospective Resources Update",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/philippines-prospect-prospective-resources-update/9753147",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Prospective resource updates for junior explorers like Sunda Energy are speculative in nature and rarely drive immediate valuation changes without defined reserves or production milestones, reflecting the high-risk exploration phase typical of the sector.",
+      "key_themes": [
+        "Exploration",
+        "Resource Estimation"
+      ]
     },
     {
       "timestamp": "2026-08-13T10:05:00",
       "category": null,
       "headline": "Grant of Petroleum Mining Permit to Matahio NZ",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/grant-of-petroleum-mining-permit-to-matahio-nz/9720387",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This grant represents a standard administrative milestone in the exploration lifecycle rather than a commercial breakthrough, offering limited immediate value accretion for SNDA given its small-cap status and the speculative nature of early-stage petroleum assets.",
+      "key_themes": [
+        "Exploration",
+        "Regulatory Approval"
+      ]
     },
     {
       "timestamp": "2026-07-29T07:00:00",
       "category": "Director Dealing",
       "headline": "Director purchase of CLNs",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/director-purchase-of-clns/9692346",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Director purchases of Credit Linked Notes (CLNs) are typically structured products with capped upside and principal risk, often used for tax-efficient wealth management rather than signaling strong conviction in the underlying equity's immediate direction. In the context of Sunda Energy's recent volatility, this routine dealing lacks the transformative weight of direct share acquisition or major corporate action.",
@@ -231,40 +289,58 @@
       "category": null,
       "headline": "Conversion of Loan Notes and Issue of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/conversion-of-loan-notes-and-issue-of-warrants/9673543",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Debt-to-equity conversion reduces interest burden and liquidity pressure for a capital-intensive E&P firm, while warrant issuance acts as sweetener to facilitate the deal; this is standard distress-avoidance mechanics in the current UK junior energy sector.",
+      "key_themes": [
+        "debt restructuring",
+        "capital management",
+        "energy sector"
+      ]
     },
     {
       "timestamp": "2026-07-14T07:30:00",
       "category": null,
       "headline": "Exploration permit application in New Zealand",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/exploration-permit-application-in-new-zealand/9667446",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement represents a standard exploratory step in the hydrocarbon lifecycle rather than a value-accretive event; without confirmed reserves or production history, such permit applications carry high technical risk and minimal immediate financial impact for SNDA.",
+      "key_themes": [
+        "Exploration",
+        "New Zealand",
+        "Upstream Development"
+      ]
     },
     {
       "timestamp": "2026-06-26T13:30:00",
       "category": "AGM/EGM",
       "headline": "Result of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/result-of-annual-general-meeting/9639755",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative filing confirming shareholder approval of standard AGM resolutions; lacks any substantive strategic shifts, capital allocation changes, or governance controversies that would influence valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-19T07:41:00",
       "category": null,
       "headline": "Operations Update",
       "url": "https://www.investegate.co.uk/announcement/rns/sunda-energy--snda/operations-update-/9627216",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a pre-revenue exploration company, operational updates on well status are routine for tracking progress rather than immediate valuation shifts, reflecting the high-risk, long-cycle nature of the UK offshore oil and gas sector.",
+      "key_themes": [
+        "exploration",
+        "operational_update"
+      ]
     }
   ]
 }

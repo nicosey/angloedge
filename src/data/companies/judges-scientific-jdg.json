@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/judges-scientific--jdg/director-pdmr-shareholding/9878041",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard disclosure of individual director transactions which typically carries negligible signal for JDG's valuation; without volume context or specific buy/sell direction, this is routine administrative noise rather than a strategic indicator.",
@@ -23,6 +24,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/judges-scientific--jdg/holding-s-in-company/9877516",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -33,6 +35,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/judges-scientific--jdg/director-pdmr-shareholding/9867632",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements for small-cap scientific firms like Judges Scientific typically carry minimal market impact unless accompanied by significant volume or unusual timing relative to price action.",
@@ -46,6 +49,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/judges-scientific--jdg/holding-s-in-company/9830651",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -56,6 +60,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/judges-scientific--jdg/director-pdmr-shareholding/9809495",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements for small-cap scientific firms typically signal low immediate market impact unless accompanied by significant volume or insider cluster activity; JDG's niche position in life sciences instrumentation suggests stability rather than strategic shift.",
@@ -69,16 +74,21 @@
       "category": "Appointment",
       "headline": "Board change",
       "url": "https://www.investegate.co.uk/announcement/rns/judges-scientific--jdg/board-change/9785787",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board changes in small-cap scientific firms are typically administrative unless linked to a strategic pivot; without details on the appointee's background or specific mandate, this lacks immediate market-moving catalysts compared to earnings or M&A events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Small Cap"
+      ]
     },
     {
       "timestamp": "2026-09-10T16:44:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/judges-scientific--jdg/director-pdmr-shareholding/9766456",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements for small-cap scientific firms typically signal minimal immediate market impact unless accompanied by significant volume or insider cluster activity; JDG's sector remains niche with limited liquidity sensitivity to individual share transactions.",
@@ -92,6 +102,7 @@
       "category": null,
       "headline": "Notice of Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/judges-scientific--jdg/notice-of-investor-presentation-/9716763",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -102,6 +113,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/judges-scientific--jdg/director-pdmr-shareholding/9709556",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements for small-cap scientific firms typically signal minimal immediate market impact unless accompanied by significant volume or unusual timing relative to price action.",
@@ -115,6 +127,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/judges-scientific--jdg/director-pdmr-shareholding/9676998",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard disclosure of individual director transactions which typically carries negligible signal for JDG's valuation unless volume is exceptional; lacks the transformative catalysts required to move the needle in the current scientific services sector.",
@@ -128,6 +141,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/judges-scientific--jdg/director-pdmr-shareholding/9661321",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate price impact; without volume or direction specifics, they offer no actionable signal for JDG's valuation.",
@@ -141,6 +155,7 @@
       "category": null,
       "headline": "Blocklisting Return",
       "url": "https://www.investegate.co.uk/announcement/rns/judges-scientific--jdg/blocklisting-return/9628747",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -151,16 +166,21 @@
       "category": "Appointment",
       "headline": "Appointment of auditor",
       "url": "https://www.investegate.co.uk/announcement/rns/judges-scientific--jdg/appointment-of-auditor/9626563",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing regarding auditor appointment, which carries no immediate financial or strategic weight for Judges Scientific's valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Compliance"
+      ]
     },
     {
       "timestamp": "2026-06-01T14:24:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/judges-scientific--jdg/total-voting-rights/9595452",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -171,10 +191,14 @@
       "category": null,
       "headline": "Purchase of Ordinary Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/judges-scientific--jdg/purchase-of-ordinary-shares/9586286",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This likely represents a routine share buyback or director dealing under the company's disclosure rules, common for small-cap scientific firms to manage liquidity or signal confidence without altering capital structure significantly.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Returns"
+      ]
     }
   ]
 }

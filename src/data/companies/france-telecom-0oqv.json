@@ -10,26 +10,35 @@
       "category": null,
       "headline": "Total number of shares and voting rights at October 31, 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/france-telecom-sa-adr--0oqv/total-number-of-shares-and-voting-rights-at-o-/9858970",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard monthly regulatory filing required by the Paris BSE for all listed companies, detailing share count and voting rights without conveying new material information or strategic shifts.",
+      "key_themes": [
+        "regulatory_compliance",
+        "routine_disclosure"
+      ]
     },
     {
       "timestamp": "2026-11-03T17:22:00",
       "category": "Share Buyback",
       "headline": "Orange: Orange announces that it has purchased treasury shares within the framework of its share buyback program.",
       "url": "https://www.investegate.co.uk/announcement/gnw/france-telecom-sa-adr--0oqv/orange-orange-announces-that-it-has-purchase-/9856684",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine treasury share acquisition under an existing buyback program signals capital return discipline rather than strategic transformation; typical for mature telecom operators like Orange managing free cash flow in a saturated European market.",
+      "key_themes": [
+        "capital allocation",
+        "shareholder yield"
+      ]
     },
     {
       "timestamp": "2026-09-08T08:06:00",
       "category": null,
       "headline": "Stabilisation Notice-Orange SA",
       "url": "https://www.investegate.co.uk/announcement/rns/france-telecom-sa-adr--0oqv/stabilisation-notice-orange-sa/9760701",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,

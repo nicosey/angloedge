@@ -10,26 +10,35 @@
       "category": null,
       "headline": "Publication of a Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/anz-new-zealand-int-l-limited--79ja/publication-of-a-prospectus/9882318",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing for ANZ's New Zealand subsidiary, likely related to routine debt issuance or capital management rather than a transformative group-level event, given the entity's specific designation.",
+      "key_themes": [
+        "regulatory_compliance",
+        "subsidiary_activity"
+      ]
     },
     {
       "timestamp": "2026-11-13T10:15:00",
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/anz-new-zealand-int-l-limited--79ja/annual-financial-report/9874546",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This is a standard annual report filing for a non-UK listed entity with no direct trading impact on UK markets; the company's primary listing and operational focus remain in New Zealand.",
+      "key_themes": [
+        "Annual Results",
+        "Non-UK Listed"
+      ]
     },
     {
       "timestamp": "2026-09-02T11:38:00",
       "category": null,
       "headline": "Final Terms",
       "url": "https://www.investegate.co.uk/announcement/rns/anz-new-zealand-int-l-limited--79ja/final-terms/9752000",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,20 +49,28 @@
       "category": null,
       "headline": "Publication of a Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/anz-new-zealand-int-l-limited--79ja/publication-of-a-prospectus/9682625",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for ANZ New Zealand's debt issuance, likely to fund local lending or manage liquidity, with no direct impact on the parent company's listed equity valuation.",
+      "key_themes": [
+        "Debt Issuance",
+        "Administrative Filing"
+      ]
     },
     {
       "timestamp": "2026-05-27T16:15:00",
       "category": null,
       "headline": "Publication of a Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/anz-new-zealand-int-l-limited--79ja/publication-of-a-prospectus/9588354",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing for ANZ's New Zealand subsidiary, likely related to debt issuance or local capital requirements rather than a transformative group-level event, reflecting routine cross-border banking operations.",
+      "key_themes": [
+        "Corporate Action",
+        "Debt Capital Markets"
+      ]
     }
   ]
 }

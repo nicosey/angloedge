@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Exercise of warrants and TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/united-oil-gas--uog/exercise-of-warrants-and-tvr/9848536",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Exercise of Warrants and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/united-oil-gas--uog/exercise-of-warrants-and-total-voting-rights/9836866",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,16 +32,21 @@
       "category": null,
       "headline": "Investor Podcast - On The Rocks Episode 4",
       "url": "https://www.investegate.co.uk/announcement/rns/united-oil-gas--uog/investor-podcast-on-the-rocks-episode-4/9814576",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a low-impact investor relations activity with no material financial or operational disclosure; in the current high-interest-rate environment for E&P stocks, such media events rarely drive valuation changes without accompanying fundamental updates.",
+      "key_themes": [
+        "Investor Relations",
+        "Media Engagement"
+      ]
     },
     {
       "timestamp": "2026-10-01T10:02:00",
       "category": null,
       "headline": "Change of Registered Office",
       "url": "https://www.investegate.co.uk/announcement/rns/united-oil-gas--uog/change-of-registered-office/9801604",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +57,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/united-oil-gas--uog/holding-s-in-company/9773311",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,46 +68,64 @@
       "category": null,
       "headline": "Jamaica Update: Commissioning of Drilling Study",
       "url": "https://www.investegate.co.uk/announcement/rns/united-oil-gas--uog/jamaica-update-commissioning-of-drilling-study/9764388",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Commissioning a drilling study is a standard pre-development feasibility step rather than a commercial milestone, indicating UOG remains in the exploration phase with no immediate revenue catalysts or de-risking events for investors.",
+      "key_themes": [
+        "Exploration",
+        "Capital Allocation"
+      ]
     },
     {
       "timestamp": "2026-09-07T07:00:00",
       "category": "Appointment",
       "headline": "Appointment of Chief Operating Officer",
       "url": "https://www.investegate.co.uk/announcement/rns/united-oil-gas--uog/appointment-of-chief-operating-officer-/9757615",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This appointment signals a shift toward operational discipline in UOG's UK shale exploration, aiming to accelerate drilling programs and cost control amidst the sector's ongoing struggle with commercial viability and high interest rates.",
+      "key_themes": [
+        "Operational Efficiency",
+        "Shale Exploration",
+        "Management Structure"
+      ]
     },
     {
       "timestamp": "2026-08-19T10:00:00",
       "category": null,
       "headline": "Award of Share Options",
       "url": "https://www.investegate.co.uk/announcement/rns/united-oil-gas--uog/award-of-share-options/9729693",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine executive compensation event typical for small-cap E&P firms to retain talent in a volatile commodity environment; lacks the transformative capital or strategic weight required to move the share price significantly.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Remuneration"
+      ]
     },
     {
       "timestamp": "2026-08-07T11:21:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/united-oil-gas--uog/result-of-agm/9711039",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting confirmation of shareholder approvals for routine governance matters, offering no new strategic direction or financial catalysts for United Oil & Gas.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-07-31T12:04:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/united-oil-gas--uog/total-voting-rights/9698716",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -110,6 +136,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/united-oil-gas--uog/holding-s-in-company/9687101",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -120,6 +147,7 @@
       "category": null,
       "headline": "£500,000 Capital Raise and TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/united-oil-gas--uog/-500-000-capital-raise-and-tvr/9650660",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -130,16 +158,21 @@
       "category": null,
       "headline": "Investor Podcast — On The Rocks Episode 3",
       "url": "https://www.investegate.co.uk/announcement/rns/united-oil-gas--uog/investor-podcast-on-the-rocks-episode-3/9640595",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations activity with no material financial or operational impact on United Oil & Gas; such podcasts are common for visibility but do not alter the company's valuation or strategic trajectory in the current volatile energy sector.",
+      "key_themes": [
+        "Investor Relations",
+        "Corporate Communications"
+      ]
     },
     {
       "timestamp": "2026-06-26T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM, posting of Report and Accounts",
       "url": "https://www.investegate.co.uk/announcement/rns/united-oil-gas--uog/notice-of-agm-posting-of-report-and-accounts-/9638045",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,

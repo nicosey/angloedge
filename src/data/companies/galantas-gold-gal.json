@@ -10,16 +10,22 @@
       "category": null,
       "headline": "Indiana Project Drilling Update",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/indiana-project-drilling-update/9873047",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Drilling updates for junior explorers like Galantas Gold are typically binary events with limited immediate financial impact unless they define a resource; without assay results confirming economic grades, this remains routine exploration activity rather than a value-accretive catalyst.",
+      "key_themes": [
+        "exploration",
+        "drilling",
+        "gold"
+      ]
     },
     {
       "timestamp": "2026-11-11T15:22:00",
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/exercise-of-warrants/9870740",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,16 +36,21 @@
       "category": "Appointment",
       "headline": "Appointment of Senior Vice President of Operations",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/appointment-of-senior-vice-president-of-operations/9868104",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This appointment signals operational scaling for a junior explorer in the current gold price environment but lacks the transformative weight of M&A or financing; it is a standard governance step rather than a catalyst for immediate value creation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Operational Expansion"
+      ]
     },
     {
       "timestamp": "2026-11-05T15:54:00",
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/exercise-of-warrants/9861206",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,36 +61,50 @@
       "category": null,
       "headline": "Intention To Move From AIM To Main Market",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/intention-to-move-from-aim-to-main-market/9861012",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Moving from AIM to the Main Market significantly enhances liquidity potential and broadens the investor base by including institutional funds restricted to FTSE-listed equities, a critical growth lever for small-cap miners.",
+      "key_themes": [
+        "market_upgrade",
+        "liquidity_expansion",
+        "institutional_access"
+      ]
     },
     {
       "timestamp": "2026-11-05T07:00:00",
       "category": null,
       "headline": "Dore Purchase Agreement and Payment Facility",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/dore-purchase-agreement-and-payment-facility/9859320",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This agreement facilitates operational liquidity for gold sales but does not constitute a transformative event or significant capital raise; it reflects standard working capital management in the junior mining sector rather than strategic expansion.",
+      "key_themes": [
+        "liquidity",
+        "operational finance"
+      ]
     },
     {
       "timestamp": "2026-11-03T14:32:00",
       "category": "Appointment",
       "headline": "Board Change",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/board-change-/9856440",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine board changes in junior exploration firms are common administrative updates with negligible immediate financial impact unless linked to a specific strategic pivot or crisis.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-11-02T18:25:00",
       "category": "Director Dealing",
       "headline": "PDMR Share Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/pdmr-share-dealing/9854360",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR share dealings in the junior gold mining sector typically signal minimal immediate market impact unless accompanied by large block trades or insider buying during distress; without volume context, this remains an administrative disclosure.",
@@ -93,6 +118,7 @@
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/exercise-of-warrants-/9851304",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -103,6 +129,7 @@
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/exercise-of-warrants/9839793",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -113,6 +140,7 @@
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/exercise-of-warrants/9827820",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -123,26 +151,35 @@
       "category": null,
       "headline": "Indiana Project Exploration Update",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/indiana-project-exploration-update-/9821328",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Exploration updates for junior miners like Galantas Gold are typically binary events with low immediate financial impact unless they announce a resource upgrade; this routine geological reporting lacks the transformative catalysts required to move institutional capital.",
+      "key_themes": [
+        "exploration",
+        "resource development"
+      ]
     },
     {
       "timestamp": "2026-10-13T13:03:00",
       "category": null,
       "headline": "Executive Team Update",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/executive-team-update-/9820711",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Executive team updates are standard corporate governance disclosures that rarely alter the fundamental valuation of a junior explorer like Galantas Gold without accompanying resource or financing news.",
+      "key_themes": [
+        "Corporate Governance",
+        "Management Change"
+      ]
     },
     {
       "timestamp": "2026-10-13T07:00:00",
       "category": "Director Dealing",
       "headline": "PDMR Share Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/pdmr-share-dealing/9819172",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR share dealings in the junior mining sector typically reflect personal portfolio management rather than strategic shifts, offering negligible signal regarding Galantas Gold's operational outlook or valuation.",
@@ -156,6 +193,7 @@
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/exercise-of-warrants/9819030",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -166,6 +204,7 @@
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/exercise-of-warrants-/9809583",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -176,6 +215,7 @@
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/exercise-of-warrants-/9807270",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -186,6 +226,7 @@
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/exercise-of-warrants-/9802507",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -196,16 +237,21 @@
       "category": "AGM/EGM",
       "headline": "Posting of AGM Circular",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/posting-of-agm-circular/9794918",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for the Annual General Meeting, typical for junior explorers like Galantas Gold who rarely face transformative events at this stage. It carries no immediate price-sensitive information regarding asset development or capital raising.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-09-14T09:45:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/issue-of-equity/9770274",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -216,26 +262,35 @@
       "category": null,
       "headline": "GALANTAS GOLD BEGINS DRILLING AT ANDACOLLO",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/galantas-gold-begins-drilling-at-andacollo/9766105",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Drilling commencement is a standard operational milestone for junior explorers like Galantas Gold, lacking immediate catalysts such as assay results or resource updates; while essential for long-term value creation, it typically generates minimal short-term price volatility compared to discovery announcements.",
+      "key_themes": [
+        "Exploration Update",
+        "Andacollo Project"
+      ]
     },
     {
       "timestamp": "2026-09-09T13:32:00",
       "category": null,
       "headline": "SALE OF REMAINING INTEREST IN  OMAGH GOLD PROJECT",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/sale-of-remaining-interest-in-omagh-gold-project/9763750",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Divestment of the Omagh asset reflects a strategic pivot to focus on core operations in the Americas, aligning with broader junior miner trends of shedding non-core European assets to reduce overheads and concentrate capital.",
+      "key_themes": [
+        "Asset Divestment",
+        "Strategic Refocus"
+      ]
     },
     {
       "timestamp": "2026-09-07T16:30:00",
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/exercise-of-warrants/9759618",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -246,16 +301,21 @@
       "category": null,
       "headline": "NOTIFICATION OF CHANGE TO SIGNIFICANT SHAREHOLDING",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/notification-of-change-to-significant-shareholding/9754952",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Standard regulatory filing for a small-cap explorer; without disclosed volume or price data, this indicates no immediate liquidity shock or strategic shift, typical of routine disclosure obligations in the junior mining sector.",
+      "key_themes": [
+        "regulatory-compliance",
+        "minor-administrative"
+      ]
     },
     {
       "timestamp": "2026-09-02T15:26:00",
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/exercise-of-warrants-/9752573",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -266,6 +326,7 @@
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/exercise-of-warrants-/9750093",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -276,16 +337,21 @@
       "category": "Appointment",
       "headline": "Appointment of Chair of the Board",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/appointment-of-chair-of-the-board/9749858",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine governance update for a micro-cap explorer; without details on the appointee's track record in gold development or financing, this has negligible immediate impact on valuation or operational trajectory.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-Cap"
+      ]
     },
     {
       "timestamp": "2026-08-27T18:22:00",
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/exercise-of-warrants/9744255",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -296,16 +362,21 @@
       "category": null,
       "headline": "Notification of Significant Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/notification-of-significant-shareholding/9744044",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard regulatory disclosure under DTR 5 with no immediate price-sensitive implications for Galantas Gold's exploration status or valuation. While it signals potential activist interest or accumulation by a significant holder, the lack of accompanying trading updates or strategic shifts keeps this in the administrative category.",
+      "key_themes": [
+        "regulatory_compliance",
+        "shareholder_structure"
+      ]
     },
     {
       "timestamp": "2026-08-21T17:21:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/notice-of-agm/9735095",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -316,16 +387,22 @@
       "category": null,
       "headline": "Key Permit Approval for Andacollo",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/key-permit-approval-for-andacollo-/9732469",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This approval de-risks the Andacollo project's development timeline in Argentina, a critical step for Galantas Gold to advance from exploration to production status amidst rising global gold prices and supply chain constraints. It signals operational progress but lacks immediate revenue impact, keeping it in the 'notable' rather than 'transformative' category.",
+      "key_themes": [
+        "Permitting",
+        "Argentina Operations",
+        "Gold Mining"
+      ]
     },
     {
       "timestamp": "2026-08-17T15:07:00",
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/exercise-of-warrants/9725830",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -336,26 +413,36 @@
       "category": null,
       "headline": "Contractors Selected for Andacollo Gold Project",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/contractors-selected-for-andacollo-gold-project/9716768",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Contractor selection marks a standard operational milestone in the development phase rather than a value-accretive event; for junior explorers like Galantas, progress updates are routine and rarely drive material re-rating without assay results or resource definition.",
+      "key_themes": [
+        "Project Development",
+        "Operational Update"
+      ]
     },
     {
       "timestamp": "2026-08-06T07:00:00",
       "category": null,
       "headline": "Key Permitting Approvals for Andacollo Secured",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/key-permitting-approvals-for-andacollo-secured/9707353",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Securing key permits for the Andacollo project significantly de-risks the development timeline and validates Galantas's strategy to pivot from exploration to production in Argentina's high-grade gold sector.",
+      "key_themes": [
+        "permitting",
+        "development",
+        "Argentina"
+      ]
     },
     {
       "timestamp": "2026-08-03T07:00:00",
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/exercise-of-warrants-/9699768",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -366,36 +453,49 @@
       "category": null,
       "headline": "Change of Nominated Adviser",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/change-of-nominated-adviser/9697112",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "In the UK junior mining sector, changing a Nomad is often a neutral administrative update or signals a desire for better market access rather than distress, especially given Galantas's focus on exploration rather than immediate production milestones.",
+      "key_themes": [
+        "Corporate Governance",
+        "Junior Mining"
+      ]
     },
     {
       "timestamp": "2026-07-24T07:00:00",
       "category": null,
       "headline": "Amendment to a Dragones Share Purchase Agreement",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/amendment-to-a-dragones-share-purchase-agreement/9685297",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Administrative amendment to a share purchase agreement with Dragones indicates minor operational adjustments rather than strategic shifts; in the junior mining sector, such routine contractual updates rarely influence valuation without accompanying exploration or financing news.",
+      "key_themes": [
+        "Corporate Governance",
+        "Minor Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-13T11:51:00",
       "category": "Acquisition",
       "headline": "Agreement to Acquire Crushing Plant for Andacollo",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/agreement-to-acquire-crushing-plant-for-andacollo-/9665868",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This represents a standard operational capital expenditure for Galantas Gold to enhance processing capacity at the Andacollo project, lacking the transformative scale of major M&A or significant financial restructuring.",
+      "key_themes": [
+        "Capex",
+        "Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-07-08T16:57:00",
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/exercise-of-warrants/9659417",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -406,16 +506,21 @@
       "category": "Appointment",
       "headline": "Resignation of Chair",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/resignation-of-chair/9657202",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The resignation of the Chair in a junior exploration company like Galantas Gold often signals internal governance friction or strategic disagreement during a critical funding phase, raising immediate concerns about board stability and investor confidence.",
+      "key_themes": [
+        "Governance Risk",
+        "Leadership Transition"
+      ]
     },
     {
       "timestamp": "2026-07-06T07:01:00",
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/exercise-of-warrants-/9653118",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -426,36 +531,50 @@
       "category": null,
       "headline": "Grant of RSUs and Stock Options",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/grant-of-rsus-and-stock-options-/9653007",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Standard equity incentive grant typical for junior explorers to retain technical talent during capital-constrained periods; lacks transformative M&A or financing elements that would drive immediate re-rating in the volatile gold exploration sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Equity Compensation"
+      ]
     },
     {
       "timestamp": "2026-06-23T17:28:00",
       "category": null,
       "headline": "Application For Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/application-for-shares/9632886",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for share allotment under the company's existing authority, likely related to minor capital maintenance or option exercises rather than a significant fundraising event.",
+      "key_themes": [
+        "Corporate Action",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-23T14:00:00",
       "category": "Acquisition",
       "headline": "Completion of Acquisition of Andacollo Project",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/completion-of-acquisition-of-andacollo-project/9632568",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The completion of the Andacollo acquisition marks a critical milestone in Galantas Gold's strategy to consolidate its Argentine asset base and achieve operational scale, directly addressing the sector-wide imperative for junior miners to build bankable reserves through consolidation.",
+      "key_themes": [
+        "Asset Consolidation",
+        "Argentine Mining",
+        "Operational Scale"
+      ]
     },
     {
       "timestamp": "2026-06-22T07:00:00",
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/exercise-of-warrants/9628761",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -466,16 +585,21 @@
       "category": "Appointment",
       "headline": "Result of Special Meeting and Appointment of CFO",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/result-of-special-meeting-and-appointment-of-cfo/9619511",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine executive appointment in the junior mining sector; without a named successor of repute or immediate capital raise context, this is standard governance maintenance rather than a value driver.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Change"
+      ]
     },
     {
       "timestamp": "2026-06-15T07:00:00",
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/exercise-of-warrants-/9617099",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -486,6 +610,7 @@
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/exercise-of-warrants/9612086",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -496,30 +621,43 @@
       "category": null,
       "headline": "Completion of Private Placement - Correction",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/completion-of-private-placement-correction/9603221",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a clerical correction to a previous private placement announcement rather than a substantive financial event; the underlying capital raise details remain unchanged, rendering this update administratively neutral for valuation purposes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative Correction"
+      ]
     },
     {
       "timestamp": "2026-06-05T07:00:00",
       "category": null,
       "headline": "Annual Information Form Filing",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/annual-information-form-filing-/9603100",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing required for TSX listing maintenance rather than a material corporate event; it provides no new investment thesis or financial data to drive immediate price action.",
+      "key_themes": [
+        "regulatory_compliance",
+        "routine_filing"
+      ]
     },
     {
       "timestamp": "2026-05-28T14:39:00",
       "category": null,
       "headline": "Completion of $100 Million Private Placement",
       "url": "https://www.investegate.co.uk/announcement/rns/galantas-gold-corp---gal/completion-of-100-million-private-placement/9590504",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "A $100M private placement is a transformative capital injection for Galantas Gold, significantly de-risking the development of the Kibali project and providing essential liquidity to navigate current high-interest rate environments. This scale of funding aligns with major junior miners securing balance sheet strength ahead of production ramp-up, distinguishing it from routine administrative actions.",
+      "key_themes": [
+        "Capital Raise",
+        "Gold Mining",
+        "Balance Sheet Strength"
+      ]
     }
   ]
 }

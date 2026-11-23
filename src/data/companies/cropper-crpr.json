@@ -10,16 +10,21 @@
       "category": null,
       "headline": "MelloLondon investor presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/cropper-james---crpr/mellolondon-investor-presentation/9879282",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Investor presentations are standard IR activities that rarely move share prices unless they disclose unexpected material data; without specific financial metrics or strategic shifts in the deck, this is routine communication.",
+      "key_themes": [
+        "investor_relations",
+        "routine_disclosure"
+      ]
     },
     {
       "timestamp": "2026-11-13T07:00:00",
       "category": "Director Dealing",
       "headline": "PDMR and PCA Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/cropper-james---crpr/pdmr-and-pca-shareholding/9873582",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of insider holdings rather than a transactional event, indicating no immediate change in control or significant insider sentiment shift for the engineering services firm.",
@@ -33,6 +38,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/cropper-james---crpr/holding-s-in-company/9854520",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,6 +49,7 @@
       "category": "Results",
       "headline": "Notice of Results and Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/cropper-james---crpr/notice-of-results-and-investor-presentation/9835287",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a small-cap specialist in the UK equity market, this announcement signals a standard interim reporting cycle rather than a transformative event; however, for CRPR, it serves as a critical liquidity and sentiment checkpoint given its niche position in the recruitment sector.",
@@ -56,6 +63,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/cropper-james---crpr/director-pdmr-shareholding/9806787",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard PDMR disclosure with no indication of material insider sentiment; in the current UK equity environment, routine director dealing without accompanying block trades or significant volume shifts is typically noise rather than signal.",
@@ -69,6 +77,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/cropper-james---crpr/holding-s-in-company/9775995",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -79,36 +88,49 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/cropper-james---crpr/result-of-agm/9764031",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no immediate financial or strategic weight for Cropper's valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-09-03T10:30:00",
       "category": null,
       "headline": "Grant of Awards under Deferred Bonus Share Plan",
       "url": "https://www.investegate.co.uk/announcement/rns/cropper-james---crpr/grant-of-awards-under-deferred-bonus-share-plan/9754169",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding executive compensation structures rather than a material corporate event; it signals no immediate change in strategy or financial position for the UK recruitment sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Remuneration"
+      ]
     },
     {
       "timestamp": "2026-08-27T09:24:00",
       "category": null,
       "headline": "Grant of Awards under Long-Term Incentive Plan",
       "url": "https://www.investegate.co.uk/announcement/rns/cropper-james---crpr/grant-of-awards-under-long-term-incentive-plan-/9743243",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding executive compensation alignment under the LTIP, common in FTSE 250 governance structures and devoid of immediate financial or strategic impact.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Remuneration"
+      ]
     },
     {
       "timestamp": "2026-08-26T16:31:00",
       "category": "Director Dealing",
       "headline": "New Employee Benefit Trust and PDMR Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/cropper-james---crpr/new-employee-benefit-trust-and-pdmr-dealing/9741947",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard administrative disclosure regarding the establishment of an Employee Benefit Trust and routine director dealing, common in UK SMEs for share incentive schemes rather than indicative of significant strategic shifts or insider sentiment.",
@@ -122,6 +144,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/cropper-james---crpr/notice-of-agm/9706046",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -132,6 +155,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/cropper-james---crpr/holding-s-in-company/9705907",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -142,6 +166,7 @@
       "category": "Results",
       "headline": "Notice of Results & Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/cropper-james---crpr/notice-of-results-investor-presentation/9654913",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a small-cap specialist in the UK equity market, this announcement signals a standard interim reporting cycle rather than a transformative event; while investor presentations can offer clarity on strategy, they rarely drive immediate price action without accompanying significant financial surprises or guidance shifts.",
@@ -155,20 +180,28 @@
       "category": "Appointment",
       "headline": "Appointment of Nominated Adviser and Broker",
       "url": "https://www.investegate.co.uk/announcement/rns/cropper-james---crpr/appointment-of-nominated-adviser-and-broker/9653035",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Appointing a Nominated Adviser and Broker is a critical prerequisite for AIM companies seeking to raise capital or execute M&A, signaling potential liquidity events or strategic shifts rather than routine administration.",
+      "key_themes": [
+        "AIM Compliance",
+        "Capital Markets Access"
+      ]
     },
     {
       "timestamp": "2026-07-02T07:00:00",
       "category": null,
       "headline": "Debt refinancing",
       "url": "https://www.investegate.co.uk/announcement/rns/cropper-james---crpr/debt-refinancing/9648452",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Debt refinancing for a small-cap construction firm like Cropper typically signals an effort to extend maturities or reduce interest costs in a high-rate environment, which is critical for preserving liquidity but does not inherently drive growth. This is a standard financial engineering move rather than a strategic pivot, suggesting management is prioritizing balance sheet stability over aggressive expansion.",
+      "key_themes": [
+        "liquidity management",
+        "interest rate mitigation"
+      ]
     }
   ]
 }

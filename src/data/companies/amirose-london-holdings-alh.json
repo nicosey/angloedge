@@ -10,16 +10,21 @@
       "category": "AGM/EGM",
       "headline": "Results of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/amirose-london-holdings-plc--alh/results-of-agm/9832359",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for a micro-cap entity typically confirm standard shareholder approvals with no material strategic shifts or capital events, reflecting low liquidity and limited market relevance.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap"
+      ]
     },
     {
       "timestamp": "2026-09-25T10:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/amirose-london-holdings-plc--alh/notice-of-agm-/9791493",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": "Results",
       "headline": "FINAL RESULTS FOR THE YEAR ENDED 31 MARCH 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/amirose-london-holdings-plc--alh/final-results-for-the-year-ended-31-march-2026-/9790169",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a pre-revenue SPAC with no operating history, the release of final results serves primarily as a compliance milestone rather than a value driver; the market will focus on cash runway and the timeline for any potential de-SPAC transaction or liquidation.",

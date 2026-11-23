@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/hansard-global--hsd/holding-s-in-company/9886951",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/hansard-global--hsd/result-of-agm/9858499",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting confirmation of shareholder votes for Hansard Global's AGM, which typically involves routine matters such as director reappointments and auditor ratification rather than transformative strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-10-02T08:02:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/hansard-global--hsd/director-pdmr-shareholding/9803845",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible signal for institutional investors unless aggregated across the board; lacks the volume or context to suggest a strategic shift in Hansard Global's capital allocation.",
@@ -43,10 +49,15 @@
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/hansard-global--hsd/annual-financial-report/9787956",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a small-cap AIM-listed entity in the industrial technology sector, Hansard Global's annual results provide essential visibility into its niche market positioning and liquidity profile, though lacking the transformative catalysts typical of larger FTSE constituents.",
+      "key_themes": [
+        "AIM Small Cap",
+        "Industrial Technology",
+        "Annual Results"
+      ]
     }
   ]
 }

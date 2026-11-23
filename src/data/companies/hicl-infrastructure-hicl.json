@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Result of Extraordinary Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/hicl-infrastructure--hicl/result-of-extraordinary-meeting/9877957",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Extraordinary General Meetings for infrastructure REITs like HICL are typically procedural votes on governance or minor regulatory updates rather than value-altering events, reflecting the sector's focus on stable, long-term yield over speculative growth.",
+      "key_themes": [
+        "Corporate Governance",
+        "Infrastructure REIT"
+      ]
     },
     {
       "timestamp": "2026-10-22T07:02:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/hicl-infrastructure--hicl/transaction-in-own-shares/9835488",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": null,
       "headline": "Notice of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/hicl-infrastructure--hicl/notice-of-gm/9835431",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +46,7 @@
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/hicl-infrastructure--hicl/notice-of-results/9835281",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the publication date of results rather than disclosing financial data itself; it carries no immediate pricing impact compared to the actual release.",
@@ -53,6 +60,7 @@
       "category": null,
       "headline": "Kepler Trust Intelligence: New Research",
       "url": "https://www.investegate.co.uk/announcement/rns/hicl-infrastructure--hicl/kepler-trust-intelligence-new-research/9752912",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,6 +71,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/hicl-infrastructure--hicl/transaction-in-own-shares/9699784",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,6 +82,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/hicl-infrastructure--hicl/transaction-in-own-shares/9683166",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,26 +93,36 @@
       "category": "Dividend",
       "headline": "First Quarterly Interim Dividend",
       "url": "https://www.investegate.co.uk/announcement/rns/hicl-infrastructure--hicl/first-quarterly-interim-dividend/9682204",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This announcement confirms the continuation of HICL's high-yield dividend policy, a critical metric for its income-focused infrastructure investor base amid rising interest rates that typically pressure REIT-like valuations.",
+      "key_themes": [
+        "Dividend Policy",
+        "Infrastructure Yield",
+        "Income Investing"
+      ]
     },
     {
       "timestamp": "2026-07-02T07:00:00",
       "category": null,
       "headline": "Capital Markets Seminar – Strategy Update",
       "url": "https://www.investegate.co.uk/announcement/rns/hicl-infrastructure--hicl/capital-markets-seminar-strategy-update/9648419",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard investor relations event with no immediate price-sensitive disclosure; while strategy updates can signal future capital allocation shifts, the lack of concrete figures or M&A details limits near-term market reaction compared to earnings releases.",
+      "key_themes": [
+        "Investor Relations",
+        "Strategy Update"
+      ]
     },
     {
       "timestamp": "2026-06-19T11:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/hicl-infrastructure--hicl/notice-of-agm/9627878",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -113,16 +133,21 @@
       "category": null,
       "headline": "Notice of 2026 Capital Markets Seminar",
       "url": "https://www.investegate.co.uk/announcement/rns/hicl-infrastructure--hicl/notice-of-2026-capital-markets-seminar/9619657",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice for an investor relations event with no immediate price-sensitive information; such seminars are routine engagement tools rather than catalysts for valuation shifts.",
+      "key_themes": [
+        "Investor Relations",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-05-27T07:00:00",
       "category": "Results",
       "headline": "ANNUAL RESULTS FOR THE YEAR ENDED 31 MARCH 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/hicl-infrastructure--hicl/annual-results-for-the-year-ended-31-march-2026/9586464",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a core UK infrastructure income play, HICL's annual results provide critical visibility on dividend sustainability and asset valuations in a high-rate environment, directly impacting its appeal to yield-seeking institutional investors.",

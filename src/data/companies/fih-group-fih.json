@@ -10,16 +10,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/fih-group--fih/result-of-agm/9789723",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no intrinsic financial value or strategic shift for FIH Group.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-09-01T15:04:00",
       "category": "Dividend",
       "headline": "Notice of AGM, Accounts & Dividend Timetable",
       "url": "https://www.investegate.co.uk/announcement/rns/fih-group--fih/notice-of-agm-accounts-dividend-timetable/9750005",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,16 +35,21 @@
       "category": "AGM/EGM",
       "headline": "Results of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/fih-group--fih/results-of-general-meeting/9746411",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure confirming the outcome of shareholder votes at the AGM/EGM; it carries no new fundamental data or strategic shifts for FIH Group.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-08-26T11:19:00",
       "category": null,
       "headline": "TR-1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/fih-group--fih/tr-1-notification-of-major-holdings/9741255",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +60,7 @@
       "category": null,
       "headline": "Notice of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/fih-group--fih/notice-of-gm/9713156",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,10 +71,14 @@
       "category": null,
       "headline": "Disposal of Momart International",
       "url": "https://www.investegate.co.uk/announcement/rns/fih-group--fih/disposal-of-momart-international-/9702436",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement refers to a transaction from 2001 involving the sale of a logistics subsidiary; as FIH Group is no longer an active listed entity on the London Stock Exchange, this has zero current market relevance or trading implication.",
+      "key_themes": [
+        "historical data",
+        "non-active"
+      ]
     }
   ]
 }

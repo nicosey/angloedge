@@ -10,66 +10,88 @@
       "category": null,
       "headline": "Recent Investment Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/ejf-investments-ltd-npv--ejfi/recent-investment-announcement/9845875",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The vague 'Recent Investment Announcement' headline without disclosed figures or asset details suggests a minor portfolio adjustment typical of small-cap investment trusts, lacking the materiality to drive immediate valuation re-rating.",
+      "key_themes": [
+        "portfolio_activity",
+        "low_materiality"
+      ]
     },
     {
       "timestamp": "2026-09-04T07:00:00",
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/ejf-investments-ltd-npv--ejfi/directorate-change/9755158",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative update regarding board composition for a small-cap investment trust; without details on the appointee's background or specific mandate, this lacks immediate strategic weight compared to major capital events.",
+      "key_themes": [
+        "corporate_governance",
+        "small_cap"
+      ]
     },
     {
       "timestamp": "2026-08-25T11:54:00",
       "category": "Results",
       "headline": "Quarterly Report",
       "url": "https://www.investegate.co.uk/announcement/rns/ejf-investments-ltd-npv--ejfi/quarterly-report/9739191",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "Quarterly reports for investment trusts like EJF provide essential NAV and OCF updates but rarely trigger immediate price action unless they signal a significant shift in gearing or dividend policy; this is standard monitoring data rather than a market-moving event.",
+      "key_themes": [
+        "NAV Update",
+        "Dividend Monitoring"
+      ]
     },
     {
       "timestamp": "2026-08-14T13:16:00",
       "category": null,
       "headline": "Cessation of Manager Reinvestment Program",
       "url": "https://www.investegate.co.uk/announcement/rns/ejf-investments-ltd-npv--ejfi/cessation-of-manager-reinvestment-program/9723153",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Cessation of reinvestment signals a shift from aggressive growth to capital preservation, likely reflecting a lack of attractive investment opportunities or a desire to return cash to shareholders via dividends/buybacks rather than dilutive issuance.",
+      "key_themes": []
     },
     {
       "timestamp": "2026-07-27T07:00:00",
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/ejf-investments-ltd-npv--ejfi/dividend-declaration/9687631",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a closed-end investment trust with no underlying operating business, dividend declarations are administrative necessities rather than value drivers; the market focuses on NAV performance and discount/premium dynamics rather than payout changes.",
+      "key_themes": [
+        "Closed-End Fund",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-10T17:15:00",
       "category": null,
       "headline": "Recent Investment Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/ejf-investments-ltd-npv--ejfi/recent-investment-announcement/9664006",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The vague headline 'Recent Investment Announcement' without disclosed figures or asset details suggests a minor portfolio adjustment typical of small-cap investment trusts, lacking the materiality to drive significant valuation re-rating.",
+      "key_themes": [
+        "portfolio_activity",
+        "low_materiality"
+      ]
     },
     {
       "timestamp": "2026-06-30T15:29:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/ejf-investments-ltd-npv--ejfi/total-voting-rights/9645215",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,6 +102,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of Annual General Meeting and Class Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/ejf-investments-ltd-npv--ejfi/notice-of-annual-general-meeting-and-class-meeting/9630749",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,6 +113,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/ejf-investments-ltd-npv--ejfi/total-voting-rights/9592881",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -100,6 +124,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/ejf-investments-ltd-npv--ejfi/issue-of-equity/9590711",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,

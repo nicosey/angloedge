@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-biodynamics--obd/holding-s-in-company/9872982",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-biodynamics--obd/holding-s-in-company/9871304",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,36 +32,51 @@
       "category": null,
       "headline": "Operational Update",
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-biodynamics--obd/operational-update/9863833",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Operational updates for pre-revenue biotech firms like OBD typically signal incremental clinical or regulatory milestones rather than financial inflection points; without specific data on trial progress or funding in the prompt, this is classified as routine administrative disclosure with limited immediate market impact.",
+      "key_themes": [
+        "biotech",
+        "clinical_development",
+        "pre_revenue"
+      ]
     },
     {
       "timestamp": "2026-11-05T07:00:00",
       "category": null,
       "headline": "First pharma agreement for EpiSwitch Orion",
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-biodynamics--obd/first-pharma-agreement-for-episwitch-orion/9859325",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Securing a pharma partnership validates EpiSwitch Orion's commercial potential in the competitive liquid biopsy market, offering a crucial revenue milestone for OBD despite the typical low valuation of early-stage diagnostic licensing deals.",
+      "key_themes": [
+        "commercial validation",
+        "diagnostics",
+        "partnership"
+      ]
     },
     {
       "timestamp": "2026-11-03T07:00:00",
       "category": null,
       "headline": "Delayed Settlement Resolved",
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-biodynamics--obd/delayed-settlement-resolved/9854672",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Resolution of a delayed settlement is an administrative procedural update with negligible fundamental impact on Oxford Biodynamics' clinical pipeline or valuation, reflecting standard market infrastructure mechanics rather than corporate strategy.",
+      "key_themes": [
+        "administrative",
+        "settlement"
+      ]
     },
     {
       "timestamp": "2026-10-01T16:07:00",
       "category": "Placing",
       "headline": "Extension of Timetable in relation to Placing",
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-biodynamics--obd/extension-of-timetable-in-relation-to-placing-/9802755",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 4,
       "insight": "Administrative delay in a placing timetable typically signals minor operational friction rather than fundamental distress; for OBD, this is routine housekeeping with negligible immediate impact on valuation or investor sentiment.",
@@ -73,6 +90,7 @@
       "category": "Director Dealing",
       "headline": "PDMR Dealing / Grant of Share Options",
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-biodynamics--obd/pdmr-dealing-grant-of-share-options/9778541",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR dealings and option grants are standard administrative events for Oxford Biodynamics, reflecting internal compensation structures rather than significant insider sentiment shifts or strategic pivots in the biotech sector.",
@@ -86,16 +104,21 @@
       "category": null,
       "headline": "Orion reveals link between five fatigue conditions",
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-biodynamics--obd/orion-reveals-link-between-five-fatigue-conditions/9754462",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard press release from Orion Biotechnology regarding its portfolio company, not OBD itself; it highlights scientific validation for fatigue treatments but carries no immediate financial or strategic implication for Oxford Biodynamics' valuation or operations.",
+      "key_themes": [
+        "Portfolio Company Update",
+        "Scientific Validation"
+      ]
     },
     {
       "timestamp": "2026-09-01T10:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-biodynamics--obd/holding-s-in-company/9749182",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -106,6 +129,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-biodynamics--obd/holding-s-in-company/9749181",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -116,6 +140,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-biodynamics--obd/holding-s-in-company/9746425",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -126,6 +151,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-biodynamics--obd/holding-s-in-company/9746420",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -136,56 +162,80 @@
       "category": "Appointment",
       "headline": "Board Appointment",
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-biodynamics--obd/board-appointment/9742146",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board appointments for a micro-cap biotech like OBD typically signal governance maintenance rather than strategic pivots; without details on the appointee's specific expertise in clinical trials or regulatory affairs, the market impact is negligible compared to data readouts.",
+      "key_themes": [
+        "governance",
+        "micro-cap",
+        "biotech"
+      ]
     },
     {
       "timestamp": "2026-08-26T11:50:00",
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-biodynamics--obd/result-of-general-meeting/9741364",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at Oxford Biodynamics' AGM/EGM, typically ratifying routine matters such as director reappointments or fee approvals rather than signaling strategic shifts or capital raises.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-08-13T07:00:00",
       "category": null,
       "headline": "Partnership with Dubai London Clinics & Hospitals",
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-biodynamics--obd/partnership-with-dubai-london-clinics-hospitals/9719108",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This partnership represents a commercial validation of Oxford Biodynamics' gene therapy platform in the Middle East but lacks immediate revenue visibility or material financial impact for a micro-cap biotech; such MOUs are standard pipeline development steps rather than transformative events.",
+      "key_themes": [
+        "commercialisation",
+        "international expansion"
+      ]
     },
     {
       "timestamp": "2026-08-10T14:00:00",
       "category": "Placing",
       "headline": "Fundraising, Posting of Circular & Notice of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-biodynamics--obd/fundraising-posting-of-circular-notice-of-gm/9713768",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This capital raise is critical for Oxford Biodynamics to fund its Phase 3 trials for OBD-102 and sustain operations without immediate dilution from further fundraising, addressing the persistent liquidity risks typical of pre-commercial biotechs.",
+      "key_themes": [
+        "Capital Raise",
+        "Biotech Liquidity",
+        "Clinical Stage"
+      ]
     },
     {
       "timestamp": "2026-07-28T07:00:00",
       "category": null,
       "headline": "First commercial agreement for EpiSwitch® Orion",
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-biodynamics--obd/first-commercial-agreement-for-episwitch-orion/9689971",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "Marks a critical validation of Oxford Biodynamics' proprietary EpiSwitch® technology by securing its first commercial agreement for the Orion platform, signaling potential revenue generation and de-risking the diagnostic pipeline in a competitive biomarker sector.",
+      "key_themes": [
+        "Commercialization",
+        "Diagnostics",
+        "Revenue Milestone"
+      ]
     },
     {
       "timestamp": "2026-07-17T09:15:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-biodynamics--obd/holding-s-in-company/9674717",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -196,16 +246,22 @@
       "category": null,
       "headline": "US contract sales partnership",
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-biodynamics--obd/us-contract-sales-partnership/9643232",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This partnership validates Oxford Biodynamics' platform technology and provides a potential revenue stream through royalties or milestones, though it does not immediately alter the company's cash burn rate or clinical timeline.",
+      "key_themes": [
+        "commercialisation",
+        "platform validation",
+        "revenue diversification"
+      ]
     },
     {
       "timestamp": "2026-06-30T07:01:00",
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-biodynamics--obd/interim-results/9643173",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Interim results for a small-cap biotech like OBD are critical for assessing cash burn rates and clinical milestone progress in the volatile cell therapy sector, directly influencing investor sentiment ahead of potential funding needs or partnership developments.",

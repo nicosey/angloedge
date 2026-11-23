@@ -10,36 +10,49 @@
       "category": null,
       "headline": "Kromek receives £2.5m order from UK MOD",
       "url": "https://www.investegate.co.uk/announcement/rns/kromek-group--kmk/kromek-receives-2-5m-order-from-uk-mod/9882974",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This order validates Kromek's strategic pivot toward defence and security applications, providing tangible revenue visibility in a high-growth sector but remains modest relative to the company's overall market cap.",
+      "key_themes": [
+        "Defence Spending",
+        "Revenue Diversification"
+      ]
     },
     {
       "timestamp": "2026-11-05T07:00:00",
       "category": null,
       "headline": "Kromek receives $1.4m Advanced Imaging order",
       "url": "https://www.investegate.co.uk/announcement/rns/kromek-group--kmk/kromek-receives-1-4m-advanced-imaging-order/9859318",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "While the $1.4m order provides incremental revenue visibility for Kromek's Advanced Imaging segment, it remains immaterial relative to the company's total annual turnover and does not signal a structural shift in demand or market share.",
+      "key_themes": [
+        "Revenue Update",
+        "Advanced Imaging"
+      ]
     },
     {
       "timestamp": "2026-10-23T12:13:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/kromek-group--kmk/result-of-agm/9839328",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which typically rubber-stamps routine governance matters without altering the company's strategic trajectory or financial outlook.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-10-02T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM, Directorate Changes & Annual Report",
       "url": "https://www.investegate.co.uk/announcement/rns/kromek-group--kmk/notice-of-agm-directorate-changes-annual-report/9803044",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,16 +63,21 @@
       "category": null,
       "headline": "Notice of Investor Webinar",
       "url": "https://www.investegate.co.uk/announcement/rns/kromek-group--kmk/notice-of-investor-webinar/9775993",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations event with no immediate price-sensitive information; while Kromek's deep tech portfolio in radiation detection and laser systems offers long-term optionality, the webinar itself does not alter the fundamental valuation or risk profile.",
+      "key_themes": [
+        "Investor Relations",
+        "Corporate Communications"
+      ]
     },
     {
       "timestamp": "2026-09-15T11:36:00",
       "category": "Director Dealing",
       "headline": "Director Share Purchase",
       "url": "https://www.investegate.co.uk/announcement/rns/kromek-group--kmk/director-share-purchase/9773144",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director share purchases by Kromek signal internal confidence but lack the scale to influence market dynamics, especially given the company's historical volatility in the defence and security electronics sector.",
@@ -73,6 +91,7 @@
       "category": "Director Dealing",
       "headline": "Director Share Purchase",
       "url": "https://www.investegate.co.uk/announcement/rns/kromek-group--kmk/director-share-purchase/9770876",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director share purchases by Kromek signal personal confidence but lack the scale to influence market dynamics, especially given the company's historical volatility in the defence and security electronics sector.",
@@ -86,16 +105,22 @@
       "category": null,
       "headline": "Delivery of Third Milestone and Grant of Options",
       "url": "https://www.investegate.co.uk/announcement/rns/kromek-group--kmk/delivery-of-third-milestone-and-grant-of-options/9707317",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The milestone delivery confirms progress in Kromek's commercialization of high-value radiation detection technology, validating the revenue model for its defense and security portfolio. The grant of options serves as a standard retention mechanism for key technical staff but does not alter the fundamental valuation thesis.",
+      "key_themes": [
+        "commercialisation",
+        "defense tech",
+        "management incentives"
+      ]
     },
     {
       "timestamp": "2026-08-03T07:00:00",
       "category": "Director Dealing",
       "headline": "Director Share Purchase",
       "url": "https://www.investegate.co.uk/announcement/rns/kromek-group--kmk/director-share-purchase/9699737",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director share purchases are standard insider activity that rarely signal immediate fundamental shifts in the complex defence and security electronics sector without accompanying volume data or board-level context.",
@@ -109,10 +134,14 @@
       "category": null,
       "headline": "Launch of new interactive investor hub",
       "url": "https://www.investegate.co.uk/announcement/rns/kromek-group--kmk/launch-of-new-interactive-investor-hub/9596041",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations initiative designed to improve retail engagement rather than a fundamental business development; such digital infrastructure updates are routine and carry negligible immediate financial impact on Kromek's valuation or operational trajectory.",
+      "key_themes": [
+        "Investor Relations",
+        "Digital Infrastructure"
+      ]
     }
   ]
 }

@@ -10,26 +10,35 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/murray-income-trust--mut/result-of-agm/9848786",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine confirmation of shareholder approval for standard governance items such as director re-election and fee approvals; lacks any substantive strategic shift or capital allocation change that would alter the trust's valuation or investment thesis.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-09-14T11:00:00",
       "category": null,
       "headline": "Retail Shareholder Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/murray-income-trust--mut/retail-shareholder-presentation/9770535",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations activity with no immediate price-sensitive information; such presentations are routine for closed-end funds to maintain shareholder engagement and explain NAV discounts/premiums without altering the investment thesis.",
+      "key_themes": [
+        "Investor Relations",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-09-01T07:00:00",
       "category": null,
       "headline": "Kepler Trust Intelligence: New Research",
       "url": "https://www.investegate.co.uk/announcement/rns/murray-income-trust--mut/kepler-trust-intelligence-new-research/9747547",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +49,7 @@
       "category": null,
       "headline": "Kepler Trust Intelligence: New Research",
       "url": "https://www.investegate.co.uk/announcement/rns/murray-income-trust--mut/kepler-trust-intelligence-new-research/9747546",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +60,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/murray-income-trust--mut/director-pdmr-shareholding/9727709",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on share price dynamics or valuation metrics for a closed-end fund like Murray Income Trust.",
@@ -63,6 +74,7 @@
       "category": null,
       "headline": "Compliance with Market Abuse Regulation",
       "url": "https://www.investegate.co.uk/announcement/rns/murray-income-trust--mut/compliance-with-market-abuse-regulation/9711923",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,16 +85,21 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/murray-income-trust--mut/dividend-declaration/9694705",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine dividend declaration typical for closed-end investment trusts; while critical for income-focused investors, it lacks the transformative catalysts required to drive significant share price re-rating in the current high-yield environment.",
+      "key_themes": [
+        "Dividend",
+        "Income Trust"
+      ]
     },
     {
       "timestamp": "2026-05-28T08:59:00",
       "category": null,
       "headline": "QuotedData's In The HotSeat Special",
       "url": "https://www.investegate.co.uk/announcement/rns/murray-income-trust--mut/quoteddata-s-in-the-hotseat-special/9589691",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,

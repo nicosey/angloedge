@@ -10,16 +10,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/orchard-funding-group--orch/result-of-agm/9685013",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which typically rubber-stamps routine governance matters without altering the company's strategic trajectory or financial outlook.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-07-07T14:16:00",
       "category": "Dividend",
       "headline": "Notice of AGM and dividend timetable",
       "url": "https://www.investegate.co.uk/announcement/rns/orchard-funding-group--orch/notice-of-agm-and-dividend-timetable/9656673",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/orchard-funding-group--orch/holding-s-in-company/9635424",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

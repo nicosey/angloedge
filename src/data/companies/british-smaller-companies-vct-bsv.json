@@ -10,16 +10,22 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct--bsv/dividend-declaration/9855544",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a VCT, the dividend declaration is the primary value driver for income-focused investors, directly reflecting the fund's ability to generate taxable income and maintain its tax-efficient status in a challenging small-cap equity environment.",
+      "key_themes": [
+        "VCT",
+        "Income Distribution",
+        "Tax Efficiency"
+      ]
     },
     {
       "timestamp": "2026-10-14T11:00:00",
       "category": null,
       "headline": "Admission of Further Shares to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct--bsv/admission-of-further-shares-to-trading/9822760",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +36,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct--bsv/transaction-in-own-shares/9772977",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +47,7 @@
       "category": "Results",
       "headline": "1st Quarter Results",
       "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct--bsv/1st-quarter-results/9767720",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a VCT, quarterly results primarily signal dividend sustainability and NAV stability rather than operational growth; in the current high-yield environment, this update is critical for income-focused investors assessing the fund's ability to maintain tax-efficient payouts amidst volatile smaller-cap markets.",
@@ -54,30 +62,44 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct--bsv/result-of-agm/9765639",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of an Annual General Meeting for a Venture Capital Trust, which typically involves routine approvals such as fee payments and director re-elections rather than strategic shifts or capital events.",
+      "key_themes": [
+        "Corporate Governance",
+        "VCT"
+      ]
     },
     {
       "timestamp": "2026-07-17T11:26:00",
       "category": "Dividend",
       "headline": "Payment of Dividend and Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct--bsv/payment-of-dividend-and-issue-of-equity/9674987",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The dual announcement of a dividend payment alongside an equity issue is standard operational mechanics for VCTs to maintain liquidity and meet investment targets, but the capital raise dilutes existing shareholders slightly while ensuring continued tax-advantaged exposure to the smaller cap sector.",
+      "key_themes": [
+        "VCT",
+        "Capital Raising",
+        "Dividend"
+      ]
     },
     {
       "timestamp": "2026-06-11T12:15:00",
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct--bsv/annual-financial-report/9614047",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a VCT, the annual report primarily confirms dividend eligibility and NAV stability rather than signaling transformative growth; without specific data on new investments or NAV movement, this is standard regulatory disclosure for income-focused vehicles.",
+      "key_themes": [
+        "VCT",
+        "Annual Report",
+        "Income"
+      ]
     }
   ]
 }

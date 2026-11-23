@@ -2,14 +2,29 @@
   "name": "THE STANDARD BANK OF SOUTH AFRICA LIMITED",
   "ticker": "67PJ",
   "slug": "the-standard-bank-of-south-africa-67pj",
-  "announcement_count": 4,
-  "latest_announcement": "2026-10-21T08:30:00",
+  "announcement_count": 5,
+  "latest_announcement": "2026-11-23T15:17:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T15:17:00",
+      "category": null,
+      "headline": "Change of Adviser",
+      "url": "https://www.investegate.co.uk/announcement/rns/the-standard-bank-of-south-africa-limited--67pj/change-of-adviser/9889547",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the appointment of a new adviser, likely for regulatory compliance or corporate governance purposes rather than a strategic shift. In the banking sector, such changes are routine and carry no immediate implication for financial performance or share price direction.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
+    },
     {
       "timestamp": "2026-10-21T08:30:00",
       "category": "Results",
       "headline": "3rd Quarter Results",
       "url": "https://www.investegate.co.uk/announcement/rns/the-standard-bank-of-south-africa-limited--67pj/3rd-quarter-results-/9833891",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a major UK-listed proxy for South African financials, this update provides critical visibility into the health of the SARB's core lending book and asset quality amid local economic headwinds. The results will likely influence sentiment towards other FTSE 100 banks with emerging market exposure, particularly regarding credit cost normalization.",
@@ -23,30 +38,43 @@
       "category": null,
       "headline": "Publication of a Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/the-standard-bank-of-south-africa-limited--67pj/publication-of-a-prospectus/9799264",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard regulatory filing for the publication of a prospectus, likely related to a debt issuance or listing rather than an equity offering, indicating routine capital management rather than transformative strategic activity.",
+      "key_themes": [
+        "capital_markets",
+        "regulatory_compliance"
+      ]
     },
     {
       "timestamp": "2026-09-30T12:28:00",
       "category": null,
       "headline": "Publication of a Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/the-standard-bank-of-south-africa-limited--67pj/publication-of-a-prospectus/9799259",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard regulatory filing for the publication of a prospectus, likely related to a debt issuance or listing requirement rather than an equity offering. While it confirms capital market activity, the absence of details on size or purpose limits immediate strategic interpretation compared to transformative events.",
+      "key_themes": [
+        "Capital Markets",
+        "Regulatory Filing"
+      ]
     },
     {
       "timestamp": "2026-08-13T09:42:00",
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/the-standard-bank-of-south-africa-limited--67pj/half-year-financial-report/9720359",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a South African entity listed on the LSE, this report is subject to dual-market dynamics; investors will scrutinize ZAR/GBP currency translation effects and local credit cost trends against the backdrop of global banking rate environments.",
+      "key_themes": [
+        "Interim Results",
+        "FX Exposure",
+        "Credit Quality"
+      ]
     }
   ]
 }

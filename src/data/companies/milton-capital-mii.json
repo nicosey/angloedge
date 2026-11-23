@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Unaudited interim results to 31 July 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/milton-capital--mii/unaudited-interim-results-to-31-july-2026/9806414",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a closed-end investment trust, Milton Capital's interim results provide critical visibility into its private equity portfolio valuation and liquidity management rather than operational earnings. The market will scrutinize the net asset value (NAV) movement and distribution policy to assess how the firm is navigating the current high-interest-rate environment and exit challenges in the UK mid-market.",
@@ -24,26 +25,35 @@
       "category": "Acquisition",
       "headline": "Proposed Acquisition and Suspension of Listing",
       "url": "https://www.investegate.co.uk/announcement/rns/milton-capital--mii/proposed-acquisition-and-suspension-of-listing/9756014",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "The suspension of listing for a proposed acquisition signals a fundamental corporate restructuring or potential delisting event, which typically triggers significant liquidity risk and valuation uncertainty for minority shareholders.",
+      "key_themes": [
+        "Corporate Restructuring",
+        "Liquidity Risk"
+      ]
     },
     {
       "timestamp": "2026-07-02T11:51:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/milton-capital--mii/result-of-agm/9649878",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director re-elections and auditor appointments rather than strategic shifts or capital changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-06-08T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/milton-capital--mii/notice-of-agm/9605504",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -54,10 +64,14 @@
       "category": null,
       "headline": "AUDITED ACCOUNTS TO 31 JANUARY 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/milton-capital--mii/audited-accounts-to-31-january-2026-/9592506",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard annual statutory filing for an investment trust, providing routine transparency on NAV and portfolio holdings rather than signaling any strategic shift or material performance deviation.",
+      "key_themes": [
+        "Annual Results",
+        "Investment Trust"
+      ]
     }
   ]
 }

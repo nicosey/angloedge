@@ -10,36 +10,49 @@
       "category": null,
       "headline": "Reinvestment of Management Fees",
       "url": "https://www.investegate.co.uk/announcement/rns/fair-oaks-income-limited-2021-shs-npv--fair/reinvestment-of-management-fees/9844631",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding the reinvestment of management fees into the company's own shares, a routine mechanism for investment trusts that has no immediate impact on operational performance or valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-20T07:00:00",
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/fair-oaks-income-limited-2021-shs-npv--fair/dividend-declaration/9730781",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine dividend declaration for a closed-end investment trust; while consistent payouts support the income mandate, this is standard operational activity rather than a catalyst for capital appreciation or structural change.",
+      "key_themes": [
+        "Income Trust",
+        "Dividend Payout"
+      ]
     },
     {
       "timestamp": "2026-07-15T11:15:00",
       "category": "AGM/EGM",
       "headline": "Result of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/fair-oaks-income-limited-2021-shs-npv--fair/result-of-annual-general-meeting/9670343",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for a closed-end investment trust typically confirm standard governance matters without altering the fundamental valuation thesis or capital structure.",
+      "key_themes": [
+        "Corporate Governance",
+        "Closed-End Fund"
+      ]
     },
     {
       "timestamp": "2026-07-03T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/fair-oaks-income-limited-2021-shs-npv--fair/notice-of-agm/9650697",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,30 +63,43 @@
       "category": null,
       "headline": "Final Redemption of Realisation Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/fair-oaks-income-limited-2021-shs-npv--fair/final-redemption-of-realisation-shares/9642791",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This administrative closure of the realisation share class signals the final winding-up phase of a closed-end fund, typically resulting in negligible liquidity impact for active traders while confirming the end of capital deployment activities.",
+      "key_themes": [
+        "Fund Winding Up",
+        "Administrative Action"
+      ]
     },
     {
       "timestamp": "2026-06-11T07:00:00",
       "category": "Dividend",
       "headline": "Dividend Currency Election & Election Method",
       "url": "https://www.investegate.co.uk/announcement/rns/fair-oaks-income-limited-2021-shs-npv--fair/dividend-currency-election-election-method/9612456",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding dividend payment mechanics for an investment trust, carrying no fundamental change to the company's valuation or strategy.",
+      "key_themes": [
+        "Corporate Action",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-05-28T07:00:00",
       "category": "Dividend",
       "headline": "Dividend Declaration & Realisation Shares Update",
       "url": "https://www.investegate.co.uk/announcement/rns/fair-oaks-income-limited-2021-shs-npv--fair/dividend-declaration-realisation-shares-update/9588663",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The declaration of a dividend confirms the fund's ability to generate distributable income from its underlying assets, while the 'realisation shares' update provides critical visibility on liquidity execution and NAV preservation in a challenging UK small-cap exit environment.",
+      "key_themes": [
+        "Income Distribution",
+        "NAV Realisation",
+        "UK Equity Fund"
+      ]
     }
   ]
 }

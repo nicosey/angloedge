@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Top 10 and Geographical Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/merchants-trust--mrch/top-10-and-geographical-holdings-/9860706",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure of portfolio composition with no new strategic information or price-sensitive data, offering limited utility for immediate valuation adjustments beyond confirming current sector exposure.",
+      "key_themes": [
+        "Portfolio Transparency",
+        "Administrative Disclosure"
+      ]
     },
     {
       "timestamp": "2026-11-04T16:17:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/merchants-trust--mrch/director-pdmr-shareholding/9858894",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Director dealings are routine administrative disclosures with negligible fundamental impact on Merchants Trust's valuation or strategy, reflecting standard regulatory compliance rather than significant insider sentiment shifts.",
@@ -33,26 +38,35 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/merchants-trust--mrch/directorate-change/9841970",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board-level personnel adjustments in investment trusts typically signal governance continuity rather than strategic pivots; without details on the specific director's expertise or tenure, this is classified as administrative with minimal immediate market impact.",
+      "key_themes": [
+        "Governance",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-10-12T15:35:00",
       "category": null,
       "headline": "Top 10 and Geographical Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/merchants-trust--mrch/top-10-and-geographical-holdings-/9818858",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure of portfolio composition with no new strategic direction or financial data; it serves primarily for transparency rather than signaling immediate market-moving events.",
+      "key_themes": [
+        "Portfolio Transparency",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-09-23T14:26:00",
       "category": null,
       "headline": "Block Listing Return",
       "url": "https://www.investegate.co.uk/announcement/rns/merchants-trust--mrch/block-listing-return/9787504",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,16 +77,21 @@
       "category": null,
       "headline": "Top 10 and Geographical Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/merchants-trust--mrch/top-10-and-geographical-holdings/9771247",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure of portfolio composition rather than a material corporate event; while it offers transparency into the trust's current sector allocation and geographic exposure, it does not signal immediate strategic shifts or value-creating catalysts.",
+      "key_themes": [
+        "Portfolio Transparency",
+        "Investment Trust"
+      ]
     },
     {
       "timestamp": "2026-08-19T10:25:00",
       "category": null,
       "headline": "MAR Closed Period",
       "url": "https://www.investegate.co.uk/announcement/rns/merchants-trust--mrch/mar-closed-period/9729822",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,50 +102,71 @@
       "category": "Dividend",
       "headline": "Top 10 & Geographical Distribution",
       "url": "https://www.investegate.co.uk/announcement/rns/merchants-trust--mrch/top-10-geographical-distribution-/9707007",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure required for investment trusts to maintain transparency regarding portfolio concentration and exposure, carrying no immediate price-moving catalysts.",
+      "key_themes": [
+        "transparency",
+        "portfolio_disclosure"
+      ]
     },
     {
       "timestamp": "2026-07-07T15:29:00",
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/merchants-trust--mrch/dividend-declaration/9656828",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a long-standing UK investment trust with a focus on private equity and infrastructure, the dividend declaration signals continued cash flow generation from its underlying portfolio assets, reinforcing its appeal to income-focused investors in the current high-yield environment.",
+      "key_themes": [
+        "investment trust",
+        "income distribution",
+        "private equity exposure"
+      ]
     },
     {
       "timestamp": "2026-06-25T09:38:00",
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/merchants-trust--mrch/directorate-change/9636571",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board-level personnel adjustments in closed-end investment trusts typically signal governance continuity rather than strategic pivots, lacking the catalyst potential of M&A or leadership crises seen in peers like Baillie Gifford.",
+      "key_themes": [
+        "Corporate Governance",
+        "Investment Trusts"
+      ]
     },
     {
       "timestamp": "2026-06-08T17:22:00",
       "category": null,
       "headline": "Portfolio Update",
       "url": "https://www.investegate.co.uk/announcement/rns/merchants-trust--mrch/portfolio-update/9607539",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a closed-end investment trust, portfolio updates are standard disclosures that rarely move the share price unless they signal a major strategic pivot or significant NAV change; without specific transaction details, this is routine investor communication.",
+      "key_themes": [
+        "Investment Trust",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-06-08T11:10:00",
       "category": "Dividend",
       "headline": "Top 10 & Geographical Distribution",
       "url": "https://www.investegate.co.uk/announcement/rns/merchants-trust--mrch/top-10-geographical-distribution/9606841",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure for an investment trust, providing portfolio transparency but offering no new strategic direction or financial performance data to drive valuation changes.",
+      "key_themes": [
+        "Investment Trust",
+        "Portfolio Disclosure"
+      ]
     }
   ]
 }

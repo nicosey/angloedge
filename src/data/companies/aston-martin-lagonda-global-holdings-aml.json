@@ -10,36 +10,51 @@
       "category": null,
       "headline": "Response to investor questions",
       "url": "https://www.investegate.co.uk/announcement/rns/aston-martin-lagonda-global-holdings--aml/response-to-investor-questions/9687776",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a standard investor relations update for a capital-intensive OEM navigating the EV transition, this lacks material price-sensitive information; AML's valuation remains tethered to execution risks and liquidity concerns rather than routine Q&A.",
+      "key_themes": [
+        "Investor Relations",
+        "EV Transition"
+      ]
     },
     {
       "timestamp": "2026-07-22T16:37:00",
       "category": null,
       "headline": "New £550 million debt financing",
       "url": "https://www.investegate.co.uk/announcement/rns/aston-martin-lagonda-global-holdings--aml/new-550-million-debt-financing/9682728",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "This £550m refinancing is critical for Aston Martin's survival during its transition to electrification, extending debt maturity and providing liquidity amid high interest rates and falling EV demand. It mirrors the precarious financial maneuvering seen in other legacy automakers but underscores the intense capital intensity required to avoid insolvency while scaling production.",
+      "key_themes": [
+        "Debt Refinancing",
+        "EV Transition",
+        "Liquidity Management"
+      ]
     },
     {
       "timestamp": "2026-06-26T09:00:00",
       "category": null,
       "headline": "Yew Tree Consortium Facility closing conditions",
       "url": "https://www.investegate.co.uk/announcement/rns/aston-martin-lagonda-global-holdings--aml/yew-tree-consortium-facility-closing-conditions/9639061",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The closure of the Yew Tree Consortium facility provides critical liquidity runway for Aston Martin's EV transition, mitigating immediate solvency risks but underscoring the capital intensity of their electrification strategy amidst a challenging luxury auto market.",
+      "key_themes": [
+        "liquidity",
+        "EV transition",
+        "capital raising"
+      ]
     },
     {
       "timestamp": "2026-06-09T11:32:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/aston-martin-lagonda-global-holdings--aml/director-pdmr-shareholding/9609303",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard administrative filings with negligible immediate impact on AML's valuation, especially given the company's ongoing restructuring and liquidity challenges in the competitive luxury EV sector.",
@@ -53,6 +68,7 @@
       "category": null,
       "headline": "Issue of equity to satisfy share awards",
       "url": "https://www.investegate.co.uk/announcement/rns/aston-martin-lagonda-global-holdings--aml/issue-of-equity-to-satisfy-share-awards/9600690",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,

@@ -10,6 +10,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/black-sea-property-plc--bsp/notice-of-agm-2026-/9863483",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,20 +21,29 @@
       "category": "Appointment",
       "headline": "Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/black-sea-property-plc--bsp/board-changes-/9698181",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Board changes in UK property firms often signal underlying governance friction or strategic realignment during periods of high interest rates and refinancing pressure; without details on the appointee's track record, this remains a neutral administrative update rather than a value driver.",
+      "key_themes": [
+        "Governance",
+        "UK Real Estate"
+      ]
     },
     {
       "timestamp": "2026-06-30T08:28:00",
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/black-sea-property-plc--bsp/annual-financial-report-/9644116",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a micro-cap with negligible liquidity and market capitalisation, BSP's annual report is unlikely to move the broader property sector or attract institutional interest, reflecting typical administrative disclosure for this tier of the UK equity market.",
+      "key_themes": [
+        "micro-cap",
+        "annual results",
+        "low liquidity"
+      ]
     }
   ]
 }

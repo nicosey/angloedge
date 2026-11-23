@@ -10,16 +10,21 @@
       "category": "Appointment",
       "headline": "Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/checkit--ckt/board-changes/9835260",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board changes in the UK SME space typically signal governance maintenance rather than strategic pivots; without details on the appointee's background or specific mandate, this lacks the catalyst potential for significant re-rating.",
+      "key_themes": [
+        "Corporate Governance",
+        "SME Administration"
+      ]
     },
     {
       "timestamp": "2026-10-01T07:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/checkit--ckt/director-pdmr-shareholding/9800256",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on CKT's valuation or liquidity, reflecting normal insider activity rather than a strategic shift.",
@@ -33,6 +38,7 @@
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/checkit--ckt/interim-results/9792925",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a niche player in the UK's fragmented IT support market, Checkit's interim results provide critical visibility into demand resilience and margin pressure within the B2B services sector, though lacking the transformative scale of major M&A or significant profit warnings.",
@@ -47,6 +53,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/checkit--ckt/holding-s-in-company/9768885",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -57,16 +64,22 @@
       "category": null,
       "headline": "Update on Formal Sale Process",
       "url": "https://www.investegate.co.uk/announcement/rns/checkit--ckt/update-on-formal-sale-process/9759931",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The initiation of a formal sale process for Checkit signals potential strategic realignment or exit for shareholders, reflecting the broader trend of consolidation in the UK's fragmented IT services sector where smaller players are increasingly targeted by PE firms or larger competitors.",
+      "key_themes": [
+        "M&A",
+        "Strategic Review",
+        "IT Services"
+      ]
     },
     {
       "timestamp": "2026-06-15T13:41:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/checkit--ckt/holding-s-in-company/9618924",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

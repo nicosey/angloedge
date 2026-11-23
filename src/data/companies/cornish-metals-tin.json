@@ -2,14 +2,29 @@
   "name": "Cornish Metals PLC",
   "ticker": "TIN",
   "slug": "cornish-metals-tin",
-  "announcement_count": 13,
-  "latest_announcement": "2026-11-11T17:40:00",
+  "announcement_count": 14,
+  "latest_announcement": "2026-11-23T09:38:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T09:38:00",
+      "category": null,
+      "headline": "EXERCISE OF STOCK OPTIONS AND ISSUE OF EQUITY",
+      "url": "https://www.investegate.co.uk/announcement/mfn/cornish-metals-plc--tin/exercise-of-stock-options-and-issue-of-equity/9888662",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure of employee stock option exercises, which typically results in negligible dilution compared to the company's exploration-stage capital requirements and market cap.",
+      "key_themes": [
+        "Corporate Governance",
+        "Minor Dilution"
+      ]
+    },
     {
       "timestamp": "2026-11-11T17:40:00",
       "category": null,
       "headline": "TR-1: Standard form for notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/mfn/cornish-metals-plc--tin/tr-1-standard-form-for-notification-of-major-/9870924",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +35,7 @@
       "category": null,
       "headline": "TR-1: Standard form for notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/mfn/cornish-metals-plc--tin/tr-1-standard-form-for-notification-of-major-/9870112",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +46,7 @@
       "category": null,
       "headline": "TR-1: Standard form for notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/mfn/cornish-metals-plc--tin/tr-1-standard-form-for-notification-of-major-/9870078",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,26 +57,36 @@
       "category": "AGM/EGM",
       "headline": "Result of General Meeting, Announcement of FID & Appointment of Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/mfn/cornish-metals-plc--tin/result-of-general-meeting-announcement-of-fi-/9865506",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The announcement of a Final Investment Decision (FID) for the Tamar Valley Project marks a critical de-risking milestone for Cornish Metals, transitioning from exploration to development and validating the UK's strategic push for domestic critical mineral supply chains ahead of potential EU/US IRA-style incentives.",
+      "key_themes": [
+        "FID",
+        "Critical Minerals",
+        "UK Mining"
+      ]
     },
     {
       "timestamp": "2026-11-02T12:18:00",
       "category": "Director Dealing",
       "headline": "GRANT OF AWARDS UNDER LONG TERM INCENTIVE PLAN AND PDMR SHAREHOLDINGS",
       "url": "https://www.investegate.co.uk/announcement/mfn/cornish-metals-plc--tin/grant-of-awards-under-long-term-incentive-pla-/9853636",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative disclosure regarding executive compensation and insider holdings, common in junior mining equities to align management interests with shareholders. It carries no immediate price-sensitive information or strategic shift for Cornish Metals.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Compensation"
+      ]
     },
     {
       "timestamp": "2026-10-23T10:06:00",
       "category": null,
       "headline": "Notice of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/mfn/cornish-metals-plc--tin/notice-of-general-meeting/9838844",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,46 +97,64 @@
       "category": null,
       "headline": "Capital Access Window - Cornish Metals Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/cornish-metals-plc--tin/capital-access-window-cornish-metals-plc/9836074",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative update regarding the reopening of the subscription window for the existing £15m placing, indicating no new capital raise or strategic shift. While it maintains liquidity options for Cornish Metals, it lacks the transformative catalysts required to drive significant share price movement in the current junior mining sector.",
+      "key_themes": [
+        "Capital Markets",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-10-20T07:05:00",
       "category": "Placing",
       "headline": "Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/mfn/cornish-metals-plc--tin/retail-offer/9830920",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This retail offer indicates a strategic pivot to broaden the shareholder base and enhance liquidity for a junior explorer, reflecting the current market's preference for accessible entry points in the critical minerals sector amidst volatile institutional sentiment.",
+      "key_themes": [
+        "capital_raise",
+        "liquidity",
+        "retail_investor"
+      ]
     },
     {
       "timestamp": "2026-10-14T07:30:00",
       "category": null,
       "headline": "Capital Access Window - Cornish Metals Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/cornish-metals-plc--tin/capital-access-window-cornish-metals-plc/9822110",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice confirming the reopening of the trading window for insiders following the closure period, indicating no immediate material news or capital raising activity.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Trading"
+      ]
     },
     {
       "timestamp": "2026-09-28T07:01:00",
       "category": "Appointment",
       "headline": "APPOINTMENT OF NON-EXECUTIVE DIRECTORS",
       "url": "https://www.investegate.co.uk/announcement/mfn/cornish-metals-plc--tin/appointment-of-non-executive-directors/9792952",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This appointment signals a strategic pivot towards operational maturity ahead of the Lappi-Kurikkala project's development phase, addressing investor concerns regarding execution risk in the current high-interest-rate environment.",
+      "key_themes": [
+        "Corporate Governance",
+        "Project Development"
+      ]
     },
     {
       "timestamp": "2026-07-23T15:34:00",
       "category": null,
       "headline": "Change of Registered Office",
       "url": "https://www.investegate.co.uk/announcement/mfn/cornish-metals-plc--tin/change-of-registered-office/9684977",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -120,6 +165,7 @@
       "category": "Results",
       "headline": "Results of 2026 Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/mfn/cornish-metals-plc--tin/results-of-2026-annual-general-meeting/9602345",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a routine administrative filing confirming the outcome of the AGM, which typically involves rubber-stamping management and auditor appointments rather than driving immediate share price volatility. For a junior explorer like Cornish Metals, the market focus remains on exploration updates and capital raises rather than governance procedural results.",
@@ -133,6 +179,7 @@
       "category": null,
       "headline": "TR-1: Standard form for notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/mfn/cornish-metals-plc--tin/tr-1-standard-form-for-notification-of-major-/9588291",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

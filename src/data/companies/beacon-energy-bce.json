@@ -10,36 +10,49 @@
       "category": "Director Dealing",
       "headline": "Director Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/beacon-energy-npv--bce/director-dealings/9812244",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Director dealings in the E&P sector are typically low-impact unless involving significant block sales by major stakeholders; without volume or price context, this is likely routine administrative disclosure rather than a signal of strategic shift.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
     },
     {
       "timestamp": "2026-10-07T07:00:00",
       "category": null,
       "headline": "Transaction Update",
       "url": "https://www.investegate.co.uk/announcement/rns/beacon-energy-npv--bce/transaction-update/9810118",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a pre-revenue exploration company, 'Transaction Update' announcements typically involve minor asset acquisitions or joint venture adjustments that rarely alter the fundamental valuation narrative without accompanying resource estimates.",
+      "key_themes": [
+        "Exploration",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-08-06T12:00:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM and Director Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/beacon-energy-npv--bce/result-of-agm-and-director-dealings/9708964",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting and routine director share dealings; it carries no material strategic weight or immediate financial implication for Beacon Energy's valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-08-04T11:43:00",
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/beacon-energy-npv--bce/notification-of-major-holdings/9704044",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +63,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/beacon-energy-npv--bce/notice-of-agm-/9652335",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +74,7 @@
       "category": "Results",
       "headline": "Final Results and Publication of Annual Report",
       "url": "https://www.investegate.co.uk/announcement/rns/beacon-energy-npv--bce/final-results-and-publication-of-annual-report-/9643174",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a micro-cap E&P firm, the publication of final results is routine but critical for validating reserve valuations and cash flow sustainability in the current high-interest-rate environment; lack of accompanying M&A or major capex updates suggests steady-state operations rather than transformative growth.",
@@ -73,10 +88,15 @@
       "category": null,
       "headline": "Strategic investor joins Colle Santo project",
       "url": "https://www.investegate.co.uk/announcement/rns/beacon-energy-npv--bce/strategic-investor-joins-colle-santo-project/9643047",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The entry of a strategic investor into the Colle Santo project signals validation of Beacon's upstream assets and likely provides non-dilutive capital to accelerate development, reducing execution risk in a sector where funding constraints often stall UK North Sea projects.",
+      "key_themes": [
+        "Strategic Partnership",
+        "Capital Efficiency",
+        "UK Oil & Gas"
+      ]
     }
   ]
 }

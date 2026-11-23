@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/smiths-news--snws/holding-s-in-company/9848562",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,21 @@
       "category": null,
       "headline": "Telegraph Media Group – National Contract Win",
       "url": "https://www.investegate.co.uk/announcement/rns/smiths-news--snws/telegraph-media-group-national-contract-win/9824892",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This contract win provides incremental revenue visibility for Smiths News' distribution segment but lacks the scale to alter long-term structural headwinds in print logistics or offset broader industry contraction.",
+      "key_themes": [
+        "Revenue Growth",
+        "Print Distribution"
+      ]
     },
     {
       "timestamp": "2026-10-09T08:41:00",
       "category": "Results",
       "headline": "Notice of Full Year Results",
       "url": "https://www.investegate.co.uk/announcement/rns/smiths-news--snws/notice-of-full-year-results/9815504",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As Smiths News is a dormant SPAC with no active trading volume or operational updates, this announcement serves only as a procedural compliance step for its shell status rather than conveying material financial performance.",
@@ -43,6 +49,7 @@
       "category": null,
       "headline": "Block Listing Interim Review",
       "url": "https://www.investegate.co.uk/announcement/rns/smiths-news--snws/block-listing-interim-review/9754225",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,6 +60,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/smiths-news--snws/holding-s-in-company/9708297",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,16 +71,22 @@
       "category": null,
       "headline": "National Contract Awards - Frontline and Seymour",
       "url": "https://www.investegate.co.uk/announcement/rns/smiths-news--snws/national-contract-awards-frontline-and-seymour/9673541",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Winning national contracts for Frontline and Seymour secures recurring revenue streams in the competitive UK newsagent distribution sector, reinforcing market share against rivals like WHSmith and independent logistics providers.",
+      "key_themes": [
+        "Revenue Growth",
+        "Market Share",
+        "Logistics"
+      ]
     },
     {
       "timestamp": "2026-06-29T10:52:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/smiths-news--snws/director-pdmr-shareholding/9641809",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements for Smiths News typically reflect standard compliance filings rather than significant insider sentiment shifts, offering minimal immediate signal amidst the broader logistics sector's margin pressures.",

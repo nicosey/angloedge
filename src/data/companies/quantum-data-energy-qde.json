@@ -10,16 +10,22 @@
       "category": null,
       "headline": "3rd FlexGen Asset Build Completed & Other Updates",
       "url": "https://www.investegate.co.uk/announcement/rns/quantum-data-energy-plc--qde/3rd-flexgen-asset-build-completed-other-updates/9805350",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Completion of the third FlexGen asset build confirms execution capability in the high-growth US battery storage market, validating QDE's project development model ahead of potential revenue recognition or refinancing milestones.",
+      "key_themes": [
+        "Project Execution",
+        "Renewable Infrastructure",
+        "US Market Expansion"
+      ]
     },
     {
       "timestamp": "2026-09-24T08:52:00",
       "category": "Trading Update",
       "headline": "Business Update and QDE CEO Interview",
       "url": "https://www.investegate.co.uk/announcement/rns/quantum-data-energy-plc--qde/business-update-and-qde-ceo-interview/9788974",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 4,
       "insight": "As a micro-cap with limited liquidity and no major corporate actions disclosed in the headline, this update is likely routine operational commentary rather than a value-driving event.",
@@ -33,26 +39,36 @@
       "category": null,
       "headline": "Restoration of Listing",
       "url": "https://www.investegate.co.uk/announcement/rns/quantum-data-energy-plc--qde/restoration-of-listing/9788943",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "Restoration of listing is a critical survival mechanism for QDE, preventing delisting and restoring market liquidity; this typically signals a successful resolution of compliance failures or capital raising hurdles, though it often comes with dilution risks.",
+      "key_themes": [
+        "Corporate Governance",
+        "Liquidity Restoration"
+      ]
     },
     {
       "timestamp": "2026-09-14T07:00:00",
       "category": null,
       "headline": "Hindlip Enters Commercial Operations",
       "url": "https://www.investegate.co.uk/announcement/rns/quantum-data-energy-plc--qde/hindlip-enters-commercial-operations/9769132",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Hindlip's commercial operation marks a critical de-risking milestone for QDE's renewable energy pipeline, validating the project's bankability and setting a precedent for future asset monetisation or refinancing in the current UK utility sector.",
+      "key_themes": [
+        "Renewable Energy",
+        "Project Completion",
+        "Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-09-02T14:00:00",
       "category": "Results",
       "headline": "Results of Reconvened AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/quantum-data-energy-plc--qde/results-of-reconvened-agm-/9752354",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a procedural administrative update regarding shareholder approval for the Annual General Meeting, carrying no intrinsic financial value or strategic direction for Quantum Data Energy PLC.",
@@ -66,36 +82,50 @@
       "category": "AGM/EGM",
       "headline": "Notice of Reconvened AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/quantum-data-energy-plc--qde/notice-of-reconvened-agm/9714384",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Reconvened AGMs are procedural necessities triggered by insufficient quorum at the initial meeting, indicating no new substantive corporate actions or strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-05T08:00:00",
       "category": null,
       "headline": "Update on Restoration of Listing and Share Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/quantum-data-energy-plc--qde/update-on-restoration-of-listing-and-share-trading/9705685",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Restoration of listing is an existential imperative for QDE; failure implies delisting and potential insolvency, marking a critical inflection point distinct from routine corporate updates.",
+      "key_themes": [
+        "Delisting Risk",
+        "Corporate Survival",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-08-05T07:00:00",
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/quantum-data-energy-plc--qde/annual-financial-report-/9704865",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a micro-cap with historically illiquid shares and limited institutional coverage, the annual report serves primarily as a compliance exercise rather than a catalyst for price discovery, lacking the transformative M&A or earnings surprise required to shift market sentiment.",
+      "key_themes": [
+        "compliance",
+        "micro-cap"
+      ]
     },
     {
       "timestamp": "2026-07-14T15:30:00",
       "category": null,
       "headline": "Warrant Expiry and Cancellation of Block Listings",
       "url": "https://www.investegate.co.uk/announcement/rns/quantum-data-energy-plc--qde/warrant-expiry-and-cancellation-of-block-listings/9668631",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -106,26 +136,36 @@
       "category": "AGM/EGM",
       "headline": "Results of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/quantum-data-energy-plc--qde/results-of-agm-/9644902",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results typically confirm shareholder ratification of standard governance items with negligible immediate financial impact, reflecting the low volatility characteristic of small-cap energy infrastructure equities.",
+      "key_themes": [
+        "corporate_governance",
+        "routine_administrative"
+      ]
     },
     {
       "timestamp": "2026-06-18T07:39:00",
       "category": "Appointment",
       "headline": "Company’s Response to Former Auditor Resignation",
       "url": "https://www.investegate.co.uk/announcement/rns/quantum-data-energy-plc--qde/company-s-response-to-former-auditor-resignation-/9624940",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Auditor resignations in the UK AIM market often signal governance friction or undisclosed liabilities, creating immediate liquidity and compliance risks for small-cap issuers like QDE that lack the balance sheet resilience of larger peers.",
+      "key_themes": [
+        "Governance Risk",
+        "Audit Independence",
+        "AIM Volatility"
+      ]
     },
     {
       "timestamp": "2026-06-08T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/quantum-data-energy-plc--qde/notice-of-agm/9605502",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -136,10 +176,14 @@
       "category": "Appointment",
       "headline": "Appointment of New Auditor Finalised",
       "url": "https://www.investegate.co.uk/announcement/rns/quantum-data-energy-plc--qde/appointment-of-new-auditor-finalised-/9598060",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update confirming the completion of an auditor appointment, likely following a change in audit firm or routine tender process. It carries no immediate financial implication for QDE's valuation or operational trajectory.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     }
   ]
 }

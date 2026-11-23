@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/nanoco-group--nano/notice-of-results/9882962",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the release date of results rather than the results themselves; without accompanying financial data or commentary, it carries no immediate market-moving weight for Nanoco's nanomaterials valuation.",
@@ -23,6 +24,7 @@
       "category": "Trading Update",
       "headline": "Full Year Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/nanoco-group--nano/full-year-trading-update/9728506",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a small-cap nanomaterials player with high volatility, any full-year update carries significant weight for liquidity and sentiment; however, without specific guidance on commercialization milestones or revenue beats, it remains a routine operational check rather than a transformative catalyst.",
@@ -37,6 +39,7 @@
       "category": "Director Dealing",
       "headline": "PDMR Shareholding and Deferred Bonus Options",
       "url": "https://www.investegate.co.uk/announcement/rns/nanoco-group--nano/pdmr-shareholding-and-deferred-bonus-options/9647145",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of insider shareholdings and deferred bonus options rather than an active trading event, indicating no immediate change in control or significant insider sentiment shift.",
@@ -50,56 +53,77 @@
       "category": null,
       "headline": "Commencement of Shareholder Consultation",
       "url": "https://www.investegate.co.uk/announcement/rns/nanoco-group--nano/commencement-of-shareholder-consultation/9638042",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement signals potential activist pressure or a defensive maneuver by Nanoco's board regarding its capital structure, reflecting the broader UK SME trend of shareholder activism targeting undervalued tech and materials firms.",
+      "key_themes": [
+        "Corporate Governance",
+        "Activism"
+      ]
     },
     {
       "timestamp": "2026-06-25T07:00:00",
       "category": "Appointment",
       "headline": "Board Update",
       "url": "https://www.investegate.co.uk/announcement/rns/nanoco-group--nano/board-update-/9635417",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board updates for Nanoco typically signal administrative continuity rather than strategic shifts; without details on new appointments or governance changes, the market impact is negligible compared to its core semiconductor IP licensing developments.",
+      "key_themes": [
+        "Corporate Governance",
+        "Nanoco Group"
+      ]
     },
     {
       "timestamp": "2026-06-19T10:33:00",
       "category": null,
       "headline": "Adjournment of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/nanoco-group--nano/adjournment-of-general-meeting/9627810",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Administrative postponement of a general meeting typically signals minor logistical delays or procedural adjustments rather than substantive corporate distress or strategic shifts in the advanced materials sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-06-18T07:00:00",
       "category": null,
       "headline": "Intention to adjourn General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/nanoco-group--nano/intention-to-adjourn-general-meeting/9624286",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Adjourning a General Meeting typically signals significant shareholder opposition to the proposed agenda, often related to dilutive capital raises or executive remuneration packages, creating short-term uncertainty for Nanoco's funding strategy.",
+      "key_themes": [
+        "governance",
+        "shareholder dissent"
+      ]
     },
     {
       "timestamp": "2026-06-09T07:00:00",
       "category": null,
       "headline": "Glass Lewis recommendation",
       "url": "https://www.investegate.co.uk/announcement/rns/nanoco-group--nano/glass-lewis-recommendation/9607768",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Glass Lewis recommendations are influential for institutional governance but rarely drive immediate price action unless they signal a significant shareholder revolt or block a specific deal; in the absence of accompanying news, this is primarily a procedural update for compliance-focused funds.",
+      "key_themes": [
+        "corporate_governance",
+        "institutional_investor_relations"
+      ]
     },
     {
       "timestamp": "2026-06-05T11:55:00",
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/nanoco-group--nano/tr-1-notification-of-major-holdings/9604675",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -110,10 +134,15 @@
       "category": null,
       "headline": "Intention to delist from London Stock Exchange",
       "url": "https://www.investegate.co.uk/announcement/rns/nanoco-group--nano/intention-to-delist-from-london-stock-exchange/9586506",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Delisting from the LSE represents a fundamental structural shift for Nanoco, likely signaling a move to a private structure or alternative listing to pursue high-risk, capital-intensive nanomaterial strategies without public market scrutiny. This mirrors precedents in deep-tech sectors where prolonged profitability is elusive, forcing a retreat from traditional equity markets to preserve strategic flexibility.",
+      "key_themes": [
+        "Delisting",
+        "Private Equity Transition",
+        "Nanotechnology Sector"
+      ]
     }
   ]
 }

@@ -10,26 +10,36 @@
       "category": "Results",
       "headline": "Annual Financial Report (Entity)",
       "url": "https://www.investegate.co.uk/announcement/rns/rhp-finance-plc--62zw/annual-financial-report-entity-/9789739",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a dormant SPAC vehicle with no active trading operations, this filing is purely administrative compliance rather than a market-moving event for shareholders.",
+      "key_themes": [
+        "SPAC",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-24T13:44:00",
       "category": "Results",
       "headline": "Annual Financial Report (Group)",
       "url": "https://www.investegate.co.uk/announcement/rns/rhp-finance-plc--62zw/annual-financial-report-group-/9789733",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a SPAC vehicle with no underlying operating assets, this annual report serves primarily as a compliance exercise for the London Stock Exchange's continued listing status rather than a fundamental business update, reflecting the typical post-merger or pre-liquidation administrative phase of such entities.",
+      "key_themes": [
+        "SPAC",
+        "Compliance",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-07-08T14:40:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/rhp-finance-plc--62zw/notice-of-agm/9659210",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,

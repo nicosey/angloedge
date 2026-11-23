@@ -2,14 +2,26 @@
   "name": "Metro Bank Holdings PLC",
   "ticker": "MTRO",
   "slug": "metro-bank-holdings-mtro",
-  "announcement_count": 19,
-  "latest_announcement": "2026-11-16T14:00:00",
+  "announcement_count": 20,
+  "latest_announcement": "2026-11-23T14:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T14:00:00",
+      "category": null,
+      "headline": "Rule 2.9 Announcement",
+      "url": "https://www.investegate.co.uk/announcement/eqs/metro-bank-holdings-plc--mtro/rule-2-9-announcement/9889526",
+      "routine_type": "Form 8 Disclosure",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-16T14:00:00",
       "category": null,
       "headline": "Rule 2.9 Announcement",
       "url": "https://www.investegate.co.uk/announcement/eqs/metro-bank-holdings-plc--mtro/rule-2-9-announcement/9877848",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +32,7 @@
       "category": null,
       "headline": "Rule 2.9 Announcement",
       "url": "https://www.investegate.co.uk/announcement/eqs/metro-bank-holdings-plc--mtro/rule-2-9-announcement/9875239",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +43,7 @@
       "category": null,
       "headline": "Disclosure Table",
       "url": "https://www.investegate.co.uk/announcement/rns/metro-bank-holdings-plc--mtro/disclosure-table/9872013",
+      "routine_type": "Disclosure Table",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,26 +54,35 @@
       "category": null,
       "headline": "Change to Director Responsibilities",
       "url": "https://www.investegate.co.uk/announcement/eqs/metro-bank-holdings-plc--mtro/change-to-director-responsibilities/9856462",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing regarding the allocation of board duties rather than a substantive corporate event; in the current high-interest-rate environment for UK retail banking, investor focus remains on net interest margins and credit quality rather than administrative governance updates.",
+      "key_themes": [
+        "Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-10-28T07:00:00",
       "category": "Appointment",
       "headline": "Board Update",
       "url": "https://www.investegate.co.uk/announcement/eqs/metro-bank-holdings-plc--mtro/board-update/9844870",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board updates for UK retail banks like Metro Bank typically signal administrative continuity rather than strategic shifts, especially given the sector's ongoing focus on net interest margin compression and capital adequacy under PRA guidelines.",
+      "key_themes": [
+        "Corporate Governance",
+        "Banking Sector"
+      ]
     },
     {
       "timestamp": "2026-10-01T15:00:00",
       "category": null,
       "headline": "Shares Admitted to Trading and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/eqs/metro-bank-holdings-plc--mtro/shares-admitted-to-trading-and-total-voting-r-/9802568",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,6 +93,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/eqs/metro-bank-holdings-plc--mtro/director-pdmr-shareholding/9773543",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in UK banking typically signal low immediate market impact unless accompanied by significant volume or insider cluster activity; without specific transaction details, this remains an administrative disclosure with negligible pricing implication.",
@@ -84,6 +108,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/eqs/metro-bank-holdings-plc--mtro/holding-s-in-company/9759380",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -94,6 +119,7 @@
       "category": null,
       "headline": "Shares Admitted to Trading and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/eqs/metro-bank-holdings-plc--mtro/shares-admitted-to-trading-and-total-voting-r-/9750002",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -104,16 +130,21 @@
       "category": "Appointment",
       "headline": "Board Update",
       "url": "https://www.investegate.co.uk/announcement/eqs/metro-bank-holdings-plc--mtro/board-update/9744069",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board updates for UK retail banks are typically administrative unless they signal a strategic pivot; without details on executive changes or capital allocation, this lacks the catalyst density to move MTRO significantly against broader banking sector headwinds.",
+      "key_themes": [
+        "Corporate Governance",
+        "UK Banking"
+      ]
     },
     {
       "timestamp": "2026-08-11T15:05:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/eqs/metro-bank-holdings-plc--mtro/holding-s-in-company/9716373",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -124,6 +155,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/eqs/metro-bank-holdings-plc--mtro/holding-s-in-company/9716370",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -134,6 +166,7 @@
       "category": "Results",
       "headline": "Metro Bank Holdings PLC: Results for the half year ended 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/eqs/metro-bank-holdings-plc--mtro/metro-bank-holdings-plc-results-for-the-half-/9702686",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a high-beta proxy for UK consumer sentiment and commercial real estate exposure, MTRO's interim results will heavily influence market perception of the retail banking sector's resilience amid rising funding costs and potential credit deterioration.",
@@ -148,6 +181,7 @@
       "category": null,
       "headline": "Shares Admitted to Trading and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/eqs/metro-bank-holdings-plc--mtro/shares-admitted-to-trading-and-total-voting-r-/9701985",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -158,6 +192,7 @@
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/eqs/metro-bank-holdings-plc--mtro/director-declaration/9670271",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -168,6 +203,7 @@
       "category": null,
       "headline": "Shares Admitted to Trading and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/eqs/metro-bank-holdings-plc--mtro/shares-admitted-to-trading-and-total-voting-r-/9647968",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -178,16 +214,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/eqs/metro-bank-holdings-plc--mtro/result-of-agm/9597518",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting confirmation of shareholder votes for routine business, offering no new strategic direction or financial data to influence valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-01T15:00:00",
       "category": null,
       "headline": "Shares Admitted to Trading and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/eqs/metro-bank-holdings-plc--mtro/shares-admitted-to-trading-and-total-voting-r-/9595545",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -198,10 +239,14 @@
       "category": "Appointment",
       "headline": "Board Update",
       "url": "https://www.investegate.co.uk/announcement/eqs/metro-bank-holdings-plc--mtro/board-update/9595412",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board updates for UK retail banks like Metro Bank typically signal administrative continuity rather than strategic shifts; without specific details on executive changes or governance overhauls, the market impact is negligible compared to earnings volatility or regulatory capital requirements.",
+      "key_themes": [
+        "Corporate Governance",
+        "Banking Sector"
+      ]
     }
   ]
 }

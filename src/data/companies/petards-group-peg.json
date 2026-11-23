@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/petards-group--peg/holding-s-in-company/9872245",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,22 @@
       "category": "Appointment",
       "headline": "Appointment of Nominated Adviser and Joint Broker",
       "url": "https://www.investegate.co.uk/announcement/rns/petards-group--peg/appointment-of-nominated-adviser-and-joint-broker/9807691",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Securing a Nominated Adviser and Joint Broker is a critical procedural milestone for Petards Group to maintain AIM compliance and facilitate future capital raising, addressing the liquidity and governance concerns often associated with smaller AIM listings.",
+      "key_themes": [
+        "AIM Compliance",
+        "Corporate Governance",
+        "Capital Markets Access"
+      ]
     },
     {
       "timestamp": "2026-09-21T13:55:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/petards-group--peg/holding-s-in-company/9782629",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,16 +47,21 @@
       "category": null,
       "headline": "Rail Orders",
       "url": "https://www.investegate.co.uk/announcement/rns/petards-group--peg/rail-orders/9735295",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Rail orders are a standard operational update for Petards Group, reflecting its core business in rail infrastructure rather than a transformative event; while positive for revenue visibility, it lacks the scale or strategic shift required to significantly alter valuation multiples.",
+      "key_themes": [
+        "Rail Infrastructure",
+        "Operational Update"
+      ]
     },
     {
       "timestamp": "2026-08-19T13:19:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/petards-group--peg/holding-s-in-company/9730294",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,20 +72,30 @@
       "category": null,
       "headline": "QRO Contract Wins",
       "url": "https://www.investegate.co.uk/announcement/rns/petards-group--peg/qro-contract-wins/9655045",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Securing a QRO (Qualifying Recognised Overseas Pension Scheme) contract validates Petards' niche expertise in cross-border pension transfers, a high-growth segment driven by UK expat demand and regulatory complexity. This win likely provides immediate revenue visibility and strengthens the firm's competitive moat against larger financial services competitors in the specialist transfer market.",
+      "key_themes": [
+        "QRO",
+        "Pension Transfers",
+        "Revenue Growth"
+      ]
     },
     {
       "timestamp": "2026-07-07T07:00:00",
       "category": null,
       "headline": "Rail and Defence Orders",
       "url": "https://www.investegate.co.uk/announcement/rns/petards-group--peg/rail-and-defence-orders/9654912",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The headline signals continued demand in the UK defence and rail sectors, validating Petards' niche positioning, but without disclosed order values or margin impact, it remains a routine operational update rather than a transformative catalyst.",
+      "key_themes": [
+        "Defence",
+        "Rail",
+        "Order Book"
+      ]
     }
   ]
 }

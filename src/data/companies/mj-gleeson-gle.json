@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/mj-gleeson--gle/director-pdmr-shareholding/9868502",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on share price dynamics or valuation metrics for MJ Gleeson.",
@@ -23,6 +24,7 @@
       "category": "Results",
       "headline": "AGM Results",
       "url": "https://www.investegate.co.uk/announcement/rns/mj-gleeson--gle/agm-results/9863445",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a leading UK housebuilder, MJ Gleeson's AGM results provide critical visibility into housing demand resilience amid high interest rates and cost pressures; the outcome will signal whether the sector can sustain margins despite regulatory and supply chain headwinds.",
@@ -37,6 +39,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/mj-gleeson--gle/notice-of-agm/9814561",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -47,6 +50,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/mj-gleeson--gle/director-pdmr-shareholding/9811981",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in the UK housebuilding sector are typically low-impact administrative events unless they signal a coordinated exit by multiple executives; without volume context, this is standard noise rather than a strategic indicator.",
@@ -60,16 +64,21 @@
       "category": null,
       "headline": "Chief Financial Officer succession",
       "url": "https://www.investegate.co.uk/announcement/rns/mj-gleeson--gle/chief-financial-officer-succession/9805334",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine CFO succession in the UK housebuilding sector; while stability is key for investor confidence during interest rate volatility, this does not alter the fundamental cyclical demand drivers or strategic direction of MJ Gleeson.",
+      "key_themes": [
+        "Corporate Governance",
+        "Leadership Change"
+      ]
     },
     {
       "timestamp": "2026-09-15T07:00:00",
       "category": "Results",
       "headline": "Final Results",
       "url": "https://www.investegate.co.uk/announcement/rns/mj-gleeson--gle/final-results/9771574",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a key player in the UK housebuilding sector, GLE's final results provide critical visibility on housing demand and margin resilience amid high interest rates; any deviation from consensus will directly influence sentiment towards the broader residential construction supply chain.",
@@ -83,16 +92,21 @@
       "category": null,
       "headline": "Engage Investor presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/mj-gleeson--gle/engage-investor-presentation/9770838",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations activity with no immediate financial or strategic impact on MJ Gleeson's valuation or operations.",
+      "key_themes": [
+        "Investor Relations",
+        "Corporate Communications"
+      ]
     },
     {
       "timestamp": "2026-09-09T16:21:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/mj-gleeson--gle/director-pdmr-shareholding/9764047",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in the UK housebuilding sector are typically low-impact administrative events unless they signal a mass exodus or significant insider conviction shift; without volume context, this remains minor noise against broader macro housing demand trends.",
@@ -106,6 +120,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/mj-gleeson--gle/director-pdmr-shareholding/9713928",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures in the UK housing construction sector typically reflect personal portfolio management rather than strategic shifts, offering minimal signal for share price direction amidst broader interest rate sensitivity.",
@@ -119,6 +134,7 @@
       "category": "Trading Update",
       "headline": "Trading Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/mj-gleeson--gle/trading-statement/9661984",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a high-beta proxy for UK housing demand, GLE's trading update provides critical real-time visibility into consumer sentiment and mortgage affordability pressures ahead of full results, serving as a key barometer for the broader residential construction sector.",
@@ -132,6 +148,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/mj-gleeson--gle/director-pdmr-shareholding/9659385",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures in the UK housing sector typically reflect personal portfolio management rather than strategic shifts, especially given MJ Gleeson's current focus on operational efficiency and margin recovery amidst high interest rates.",
@@ -145,6 +162,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/mj-gleeson--gle/director-pdmr-shareholding/9609625",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements in the UK housing sector typically reflect personal portfolio management rather than strategic shifts, especially given the current sensitivity of mortgage rates and housing demand in the UK.",
@@ -159,10 +177,14 @@
       "category": null,
       "headline": "Update on Gleeson Land",
       "url": "https://www.investegate.co.uk/announcement/rns/mj-gleeson--gle/update-on-gleeson-land/9607741",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Land sales are a standard working capital mechanism for UK housebuilders to fund construction; without disclosed volumes or margins, this represents routine operational activity rather than a strategic inflection point.",
+      "key_themes": [
+        "Working Capital",
+        "Land Monetisation"
+      ]
     }
   ]
 }

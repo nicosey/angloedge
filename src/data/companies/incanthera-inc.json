@@ -10,6 +10,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/incanthera-plc--inc/notice-of-agm/9832405",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Results",
       "headline": "Final Results",
       "url": "https://www.investegate.co.uk/announcement/rns/incanthera-plc--inc/final-results-/9795385",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a pre-revenue biotech in the late-stage clinical development phase, final results are primarily administrative filings confirming cash runway and regulatory milestones rather than indicators of commercial traction or immediate valuation drivers.",
@@ -33,20 +35,30 @@
       "category": null,
       "headline": "Completion of Financing via CLNs",
       "url": "https://www.investegate.co.uk/announcement/rns/incanthera-plc--inc/completion-of-financing-via-clns-/9795267",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Completion of CLN financing provides essential liquidity for Incanthera's clinical trials without immediate equity dilution, but the embedded call options and potential share price appreciation triggers pose a latent risk to existing shareholders' ownership stakes.",
+      "key_themes": [
+        "Capital Raise",
+        "Biotech Financing",
+        "Dilution Risk"
+      ]
     },
     {
       "timestamp": "2026-07-13T07:00:00",
       "category": "Appointment",
       "headline": "Corporate Update & Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/incanthera-plc--inc/corporate-update-board-changes/9664227",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Board changes at Incanthera signal a strategic pivot to strengthen governance ahead of potential commercialization milestones, reflecting the biotech sector's ongoing pressure to demonstrate operational maturity and investor confidence.",
+      "key_themes": [
+        "governance",
+        "biotech",
+        "leadership"
+      ]
     }
   ]
 }

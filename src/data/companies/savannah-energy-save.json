@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Replacement: Correction: Director/PDMR Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/savannah-energy--save/replacement-correction-director-pdmr-dealings/9875602",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a correction to a previous filing rather than a new transaction, indicating no immediate change in insider sentiment; for Savannah Energy, a company historically plagued by governance issues and liquidity constraints, such administrative updates carry negligible strategic weight.",
@@ -23,6 +24,7 @@
       "category": "Director Dealing",
       "headline": "Correction: Director/PDMR Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/savannah-energy--save/correction-director-pdmr-dealings/9875515",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a procedural correction to a previously filed PDMR transaction, indicating no new substantive change in insider sentiment or capital position. In the context of Savannah Energy's ongoing restructuring and liquidity challenges, such administrative updates are routine and carry negligible market impact.",
@@ -36,16 +38,21 @@
       "category": null,
       "headline": "Operational and Financial Update",
       "url": "https://www.investegate.co.uk/announcement/rns/savannah-energy--save/operational-and-financial-update/9849343",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Savannah Energy's operational updates typically reflect marginal production fluctuations in mature UK basins rather than transformative growth, offering limited catalyst for share price appreciation amidst broader energy sector consolidation trends.",
+      "key_themes": [
+        "operational update",
+        "mature assets"
+      ]
     },
     {
       "timestamp": "2026-09-04T16:30:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/savannah-energy--save/director-pdmr-shareholding/9757329",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate market impact unless accompanied by unusual volume or context; without specific transaction details in the headline, this is classified as minor administrative activity.",
@@ -59,16 +66,21 @@
       "category": null,
       "headline": "Operational and Financial Update",
       "url": "https://www.investegate.co.uk/announcement/rns/savannah-energy--save/operational-and-financial-update/9737671",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Savannah Energy's operational updates typically reflect ongoing exploration activities in the UK North Sea rather than transformative commercial milestones, offering limited immediate catalyst for share price appreciation amidst broader sector consolidation trends.",
+      "key_themes": [
+        "Exploration",
+        "North Sea"
+      ]
     },
     {
       "timestamp": "2026-08-07T18:13:00",
       "category": "Director Dealing",
       "headline": "EBT Share Sale Completion and Director Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/savannah-energy--save/ebt-share-sale-completion-and-director-dealing/9711765",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine EBT share sales by directors are standard liquidity events with negligible fundamental impact on Savannah Energy's exploration prospects or valuation.",
@@ -82,6 +94,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/savannah-energy--save/holding-s-in-company/9711764",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -92,6 +105,7 @@
       "category": "Results",
       "headline": "General Meeting Results",
       "url": "https://www.investegate.co.uk/announcement/rns/savannah-energy--save/general-meeting-results-/9709148",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "General Meeting results are typically administrative ratifications of board decisions rather than value-driving events; without accompanying trading updates or capital raises, this carries minimal immediate market impact for Savannah Energy.",
@@ -105,26 +119,36 @@
       "category": null,
       "headline": "Suspension - Savannah Energy plc",
       "url": "https://www.investegate.co.uk/announcement/rns/savannah-energy--save/suspension-savannah-energy-plc/9646469",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Suspension of an E&P stock like Savannah Energy typically signals imminent insolvency proceedings or a forced delisting following the collapse of drilling campaigns and liquidity crises common in the sector's recent history.",
+      "key_themes": [
+        "Insolvency Risk",
+        "E&P Sector Distress",
+        "Delisting Threat"
+      ]
     },
     {
       "timestamp": "2026-06-30T07:45:00",
       "category": null,
       "headline": "Update on FY 2025 Annual Report",
       "url": "https://www.investegate.co.uk/announcement/rns/savannah-energy--save/update-on-fy-2025-annual-report/9643811",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative update regarding the publication timeline of annual results, lacking any substantive financial data or strategic shifts; in the current high-interest-rate environment for E&P firms, such routine filings rarely move markets without accompanying guidance changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-06-04T10:00:00",
       "category": null,
       "headline": "Investor Presentation Available on Website",
       "url": "https://www.investegate.co.uk/announcement/rns/savannah-energy--save/investor-presentation-available-on-website/9601944",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -135,16 +159,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/savannah-energy--save/result-of-agm/9595299",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of Savannah Energy's Annual General Meeting, which typically involves routine matters such as director re-election and auditor appointment rather than transformative strategic shifts or capital raises.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-01T07:30:00",
       "category": null,
       "headline": "Proposed EBT Share Sale & Relationship Agreement",
       "url": "https://www.investegate.co.uk/announcement/rns/savannah-energy--save/-proposed-ebt-share-sale-relationship-agreement/9594078",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,

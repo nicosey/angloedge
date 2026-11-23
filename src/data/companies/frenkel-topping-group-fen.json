@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Disclosure Table",
       "url": "https://www.investegate.co.uk/announcement/rns/frenkel-topping-group--fen/disclosure-table/9659079",
+      "routine_type": "Disclosure Table",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,60 +21,84 @@
       "category": null,
       "headline": "Scheme Effective",
       "url": "https://www.investegate.co.uk/announcement/rns/frenkel-topping-group--fen/scheme-effective/9659058",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms the legal completion of a previously agreed transaction, serving as an administrative finality rather than a new market-moving event; for FEN, it likely concludes a period of uncertainty but offers no immediate forward-looking catalyst or strategic shift.",
+      "key_themes": [
+        "Corporate Action",
+        "Deal Completion"
+      ]
     },
     {
       "timestamp": "2026-07-08T07:30:00",
       "category": null,
       "headline": "Suspension - Frenkel Topping Group plc",
       "url": "https://www.investegate.co.uk/announcement/rns/frenkel-topping-group--fen/suspension-frenkel-topping-group-plc/9657985",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "Suspensions in the UK construction sector often signal severe liquidity crises or impending insolvency proceedings, as seen with peers like Carillion and Interserve; this raises immediate red flags regarding Frenkel Topping's solvency and counterparty risk.",
+      "key_themes": [
+        "Solvency Risk",
+        "Construction Sector Stress"
+      ]
     },
     {
       "timestamp": "2026-07-06T15:30:00",
       "category": null,
       "headline": "Court Sanction of the Scheme",
       "url": "https://www.investegate.co.uk/announcement/rns/frenkel-topping-group--fen/court-sanction-of-the-scheme/9654569",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Court sanction finalises the scheme of arrangement with Balfour Beatty, cementing a significant consolidation in the UK construction and engineering sector that eliminates a key competitor and alters market dynamics.",
+      "key_themes": [
+        "M&A",
+        "Sector Consolidation"
+      ]
     },
     {
       "timestamp": "2026-07-03T17:00:00",
       "category": null,
       "headline": "Confirmation of Court Hearing Date",
       "url": "https://www.investegate.co.uk/announcement/rns/frenkel-topping-group--fen/confirmation-of-court-hearing-date/9652734",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard procedural update regarding litigation timelines rather than a substantive commercial development; for Frenkel Topping, legal costs are typically immaterial relative to their £100m+ revenue base, and such announcements rarely alter the investment thesis unless they signal an existential threat.",
+      "key_themes": [
+        "Legal",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-06-12T09:09:00",
       "category": null,
       "headline": "Expected Timetable & Election Withdrawal Deadline",
       "url": "https://www.investegate.co.uk/announcement/rns/frenkel-topping-group--fen/expected-timetable-election-withdrawal-deadline-/9615821",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the AGM timetable with no material financial or strategic implications for Frenkel Topping's valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-03T07:00:00",
       "category": null,
       "headline": "Satisfaction of the FCA Condition",
       "url": "https://www.investegate.co.uk/announcement/rns/frenkel-topping-group--fen/satisfaction-of-the-fca-condition-/9598397",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement signifies the administrative closure of a regulatory hurdle rather than a new strategic development, likely related to the completion of a previous transaction or compliance requirement. For Frenkel Topping, this removes uncertainty but offers no immediate catalyst for share price appreciation.",
+      "key_themes": [
+        "regulatory_compliance",
+        "administrative"
+      ]
     }
   ]
 }

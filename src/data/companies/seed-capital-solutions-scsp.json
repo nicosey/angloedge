@@ -10,46 +10,63 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/seed-capital-solutions--scsp/directorate-change/9835489",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative changes to the board of a micro-cap entity typically signal governance maintenance rather than strategic shifts, offering negligible immediate value impact for investors.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap"
+      ]
     },
     {
       "timestamp": "2026-09-22T07:04:00",
       "category": "Results",
       "headline": "Second Interim Report",
       "url": "https://www.investegate.co.uk/announcement/rns/seed-capital-solutions--scsp/second-interim-report/9783508",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a small-cap investment trust with high volatility, SCSP's interim results are critical for assessing its ability to maintain liquidity and manage its discount/premium in the current constrained private equity exit environment.",
+      "key_themes": [
+        "Interim Results",
+        "Small Cap Investment Trust"
+      ]
     },
     {
       "timestamp": "2026-09-17T12:03:00",
       "category": "AGM/EGM",
       "headline": "Result of General Meetings",
       "url": "https://www.investegate.co.uk/announcement/rns/seed-capital-solutions--scsp/result-of-general-meetings/9777840",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at Seed Capital Solutions' AGM/EGM, which typically covers routine matters like director appointments and auditor ratification rather than strategic shifts or capital raises.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-09-16T07:04:00",
       "category": null,
       "headline": "Notice of Additional GM",
       "url": "https://www.investegate.co.uk/announcement/rns/seed-capital-solutions--scsp/notice-of-additional-gm/9774215",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "GM typically denotes General Meeting; an 'Additional' notice usually signals a routine procedural update to convene shareholders for standard business rather than a transformative event.",
+      "key_themes": [
+        "corporate_governance",
+        "shareholder_meeting"
+      ]
     },
     {
       "timestamp": "2026-08-25T07:01:00",
       "category": null,
       "headline": "Notice of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/seed-capital-solutions--scsp/notice-of-gm/9737834",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,20 +77,29 @@
       "category": null,
       "headline": "Settlement with Creditors",
       "url": "https://www.investegate.co.uk/announcement/rns/seed-capital-solutions--scsp/settlement-with-creditors/9728059",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Settlement with creditors typically signals debt restructuring or resolution of insolvency risks rather than organic growth; for a small-cap entity like SCSP, this mitigates immediate bankruptcy risk but often implies dilution or loss of control, reflecting broader challenges in the private equity and venture capital funding sector.",
+      "key_themes": [
+        "debt_restructuring",
+        "insolvency_risk_mitigation",
+        "governance_change"
+      ]
     },
     {
       "timestamp": "2026-07-10T12:01:00",
       "category": "Acquisition",
       "headline": "Termination of Potential Acquisition",
       "url": "https://www.investegate.co.uk/announcement/rns/seed-capital-solutions--scsp/termination-of-potential-acquisition/9663553",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Termination of a potential acquisition typically signals failed due diligence or valuation divergence, removing expected accretive value and confirming the company's reliance on organic growth or internal cash flow in a capital-constrained environment.",
+      "key_themes": [
+        "M&A Failure",
+        "Strategic Pivot"
+      ]
     }
   ]
 }

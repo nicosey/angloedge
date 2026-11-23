@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/weir-group--weir/holding-s-in-company/9861358",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/weir-group--weir/director-pdmr-shareholding/9858073",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings typically signal low immediate market impact unless accompanied by unusual volume or timing relative to earnings; without specific transaction details, this is classified as standard administrative disclosure rather than a strategic signal.",
@@ -33,6 +35,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/weir-group--weir/director-pdmr-shareholding/9851120",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard administrative filings with negligible immediate impact on Weir Group's valuation or operational trajectory, reflecting individual portfolio management rather than corporate strategy shifts.",
@@ -46,6 +49,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/weir-group--weir/holding-s-in-company/9838658",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -56,26 +60,35 @@
       "category": null,
       "headline": "Marc Cameron to join Weir",
       "url": "https://www.investegate.co.uk/announcement/rns/weir-group--weir/marc-cameron-to-join-weir/9833945",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard executive appointment announcement with no immediate financial or strategic impact on the share price; such routine HR updates are common in UK industrials and do not signal a shift in Weir's operational trajectory.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Appointment"
+      ]
     },
     {
       "timestamp": "2026-10-13T12:13:00",
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/weir-group--weir/directorate-change/9820622",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board-level personnel adjustments typically signal governance continuity rather than strategic shifts in the industrial engineering sector; without details on the specific role or departure context, this lacks the catalyst potential for immediate price discovery.",
+      "key_themes": [
+        "Corporate Governance",
+        "Leadership Stability"
+      ]
     },
     {
       "timestamp": "2026-10-09T14:16:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/weir-group--weir/director-pdmr-shareholding/9816315",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on Weir Group's valuation or operational trajectory, reflecting individual portfolio management rather than corporate strategy shifts.",
@@ -89,16 +102,21 @@
       "category": null,
       "headline": "Brian Doffing to join Weir",
       "url": "https://www.investegate.co.uk/announcement/rns/weir-group--weir/brian-doffing-to-join-weir/9787590",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard executive appointment with no immediate financial or strategic impact on Weir's operations or valuation. Such routine personnel changes are common in the engineering sector and do not signal a shift in corporate direction.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Appointment"
+      ]
     },
     {
       "timestamp": "2026-08-25T16:20:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/weir-group--weir/holding-s-in-company/9739682",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -109,6 +127,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/weir-group--weir/director-pdmr-shareholding/9725607",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry minimal market impact unless they signal a coordinated shift in insider sentiment; without volume or price context, this is standard administrative reporting rather than a strategic indicator.",
@@ -122,16 +141,21 @@
       "category": null,
       "headline": "Change of Name",
       "url": "https://www.investegate.co.uk/announcement/rns/weir-group--weir/change-of-name/9718771",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "A corporate name change is an administrative rebranding exercise with zero fundamental impact on Weir Group's mining equipment operations or financial performance, reflecting no shift in strategy or valuation drivers.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-03T14:12:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/weir-group--weir/director-pdmr-shareholding/9701845",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on Weir Group's valuation or operational trajectory, reflecting typical insider activity rather than a strategic signal.",
@@ -145,6 +169,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/weir-group--weir/director-pdmr-shareholding/9694134",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry negligible market impact unless accompanied by unusual volume or timing relative to price action; without specific transaction details, this is classified as standard administrative reporting.",
@@ -158,16 +183,21 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/weir-group--weir/directorate-change/9673331",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board-level personnel adjustments in the engineering services sector typically signal governance continuity rather than strategic pivots, lacking the immediate catalyst impact of M&A or earnings revisions.",
+      "key_themes": [
+        "Corporate Governance",
+        "Leadership Stability"
+      ]
     },
     {
       "timestamp": "2026-06-01T14:45:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/weir-group--weir/director-pdmr-shareholding/9595491",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on Weir Group's valuation or strategic trajectory, reflecting standard insider compliance rather than significant sentiment shifts.",

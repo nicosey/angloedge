@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Conference attendance at Mello2026 Investor event",
       "url": "https://www.investegate.co.uk/announcement/rns/inspiration-healthcare-group--ihc/conference-attendance-at-mello2026-investor-event/9868870",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding conference attendance with no material financial or strategic implications for Inspiration Healthcare Group's valuation or operations.",
+      "key_themes": [
+        "Corporate Governance",
+        "Investor Relations"
+      ]
     },
     {
       "timestamp": "2026-10-09T07:00:00",
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/inspiration-healthcare-group--ihc/notice-of-results/9814562",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the release of results rather than the results themselves, offering no immediate trading signal or fundamental shift in valuation.",
@@ -33,46 +38,63 @@
       "category": null,
       "headline": "Grant of awards under Long-Term Incentive Plan",
       "url": "https://www.investegate.co.uk/announcement/rns/inspiration-healthcare-group--ihc/grant-of-awards-under-long-term-incentive-plan-/9709652",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding executive compensation alignment under the LTIP, common in UK healthcare services firms like IHC to retain key talent during sector consolidation. It carries no immediate financial or strategic weight for shareholders.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Remuneration"
+      ]
     },
     {
       "timestamp": "2026-07-23T14:01:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/inspiration-healthcare-group--ihc/result-of-agm/9684797",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting disclosure confirming the outcome of routine shareholder votes, which carries no immediate financial or strategic weight for Inspiration Healthcare Group's valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-07-20T07:00:00",
       "category": "AGM/EGM",
       "headline": "Withdrawal of AGM Resolutions 10 and 11",
       "url": "https://www.investegate.co.uk/announcement/rns/inspiration-healthcare-group--ihc/withdrawal-of-agm-resolutions-10-and-11/9675798",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Withdrawal of resolutions typically signals a failure to secure necessary shareholder support for executive remuneration or governance changes, highlighting potential board-shareholder friction but lacking immediate financial impact.",
+      "key_themes": [
+        "corporate_governance",
+        "shareholder_relations"
+      ]
     },
     {
       "timestamp": "2026-06-26T11:00:00",
       "category": "AGM/EGM",
       "headline": "Annual Report and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/inspiration-healthcare-group--ihc/annual-report-and-notice-of-agm/9639337",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for the annual general meeting, serving primarily to facilitate routine shareholder approvals rather than signaling any immediate strategic shift or material financial event.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-06-02T07:01:00",
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/inspiration-healthcare-group--ihc/notice-of-results/9596156",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the release date of results rather than the results themselves, offering no immediate trading signal or strategic shift for the healthcare REIT sector.",

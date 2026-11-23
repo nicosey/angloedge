@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/tandem-group--tnd/holding-s-in-company/9814296",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/tandem-group--tnd/director-pdmr-shareholding/9804477",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on Tandem Group's valuation or operational trajectory, reflecting normal insider activity rather than strategic shifts.",
@@ -33,6 +35,7 @@
       "category": "Director Dealing",
       "headline": "Grant of Options & PDMR Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/tandem-group--tnd/grant-of-options-pdmr-dealings/9795257",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR dealings and option grants are standard administrative disclosures with negligible fundamental impact on Tandem Group's valuation or operational trajectory.",
@@ -46,6 +49,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/tandem-group--tnd/holding-s-in-company/9767712",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -56,16 +60,21 @@
       "category": "Appointment",
       "headline": "Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/tandem-group--tnd/board-changes/9711905",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board changes in the IT services sector typically signal governance continuity rather than strategic disruption, lacking the immediate catalyst for significant valuation re-rating seen in transformative M&A or leadership crises.",
+      "key_themes": [
+        "Corporate Governance",
+        "Leadership Stability"
+      ]
     },
     {
       "timestamp": "2026-06-23T08:34:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/tandem-group--tnd/director-pdmr-shareholding/9631802",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry minimal immediate market impact unless they signal a coordinated shift in insider sentiment; without volume or price context, this remains an administrative filing rather than a strategic indicator.",
@@ -79,6 +88,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/tandem-group--tnd/holding-s-in-company/9628067",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -89,10 +99,14 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/tandem-group--tnd/result-of-agm/9623903",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting confirmation of shareholder resolutions for Tandem Group's Annual General Meeting, typically covering routine matters such as director re-election and auditor appointment without triggering immediate strategic shifts or capital changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     }
   ]
 }

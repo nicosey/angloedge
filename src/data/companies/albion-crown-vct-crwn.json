@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Transaction in Own Shares and Total Voting Rights and Capital",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-crown-vct-plc--crwn/transaction-in-own-shares-and-total-voting-ri-/9869602",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Notification of Admission of Further Securities to Trading (PRM 1.6.4R) and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-crown-vct-plc--crwn/notification-of-admission-of-further-securiti-/9851409",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Issue of a Supplementary Prospectus",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-crown-vct-plc--crwn/issue-of-a-supplementary-prospectus/9839617",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,16 +43,22 @@
       "category": null,
       "headline": "Removal of Listing of Ordinary C Shares",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-crown-vct-plc--crwn/removal-of-listing-of-ordinary-c-shares/9829109",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative delisting of a non-core share class within the VCT structure, likely to streamline the register or comply with listing rules; it has no material impact on the fund's investment portfolio or NAV.",
+      "key_themes": [
+        "VCT",
+        "Administrative",
+        "Listing Rules"
+      ]
     },
     {
       "timestamp": "2026-10-16T13:05:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Transaction",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-crown-vct-plc--crwn/director-pdmr-transaction/9827678",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures for VCTs and typically carry negligible market impact unless the volume is exceptional or signals a specific insider view on liquidity.",
@@ -63,26 +72,36 @@
       "category": null,
       "headline": "Conversion of Ordinary C Shares into Ordinary Shares",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-crown-vct-plc--crwn/conversion-of-ordinary-c-shares-into-ordinary-/9827661",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative capital restructuring within the VCT structure to simplify the share register, lacking any material impact on valuation or strategy.",
+      "key_themes": [
+        "VCT",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-10-07T12:00:00",
       "category": "Results",
       "headline": "Albion Crown VCT PLC: Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-crown-vct-plc--crwn/albion-crown-vct-plc-annual-financial-report/9811506",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a VCT, the primary market driver is dividend yield and tax efficiency rather than capital growth; this announcement confirms ongoing compliance and income generation but lacks transformative catalysts for share price appreciation.",
+      "key_themes": [
+        "VCT",
+        "Dividend Yield",
+        "Tax Efficiency"
+      ]
     },
     {
       "timestamp": "2026-09-30T16:00:00",
       "category": null,
       "headline": "Total Voting Rights and Capital",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-crown-vct-plc--crwn/total-voting-rights-and-capital/9799786",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -93,6 +112,7 @@
       "category": null,
       "headline": "Total Voting Rights and Capital",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-crown-vct-plc--crwn/total-voting-rights-and-capital/9746428",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -103,16 +123,22 @@
       "category": null,
       "headline": "Publication of Prospectus",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-crown-vct-plc--crwn/publication-of-prospectus/9728154",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing required for the launch of a new VCT fund, indicating routine capital formation rather than corporate restructuring or performance events.",
+      "key_themes": [
+        "VCT",
+        "Capital Raise",
+        "Regulatory Filing"
+      ]
     },
     {
       "timestamp": "2026-07-31T16:00:00",
       "category": null,
       "headline": "Total Voting Rights and Capital",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-crown-vct-plc--crwn/total-voting-rights-and-capital/9699276",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -123,6 +149,7 @@
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-crown-vct-plc--crwn/director-declaration/9654618",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -133,6 +160,7 @@
       "category": null,
       "headline": "Total Voting Rights and Capital",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-crown-vct-plc--crwn/total-voting-rights-and-capital/9645256",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -143,26 +171,36 @@
       "category": null,
       "headline": "Statement regarding the proposed issue of a prospectus",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-crown-vct-plc--crwn/statement-regarding-the-proposed-issue-of-a-p-/9627695",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard regulatory filing for a VCT to raise new capital, likely to maintain its qualifying status under HMRC rules rather than signaling aggressive expansion; such routine fundraising events typically have negligible impact on share price volatility.",
+      "key_themes": [
+        "VCT",
+        "Capital Raising",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-06-10T16:22:00",
       "category": "Results",
       "headline": "Albion Crown VCT PLC: Interim Management Statement",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-crown-vct-plc--crwn/albion-crown-vct-plc-interim-management-stat-/9612103",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a VCT, the primary driver for CRWN is dividend yield stability rather than capital growth; this interim statement serves as a critical check on distributable income and NAV maintenance in a high-interest-rate environment where alternative fixed-income yields are competitive.",
+      "key_themes": [
+        "VCT Dividend Sustainability",
+        "NAV Preservation"
+      ]
     },
     {
       "timestamp": "2026-05-29T16:00:00",
       "category": null,
       "headline": "Notification of Admission of Further Securities to Trading (PRM 1.6.4R) and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-crown-vct-plc--crwn/notification-of-admission-of-further-securiti-/9592870",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

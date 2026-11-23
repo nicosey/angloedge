@@ -10,6 +10,7 @@
       "category": null,
       "headline": "TR-1: Standard notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/defi-development-corporation-uk-plc--dfdv/tr-1-standard-notification-of-major-holdings/9709460",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,26 +21,35 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/defi-development-corporation-uk-plc--dfdv/result-of-agm/9699155",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a standard post-AGM result announcement for a company with 'DeFi' in its name, this likely confirms routine shareholder approvals rather than signaling strategic shifts or material financial events.",
+      "key_themes": [
+        "corporate_governance",
+        "routine_disclosure"
+      ]
     },
     {
       "timestamp": "2026-07-13T14:00:00",
       "category": null,
       "headline": "Change of Name and TIDM",
       "url": "https://www.investegate.co.uk/announcement/rns/defi-development-corporation-uk-plc--dfdv/change-of-name-and-tidm/9666124",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Administrative rebranding to capitalize on the 'DeFi' narrative for speculative retail interest rather than indicating fundamental operational shifts; typical of micro-cap strategies to boost liquidity without underlying business change.",
+      "key_themes": [
+        "rebranding",
+        "narrative trading"
+      ]
     },
     {
       "timestamp": "2026-07-08T15:13:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/defi-development-corporation-uk-plc--dfdv/notice-of-agm/9659281",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,20 +60,28 @@
       "category": null,
       "headline": "Warrant Extension",
       "url": "https://www.investegate.co.uk/announcement/rns/defi-development-corporation-uk-plc--dfdv/warrant-extension/9626422",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Warrant extensions are standard administrative actions to prevent dilution events, signaling no immediate distress but offering no value creation for shareholders.",
+      "key_themes": [
+        "Corporate Action",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-01T08:17:00",
       "category": null,
       "headline": "Update on Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/defi-development-corporation-uk-plc--dfdv/update-on-warrants/9594206",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Warrant updates are typically administrative disclosures regarding exercise prices or expiry dates rather than value-creating events; without details on a significant dilutive exercise or cash injection, the market impact is negligible.",
+      "key_themes": [
+        "administrative",
+        "warrants"
+      ]
     }
   ]
 }

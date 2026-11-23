@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Notice of Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/nextenergy-solar-fund-limited-red--nesf/notice-of-interim-results/9880580",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a listed infrastructure asset focused on solar generation, NESF's interim results are critical for validating yield stability and dividend coverage in a sector sensitive to interest rate fluctuations and wholesale power prices.",
@@ -24,16 +25,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/nextenergy-solar-fund-limited-red--nesf/result-of-agm/9756922",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a standard administrative filing confirming the outcome of an AGM for a closed-end investment trust, this carries no material financial impact or strategic shift beyond routine governance compliance.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-08-07T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/nextenergy-solar-fund-limited-red--nesf/notice-of-agm/9709672",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -44,16 +50,22 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/nextenergy-solar-fund-limited-red--nesf/dividend-declaration/9707319",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine dividend declaration typical for infrastructure REITs like NESF; lacks transformative catalysts but signals continued cash flow generation in the solar sector amidst rising interest rate pressures.",
+      "key_themes": [
+        "Infrastructure",
+        "Dividend Yield",
+        "Renewable Energy"
+      ]
     },
     {
       "timestamp": "2026-07-15T07:45:00",
       "category": null,
       "headline": "Disclosure Table",
       "url": "https://www.investegate.co.uk/announcement/rns/nextenergy-solar-fund-limited-red--nesf/disclosure-table/9669782",
+      "routine_type": "Disclosure Table",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -64,16 +76,21 @@
       "category": null,
       "headline": "2026 Sustainability and ESG Report",
       "url": "https://www.investegate.co.uk/announcement/rns/nextenergy-solar-fund-limited-red--nesf/2026-sustainability-and-esg-report/9628843",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Publication of a sustainability report is a standard compliance requirement for listed infrastructure assets rather than a value-driving event; while ESG metrics are increasingly scrutinized by institutional investors in the renewable sector, this announcement itself carries no immediate financial or strategic weight.",
+      "key_themes": [
+        "ESG Reporting",
+        "Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-06-09T07:00:00",
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/nextenergy-solar-fund-limited-red--nesf/notice-of-results/9607767",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the publication of results rather than the results themselves, offering no immediate trading signal or strategic shift for the renewable infrastructure sector.",
@@ -87,10 +104,14 @@
       "category": null,
       "headline": "Quarterly NAV & Operational Update",
       "url": "https://www.investegate.co.uk/announcement/rns/nextenergy-solar-fund-limited-red--nesf/quarterly-nav-operational-update/9598410",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "Quarterly NAV updates for infrastructure funds like NESF are routine disclosures that provide transparency on asset performance but rarely trigger immediate price volatility unless they signal significant impairment or distribution changes.",
+      "key_themes": [
+        "Infrastructure",
+        "NAV Update"
+      ]
     }
   ]
 }

@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/3i-infrastructure--3in/director-pdmr-shareholding/9868142",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions rather than a corporate strategy signal; without volume or price context, it holds no predictive value for share performance.",
@@ -23,6 +24,7 @@
       "category": null,
       "headline": "Investor Presentation via Investor Meet Company",
       "url": "https://www.investegate.co.uk/announcement/rns/3i-infrastructure--3in/investor-presentation-via-investor-meet-company/9867842",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -33,50 +35,73 @@
       "category": "Results",
       "headline": "Doc re. Half Yearly Report 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/3i-infrastructure--3in/doc-re-half-yearly-report-2026/9867638",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a major UK infrastructure investment trust, 3i Infrastructure's half-year results are critical for assessing yield sustainability and asset performance in the current high-interest-rate environment, directly influencing investor sentiment towards defensive income assets.",
+      "key_themes": [
+        "Infrastructure",
+        "Yield",
+        "Interim Results"
+      ]
     },
     {
       "timestamp": "2026-07-02T15:17:00",
       "category": "AGM/EGM",
       "headline": "Doc re. AGM Resolutions",
       "url": "https://www.investegate.co.uk/announcement/rns/3i-infrastructure--3in/doc-re-agm-resolutions/9650370",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for the Annual General Meeting, serving only to convene shareholders for routine governance matters rather than signaling any strategic shift or material financial event.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-02T15:11:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/3i-infrastructure--3in/result-of-agm/9650347",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director re-elections and auditor appointments rather than strategic shifts or capital allocation changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-07-02T07:00:00",
       "category": null,
       "headline": "3i Infrastructure plc - Performance update",
       "url": "https://www.investegate.co.uk/announcement/rns/3i-infrastructure--3in/3i-infrastructure-plc-performance-update/9648415",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a closed-end fund heavily exposed to UK infrastructure assets, performance updates are critical for assessing NAV erosion or growth amidst rising interest rates and inflation pressures. This update likely clarifies dividend sustainability and asset valuation trends, directly influencing the share premium/discount dynamics relative to peers like Macquarie Infrastructure Partners.",
+      "key_themes": [
+        "NAV Performance",
+        "Dividend Sustainability",
+        "Infrastructure Sector"
+      ]
     },
     {
       "timestamp": "2026-06-17T12:13:00",
       "category": null,
       "headline": "3iN plc – Completion of TCR realisation",
       "url": "https://www.investegate.co.uk/announcement/rns/3i-infrastructure--3in/3in-plc-completion-of-tcr-realisation/9623540",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The completion of the TCR realisation represents a definitive capital return event that reduces asset concentration risk and provides liquidity for reinvestment in higher-growth infrastructure sectors like renewables or digital assets.",
+      "key_themes": [
+        "Capital Return",
+        "Portfolio Realisation",
+        "Infrastructure"
+      ]
     }
   ]
 }

@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/rosebank-industries-plc--rose/holding-s-in-company/9877968",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/rosebank-industries-plc--rose/director-pdmr-shareholding/9837614",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements typically carry minimal market impact unless accompanied by unusual volume or timing relative to price movements; without specific transaction details, this is classified as standard administrative disclosure.",
@@ -33,6 +35,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/rosebank-industries-plc--rose/director-pdmr-shareholding/9820835",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible signal for institutional investors unless aggregated across the board or accompanied by unusual volume.",
@@ -46,6 +49,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/rosebank-industries-plc--rose/holding-s-in-company/9785071",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -56,6 +60,7 @@
       "category": "Director Dealing",
       "headline": "Rosebank Industries plc Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/rosebank-industries-plc--rose/rosebank-industries-plc-director-pdmr-shareholding/9761846",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements typically signal minimal immediate market impact unless accompanied by unusual volume or context; without specific transaction values or insider names, this remains an administrative disclosure with no strategic implications for ROSE.",
@@ -69,6 +74,7 @@
       "category": "Results",
       "headline": "Unaudited Results: six months ended 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/rosebank-industries-plc--rose/unaudited-results-six-months-ended-30-june-2026/9752870",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a non-listed entity with no active trading history on the London Stock Exchange, this announcement carries negligible market impact; for listed peers, interim results serve as routine sentiment indicators rather than transformative catalysts in the current volatile UK equity environment.",
@@ -82,26 +88,35 @@
       "category": "Acquisition",
       "headline": "Acquisition update and H1 2026 trading update",
       "url": "https://www.investegate.co.uk/announcement/rns/rosebank-industries-plc--rose/acquisition-update-and-h1-2026-trading-update-/9678456",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The combination of an acquisition update with H1 trading results suggests a pivotal moment for ROSE's growth strategy; investors will scrutinize whether the new asset accretion offsets any near-term integration costs or margin pressure in a competitive UK industrial sector.",
+      "key_themes": [
+        "M&A Integration",
+        "Interim Results"
+      ]
     },
     {
       "timestamp": "2026-07-09T07:00:00",
       "category": "Appointment",
       "headline": "Appointment of Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/rns/rosebank-industries-plc--rose/appointment-of-non-executive-director-/9659713",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board expansion typical of UK SMEs seeking governance depth; without a named industry heavyweight or explicit strategic mandate, this signals incremental rather than transformative change.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-06-30T11:34:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/rosebank-industries-plc--rose/holding-s-in-company/9644564",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -112,6 +127,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/rosebank-industries-plc--rose/director-pdmr-shareholding/9640419",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible signal for institutional investors unless aggregated across the board or indicating a sudden shift in insider sentiment.",
@@ -125,6 +141,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/rosebank-industries-plc--rose/director-pdmr-shareholding/9640418",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry minimal market impact unless accompanied by unusual volume or timing relative to price movements; without specific transaction details, this is classified as standard administrative reporting.",
@@ -138,6 +155,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/rosebank-industries-plc--rose/holding-s-in-company/9597206",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -148,10 +166,15 @@
       "category": "Acquisition",
       "headline": "Completion of ASP MWI Holdings, Inc. Acquisition",
       "url": "https://www.investegate.co.uk/announcement/rns/rosebank-industries-plc--rose/completion-of-asp-mwi-holdings-inc-acquisition-/9590603",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Completion of the ASP MWI acquisition marks a significant strategic pivot for Rosebank Industries into the US wind infrastructure market, leveraging ASP's established service network to capture high-margin aftermarket revenue streams amid strong UK and European renewable energy tailwinds.",
+      "key_themes": [
+        "Cross-border M&A",
+        "Renewable Energy Infrastructure",
+        "Market Expansion"
+      ]
     }
   ]
 }

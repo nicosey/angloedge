@@ -10,36 +10,49 @@
       "category": null,
       "headline": "Cameroon Update",
       "url": "https://www.investegate.co.uk/announcement/rns/tower-resources--trp/cameroon-update/9805312",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Operational updates for junior explorers like Tower Resources are typically low-impact unless they signal a major resource upgrade or funding crisis; Cameroon's political stability remains a persistent overhang for foreign investors in the region.",
+      "key_themes": [
+        "Exploration Update",
+        "Geopolitical Risk"
+      ]
     },
     {
       "timestamp": "2026-09-18T07:00:00",
       "category": null,
       "headline": "Change of Registered Address",
       "url": "https://www.investegate.co.uk/announcement/rns/tower-resources--trp/change-of-registered-address/9778531",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing with zero fundamental impact on Tower Resources' exploration strategy or valuation, reflecting routine corporate governance rather than any strategic shift in their UK offshore licensing activities.",
+      "key_themes": [
+        "Administrative",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-08-24T07:00:00",
       "category": null,
       "headline": "License Update & Subscription to raise £325,000",
       "url": "https://www.investegate.co.uk/announcement/rns/tower-resources--trp/license-update-subscription-to-raise-325-000/9735292",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The £325k raise is immaterial for a listed entity but signals potential liquidity constraints typical of junior explorers; the concurrent license update suggests operational progress that may justify the dilution or placement to sustain exploration activities.",
+      "key_themes": [
+        "Capital Raise",
+        "Exploration Update"
+      ]
     },
     {
       "timestamp": "2026-07-14T12:48:00",
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/tower-resources--trp/tr-1-notification-of-major-holdings/9668294",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +63,7 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM & Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/tower-resources--trp/result-of-agm-total-voting-rights-/9644894",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,30 +74,44 @@
       "category": null,
       "headline": "Grant of Restricted Shares under LTIP",
       "url": "https://www.investegate.co.uk/announcement/rns/tower-resources--trp/grant-of-restricted-shares-under-ltip/9640560",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative grant under the Long Term Incentive Plan with no immediate cash impact or dilution event, typical for junior explorers like Tower Resources to retain management talent rather than signal strategic shifts.",
+      "key_themes": [
+        "LTIP",
+        "Corporate Governance",
+        "Minor Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-24T07:00:00",
       "category": null,
       "headline": "License and Farmout Update & Subscription Raise",
       "url": "https://www.investegate.co.uk/announcement/rns/tower-resources--trp/license-and-farmout-update-subscription-raise-/9633218",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The combination of a farmout agreement signals potential validation of the asset's technical merit by a major partner, while the concurrent subscription raise mitigates immediate liquidity risk but introduces dilution; this dual-action is typical for junior explorers seeking to bridge funding gaps without relinquishing full control.",
+      "key_themes": [
+        "Capital Raise",
+        "Farmout",
+        "Dilution Risk"
+      ]
     },
     {
       "timestamp": "2026-06-05T16:17:00",
       "category": null,
       "headline": "Posting of the Annual Report and Notice of Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/tower-resources--trp/posting-of-the-annual-report-and-notice-of-meeting/9605072",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for an AIM-listed junior explorer, serving only to convene the AGM rather than disclose material operational developments or financial results.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     }
   ]
 }

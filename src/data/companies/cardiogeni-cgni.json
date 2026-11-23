@@ -10,50 +10,72 @@
       "category": null,
       "headline": "Accounts Publication Update",
       "url": "https://www.investegate.co.uk/announcement/rns/cardiogeni-plc--cgni/accounts-publication-update/9844606",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the timing of financial reporting, lacking any substantive commercial data or strategic shifts that would influence valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-10-01T07:00:00",
       "category": null,
       "headline": "Delay in Publication of Accounts and Suspension",
       "url": "https://www.investegate.co.uk/announcement/rns/cardiogeni-plc--cgni/delay-in-publication-of-accounts-and-suspension-/9800265",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Suspension of a clinical-stage biotech's shares due to delayed accounts signals severe liquidity or solvency distress, often preceding insolvency proceedings or forced dilution; in the current high-rate environment, such delays for pre-revenue firms are critical red flags for imminent delisting risk.",
+      "key_themes": [
+        "liquidity crisis",
+        "clinical-stage biotech",
+        "suspension",
+        "insolvency risk"
+      ]
     },
     {
       "timestamp": "2026-07-09T07:00:00",
       "category": null,
       "headline": "Grant of Incentive Options over Stock",
       "url": "https://www.investegate.co.uk/announcement/rns/cardiogeni-plc--cgni/grant-of-incentive-options-over-stock-/9659716",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Standard equity incentive grant typical for pre-revenue biotech to retain scientific talent; dilutive but operationally necessary given the sector's high burn rate and competitive recruitment landscape.",
+      "key_themes": [
+        "equity_incentive",
+        "biotech_talent_retention"
+      ]
     },
     {
       "timestamp": "2026-07-07T07:00:00",
       "category": "Director Dealing",
       "headline": "Director's Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/cardiogeni-plc--cgni/director-s-dealings-/9654893",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible signal for institutional investors compared to broader insider group activity or corporate strategy shifts.",
+      "key_themes": [
+        "regulatory_compliance",
+        "minor_administrative"
+      ]
     },
     {
       "timestamp": "2026-06-29T07:00:00",
       "category": null,
       "headline": "Grant of Incentive Options over Stock",
       "url": "https://www.investegate.co.uk/announcement/rns/cardiogeni-plc--cgni/grant-of-incentive-options-over-stock/9640422",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Standard equity incentive grant typical for small-cap biotech to retain talent during development phases; lacks immediate catalyst value and may signal minor dilution rather than strategic transformation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Equity Dilution"
+      ]
     }
   ]
 }

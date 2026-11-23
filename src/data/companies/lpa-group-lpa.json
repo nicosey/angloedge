@@ -10,6 +10,7 @@
       "category": "Trading Update",
       "headline": "Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/lpa-group--lpa/trading-update-/9766678",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 4,
       "insight": "As a standard trading update from a niche engineering services provider without material guidance changes or M&A activity, this is routine noise unlikely to move the stock significantly.",
@@ -23,30 +24,42 @@
       "category": "Appointment",
       "headline": "Appointment of Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/rns/lpa-group--lpa/appointment-of-non-executive-director/9719077",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine governance update with limited immediate market impact; reflects standard board refreshment rather than a strategic pivot or crisis response.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-07-23T07:00:00",
       "category": "Dividend",
       "headline": "Distribution Agreement with Boeing Distribution",
       "url": "https://www.investegate.co.uk/announcement/rns/lpa-group--lpa/distribution-agreement-with-boeing-distribution/9682990",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms a standard commercial distribution arrangement rather than a transformative event; while Boeing is a prestigious client, LPA's core revenue drivers remain tied to broader aerospace supply chain dynamics and existing contract renewals.",
+      "key_themes": [
+        "commercial agreement",
+        "supply chain validation"
+      ]
     },
     {
       "timestamp": "2026-07-10T07:00:00",
       "category": null,
       "headline": "Rail Aftercare Contract Awards",
       "url": "https://www.investegate.co.uk/announcement/rns/lpa-group--lpa/rail-aftercare-contract-awards/9662014",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Securing rail aftercare contracts provides recurring revenue visibility in a fragmented market, though growth is likely incremental rather than transformative given LPA's niche position in the UK infrastructure maintenance sector.",
+      "key_themes": [
+        "Rail Infrastructure",
+        "Recurring Revenue"
+      ]
     }
   ]
 }

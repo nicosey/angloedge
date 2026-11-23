@@ -2,24 +2,41 @@
   "name": "Westwing Group AG",
   "ticker": "0AA2",
   "slug": "westwing-group-0aa2",
-  "announcement_count": 26,
-  "latest_announcement": "2026-11-18T07:32:00",
+  "announcement_count": 27,
+  "latest_announcement": "2026-11-23T12:04:00",
   "announcements": [
     {
-      "timestamp": "2026-11-18T07:32:00",
-      "category": "Acquisition",
-      "headline": "EQS-PVR: Westwing Group SE: Publication of acquisition or disposal in respect of own shares according Sec. 40 para. 1 sent. 2 WpHG",
-      "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-pvr-westwing-group-se-publication-of-ac-/9881547",
+      "timestamp": "2026-11-23T12:04:00",
+      "category": null,
+      "headline": "EQS-CMS: Westwing Group SE: Release of a capi...",
+      "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-cms-westwing-group-se-release-of-a-capi-/9889323",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
       "key_themes": null
     },
     {
+      "timestamp": "2026-11-18T07:32:00",
+      "category": "Acquisition",
+      "headline": "EQS-PVR: Westwing Group SE: Publication of acquisition or disposal in respect of own shares according Sec. 40 para. 1 sent. 2 WpHG",
+      "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-pvr-westwing-group-se-publication-of-ac-/9881547",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This is a standard regulatory disclosure for a share buyback tranche under German WpHG rules; while it signals potential capital return to shareholders, the lack of disclosed volume or price limits renders it immaterial for immediate valuation adjustments in the current distressed home goods sector.",
+      "key_themes": [
+        "Share Buyback",
+        "Regulatory Compliance",
+        "Capital Management"
+      ]
+    },
+    {
       "timestamp": "2026-11-16T12:06:00",
       "category": null,
       "headline": "EQS-CMS: Westwing Group SE: Release of a capital market information",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-cms-westwing-group-se-release-of-a-capi-/9877597",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +47,7 @@
       "category": null,
       "headline": "EQS-CMS: Westwing Group SE: Release of a capital market information",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-cms-westwing-group-se-release-of-a-capi-/9865627",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,26 +58,35 @@
       "category": null,
       "headline": "Original-Research: Westwing Group SE (von NuWays AG): BUY",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/original-research-westwing-group-se-von-nuw-/9862399",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is an external research note from von NuWays AG rather than a company-initiated disclosure, indicating no immediate fundamental change in Westwing's operational status or capital structure.",
+      "key_themes": [
+        "external-research",
+        "analyst-rating"
+      ]
     },
     {
       "timestamp": "2026-11-05T05:00:00",
       "category": null,
       "headline": "EQS-News: Westwing delivers fifth consecutive quarter of growth despite persistent macro headwinds",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-news-westwing-delivers-fifth-consecutive-/9859031",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Westwing's fifth consecutive quarter of growth signals successful execution of its turnaround strategy amidst a challenging e-commerce landscape, though persistent macro headwinds suggest limited upside momentum for the broader sector.",
+      "key_themes": [
+        "E-commerce",
+        "Turnaround Execution"
+      ]
     },
     {
       "timestamp": "2026-11-02T13:15:00",
       "category": null,
       "headline": "EQS-CMS: Westwing Group SE: Release of a capital market information",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-cms-westwing-group-se-release-of-a-capi-/9853920",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,6 +97,7 @@
       "category": null,
       "headline": "EQS-CMS: Westwing Group SE: Release of a capital market information",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-cms-westwing-group-se-release-of-a-capi-/9841810",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,6 +108,7 @@
       "category": null,
       "headline": "EQS-CMS: Westwing Group SE: Release of a capital market information",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-cms-westwing-group-se-release-of-a-capi-/9829972",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,6 +119,7 @@
       "category": null,
       "headline": "EQS-CMS: Westwing Group SE: Release of capital market information",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-cms-westwing-group-se-release-of-capita-/9814425",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -100,66 +130,92 @@
       "category": "Share Buyback",
       "headline": "EQS-Adhoc: Westwing Group SE: Westwing Approves Share Buyback",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-adhoc-westwing-group-se-westwing-approv-/9814423",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This approval signals management's intent to return capital or manage dilution, but as a standard corporate action without specified volume or price parameters, it lacks immediate market-moving weight compared to transformative events.",
+      "key_themes": [
+        "capital allocation",
+        "shareholder returns"
+      ]
     },
     {
       "timestamp": "2026-10-07T09:00:00",
       "category": null,
       "headline": "Original-Research: Westwing Group SE (von NuWays AG): BUY",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/original-research-westwing-group-se-von-nuw-/9810798",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is an external research note from von NuWays AG rather than a company-initiated disclosure, indicating no immediate operational change or material event for Westwing Group SE.",
+      "key_themes": [
+        "External Research",
+        "Analyst Rating"
+      ]
     },
     {
       "timestamp": "2026-08-13T16:38:00",
       "category": null,
       "headline": "EQS-DD: Westwing Group SE: Christoph Barchewitz, buy",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-dd-westwing-group-se-christoph-barchewi-/9721249",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a routine insider transaction disclosure with negligible market impact; director share purchases are common administrative filings that do not signal immediate strategic shifts or material financial changes for the e-commerce sector.",
+      "key_themes": [
+        "Insider Dealing",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-08-13T16:38:00",
       "category": null,
       "headline": "EQS-DD: Westwing Group SE: Christoph Barchewitz, Kauf",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-dd-westwing-group-se-christoph-barchewi-/9721248",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard insider dealing notification for a non-executive director, which carries no intrinsic signal regarding the company's operational performance or strategic direction. In the current volatile home furnishings sector, such routine disclosures are common and lack the weight of transformative events like M&A or executive departures.",
+      "key_themes": [
+        "insider_dealing",
+        "corporate_governance"
+      ]
     },
     {
       "timestamp": "2026-08-07T09:00:00",
       "category": null,
       "headline": "Original-Research: Westwing Group SE (von NuWays AG): BUY",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/original-research-westwing-group-se-von-nuw-/9710466",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is an external research note from von NuWays AG rather than a company-initiated disclosure, indicating no immediate operational change or material event for Westwing Group SE.",
+      "key_themes": [
+        "analyst_rating",
+        "external_research"
+      ]
     },
     {
       "timestamp": "2026-08-06T06:00:00",
       "category": null,
       "headline": "EQS-News: Westwing delivers a strong 15% GMV growth in Q2 2026 amid a challenging macro environment",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-news-westwing-delivers-a-strong-15-gmv-/9707198",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Westwing's 15% GMV growth demonstrates successful brand portfolio optimization and pricing power within the competitive home decor sector, countering broader e-commerce headwinds and validating its strategic pivot away from pure marketplace dynamics.",
+      "key_themes": [
+        "GMV Growth",
+        "Home Decor E-commerce",
+        "Operational Efficiency"
+      ]
     },
     {
       "timestamp": "2026-07-30T13:27:00",
       "category": null,
       "headline": "EQS-CMS: Westwing Group SE: Release of a capital market information",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-cms-westwing-group-se-release-of-a-capi-/9696507",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -170,6 +226,7 @@
       "category": null,
       "headline": "EQS-CMS: Westwing Group SE: Release of a capital market information",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-cms-westwing-group-se-release-of-a-capi-/9696484",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -180,6 +237,7 @@
       "category": null,
       "headline": "EQS-CMS: Westwing Group SE: Release of a capital market information",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-cms-westwing-group-se-release-of-a-capi-/9689326",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -190,6 +248,7 @@
       "category": null,
       "headline": "EQS-CMS: Westwing Group SE: Release of a capital market information",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-cms-westwing-group-se-release-of-a-capi-/9677978",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -200,6 +259,7 @@
       "category": null,
       "headline": "EQS-CMS: Westwing Group SE: Release of a capital market information",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-cms-westwing-group-se-release-of-a-capi-/9666087",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -210,6 +270,7 @@
       "category": null,
       "headline": "EQS-CMS: Westwing Group SE: Release of a capital market information",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-cms-westwing-group-se-release-of-a-capi-/9654377",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -220,6 +281,7 @@
       "category": null,
       "headline": "EQS-CMS: Westwing Group SE: Release of a capital market information",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-cms-westwing-group-se-release-of-a-capi-/9642333",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -230,6 +292,7 @@
       "category": null,
       "headline": "EQS-CMS: Westwing Group SE: Release of a capital market information",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-cms-westwing-group-se-release-of-a-capi-/9618893",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -240,6 +303,7 @@
       "category": "Dividend",
       "headline": "EQS-PVR: Westwing Group SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-pvr-westwing-group-se-release-according-/9598013",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -250,6 +314,7 @@
       "category": null,
       "headline": "EQS-CMS: Westwing Group SE: Release of a capital market information",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-cms-westwing-group-se-release-of-a-capi-/9595352",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -260,6 +325,7 @@
       "category": null,
       "headline": "EQS-CMS: Westwing Group SE: Release of a capital market information",
       "url": "https://www.investegate.co.uk/announcement/eqs/westwing-group-ag--0aa2/eqs-cms-westwing-group-se-release-of-a-capi-/9585973",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,

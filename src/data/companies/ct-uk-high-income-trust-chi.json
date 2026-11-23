@@ -10,16 +10,21 @@
       "category": "Dividend",
       "headline": "Dividend and Capital Repayment",
       "url": "https://www.investegate.co.uk/announcement/rns/ct-uk-high-income-trust--chi/dividend-and-capital-repayment/9877998",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The combination of a dividend declaration with a capital repayment signals a deliberate shift towards returning excess NAV to shareholders, likely reflecting the fund's strategy to manage AUM in a high-yield environment where income generation is prioritized over growth.",
+      "key_themes": [
+        "Capital Return",
+        "Yield Optimization"
+      ]
     },
     {
       "timestamp": "2026-10-23T16:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/ct-uk-high-income-trust--chi/holding-s-in-company/9839714",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,16 +35,21 @@
       "category": null,
       "headline": "Portfolio Update",
       "url": "https://www.investegate.co.uk/announcement/rns/ct-uk-high-income-trust--chi/portfolio-update/9825841",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine portfolio updates for closed-end funds typically serve as transparency tools rather than catalysts for immediate price action, reflecting standard investment management activity without signaling major strategic shifts or material financial changes.",
+      "key_themes": [
+        "Portfolio Management",
+        "Transparency"
+      ]
     },
     {
       "timestamp": "2026-10-14T07:00:00",
       "category": null,
       "headline": "Kepler Trust Intelligence: New Research",
       "url": "https://www.investegate.co.uk/announcement/rns/ct-uk-high-income-trust--chi/kepler-trust-intelligence-new-research/9821369",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +60,7 @@
       "category": null,
       "headline": "Compliance with Market Abuse Regulation",
       "url": "https://www.investegate.co.uk/announcement/rns/ct-uk-high-income-trust--chi/compliance-with-market-abuse-regulation/9802467",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +71,7 @@
       "category": null,
       "headline": "Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/ct-uk-high-income-trust--chi/investor-presentation/9797755",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,36 +82,50 @@
       "category": "Dividend",
       "headline": "Dividend and Capital Repayment",
       "url": "https://www.investegate.co.uk/announcement/rns/ct-uk-high-income-trust--chi/dividend-and-capital-repayment/9789903",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The combination of a dividend declaration with a capital repayment signals a deliberate strategy to return excess NAV to shareholders in a high-yield environment, likely reflecting strong recent performance or a desire to manage AUM growth. This structural adjustment is common for investment trusts seeking to optimize their leverage and yield profiles amidst rising interest rates.",
+      "key_themes": [
+        "Capital Return",
+        "Yield Optimization",
+        "Investment Trust Structure"
+      ]
     },
     {
       "timestamp": "2026-08-21T12:06:00",
       "category": null,
       "headline": "Portfolio Update",
       "url": "https://www.investegate.co.uk/announcement/rns/ct-uk-high-income-trust--chi/portfolio-update/9734689",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine portfolio updates for closed-end funds typically serve as transparency tools rather than catalysts for immediate price action, reflecting standard investment management activities without signaling material strategic shifts.",
+      "key_themes": [
+        "transparency",
+        "portfolio-management"
+      ]
     },
     {
       "timestamp": "2026-07-29T07:00:00",
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/ct-uk-high-income-trust--chi/directorate-change/9692343",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board-level personnel adjustments in closed-end funds typically signal governance continuity rather than strategic shifts; without accompanying commentary on investment policy or performance attribution, this is unlikely to drive immediate NAV re-rating.",
+      "key_themes": [
+        "Corporate Governance",
+        "Management Continuity"
+      ]
     },
     {
       "timestamp": "2026-07-01T13:24:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/ct-uk-high-income-trust--chi/total-voting-rights/9647724",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -110,6 +136,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/ct-uk-high-income-trust--chi/issue-of-equity/9600529",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -120,6 +147,7 @@
       "category": null,
       "headline": "QuotedData's In The HotSeat Special",
       "url": "https://www.investegate.co.uk/announcement/rns/ct-uk-high-income-trust--chi/quoteddata-s-in-the-hotseat-special/9589701",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,

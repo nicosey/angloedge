@@ -10,16 +10,21 @@
       "category": "Acquisition",
       "headline": "Completion of Paguanta Project Acquisition",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/completion-of-paguanta-project-acquisition/9860073",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "For a junior explorer like Ajax Resources, completing an acquisition is a standard operational milestone rather than a transformative event; value creation depends entirely on the underlying resource definition and future drilling results, which are not detailed here.",
+      "key_themes": [
+        "Exploration",
+        "Asset Consolidation"
+      ]
     },
     {
       "timestamp": "2026-10-26T18:29:00",
       "category": null,
       "headline": "Issue of Shares to Suppliers and Directors",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/issue-of-shares-to-suppliers-and-directors-/9842204",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,26 +35,35 @@
       "category": null,
       "headline": "Admission to Euronext Growth Oslo Confirmed",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/admission-to-euronext-growth-oslo-confirmed/9839837",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Admission to Euronext Growth Oslo is a standard listing procedure for junior mining explorers seeking liquidity and visibility in the Nordic market, lacking immediate transformative financial impact or strategic M&A implications.",
+      "key_themes": [
+        "listing",
+        "expansion"
+      ]
     },
     {
       "timestamp": "2026-10-22T12:00:00",
       "category": null,
       "headline": "Private Investor Subscription Fully Subscribed",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/private-investor-subscription-fully-subscribed/9836850",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Full subscription of a private investor placement indicates strong insider confidence but typically involves small-ticket capital raising with negligible dilution impact on the broader market.",
+      "key_themes": [
+        "capital_raise",
+        "insider_confidence"
+      ]
     },
     {
       "timestamp": "2026-10-21T18:18:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/director-pdmr-shareholding-/9835084",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements in the junior mining sector typically carry minimal market-moving weight unless accompanied by significant volume or insider cluster activity, which is not indicated here.",
@@ -63,16 +77,21 @@
       "category": null,
       "headline": "Update on Euronext Growth Oslo Admission",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/update-on-euronext-growth-oslo-admission/9830656",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Admission to Euronext Growth Oslo is a standard liquidity and visibility exercise for junior miners, lacking the transformative capital raise or M&A activity required for higher scoring; it signals incremental progress rather than a strategic pivot.",
+      "key_themes": [
+        "market_expansion",
+        "liquidity"
+      ]
     },
     {
       "timestamp": "2026-10-16T13:06:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/holding-s-in-company-/9827679",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,86 +102,120 @@
       "category": "Director Dealing",
       "headline": "Director Dealings and Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/director-dealings-and-holdings/9825967",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Standard disclosure of individual director transactions which typically carries negligible signal for market valuation unless accompanied by aggregate insider buying/selling data; lacks the transformative catalysts required for significant price action in the current mining sector environment.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
     },
     {
       "timestamp": "2026-10-15T08:00:00",
       "category": null,
       "headline": "Update on Macacha EIA & New Exploration Permit",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/update-on-macacha-eia-new-exploration-permit/9824466",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Macacha EIA updates are standard regulatory milestones for junior miners, offering low immediate value but confirming project viability; without a concurrent resource upgrade or financing announcement, the market reaction will likely be muted.",
+      "key_themes": [
+        "regulatory_compliance",
+        "exploration_progress"
+      ]
     },
     {
       "timestamp": "2026-10-12T07:00:00",
       "category": null,
       "headline": "Update on proposed Euronext Growth Oslo Admission",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/update-on-proposed-euronext-growth-oslo-admission-/9816826",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Listing on Euronext Growth Oslo is a standard liquidity and visibility play for junior miners, lacking the transformative capital raise or M&A activity required for higher scoring; it signals strategic intent but offers limited immediate fundamental catalyst.",
+      "key_themes": [
+        "market expansion",
+        "liquidity"
+      ]
     },
     {
       "timestamp": "2026-10-09T07:00:00",
       "category": null,
       "headline": "Update on Ajax’s investment in Reveille Resources",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/update-on-ajax-s-investment-in-reveille-resources/9814556",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a micro-cap explorer with limited liquidity, an update on a non-core investment is unlikely to move the share price materially unless it reveals a significant devaluation or immediate monetisation opportunity.",
+      "key_themes": [
+        "Micro-cap",
+        "Asset Update"
+      ]
     },
     {
       "timestamp": "2026-10-06T08:00:00",
       "category": null,
       "headline": "Increased Investment in Reveille Resources PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/increased-investment-in-reveille-resources-plc/9808476",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement reflects a standard portfolio rebalancing typical of small-cap resource investors rather than a transformative corporate event; without disclosure of the specific deal size or valuation premium, it lacks the materiality to drive significant share price re-rating.",
+      "key_themes": [
+        "Portfolio Adjustment",
+        "Small Cap Resource"
+      ]
     },
     {
       "timestamp": "2026-09-15T09:22:00",
       "category": "Appointment",
       "headline": "Update on Pereira Velho & Appointment of QP",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/update-on-pereira-velho-appointment-of-qp/9772707",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The appointment of a Qualified Person (QP) for the Pereira Velho project signals a critical step towards resource estimation and potential bankability, addressing a key governance gap in junior mining exploration. This move aligns with industry standards for de-risking assets ahead of future funding rounds or partnership discussions.",
+      "key_themes": [
+        "governance",
+        "exploration",
+        "asset_development"
+      ]
     },
     {
       "timestamp": "2026-08-27T17:30:00",
       "category": "AGM/EGM",
       "headline": "Directors' Dealings and Holdings & Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/directors-dealings-and-holdings-result-of-agm-/9744243",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming shareholder approval and disclosing minor director transactions, which carries no material implication for Ajax Resources' valuation or strategic direction in the current resource sector context.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-08-19T11:00:00",
       "category": null,
       "headline": "Publication of Research",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/publication-of-research/9729954",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Publication of research is a standard compliance filing for AIM-listed explorers like Ajax Resources, typically lacking immediate commercial catalysts or material financial impact compared to drilling results or resource updates.",
+      "key_themes": [
+        "RNS",
+        "Research Publication"
+      ]
     },
     {
       "timestamp": "2026-08-19T07:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/director-pdmr-shareholding-/9728541",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements in the junior mining sector typically carry minimal market-moving weight unless accompanied by significant volume or insider trading patterns; without specific transaction details, this is classified as administrative noise.",
@@ -176,6 +229,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/director-pdmr-shareholding/9727841",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements in the junior mining sector typically carry minimal market-moving weight unless accompanied by significant volume or insider cluster activity, which is not indicated here.",
@@ -189,36 +243,50 @@
       "category": null,
       "headline": "Termination of Option",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/termination-of-option-/9725434",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Termination of an option typically signals a failed exploration target or commercial negotiation, representing a sunk cost write-off rather than value creation; in the junior mining sector, this is routine administrative noise unless it halts a previously high-potential project.",
+      "key_themes": [
+        "exploration risk",
+        "capital preservation"
+      ]
     },
     {
       "timestamp": "2026-08-17T11:30:00",
       "category": "Acquisition",
       "headline": "Acquisition of the Paguanta Project, Chile",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/acquisition-of-the-paguanta-project-chile-/9725360",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This acquisition signals a strategic pivot for Ajax Resources into the critical lithium value chain, aligning with the broader UK junior mining sector's aggressive pursuit of battery metals assets to capture ESG-driven capital flows. While Paguanta represents a tangible step in asset development, the market will scrutinize the execution risk and funding requirements inherent in advancing early-stage Chilean projects.",
+      "key_themes": [
+        "Lithium",
+        "Strategic Pivot",
+        "Battery Metals"
+      ]
     },
     {
       "timestamp": "2026-08-05T07:00:00",
       "category": null,
       "headline": "Update on Pereira Velho Gold Project, Brazil",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/update-on-pereira-velho-gold-project-brazil-/9705003",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a junior explorer, operational updates on the Pereira Velho project are routine and lack the transformative catalysts required for significant valuation re-rating without accompanying resource upgrades or financing news.",
+      "key_themes": [
+        "Exploration Update",
+        "Brazilian Assets"
+      ]
     },
     {
       "timestamp": "2026-08-03T17:15:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/holding-s-in-company-/9702237",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -229,6 +297,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/notice-of-agm/9701189",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -239,6 +308,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/holding-s-in-company-/9698740",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -249,36 +319,52 @@
       "category": null,
       "headline": "Exchange of Eureka for Rachaite and El Salto",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/exchange-of-eureka-for-rachaite-and-el-salto/9689954",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This asset swap represents a strategic consolidation of Ajax's core Irish exploration portfolio by divesting non-core Spanish assets (El Salto) and integrating the high-potential Rachaite project, enhancing focus on the prolific Leinster Valley trend.",
+      "key_themes": [
+        "Portfolio Optimization",
+        "Asset Consolidation",
+        "Irish Exploration"
+      ]
     },
     {
       "timestamp": "2026-07-27T07:00:00",
       "category": "Acquisition",
       "headline": "Binding Option to Acquire the Nueva Celti Project",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/binding-option-to-acquire-the-nueva-celti-project-/9687761",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The binding option for the Nueva Celti project signals a strategic pivot toward high-grade base metals, potentially de-risking Ajax's exploration pipeline and enhancing asset valuation through tangible development milestones rather than pure speculation.",
+      "key_themes": [
+        "Exploration",
+        "Asset Acquisition",
+        "Base Metals"
+      ]
     },
     {
       "timestamp": "2026-07-06T07:30:00",
       "category": null,
       "headline": "Further Investment in Reveille Resources PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/further-investment-in-reveille-resources-plc/9653533",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This investment signals a strategic pivot for Ajax Resources towards the critical lithium supply chain, leveraging its partnership with Reveille to secure upstream assets in the UK's emerging EV battery sector.",
+      "key_themes": [
+        "Lithium",
+        "EV Supply Chain",
+        "Strategic Partnership"
+      ]
     },
     {
       "timestamp": "2026-07-06T07:00:00",
       "category": "Results",
       "headline": "Final Results for the year to 28 February 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/final-results-for-the-year-to-28-february-2026/9653021",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a junior explorer, the primary value driver is the confirmation of resource expansion or grade improvement in its UK-based assets, which serves as a critical catalyst for future financing rounds amidst the current hardening capital markets for small-cap miners.",
@@ -293,10 +379,14 @@
       "category": null,
       "headline": "Update on Macacha  and Application for Licences",
       "url": "https://www.investegate.co.uk/announcement/rns/ajax-resources--ajax/update-on-macacha-and-application-for-licences-/9624931",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard exploration update for a junior mining explorer, indicating continued capital preservation rather than immediate value creation; without assay results or resource estimates, the market will likely view this as low-impact noise amidst broader commodity price volatility.",
+      "key_themes": [
+        "Exploration Update",
+        "Regulatory Compliance"
+      ]
     }
   ]
 }

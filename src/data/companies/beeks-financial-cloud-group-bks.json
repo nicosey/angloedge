@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/beeks-financial-cloud-group--bks/holding-s-in-company/9877134",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,26 +21,36 @@
       "category": "Appointment",
       "headline": "Board Change",
       "url": "https://www.investegate.co.uk/announcement/rns/beeks-financial-cloud-group--bks/board-change/9861485",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board-level personnel changes in the fintech/cloud infrastructure sector typically signal operational continuity rather than strategic pivots, lacking the immediate catalyst for significant valuation re-rating seen in major M&A or leadership crises.",
+      "key_themes": [
+        "Corporate Governance",
+        "Fintech Sector"
+      ]
     },
     {
       "timestamp": "2026-10-19T07:01:00",
       "category": null,
       "headline": "Beeks sees positive Q1 momentum",
       "url": "https://www.investegate.co.uk/announcement/rns/beeks-financial-cloud-group--bks/beeks-sees-positive-q1-momentum-/9828421",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Positive Q1 momentum for Beeks Financial Cloud Group suggests resilience in the fintech infrastructure sector despite broader macro headwinds, reinforcing its position as a key enabler for financial institutions undergoing digital transformation.",
+      "key_themes": [
+        "Fintech Infrastructure",
+        "Trading Update",
+        "Digital Transformation"
+      ]
     },
     {
       "timestamp": "2026-10-07T07:52:00",
       "category": "Results",
       "headline": "Notice of Results and Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/beeks-financial-cloud-group--bks/notice-of-results-and-investor-presentation/9810776",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "This announcement signals the release of interim results for Beeks Financial Cloud Group, a critical juncture for this high-growth fintech infrastructure provider as it demonstrates scalability and path to profitability to skeptical markets. The inclusion of an investor presentation suggests management is actively managing narrative around valuation multiples in a sector currently sensitive to interest rate impacts on growth stocks.",
@@ -54,6 +65,7 @@
       "category": "Director Dealing",
       "headline": "PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/beeks-financial-cloud-group--bks/pdmr-shareholding/9694161",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR shareholding disclosures are standard regulatory filings with negligible immediate market impact; without details on direction (buy/sell) or volume, this provides no actionable signal for BKS equity valuation.",
@@ -67,10 +79,15 @@
       "category": null,
       "headline": "Third Market Edge Intelligence® contract win",
       "url": "https://www.investegate.co.uk/announcement/rns/beeks-financial-cloud-group--bks/third-market-edge-intelligence-contract-win/9617107",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This win reinforces Beeks' strategy of leveraging its proprietary Market Edge Intelligence® platform to secure recurring revenue in the competitive UK equity research market, though it remains a standard commercial update rather than a transformative event.",
+      "key_themes": [
+        "recurring revenue",
+        "product adoption",
+        "market expansion"
+      ]
     }
   ]
 }

@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/fuel-ventures-vct--fvv/issue-of-equity/9856241",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Admission of Further Securities to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/fuel-ventures-vct--fvv/admission-of-further-securities-to-trading/9802327",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,16 +32,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/fuel-ventures-vct--fvv/result-of-agm/9787369",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which typically rubber-stamp routine governance matters for VCTs without triggering material price movement or strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "VCT Administration"
+      ]
     },
     {
       "timestamp": "2026-08-27T13:47:00",
       "category": null,
       "headline": "Publication of a Supplementary Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/fuel-ventures-vct--fvv/publication-of-a-supplementary-prospectus/9743948",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,10 +57,15 @@
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/fuel-ventures-vct--fvv/annual-financial-report/9687456",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a standard annual report for a Venture Capital Trust, this is routine disclosure with no immediate catalyst for share price movement; VCTs typically trade on NAV discounts and dividend yields rather than earnings surprises.",
+      "key_themes": [
+        "VCT",
+        "Annual Report",
+        "NAV"
+      ]
     }
   ]
 }

@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "3rd Quarter Results",
       "url": "https://www.investegate.co.uk/announcement/rns/guaranty-trust-holding-company-plc--gtco/3rd-quarter-results/9848660",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a key player in the Nigerian financial sector, GTCO's Q3 results provide critical visibility into consumer credit health and FX liquidity pressures within West Africa's banking industry, though interim updates rarely trigger immediate re-rating without significant deviation from consensus.",
@@ -23,26 +24,36 @@
       "category": "Dividend",
       "headline": "NOTIFICATION OF EXCHANGE RATE FOR DIVIDEND PAYMENT",
       "url": "https://www.investegate.co.uk/announcement/rns/guaranty-trust-holding-company-plc--gtco/notification-of-exchange-rate-for-dividend-payment/9839781",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notification regarding currency conversion mechanics for dividend distribution, lacking any substantive news on earnings, strategy, or corporate governance changes.",
+      "key_themes": [
+        "Dividend",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-29T08:02:00",
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/guaranty-trust-holding-company-plc--gtco/dividend-declaration/9795962",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine dividend declaration for a Nigerian-listed entity on the London market; lacks transformative M&A or significant profit warning elements typical of high-impact UK equity moves.",
+      "key_themes": [
+        "Dividend",
+        "Nigeria",
+        "London Listing"
+      ]
     },
     {
       "timestamp": "2026-09-01T12:31:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/guaranty-trust-holding-company-plc--gtco/total-voting-rights/9749700",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,16 +64,22 @@
       "category": null,
       "headline": "Extension of Timeline For Release of  H1 Result",
       "url": "https://www.investegate.co.uk/announcement/rns/guaranty-trust-holding-company-plc--gtco/extension-of-timeline-for-release-of-h1-result/9732781",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The delay in releasing H1 results for a major Nigerian banking group suggests potential operational complexities or audit adjustments, creating short-term uncertainty for investors monitoring credit quality and dividend sustainability in the West African financial sector.",
+      "key_themes": [
+        "earnings_delay",
+        "banking_sector",
+        "market_uncertainty"
+      ]
     },
     {
       "timestamp": "2026-08-04T10:10:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/guaranty-trust-holding-company-plc--gtco/total-voting-rights/9703672",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,6 +90,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/guaranty-trust-holding-company-plc--gtco/total-voting-rights/9650465",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

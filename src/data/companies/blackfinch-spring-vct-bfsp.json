@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/blackfinch-spring-vct--bfsp/total-voting-rights/9856099",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/blackfinch-spring-vct--bfsp/issue-of-equity/9844021",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,16 +32,21 @@
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/blackfinch-spring-vct--bfsp/result-of-general-meeting/9824825",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes for Blackfinch Spring VCT, which carries no intrinsic valuation impact or strategic shift for the fund.",
+      "key_themes": [
+        "Corporate Governance",
+        "VCT Administration"
+      ]
     },
     {
       "timestamp": "2026-09-30T15:17:00",
       "category": null,
       "headline": "Admission of Further Securities to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/blackfinch-spring-vct--bfsp/admission-of-further-securities-to-trading/9799664",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +57,7 @@
       "category": null,
       "headline": "Purchase of Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/blackfinch-spring-vct--bfsp/purchase-of-own-shares/9798674",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,16 +68,21 @@
       "category": null,
       "headline": "Publication of Circular",
       "url": "https://www.investegate.co.uk/announcement/rns/blackfinch-spring-vct--bfsp/publication-of-circular-/9787348",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative filing for a VCT circular; lacks the transformative catalysts or material financial shifts required to move valuation metrics in the current high-yield income sector.",
+      "key_themes": [
+        "VCT",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-08-26T15:47:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/blackfinch-spring-vct--bfsp/issue-of-equity/9741914",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,6 +93,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/blackfinch-spring-vct--bfsp/issue-of-equity/9711276",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,6 +104,7 @@
       "category": null,
       "headline": "Admission of Further Securities to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/blackfinch-spring-vct--bfsp/admission-of-further-securities-to-trading/9652726",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -100,6 +115,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/blackfinch-spring-vct--bfsp/issue-of-equity/9639136",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -110,6 +126,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/blackfinch-spring-vct--bfsp/transaction-in-own-shares/9639123",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -120,10 +137,14 @@
       "category": "AGM/EGM",
       "headline": "Results of AGM, 4 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/blackfinch-spring-vct--bfsp/results-of-agm-4-june-2026/9602848",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for a VCT are typically administrative, confirming standard governance approvals rather than signaling strategic shifts or material capital events.",
+      "key_themes": [
+        "Corporate Governance",
+        "VCT Administration"
+      ]
     }
   ]
 }

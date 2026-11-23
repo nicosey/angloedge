@@ -10,6 +10,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/notice-of-annual-general-meeting/9866476",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,46 +21,64 @@
       "category": null,
       "headline": "Monthly Investor Report",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/monthly-investor-report-/9826120",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Monthly investor reports are standard administrative disclosures for AIM-listed micro-caps like VNH, providing no new material information to influence valuation or trading decisions.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-10-13T16:13:00",
       "category": null,
       "headline": "Redemption Price and Payment Timetable",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/redemption-price-and-payment-timetable/9821046",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice detailing the mechanics of a previously announced redemption, likely related to convertible notes or preference shares, rather than a new strategic development. For VNH, such routine capital structure adjustments are common but carry minimal immediate market impact unless accompanied by unexpected dilution or liquidity constraints.",
+      "key_themes": [
+        "Corporate Action",
+        "Capital Structure"
+      ]
     },
     {
       "timestamp": "2026-09-30T07:00:00",
       "category": null,
       "headline": "Proposed Cancellation of TISE Listing",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/proposed-cancellation-of-tise-listing/9797738",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Delisting from TISE represents a terminal event for the issuer's public equity status, effectively wiping out shareholder value and liquidity; this aligns with recent trends of micro-cap delistings due to compliance costs or lack of market interest.",
+      "key_themes": [
+        "delisting",
+        "liquidity_risk",
+        "micro_cap"
+      ]
     },
     {
       "timestamp": "2026-09-28T07:52:00",
       "category": null,
       "headline": "Annual Report",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/annual-report-/9793502",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a micro-cap with historically low liquidity and limited analyst coverage, the release of an annual report is a standard compliance obligation rather than a market-moving event, offering no immediate catalyst for price discovery.",
+      "key_themes": [
+        "regulatory_compliance",
+        "micro_cap"
+      ]
     },
     {
       "timestamp": "2026-09-21T07:00:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/transaction-in-own-shares/9780763",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,26 +89,35 @@
       "category": null,
       "headline": "Monthly Investor Report",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/monthly-investor-report/9771748",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Monthly investor reports are standard administrative disclosures for AIM-listed micro-caps like VNH, offering no material new financial data or strategic shifts to influence valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-09-11T07:01:00",
       "category": null,
       "headline": "White Papers Publication: Vietnam's Banking Sector",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/white-papers-publication-vietnam-s-banking-sector/9766841",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Publication of white papers is a non-material informational event with no immediate financial or operational impact on VNH's valuation or trading.",
+      "key_themes": [
+        "Investor Relations",
+        "Market Commentary"
+      ]
     },
     {
       "timestamp": "2026-09-08T10:53:00",
       "category": "Results",
       "headline": "2026 Redemption Opportunity Results",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/2026-redemption-opportunity-results/9761003",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "The '2026 Redemption' headline signals a critical liquidity event for this AIM-listed vehicle, likely triggering mandatory buybacks or conversions that will significantly alter the share register and capital structure ahead of the deadline.",
@@ -103,6 +131,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/total-voting-rights/9750058",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -113,6 +142,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/transaction-in-own-shares/9747557",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -123,6 +153,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/transaction-in-own-shares/9747556",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -133,16 +164,21 @@
       "category": null,
       "headline": "Monthly Investor Report",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/monthly-investor-report-/9737833",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Monthly investor reports are standard administrative disclosures for AIM-listed micro-caps like VNH, offering no new material information to influence valuation or trading decisions.",
+      "key_themes": [
+        "administrative",
+        "low-impact"
+      ]
     },
     {
       "timestamp": "2026-08-24T09:21:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/transaction-in-own-shares/9736304",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -153,6 +189,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/transaction-in-own-shares/9725364",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -163,6 +200,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/total-voting-rights/9702091",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -173,16 +211,21 @@
       "category": null,
       "headline": "Monthly Investor Report",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/monthly-investor-report-/9687873",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Monthly investor reports are standard administrative disclosures for AIM-listed micro-caps like VNH, offering no new material information to drive valuation changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-07-02T09:57:00",
       "category": null,
       "headline": "QuotedData's In The HotSeat",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/quoteddata-s-in-the-hotseat/9649540",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -193,6 +236,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/total-voting-rights/9647745",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -203,16 +247,21 @@
       "category": null,
       "headline": "Monthly Investor Report",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/monthly-investor-report/9638157",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Monthly investor reports are standard disclosure mechanisms for AIM-listed micro-caps to maintain visibility, offering no new material financial data or strategic shifts that would alter valuation models.",
+      "key_themes": [
+        "Routine Disclosure",
+        "Investor Relations"
+      ]
     },
     {
       "timestamp": "2026-06-17T12:57:00",
       "category": null,
       "headline": "Update note from QuotedData",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/update-note-from-quoteddata/9623611",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -223,6 +272,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/transaction-in-own-shares/9617100",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -233,6 +283,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/transaction-in-own-shares/9605351",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -243,6 +294,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/total-voting-rights/9595705",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -253,6 +305,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/vietnam-holding-ltd--vnh/director-pdmr-shareholding/9595234",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures for a micro-cap investment vehicle like VNH typically carry negligible market impact due to low liquidity and limited analyst coverage, reflecting standard compliance rather than strategic signaling.",

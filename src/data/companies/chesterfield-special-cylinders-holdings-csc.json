@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/chesterfield-special-cylinders-holdings-plc--csc/holding-s-in-company/9760669",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/chesterfield-special-cylinders-holdings-plc--csc/holding-s-in-company/9696493",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,10 +32,14 @@
       "category": "Appointment",
       "headline": "Board Changes and Reconfirmation of FY26 Outlook",
       "url": "https://www.investegate.co.uk/announcement/rns/chesterfield-special-cylinders-holdings-plc--csc/board-changes-and-reconfirmation-of-fy26-outlook/9689938",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Board restructuring in the industrial gas cylinder sector often signals a pivot towards operational efficiency or cost control amidst margin pressure; this move aims to stabilise governance ahead of FY26 targets but lacks immediate revenue catalysts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Industrial Services"
+      ]
     }
   ]
 }

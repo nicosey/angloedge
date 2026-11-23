@@ -10,50 +10,72 @@
       "category": null,
       "headline": "Sutton Harbour Group",
       "url": "https://www.investegate.co.uk/announcement/rns/sutton-harbour-group--suh/sutton-harbour-group/9792464",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The absence of substantive content in the RNS headline suggests a routine administrative filing or boilerplate update rather than a material corporate event, indicating negligible immediate impact on SUH's valuation or strategic trajectory.",
+      "key_themes": [
+        "Administrative",
+        "Low Impact"
+      ]
     },
     {
       "timestamp": "2026-09-22T12:30:00",
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/sutton-harbour-group--suh/result-of-general-meeting-/9784985",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the AGM/EGM, which typically ratifies routine matters such as director reappointments or fee approvals without altering the company's strategic trajectory.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-09-02T07:00:00",
       "category": null,
       "headline": "Publication of Circular and General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/sutton-harbour-group--suh/publication-of-circular-and-general-meeting/9750547",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard procedural announcement for the Sutton Harbour Group, indicating the release of circular documents ahead of a General Meeting rather than disclosing specific resolutions or material corporate actions.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-08-28T09:14:00",
       "category": null,
       "headline": "Strategic Review and Proposed Cancellation",
       "url": "https://www.investegate.co.uk/announcement/rns/sutton-harbour-group--suh/strategic-review-and-proposed-cancellation/9745538",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Cancellation of the listing signals a fundamental shift from public equity markets to private ownership, likely driven by the need for long-term capital allocation in infrastructure without quarterly earnings pressure, following recent consolidation trends in UK regional ports.",
+      "key_themes": [
+        "Delisting",
+        "Strategic Restructuring",
+        "Private Equity"
+      ]
     },
     {
       "timestamp": "2026-06-03T08:00:00",
       "category": null,
       "headline": "Property Portfolio Valuation Update & Asset Sale",
       "url": "https://www.investegate.co.uk/announcement/rns/sutton-harbour-group--suh/property-portfolio-valuation-update-asset-sale/9599202",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This update signals a potential de-rating of the property portfolio's book value, likely pressuring net asset value (NAV) estimates and highlighting the ongoing liquidity challenges in the UK regional commercial real estate sector.",
+      "key_themes": [
+        "NAV adjustment",
+        "Commercial Real Estate",
+        "Asset monetization"
+      ]
     }
   ]
 }

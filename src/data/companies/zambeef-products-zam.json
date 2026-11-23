@@ -10,6 +10,7 @@
       "category": "Trading Update",
       "headline": "FULL YEAR TRADING UPDATE",
       "url": "https://www.investegate.co.uk/announcement/rns/zambeef-products--zam/full-year-trading-update/9876987",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Zambeef's trading update reflects the persistent margin compression in the UK food manufacturing sector due to elevated input costs and intense retail price competition, highlighting the structural challenges of low-margin commodity processing.",
@@ -24,20 +25,28 @@
       "category": null,
       "headline": "RELATED PARTY TRANSACTION",
       "url": "https://www.investegate.co.uk/announcement/rns/zambeef-products--zam/related-party-transaction/9827958",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine related party disclosures in UK equities typically signal standard operational governance rather than strategic shifts; without details on transaction value or terms, this poses negligible immediate risk or upside for Zambeef's valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Minor Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-25T12:00:00",
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/zambeef-products--zam/directorate-change/9637173",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine administrative updates to the board composition are common in UK small-caps and rarely signal immediate strategic shifts; without details on the appointee's background or specific mandate, this is unlikely to move the ZAM share price significantly.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     }
   ]
 }

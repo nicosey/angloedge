@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/surgical-innovations-group--sun/holding-s-in-company/9884218",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/surgical-innovations-group--sun/director-pdmr-dealings/9860888",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in the surgical device sector typically signal internal liquidity management rather than strategic shifts, especially given SUN's historical volatility and lack of major catalysts.",
@@ -33,6 +35,7 @@
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/surgical-innovations-group--sun/notice-of-results/9790305",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the release of financial results rather than disclosing performance metrics; without data on revenue growth or margin expansion in a competitive medtech sector, it holds no immediate pricing power.",
@@ -46,36 +49,50 @@
       "category": null,
       "headline": "Elemental secures MIS3 Framework",
       "url": "https://www.investegate.co.uk/announcement/rns/surgical-innovations-group--sun/elemental-secures-mis3-framework/9654911",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Securing a place on the MIS3 framework provides Surgical Innovations Group with access to NHS procurement channels, reducing customer acquisition costs and validating its product portfolio in a highly regulated market.",
+      "key_themes": [
+        "NHS Procurement",
+        "Market Access",
+        "Revenue Visibility"
+      ]
     },
     {
       "timestamp": "2026-06-30T13:04:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/surgical-innovations-group--sun/result-of-agm/9644819",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for a micro-cap surgical device firm typically involve standard shareholder ratification with minimal market-moving content, reflecting the company's continued status as a niche player rather than a sector disruptor.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap"
+      ]
     },
     {
       "timestamp": "2026-06-15T07:00:00",
       "category": "Appointment",
       "headline": "Director appointment",
       "url": "https://www.investegate.co.uk/announcement/rns/surgical-innovations-group--sun/director-appointment-/9617116",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine executive staffing update for a micro-cap surgical device firm; lacks immediate catalyst for valuation re-rating without accompanying commercial milestones or revenue guidance.",
+      "key_themes": [
+        "corporate_governance",
+        "micro_cap"
+      ]
     },
     {
       "timestamp": "2026-06-05T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM & Posting of Annual Report &Accounts",
       "url": "https://www.investegate.co.uk/announcement/rns/surgical-innovations-group--sun/notice-of-agm-posting-of-annual-report-accounts/9603089",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,

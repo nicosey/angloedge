@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Latest Red Flag Alert for Q3 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/btg-consulting-plc--btg/latest-red-flag-alert-for-q3-2026/9842388",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The headline 'Latest Red Flag Alert' suggests potential operational distress or governance concerns rather than standard financial reporting; in the current UK SME market, such ambiguous warnings often precede liquidity issues or require immediate scrutiny of cash flow statements.",
+      "key_themes": [
+        "governance_risk",
+        "liquidity_concern"
+      ]
     },
     {
       "timestamp": "2026-10-02T17:14:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/btg-consulting-plc--btg/total-voting-rights/9805163",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,36 +35,49 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/btg-consulting-plc--btg/result-of-agm/9775469",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting disclosure confirming the outcome of routine shareholder votes, carrying no intrinsic financial or strategic weight for BTG Consulting's valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-08-21T10:04:00",
       "category": null,
       "headline": "Latest Red Flag Alert for Q2 2026 - Replacement",
       "url": "https://www.investegate.co.uk/announcement/rns/btg-consulting-plc--btg/latest-red-flag-alert-for-q2-2026-replacement/9734243",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The 'Latest Red Flag Alert' is a standard compliance notification regarding the confirmation of a director's dealing in BTG Consulting's shares, indicating routine insider activity rather than a material corporate event or strategic shift.",
+      "key_themes": [
+        "Director Dealing",
+        "Insider Activity"
+      ]
     },
     {
       "timestamp": "2026-08-21T07:00:00",
       "category": null,
       "headline": "Latest Red Flag Alert for Q2 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/btg-consulting-plc--btg/latest-red-flag-alert-for-q2-2026/9733079",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The 'Red Flag Alert' for Q2 2026 suggests a forward-looking risk warning rather than immediate financial distress, likely indicating potential headwinds in the consulting sector such as client budget tightening or macroeconomic uncertainty. While it warrants monitoring for subsequent guidance downgrades, it lacks the immediacy of a profit warning or capital raise.",
+      "key_themes": [
+        "Risk Warning",
+        "Forward Guidance"
+      ]
     },
     {
       "timestamp": "2026-08-03T09:19:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/btg-consulting-plc--btg/total-voting-rights/9700764",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,6 +88,7 @@
       "category": null,
       "headline": "Transfer of Treasury Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/btg-consulting-plc--btg/transfer-of-treasury-shares/9676916",
+      "routine_type": "Treasury Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,6 +99,7 @@
       "category": "Results",
       "headline": "Final Results",
       "url": "https://www.investegate.co.uk/announcement/rns/btg-consulting-plc--btg/final-results/9652936",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a micro-cap consultancy with limited market liquidity and niche exposure, routine final results typically trigger minimal analyst coverage or institutional interest compared to broader market movers.",
@@ -93,6 +113,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/btg-consulting-plc--btg/total-voting-rights/9649959",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -103,26 +124,35 @@
       "category": null,
       "headline": "Investor Webinar",
       "url": "https://www.investegate.co.uk/announcement/rns/btg-consulting-plc--btg/investor-webinar-/9635582",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations activity with no immediate financial or strategic impact on BTG Consulting's valuation or operations.",
+      "key_themes": [
+        "Investor Relations",
+        "Corporate Communications"
+      ]
     },
     {
       "timestamp": "2026-06-05T07:00:00",
       "category": "Acquisition",
       "headline": "Acquisition",
       "url": "https://www.investegate.co.uk/announcement/rns/btg-consulting-plc--btg/acquisition/9603102",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Without specific transaction details in the headline, this is likely a routine acquisition of negligible scale; BTG Consulting's market cap and historical M&A activity suggest low immediate financial impact unless disclosed as a strategic pivot.",
+      "key_themes": [
+        "Corporate Development",
+        "M&A"
+      ]
     },
     {
       "timestamp": "2026-06-01T12:45:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/btg-consulting-plc--btg/total-voting-rights/9595271",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

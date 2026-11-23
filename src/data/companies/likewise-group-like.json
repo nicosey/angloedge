@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/likewise-group--like/notice-of-results/9776293",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the publication date of results rather than disclosing financial data; it carries no immediate trading signal for the UK equity market.",
@@ -23,6 +24,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/likewise-group--like/holding-s-in-company/9741835",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -33,16 +35,21 @@
       "category": "Dividend",
       "headline": "Completion of Purchase of Corby Distribution Hub",
       "url": "https://www.investegate.co.uk/announcement/rns/likewise-group--like/completion-of-purchase-of-corby-distribution-hub/9735290",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This acquisition represents a tactical expansion of logistics capacity rather than a transformative shift in business model; while it supports long-term growth in the UK e-commerce fulfillment sector, it is unlikely to materially alter LIKE's near-term valuation or dividend trajectory.",
+      "key_themes": [
+        "Logistics Expansion",
+        "Operational Growth"
+      ]
     },
     {
       "timestamp": "2026-08-14T12:27:00",
       "category": "AGM/EGM",
       "headline": "Result of General Meeting and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/likewise-group--like/result-of-general-meeting-and-total-voting-rights/9723055",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,6 +60,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/likewise-group--like/holding-s-in-company/9716178",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,6 +71,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/likewise-group--like/holding-s-in-company/9714370",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,16 +82,22 @@
       "category": "Dividend",
       "headline": "Purchase of Corby Distribution Hub",
       "url": "https://www.investegate.co.uk/announcement/rns/likewise-group--like/purchase-of-corby-distribution-hub/9711936",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This acquisition signals aggressive capacity expansion within the UK logistics real estate sector, likely to enhance economies of scale for a firm heavily exposed to e-commerce fulfillment demand.",
+      "key_themes": [
+        "Logistics Real Estate",
+        "Capacity Expansion",
+        "E-commerce Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-08-06T13:15:00",
       "category": null,
       "headline": "Admission and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/likewise-group--like/admission-and-total-voting-rights/9709103",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -93,26 +108,36 @@
       "category": "Placing",
       "headline": "Result of Retail Offer and July Update",
       "url": "https://www.investegate.co.uk/announcement/rns/likewise-group--like/result-of-retail-offer-and-july-update/9706662",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The successful retail offer complements the placing to secure necessary liquidity for a growth-stage fintech, mitigating immediate dilution risks while validating consumer demand in a competitive digital lending market.",
+      "key_themes": [
+        "Capital Raise",
+        "Fintech Liquidity",
+        "Retail Demand"
+      ]
     },
     {
       "timestamp": "2026-07-29T13:00:00",
       "category": "Placing",
       "headline": "Retail Offer to raise up to £2.0 million",
       "url": "https://www.investegate.co.uk/announcement/rns/likewise-group--like/retail-offer-to-raise-up-to-2-0-million/9694075",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The £2m retail placing signals a need for liquidity in the competitive UK fintech lending space, likely to fund growth or manage working capital cycles amidst rising interest rates.",
+      "key_themes": [
+        "Capital Raise",
+        "Fintech Liquidity"
+      ]
     },
     {
       "timestamp": "2026-07-29T12:31:00",
       "category": "Placing",
       "headline": "Result of Oversubscribed Placing and Subscription",
       "url": "https://www.investegate.co.uk/announcement/rns/likewise-group--like/result-of-oversubscribed-placing-and-subscription/9694039",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "The oversubscribed placing confirms strong institutional appetite for the UK's leading digital comparison platform, validating its pivot to a tech-driven model amidst high interest rates. This capital injection provides essential liquidity for growth initiatives without immediate dilution concerns, distinguishing it from peers struggling with customer acquisition costs.",
@@ -127,16 +152,22 @@
       "category": "Placing",
       "headline": "Proposed Fundraising to raise up to £29.2 million",
       "url": "https://www.investegate.co.uk/announcement/rns/likewise-group--like/proposed-fundraising-to-raise-up-to-29-2-million-/9692164",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "A £29.2m placing represents a significant dilutive capital raise for the fintech lender, likely intended to fund aggressive growth or balance sheet expansion in a high-interest-rate environment where funding costs are critical.",
+      "key_themes": [
+        "dilution",
+        "fintech_funding",
+        "capital_raise"
+      ]
     },
     {
       "timestamp": "2026-07-13T16:46:00",
       "category": null,
       "headline": "Exercise of Options and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/likewise-group--like/exercise-of-options-and-total-voting-rights/9666389",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -147,6 +178,7 @@
       "category": "Director Dealing",
       "headline": "Grant of LTIP, SAYE Exercise, PDMR Dealings & TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/likewise-group--like/grant-of-ltip-saye-exercise-pdmr-dealings-tvr/9630759",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine LTIP grants and SAYE exercises indicate standard executive compensation mechanics rather than strategic shifts; the TVR component suggests minor share consolidation but lacks the transformative weight of major M&A or capital raises.",
@@ -160,10 +192,14 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/likewise-group--like/result-of-agm/9624026",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement confirms the routine ratification of directors' remuneration and auditor appointment at the AGM, which is standard governance procedure for UK listed companies with no immediate strategic or financial implications.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     }
   ]
 }

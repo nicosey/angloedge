@@ -10,6 +10,7 @@
       "category": "Trading Update",
       "headline": "Bromford Flagship LiveWest Trading update",
       "url": "https://www.investegate.co.uk/announcement/rns/bromford-housing-group-limited--rodr/bromford-flagship-livewest-trading-update-/9872228",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "The merger with LiveWest represents a significant consolidation in the UK social housing sector, creating a larger entity with enhanced scale and borrowing capacity to navigate rising interest rates and regulatory pressures.",
@@ -24,16 +25,21 @@
       "category": null,
       "headline": "Transfer of Engagement",
       "url": "https://www.investegate.co.uk/announcement/rns/bromford-housing-group-limited--rodr/transfer-of-engagement/9853025",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory notification regarding the transfer of engagement under the Financial Conduct Authority's Senior Managers and Certification Regime (SMCR), indicating routine personnel changes rather than strategic shifts or material financial events.",
+      "key_themes": [
+        "Regulatory Compliance",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-09-29T13:48:00",
       "category": null,
       "headline": "Publication of Pricing Supplement",
       "url": "https://www.investegate.co.uk/announcement/rns/bromford-housing-group-limited--rodr/publication-of-pricing-supplement/9796938",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -44,20 +50,29 @@
       "category": null,
       "headline": "Publication of Programme Admission Particulars",
       "url": "https://www.investegate.co.uk/announcement/rns/bromford-housing-group-limited--rodr/publication-of-programme-admission-particulars/9764010",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement marks the administrative step of publishing programme admission particulars for RODR's equity issuance, a routine procedural requirement rather than a substantive strategic shift. While it facilitates future capital raising to support housing development, it does not in itself indicate immediate dilution or transformative M&A activity.",
+      "key_themes": [
+        "Capital Markets",
+        "Administrative",
+        "Housing Sector"
+      ]
     },
     {
       "timestamp": "2026-08-06T14:30:00",
       "category": "Results",
       "headline": "Publication of Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/bromford-housing-group-limited--rodr/publication-of-annual-financial-report/9709221",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a private entity, Bromford Housing Group's publication of annual accounts has no direct market impact on public equity prices; it serves primarily as a regulatory filing for stakeholders and credit rating agencies rather than an investment signal.",
+      "key_themes": [
+        "Private Sector",
+        "Regulatory Filing"
+      ]
     }
   ]
 }

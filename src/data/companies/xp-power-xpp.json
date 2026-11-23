@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/prn/xp-power-ltd-di---xpp/holding-s-in-company/9865754",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Trading Update",
       "headline": "Q3 Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/xp-power-ltd-di---xpp/q3-trading-update/9830634",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a high-margin specialist in power electronics, XP Power's Q3 update provides critical visibility into industrial automation demand and supply chain normalization; any deviation from consensus guides valuation for this niche defensive growth stock.",
@@ -34,6 +36,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/prn/xp-power-ltd-di---xpp/director-pdmr-shareholding/9806419",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible signal for XP Power's fundamental valuation or near-term share price direction.",
@@ -47,6 +50,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/prn/xp-power-ltd-di---xpp/holding-s-in-company/9794607",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -57,16 +61,21 @@
       "category": null,
       "headline": "Comet litigation bond released",
       "url": "https://www.investegate.co.uk/announcement/rns/xp-power-ltd-di---xpp/comet-litigation-bond-released/9789594",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The release of the litigation bond removes a contingent liability overhang, providing clarity on balance sheet exposure but offering no immediate earnings uplift; this is a standard procedural resolution for XP Power's long-running US patent dispute rather than a strategic catalyst.",
+      "key_themes": [
+        "Legal Resolution",
+        "Balance Sheet Clarity"
+      ]
     },
     {
       "timestamp": "2026-09-01T12:36:00",
       "category": null,
       "headline": "Director Declaration: Additional Directorship",
       "url": "https://www.investegate.co.uk/announcement/prn/xp-power-ltd-di---xpp/director-declaration-additional-directorship/9749714",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -77,16 +86,21 @@
       "category": "AGM/EGM",
       "headline": "2026 Annual General Meeting Voting Outcome Update",
       "url": "https://www.investegate.co.uk/announcement/prn/xp-power-ltd-di---xpp/2026-annual-general-meeting-voting-outcome-up-/9741282",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard procedural update for XP Power's AGM, reflecting routine governance matters rather than strategic shifts; in the power supply sector, such announcements carry no material implication for valuation or operations.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-08-07T10:42:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/prn/xp-power-ltd-di---xpp/holding-s-in-company/9710933",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -97,10 +111,14 @@
       "category": null,
       "headline": "Update on Comet Litigation",
       "url": "https://www.investegate.co.uk/announcement/rns/xp-power-ltd-di---xpp/update-on-comet-litigation/9668974",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As XP Power is a niche power supply manufacturer with limited exposure to high-volume consumer electronics litigation compared to larger tech firms, this update likely represents a contained legal cost or settlement rather than a existential threat. The market will focus on the financial magnitude of any provision taken, but it remains a minor administrative event for a small-cap stock.",
+      "key_themes": [
+        "Legal Liability",
+        "Small Cap Risk"
+      ]
     }
   ]
 }

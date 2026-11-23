@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/strip-tinning-holdings--stg/interim-results/9776249",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a niche player in the industrial metals sector, STG's interim results provide critical visibility into demand resilience within the tin plating market, though they lack the transformative catalysts required for higher scoring.",
@@ -23,30 +24,43 @@
       "category": null,
       "headline": "£250,000 Loan",
       "url": "https://www.investegate.co.uk/announcement/rns/strip-tinning-holdings--stg/-250-000-loan/9757597",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "A £250k loan is immaterial to Strip Tinning's balance sheet, likely reflecting routine working capital management rather than strategic restructuring or distress.",
+      "key_themes": [
+        "minor_financial_event",
+        "working_capital"
+      ]
     },
     {
       "timestamp": "2026-08-10T07:00:00",
       "category": null,
       "headline": "Award of DRIVE35 Grant",
       "url": "https://www.investegate.co.uk/announcement/rns/strip-tinning-holdings--stg/award-of-drive35-grant/9711930",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The DRIVE35 grant provides non-dilutive funding for R&D, which is positive for cash flow but does not immediately translate to revenue or earnings growth; such grants are common in the UK's advanced manufacturing sector and serve as a validation of technical capability rather than a commercial catalyst.",
+      "key_themes": [
+        "government_funding",
+        "rd_investment",
+        "advanced_manufacturing"
+      ]
     },
     {
       "timestamp": "2026-06-16T11:55:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/strip-tinning-holdings--stg/result-of-agm/9621140",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director re-elections and auditor appointments rather than strategic shifts or capital allocation changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     }
   ]
 }

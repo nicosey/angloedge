@@ -10,16 +10,21 @@
       "category": null,
       "headline": "New Commercial Laundry Trial",
       "url": "https://www.investegate.co.uk/announcement/rns/xeros-technology-group--xsg/new-commercial-laundry-trial/9866473",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Commercial laundry trials validate Xeros' core technology in a high-volume B2B segment, reducing adoption risk and signaling potential path to revenue diversification beyond consumer markets.",
+      "key_themes": [
+        "commercialization",
+        "b2b_expansion"
+      ]
     },
     {
       "timestamp": "2026-11-04T10:07:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/xeros-technology-group--xsg/holding-s-in-company/9858123",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": "Results",
       "headline": "Interim Results 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/xeros-technology-group--xsg/interim-results-2026/9759846",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a small-cap tech firm with historical volatility, Xeros' interim results are critical for validating its commercial traction in the water treatment sector and assessing cash burn rates ahead of potential dilution risks.",
@@ -44,6 +50,7 @@
       "category": "Results",
       "headline": "Notice of Results and Online Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/xeros-technology-group--xsg/notice-of-results-and-online-presentation/9752900",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a small-cap technology firm with limited liquidity, XSG's results are critical for validating its commercial traction in the industrial water treatment sector; however, this is a standard reporting event rather than a transformative corporate action.",
@@ -57,6 +64,7 @@
       "category": null,
       "headline": "Growth Long Term Incentive Plan",
       "url": "https://www.investegate.co.uk/announcement/rns/xeros-technology-group--xsg/growth-long-term-incentive-plan/9719074",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -67,6 +75,7 @@
       "category": null,
       "headline": "Block Listing Six Monthly Return",
       "url": "https://www.investegate.co.uk/announcement/rns/xeros-technology-group--xsg/block-listing-six-monthly-return/9646514",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -77,10 +86,14 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/xeros-technology-group--xsg/result-of-agm/9612018",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting confirmation of shareholder votes for routine governance items, offering no new strategic direction or financial catalysts for Xeros Technology Group.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Disclosure"
+      ]
     }
   ]
 }

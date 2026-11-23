@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/transaction-in-own-shares/9885160",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/transaction-in-own-shares/9875911",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,16 +32,21 @@
       "category": "New Listing",
       "headline": "Windward Bio prices $175 million IPO",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/windward-bio-prices-175-million-ipo/9875765",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement concerns Windward Bio's IPO, not RTW Venture Fund Limited (RTWG); as a passive investment vehicle, RTWG has no direct operational exposure or immediate financial impact from this third-party event.",
+      "key_themes": [
+        "No Direct Impact",
+        "Passive Investment"
+      ]
     },
     {
       "timestamp": "2026-11-13T07:01:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/transaction-in-own-shares/9873691",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,16 +57,21 @@
       "category": null,
       "headline": "Monthly Valuation Update and Factsheet",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/monthly-valuation-update-and-factsheet/9873570",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine monthly valuation updates for closed-end investment trusts are standard administrative disclosures with no new material information or catalysts for price discovery.",
+      "key_themes": [
+        "Closed-End Fund",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-11-09T07:01:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/transaction-in-own-shares/9864072",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,16 +82,21 @@
       "category": null,
       "headline": "Expansion of Capital Allocation Plan",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/expansion-of-capital-allocation-plan/9863964",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The expansion of the capital allocation plan signals a proactive approach to managing liquidity in a volatile market, likely aiming to enhance shareholder returns through buybacks or dividends rather than aggressive M&A, reflecting a cautious but value-oriented strategy typical for smaller cap investment trusts.",
+      "key_themes": [
+        "capital management",
+        "shareholder returns"
+      ]
     },
     {
       "timestamp": "2026-11-02T07:01:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/total-voting-rights/9852028",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,6 +107,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/transaction-in-own-shares/9842512",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -100,6 +118,7 @@
       "category": "Acquisition",
       "headline": "Corxel US to go public via merger with Amanat",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/corxel-us-to-go-public-via-merger-with-amanat/9842347",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "This announcement concerns Corxel US, not RTW Venture Fund Limited (RTWG); RTWG is a closed-end investment trust holding shares in Corxel and other assets, so the event represents a potential liquidity exit or NAV revaluation for its shareholders rather than a direct corporate action by RTWG itself.",
@@ -114,16 +133,22 @@
       "category": "New Listing",
       "headline": "Replacement: Lycia Therapeutics prices $318mln IPO",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/replacement-lycia-therapeutics-prices-318mln-ipo/9841727",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Lycia Therapeutics' $318m IPO represents a significant capital injection for the biotech sector, highlighting continued investor appetite for high-growth life sciences despite broader market volatility; this large-scale raise underscores the strategic importance of funding late-stage clinical trials in oncology and rare diseases.",
+      "key_themes": [
+        "Biotech IPO",
+        "Capital Raise",
+        "Life Sciences"
+      ]
     },
     {
       "timestamp": "2026-10-26T07:01:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/transaction-in-own-shares/9840177",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -134,16 +159,21 @@
       "category": null,
       "headline": "Monthly Valuation Update and Factsheet",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/monthly-valuation-update-and-factsheet/9821320",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine monthly valuation updates for closed-end investment trusts provide no new material information or catalysts for price discovery, serving primarily as transparency mechanisms rather than drivers of immediate market movement.",
+      "key_themes": [
+        "Closed-End Fund",
+        "Transparency"
+      ]
     },
     {
       "timestamp": "2026-10-09T10:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/holding-s-in-company/9815710",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -154,6 +184,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/transaction-in-own-shares/9769323",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -164,16 +195,21 @@
       "category": null,
       "headline": "Monthly Valuation Update and Factsheet",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/monthly-valuation-update-and-factsheet-/9769264",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine monthly valuation updates for closed-end investment trusts provide no new material information or catalysts, serving primarily as transparency mechanisms rather than drivers of immediate price action.",
+      "key_themes": [
+        "Closed-End Fund",
+        "Transparency"
+      ]
     },
     {
       "timestamp": "2026-09-11T07:01:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/transaction-in-own-shares/9766839",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -184,16 +220,22 @@
       "category": null,
       "headline": "Additional investment in Encoded Therapeutics",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/additional-investment-in-encoded-therapeutics/9766683",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement reflects standard portfolio deployment for a venture capital trust rather than a transformative event for the listed entity; NPV's exposure to early-stage biotech like Encoded Therapeutics carries high binary risk but limited immediate liquidity impact on the fund's NAV.",
+      "key_themes": [
+        "Venture Capital",
+        "Biotech Investment",
+        "Portfolio Activity"
+      ]
     },
     {
       "timestamp": "2026-09-01T07:01:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/total-voting-rights/9747826",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -204,6 +246,7 @@
       "category": "Results",
       "headline": "Notice of 2026 Interim Results & Webinars",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/notice-of-2026-interim-results-webinars/9747520",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a closed-end investment trust, RTWG's interim results provide critical visibility into NAV performance and discount movements, which are key drivers for income-focused investors in the current high-yield environment.",
@@ -217,76 +260,105 @@
       "category": "Acquisition",
       "headline": "BioMarin to acquire Alesta Therapeutics",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/biomarin-to-acquire-alesta-therapeutics/9728681",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This announcement concerns BioMarin (a US-listed biotech) acquiring Alesta Therapeutics, which has no direct operational or financial linkage to RTW Venture Fund Limited (RTWG), a UK investment trust. Consequently, the event is irrelevant to RTWG's portfolio valuation and represents purely administrative noise for this specific issuer.",
+      "key_themes": [
+        "irrelevant_news",
+        "biotech_m_and_a"
+      ]
     },
     {
       "timestamp": "2026-08-19T07:00:00",
       "category": null,
       "headline": "Change of Corporate Broker",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/change-of-corporate-broker/9728545",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Broker changes are administrative in nature for RTW Venture Fund Limited, a closed-end investment trust with a small market cap and low liquidity; this rarely signals fundamental shifts in strategy or performance.",
+      "key_themes": [
+        "administrative",
+        "liquidity"
+      ]
     },
     {
       "timestamp": "2026-08-14T07:00:00",
       "category": null,
       "headline": "Monthly Valuation Update and Factsheet",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/monthly-valuation-update-and-factsheet/9721564",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine monthly valuation updates for closed-end investment trusts are standard administrative disclosures with no new material information or catalysts for price discovery.",
+      "key_themes": [
+        "closed-end fund",
+        "administrative"
+      ]
     },
     {
       "timestamp": "2026-08-12T07:00:00",
       "category": null,
       "headline": "Avere Therapeutics to merge with NextCure Inc.",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/avere-therapeutics-to-merge-with-nextcure-inc-/9716741",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement concerns Avere Therapeutics and NextCure Inc., neither of which are RTW Venture Fund Limited (RTWG); therefore, it has zero direct financial impact on the subject company.",
+      "key_themes": [
+        "irrelevant_news",
+        "no_impact"
+      ]
     },
     {
       "timestamp": "2026-08-05T07:00:00",
       "category": null,
       "headline": "Obsidian Therapeutics merges with Galera",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/obsidian-therapeutics-merges-with-galera/9704889",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a portfolio-level corporate action involving an unquoted biotech asset (Obsidian Therapeutics) rather than the listed vehicle (RTWG), resulting in negligible direct financial impact on RTW Venture Fund's NAV or liquidity.",
+      "key_themes": [
+        "Portfolio Management",
+        "Biotech M&A"
+      ]
     },
     {
       "timestamp": "2026-07-29T07:00:00",
       "category": null,
       "headline": "Yarrow Bioscience merges with VYNE Therapeutics",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/yarrow-bioscience-merges-with-vyne-therapeutics/9692350",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This corporate action affects VYNE Therapeutics (VYN), not RTW Venture Fund Limited (RTWG); as a passive investment vehicle holding stakes in various entities, RTWG's direct exposure to this specific merger is likely immaterial and requires checking its latest portfolio disclosures for any significant concentration risk.",
+      "key_themes": [
+        "Corporate Action",
+        "Biotech M&A"
+      ]
     },
     {
       "timestamp": "2026-07-15T07:00:00",
       "category": null,
       "headline": "Monthly Valuation Update and Factsheet",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/monthly-valuation-update-and-factsheet/9669014",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine monthly valuation updates for closed-end investment trusts are standard administrative disclosures with no material impact on share price or strategy, reflecting the passive nature of NAV reporting rather than active corporate events.",
+      "key_themes": [
+        "NAV Reporting",
+        "Closed-End Fund"
+      ]
     },
     {
       "timestamp": "2026-07-01T07:01:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/total-voting-rights/9645840",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -297,16 +369,22 @@
       "category": null,
       "headline": "Additional investment in Lycia Therapeutics",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/additional-investment-in-lycia-therapeutics/9637920",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement reflects standard portfolio management activity for a venture capital trust rather than a transformative event; while Lycia Therapeutics is a high-profile biotech with significant pipeline potential, the investment size relative to RTWG's AUM limits immediate price impact.",
+      "key_themes": [
+        "Venture Capital",
+        "Biotech Investment",
+        "Portfolio Allocation"
+      ]
     },
     {
       "timestamp": "2026-06-25T07:01:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/transaction-in-own-shares/9635666",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -317,20 +395,28 @@
       "category": "Acquisition",
       "headline": "AbbVie to acquire Apogee Therapeutics",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/abbvie-to-acquire-apogee-therapeutics/9630735",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This announcement concerns unrelated entities (AbbVie and Apogee Therapeutics) and has zero direct impact on RTW Venture Fund Limited's operations or valuation.",
+      "key_themes": [
+        "irrelevant_news",
+        "no_impact"
+      ]
     },
     {
       "timestamp": "2026-06-12T07:00:00",
       "category": null,
       "headline": "Monthly Valuation Update and Factsheet",
       "url": "https://www.investegate.co.uk/announcement/rns/rtw-venture-fund-limited-npv-gbp---rtwg/monthly-valuation-update-and-factsheet/9614839",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine monthly valuation updates for closed-end investment trusts are standard administrative disclosures that rarely move share prices unless they signal a significant discount widening or premium compression relative to NAV.",
+      "key_themes": [
+        "Closed-End Fund",
+        "NAV Disclosure"
+      ]
     }
   ]
 }

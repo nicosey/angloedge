@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Notice of Results and Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/sdi-group--sdi/notice-of-results-and-investor-presentation/9880576",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "This announcement signals a critical inflection point for SDI Group as it transitions from the high-growth pandemic era to a normalized post-pandemic landscape; investor focus will shift sharply to margin resilience and order book sustainability amid broader UK construction sector headwinds.",
@@ -24,16 +25,21 @@
       "category": "Appointment",
       "headline": "Board Change",
       "url": "https://www.investegate.co.uk/announcement/rns/sdi-group--sdi/board-change/9832853",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board composition changes in the engineering services sector typically signal governance continuity rather than strategic pivots; without details on the appointee's background or specific mandate, this lacks the catalyst potential for significant re-rating.",
+      "key_themes": [
+        "Governance",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-09-30T15:45:00",
       "category": null,
       "headline": "Holdings in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/sdi-group--sdi/holdings-in-company/9799764",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -44,36 +50,49 @@
       "category": null,
       "headline": "Grant of Share Option Awards",
       "url": "https://www.investegate.co.uk/announcement/rns/sdi-group--sdi/grant-of-share-option-awards/9787994",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Standard executive incentive alignment with negligible immediate dilution impact; typical for SDI's capital-light software model where talent retention is prioritized over aggressive equity expansion.",
+      "key_themes": [
+        "Executive Compensation",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-09-23T12:05:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/sdi-group--sdi/result-of-agm/9787257",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director re-elections and auditor appointments rather than strategic shifts or capital allocation changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "AGM Results"
+      ]
     },
     {
       "timestamp": "2026-08-28T12:14:00",
       "category": "AGM/EGM",
       "headline": "Posting of Annual Report & Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/sdi-group--sdi/posting-of-annual-report-notice-of-agm/9746012",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for SDI Group's AGM, typically covering routine matters like dividend approval and director re-election rather than strategic shifts or material financial updates.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-07-16T07:00:00",
       "category": "Results",
       "headline": "Notice of Results and Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/sdi-group--sdi/notice-of-results-and-investor-presentation/9671312",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "This announcement signals the release of SDI Group's full-year financial results, a critical moment for assessing the group's post-acquisition integration and debt management strategy within the competitive UK IT services sector. The accompanying investor presentation will likely provide necessary clarity on margin trends and strategic direction following recent market volatility in the MSP space.",
@@ -87,6 +106,7 @@
       "category": null,
       "headline": "Holdings in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/sdi-group--sdi/holdings-in-company/9666171",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -97,6 +117,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/sdi-group--sdi/holding-s-in-company/9619250",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -107,10 +128,14 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/sdi-group--sdi/directorate-change/9610057",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board-level personnel adjustments in the IT services sector typically signal operational continuity rather than strategic pivots; without details on the specific role or background of the appointee, this lacks the catalyst potential for significant re-rating.",
+      "key_themes": [
+        "Corporate Governance",
+        "Leadership Stability"
+      ]
     }
   ]
 }

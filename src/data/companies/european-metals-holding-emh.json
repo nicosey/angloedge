@@ -10,66 +10,96 @@
       "category": null,
       "headline": "Proposed issue of securities",
       "url": "https://www.investegate.co.uk/announcement/rns/european-metals-holding-limited-di---emh/proposed-issue-of-securities/9877628",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "In the current high-interest-rate environment for junior miners, any capital raise signals potential liquidity stress rather than aggressive expansion; investors will scrutinize the dilution impact and pricing discount relative to recent trading levels.",
+      "key_themes": [
+        "capital_raise",
+        "dilution_risk",
+        "liquidity"
+      ]
     },
     {
       "timestamp": "2026-11-16T08:03:00",
       "category": null,
       "headline": "Update on Geomet Option and Short-Term Funding",
       "url": "https://www.investegate.co.uk/announcement/rns/european-metals-holding-limited-di---emh/update-on-geomet-option-and-short-term-funding/9876686",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The monetization of the Geomet option provides critical liquidity for a junior miner in a high-interest-rate environment, mitigating immediate dilution risk while signaling management's focus on balance sheet preservation over aggressive expansion.",
+      "key_themes": [
+        "Liquidity Management",
+        "Asset Monetization",
+        "Junior Mining Finance"
+      ]
     },
     {
       "timestamp": "2026-10-30T09:13:00",
       "category": null,
       "headline": "Quarterly Activities/Appendix 5B Cash Flow Report",
       "url": "https://www.investegate.co.uk/announcement/rns/european-metals-holding-limited-di---emh/quarterly-activities-appendix-5b-cash-flow-report-/9850424",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine quarterly cash flow reporting for a junior explorer with no production history indicates ongoing burn rate management rather than operational milestones; lacks the catalysts required to move the stock price in the current speculative mining sector.",
+      "key_themes": [
+        "cash_burn",
+        "exploration_stage",
+        "routine_disclosure"
+      ]
     },
     {
       "timestamp": "2026-09-29T15:19:00",
       "category": null,
       "headline": "Geomet Cash Call",
       "url": "https://www.investegate.co.uk/announcement/rns/european-metals-holding-limited-di---emh/geomet-cash-call/9797168",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "A 'cash call' for a junior explorer like EMH signals severe liquidity distress and imminent dilution, reflecting the broader capital winter in the UK mining sector where speculative assets struggle to secure funding without major strategic partners or asset sales.",
+      "key_themes": [
+        "dilution_risk",
+        "liquidity_crisis",
+        "junior_miner_struggles"
+      ]
     },
     {
       "timestamp": "2026-09-25T13:50:00",
       "category": null,
       "headline": "Issue of Unlisted Options",
       "url": "https://www.investegate.co.uk/announcement/rns/european-metals-holding-limited-di---emh/issue-of-unlisted-options/9792099",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The issuance of unlisted options is a standard administrative mechanism for equity incentive plans, lacking immediate market-moving fundamentals or capital raising implications.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-11T09:31:00",
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/european-metals-holding-limited-di---emh/half-year-financial-report/9767765",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a junior explorer with no production, this interim report serves primarily as a funding status update rather than an operational milestone; the market will focus on cash runway and exploration progress to determine if dilution is imminent.",
+      "key_themes": [
+        "Junior Explorer",
+        "Cash Runway",
+        "Exploration Update"
+      ]
     },
     {
       "timestamp": "2026-07-29T10:36:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/european-metals-holding-limited-di---emh/issue-of-equity/9693647",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,16 +110,21 @@
       "category": null,
       "headline": "Tunnel Kiln Testwork - Clarification",
       "url": "https://www.investegate.co.uk/announcement/rns/european-metals-holding-limited-di---emh/tunnel-kiln-testwork-clarification/9667897",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Clarification announcements regarding technical testwork are typically administrative responses to market speculation rather than material developments; without disclosed grade recovery rates or economic viability metrics, this holds negligible immediate value for valuation.",
+      "key_themes": [
+        "Technical Clarification",
+        "Exploration Update"
+      ]
     },
     {
       "timestamp": "2026-06-25T14:55:00",
       "category": "Director Dealing",
       "headline": "Change of Director's Interest Notice",
       "url": "https://www.investegate.co.uk/announcement/rns/european-metals-holding-limited-di---emh/change-of-director-s-interest-notice/9637498",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard administrative filings with negligible immediate market impact; however, in the volatile junior mining sector, any insider selling may be scrutinized for sentiment signals regarding EMH's near-term liquidity or project progress.",
@@ -103,26 +138,35 @@
       "category": null,
       "headline": "Cinovec LCP Optimisation Offers Potential Savings",
       "url": "https://www.investegate.co.uk/announcement/rns/european-metals-holding-limited-di---emh/cinovec-lcp-optimisation-offers-potential-savings/9633842",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Optimising the Cinovec Lithium-Caesium-Tantalum (LCT) project signals a pragmatic pivot toward cost discipline and margin protection in a volatile lithium market, aligning with industry-wide shifts from pure exploration to operational efficiency.",
+      "key_themes": [
+        "Cost Optimization",
+        "Lithium Market Dynamics"
+      ]
     },
     {
       "timestamp": "2026-06-02T14:32:00",
       "category": "AGM/EGM",
       "headline": "Results of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/european-metals-holding-limited-di---emh/results-of-annual-general-meeting/9597880",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the AGM; it carries no new strategic direction, financial data, or market-moving catalysts for EMH.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-06-02T14:12:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/european-metals-holding-limited-di---emh/holding-s-in-company/9597856",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

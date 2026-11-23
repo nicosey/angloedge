@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/niox-group--niox/holding-s-in-company/9865943",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/niox-group--niox/total-voting-rights/9861121",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding & RPT Update",
       "url": "https://www.investegate.co.uk/announcement/rns/niox-group--niox/director-pdmr-shareholding-rpt-update-/9858502",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of insider share transactions with no immediate price-sensitive implications for Niox Group's valuation or operational trajectory.",
@@ -43,26 +46,35 @@
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/niox-group--niox/result-of-general-meeting/9834574",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the Annual General Meeting, which typically involves routine matters such as director reappointments and auditor mandates rather than strategic shifts or capital events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-09-29T07:01:00",
       "category": null,
       "headline": "Proposed Tender Offer & Notice of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/niox-group--niox/proposed-tender-offer-notice-of-general-meeting/9795383",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement indicates a standard capital management exercise rather than a strategic pivot; while tender offers can signal confidence in undervaluation, they are routine for Niox Group and lack the transformative impact of M&A or major restructuring.",
+      "key_themes": [
+        "capital return",
+        "shareholder value"
+      ]
     },
     {
       "timestamp": "2026-07-28T07:37:00",
       "category": "Trading Update",
       "headline": "Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/niox-group--niox/trading-update/9690747",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a niche player in the UK's fragmented IT services market, Niox Group's trading update provides critical visibility into demand resilience amidst broader tech sector consolidation and margin pressure.",
@@ -77,6 +89,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/niox-group--niox/total-voting-rights/9595384",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -87,6 +100,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/niox-group--niox/director-pdmr-shareholding/9592854",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements typically carry minimal market impact unless they signal a significant change in insider sentiment or involve substantial volume, which is not indicated here.",

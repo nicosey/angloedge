@@ -10,26 +10,38 @@
       "category": null,
       "headline": "Agrees sale of student accommodation properties",
       "url": "https://www.investegate.co.uk/announcement/rns/sanctuary-capital-plc--71wg/agrees-sale-of-student-accommodation-properties/9876817",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Reflects the ongoing liquidity crunch in the UK student accommodation (PBSA) sector as operators deleverage balance sheets amid rising interest rates and refinancing pressures. This asset disposal signals a strategic pivot to preserve cash flow rather than aggressive expansion, consistent with recent trends among mid-cap real estate investment trusts.",
+      "key_themes": [
+        "Asset Disposal",
+        "PBSA Sector",
+        "Deleveraging"
+      ]
     },
     {
       "timestamp": "2026-07-03T08:38:00",
       "category": "Results",
       "headline": "Sanctuary Group Annual Financial Report 2025/26",
       "url": "https://www.investegate.co.uk/announcement/rns/sanctuary-capital-plc--71wg/sanctuary-group-annual-financial-report-2025-26/9651677",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a niche private equity manager with significant exposure to the UK residential buy-to-let market, this annual report provides critical visibility into net asset value (NAV) trends and dividend sustainability amidst rising interest rates and regulatory shifts. The results will likely influence investor sentiment regarding the firm's ability to manage portfolio performance in a constrained credit environment.",
+      "key_themes": [
+        "Private Equity",
+        "UK Residential Property",
+        "Dividend Yield",
+        "NAV Performance"
+      ]
     },
     {
       "timestamp": "2026-06-16T11:44:00",
       "category": null,
       "headline": "Publication of Pricing Supplement",
       "url": "https://www.investegate.co.uk/announcement/rns/sanctuary-capital-plc--71wg/publication-of-pricing-supplement/9621117",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,10 +52,15 @@
       "category": null,
       "headline": "Sanctuary rated C1 by Regulator of Social Housing",
       "url": "https://www.investegate.co.uk/announcement/rns/sanctuary-capital-plc--71wg/sanctuary-rated-c1-by-regulator-of-social-housing-/9588204",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "A C1 rating indicates the regulator has identified significant governance failures requiring urgent remediation, posing a reputational risk and potential operational distraction for Sanctuary Capital as it navigates its transition from a property investment trust to an asset management firm.",
+      "key_themes": [
+        "regulatory_compliance",
+        "governance_risk",
+        "asset_management"
+      ]
     }
   ]
 }

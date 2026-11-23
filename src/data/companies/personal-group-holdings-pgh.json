@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/personal-group-holdings--pgh/director-pdmr-shareholding/9867999",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements in the recruitment sector typically reflect individual portfolio management rather than corporate strategy shifts; without volume context or insider status specifics, this holds negligible signal for PGH's valuation.",
@@ -23,6 +24,7 @@
       "category": null,
       "headline": "Exercise of Options and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/personal-group-holdings--pgh/exercise-of-options-and-total-voting-rights/9794100",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -33,6 +35,7 @@
       "category": "Director Dealing",
       "headline": "Exercise of Options, PDMR and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/personal-group-holdings--pgh/exercise-of-options-pdmr-and-total-voting-rights/9780277",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard administrative disclosure of executive option exercises, common in the recruitment sector where equity-based compensation is prevalent; it signals no immediate strategic shift or material insider sentiment change.",
@@ -46,26 +49,36 @@
       "category": "Dividend",
       "headline": "Dividend Timetable Correction",
       "url": "https://www.investegate.co.uk/announcement/rns/personal-group-holdings--pgh/dividend-timetable-correction/9773654",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Administrative correction of dividend dates carries negligible fundamental impact on PGH's valuation or cash flow, reflecting standard corporate governance housekeeping rather than strategic shifts in the recruitment sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-09T07:00:00",
       "category": null,
       "headline": "Partnership extension with Simplyhealth",
       "url": "https://www.investegate.co.uk/announcement/rns/personal-group-holdings--pgh/partnership-extension-with-simplyhealth/9761972",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The extension of the partnership with Simplyhealth reinforces PGH's hybrid model of combining insurance distribution with health-tech services, a key differentiator in the competitive UK private healthcare sector that aids customer retention and cross-selling.",
+      "key_themes": [
+        "Strategic Partnership",
+        "Healthcare Services",
+        "Customer Retention"
+      ]
     },
     {
       "timestamp": "2026-09-02T07:00:00",
       "category": "Results",
       "headline": "Notice of Results and Presentations",
       "url": "https://www.investegate.co.uk/announcement/rns/personal-group-holdings--pgh/notice-of-results-and-presentations/9750538",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the release of results rather than disclosing the financials themselves; without data on margin expansion or dividend policy in an inflationary environment, it holds no immediate trading significance.",
@@ -79,6 +92,7 @@
       "category": null,
       "headline": "Exercise of Options and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/personal-group-holdings--pgh/exercise-of-options-and-total-voting-rights/9689228",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -89,6 +103,7 @@
       "category": "Trading Update",
       "headline": "H1 2026 Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/personal-group-holdings--pgh/h1-2026-trading-update/9680682",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a niche specialist insurer in the UK personal lines market, PGH's H1 update serves as a critical barometer for sector resilience amid rising inflation and claims costs; any deviation from consensus will directly influence valuation multiples relative to peers like Direct Line or Aviva.",
@@ -103,6 +118,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/personal-group-holdings--pgh/director-pdmr-shareholding/9649882",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on PGH's valuation or operational trajectory, reflecting normal insider activity rather than a strategic shift.",
@@ -116,16 +132,21 @@
       "category": "Appointment",
       "headline": "Board appointment",
       "url": "https://www.investegate.co.uk/announcement/rns/personal-group-holdings--pgh/board-appointment/9640423",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board appointments in the recruitment sector typically signal governance continuity rather than strategic pivots; without details on the appointee's background or a concurrent change in executive leadership, this has negligible immediate impact on PGH's valuation or operational trajectory.",
+      "key_themes": [
+        "governance",
+        "corporate_actions"
+      ]
     },
     {
       "timestamp": "2026-06-11T10:06:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/personal-group-holdings--pgh/holding-s-in-company/9613688",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -136,10 +157,14 @@
       "category": null,
       "headline": "Grant of LTIP",
       "url": "https://www.investegate.co.uk/announcement/rns/personal-group-holdings--pgh/grant-of-ltip-/9590615",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Standard LTIP grant indicates routine executive retention rather than strategic shift; in the competitive UK recruitment sector, such grants are common to mitigate talent flight but lack immediate catalyst potential for share price appreciation.",
+      "key_themes": [
+        "Executive Compensation",
+        "Corporate Governance"
+      ]
     }
   ]
 }

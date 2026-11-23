@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Kepler Trust Intelligence: New Research",
       "url": "https://www.investegate.co.uk/announcement/rns/international-biotech-trust--ibt/kepler-trust-intelligence-new-research/9861638",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Results analysis from Kepler Trust Intelligence",
       "url": "https://www.investegate.co.uk/announcement/rns/international-biotech-trust--ibt/results-analysis-from-kepler-trust-intelligence/9858191",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,26 +32,37 @@
       "category": null,
       "headline": "Annual Report on NSM",
       "url": "https://www.investegate.co.uk/announcement/rns/international-biotech-trust--ibt/annual-report-on-nsm-/9856690",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing for an Investment Trust's annual report under the New Statutory Regime; while it provides essential data on NAV and performance, it lacks the transformative catalysts or immediate strategic shifts required to move the stock price significantly.",
+      "key_themes": [
+        "Investment Trust",
+        "Regulatory Filing",
+        "Annual Report"
+      ]
     },
     {
       "timestamp": "2026-10-19T14:38:00",
       "category": "Acquisition",
       "headline": "Portfolio company Silence acquired by Merck KGaA",
       "url": "https://www.investegate.co.uk/announcement/rns/international-biotech-trust--ibt/portfolio-company-silence-acquired-by-merck-kgaa/9830133",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This exit validates the firm's early-stage biotech investment thesis and delivers a high-multiple return on capital, reinforcing IBT's positioning in the crowded UK biotech sector where M&A activity remains the primary liquidity event for unlisted assets.",
+      "key_themes": [
+        "Portfolio Exit",
+        "Biotech M&A",
+        "Capital Return"
+      ]
     },
     {
       "timestamp": "2026-10-16T10:20:00",
       "category": null,
       "headline": "Investor Presentation via Investor Meet Company",
       "url": "https://www.investegate.co.uk/announcement/rns/international-biotech-trust--ibt/investor-presentation-via-investor-meet-company/9827188",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +73,7 @@
       "category": null,
       "headline": "Compliance with Market Abuse Regulation",
       "url": "https://www.investegate.co.uk/announcement/rns/international-biotech-trust--ibt/compliance-with-market-abuse-regulation-/9805171",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,6 +84,7 @@
       "category": null,
       "headline": "QuotedData's In The HotSeat",
       "url": "https://www.investegate.co.uk/announcement/rns/international-biotech-trust--ibt/quoteddata-s-in-the-hotseat/9801659",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,6 +95,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/international-biotech-trust--ibt/total-voting-rights/9699448",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,6 +106,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/international-biotech-trust--ibt/transaction-in-own-shares/9687438",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -100,6 +117,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/international-biotech-trust--ibt/holding-s-in-company/9684998",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -110,6 +128,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/international-biotech-trust--ibt/transaction-in-own-shares/9659460",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -120,16 +139,22 @@
       "category": "Acquisition",
       "headline": "Portfolio company Crinetics acquired by Vertex",
       "url": "https://www.investegate.co.uk/announcement/rns/international-biotech-trust--ibt/portfolio-company-crinetics-acquired-by-vertex/9656344",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This exit represents a high-value realization for IBT's portfolio, validating the biotech investment thesis amid a sector-wide consolidation trend where large-cap pharma acquires innovative pipelines to replenish aging drug lists.",
+      "key_themes": [
+        "Portfolio Exit",
+        "Biotech M&A",
+        "Capital Return"
+      ]
     },
     {
       "timestamp": "2026-07-03T17:30:00",
       "category": null,
       "headline": "Block Listing Interim Review",
       "url": "https://www.investegate.co.uk/announcement/rns/international-biotech-trust--ibt/block-listing-interim-review/9652768",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -140,10 +165,15 @@
       "category": "Acquisition",
       "headline": "GSK to acquire IBT portfolio company Nuvalent",
       "url": "https://www.investegate.co.uk/announcement/rns/international-biotech-trust--ibt/gsk-to-acquire-ibt-portfolio-company-nuvalent/9609522",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This exit validates IBT's core thesis in oncology-focused biotech investing and delivers substantial capital recycling potential for the trust's NAV. It mirrors recent high-profile pharma acquisitions of niche biotechs, reinforcing the sector's M&A activity driven by big pharma's need to replenish patent cliffs.",
+      "key_themes": [
+        "M&A Exit",
+        "NAV Accretion",
+        "Oncology"
+      ]
     }
   ]
 }

@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Devolver Digital, Inc. Shares Trading on JP J...",
       "url": "https://www.investegate.co.uk/announcement/ukn/devolver-digital-inc--devo/devolver-digital-inc-shares-trading-on-jp-j-/9775109",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice regarding the listing of shares on the JP Markets (formerly NEX Exchange) platform, indicating no fundamental change in business operations or financial performance.",
+      "key_themes": [
+        "administrative",
+        "listing_update"
+      ]
     },
     {
       "timestamp": "2026-09-09T07:00:00",
       "category": null,
       "headline": "Result of GM, Result of Tender Offer and TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/devolver-digital-inc-di-reg-s-cat-3-144a--devo/result-of-gm-result-of-tender-offer-and-tvr/9761968",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/devolver-digital-inc-di-reg-s-cat-3-144a--devo/holding-s-in-company/9714041",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,36 +46,50 @@
       "category": null,
       "headline": "Proposed Cancellation, Tender Offer & Notice of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/devolver-digital-inc-di-reg-s-cat-3-144a--devo/proposed-cancellation-tender-offer-notice-of-gm/9707350",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This represents a definitive exit event for public shareholders, effectively terminating the listed status of Devolver Digital following its acquisition by Embracer Group. The combination of cancellation and tender offer signals a complete delisting, removing liquidity and market exposure entirely in favor of private ownership.",
+      "key_themes": [
+        "Delisting",
+        "M&A Exit",
+        "Private Equity"
+      ]
     },
     {
       "timestamp": "2026-07-23T08:37:00",
       "category": null,
       "headline": "Payment of deferred consideration",
       "url": "https://www.investegate.co.uk/announcement/rns/devolver-digital-inc-di-reg-s-cat-3-144a--devo/payment-of-deferred-consideration/9683949",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard contractual settlement of deferred consideration, likely representing a minor cash outflow with no material impact on Devolver Digital's liquidity or operational trajectory in the volatile indie gaming sector.",
+      "key_themes": [
+        "Corporate Finance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-06-26T17:09:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/devolver-digital-inc-di-reg-s-cat-3-144a--devo/result-of-agm/9640142",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting disclosure confirming the ratification of routine resolutions at Devolver Digital's AGM; it carries no new strategic direction, financial data, or governance changes that would influence valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-06-25T12:15:00",
       "category": null,
       "headline": "TR-1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/devolver-digital-inc-di-reg-s-cat-3-144a--devo/tr-1-notification-of-major-holdings/9637194",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,16 +100,21 @@
       "category": null,
       "headline": "Notice of Annual Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/devolver-digital-inc-di-reg-s-cat-3-144a--devo/notice-of-annual-meeting/9602907",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice for an AGM, lacking substantive corporate action or financial data; such routine governance events typically have negligible immediate impact on share price or valuation metrics.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-03T12:29:00",
       "category": null,
       "headline": "Block Listing Return",
       "url": "https://www.investegate.co.uk/announcement/rns/devolver-digital-inc-di-reg-s-cat-3-144a--devo/block-listing-return-/9600100",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,

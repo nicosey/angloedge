@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "3rd Quarter Results of United Bank Limited",
       "url": "https://www.investegate.co.uk/announcement/rns/united-bank-limited--ubls/3rd-quarter-results-of-united-bank-limited/9827397",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a major UK high-street lender, United Bank's Q3 results provide critical real-time data on consumer credit health and net interest margin resilience amid persistent inflation pressures.",
@@ -24,26 +25,35 @@
       "category": null,
       "headline": "BOARD MEETING OF UNITED BANK LIMITED (“Bank”)",
       "url": "https://www.investegate.co.uk/announcement/rns/united-bank-limited--ubls/board-meeting-of-united-bank-limited-bank-/9811330",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice confirming a scheduled board meeting without disclosing agenda items or outcomes; in the absence of specific details regarding dividends, capital raises, or M&A, it carries no immediate price-sensitive implication for UK equity investors.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-07-31T13:29:00",
       "category": null,
       "headline": "Notice of Extra-Ordinary General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/united-bank-limited--ubls/notice-of-extra-ordinary-general-meeting/9698972",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice convening an EGM, which typically carries low immediate market impact unless the agenda involves significant capital restructuring or leadership changes not yet disclosed.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Meeting"
+      ]
     },
     {
       "timestamp": "2026-07-22T12:07:00",
       "category": "Results",
       "headline": "Financial Results for the Quarter Ended 30 June 26",
       "url": "https://www.investegate.co.uk/announcement/rns/united-bank-limited--ubls/financial-results-for-the-quarter-ended-30-june-26/9682233",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a non-listed entity with no public equity float, this announcement has zero direct market impact on UK equities; it serves only as a regulatory filing for internal or private stakeholders rather than a tradable event.",
@@ -57,10 +67,14 @@
       "category": null,
       "headline": "BOARD MEETING OF UNITED BANK LIMITED (“Bank”)",
       "url": "https://www.investegate.co.uk/announcement/rns/united-bank-limited--ubls/board-meeting-of-united-bank-limited-bank-/9663538",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice confirming a board meeting has occurred, which carries no immediate market-moving information regarding financial performance or strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Disclosure"
+      ]
     }
   ]
 }

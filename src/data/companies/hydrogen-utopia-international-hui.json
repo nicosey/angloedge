@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/hydrogen-utopia-international--hui/interim-results/9797697",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap in the speculative hydrogen sector, interim results provide critical liquidity and solvency data for a high-risk asset class; however, without evidence of transformative commercial traction or major capital raising, this remains a routine financial disclosure with limited immediate market-moving potential.",
@@ -23,16 +24,21 @@
       "category": null,
       "headline": "Engagement of J. Surma to Support SAF Development",
       "url": "https://www.investegate.co.uk/announcement/rns/hydrogen-utopia-international--hui/engagement-of-j-surma-to-support-saf-development/9739907",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Engaging an external consultant for SAF development is a standard operational step with negligible immediate financial impact, reflecting the early-stage nature of HUI's pivot into sustainable aviation fuels rather than a transformative commercial milestone.",
+      "key_themes": [
+        "SAF",
+        "Operational Update"
+      ]
     },
     {
       "timestamp": "2026-08-24T07:00:00",
       "category": null,
       "headline": "Grant of Share Options to Senior Management Team",
       "url": "https://www.investegate.co.uk/announcement/rns/hydrogen-utopia-international--hui/grant-of-share-options-to-senior-management-team/9735260",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,36 +49,50 @@
       "category": null,
       "headline": "Master Services Agreement with io consulting",
       "url": "https://www.investegate.co.uk/announcement/rns/hydrogen-utopia-international--hui/master-services-agreement-with-io-consulting/9730766",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard commercial disclosure typical of micro-cap tech firms seeking to validate revenue visibility; without disclosed contract value or client identity, the market will likely view this as negligible for valuation purposes.",
+      "key_themes": [
+        "commercial validation",
+        "revenue visibility"
+      ]
     },
     {
       "timestamp": "2026-08-17T07:00:00",
       "category": null,
       "headline": "HUI secures UK Licence for SAF",
       "url": "https://www.investegate.co.uk/announcement/rns/hydrogen-utopia-international--hui/hui-secures-uk-licence-for-saf-/9723813",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "While securing a UK SAF licence is a necessary operational milestone for compliance, it represents a low-value administrative step rather than a transformative commercial breakthrough, lacking the revenue visibility or margin expansion required to move the needle on valuation.",
+      "key_themes": [
+        "SAF",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-07-24T07:00:00",
       "category": "Placing",
       "headline": "Broker Appointment & Successful £850k Fundraise",
       "url": "https://www.investegate.co.uk/announcement/rns/hydrogen-utopia-international--hui/broker-appointment-successful-850k-fundraise/9685257",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 4,
+      "insight": "A £850k placing is immaterial for capital adequacy but signals potential liquidity strain or a desperate attempt to maintain market presence in the speculative hydrogen sector. This size of raise often indicates a lack of institutional interest, forcing reliance on retail or existing shareholders.",
+      "key_themes": [
+        "Capital Raise",
+        "Liquidity Risk",
+        "Speculative Sector"
+      ]
     },
     {
       "timestamp": "2026-06-24T15:21:00",
       "category": "Results",
       "headline": "AGM Results",
       "url": "https://www.investegate.co.uk/announcement/rns/hydrogen-utopia-international--hui/agm-results-/9635073",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "AGM results are typically administrative filings confirming shareholder approval of routine matters rather than substantive operational updates, offering little immediate alpha for equity valuation.",
@@ -86,10 +106,14 @@
       "category": null,
       "headline": "Update on Fortress Fuel Initiative",
       "url": "https://www.investegate.co.uk/announcement/rns/hydrogen-utopia-international--hui/update-on-fortress-fuel-initiative/9600736",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a micro-cap with negligible market capitalization and no proven commercial hydrogen infrastructure, this update likely represents speculative narrative building rather than material operational progress, reflecting the sector's current valuation compression and lack of tangible revenue streams.",
+      "key_themes": [
+        "green_hydrogen",
+        "micro_cap_risk"
+      ]
     }
   ]
 }

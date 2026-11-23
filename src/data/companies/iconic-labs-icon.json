@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Total Voting Rights & Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/iconic-labs--icon/total-voting-rights-admission-to-trading/9850492",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,21 @@
       "category": null,
       "headline": "Conversion of Notes and Allotment of Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/iconic-labs--icon/conversion-of-notes-and-allotment-of-shares/9841850",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard debt-to-equity conversion typical of pre-IPO capital structures, indicating no new cash inflow but reducing leverage and preparing the balance sheet for public listing.",
+      "key_themes": [
+        "debt_conversion",
+        "pre_ipo_prep"
+      ]
     },
     {
       "timestamp": "2026-10-22T11:52:00",
       "category": "Results",
       "headline": "Full Year Results",
       "url": "https://www.investegate.co.uk/announcement/rns/iconic-labs--icon/full-year-results/9836839",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a pre-revenue SPAC with limited operational history, full year results primarily serve as a compliance exercise rather than a value driver; market reaction will hinge on cash runway and progress toward de-SPAC merger milestones rather than traditional financial metrics.",
@@ -44,6 +50,7 @@
       "category": null,
       "headline": "Total Voting Rights & Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/iconic-labs--icon/total-voting-rights-admission-to-trading/9797854",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -54,6 +61,7 @@
       "category": null,
       "headline": "Total Voting Rights & Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/iconic-labs--icon/total-voting-rights-admission-to-trading/9744316",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -64,36 +72,51 @@
       "category": null,
       "headline": "Conversion of Notes and Allotment of Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/iconic-labs--icon/conversion-of-notes-and-allotment-of-shares/9694064",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This conversion represents a critical de-risking event for Iconic Labs, eliminating near-term debt servicing obligations and preventing potential dilution from forced conversions at depressed valuations. It signals improved liquidity management in the competitive UK biotech sector where cash burn rates often dictate survival timelines.",
+      "key_themes": [
+        "Debt Restructuring",
+        "Liquidity Management",
+        "Biotech Financing"
+      ]
     },
     {
       "timestamp": "2026-07-01T07:00:00",
       "category": "Appointment",
       "headline": "Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/iconic-labs--icon/board-changes/9645695",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board restructuring for a pre-revenue biotech; while governance stability is positive, it lacks the transformative catalysts required to drive immediate valuation re-rating in the volatile small-cap healthcare sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Biotech Administration"
+      ]
     },
     {
       "timestamp": "2026-06-29T11:55:00",
       "category": null,
       "headline": "Conversion of Notes and Allotment of Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/iconic-labs--icon/conversion-of-notes-and-allotment-of-shares/9642108",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This conversion represents a critical de-risking event for Iconic Labs, eliminating the immediate liquidity pressure of convertible debt and strengthening the balance sheet ahead of potential clinical milestones or further fundraising. While routine in mechanics, it signals improved creditor confidence and reduces dilution uncertainty compared to a fresh equity raise.",
+      "key_themes": [
+        "Debt Restructuring",
+        "Balance Sheet Health",
+        "Biotech Financing"
+      ]
     },
     {
       "timestamp": "2026-06-09T11:55:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/iconic-labs--icon/holding-s-in-company/9609390",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -104,6 +127,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/iconic-labs--icon/holding-s-in-company/9609389",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -114,6 +138,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/iconic-labs--icon/holding-s-in-company/9609387",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -124,6 +149,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/iconic-labs--icon/holding-s-in-company/9609384",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -134,6 +160,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/iconic-labs--icon/holding-s-in-company/9609378",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -144,6 +171,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/iconic-labs--icon/holding-s-in-company/9609376",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -154,10 +182,15 @@
       "category": null,
       "headline": "Conversion of Notes and Allotment of Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/iconic-labs--icon/conversion-of-notes-and-allotment-of-shares/9598224",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard debt-to-equity conversion typical of pre-IPO capital structures, diluting existing shareholders without bringing in fresh cash; it signals no immediate liquidity event or strategic pivot for Iconic Labs.",
+      "key_themes": [
+        "dilution",
+        "capital_structure",
+        "pre_ipo"
+      ]
     }
   ]
 }

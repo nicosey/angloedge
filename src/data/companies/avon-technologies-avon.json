@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/avon-technologies-plc--avon/director-pdmr-shareholding/9872790",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of insider shareholding changes with no inherent market-moving catalyst; without details on the direction (buy/sell) or volume, it remains an administrative filing rather than a signal of strategic intent.",
@@ -23,6 +24,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/avon-technologies-plc--avon/director-pdmr-shareholding/9863247",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on share price dynamics or valuation metrics.",
@@ -36,6 +38,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/avon-technologies-plc--avon/holding-s-in-company/9851542",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -46,6 +49,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/avon-technologies-plc--avon/holding-s-in-company/9851541",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -56,6 +60,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/avon-technologies-plc--avon/holding-s-in-company/9816616",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -66,6 +71,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/avon-technologies-plc--avon/director-pdmr-shareholding/9811154",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate price impact unless accompanied by unusual volume or context suggesting insider knowledge of pending material events.",
@@ -79,6 +85,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/avon-technologies-plc--avon/director-pdmr-shareholding/9761586",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of insider shareholding changes, which provides transparency but lacks the transformative catalysts required for significant price movement in the UK equity market.",
@@ -92,36 +99,49 @@
       "category": null,
       "headline": "Notice of Strategy Teach-In event",
       "url": "https://www.investegate.co.uk/announcement/rns/avon-technologies-plc--avon/notice-of-strategy-teach-in-event/9752897",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "A 'Strategy Teach-In' is a standard investor relations tactic to align market expectations with management's long-term vision, lacking the immediate catalyst of M&A or earnings data required for significant price movement.",
+      "key_themes": [
+        "Investor Relations",
+        "Corporate Communications"
+      ]
     },
     {
       "timestamp": "2026-09-02T07:00:00",
       "category": null,
       "headline": "$20.3M ACH GEN II DELIVERY ORDER",
       "url": "https://www.investegate.co.uk/announcement/rns/avon-technologies-plc--avon/-20-3m-ach-gen-ii-delivery-order/9750544",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement reflects a standard operational milestone for Avon Technologies' ACH Gen II project delivery rather than a transformative corporate event. While it validates technical progress in the high-growth AI infrastructure sector, it lacks the immediate financial or strategic weight required to significantly alter market valuation.",
+      "key_themes": [
+        "Operational Update",
+        "AI Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-08-13T09:43:00",
       "category": "Dividend",
       "headline": "Interim Dividend Currency Exchange Rate",
       "url": "https://www.investegate.co.uk/announcement/rns/avon-technologies-plc--avon/interim-dividend-currency-exchange-rate/9720361",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding FX translation for the interim dividend, lacking any substantive news on earnings, strategy, or capital allocation that would influence valuation.",
+      "key_themes": [
+        "FX Impact",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-06T07:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/avon-technologies-plc--avon/director-pdmr-shareholding/9707320",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of insider shareholding changes which provides minimal forward-looking signal for valuation; without volume context or specific deal linkage, this is routine administrative noise rather than a strategic indicator.",
@@ -135,26 +155,35 @@
       "category": null,
       "headline": "European NATO Respiratory System Upgrade Order",
       "url": "https://www.investegate.co.uk/announcement/rns/avon-technologies-plc--avon/european-nato-respiratory-system-upgrade-order/9704904",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The headline contains a fundamental semantic contradiction as NATO is a political-military alliance rather than a commercial entity capable of placing respiratory system orders, suggesting a potential error in the announcement or a highly speculative claim lacking immediate commercial substance.",
+      "key_themes": [
+        "narrative_driven",
+        "sector_confusion"
+      ]
     },
     {
       "timestamp": "2026-07-29T07:00:00",
       "category": null,
       "headline": "$20.1M ACH GEN II DELIVERY ORDER",
       "url": "https://www.investegate.co.uk/announcement/rns/avon-technologies-plc--avon/-20-1m-ach-gen-ii-delivery-order/9692368",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This delivery order confirms the execution of a previously announced transaction rather than signaling new strategic momentum; in the current UK equity market, such administrative confirmations are typically priced in and lack the catalyst power for significant re-rating.",
+      "key_themes": [
+        "Transaction Execution",
+        "Administrative Update"
+      ]
     },
     {
       "timestamp": "2026-07-07T13:23:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/avon-technologies-plc--avon/director-pdmr-shareholding/9656562",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements typically carry minimal market impact unless they signal a significant change in insider sentiment; without volume or price context, this is likely administrative noise rather than a strategic indicator.",
@@ -168,26 +197,35 @@
       "category": null,
       "headline": "European NATO Respirator Order",
       "url": "https://www.investegate.co.uk/announcement/rns/avon-technologies-plc--avon/european-nato-respirator-order/9653036",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The headline references a 'European NATO' order for a company named Avon Technologies, which appears to conflate the historical Avon Rubber (defence/respirators) with a non-existent or misidentified tech entity; without verified revenue figures or confirmation of the target's involvement in defence supply chains, this reads as low-probability noise or a potential scam vector rather than substantive corporate news.",
+      "key_themes": [
+        "Defence Sector",
+        "Misinformation Risk"
+      ]
     },
     {
       "timestamp": "2026-06-26T07:06:00",
       "category": null,
       "headline": "NG IHPS Delivery Orders",
       "url": "https://www.investegate.co.uk/announcement/rns/avon-technologies-plc--avon/ng-ihps-delivery-orders/9638170",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The headline 'NG IHPS Delivery Orders' suggests a routine supply chain update for Avon Technologies, likely related to their industrial heating or power solutions division rather than core strategic shifts. Without details on contract value or margin impact, this is classified as minor administrative news with negligible immediate market implication.",
+      "key_themes": [
+        "Supply Chain",
+        "Operational Update"
+      ]
     },
     {
       "timestamp": "2026-06-25T15:53:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/avon-technologies-plc--avon/holding-s-in-company/9637627",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -198,6 +236,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/avon-technologies-plc--avon/holding-s-in-company/9630738",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -208,6 +247,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/avon-technologies-plc--avon/director-pdmr-shareholding/9607156",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on share price or corporate strategy, reflecting normal liquidity management rather than significant insider sentiment shifts.",

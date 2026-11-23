@@ -10,16 +10,21 @@
       "category": "AGM/EGM",
       "headline": "Availability of Report & Accounts and AGM Notice",
       "url": "https://www.investegate.co.uk/announcement/rns/gattaca--gatc/availability-of-report-accounts-and-agm-notice/9861618",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the logistics for the Annual General Meeting, carrying no new financial data or strategic shifts. For Gattaca, the focus remains on execution risks in the genomic testing sector rather than governance mechanics.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-10-06T11:00:00",
       "category": null,
       "headline": "Block Listing Six Monthly Return",
       "url": "https://www.investegate.co.uk/announcement/rns/gattaca--gatc/block-listing-six-monthly-return/9808989",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/gattaca--gatc/holding-s-in-company/9762114",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +46,7 @@
       "category": null,
       "headline": "EBT Share Purchase Programme",
       "url": "https://www.investegate.co.uk/announcement/rns/gattaca--gatc/ebt-share-purchase-programme/9761962",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,

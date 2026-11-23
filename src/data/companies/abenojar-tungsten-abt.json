@@ -2,14 +2,26 @@
   "name": "Abenójar Tungsten, S.A",
   "ticker": "ABT",
   "slug": "abenojar-tungsten-abt",
-  "announcement_count": 3,
-  "latest_announcement": "2026-11-16T07:43:00",
+  "announcement_count": 4,
+  "latest_announcement": "2026-11-23T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T07:00:00",
+      "category": null,
+      "headline": "Investor Presentation via Investor Meet Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/aben-jar-tungsten-s-a--abt/investor-presentation-via-investor-meet-company/9887568",
+      "routine_type": "Administrative",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-16T07:43:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/aben-jar-tungsten-s-a--abt/holding-s-in-company/9876650",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +32,21 @@
       "category": null,
       "headline": "El Moto Mine Construction Update",
       "url": "https://www.investegate.co.uk/announcement/rns/aben-jar-tungsten-s-a--abt/el-moto-mine-construction-update/9871316",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Construction updates for the El Moto mine are critical path items for Abenójar Tungsten's capital expenditure timeline and future production guidance, directly influencing investor sentiment on project execution risk within the strategic metals sector.",
+      "key_themes": [
+        "Project Execution",
+        "Capital Expenditure"
+      ]
     },
     {
       "timestamp": "2026-11-04T18:23:00",
       "category": "Director Dealing",
       "headline": "Directors Shareholding/PDMR",
       "url": "https://www.investegate.co.uk/announcement/rns/aben-jar-tungsten-s-a--abt/directors-shareholding-pdmr/9858974",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard PDMR disclosure with no immediate price-sensitive implications for Abenójar Tungsten's valuation or strategy.",

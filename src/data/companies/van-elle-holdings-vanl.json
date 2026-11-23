@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Disclosure Table",
       "url": "https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/disclosure-table/9618714",
+      "routine_type": "Disclosure Table",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Acquisition",
       "headline": "Scheme of Arrangement Becomes Effective",
       "url": "https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/scheme-of-arrangement-becomes-effective/9618669",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 9,
       "insight": "The effective scheme signals the successful conclusion of the acquisition by Morgan Sindall, marking a definitive end to Van Elle's independence and likely triggering a liquidity event for shareholders at a premium to pre-announcement levels.",
@@ -33,6 +35,7 @@
       "category": null,
       "headline": "Form 8 (DD) - Van Elle Holdings plc",
       "url": "https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/form-8-dd-van-elle-holdings-plc/9618484",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,6 +46,7 @@
       "category": null,
       "headline": "Form 8 (DD) - Van Elle Holdings plc",
       "url": "https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/form-8-dd-van-elle-holdings-plc/9618483",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,16 +57,21 @@
       "category": null,
       "headline": "Suspension - Van Elle Holdings PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/suspension-van-elle-holdings-plc/9617886",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Suspension of a AIM-listed construction firm typically signals severe liquidity crises, insolvency proceedings, or imminent delisting, reflecting the acute stress in the UK building materials sector where Van Elle has historically operated.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insolvency Risk"
+      ]
     },
     {
       "timestamp": "2026-06-15T07:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/director-pdmr-shareholding/9617115",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements in the construction sector typically reflect personal portfolio management rather than strategic shifts, offering limited predictive value for Van Elle's near-term performance amidst current sector headwinds.",
@@ -76,6 +85,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/holding-s-in-company/9616625",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -86,16 +96,22 @@
       "category": null,
       "headline": "Court Sanction of Scheme",
       "url": "https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/court-sanction-of-scheme/9614200",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Court sanction is the final procedural hurdle for Van Elle's demerger of its property development arm into a new listed entity, effectively unlocking value by separating the high-growth construction business from the capital-intensive property side. This precedent follows similar structural splits in the UK infrastructure and engineering sectors to address valuation discounts associated with conglomerate structures.",
+      "key_themes": [
+        "Corporate Restructuring",
+        "Demerger",
+        "Value Unlocking"
+      ]
     },
     {
       "timestamp": "2026-06-04T07:00:00",
       "category": null,
       "headline": "Form 8 (DD) - Van Elle Holdings plc",
       "url": "https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/form-8-dd-van-elle-holdings-plc/9600692",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -106,6 +122,7 @@
       "category": "Director Dealing",
       "headline": "Director / PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/director-pdmr-shareholding-/9598409",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Van Elle's valuation or operational trajectory, reflecting standard liquidity management rather than strategic signaling.",
@@ -119,6 +136,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/holding-s-in-company/9598093",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -129,10 +147,14 @@
       "category": "AGM/EGM",
       "headline": "RESULTS OF COURT MEETING AND GENERAL MEETING",
       "url": "https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/results-of-court-meeting-and-general-meeting/9590622",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms the successful court approval of a scheme of arrangement, a critical procedural step for Van Elle's potential restructuring or capital reduction rather than a transformative commercial event. In the current UK construction sector climate, such administrative milestones are routine governance updates that do not inherently signal immediate value creation or distress.",
+      "key_themes": [
+        "Corporate Governance",
+        "Capital Restructuring"
+      ]
     }
   ]
 }

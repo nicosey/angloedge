@@ -10,30 +10,42 @@
       "category": "Dividend",
       "headline": "Dividend Currency Rate",
       "url": "https://www.investegate.co.uk/announcement/rns/tufton-assets-limited--shpp/dividend-currency-rate/9875437",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement is purely administrative, clarifying the exchange rate mechanism for dividend calculations rather than declaring a new payout or altering capital structure, indicating no immediate fundamental shift in shareholder value.",
+      "key_themes": [
+        "administrative",
+        "dividend_mechanics"
+      ]
     },
     {
       "timestamp": "2026-10-23T16:16:00",
       "category": "Dividend",
       "headline": "3Q26 Dividend Timetable Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/tufton-assets-limited--shpp/3q26-dividend-timetable-announcement/9839726",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative timetable for the third quarter dividend, lacking any substantive financial data or strategic shifts that would alter valuation models.",
+      "key_themes": [
+        "Corporate Action",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-08-07T15:20:00",
       "category": "Dividend",
       "headline": "Dividend Currency Rate",
       "url": "https://www.investegate.co.uk/announcement/rns/tufton-assets-limited--shpp/dividend-currency-rate/9711606",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding dividend currency conversion rates for an investment trust, carrying no fundamental impact on valuation or strategy.",
+      "key_themes": [
+        "Administrative",
+        "Dividend"
+      ]
     }
   ]
 }

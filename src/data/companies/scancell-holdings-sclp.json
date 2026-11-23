@@ -10,16 +10,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/scancell-holdings--sclp/result-of-agm/9884741",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no immediate financial or strategic weight for Scancell's oncology pipeline valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-10-23T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/scancell-holdings--sclp/notice-of-agm/9837637",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,16 +35,21 @@
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/scancell-holdings--sclp/result-of-general-meeting/9832224",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of routine shareholder approvals, likely for annual re-elections or minor statutory matters, which carries no immediate fundamental impact on Scancell's oncology pipeline valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-10-15T07:00:00",
       "category": "Director Dealing",
       "headline": "Issue of Equity, Director Dealing & Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/scancell-holdings--sclp/issue-of-equity-director-dealing-voting-rights/9823638",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements for small-cap biotech firms like Scancell typically carry minimal immediate market impact unless accompanied by significant volume or unusual timing relative to clinical milestones.",
@@ -53,6 +63,7 @@
       "category": null,
       "headline": "Notice of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/scancell-holdings--sclp/notice-of-gm/9803050",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,26 +74,36 @@
       "category": null,
       "headline": "Scancell to Present at the H.C. Wainwright Sept 26",
       "url": "https://www.investegate.co.uk/announcement/rns/scancell-holdings--sclp/scancell-to-present-at-the-h-c-wainwright-sept-26/9754612",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard investor relations activity aimed at increasing visibility among US oncology-focused funds rather than signaling fundamental operational shifts. In the current biotech sentiment climate, such presentations are routine maintenance for capital raising efforts but carry low immediate price impact.",
+      "key_themes": [
+        "Investor Relations",
+        "Oncology Sector"
+      ]
     },
     {
       "timestamp": "2026-08-19T07:00:00",
       "category": null,
       "headline": "iSCIB1+ MHRA CTA Approval for Ph3 trial",
       "url": "https://www.investegate.co.uk/announcement/rns/scancell-holdings--sclp/iscib1-mhra-cta-approval-for-ph3-trial/9728522",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "MHRA CTA approval for a Phase 3 trial is a critical regulatory milestone that de-risks the asset and validates Scancell's proprietary technology platform in the competitive immuno-oncology sector. This significantly advances the path to commercialization, potentially triggering re-rating as it moves from speculative R&D to near-term revenue generation.",
+      "key_themes": [
+        "Regulatory Approval",
+        "Phase 3 Trial",
+        "Immunotherapy"
+      ]
     },
     {
       "timestamp": "2026-08-06T13:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/scancell-holdings--sclp/holding-s-in-company/9709085",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -93,6 +114,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/scancell-holdings--sclp/holding-s-in-company/9699437",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -103,16 +125,21 @@
       "category": null,
       "headline": "Extension of Option Exercise Period",
       "url": "https://www.investegate.co.uk/announcement/rns/scancell-holdings--sclp/extension-of-option-exercise-period/9697129",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This administrative extension of an option exercise period is a minor procedural update with negligible immediate financial impact, though it highlights the ongoing dilution risks inherent in Scancell's cash-burning biotech model.",
+      "key_themes": [
+        "Corporate Governance",
+        "Dilution Risk"
+      ]
     },
     {
       "timestamp": "2026-07-28T15:40:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/scancell-holdings--sclp/holding-s-in-company/9691990",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -123,16 +150,22 @@
       "category": "Placing",
       "headline": "Result of Retail Offer and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/scancell-holdings--sclp/result-of-retail-offer-and-total-voting-rights/9687770",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 4,
+      "insight": "This announcement confirms the closure of the retail tranche for a placing that primarily targets institutional investors, indicating standard fundraising mechanics rather than a transformative event. While it secures capital for Scancell's clinical pipeline, the lack of significant premium or strategic partner involvement suggests routine liquidity provision rather than a major market-moving catalyst.",
+      "key_themes": [
+        "Capital Raise",
+        "Biotech Funding",
+        "Retail Closure"
+      ]
     },
     {
       "timestamp": "2026-07-24T07:30:00",
       "category": "Acquisition",
       "headline": "Correction: Merger and Financing",
       "url": "https://www.investegate.co.uk/announcement/rns/scancell-holdings--sclp/correction-merger-and-financing-/9686017",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 9,
       "insight": "This correction signals a pivotal strategic shift for Scancell, likely involving a merger of equals or significant consolidation to accelerate commercialization and scale in the competitive immuno-oncology sector. Such transformative capital structure changes are critical for biotech firms seeking to bridge the gap between clinical success and sustainable revenue generation.",
@@ -147,6 +180,7 @@
       "category": "Placing",
       "headline": "Oversubscribed UK Placing",
       "url": "https://www.investegate.co.uk/announcement/rns/scancell-holdings--sclp/oversubscribed-uk-placing/9685020",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 7,
       "insight": "The oversubscribed placing confirms strong institutional appetite for Scancell's late-stage clinical data, validating the biotech's valuation trajectory amidst a sector-wide consolidation trend where cash-rich majors seek innovative immuno-oncology assets.",
@@ -161,6 +195,7 @@
       "category": "Acquisition",
       "headline": "Merger and Financing",
       "url": "https://www.investegate.co.uk/announcement/rns/scancell-holdings--sclp/merger-and-financing/9683817",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 9,
       "insight": "This merger with Immatics represents a transformative consolidation in the UK biotech sector, creating a larger, diversified immuno-oncology platform with enhanced cash runway and pipeline depth to compete globally.",
@@ -175,16 +210,22 @@
       "category": "Placing",
       "headline": "Launch of Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/scancell-holdings--sclp/launch-of-retail-offer-/9683816",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The launch of a retail offer following a placing signals Scancell's pivot to broaden its shareholder base and enhance liquidity in the competitive UK biotech sector, though it dilutes existing holders without immediate revenue inflection.",
+      "key_themes": [
+        "capital raise",
+        "retail expansion",
+        "biotech funding"
+      ]
     },
     {
       "timestamp": "2026-07-23T08:04:00",
       "category": "Placing",
       "headline": "Proposed UK Placing",
       "url": "https://www.investegate.co.uk/announcement/rns/scancell-holdings--sclp/proposed-uk-placing-/9683815",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "This capital raise is critical for Scancell's cash runway as it advances its proprietary cancer vaccine pipeline through late-stage clinical trials, mitigating near-term dilution risk while signaling management's confidence in the asset's commercial potential.",
@@ -199,10 +240,14 @@
       "category": null,
       "headline": "Scancell: Response to Press Speculation",
       "url": "https://www.investegate.co.uk/announcement/rns/scancell-holdings--sclp/scancell-response-to-press-speculation/9639823",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a defensive clarification likely aimed at curbing short-term speculative volatility rather than signaling fundamental shifts in Scancell's clinical pipeline or commercial strategy.",
+      "key_themes": [
+        "Market Sentiment",
+        "Corporate Governance"
+      ]
     }
   ]
 }

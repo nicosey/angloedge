@@ -10,16 +10,22 @@
       "category": "Results",
       "headline": "Half-year Report",
       "url": "https://www.investegate.co.uk/announcement/rns/sorted-group-holdings--sort/half-year-report/9827629",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a micro-cap AIM stock with limited liquidity, SORT's interim results provide essential visibility into its niche property tech model, but lack the scale to influence broader market sentiment or trigger significant institutional re-rating.",
+      "key_themes": [
+        "AIM Micro-cap",
+        "Interim Results",
+        "Property Tech"
+      ]
     },
     {
       "timestamp": "2026-09-30T15:07:00",
       "category": "Results",
       "headline": "Delay to publication of interim results",
       "url": "https://www.investegate.co.uk/announcement/rns/sorted-group-holdings--sort/delay-to-publication-of-interim-results-/9799643",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "The delay to SORT's interim results introduces near-term uncertainty for a micro-cap stock already facing liquidity challenges, potentially exacerbating volatility as investors await clarity on cash flow and debt covenants in the competitive student accommodation sector.",
@@ -34,20 +40,30 @@
       "category": null,
       "headline": "Suspension - Sorted Group Holdings plc",
       "url": "https://www.investegate.co.uk/announcement/rns/sorted-group-holdings--sort/suspension-sorted-group-holdings-plc/9637010",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Suspension of a AIM-listed tech company typically signals severe liquidity issues, regulatory scrutiny, or imminent insolvency proceedings, as seen in recent collapses like Wirecard or smaller UK tech failures; this creates extreme binary risk for shareholders.",
+      "key_themes": [
+        "Liquidity Crisis",
+        "Regulatory Risk",
+        "AIM Volatility"
+      ]
     },
     {
       "timestamp": "2026-06-25T11:01:00",
       "category": null,
       "headline": "Corporate update & suspension of trading in shares",
       "url": "https://www.investegate.co.uk/announcement/rns/sorted-group-holdings--sort/corporate-update-suspension-of-trading-in-shares/9637003",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Suspension of trading for a micro-cap like Sorted Group typically signals severe distress, potential insolvency, or imminent delisting, reflecting the high risk and illiquidity inherent in the UK AIM small-cap sector.",
+      "key_themes": [
+        "Trading Suspension",
+        "Liquidity Risk",
+        "Corporate Governance"
+      ]
     }
   ]
 }

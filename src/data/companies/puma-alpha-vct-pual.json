@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Admission of Further Securities to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-alpha-vct--pual/admission-of-further-securities-to-trading/9863147",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-alpha-vct--pual/issue-of-equity/9858466",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,36 +32,50 @@
       "category": null,
       "headline": "Portfolio Update",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-alpha-vct--pual/portfolio-update/9834723",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine portfolio updates for VCTs are standard disclosures that rarely move share prices unless they signal a major strategic pivot or significant impairment; this falls squarely into the category of low-impact administrative reporting.",
+      "key_themes": [
+        "VCT",
+        "Portfolio Disclosure"
+      ]
     },
     {
       "timestamp": "2026-10-14T10:33:00",
       "category": "Results",
       "headline": "Half-year Report",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-alpha-vct--pual/half-year-report/9822701",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a standard half-year report for a Venture Capital Trust, this is routine income distribution news rather than a transformative event; however, in the current high-interest-rate environment, PUAL's ability to maintain its dividend policy signals portfolio resilience despite broader VCT sector headwinds.",
+      "key_themes": [
+        "VCT",
+        "Interim Results",
+        "Dividend Policy"
+      ]
     },
     {
       "timestamp": "2026-10-01T09:30:00",
       "category": null,
       "headline": "Offer for Subscription - Update",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-alpha-vct--pual/offer-for-subscription-update/9801440",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the subscription offer mechanics for an existing VCT fund, indicating no material change to the investment thesis or valuation.",
+      "key_themes": [
+        "VCT",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-27T15:19:00",
       "category": null,
       "headline": "Block Listing",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-alpha-vct--pual/block-listing/9744087",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,6 +86,7 @@
       "category": null,
       "headline": "Transaction in Own Shares and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-alpha-vct--pual/transaction-in-own-shares-and-total-voting-rights/9694411",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,26 +97,35 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-alpha-vct--pual/result-of-agm/9689534",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director re-election and auditor appointment rather than strategic shifts or capital changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-07-21T09:00:00",
       "category": null,
       "headline": "Portfolio Update",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-alpha-vct--pual/portfolio-update/9679428",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Portfolio updates are standard disclosures for VCTs that rarely move share prices unless they signal a major strategic pivot or significant impairment; without specific asset details, this is routine administrative noise.",
+      "key_themes": [
+        "VCT",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-06-26T11:27:00",
       "category": null,
       "headline": "Issue of Supplementary Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-alpha-vct--pual/issue-of-supplementary-prospectus/9639393",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -110,10 +136,15 @@
       "category": "Results",
       "headline": "Annual Financial Report for Year Ended 28 Feb 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/puma-alpha-vct--pual/annual-financial-report-for-year-ended-28-feb-2026/9616649",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a closed-end investment trust, the annual report is critical for assessing NAV performance relative to premium/discount levels and dividend sustainability in a high-rate environment, though it lacks the immediate catalyst of an interim update or major strategic shift.",
+      "key_themes": [
+        "NAV Performance",
+        "Dividend Sustainability",
+        "Premium/Discount Analysis"
+      ]
     }
   ]
 }

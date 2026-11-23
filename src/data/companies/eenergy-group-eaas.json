@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director's Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/eenergy-group--eaas/director-s-dealing/9861487",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible signal for institutional investors compared to aggregate insider buying/selling trends.",
@@ -23,6 +24,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/eenergy-group--eaas/holding-s-in-company/9844087",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -33,6 +35,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/eenergy-group--eaas/holding-s-in-company/9843705",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,6 +46,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/eenergy-group--eaas/holding-s-in-company/9843397",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,6 +57,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/eenergy-group--eaas/holding-s-in-company/9842155",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,56 +68,77 @@
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/eenergy-group--eaas/result-of-general-meeting/9839349",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the Annual General Meeting, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-10-16T07:00:00",
       "category": null,
       "headline": "Reminder to vote at the upcoming General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/eenergy-group--eaas/reminder-to-vote-at-the-upcoming-general-meeting-/9825989",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative reminder for shareholder voting with no new material information or strategic shift disclosed, typical of routine corporate governance procedures in the UK equity market.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Engagement"
+      ]
     },
     {
       "timestamp": "2026-10-06T07:30:00",
       "category": null,
       "headline": "Capital Access Window - eEnergy Grop Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/eenergy-group--eaas/capital-access-window-eenergy-grop-plc/9808456",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice for the AIM Capital Access Window, indicating routine fundraising activity rather than a transformative event; without details on size or pricing, it poses minimal immediate impact compared to major M&A or profit warnings.",
+      "key_themes": [
+        "Capital Raising",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-10-06T07:00:00",
       "category": "Placing",
       "headline": "Result of Retail Offer & Restoration of Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/eenergy-group--eaas/result-of-retail-offer-restoration-of-trading/9807659",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 4,
+      "insight": "The restoration of trading following a retail offer result is primarily an administrative procedural update rather than a fundamental catalyst; without details on the placing size or investor base, this lacks the transformative weight required for significant price action.",
+      "key_themes": [
+        "Administrative",
+        "Trading Suspension Lift"
+      ]
     },
     {
       "timestamp": "2026-10-02T07:00:00",
       "category": "Placing",
       "headline": "WRAP Retail Offer for up to £2 million",
       "url": "https://www.investegate.co.uk/announcement/rns/eenergy-group--eaas/wrap-retail-offer-for-up-to-2-million/9803016",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 4,
+      "insight": "A £2m placing is a modest capital raise for eEnergy Group, likely intended to fund working capital or specific project development rather than signal transformative growth; in the current high-interest-rate environment, such small-scale equity raises often reflect tight balance sheet management rather than aggressive expansion.",
+      "key_themes": [
+        "capital_raise",
+        "working_capital"
+      ]
     },
     {
       "timestamp": "2026-10-02T07:00:00",
       "category": "Placing",
       "headline": "Placing and Subscription to raise £6.3 million",
       "url": "https://www.investegate.co.uk/announcement/rns/eenergy-group--eaas/placing-and-subscription-to-raise-6-3-million/9803015",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "The £6.3m equity raise signals a need for liquidity in the competitive UK energy retail market, likely to fund customer acquisition or operational resilience amid margin pressure. While not transformative, it reflects the sector's ongoing struggle with working capital intensity and regulatory compliance costs.",
@@ -127,46 +153,66 @@
       "category": null,
       "headline": "Capital Access Window - eEnergy Group PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/eenergy-group--eaas/capital-access-window-eenergy-group-plc/9799495",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice regarding the company's ability to access capital markets, lacking specific transaction details or financial metrics; it signals no immediate change in eEnergy Group's strategic trajectory or liquidity position.",
+      "key_themes": [
+        "Corporate Governance",
+        "Capital Markets"
+      ]
     },
     {
       "timestamp": "2026-09-30T14:00:00",
       "category": "Placing",
       "headline": "Proposed Fundraising and Capital Access Window",
       "url": "https://www.investegate.co.uk/announcement/rns/eenergy-group--eaas/proposed-fundraising-and-capital-access-window/9799494",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The capital access window signals a need for liquidity to support growth in the competitive UK energy efficiency market, where cash burn is common but dilution risks remain high for small-cap investors.",
+      "key_themes": [
+        "capital_raise",
+        "liquidity_management",
+        "energy_efficiency_sector"
+      ]
     },
     {
       "timestamp": "2026-08-27T07:00:00",
       "category": "Appointment",
       "headline": "Appointment of Chief Executive Officer",
       "url": "https://www.investegate.co.uk/announcement/rns/eenergy-group--eaas/appointment-of-chief-executive-officer/9742170",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The appointment of a new CEO for eEnergy Group signals a potential strategic pivot in the UK's competitive energy efficiency and decarbonisation sector, aiming to accelerate growth amid tightening margins and heightened regulatory scrutiny on green financing.",
+      "key_themes": [
+        "Leadership Change",
+        "Strategic Pivot",
+        "Green Energy Sector"
+      ]
     },
     {
       "timestamp": "2026-08-21T07:00:00",
       "category": null,
       "headline": "New Loan Facility and Extension",
       "url": "https://www.investegate.co.uk/announcement/rns/eenergy-group--eaas/new-loan-facility-and-extension/9733044",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Securing a new loan facility provides essential liquidity for eEnergy's capital-intensive renewable projects, mitigating immediate refinancing risks in a high-interest-rate environment but increasing leverage.",
+      "key_themes": [
+        "liquidity",
+        "debt_financing",
+        "renewable_infrastructure"
+      ]
     },
     {
       "timestamp": "2026-08-06T07:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/eenergy-group--eaas/holding-s-in-company/9707335",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -177,30 +223,42 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/eenergy-group--eaas/result-of-agm/9637629",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting confirmation of shareholder resolutions for eEnergy Group, carrying no new strategic direction or financial data; such announcements are routine administrative updates with negligible immediate impact on valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-08T12:00:00",
       "category": "Appointment",
       "headline": "Board Change",
       "url": "https://www.investegate.co.uk/announcement/rns/eenergy-group--eaas/board-change/9607002",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board changes in micro-cap energy services firms like eEnergy Group typically signal internal governance adjustments rather than strategic pivots, offering limited immediate catalyst for share price appreciation amidst sector volatility.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap Volatility"
+      ]
     },
     {
       "timestamp": "2026-06-01T07:00:00",
       "category": "AGM/EGM",
       "headline": "Publication of AR, Notice of AGM and Board Update",
       "url": "https://www.investegate.co.uk/announcement/rns/eenergy-group--eaas/publication-of-ar-notice-of-agm-and-board-update/9593427",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative filing for an AIM-listed micro-cap; while the 'Board Update' warrants scrutiny for any strategic shifts in the energy transition sector, it lacks the materiality of earnings or M&A news to drive immediate price action.",
+      "key_themes": [
+        "Corporate Governance",
+        "Regulatory Compliance"
+      ]
     }
   ]
 }

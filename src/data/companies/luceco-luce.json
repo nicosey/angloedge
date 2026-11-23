@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/luceco--luce/director-pdmr-shareholding/9866102",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Luceco's valuation or operational trajectory, reflecting typical insider activity rather than strategic shifts.",
@@ -23,6 +24,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/luceco--luce/director-pdmr-shareholding/9737201",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements for Luceco typically reflect standard compliance disclosures rather than significant insider sentiment shifts, offering limited predictive value for the stock's near-term trajectory in the competitive electrical wholesale sector.",
@@ -36,16 +38,21 @@
       "category": "Appointment",
       "headline": "Appointment of Dr Thorsten Müller as CEO",
       "url": "https://www.investegate.co.uk/announcement/rns/luceco--luce/appointment-of-dr-thorsten-m-ller-as-ceo/9711919",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "A CEO appointment is a high-impact governance event for Luceco, signaling potential strategic shifts in the competitive UK electrical wholesale sector where margin pressure and consolidation are key themes.",
+      "key_themes": [
+        "Leadership Change",
+        "Strategic Direction"
+      ]
     },
     {
       "timestamp": "2026-07-01T10:52:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/luceco--luce/director-pdmr-shareholding/9647320",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Luceco's valuation or operational trajectory, reflecting normal insider activity rather than strategic shifts.",
@@ -59,26 +66,36 @@
       "category": "Appointment",
       "headline": "Appointment of Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/rns/luceco--luce/appointment-of-non-executive-director/9624148",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine governance update typical for AIM-listed SMEs; without details on the appointee's background or specific mandate, this lacks immediate strategic weight compared to operational or financial disclosures.",
+      "key_themes": [
+        "Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-06-15T07:00:00",
       "category": "Appointment",
       "headline": "CEO Retirement",
       "url": "https://www.investegate.co.uk/announcement/rns/luceco--luce/ceo-retirement/9617240",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "CEO departures in the UK SME market often trigger immediate valuation discounts due to execution risk and leadership uncertainty; for Luceco, this creates a critical juncture regarding strategic continuity in the competitive electrical wholesale sector.",
+      "key_themes": [
+        "Leadership Change",
+        "Execution Risk",
+        "SME Governance"
+      ]
     },
     {
       "timestamp": "2026-05-28T14:56:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/luceco--luce/holding-s-in-company/9590520",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -89,6 +106,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/luceco--luce/director-pdmr-shareholding/9588477",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements for Luceco typically reflect standard compliance filings rather than significant insider sentiment shifts, offering limited predictive value for the stock's near-term trajectory in the competitive electrical wholesale sector.",
@@ -102,6 +120,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/luceco--luce/director-pdmr-shareholding/9588214",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on share price or corporate strategy, reflecting normal liquidity management rather than significant insider sentiment shifts.",

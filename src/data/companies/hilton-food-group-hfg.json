@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/hilton-food-group--hfg/holding-s-in-company/9865218",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/hilton-food-group--hfg/holding-s-in-company/9832243",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/hilton-food-group--hfg/director-pdmr-shareholding/9817753",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions rather than a corporate strategy signal; in the current cost-of-living environment, Hilton Food Group's stability relies on operational execution and contract wins, not insider share movements.",
@@ -43,16 +46,21 @@
       "category": null,
       "headline": "Completion of Dalco Sale",
       "url": "https://www.investegate.co.uk/announcement/rns/hilton-food-group--hfg/completion-of-dalco-sale/9816654",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The completion of the Dalco sale represents a definitive step in Hilton Food Group's portfolio rationalisation strategy, likely unlocking capital for debt reduction or core business investment following the successful marketing process.",
+      "key_themes": [
+        "Portfolio Rationalisation",
+        "Capital Allocation"
+      ]
     },
     {
       "timestamp": "2026-09-16T07:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/hilton-food-group--hfg/director-pdmr-shareholding/9773955",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry minimal market impact unless they signal a coordinated shift in insider sentiment; without volume or price context, this remains an administrative filing with no immediate strategic implication for Hilton Food Group's valuation.",
@@ -66,6 +74,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/hilton-food-group--hfg/director-pdmr-shareholding/9769126",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Hilton Food Group's valuation or operational trajectory, reflecting typical insider activity rather than strategic shifts.",
@@ -79,40 +88,56 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/hilton-food-group--hfg/directorate-change/9728530",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative updates to the board composition are standard for FTSE 250 food producers like Hilton Food Group and do not signal strategic shifts or governance risks in the current defensive consumer staples sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-07-23T09:08:00",
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/hilton-food-group--hfg/directorate-change/9683981",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine executive restructuring typical of Hilton Food Group's operational cadence; without details on the departing/arriving directors' seniority or specific mandate, this lacks the strategic weight to move the stock significantly.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Management"
+      ]
     },
     {
       "timestamp": "2026-06-16T07:00:00",
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/hilton-food-group--hfg/directorate-change/9619525",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative change with no immediate strategic implication for Hilton Food Group's operational trajectory in the UK foodservice sector.",
+      "key_themes": [
+        "corporate_governance",
+        "administrative"
+      ]
     },
     {
       "timestamp": "2026-05-27T08:22:00",
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/hilton-food-group--hfg/directorate-change/9587346",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative updates to the board composition are standard governance practices for FTSE 250 companies and do not signal immediate strategic shifts or value-creating events in the food manufacturing sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     }
   ]
 }

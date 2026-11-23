@@ -2,14 +2,29 @@
   "name": "TotalEnergies SE",
   "ticker": "TTE",
   "slug": "totalenergies-tte",
-  "announcement_count": 61,
-  "latest_announcement": "2026-11-18T16:18:00",
+  "announcement_count": 62,
+  "latest_announcement": "2026-11-23T07:14:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T07:14:00",
+      "category": null,
+      "headline": "United States: TotalEnergies Strengthens its ...",
+      "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/united-states-totalenergies-strengthens-its-/9888315",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The headline references US operations, which are peripheral to TotalEnergies' core European and LNG-focused strategy; without details on material financial impact or strategic pivot, this is likely a minor operational update rather than a transformative event for the UK-listed entity.",
+      "key_themes": [
+        "US Operations",
+        "Corporate Update"
+      ]
+    },
     {
       "timestamp": "2026-11-18T16:18:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/director-pdmr-shareholding/9882525",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR disclosures are standard regulatory requirements with negligible market impact; without details on direction (buy/sell) or volume relative to free float, this data point lacks strategic signal for TotalEnergies' valuation.",
@@ -23,6 +38,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/transaction-in-own-shares/9867857",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -33,6 +49,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/director-pdmr-shareholding/9863485",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR disclosure with negligible market impact; lacks the scale or strategic signal of major M&A or executive turnover that typically drives UK energy sector sentiment.",
@@ -46,16 +63,22 @@
       "category": null,
       "headline": "China: TotalEnergies to Supply 900,000 Tons of LNG per Year to Jiangsu Guoxin Group for 15 Years",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/china-totalenergies-to-supply-900-000-tons-o-/9857711",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This long-term offtake agreement secures stable cash flows in a volatile LNG market, reinforcing TotalEnergies' strategy to monetize its US shale assets via Asian demand growth, though it offers limited immediate upside for TTE's share price.",
+      "key_themes": [
+        "LNG",
+        "Asia Expansion",
+        "Long-term Contracts"
+      ]
     },
     {
       "timestamp": "2026-11-03T17:43:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/director-pdmr-shareholding/9856698",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR disclosures are standard regulatory filings with negligible immediate price impact; however, in the current energy sector context, significant insider buying could signal confidence in long-term LNG demand and margin sustainability amidst volatility.",
@@ -69,36 +92,50 @@
       "category": null,
       "headline": "United Arab Emirates: TotalEnergies Signs a Five‑year Liquefied Natural Gas Supply Agreement with ADNOC Gas",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/united-arab-emirates-totalenergies-signs-a-f-/9855462",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This five-year LNG supply deal with ADNOC Gas secures long-term revenue visibility in a structurally tight global gas market, reinforcing TotalEnergies' position as a key supplier to Asian demand centers. It highlights the strategic pivot toward integrated energy trading and upstream partnerships in the Middle East, mitigating volume risk amid European demand volatility.",
+      "key_themes": [
+        "LNG Supply",
+        "Middle East Expansion",
+        "Energy Security"
+      ]
     },
     {
       "timestamp": "2026-11-03T07:18:00",
       "category": null,
       "headline": "TotalEnergies Publishes its Annual Report on Scenarios for the Evolution of the Global Energy System",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/totalenergies-publishes-its-annual-report-on-/9855262",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a strategic thought-leadership publication outlining long-term energy transition pathways rather than a material financial event; while it signals TotalEnergies' commitment to low-carbon investments, it lacks immediate earnings guidance or capital allocation changes that would move the share price.",
+      "key_themes": [
+        "Energy Transition",
+        "Strategic Outlook"
+      ]
     },
     {
       "timestamp": "2026-10-30T07:57:00",
       "category": null,
       "headline": "Nigeria: TotalEnergies Strengthens Its Partnership with SAPETRO to Support the Fast Development of OPL257",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/nigeria-totalenergies-strengthens-its-partne-/9850037",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This operational update regarding OPL257 development aligns with TotalEnergies' broader strategy to accelerate production in West Africa but lacks the material financial magnitude or strategic pivot required for a high market impact score.",
+      "key_themes": [
+        "Upstream Development",
+        "West Africa Operations"
+      ]
     },
     {
       "timestamp": "2026-10-29T07:48:00",
       "category": "Results",
       "headline": "3rd Quarter Results",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/3rd-quarter-results/9847787",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Quarterly results for an integrated oil major are inherently less volatile than pure-play exploration firms, but serve as a critical barometer for upstream margin resilience and downstream refining demand in the current energy transition landscape.",
@@ -112,56 +149,78 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/dividend-declaration/9847683",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a non-UK listed entity, this announcement has zero direct impact on the UK equity market; for UK-listed peers like BP and Shell, it serves as a benchmark for capital allocation discipline and dividend sustainability in the face of volatile oil prices.",
+      "key_themes": [
+        "Capital Allocation",
+        "Energy Sector Benchmark"
+      ]
     },
     {
       "timestamp": "2026-10-28T07:15:00",
       "category": null,
       "headline": "United States: TotalEnergies Enters 26 Chevron-Operated Offshore Exploration Blocks, Strengthening the Successful U.S. Partnership Between Both Companies",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/united-states-totalenergies-enters-26-chevro-/9845386",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This operational expansion in the US Permian basin reinforces TotalEnergies' strategy of low-breakeven shale assets but lacks the transformative scale required for significant stock re-rating compared to major M&A or earnings surprises.",
+      "key_themes": [
+        "US Shale Expansion",
+        "Strategic Partnership"
+      ]
     },
     {
       "timestamp": "2026-10-27T11:30:00",
       "category": null,
       "headline": "TotalEnergies Strengthens Value Sharing With Its Employees and the Support of Their Energy Purchasing Power",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/totalenergies-strengthens-value-sharing-with-/9843884",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement reflects standard corporate governance practices regarding employee welfare and cost-of-living adjustments rather than any material shift in TotalEnergies' upstream/downstream strategy or capital allocation framework.",
+      "key_themes": [
+        "Corporate Governance",
+        "Employee Relations"
+      ]
     },
     {
       "timestamp": "2026-10-27T07:36:00",
       "category": null,
       "headline": "Nigeria: TotalEnergies Completes the Divestment of its Oil Interest in Renaissance JV (formerly SPDC)",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/nigeria-totalenergies-completes-the-divestme-/9843230",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This divestment marks the final exit from Nigeria's mature SPDC block, aligning with TotalEnergies' broader strategy to reduce exposure to high-cost, high-risk assets in favor of lower-carbon and higher-return projects. While it cleans up the balance sheet and removes a legacy liability, the financial impact is limited given the asset's declining production profile.",
+      "key_themes": [
+        "Asset Divestment",
+        "Portfolio Optimization",
+        "Nigeria Operations"
+      ]
     },
     {
       "timestamp": "2026-10-12T07:44:00",
       "category": null,
       "headline": "United States: TotalEnergies Expands its Joint Venture with KKR with the Addition of a 700 MW Renewables Portfolio",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/united-states-totalenergies-expands-its-join-/9817635",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement concerns TotalEnergies' US subsidiary rather than the listed UK-equivalent entity, rendering it immaterial for direct share price impact; it reflects standard portfolio scaling within an existing KKR JV rather than a transformative corporate event.",
+      "key_themes": [
+        "Joint Venture",
+        "Renewables Expansion"
+      ]
     },
     {
       "timestamp": "2026-10-07T15:35:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/director-pdmr-shareholding/9811962",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR disclosures are standard regulatory requirements with negligible market impact; without specific deal size or direction (buy/sell) indicating significant insider conviction, this data point is administratively neutral for TotalEnergies' valuation.",
@@ -175,6 +234,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/total-voting-rights/9809834",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -185,6 +245,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/director-pdmr-shareholding/9807422",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR disclosures are standard regulatory requirements with negligible market impact; without specific volume or price data indicating significant insider conviction, this remains an administrative filing rather than a strategic signal.",
@@ -198,6 +259,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/director-pdmr-shareholding/9797356",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR disclosures are standard regulatory filings with negligible market impact; without specific transaction details indicating significant insider conviction or divergence from consensus, this data point offers no actionable alpha for TotalEnergies' valuation.",
@@ -211,36 +273,51 @@
       "category": null,
       "headline": "Strategy and Outlook Presentation 2026",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/strategy-and-outlook-presentation-2026/9793490",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Strategic outlook presentations for 2026 signal critical capital allocation shifts in the integrated oil & gas sector, particularly regarding LNG expansion and low-carbon transition pacing amidst volatile energy margins.",
+      "key_themes": [
+        "Capital Allocation",
+        "Energy Transition"
+      ]
     },
     {
       "timestamp": "2026-09-23T07:45:00",
       "category": null,
       "headline": "Nigeria: TotalEnergies Launches the Ima Gas Development to Supply Nigeria LNG Liquefaction Plant",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/nigeria-totalenergies-launches-the-ima-gas-d-/9786436",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This operational milestone secures long-term feedstock for Nigeria LNG, reinforcing TotalEnergies' upstream cash flow stability in a key African basin amid global LNG demand resilience. It reflects the company's strategic pivot to low-carbon integrated gas projects while mitigating regional political risk through sustained infrastructure investment.",
+      "key_themes": [
+        "LNG Supply Chain",
+        "Upstream Development",
+        "Africa Operations"
+      ]
     },
     {
       "timestamp": "2026-09-18T07:17:00",
       "category": null,
       "headline": "TotalEnergies Signs an Agreement with GIP on African Energy Infrastructure Assets",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/totalenergies-signs-an-agreement-with-gip-on-/9779320",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This transaction highlights the strategic shift of major IOCs like TotalEnergies towards monetizing non-core African assets to fund lower-carbon transitions, reflecting a broader industry trend of portfolio optimization amidst volatile upstream margins.",
+      "key_themes": [
+        "Asset Monetization",
+        "Energy Transition Financing",
+        "Infrastructure Investment"
+      ]
     },
     {
       "timestamp": "2026-09-11T17:17:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/director-pdmr-shareholding/9768913",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR disclosure with negligible market impact; oil majors like TotalEnergies are currently driven by macro commodity prices and dividend policy rather than individual insider transactions.",
@@ -254,16 +331,22 @@
       "category": null,
       "headline": "Plastics Recycling: TotalEnergies Becomes the Sole Owner of the Grandpuits Advanced Plastics Recycling Plant",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/plastics-recycling-totalenergies-becomes-the-/9767738",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Full ownership of the Grandpuits plant signals a strategic pivot toward circular economy assets to secure feedstock for chemical recycling and mitigate virgin plastic price volatility, aligning with EU regulatory pressures on recycled content.",
+      "key_themes": [
+        "Circular Economy",
+        "Chemical Recycling",
+        "Feedstock Security"
+      ]
     },
     {
       "timestamp": "2026-09-10T16:31:00",
       "category": null,
       "headline": "TotalEnergies SE: Notice of Redemption Dated 10 September 2026",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/totalenergies-se-notice-of-redemption-dated-/9766441",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -274,16 +357,21 @@
       "category": null,
       "headline": "Exploration in Angola: TotalEnergies Announces a New Discovery on Block 17 and Enters New Exploration Blocks",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/exploration-in-angola-totalenergies-announce-/9765151",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This discovery reinforces TotalEnergies' strategic pivot toward high-return, low-carbon-intensity assets in Africa, directly supporting its production growth targets while mitigating the long-term decline of core European reserves.",
+      "key_themes": [
+        "Upstream Expansion",
+        "Africa Strategy"
+      ]
     },
     {
       "timestamp": "2026-09-07T15:03:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/total-voting-rights/9759378",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -294,46 +382,65 @@
       "category": null,
       "headline": "Papua New Guinea: TotalEnergies Takes Decisive Steps Towards Final Investment Decision on Papua LNG",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/papua-new-guinea-totalenergies-takes-decisiv-/9758367",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This marks a critical milestone for TotalEnergies' largest upstream project, securing long-term cash flow visibility and reinforcing its strategy in high-margin LNG markets amid global supply tightness.",
+      "key_themes": [
+        "Upstream Expansion",
+        "LNG Market Dynamics"
+      ]
     },
     {
       "timestamp": "2026-09-03T07:18:00",
       "category": null,
       "headline": "Namibia: TotalEnergies Completes Its Entry as Operator Into PEL83 License, Holding the Giant Mopane Discovery",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/namibia-totalenergies-completes-its-entry-as-/9753663",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Operatorship of the Mopane discovery in Namibia marks a strategic pivot for TotalEnergies into frontier African basins, diversifying its portfolio beyond traditional hubs while validating the region's exploration potential amidst global energy security concerns.",
+      "key_themes": [
+        "Frontier Exploration",
+        "Energy Security",
+        "Operatorship"
+      ]
     },
     {
       "timestamp": "2026-09-01T07:56:00",
       "category": "Appointment",
       "headline": "Emmanuelle Guégan appointed President Marketing & Services and member of TotalEnergies’ Executive Committee",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/emmanuelle-gu-gan-appointed-president-marketi-/9748691",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard executive reshuffle within the downstream marketing division, reflecting routine operational management rather than strategic pivots; such appointments rarely move TTE's valuation given its integrated upstream/downstream model.",
+      "key_themes": [
+        "Corporate Governance",
+        "Downstream Operations"
+      ]
     },
     {
       "timestamp": "2026-08-27T07:50:00",
       "category": null,
       "headline": "TotalEnergies Completes the Transfer of its 10% Interest in Arctic LNG 2",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/totalenergies-completes-the-transfer-of-its-1-/9743031",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This divestment reflects the ongoing geopolitical de-risking of Russian LNG assets by Western majors, aligning with TotalEnergies' broader strategy to exit high-sanction-risk jurisdictions rather than indicating a fundamental shift in core energy demand or profitability.",
+      "key_themes": [
+        "Geopolitical Risk",
+        "Asset Divestment",
+        "Russian Energy"
+      ]
     },
     {
       "timestamp": "2026-08-25T07:00:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/transaction-in-own-shares/9737567",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -344,6 +451,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/total-voting-rights/9718520",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -354,6 +462,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/director-pdmr-shareholding/9704281",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR disclosures are standard regulatory requirements with negligible market impact; without volume data indicating significant insider conviction or divestment, this provides no actionable alpha for TotalEnergies' valuation.",
@@ -367,96 +476,135 @@
       "category": "Acquisition",
       "headline": "Renewables in Europe: TotalEnergies Acquires Shell’s Renewables Business and Sells a 50% Stake in a Portfolio of Developed Assets to KKR",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/renewables-in-europe-totalenergies-acquires-/9700569",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This transaction represents a structural pivot for TotalEnergies, accelerating its transition to renewables by acquiring Shell's European portfolio while monetizing mature assets via KKR, signaling aggressive capital reallocation in the energy sector.",
+      "key_themes": [
+        "Energy Transition",
+        "Strategic M&A"
+      ]
     },
     {
       "timestamp": "2026-07-28T08:00:00",
       "category": null,
       "headline": "Capital decrease by way of shares cancellation",
       "url": "https://www.investegate.co.uk/announcement/rns/totalenergies-se--tte/capital-decrease-by-way-of-shares-cancellation/9690773",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This administrative capital reduction is a standard corporate housekeeping measure to offset share-based compensation dilution rather than a signal of strategic retreat or value creation. In the current energy sector context, TotalEnergies prioritizes organic growth and dividends over complex capital structure maneuvers, rendering this event financially immaterial.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Dilution Management"
+      ]
     },
     {
       "timestamp": "2026-07-28T07:59:00",
       "category": null,
       "headline": "Cyprus: TotalEnergies Approves the Development of the Cronos Gas Field to Supply Europe with LNG",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/cyprus-totalenergies-approves-the-developmen-/9690777",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This approval advances TotalEnergies' LNG supply chain resilience amid European energy security concerns, reinforcing its strategic pivot to gas despite long-term decarbonisation goals.",
+      "key_themes": [
+        "LNG Expansion",
+        "Energy Security",
+        "Capital Allocation"
+      ]
     },
     {
       "timestamp": "2026-07-27T07:55:00",
       "category": null,
       "headline": "TotalEnergies SE Appeals the 25 June 2026 Judgment in the Duty of Vigilance Climate Case",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/totalenergies-se-appeals-the-25-june-2026-jud-/9688447",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a procedural legal development in an ongoing ESG litigation rather than a fundamental business event; while it highlights the persistent regulatory risk of France's Duty of Vigilance law for multinationals, it does not alter TotalEnergies' immediate financial outlook or strategic trajectory.",
+      "key_themes": [
+        "ESG Litigation",
+        "Legal Risk",
+        "Duty of Vigilance"
+      ]
     },
     {
       "timestamp": "2026-07-24T14:51:00",
       "category": null,
       "headline": "TotalEnergies Publishes Its Financial Report for First Half 2026",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/totalenergies-publishes-its-financial-report-/9687196",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a major European integrated oil & gas player, TotalEnergies' H1 results provide critical visibility into upstream production efficiency and downstream refining margins amidst volatile energy markets; however, as a routine half-year report, it lacks the transformative catalyst required for a higher impact score.",
+      "key_themes": [
+        "Interim Results",
+        "Energy Sector"
+      ]
     },
     {
       "timestamp": "2026-07-24T14:44:00",
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/half-year-financial-report/9687190",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a major European integrated oil & gas player, TotalEnergies' interim results provide critical visibility into upstream production efficiency and downstream refining margins amidst volatile energy prices; however, as routine half-year reporting, it lacks the transformative catalyst required for a higher impact score.",
+      "key_themes": [
+        "Interim Results",
+        "Energy Sector"
+      ]
     },
     {
       "timestamp": "2026-07-23T07:45:00",
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/dividend-declaration/9683789",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This declaration reinforces TotalEnergies' commitment to its shareholder return policy amidst the ongoing energy transition, providing a stable income anchor for investors in a volatile macro environment.",
+      "key_themes": [
+        "Shareholder Yield",
+        "Integrated Oil & Gas"
+      ]
     },
     {
       "timestamp": "2026-07-23T07:10:00",
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/dividend-declaration/9683763",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a non-UK listed entity, this announcement has zero direct impact on the London market; however, it signals TotalEnergies' continued commitment to shareholder returns amidst the broader energy sector's pivot towards capital discipline and dividend stability following the post-pandemic volatility.",
+      "key_themes": [
+        "Shareholder Yield",
+        "Energy Sector Stability"
+      ]
     },
     {
       "timestamp": "2026-07-23T07:06:00",
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/half-year-financial-report/9683266",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a major European integrated oil & gas producer, TotalEnergies' interim results provide critical visibility into upstream production efficiency and downstream refining margins amidst volatile global energy prices; however, as a routine half-year report for a mature multinational, it lacks the transformative catalyst required for a higher impact score.",
+      "key_themes": [
+        "Interim Results",
+        "Oil & Gas"
+      ]
     },
     {
       "timestamp": "2026-07-17T17:45:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/director-pdmr-shareholding/9675640",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR disclosures are standard regulatory filings with negligible market impact; without volume or price data indicating significant insider conviction, this remains an administrative event rather than a signal of strategic shift.",
@@ -470,36 +618,49 @@
       "category": null,
       "headline": "TotalEnergies SE: Second Quarter 2026: Main Indicators",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/totalenergies-se-second-quarter-2026-main-i-/9672069",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a major European integrated oil major, TotalEnergies' Q2 results provide critical real-time data on upstream production efficiency and refining margins amidst volatile global energy demand. The release serves as a key sentiment barometer for the broader European energy sector, particularly regarding capital discipline and dividend sustainability in a high-rate environment.",
+      "key_themes": [
+        "Quarterly Results",
+        "Energy Sector Performance"
+      ]
     },
     {
       "timestamp": "2026-07-09T07:02:00",
       "category": null,
       "headline": "Renewables: TotalEnergies Divests its Distributed Solar Generation Activities in Europe",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/renewables-totalenergies-divests-its-distrib-/9659964",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This divestment aligns with TotalEnergies' strategy to exit low-margin, asset-heavy distributed solar assets in favor of higher-return integrated renewables and LNG, reflecting a broader industry shift away from fragmented rooftop portfolios.",
+      "key_themes": [
+        "Portfolio Optimization",
+        "Renewables Strategy"
+      ]
     },
     {
       "timestamp": "2026-07-09T06:25:00",
       "category": null,
       "headline": "Mexico: TotalEnergies Ships to Asia the Very First Cargo Produced by the ECA LNG Plant",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/mexico-totalenergies-ships-to-asia-the-very-/9659571",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This operational milestone confirms the ECA LNG plant's technical readiness and validates TotalEnergies' execution capability in Mexico, but as a routine project update, it lacks immediate financial or strategic transformative weight for TTE's valuation.",
+      "key_themes": [
+        "LNG",
+        "Mexico Operations"
+      ]
     },
     {
       "timestamp": "2026-07-07T18:08:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/director-pdmr-shareholding/9657061",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR disclosures are standard regulatory requirements with negligible market impact; without specific transaction volume or direction (buy/sell) indicating significant insider conviction, this data point is administratively neutral for TotalEnergies' valuation.",
@@ -513,6 +674,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/director-pdmr-shareholding/9656028",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR disclosures carry minimal market impact unless they signal coordinated insider sentiment shifts; without volume context, this is standard regulatory compliance rather than a strategic indicator.",
@@ -526,6 +688,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/director-pdmr-shareholding/9650403",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR disclosures are standard regulatory requirements with negligible market impact; without specific transaction values indicating significant insider conviction or divestment, these filings do not signal strategic shifts in the integrated oil and gas sector.",
@@ -539,26 +702,35 @@
       "category": null,
       "headline": "Malaysia: TotalEnergies Divests its Minority Non-Operated Interest in Marjoram Gas Field",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/malaysia-totalenergies-divests-its-minority-/9649215",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This divestment of a non-operated minority stake in Malaysia is a minor portfolio optimization with negligible financial impact on TotalEnergies' global production or revenue profile.",
+      "key_themes": [
+        "Portfolio Optimization",
+        "Divestment"
+      ]
     },
     {
       "timestamp": "2026-06-26T07:49:00",
       "category": null,
       "headline": "Capital Increase Reserved for Employees of TotalEnergies in 2026",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/capital-increase-reserved-for-employees-of-to-/9638700",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard employee share purchase plan with negligible impact on the broader market or TotalEnergies' capital structure; such internal equity incentives are routine administrative actions common across the energy sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Employee Benefits"
+      ]
     },
     {
       "timestamp": "2026-06-19T15:37:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/director-pdmr-shareholding/9628373",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible fundamental impact on TotalEnergies' valuation or strategic trajectory, reflecting standard insider compliance rather than significant insider sentiment shifts.",
@@ -572,16 +744,21 @@
       "category": null,
       "headline": "VivaTech: With MethaneLive, TotalEnergies Use...",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/vivatech-with-methanelive-totalenergies-use-/9625342",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a PR-driven announcement highlighting a digital tool launch at a tech conference, lacking any material financial data or strategic shift for TotalEnergies' core upstream/downstream operations.",
+      "key_themes": [
+        "Corporate Communications",
+        "Digital Transformation"
+      ]
     },
     {
       "timestamp": "2026-06-12T13:44:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/director-pdmr-shareholding/9616549",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible fundamental impact on TotalEnergies' valuation or strategic trajectory, reflecting standard insider compliance rather than significant insider sentiment shifts.",
@@ -595,6 +772,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/director-pdmr-shareholding/9614343",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible fundamental impact on TotalEnergies' valuation or strategic trajectory, reflecting individual liquidity needs rather than corporate sentiment shifts.",
@@ -608,6 +786,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/director-pdmr-shareholding/9602865",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on TotalEnergies' valuation or strategic trajectory, reflecting individual portfolio management rather than corporate sentiment shifts.",
@@ -621,6 +800,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/director-pdmr-shareholding/9602862",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible fundamental impact on TotalEnergies' valuation or strategic trajectory, reflecting standard insider compliance rather than material sentiment shifts.",
@@ -634,6 +814,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/director-pdmr-shareholding/9598260",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry negligible market impact unless they signal a coordinated shift in insider sentiment; without volume or price context, this is standard administrative reporting rather than a strategic signal.",
@@ -647,6 +828,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/director-pdmr-shareholding/9598011",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate market impact, reflecting individual portfolio management rather than corporate strategy shifts in the current integrated oil and gas sector.",
@@ -660,20 +842,29 @@
       "category": null,
       "headline": "TotalEnergies SE: Ordinary and Extraordinary Shareholders’ Meeting on May 29, 2026",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/totalenergies-se-ordinary-and-extraordinary-/9592999",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the date for the Annual General Meeting, which typically involves routine approvals such as dividend payments and director reappointments rather than transformative strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Meeting"
+      ]
     },
     {
       "timestamp": "2026-05-28T07:12:00",
       "category": null,
       "headline": "France: TotalEnergies Files for Authorization of Its Giant Centre Manche Energies Offshore Wind Project",
       "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/france-totalenergies-files-for-authorization-/9589424",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This filing marks a critical regulatory milestone for TotalEnergies' offshore wind ambitions in France, validating the project's viability ahead of final investment decisions and reinforcing its position against rivals like EDF and Engie in the national renewable expansion.",
+      "key_themes": [
+        "Offshore Wind",
+        "Renewable Energy Transition",
+        "Regulatory Approval"
+      ]
     }
   ]
 }

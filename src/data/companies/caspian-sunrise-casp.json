@@ -10,6 +10,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/caspian-sunrise--casp/notice-of-agm/9873601",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,21 @@
       "category": null,
       "headline": "Restoration - Caspian Sunrise Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/caspian-sunrise--casp/restoration-caspian-sunrise-plc/9871975",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "A restoration announcement is a standard administrative procedure to correct share price discrepancies caused by trading errors or data feed issues; it has no fundamental impact on the company's valuation or operational outlook.",
+      "key_themes": [
+        "Administrative",
+        "Share Price Correction"
+      ]
     },
     {
       "timestamp": "2026-11-12T07:01:00",
       "category": "Results",
       "headline": "Interim results for six months ended 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/caspian-sunrise--casp/interim-results-for-six-months-ended-30-june-2026/9871470",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap exploration stage company with no revenue, interim results are primarily operational updates on drilling progress and capital preservation rather than financial performance, reflecting the high-risk, low-liquidity nature of the junior mining sector.",
@@ -43,26 +49,35 @@
       "category": null,
       "headline": "Operational update",
       "url": "https://www.investegate.co.uk/announcement/rns/caspian-sunrise--casp/operational-update/9829326",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Without the specific operational metrics in the update, this is classified as minor administrative noise typical of small-cap exploration updates; CASP remains highly speculative with no near-term catalysts for valuation re-rating.",
+      "key_themes": [
+        "exploration",
+        "small-cap"
+      ]
     },
     {
       "timestamp": "2026-10-15T16:08:00",
       "category": "Acquisition",
       "headline": "Completion of the acquisition of Tau-Cen",
       "url": "https://www.investegate.co.uk/announcement/rns/caspian-sunrise--casp/completion-of-the-acquisition-of-tau-cen-/9825708",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This completion is a procedural milestone for Caspian's existing strategy rather than a transformative event, as Tau-Cen was already integrated into the company's operational framework and valuation models.",
+      "key_themes": [
+        "M&A Completion",
+        "Operational Execution"
+      ]
     },
     {
       "timestamp": "2026-09-30T18:21:00",
       "category": "Results",
       "headline": "Delay to Publication of Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/caspian-sunrise--casp/delay-to-publication-of-interim-results-/9800057",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Delays in interim results for small-cap exploration firms often signal underlying operational hurdles or audit complexities that may mask deteriorating asset quality or cash flow issues, raising red flags for liquidity and governance.",
@@ -76,26 +91,36 @@
       "category": "Acquisition",
       "headline": "Operations, acquisitions & financial reporting",
       "url": "https://www.investegate.co.uk/announcement/rns/caspian-sunrise--casp/operations-acquisitions-financial-reporting/9729676",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The headline's conflation of operations, acquisitions, and financial reporting suggests a low-information administrative update rather than a material transaction; without specific deal value or earnings data, the market impact is likely negligible.",
+      "key_themes": [
+        "Corporate Governance",
+        "Low Impact"
+      ]
     },
     {
       "timestamp": "2026-07-01T07:30:00",
       "category": null,
       "headline": "Suspension - Caspian Sunrise Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/caspian-sunrise--casp/suspension-caspian-sunrise-plc/9646468",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Suspensions of AIM-listed micro-caps like Caspian Sunrise typically signal severe liquidity crises, regulatory breaches, or imminent delisting risks, often preceding a collapse in share value or forced restructuring.",
+      "key_themes": [
+        "liquidity_crisis",
+        "delisting_risk",
+        "governance_concerns"
+      ]
     },
     {
       "timestamp": "2026-06-26T15:25:00",
       "category": "Results",
       "headline": "Delay to Publication of 31 Dec 2025 Results",
       "url": "https://www.investegate.co.uk/announcement/rns/caspian-sunrise--casp/delay-to-publication-of-31-dec-2025-results/9640034",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "A delay in publishing full-year results for a junior exploration company like Caspian Sunrise often signals underlying operational or accounting complexities that may obscure asset valuation, raising red flags for liquidity and investor confidence in the volatile UK AIM mining sector.",

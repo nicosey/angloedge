@@ -10,30 +10,42 @@
       "category": null,
       "headline": "EQS-News: Notice of Interim Payment",
       "url": "https://www.investegate.co.uk/announcement/eqs/lehman-brothers-uk-capital-funding-iii-lp--73yk/eqs-news-notice-of-interim-payment-/9746413",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 1,
+      "insight": "This is a standard administrative notice regarding an interim payment from Lehman Brothers UK Capital Funding III LP, a vehicle associated with the defunct Lehman Brothers entity, carrying no strategic relevance or market-moving potential for current UK equity participants.",
+      "key_themes": [
+        "Administrative",
+        "Legacy Entity"
+      ]
     },
     {
       "timestamp": "2026-08-28T15:30:00",
       "category": null,
       "headline": "Notice of Interim Payment",
       "url": "https://www.investegate.co.uk/announcement/rns/lehman-brothers-uk-capital-funding-iii-lp--73yk/notice-of-interim-payment/9746405",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice regarding an interim distribution from Lehman Brothers UK Capital Funding III LP, a closed-end investment vehicle with no operational equity listed on the main market; it carries no strategic implication for active trading.",
+      "key_themes": [
+        "Administrative",
+        "Closed-End Fund"
+      ]
     },
     {
       "timestamp": "2026-08-05T16:14:00",
       "category": null,
       "headline": "Notice of Proposed Interim Payment",
       "url": "https://www.investegate.co.uk/announcement/rns/lehman-brothers-uk-capital-funding-iii-lp--73yk/notice-of-proposed-interim-payment/9707013",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative notice regarding an interim distribution from Lehman Brothers UK Capital Funding III LP, a closed-end investment vehicle rather than an operating company; it reflects routine liquidity management or portfolio wind-down activities with no strategic implications for the broader market.",
+      "key_themes": [
+        "Closed-End Fund",
+        "Interim Distribution"
+      ]
     }
   ]
 }

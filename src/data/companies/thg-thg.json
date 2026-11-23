@@ -10,6 +10,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/thg--thg/tr-1-notification-of-major-holdings-/9863486",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "TR-1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/thg--thg/tr-1-notification-of-major-holdings/9854022",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": "Director Dealing",
       "headline": "PDMR/PCA Shareholding & TR-1 Notification",
       "url": "https://www.investegate.co.uk/announcement/rns/thg--thg/pdmr-pca-shareholding-tr-1-notification/9839732",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory filing for PDMR/PCA shareholdings with no immediate price-sensitive content; in the current THG context of debt restructuring and operational scrutiny, routine director disclosures are administratively neutral.",
@@ -43,6 +46,7 @@
       "category": null,
       "headline": "TR-1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/thg--thg/tr-1-notification-of-major-holdings/9773957",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,6 +57,7 @@
       "category": "Results",
       "headline": "Notice of Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/thg--thg/notice-of-interim-results/9764053",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As THG undergoes a complex restructuring from a high-growth tech retailer to a stable dividend-paying entity, interim results serve as the critical barometer for margin recovery and debt reduction progress amidst a challenging UK consumer retail landscape.",
@@ -66,40 +71,56 @@
       "category": null,
       "headline": "Capital Reduction Becomes Effective",
       "url": "https://www.investegate.co.uk/announcement/rns/thg--thg/capital-reduction-becomes-effective/9711470",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This administrative capital reduction is a standard housekeeping measure to consolidate THG's share structure following its complex restructuring and demerger of the Beauty business, rather than a strategic value driver.",
+      "key_themes": [
+        "Corporate Governance",
+        "Share Structure"
+      ]
     },
     {
       "timestamp": "2026-07-28T12:12:00",
       "category": null,
       "headline": "Outcome of Court Hearing on Reduction of Capital",
       "url": "https://www.investegate.co.uk/announcement/rns/thg--thg/outcome-of-court-hearing-on-reduction-of-capital/9691538",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Court approval of capital reduction is a critical procedural step for THG's restructuring, enabling the return of surplus cash to shareholders and potentially supporting dividend reinstatement after years of financial distress.",
+      "key_themes": [
+        "Capital Return",
+        "Restructuring"
+      ]
     },
     {
       "timestamp": "2026-06-24T14:45:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/thg--thg/result-of-agm/9634958",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital allocation decisions.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-06-12T07:00:00",
       "category": null,
       "headline": "€445m Term Loan B trading above par at record high",
       "url": "https://www.investegate.co.uk/announcement/rns/thg--thg/-445m-term-loan-b-trading-above-par-at-record-high/9614849",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The trading of THG's debt above par signals improved creditor confidence in the company's restructuring trajectory, yet it remains a secondary market indicator with no direct impact on equity valuation or immediate liquidity.",
+      "key_themes": [
+        "Debt Restructuring",
+        "Credit Markets"
+      ]
     }
   ]
 }

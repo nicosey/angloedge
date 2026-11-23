@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Notification of Half Year 2026 Results",
       "url": "https://www.investegate.co.uk/announcement/rns/gem-diamonds-ltd-di---gemd/notification-of-half-year-2026-results/9742165",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a pure-play diamond miner with high fixed costs and limited operational leverage, Gem Diamonds' half-year results are critical for assessing cash flow resilience amid volatile global demand; this update serves as a vital barometer for the sector's ability to sustain dividends or manage debt without dilutive capital raises.",
@@ -23,6 +24,7 @@
       "category": "Trading Update",
       "headline": "Notification of H1 2026 Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/gem-diamonds-ltd-di---gemd/notification-of-h1-2026-trading-update-/9680711",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a small-cap miner with high operational leverage to diamond price volatility, this H1 update is critical for validating the viability of the Jwaneng mine's transition and cost management strategies amidst current softening global demand.",
@@ -37,20 +39,28 @@
       "category": "Appointment",
       "headline": "Appointment of Chair",
       "url": "https://www.investegate.co.uk/announcement/rns/gem-diamonds-ltd-di---gemd/appointment-of-chair/9600219",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The appointment of a new Chair signals a potential shift in governance strategy for Gem Diamonds as it navigates the operational complexities of the Letlhakane mine and broader diamond market volatility; this is a critical step for stabilizing investor confidence during a period of intense scrutiny on ESG and cost management in the mining sector.",
+      "key_themes": [
+        "Governance",
+        "Mining Sector"
+      ]
     },
     {
       "timestamp": "2026-06-03T12:15:00",
       "category": "AGM/EGM",
       "headline": "Results of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/gem-diamonds-ltd-di---gemd/results-of-annual-general-meeting/9600082",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine shareholder ratification of governance matters carries negligible fundamental impact on Gem Diamonds' operational outlook or valuation, reflecting standard corporate compliance rather than strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     }
   ]
 }

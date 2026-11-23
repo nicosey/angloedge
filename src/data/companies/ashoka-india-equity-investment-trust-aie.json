@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/ashoka-india-equity-investment-trust--aie/holding-s-in-company/9875200",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/ashoka-india-equity-investment-trust--aie/total-voting-rights/9820244",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/ashoka-india-equity-investment-trust--aie/holding-s-in-company/9805056",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,26 +43,36 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/ashoka-india-equity-investment-trust--aie/dividend-declaration/9802582",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a closed-end fund, the dividend declaration is a critical signal of distributable income generation in the volatile Indian equity market; investors will scrutinize whether this payout reflects sustainable underlying NAV performance or reliance on capital gains recycling.",
+      "key_themes": [
+        "closed-end fund",
+        "income distribution",
+        "india exposure"
+      ]
     },
     {
       "timestamp": "2026-09-04T11:07:00",
       "category": null,
       "headline": "Voluntary Redemption of Ordinary Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/ashoka-india-equity-investment-trust--aie/voluntary-redemption-of-ordinary-shares/9756535",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative capital management action for an investment trust, likely aimed at optimizing the discount/premium dynamics or managing liquidity rather than signaling fundamental performance shifts.",
+      "key_themes": [
+        "Capital Management",
+        "Investment Trusts"
+      ]
     },
     {
       "timestamp": "2026-09-04T09:23:00",
       "category": null,
       "headline": "Compliance with Market Abuse Regulation",
       "url": "https://www.investegate.co.uk/announcement/rns/ashoka-india-equity-investment-trust--aie/compliance-with-market-abuse-regulation/9756286",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,16 +83,21 @@
       "category": null,
       "headline": "Voluntary Redemption of Ordinary Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/ashoka-india-equity-investment-trust--aie/voluntary-redemption-of-ordinary-shares/9711654",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative closure of the company's share class following its transition to an open-ended fund (OEIC), reflecting the final stage of the merger with Ashoka India Equity Income Trust rather than a new strategic event.",
+      "key_themes": [
+        "Fund Closure",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-04T10:37:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/ashoka-india-equity-investment-trust--aie/director-pdmr-shareholding/9703834",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard administrative filings with negligible immediate market impact; however, sustained insider buying in closed-end funds like AIE can signal management confidence in the underlying Indian equity portfolio's valuation.",
@@ -93,6 +111,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/ashoka-india-equity-investment-trust--aie/director-pdmr-shareholding/9657033",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine disclosure of individual director transactions in a closed-end investment trust typically carries negligible market impact unless the volume is substantial relative to float; without specific deal details, this remains an administrative filing with no strategic implication for AIE's NAV or mandate.",

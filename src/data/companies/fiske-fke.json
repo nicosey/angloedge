@@ -10,16 +10,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/fiske--fke/result-of-agm/9875063",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting confirmation of shareholder resolutions with no new strategic directives or capital allocation changes implied; routine AGM outcomes typically have negligible immediate impact on FKE's valuation unless specific dissenting votes signal governance risks.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-10-16T15:13:00",
       "category": "Director Dealing",
       "headline": "Director Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/fiske--fke/director-dealing/9827894",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in the small-cap space typically signal minimal immediate market impact unless accompanied by significant volume or insider cluster activity; without transaction specifics, this remains an administrative disclosure with negligible price sensitivity.",
@@ -33,10 +38,15 @@
       "category": null,
       "headline": "Change of Nominated Adviser",
       "url": "https://www.investegate.co.uk/announcement/rns/fiske--fke/change-of-nominated-adviser/9697111",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "In the UK AIM market, changing a Nomad is often a precursor to seeking a new listing venue or addressing governance concerns, signaling potential strategic shifts rather than routine administration.",
+      "key_themes": [
+        "AIM",
+        "Governance",
+        "Strategic Shift"
+      ]
     }
   ]
 }

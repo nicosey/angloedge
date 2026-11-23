@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/mercia-asset-management--merc/transaction-in-own-shares/9882944",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,26 +21,36 @@
       "category": null,
       "headline": "Warwick Acoustics increases production",
       "url": "https://www.investegate.co.uk/announcement/rns/mercia-asset-management--merc/warwick-acoustics-increases-production/9878254",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a portfolio-level operational update for Warwick Acoustics rather than a group-wide catalyst; as a niche luxury audio brand within Mercia's private equity holdings, increased production signals demand but lacks the scale to materially alter MERC's consolidated financials or valuation multiples.",
+      "key_themes": [
+        "Portfolio Update",
+        "Private Equity",
+        "Consumer Discretionary"
+      ]
     },
     {
       "timestamp": "2026-11-04T07:00:00",
       "category": null,
       "headline": "Presentation at MelloLondon 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/mercia-asset-management--merc/presentation-at-mellolondon-2026/9856987",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard investor relations activity with no immediate financial impact; while it offers visibility into the firm's strategy for its private equity and infrastructure assets, it lacks the materiality of earnings or M&A news.",
+      "key_themes": [
+        "Investor Relations",
+        "Corporate Communications"
+      ]
     },
     {
       "timestamp": "2026-11-03T07:00:00",
       "category": null,
       "headline": "SAYE options exercise and Treasury Shares Transfer",
       "url": "https://www.investegate.co.uk/announcement/rns/mercia-asset-management--merc/saye-options-exercise-and-treasury-shares-transfer/9854647",
+      "routine_type": "Treasury Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +61,7 @@
       "category": "Results",
       "headline": "Notice of Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/mercia-asset-management--merc/notice-of-interim-results/9830667",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a key player in the UK private equity and infrastructure space, Mercia's interim results provide critical visibility into the performance of its long-dated assets and fee income streams amid rising interest rates. The market will scrutinize asset valuations and liquidity metrics to gauge resilience against the current cost-of-capital environment.",
@@ -64,6 +76,7 @@
       "category": "Director Dealing",
       "headline": "Grant of Options to PDMR",
       "url": "https://www.investegate.co.uk/announcement/rns/mercia-asset-management--merc/grant-of-options-to-pdmr/9820110",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard administrative grant of options to a Person Discharging Managerial Responsibilities (PDMR), reflecting routine internal remuneration structures rather than any new strategic direction or insider conviction signal.",
@@ -77,16 +90,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/mercia-asset-management--merc/result-of-agm/9789367",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting confirmation of shareholder approvals for routine governance matters, offering no new strategic direction or financial data to influence valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-09-18T18:12:00",
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/mercia-asset-management--merc/tr-1-notification-of-major-holdings-/9780611",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -97,6 +115,7 @@
       "category": null,
       "headline": "TR-1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/mercia-asset-management--merc/tr-1-notification-of-major-holdings/9750649",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -107,6 +126,7 @@
       "category": null,
       "headline": "TR-1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/mercia-asset-management--merc/tr-1-notification-of-major-holdings/9750413",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -117,6 +137,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/mercia-asset-management--merc/director-pdmr-shareholding/9733056",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Mercia's valuation or strategy, reflecting normal liquidity management rather than a signal of insider sentiment.",
@@ -130,6 +151,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/mercia-asset-management--merc/transaction-in-own-shares/9730751",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -140,26 +162,37 @@
       "category": null,
       "headline": "New Metro Bank facilities",
       "url": "https://www.investegate.co.uk/announcement/rns/mercia-asset-management--merc/new-metro-bank-facilities/9683034",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The expansion of credit facilities with Metro Bank signals Mercia's intent to accelerate its buyout fund deployment in a competitive market, validating the firm's active investment strategy despite broader macroeconomic headwinds affecting private equity valuations.",
+      "key_themes": [
+        "Private Equity",
+        "Capital Deployment",
+        "Liquidity"
+      ]
     },
     {
       "timestamp": "2026-06-25T07:00:00",
       "category": null,
       "headline": "Significant new investment into Warwick Acoustics",
       "url": "https://www.investegate.co.uk/announcement/rns/mercia-asset-management--merc/significant-new-investment-into-warwick-acoustics/9635573",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This investment highlights Mercia's active deployment of capital into the high-growth UK tech sector, reinforcing its strategy to capture value in deep-tech hardware and AI infrastructure amidst a broader market shift towards domestic innovation.",
+      "key_themes": [
+        "UK Tech",
+        "Portfolio Expansion",
+        "Deep Tech"
+      ]
     },
     {
       "timestamp": "2026-06-17T07:00:00",
       "category": null,
       "headline": "Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/mercia-asset-management--merc/investor-presentation-/9621957",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,

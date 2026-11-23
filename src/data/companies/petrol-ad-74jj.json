@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/petrol-ad--74jj/notice-of-results-/9824804",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the publication of results rather than the results themselves; without the accompanying financial data, it carries no immediate market-moving weight for PETROL AD.",
@@ -23,36 +24,49 @@
       "category": null,
       "headline": "Notice of Adjourned Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/petrol-ad--74jj/notice-of-adjourned-meeting/9801772",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "An adjourned meeting is a procedural delay rather than a substantive event, typically indicating ongoing negotiations or administrative hurdles without immediate market-moving consequences for PETROL AD.",
+      "key_themes": [
+        "Corporate Governance",
+        "Procedural"
+      ]
     },
     {
       "timestamp": "2026-09-09T10:59:00",
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/petrol-ad--74jj/half-year-financial-report/9763394",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a micro-cap with limited liquidity, this interim report provides essential visibility into operational health but lacks the scale to move broader market indices; investors will scrutinize cash flow stability given the sector's sensitivity to fuel price volatility and regulatory shifts.",
+      "key_themes": [
+        "interim results",
+        "micro-cap liquidity"
+      ]
     },
     {
       "timestamp": "2026-09-09T08:27:00",
       "category": null,
       "headline": "Notice of Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/petrol-ad--74jj/notice-of-meeting-/9762983",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "A standard notice of meeting is an administrative procedural step rather than a substantive corporate event; the actual market impact depends entirely on the agenda items to be discussed at the forthcoming gathering.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-17T12:10:00",
       "category": "Results",
       "headline": "1st Quarter Results",
       "url": "https://www.investegate.co.uk/announcement/rns/petrol-ad--74jj/1st-quarter-results-/9623534",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap with limited liquidity, this Q1 update provides essential visibility into operational momentum, though it lacks the transformative catalysts required for a higher impact score.",
@@ -66,10 +80,14 @@
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/petrol-ad--74jj/annual-financial-report/9623432",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a micro-cap with negligible liquidity and market presence, this annual report is unlikely to move the broader UK equity markets; it serves primarily as a compliance exercise for existing shareholders rather than a catalyst for institutional interest.",
+      "key_themes": [
+        "Micro-cap",
+        "Regulatory Compliance"
+      ]
     }
   ]
 }

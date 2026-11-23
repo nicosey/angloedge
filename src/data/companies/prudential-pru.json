@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/director-pdmr-shareholding/9872260",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in Prudential are typically low-impact administrative events rather than signals of strategic shift, especially given the company's focus on long-term Asian growth and recent capital return initiatives.",
@@ -23,6 +24,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/director-pdmr-shareholding/9863401",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions, which carries negligible market impact compared to institutional flows or group strategy shifts in the competitive Asian life insurance sector.",
@@ -36,6 +38,7 @@
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/admission-to-trading/9855571",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -46,6 +49,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/director-pdmr-shareholding/9854508",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions rather than a strategic corporate action; without context on the direction (buy/sell) or volume relative to total holdings, it holds no immediate pricing implication for PRU.",
@@ -59,6 +63,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/director-pdmr-shareholding/9854499",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible impact on PRU's valuation or strategic direction, as they do not signal significant insider sentiment shifts compared to broader market drivers like interest rates and Asian insurance demand.",
@@ -72,6 +77,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/total-voting-rights/9851058",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -82,6 +88,7 @@
       "category": null,
       "headline": "Final Terms USD 850,000,000 Subordinated Notes",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/final-terms-usd-850-000-000-subordinated-notes/9850963",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -92,6 +99,7 @@
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/admission-to-trading/9839023",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -102,6 +110,7 @@
       "category": null,
       "headline": "Admission of shares to trading",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/admission-of-shares-to-trading/9834000",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -112,6 +121,7 @@
       "category": null,
       "headline": "Final Terms CNY 1,000,000,000 Subordinated Notes",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/final-terms-cny-1-000-000-000-subordinated-notes-/9825806",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -122,6 +132,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/director-pdmr-shareholding/9822362",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions, which carries negligible fundamental weight for Prudential's valuation or strategy compared to institutional flows or group-wide performance metrics.",
@@ -135,26 +146,35 @@
       "category": "Dividend",
       "headline": "Dividend Rate Achieved",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/dividend-rate-achieved/9815708",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative confirmation of the dividend rate rather than a policy change, offering no new strategic signal amidst Prudential's ongoing transition to a pure-play Asian insurer.",
+      "key_themes": [
+        "Corporate Action",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-10-09T09:49:00",
       "category": null,
       "headline": "Company Secretary Change",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/company-secretary-change/9815611",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing regarding corporate governance structure rather than a strategic shift in Prudential's core insurance or asset management operations. Such changes are routine for FTSE 100 firms and carry no immediate implication for earnings or valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-10-08T15:31:00",
       "category": null,
       "headline": "Publication of a Supplementary Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/publication-of-a-supplementary-prospectus/9814254",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -165,36 +185,49 @@
       "category": "Dividend",
       "headline": "New shares to be issued for scrip dividend",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/new-shares-to-be-issued-for-scrip-dividend/9811322",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative update regarding the Prudential Scrip Dividend Scheme, allowing shareholders to elect new shares over cash; it carries no fundamental valuation impact or strategic shift for the insurer.",
+      "key_themes": [
+        "Capital Allocation",
+        "Shareholder Returns"
+      ]
     },
     {
       "timestamp": "2026-10-05T17:49:00",
       "category": null,
       "headline": "Overseas Regulatory Announcement - Option Grant",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/overseas-regulatory-announcement-option-grant/9807542",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding executive compensation rather than a material corporate event; such option grants are routine in the UK insurance sector and do not signal strategic shifts or financial performance changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Remuneration"
+      ]
     },
     {
       "timestamp": "2026-10-05T17:43:00",
       "category": null,
       "headline": "Overseas Regulatory Announcement - Option Grant",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/overseas-regulatory-announcement-option-grant/9807539",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard executive compensation disclosure with no material impact on Prudential's financials or strategic direction, reflecting routine governance practices common in FTSE 100 insurance firms.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Remuneration"
+      ]
     },
     {
       "timestamp": "2026-10-02T09:28:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/director-pdmr-shareholding/9804199",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on PRU's valuation or strategic direction, reflecting normal liquidity management rather than significant insider sentiment shifts.",
@@ -208,6 +241,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/total-voting-rights/9799010",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -218,6 +252,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/director-pdmr-shareholding/9789140",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on PRU's valuation or strategic trajectory, reflecting individual portfolio management rather than corporate signal.",
@@ -231,16 +266,21 @@
       "category": null,
       "headline": "Scrip Reference Price",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/scrip-reference-price/9777499",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure required for the Prudential Scrip Dividend Scheme, establishing the reference price for share issuance rather than indicating new strategic direction or financial performance.",
+      "key_themes": [
+        "Corporate Action",
+        "Dividend Policy"
+      ]
     },
     {
       "timestamp": "2026-09-17T09:43:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/holding-s-in-company/9777389",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -251,6 +291,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/holding-s-in-company/9774112",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -261,6 +302,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/holding-s-in-company/9773952",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -271,6 +313,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/holding-s-in-company/9773951",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -281,6 +324,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/director-pdmr-shareholding/9770271",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Prudential's valuation or strategic direction, reflecting individual portfolio management rather than corporate sentiment.",
@@ -294,6 +338,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/holding-s-in-company/9769115",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -304,16 +349,22 @@
       "category": "Results",
       "headline": "Half-year Report",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/half-year-report-/9751544",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a core FTSE 100 life insurer, PRU's half-year results provide critical visibility on UK annuity pricing and Asian growth trajectories; any deviation in statutory capital or dividend guidance will immediately recalibrate sector valuations amid rising rate uncertainty.",
+      "key_themes": [
+        "Interim Results",
+        "Life Insurance",
+        "UK Equities"
+      ]
     },
     {
       "timestamp": "2026-09-02T07:00:00",
       "category": "Share Buyback",
       "headline": "Update on share buyback programme",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/update-on-share-buyback-programme/9750393",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "This update signals continued capital allocation discipline within Prudential's UK life & pensions segment, reflecting a mature market environment where buybacks are used to offset structural headwinds and support EPS growth rather than aggressive expansion.",
@@ -328,6 +379,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/total-voting-rights/9746552",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -338,46 +390,64 @@
       "category": null,
       "headline": "Sale of stake in ICICI Prudential Asset Management",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/sale-of-stake-in-icici-prudential-asset-management/9743405",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This divestment aligns with Prudential's ongoing strategy to streamline its Asian footprint and unlock shareholder value by reducing exposure to the Indian AMC market, reflecting a broader trend of Western insurers rationalizing joint ventures in high-growth but capital-intensive regions.",
+      "key_themes": [
+        "Asset Management",
+        "Strategic Divestment",
+        "Asia Pacific"
+      ]
     },
     {
       "timestamp": "2026-08-27T10:19:00",
       "category": null,
       "headline": "Overseas Regulatory Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/overseas-regulatory-announcement/9743400",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Generic regulatory filings for Prudential typically involve standard disclosures with negligible immediate market impact; without specific details on the nature of the overseas regulation, it is classified as routine administrative noise rather than a strategic catalyst.",
+      "key_themes": [
+        "regulatory_compliance",
+        "low_impact"
+      ]
     },
     {
       "timestamp": "2026-08-27T07:00:00",
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/dividend-declaration/9742189",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a core income stock, the dividend declaration directly influences yield-seeking investor sentiment and total return expectations, though it is a routine capital allocation event rather than a transformative strategic shift.",
+      "key_themes": [
+        "Income",
+        "Capital Allocation"
+      ]
     },
     {
       "timestamp": "2026-08-26T11:17:00",
       "category": null,
       "headline": "Sale of stake in ICICI Prudential Asset Management",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/sale-of-stake-in-icici-prudential-asset-management/9741252",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This divestment aligns with Prudential's ongoing strategy to streamline its Asian footprint and focus on core UK and US markets, though the specific valuation and proceeds will dictate the immediate financial impact.",
+      "key_themes": [
+        "Portfolio Rationalization",
+        "Asian Markets"
+      ]
     },
     {
       "timestamp": "2026-08-12T09:24:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/director-pdmr-shareholding/9717899",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on PRU's valuation or strategic direction, reflecting individual portfolio management rather than corporate sentiment shifts.",
@@ -391,6 +461,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/total-voting-rights/9698344",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -401,6 +472,7 @@
       "category": null,
       "headline": "Admission of Further Securities to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/admission-of-further-securities-to-trading/9674835",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -411,6 +483,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/director-pdmr-shareholding/9670244",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on PRU's valuation or strategic trajectory, reflecting individual portfolio management rather than corporate signal.",
@@ -424,6 +497,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/total-voting-rights/9644481",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -434,6 +508,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/director-pdmr-shareholding/9639121",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual insider transactions rather than a corporate strategy signal; in the current UK insurance sector context, such routine filings have negligible impact on PRU's valuation or strategic trajectory.",
@@ -447,6 +522,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/director-pdmr-shareholding/9617117",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director transactions which lacks the scale or strategic weight to influence institutional positioning or share price dynamics.",
@@ -460,6 +536,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/director-pdmr-shareholding/9616038",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions, which carries negligible impact on Prudential's valuation or strategic direction compared to broader macro trends in UK life insurance margins and capital allocation.",
@@ -473,6 +550,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/director-pdmr-shareholding/9609622",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible impact on PRU's valuation or strategic direction, reflecting individual portfolio management rather than corporate sentiment.",
@@ -486,26 +564,35 @@
       "category": null,
       "headline": "Overseas Regulatory Announcement - Awards Grant",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/overseas-regulatory-announcement-awards-grant/9605193",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding executive compensation awards, typical for FTSE 100 insurers like Prudential and devoid of material financial or strategic implications.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Remuneration"
+      ]
     },
     {
       "timestamp": "2026-06-05T18:08:00",
       "category": null,
       "headline": "Overseas Regulatory Announcement - Awards Grant",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/overseas-regulatory-announcement-awards-grant/9605192",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding employee share awards, common in the UK insurance sector's compensation structures, and carries no material implication for PRU's financial performance or strategic direction.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Compensation"
+      ]
     },
     {
       "timestamp": "2026-06-04T11:21:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/director-pdmr-shareholding/9602142",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions, which carries negligible immediate impact on Prudential's valuation or strategic direction compared to broader macro trends in the Asian insurance sector.",
@@ -519,6 +606,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/total-voting-rights/9592255",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -529,26 +617,35 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/result-of-agm/9590478",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-AGM filing confirming the ratification of routine resolutions; as no substantive strategic shifts or capital actions were announced, it carries negligible immediate impact on PRU's valuation or operational trajectory.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-05-28T12:04:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/result-of-agm/9590277",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting confirmation of shareholder votes for routine resolutions, carrying no new strategic direction or financial data. Such announcements are administrative formalities with zero implication for PRU's valuation or operational trajectory.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-05-27T13:20:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/prudential--pru/director-pdmr-shareholding/9588036",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on PRU's valuation or strategic direction, reflecting standard liquidity management rather than significant insider sentiment shifts.",

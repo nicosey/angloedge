@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "AGM Results 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/sure-ventures--sure/agm-results-2026-/9784365",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap AIM listing with historically low liquidity and limited institutional coverage, the publication of AGM results serves primarily as a compliance milestone rather than a catalyst for significant price discovery or strategic shift.",
@@ -23,40 +24,58 @@
       "category": "AGM/EGM",
       "headline": "AGM Notification",
       "url": "https://www.investegate.co.uk/announcement/rns/sure-ventures--sure/agm-notification-/9750531",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for Sure Ventures (SURE), a micro-cap entity with negligible market liquidity and no significant institutional following; AGM notifications are routine corporate governance requirements that carry zero intrinsic valuation impact.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap"
+      ]
     },
     {
       "timestamp": "2026-07-29T18:18:00",
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/sure-ventures--sure/annual-financial-report/9694528",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a micro-cap with limited liquidity and no major strategic shifts indicated by a standard annual report filing, the market impact is negligible compared to transformative events like M&A or profit warnings.",
+      "key_themes": [
+        "Annual Report",
+        "Micro-cap"
+      ]
     },
     {
       "timestamp": "2026-06-30T07:00:00",
       "category": null,
       "headline": "Q1 2026 NAV Calculation and portfolio update",
       "url": "https://www.investegate.co.uk/announcement/rns/sure-ventures--sure/q1-2026-nav-calculation-and-portfolio-update/9643054",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine quarterly NAV updates for small-cap investment trusts like Sure Ventures are standard administrative disclosures with negligible immediate market impact unless they signal a significant discount widening or premium compression relative to peers.",
+      "key_themes": [
+        "NAV disclosure",
+        "Small cap",
+        "Investment trust"
+      ]
     },
     {
       "timestamp": "2026-06-10T08:00:00",
       "category": null,
       "headline": "Up to €49 million investment in CameraMatics",
       "url": "https://www.investegate.co.uk/announcement/rns/sure-ventures--sure/up-to-49-million-investment-in-cameramatics/9610837",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The €49m investment signals aggressive capital deployment into the high-growth computer vision sector, aiming to accelerate product development and market penetration for Sure Ventures' AI initiatives.",
+      "key_themes": [
+        "AI",
+        "Capital Raise",
+        "Strategic Investment"
+      ]
     }
   ]
 }

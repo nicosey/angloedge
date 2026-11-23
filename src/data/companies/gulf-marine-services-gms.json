@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "3rd Quarter Results",
       "url": "https://www.investegate.co.uk/announcement/rns/gulf-marine-services--gms/3rd-quarter-results/9830630",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap with limited liquidity, GMS's quarterly results provide essential visibility into the niche offshore marine support sector's resilience amid fluctuating North Sea capex cycles, though without major M&A or guidance shifts, the market impact remains contained.",
@@ -24,6 +25,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/gulf-marine-services--gms/holding-s-in-company/9766207",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -34,6 +36,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/gulf-marine-services--gms/holding-s-in-company/9744379",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -44,10 +47,14 @@
       "category": "AGM/EGM",
       "headline": "Results of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/gulf-marine-services--gms/results-of-agm-/9625978",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director re-election and auditor appointment rather than strategic shifts or capital allocation changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     }
   ]
 }

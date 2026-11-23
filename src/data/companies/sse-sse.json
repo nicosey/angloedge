@@ -10,26 +10,35 @@
       "category": "Dividend",
       "headline": "SSEN Distribution publishes ED3 business plan",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/ssen-distribution-publishes-ed3-business-plan-/9886217",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The ED3 business plan sets the regulatory revenue cap for SSEN's transmission assets, directly determining SSE's regulated income stream and dividend sustainability through 2035 amid rising capital expenditure requirements.",
+      "key_themes": [
+        "Regulatory Framework",
+        "Utility Revenue"
+      ]
     },
     {
       "timestamp": "2026-11-18T07:08:00",
       "category": "Results",
       "headline": "Interim Report",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/interim-report/9880837",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Interim results for a regulated utility like SSE are typically routine but critical for dividend sustainability; any deviation in net debt covenants or regulated asset base (RAB) growth signals potential margin pressure from inflation or interest rates.",
+      "key_themes": [
+        "Utility Regulation",
+        "Dividend Sustainability"
+      ]
     },
     {
       "timestamp": "2026-11-10T11:30:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/director-pdmr-shareholding/9867849",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on SSE's valuation or strategic direction, reflecting normal insider activity rather than a signal of fundamental change in the UK utility sector.",
@@ -43,16 +52,21 @@
       "category": null,
       "headline": "Notification of Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/notification-of-admission-to-trading-/9851523",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notification regarding the listing of new shares, likely resulting from an existing employee share scheme or convertible instrument exercise rather than a primary capital raise. It carries negligible fundamental impact on SSE's valuation or strategic direction.",
+      "key_themes": [
+        "Administrative",
+        "Share Listing"
+      ]
     },
     {
       "timestamp": "2026-10-30T17:22:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/total-voting-rights/9851517",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,6 +77,7 @@
       "category": "Share Buyback",
       "headline": "Non-Discretionary Share Buyback Programme",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/non-discretionary-share-buyback-programme/9816604",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Non-discretionary buybacks are typically triggered by vesting conditions of employee share plans rather than active capital allocation strategy, offering minimal signal regarding management's view on intrinsic value or future cash flow generation.",
@@ -76,6 +91,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/director-pdmr-shareholding/9816542",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on SSE's valuation or operational trajectory in the current regulated utility environment.",
@@ -89,6 +105,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/director-pdmr-shareholding/9813833",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director transactions which lacks the scale or strategic weight to influence SSE's valuation or operational trajectory in the current utility sector context.",
@@ -102,6 +119,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/director-pdmr-shareholding/9804336",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions with no material implication for SSE's strategic direction or valuation. In the current UK utility sector context, such routine filings are common and do not signal insider sentiment shifts regarding the company's performance.",
@@ -115,6 +133,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/director-pdmr-shareholding/9784996",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on SSE's valuation or operational trajectory in the current regulated utilities environment.",
@@ -128,6 +147,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/director-pdmr-shareholding/9782991",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on SSE's valuation or operational trajectory, especially given the utility sector's focus on regulated asset base returns rather than short-term insider sentiment.",
@@ -141,6 +161,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/director-pdmr-shareholding/9759396",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on SSE's valuation or operational trajectory, especially given the current focus on regulated asset base (RAB) stability and renewable investment cycles.",
@@ -154,26 +175,35 @@
       "category": null,
       "headline": "2026 Investor Relations Event",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/2026-investor-relations-event/9750536",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard investor relations scheduling notice with no immediate financial data release; while it signals ongoing engagement in the UK utility sector, it lacks the transformative catalysts or material price-sensitive information required for significant market movement.",
+      "key_themes": [
+        "Investor Relations",
+        "Corporate Communications"
+      ]
     },
     {
       "timestamp": "2026-08-26T16:26:00",
       "category": null,
       "headline": "Scrip Alternative",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/scrip-alternative-/9741939",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "SSE's scrip dividend scheme is a standard capital management tool used to retain cash for grid investment while offering shareholders equity upside; it signals no immediate need for external debt financing but offers limited near-term catalyst for share price appreciation compared to core energy market dynamics.",
+      "key_themes": [
+        "Capital Allocation",
+        "Dividend Policy"
+      ]
     },
     {
       "timestamp": "2026-08-07T12:18:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/director-pdmr-shareholding/9711229",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry minimal market impact unless they signal a coordinated shift in insider sentiment; without volume context or specific buy/sell direction, this is standard administrative reporting rather than a strategic indicator.",
@@ -187,16 +217,22 @@
       "category": "Dividend",
       "headline": "Scrip Dividend Scheme",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/scrip-dividend-scheme-/9696275",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The introduction of a scrip dividend scheme for SSE plc signals a pragmatic approach to capital preservation in the face of high interest rates and heavy infrastructure capex requirements. This aligns with broader UK utility sector trends where firms are prioritizing balance sheet strength over cash outflows to fund the energy transition.",
+      "key_themes": [
+        "Capital Allocation",
+        "Utility Sector Trends",
+        "Balance Sheet Management"
+      ]
     },
     {
       "timestamp": "2026-07-29T11:06:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/eqs/sse--sse/holding-s-in-company/9693729",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -207,6 +243,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/holding-s-in-company/9693691",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -217,6 +254,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/holding-s-in-company/9693687",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -227,6 +265,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/director-pdmr-shareholding/9677353",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on SSE's valuation or operational trajectory in the current UK utility sector.",
@@ -240,26 +279,35 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/result-of-agm/9673306",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at SSE's Annual General Meeting, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital allocation changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-07-16T07:00:00",
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/directorate-change/9671304",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative updates to the board composition are standard governance practices for SSE and carry negligible immediate financial impact on its regulated utility operations or dividend profile.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-07-16T07:00:00",
       "category": "Trading Update",
       "headline": "Q1 Trading Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/q1-trading-statement/9671272",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a regulated utility with high dividend yield appeal, any deviation in Q1 performance directly impacts income-focused investor sentiment and validates the efficacy of the current regulatory price control framework.",
@@ -273,6 +321,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/director-pdmr-shareholding/9670438",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on SSE's valuation or operational trajectory, reflecting individual portfolio management rather than corporate strategy shifts.",
@@ -286,6 +335,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/director-pdmr-shareholding/9661841",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on SSE's valuation or operational trajectory, reflecting individual portfolio management rather than corporate strategy shifts.",
@@ -299,6 +349,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/director-pdmr-shareholding/9656733",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on SSE's valuation or operational trajectory within the volatile UK utility sector.",
@@ -312,26 +363,35 @@
       "category": null,
       "headline": "Notification of Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/notification-of-admission-to-trading-/9656568",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notification regarding the admission of new shares to trading, likely resulting from an existing option scheme or placement, rather than a strategic capital raise or M&A event.",
+      "key_themes": [
+        "Administrative",
+        "Share Capital"
+      ]
     },
     {
       "timestamp": "2026-06-30T10:14:00",
       "category": null,
       "headline": "SSEN Transmission welcomes ‘Beyond 2030 Update’",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/ssen-transmission-welcomes-beyond-2030-update-/9644379",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard regulatory alignment update for SSEN Transmission regarding the RIIO-ED2 price control period, reflecting routine operational planning rather than a material financial event or strategic shift.",
+      "key_themes": [
+        "Regulatory Update",
+        "Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-06-17T08:54:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/director-pdmr-shareholding/9622964",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on SSE's valuation or strategic direction, especially given the utility sector's current focus on regulated asset base returns rather than executive share movements.",
@@ -345,26 +405,36 @@
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/annual-financial-report/9616335",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a key UK utility, SSE's annual results provide critical visibility into regulated asset base (RAB) returns and renewable investment pipelines amidst rising interest rates; the market will scrutinize dividend sustainability and capital allocation between legacy gas assets and net-zero transition projects.",
+      "key_themes": [
+        "Utility Regulation",
+        "Renewable Investment",
+        "Dividend Policy"
+      ]
     },
     {
       "timestamp": "2026-06-09T15:47:00",
       "category": null,
       "headline": "Notification of Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/notification-of-admission-to-trading/9609761",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the listing of new shares, likely resulting from an existing share option scheme or dividend reinvestment plan rather than a primary capital raise. Without accompanying details on volume or pricing, it carries negligible immediate market impact compared to strategic M&A or earnings events.",
+      "key_themes": [
+        "Administrative",
+        "Share Listing"
+      ]
     },
     {
       "timestamp": "2026-06-05T12:39:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/director-pdmr-shareholding/9604767",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on SSE's valuation or operational trajectory in the current UK utility sector context.",
@@ -378,16 +448,21 @@
       "category": null,
       "headline": "Issue of Hybrid Capital Securities",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/issue-of-hybrid-capital-securities-/9598073",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This issuance allows SSE to optimize its capital structure by replacing expensive debt with cheaper hybrid equity, a common strategy among UK utilities managing high interest rates and regulatory constraints on dividends.",
+      "key_themes": [
+        "Capital Structure",
+        "Cost of Capital"
+      ]
     },
     {
       "timestamp": "2026-06-01T12:30:00",
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/admission-to-trading/9595222",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -398,6 +473,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/total-voting-rights/9595202",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -408,6 +484,7 @@
       "category": "Results",
       "headline": "Preliminary Results",
       "url": "https://www.investegate.co.uk/announcement/rns/sse--sse/preliminary-results-/9588674",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a key UK utility, SSE's results directly influence the broader energy sector sentiment and dividend yields for income-focused investors, though regulatory price caps and wholesale volatility remain the primary drivers of valuation rather than the announcement itself.",

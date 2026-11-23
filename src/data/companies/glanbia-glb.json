@@ -10,26 +10,35 @@
       "category": "AGM/EGM",
       "headline": "Publication of AGM Date",
       "url": "https://www.investegate.co.uk/announcement/rns/glanbia-cdi---glb/publication-of-agm-date-/9886640",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the AGM date for Glanbia (CDI), which carries no immediate financial impact or strategic shift. Routine governance events of this nature are common in UK equity markets and do not signal new catalysts for valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-10T07:00:00",
       "category": "Appointment",
       "headline": "Glanbia appoints Wendy ChangSmith as CFO Designate",
       "url": "https://www.investegate.co.uk/announcement/rns/glanbia-cdi---glb/glanbia-appoints-wendy-changsmith-as-cfo-designate/9764354",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This appointment signals a strategic pivot toward financial engineering and cost discipline within the agri-food sector, likely aimed at optimizing capital structure following Glanbia's aggressive acquisition phase. It reflects a broader industry trend of consolidating leadership to drive margin expansion amid volatile input costs.",
+      "key_themes": [
+        "Leadership Change",
+        "Financial Strategy"
+      ]
     },
     {
       "timestamp": "2026-08-11T15:02:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/glanbia-cdi---glb/director-pdmr-shareholding/9716365",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry negligible market impact unless they signal a coordinated shift in insider sentiment; without context on volume or direction, this is standard administrative compliance rather than a strategic indicator.",
@@ -43,6 +52,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/glanbia-cdi---glb/total-voting-rights/9698142",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,6 +63,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/glanbia-cdi---glb/transaction-in-own-shares/9671276",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,6 +74,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/glanbia-cdi---glb/total-voting-rights/9645135",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,16 +85,21 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/glanbia-cdi---glb/directorate-change/9626225",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative changes to the board composition of a FTSE 250 dairy cooperative have negligible immediate financial impact, as Glanbia's valuation is primarily driven by global commodity milk prices and operational efficiency rather than governance structure.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-06-17T14:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/glanbia-cdi---glb/director-pdmr-shareholding/9623714",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry negligible market impact unless they signal a coordinated shift in insider sentiment, which is not evident here given the standard nature of the filing.",
@@ -96,6 +113,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/glanbia-cdi---glb/holding-s-in-company/9621223",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -106,6 +124,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/glanbia-cdi---glb/transaction-in-own-shares/9617094",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -116,36 +135,51 @@
       "category": null,
       "headline": "Result -Tirlán Equity Placement&Off MarketPurchase",
       "url": "https://www.investegate.co.uk/announcement/rns/glanbia-cdi---glb/result-tirl-n-equity-placement-off-marketpurchase/9614959",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The equity placement signals a need for immediate liquidity or balance sheet strengthening amidst the dairy sector's prolonged margin compression and input cost volatility. This off-market purchase complements the raise by managing dilution, suggesting management is prioritizing financial resilience over aggressive growth in a challenging agricultural cycle.",
+      "key_themes": [
+        "Capital Raising",
+        "Shareholder Dilution",
+        "Dairy Sector Headwinds"
+      ]
     },
     {
       "timestamp": "2026-06-12T07:00:00",
       "category": null,
       "headline": "RESULT OF SECONDARY SHARE SALE",
       "url": "https://www.investegate.co.uk/announcement/rns/glanbia-cdi---glb/result-of-secondary-share-sale/9614842",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Secondary share sales by existing shareholders are typically non-dilutive capital events that signal no immediate change in corporate control or strategy, often viewed as neutral to slightly negative due to potential supply overhang.",
+      "key_themes": [
+        "shareholder liquidity",
+        "neutral capital action"
+      ]
     },
     {
       "timestamp": "2026-06-11T17:06:00",
       "category": null,
       "headline": "Tirlán Equity Placement and Off Market Purchase",
       "url": "https://www.investegate.co.uk/announcement/rns/glanbia-cdi---glb/tirl-n-equity-placement-and-off-market-purchase/9614534",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The off-market purchase of Glanbia's CDI by Tirlán signals a definitive end to the dual-class share structure and resolves long-standing governance fragmentation, aligning with broader sector trends toward unified ownership in agri-cooperatives.",
+      "key_themes": [
+        "Corporate Governance",
+        "Capital Structure",
+        "Agri-food Sector"
+      ]
     },
     {
       "timestamp": "2026-06-11T17:06:00",
       "category": "Placing",
       "headline": "PROPOSED SECONDARY PLACING & DIRECTED BUYBACK",
       "url": "https://www.investegate.co.uk/announcement/rns/glanbia-cdi---glb/proposed-secondary-placing-directed-buyback-/9614533",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "The combination of a secondary placing and directed buyback signals aggressive capital recycling to return cash to shareholders while potentially diluting existing equity; this structure is often used to manage liquidity without committing to a permanent dividend increase, reflecting cautious confidence in the dairy sector's margin stability.",
@@ -160,6 +194,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/glanbia-cdi---glb/total-voting-rights/9598122",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

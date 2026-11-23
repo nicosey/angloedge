@@ -10,40 +10,60 @@
       "category": "Appointment",
       "headline": "Notice of Auditor Resignation",
       "url": "https://www.investegate.co.uk/announcement/rns/coventry-and-rugby-hospital-company-plc--51vz/notice-of-auditor-resignation/9872373",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Auditor resignations in the PFI/PPP sector often signal underlying disputes over revenue recognition or asset valuation, raising immediate red flags for governance and financial transparency similar to past controversies in the infrastructure space.",
+      "key_themes": [
+        "Governance Risk",
+        "PFI Sector",
+        "Financial Reporting"
+      ]
     },
     {
       "timestamp": "2026-09-29T18:16:00",
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/coventry-and-rugby-hospital-company-plc--51vz/half-year-financial-report/9797390",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a major PFI operator in the UK healthcare infrastructure sector, this interim report provides critical visibility into rental income stability and maintenance capex requirements amidst rising interest rates and inflationary pressures on long-term contracts.",
+      "key_themes": [
+        "PFI",
+        "Healthcare Infrastructure",
+        "Interest Rate Sensitivity"
+      ]
     },
     {
       "timestamp": "2026-08-07T17:07:00",
       "category": null,
       "headline": "Standstill Agreement Extension",
       "url": "https://www.investegate.co.uk/announcement/rns/coventry-and-rugby-hospital-company-plc--51vz/standstill-agreement-extension/9711712",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This extension signals continued negotiation deadlock between the company and its activist investor, likely delaying a resolution on board composition or strategy; such standstills are common in UK PFI/infrastructure disputes but offer no immediate value accretion for shareholders.",
+      "key_themes": [
+        "activist_investor",
+        "governance_dispute",
+        "PFI_sector"
+      ]
     },
     {
       "timestamp": "2026-06-02T11:18:00",
       "category": "Results",
       "headline": "Annual Financial Report - Delay to filing",
       "url": "https://www.investegate.co.uk/announcement/rns/coventry-and-rugby-hospital-company-plc--51vz/annual-financial-report-delay-to-filing-/9597427",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "A delay in filing annual results for a PFI operator like CRHC raises immediate questions about underlying financial health or compliance with HM Treasury reporting standards, though without a concurrent profit warning, the market typically treats this as an administrative friction rather than a fundamental solvency crisis.",
+      "key_themes": [
+        "PFI Sector",
+        "Regulatory Compliance",
+        "Governance Risk"
+      ]
     }
   ]
 }

@@ -2,14 +2,26 @@
   "name": "Jyske Bank A/S",
   "ticker": "0MGD",
   "slug": "jyske-bank-0mgd",
-  "announcement_count": 36,
-  "latest_announcement": "2026-11-16T05:28:00",
+  "announcement_count": 37,
+  "latest_announcement": "2026-11-23T06:43:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T06:43:00",
+      "category": "Share Buyback",
+      "headline": "Share repurchase programme: Transactions of w...",
+      "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/share-repurchase-programme-transactions-of-w-/9887386",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-16T05:28:00",
       "category": "Share Buyback",
       "headline": "Share repurchase programme: Transactions of week 46 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/share-repurchase-programme-transactions-of-w-/9875614",
+      "routine_type": "Transaction in Own Shares",
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine share repurchase activity reflects standard capital management rather than strategic transformation; while positive for EPS, it lacks the transformative catalysts required for significant re-rating in the current banking sector.",
@@ -23,16 +35,21 @@
       "category": null,
       "headline": "Transactions by persons discharging managerial responsibilities and persons closely associated with them",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/transactions-by-persons-discharging-manageria-/9874225",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure of insider transactions with no inherent market-moving significance; such filings are routine administrative requirements for listed entities and do not indicate new strategic direction or material financial performance shifts.",
+      "key_themes": [
+        "regulatory_compliance",
+        "insider_dealing"
+      ]
     },
     {
       "timestamp": "2026-11-09T06:45:00",
       "category": "Share Buyback",
       "headline": "Share repurchase programme: Transactions of week 45 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/share-repurchase-programme-transactions-of-w-/9863708",
+      "routine_type": "Transaction in Own Shares",
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine share repurchase activity for a Nordic bank indicates standard capital management rather than strategic transformation; lacks the scale or context to signal significant shareholder value creation or market sentiment shift.",
@@ -46,46 +63,64 @@
       "category": null,
       "headline": "Transactions by persons discharging managerial responsibilities and persons closely associated with them",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/transactions-by-persons-discharging-manageria-/9858171",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing for insider transactions by Jyske Bank executives, which carries negligible immediate market impact compared to fundamental performance drivers in the Nordic banking sector.",
+      "key_themes": [
+        "Insider Dealing",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-11-04T10:05:00",
       "category": null,
       "headline": "Transactions by persons discharging managerial responsibilities and persons closely associated with them",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/transactions-by-persons-discharging-manageria-/9858091",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure of insider transactions with no material impact on valuation or strategy; such filings are routine compliance requirements for listed entities and do not signal significant corporate events.",
+      "key_themes": [
+        "Insider Dealing",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-10-28T06:29:00",
       "category": null,
       "headline": "Financial Calendar 2027",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/financial-calendar-2027/9844484",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure of future dates with no immediate financial data or strategic shifts; for a Danish bank listed on the LSE, such calendar updates are routine and carry zero pricing impact.",
+      "key_themes": [
+        "Administrative",
+        "Investor Relations"
+      ]
     },
     {
       "timestamp": "2026-10-28T06:28:00",
       "category": null,
       "headline": "Interim Financial Report Q1-Q3 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/interim-financial-report-q1-q3-2026/9844483",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a non-listed subsidiary of Danske Bank, this interim report provides granular insight into the Nordic retail banking segment's asset quality and net interest margin resilience ahead of potential strategic reviews or integration efficiencies.",
+      "key_themes": [
+        "Nordic Banking",
+        "Interim Results",
+        "Parent Company Disclosure"
+      ]
     },
     {
       "timestamp": "2026-10-26T06:51:00",
       "category": "Share Buyback",
       "headline": "Share repurchase programme: Transactions of week 43 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/share-repurchase-programme-transactions-of-w-/9839882",
+      "routine_type": "Transaction in Own Shares",
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine share repurchase activity by a Danish lender in the UK market indicates minor capital management rather than strategic transformation, with limited immediate impact on valuation given the bank's established dividend profile and regional focus.",
@@ -99,16 +134,22 @@
       "category": "Acquisition",
       "headline": "Approval of Jyske Bank’s acquisition of Formuepleje",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/approval-of-jyske-bank-s-acquisition-of-formu-/9830070",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This acquisition aligns with Jyske Bank’s strategic pivot towards wealth management and fee-based income, diversifying revenue streams beyond traditional lending in a low-rate environment. It signals aggressive expansion into the Danish private client market, enhancing scale but introducing integration risks typical of cross-border or sector-adjacent M&A.",
+      "key_themes": [
+        "Strategic Diversification",
+        "Wealth Management Expansion",
+        "M&A Activity"
+      ]
     },
     {
       "timestamp": "2026-10-19T07:55:00",
       "category": "Share Buyback",
       "headline": "Share repurchase programme: Transactions of week 42 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/share-repurchase-programme-transactions-of-w-/9829094",
+      "routine_type": "Transaction in Own Shares",
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine share repurchase activity in the banking sector typically signals capital management rather than strategic transformation; without disclosed volume or price premium, this lacks immediate catalyst potential for Jyske Bank's valuation.",
@@ -122,6 +163,7 @@
       "category": "Results",
       "headline": "Earnings per share outlook for 2026 raised to DKK 78-87",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/earnings-per-share-outlook-for-2026-raised-to-/9817979",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Raising the 2026 EPS outlook signals strong underlying credit quality and net interest margin resilience in a high-rate environment, distinguishing Jyske from peers facing loan loss provisions.",
@@ -136,6 +178,7 @@
       "category": "Share Buyback",
       "headline": "Share repurchase programme: Transactions of week 41 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/share-repurchase-programme-transactions-of-w-/9817092",
+      "routine_type": "Transaction in Own Shares",
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine share repurchase activity for a Nordic lender indicates standard capital management rather than strategic transformation; lacks the scale or context to signal significant value creation or distress in the current high-rate environment.",
@@ -149,16 +192,21 @@
       "category": null,
       "headline": "Transactions by persons discharging managerial responsibilities and persons closely associated with them",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/transactions-by-persons-discharging-manageria-/9816193",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure of insider transactions with no inherent market-moving significance for Jyske Bank's valuation or strategy.",
+      "key_themes": [
+        "Insider Dealing",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-10-05T07:28:00",
       "category": "Share Buyback",
       "headline": "Share repurchase programme: Transactions of week 40 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/share-repurchase-programme-transactions-of-w-/9806128",
+      "routine_type": "Transaction in Own Shares",
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine share repurchase activity for a Nordic lender indicates minor capital management rather than strategic transformation; lacks the scale or context to signal significant value creation or distress in the current high-rate environment.",
@@ -172,6 +220,7 @@
       "category": "Share Buyback",
       "headline": "Share repurchase programme: Transactions of week 39 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/share-repurchase-programme-transactions-of-w-/9792537",
+      "routine_type": "Transaction in Own Shares",
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine share repurchase activity for a Nordic lender indicates standard capital management rather than strategic transformation; lacks the scale or context to signal significant value creation or distress in the current high-rate environment.",
@@ -185,6 +234,7 @@
       "category": "Share Buyback",
       "headline": "Share repurchase programme: Transactions of week 38 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/share-repurchase-programme-transactions-of-w-/9781609",
+      "routine_type": "Transaction in Own Shares",
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine share repurchase activity for a Nordic lender indicates standard capital management rather than strategic transformation; lacks the scale or context to signal significant value creation or distress in the current high-rate environment.",
@@ -198,26 +248,35 @@
       "category": null,
       "headline": "Correction: Transactions by persons discharging managerial responsibilities and persons closely associated with them",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/correction-transactions-by-persons-dischargi-/9768009",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory correction regarding insider transaction disclosures under MAR, indicating no change in the underlying facts of the deal. Such administrative updates are routine for Jyske Bank and carry zero material implication for share price or corporate strategy.",
+      "key_themes": [
+        "Regulatory Compliance",
+        "Insider Dealing"
+      ]
     },
     {
       "timestamp": "2026-09-11T09:21:00",
       "category": null,
       "headline": "Transactions by persons discharging managerial responsibilities and persons closely associated with them",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/transactions-by-persons-discharging-manageria-/9767748",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure of insider transactions with no inherent market-moving significance; such filings are routine compliance requirements for listed entities and do not indicate a shift in corporate strategy or financial performance.",
+      "key_themes": [
+        "regulatory_compliance",
+        "insider_dealing"
+      ]
     },
     {
       "timestamp": "2026-09-07T07:38:00",
       "category": "Share Buyback",
       "headline": "Share repurchase programme: Transactions of week 36 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/share-repurchase-programme-transactions-of-w-/9758383",
+      "routine_type": "Transaction in Own Shares",
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine share repurchase activity in the Nordic banking sector reflects standard capital management rather than a strategic pivot; without disclosed volume or price premium, this lacks the transformative signal required for significant valuation re-rating.",
@@ -231,6 +290,7 @@
       "category": "Share Buyback",
       "headline": "Share repurchase programme: Transactions of week 35 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/share-repurchase-programme-transactions-of-w-/9746582",
+      "routine_type": "Transaction in Own Shares",
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine share repurchase activity in the banking sector typically signals capital management rather than strategic transformation; without disclosed volume or price premium, this lacks immediate market-moving significance compared to dividend policy changes or major M&A.",
@@ -244,16 +304,21 @@
       "category": null,
       "headline": "Transactions by persons discharging managerial responsibilities and persons closely associated with them",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/transactions-by-persons-discharging-manageria-/9715203",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing for insider transactions by Jyske Bank's management, reflecting routine compliance rather than strategic shifts or material market-moving events.",
+      "key_themes": [
+        "Insider Dealing",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-08-10T07:31:00",
       "category": "Share Buyback",
       "headline": "Share repurchase programme: Transactions of week 32 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/share-repurchase-programme-transactions-of-w-/9712697",
+      "routine_type": "Transaction in Own Shares",
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine share repurchase activity in the banking sector typically signals capital management rather than strategic transformation; without disclosed volume or price premium, this lacks immediate market-moving significance compared to dividend policy changes or major M&A.",
@@ -267,6 +332,7 @@
       "category": "Share Buyback",
       "headline": "Share repurchase programme: Transactions of week 31 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/share-repurchase-programme-transactions-of-w-/9699513",
+      "routine_type": "Transaction in Own Shares",
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine capital return mechanism typical for mature financials like Jyske Bank; lacks the transformative scale of major M&A or significant earnings revisions, serving primarily as a minor signal of management confidence rather than a strategic pivot.",
@@ -280,6 +346,7 @@
       "category": "Share Buyback",
       "headline": "Share repurchase programme: Transactions of week 30 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/share-repurchase-programme-transactions-of-w-/9688412",
+      "routine_type": "Transaction in Own Shares",
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine share repurchase activity in the banking sector typically signals capital management rather than strategic transformation; without disclosed volume or price premium, this lacks immediate catalyst potential for Jyske Bank's valuation.",
@@ -293,6 +360,7 @@
       "category": "Share Buyback",
       "headline": "Share repurchase programme: Transactions of week 29 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/share-repurchase-programme-transactions-of-w-/9676557",
+      "routine_type": "Transaction in Own Shares",
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine share repurchase activity in the banking sector typically signals capital management rather than strategic transformation; without disclosed volume or price premium, this lacks immediate catalyst potential for Jyske Bank's equity valuation.",
@@ -306,6 +374,7 @@
       "category": "Share Buyback",
       "headline": "Share repurchase programme: Transactions of week 28 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/share-repurchase-programme-transactions-of-w-/9665065",
+      "routine_type": "Transaction in Own Shares",
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine share repurchase activity for a Nordic bank indicates standard capital management rather than strategic transformation; lacks the scale or context to signal significant value creation or distress in the current high-rate environment.",
@@ -319,6 +388,7 @@
       "category": "Share Buyback",
       "headline": "Share repurchase programme: Transactions of week 27 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/share-repurchase-programme-transactions-of-w-/9653139",
+      "routine_type": "Transaction in Own Shares",
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine share repurchase activity for a Nordic lender indicates standard capital management rather than strategic transformation; lacks the scale or context to signal significant value creation or distress in the current high-rate environment.",
@@ -332,16 +402,21 @@
       "category": null,
       "headline": "Transactions by persons discharging managerial responsibilities and persons closely associated with them",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/transactions-by-persons-discharging-manageria-/9649224",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure of insider transactions with no substantive impact on Jyske Bank's valuation or strategy, reflecting routine compliance rather than material corporate activity.",
+      "key_themes": [
+        "Insider Dealing",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-06-29T06:37:00",
       "category": "Share Buyback",
       "headline": "Share repurchase programme: Transactions of week 26 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/share-repurchase-programme-transactions-of-w-/9640262",
+      "routine_type": "Transaction in Own Shares",
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine share repurchase activity by a Danish lender in the UK market indicates minor capital management rather than strategic transformation, with limited immediate impact on valuation given the bank's established dividend policy and regional focus.",
@@ -355,16 +430,21 @@
       "category": null,
       "headline": "Transactions by persons discharging managerial responsibilities and persons closely associated with them",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/transactions-by-persons-discharging-manageria-/9636462",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure of insider transactions with no inherent market-moving significance; for Jyske Bank, such filings are routine compliance requirements rather than signals of strategic shifts or material valuation changes.",
+      "key_themes": [
+        "Regulatory Compliance",
+        "Insider Activity"
+      ]
     },
     {
       "timestamp": "2026-06-22T07:50:00",
       "category": "Share Buyback",
       "headline": "Share repurchase programme: Transactions of week 25 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/share-repurchase-programme-transactions-of-w-/9629286",
+      "routine_type": "Transaction in Own Shares",
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine share repurchase activity for a Nordic bank indicates standard capital management rather than strategic transformation, with limited immediate impact on UK equity valuation metrics.",
@@ -378,6 +458,7 @@
       "category": "Share Buyback",
       "headline": "Share repurchase programme: Transactions of week 24 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/share-repurchase-programme-transactions-of-w-/9617957",
+      "routine_type": "Transaction in Own Shares",
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine share repurchase activity in the banking sector typically signals capital management rather than strategic transformation, offering limited immediate catalyst for equity re-rating compared to earnings growth or M&A.",
@@ -391,6 +472,7 @@
       "category": "Share Buyback",
       "headline": "Share repurchase programme: Transactions of week 23 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/share-repurchase-programme-transactions-of-w-/9606151",
+      "routine_type": "Transaction in Own Shares",
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine share repurchase activity for a Nordic bank indicates standard capital management rather than strategic transformation; lacks the scale or context to signal significant value creation or distress in the current high-rate environment.",
@@ -404,26 +486,35 @@
       "category": null,
       "headline": "Major shareholder announcement – Jyske Bank A/S",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/major-shareholder-announcement-jyske-bank-a-/9602355",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Shareholder announcements for Jyske Bank typically involve standard reporting of holdings rather than transformative corporate actions; without details on the nature of the change (e.g., significant disposal or acquisition), this is likely routine regulatory compliance with minimal immediate market impact.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Activity"
+      ]
     },
     {
       "timestamp": "2026-06-04T13:07:00",
       "category": null,
       "headline": "Implementation of capital reduction at Jyske Bank A/S",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/implementation-of-capital-reduction-at-jyske-/9602344",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative capital reduction to align share capital with the bank's net asset value following its acquisition by Danske Bank, carrying no direct operational or valuation impact for remaining shareholders.",
+      "key_themes": [
+        "Corporate Action",
+        "Capital Structure"
+      ]
     },
     {
       "timestamp": "2026-06-01T06:45:00",
       "category": "Share Buyback",
       "headline": "Share repurchase programme: Transactions of week 22 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/jyske-bank-a-s--0mgd/share-repurchase-programme-transactions-of-w-/9593095",
+      "routine_type": "Transaction in Own Shares",
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine share repurchase activity for a Nordic bank indicates minor capital management rather than strategic transformation, with limited immediate impact on UK equity valuation or sector dynamics.",

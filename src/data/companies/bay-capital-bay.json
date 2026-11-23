@@ -10,16 +10,22 @@
       "category": "Acquisition",
       "headline": "Proposed Acquisition and Temporary Suspension",
       "url": "https://www.investegate.co.uk/announcement/rns/bay-capital--bay/proposed-acquisition-and-temporary-suspension/9831436",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "A proposed acquisition accompanied by a temporary suspension is a high-stakes event for a micro-cap like Bay Capital, signaling potential transformative growth or significant restructuring that could drastically alter the company's valuation and risk profile.",
+      "key_themes": [
+        "M&A",
+        "Suspension",
+        "Micro-cap volatility"
+      ]
     },
     {
       "timestamp": "2026-08-13T12:09:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/bay-capital--bay/holding-s-in-company/9720850",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +36,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/bay-capital--bay/holding-s-in-company/9720849",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +47,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/bay-capital--bay/director-pdmr-shareholding/9714372",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements typically signal low immediate market impact unless accompanied by unusual volume or context; without specific transaction details in the headline, this is classified as minor administrative disclosure.",
@@ -53,16 +61,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/bay-capital--bay/result-of-agm/9623601",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which typically involves routine ratification of director reappointments and auditor appointments without material strategic shifts or capital implications.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-05-29T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/bay-capital--bay/notice-of-agm/9590931",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,

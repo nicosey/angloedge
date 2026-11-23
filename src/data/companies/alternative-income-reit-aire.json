@@ -2,14 +2,26 @@
   "name": "Alternative Income Reit",
   "ticker": "AIRE",
   "slug": "alternative-income-reit-aire",
-  "announcement_count": 63,
-  "latest_announcement": "2026-11-20T18:16:00",
+  "announcement_count": 64,
+  "latest_announcement": "2026-11-23T15:35:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T15:35:00",
+      "category": null,
+      "headline": "Posting of notices to Non-Assenting Shareholders",
+      "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/posting-of-notices-to-non-assenting-shareholders/9889625",
+      "routine_type": "Meeting Notices",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T18:16:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/holding-s-in-company/9887349",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +32,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/holding-s-in-company/9875506",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +43,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/holding-s-in-company/9867342",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,26 +54,36 @@
       "category": "Results",
       "headline": "2026 Annual Financial Report and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/2026-annual-financial-report-and-notice-of-agm/9846890",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a niche UK REIT with limited liquidity, the release of annual results serves as a critical valuation anchor for institutional and sophisticated investors rather than driving broad market sentiment; sector context remains dominated by high interest rate pressures on property valuations.",
+      "key_themes": [
+        "Annual Results",
+        "REIT Valuation"
+      ]
     },
     {
       "timestamp": "2026-10-28T14:42:00",
       "category": null,
       "headline": "Further financing update",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/further-financing-update/9846488",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "In the current high-interest-rate environment for UK REITs, securing further financing is critical to manage refinancing walls and maintain liquidity; this suggests proactive balance sheet management but highlights ongoing capital intensity or debt maturity pressures.",
+      "key_themes": [
+        "liquidity",
+        "refinancing",
+        "capital structure"
+      ]
     },
     {
       "timestamp": "2026-10-28T10:51:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/holding-s-in-company/9846036",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,56 +94,78 @@
       "category": null,
       "headline": "Statement re. Intended Squeeze-Out and Delisting",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/statement-re-intended-squeeze-out-and-delisting/9842515",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "This represents a definitive exit event for minority shareholders, effectively terminating the equity investment thesis. In the current UK REIT landscape, such actions often signal a strategic shift towards private markets or consolidation, removing liquidity and upside potential for public investors.",
+      "key_themes": [
+        "Delisting",
+        "Squeeze-Out",
+        "Exit Event"
+      ]
     },
     {
       "timestamp": "2026-10-20T07:00:00",
       "category": null,
       "headline": "Acceptance Level Update",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/acceptance-level-update/9830629",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative update regarding the acceptance of funds for a prior capital raise, indicating no new material developments or strategic shifts in the UK REIT sector.",
+      "key_themes": [
+        "administrative",
+        "capital_raise"
+      ]
     },
     {
       "timestamp": "2026-09-30T12:00:00",
       "category": "Appointment",
       "headline": "Directorate changes",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/directorate-changes/9799172",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board-level personnel adjustments in UK REITs are common governance updates with negligible immediate financial impact, though they signal ongoing succession planning within the Alternative Income sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Management Change"
+      ]
     },
     {
       "timestamp": "2026-09-29T07:00:00",
       "category": null,
       "headline": "Acceptance Level Update",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/acceptance-level-update/9795244",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding subscription levels for a rights issue or placement, indicating no material change in the underlying business trajectory. In the current UK REIT sector, such announcements are routine capital management exercises rather than indicators of strategic shifts or performance volatility.",
+      "key_themes": [
+        "capital_management",
+        "administrative_update"
+      ]
     },
     {
       "timestamp": "2026-09-24T18:00:00",
       "category": null,
       "headline": "Alternative Income REIT",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/alternative-income-reit/9790171",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The headline lacks specific details regarding the nature of the announcement, but for Alternative Income REIT, such vague 'Other' filings typically denote routine administrative updates or minor corporate governance changes rather than transformative events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-24T15:46:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/holding-s-in-company/9790005",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -130,26 +176,35 @@
       "category": "Appointment",
       "headline": "Directorate changes",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/directorate-changes/9771600",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board composition updates are standard for UK REITs to ensure governance compliance but lack immediate catalyst potential; without context on the specific director's background (e.g., distressed asset expertise), this is unlikely to drive material valuation re-rating in the current high-rate environment.",
+      "key_themes": [
+        "Governance",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-09-14T07:00:00",
       "category": null,
       "headline": "Financing Update",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/financing-update/9769148",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Financing updates for AIRE typically signal liquidity management or refinancing activities rather than transformative growth; without details on size or terms, this is likely routine administrative noise with minimal immediate market impact.",
+      "key_themes": [
+        "Liquidity",
+        "Refinancing"
+      ]
     },
     {
       "timestamp": "2026-09-09T07:45:00",
       "category": null,
       "headline": "Disclosure Table",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/disclosure-table-/9762765",
+      "routine_type": "Disclosure Table",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -160,46 +215,64 @@
       "category": null,
       "headline": "Glenstone Offer Unconditional & Recommendation",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/glenstone-offer-unconditional-recommendation/9762692",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "The unconditional status of the Glenstone offer signals a definitive resolution to the takeover saga, likely triggering a squeeze-out and delisting that forces immediate portfolio reallocation for AIRE shareholders. This marks the end of a prolonged period of uncertainty, allowing remaining stakeholders to capture the premium or exit before the REIT's assets are integrated into the acquirer's balance sheet.",
+      "key_themes": [
+        "M&A Completion",
+        "REIT Delisting",
+        "Portfolio Reallocation"
+      ]
     },
     {
       "timestamp": "2026-09-09T07:00:00",
       "category": null,
       "headline": "Offer Declared Unconditional",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/offer-declared-unconditional/9761837",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms the successful conclusion of a previously declared offer, removing execution uncertainty for shareholders rather than signaling new strategic direction. In the current UK REIT landscape, such administrative closures are routine post-deal steps with no immediate impact on valuation or operational strategy.",
+      "key_themes": [
+        "Corporate Action",
+        "Deal Closure"
+      ]
     },
     {
       "timestamp": "2026-09-04T07:00:00",
       "category": null,
       "headline": "Day 59 - Acceptance Level Update",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/day-59-acceptance-level-update/9755142",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard daily administrative update for an open-ended investment company, reflecting routine subscription/redemption flows rather than any material strategic shift or performance driver.",
+      "key_themes": [
+        "Administrative",
+        "NAV Flows"
+      ]
     },
     {
       "timestamp": "2026-09-02T11:11:00",
       "category": null,
       "headline": "Response to Glenstone Acceptance Update",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/response-to-glenstone-acceptance-update-/9751870",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard compliance update regarding the Glenstone transaction, likely clarifying regulatory or procedural steps rather than signaling a material change in deal value or timing; such responses are routine for UK REITs navigating complex acquisition approvals.",
+      "key_themes": [
+        "Corporate Governance",
+        "M&A Process"
+      ]
     },
     {
       "timestamp": "2026-08-28T16:09:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/holding-s-in-company/9746437",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -210,16 +283,21 @@
       "category": null,
       "headline": "Update re. Market Purchases and Retail Platforms",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/update-re-market-purchases-and-retail-platforms-/9745404",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine update on market purchases and retail platform availability indicates standard liquidity management rather than strategic shifts; typical for UK REITs to maintain orderly markets without signaling significant capital allocation changes.",
+      "key_themes": [
+        "liquidity management",
+        "retail distribution"
+      ]
     },
     {
       "timestamp": "2026-08-28T07:00:00",
       "category": null,
       "headline": "Form 8 (DD) Offeror Purchases",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/form-8-dd-offeror-purchases/9744365",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -230,16 +308,22 @@
       "category": null,
       "headline": "Response to AEWU's statement regarding AIRE",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/response-to-aewu-s-statement-regarding-aire/9741509",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This RNS represents a defensive corporate governance response to activist pressure from AEW UK, likely concerning valuation gaps or strategic direction rather than immediate operational shifts. While it signals potential for increased volatility or a formal bid process, the lack of concrete transaction details limits immediate fundamental impact.",
+      "key_themes": [
+        "Activist Investor",
+        "Corporate Governance",
+        "UK REIT Sector"
+      ]
     },
     {
       "timestamp": "2026-08-26T08:00:00",
       "category": null,
       "headline": "Form 8 (DD) Offeror (Glenstone) Purchases",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/form-8-dd-offeror-glenstone-purchases/9740710",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -250,116 +334,162 @@
       "category": null,
       "headline": "Fundamental shortcomings of the Glenstone Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/fundamental-shortcomings-of-the-glenstone-offer/9739942",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This RNS signals defensive governance resistance to the Glenstone bid rather than a fundamental valuation shift; in the current UK REIT sector, such 'fundamental shortcomings' claims are standard pre-negotiation tactics to delay or pressure for a higher premium.",
+      "key_themes": [
+        "M&A Defense",
+        "Governance"
+      ]
     },
     {
       "timestamp": "2026-08-25T14:00:00",
       "category": null,
       "headline": "Response to Glenstone Acceptance Update",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/response-to-glenstone-acceptance-update/9739438",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This RNS serves as a defensive clarification regarding Glenstone's shareholding, likely mitigating short-term speculative volatility rather than altering the REIT's fundamental operational outlook or strategic direction.",
+      "key_themes": [
+        "Shareholder Activity",
+        "Market Clarification"
+      ]
     },
     {
       "timestamp": "2026-08-25T08:18:00",
       "category": null,
       "headline": "Information for Retail Investors with AIRE Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/information-for-retail-investors-with-aire-shares/9738638",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations communication aimed at retail engagement rather than a material corporate event; it carries no immediate financial implication for share price or capital structure.",
+      "key_themes": [
+        "Investor Relations",
+        "Corporate Communications"
+      ]
     },
     {
       "timestamp": "2026-08-25T08:00:00",
       "category": null,
       "headline": "Acceptance Level Update",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/acceptance-level-update/9738523",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the acceptance of shares for a buyback or subscription, lacking any material financial guidance or strategic shift. In the current UK REIT sector, such routine disclosures are common and do not signal significant value creation or risk.",
+      "key_themes": [
+        "Corporate Action",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-20T09:51:00",
       "category": null,
       "headline": "Glenstone Responses to AIRE Board statements",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/glenstone-responses-to-aire-board-statements-/9731898",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This represents a standard governance dispute typical of UK REITs with concentrated ownership structures, lacking immediate financial impact but signaling potential boardroom instability that may deter institutional investors.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Activism"
+      ]
     },
     {
       "timestamp": "2026-08-18T08:00:00",
       "category": null,
       "headline": "Acceptance Level Update",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/acceptance-level-update/9726988",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the acceptance levels of a previously announced capital raise, indicating no material deviation from expectations rather than a strategic shift or distress signal.",
+      "key_themes": [
+        "Capital Raising",
+        "Administrative Update"
+      ]
     },
     {
       "timestamp": "2026-08-12T07:00:00",
       "category": null,
       "headline": "Response to Glenstone Acceptance Update",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/response-to-glenstone-acceptance-update/9716734",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard compliance update regarding the Glenstone transaction, likely clarifying regulatory or procedural details rather than altering the fundamental investment thesis; such responses typically carry minimal immediate pricing impact unless they signal unexpected delays.",
+      "key_themes": [
+        "regulatory_compliance",
+        "transaction_update"
+      ]
     },
     {
       "timestamp": "2026-08-11T08:00:00",
       "category": null,
       "headline": "Acceptance Level Update",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/acceptance-level-update-/9715193",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This update reflects standard operational mechanics for a closed-end fund's share premium/discount management rather than a fundamental shift in asset value or strategy. While relevant to short-term liquidity and investor sentiment, it lacks the transformative catalysts required for significant price re-rating.",
+      "key_themes": [
+        "Closed-End Fund",
+        "Share Premium Management"
+      ]
     },
     {
       "timestamp": "2026-08-10T07:00:00",
       "category": null,
       "headline": "NAV and Portfolio Valuation Update To 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/nav-and-portfolio-valuation-update-to-30-june-2026/9711931",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a UK REIT, AIRE's NAV update is critical for tracking discount/premium to NAV in the current high-rate environment; any significant deviation from prior valuations signals shifting market sentiment towards commercial property assets.",
+      "key_themes": [
+        "NAV Update",
+        "UK Commercial Real Estate",
+        "REIT Valuation"
+      ]
     },
     {
       "timestamp": "2026-08-05T12:02:00",
       "category": null,
       "headline": "Response to Glenstone Acceptance Update",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/response-to-glenstone-acceptance-update/9706623",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard compliance update regarding the Glenstone transaction, likely clarifying regulatory or procedural steps rather than signaling a fundamental shift in strategy; for AIRE, such announcements are routine administrative noise unless they reveal unexpected deal termination risks.",
+      "key_themes": [
+        "Corporate Governance",
+        "Transaction Update"
+      ]
     },
     {
       "timestamp": "2026-08-04T08:00:00",
       "category": null,
       "headline": "Acceptance Level Update",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/acceptance-level-update/9703227",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the acceptance of shares for an existing buyback programme, indicating no new strategic shifts or material financial events.",
+      "key_themes": [
+        "Corporate Action",
+        "Share Buyback"
+      ]
     },
     {
       "timestamp": "2026-07-30T10:04:00",
       "category": null,
       "headline": "Form 8 (DD) Offeror Purchases - AMENDMENT",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/form-8-dd-offeror-purchases-amendment/9695913",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -370,6 +500,7 @@
       "category": null,
       "headline": "Form 8 (DD) Offeror (Glenstone) Purchases",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/form-8-dd-offeror-glenstone-purchases/9695769",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -380,6 +511,7 @@
       "category": null,
       "headline": "Form 8 (DD) Offeror (Glenstone) Purchases",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/form-8-dd-offeror-glenstone-purchases/9690933",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -390,26 +522,35 @@
       "category": null,
       "headline": "Day 21 Acceptance Level Update",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/day-21-acceptance-level-update/9690753",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update for the company's share buyback programme, indicating ongoing capital management rather than a strategic shift or material financial event.",
+      "key_themes": [
+        "Capital Return",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-24T15:31:00",
       "category": "Dividend",
       "headline": "Response to dividend declaration by AIRE",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/response-to-dividend-declaration-by-aire/9687340",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a response to a prior declaration rather than a new event, this RNS likely clarifies mechanics or timing without altering the fundamental investment thesis; in the current UK REIT sector context, such administrative updates are routine and do not signal strategic shifts or value creation.",
+      "key_themes": [
+        "Administrative",
+        "Dividend Mechanics"
+      ]
     },
     {
       "timestamp": "2026-07-24T09:00:00",
       "category": null,
       "headline": "Form 8 (DD) Offeror (Glenstone) Purchases",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/form-8-dd-offeror-glenstone-purchases/9686223",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -420,26 +561,36 @@
       "category": null,
       "headline": "Glenstone Offer now only worth 70p per Share",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/glenstone-offer-now-only-worth-70p-per-share/9683767",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "The collapse of the Glenstone acquisition to a significantly lower valuation represents a major strategic setback for AIRE's growth narrative and asset base expansion in the UK student accommodation sector. This failure likely triggers immediate repricing due to lost synergies and potential impairment charges, mirroring the market skepticism seen after other recent REIT deal failures.",
+      "key_themes": [
+        "M&A Failure",
+        "Asset Devaluation",
+        "Sector Strategy"
+      ]
     },
     {
       "timestamp": "2026-07-23T07:00:00",
       "category": "Dividend",
       "headline": "Interim Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/interim-dividend-declaration/9683003",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a UK REIT, the declaration confirms ongoing cash flow generation to meet mandatory distribution requirements, but offers limited upside catalyst compared to growth-oriented equities; it signals stability rather than strategic transformation.",
+      "key_themes": [
+        "Income Generation",
+        "REIT Compliance"
+      ]
     },
     {
       "timestamp": "2026-07-22T14:53:00",
       "category": null,
       "headline": "TR-1 Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/tr-1-notification-of-major-holdings/9682543",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -450,6 +601,7 @@
       "category": null,
       "headline": "Form 8 (DD) Offeror / Glenstone Purchases",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/form-8-dd-offeror-glenstone-purchases/9679426",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -460,16 +612,21 @@
       "category": null,
       "headline": "Publication of Response Document",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/publication-of-response-document/9678189",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing for an investment trust responding to shareholder queries, typically carrying no new financial data or strategic shifts. Such responses rarely alter the valuation trajectory of AIRE unless they reveal significant governance friction or hidden leverage risks.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Relations"
+      ]
     },
     {
       "timestamp": "2026-07-20T15:40:00",
       "category": null,
       "headline": "Form 8 (DD) Offeror Purchases - Replacement",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/form-8-dd-offeror-purchases-replacement/9678162",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -480,6 +637,7 @@
       "category": null,
       "headline": "Form 8 (DD) Offeror / Glenstone Purchases",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/form-8-dd-offeror-glenstone-purchases/9676933",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -490,46 +648,64 @@
       "category": null,
       "headline": "Property update",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/property-update-/9661025",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Property updates for AIRE are typically operational disclosures regarding occupancy or leasing rather than transformative financial events, reflecting the REIT's focus on stable income generation in a challenging UK commercial property market.",
+      "key_themes": [
+        "Real Estate",
+        "Operational Update"
+      ]
     },
     {
       "timestamp": "2026-07-06T12:51:00",
       "category": null,
       "headline": "Publication of Rule 29 Valuation Report",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/publication-of-rule-29-valuation-report/9654319",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard regulatory filing for UK REITs to confirm the independence and methodology of the annual property valuation, which is a routine compliance requirement rather than a value-driving event.",
+      "key_themes": [
+        "Regulatory Compliance",
+        "Asset Valuation"
+      ]
     },
     {
       "timestamp": "2026-07-06T12:12:00",
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/directorate-change/9654261",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board-level changes in UK REITs are typically administrative unless they signal a shift in investment strategy or governance crisis; without details on the departing/appointing directors' backgrounds, this lacks immediate strategic weight.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-06T07:00:00",
       "category": null,
       "headline": "Increased Offer and Offer Document Publication",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/increased-offer-and-offer-document-publication/9653038",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The increased offer signals strong institutional demand for AIRE's equity raise, likely to fund acquisitions or deleverage in a high-rate environment; this validates the strategy but dilutes existing shareholders.",
+      "key_themes": [
+        "Capital Raise",
+        "Shareholder Dilution",
+        "Market Confidence"
+      ]
     },
     {
       "timestamp": "2026-07-02T09:00:00",
       "category": null,
       "headline": "Form 8 (DD) Offeror Purchases",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/form-8-dd-offeror-purchases/9649447",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -540,6 +716,7 @@
       "category": null,
       "headline": "Form 8 (DD) - Offeror Purchases",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/form-8-dd-offeror-purchases/9646854",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -550,6 +727,7 @@
       "category": null,
       "headline": "Form 8 (DD) Offeror Purchases",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/form-8-dd-offeror-purchases-/9644153",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -560,6 +738,7 @@
       "category": null,
       "headline": "Form 8 (DD) Offeror Purchases",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/form-8-dd-offeror-purchases/9640127",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -570,6 +749,7 @@
       "category": null,
       "headline": "Form 8 (DD) Offeror - Alternative Income REIT PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/form-8-dd-offeror-alternative-income-reit-plc/9640077",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -580,36 +760,51 @@
       "category": "Acquisition",
       "headline": "Further response to firm offer by Glenstone",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/further-response-to-firm-offer-by-glenstone-/9619512",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This is a procedural update to an existing offer rather than a transformative event; the market impact hinges on the final premium and completion probability, not this specific communication.",
+      "key_themes": [
+        "M&A",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-06-12T08:43:00",
       "category": "Acquisition",
       "headline": "Response to firm offer announcement by Glenstone",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/response-to-firm-offer-announcement-by-glenstone/9615689",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "A firm offer for a UK REIT signals potential control change or significant premium valuation, often triggered by undervaluation in the current high-rate environment; this creates immediate arbitrage opportunity and strategic uncertainty for existing shareholders.",
+      "key_themes": [
+        "M&A",
+        "Control Change",
+        "UK Real Estate"
+      ]
     },
     {
       "timestamp": "2026-06-12T07:00:00",
       "category": null,
       "headline": "Cash Offer for Alternative Income REIT PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/cash-offer-for-alternative-income-reit-plc-/9614695",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "A cash offer for a UK REIT typically signals a premium takeover bid to resolve the persistent discount between NAV and share price, offering immediate liquidity and capital return to shareholders in a sector where yield compression has limited organic growth options.",
+      "key_themes": [
+        "M&A",
+        "REIT Discount",
+        "Capital Return"
+      ]
     },
     {
       "timestamp": "2026-05-29T15:07:00",
       "category": null,
       "headline": "Form 8 (OPD) Alternative Income REIT PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/form-8-opd-alternative-income-reit-plc/9592767",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -620,6 +815,7 @@
       "category": null,
       "headline": "Form 8 (OPD) - Alternative Income REIT plc",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/form-8-opd-alternative-income-reit-plc/9592695",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -630,10 +826,14 @@
       "category": null,
       "headline": "Change of Adviser",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-income-reit--aire/change-of-adviser/9590926",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Adviser changes in UK REITs are typically administrative or reflect a shift in fee structures rather than strategic distress; without details on the new adviser's mandate, this lacks immediate market-moving significance compared to portfolio or dividend updates.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative Change"
+      ]
     }
   ]
 }

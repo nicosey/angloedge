@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Block admission six monthly return",
       "url": "https://www.investegate.co.uk/announcement/rns/audioboom-group--boom/block-admission-six-monthly-return-/9761956",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,21 @@
       "category": null,
       "headline": "Award of RSUs and Grant of Options",
       "url": "https://www.investegate.co.uk/announcement/rns/audioboom-group--boom/award-of-rsus-and-grant-of-options/9750414",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard executive compensation event with negligible immediate financial impact on Audioboom's balance sheet or share count; it reflects routine retention practices rather than strategic shifts in the competitive podcasting and audio tech sector.",
+      "key_themes": [
+        "Executive Compensation",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-08-28T07:00:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/audioboom-group--boom/total-voting-rights/9744319",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +46,7 @@
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/audioboom-group--boom/exercise-of-warrants-/9695797",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +57,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/audioboom-group--boom/director-pdmr-shareholding/9683004",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director transactions which lacks the scale or strategic weight to influence Audioboom's valuation or market sentiment significantly.",
@@ -63,26 +71,35 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/audioboom-group--boom/result-of-agm/9679802",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-AGM confirmation of shareholder resolutions with no new strategic directives or capital events, reflecting routine corporate governance rather than market-moving catalysts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-07-15T07:00:00",
       "category": "Results",
       "headline": "Half-Year Report",
       "url": "https://www.investegate.co.uk/announcement/rns/audioboom-group--boom/half-year-report/9668972",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a small-cap audio tech firm with limited liquidity, BOOM's interim results are closely watched for signs of sustainable revenue growth in the podcasting sector, though they rarely trigger immediate market-moving volatility without accompanying M&A or major guidance shifts.",
+      "key_themes": [
+        "interim results",
+        "small cap equity"
+      ]
     },
     {
       "timestamp": "2026-07-14T07:00:00",
       "category": "Results",
       "headline": "Notice of Interim Results & Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/audioboom-group--boom/notice-of-interim-results-investor-presentation/9666686",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a small-cap audio tech firm with limited liquidity, BOOM's interim results are critical for assessing the viability of its pivot to AI-driven content monetization and validating recent cost-cutting measures against sector peers like SoundCloud.",
@@ -97,6 +114,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/audioboom-group--boom/total-voting-rights/9646876",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -107,6 +125,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/audioboom-group--boom/notice-of-agm/9644686",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -117,16 +136,21 @@
       "category": "Acquisition",
       "headline": "Confirmation of Adelicious Acquisition Earn Out",
       "url": "https://www.investegate.co.uk/announcement/rns/audioboom-group--boom/confirmation-of-adelicious-acquisition-earn-out/9610071",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This confirms a contingent payment related to the prior Adelicious acquisition, indicating the deal's performance metrics were met; however, as a retrospective earn-out settlement rather than new strategic growth, it offers limited forward-looking catalyst for BOOM's valuation.",
+      "key_themes": [
+        "earn_out",
+        "acquisition_integration"
+      ]
     },
     {
       "timestamp": "2026-06-08T07:45:00",
       "category": null,
       "headline": "Disclosure Table",
       "url": "https://www.investegate.co.uk/announcement/rns/audioboom-group--boom/disclosure-table/9606146",
+      "routine_type": "Disclosure Table",
       "enriched": false,
       "impact_score": null,
       "insight": null,

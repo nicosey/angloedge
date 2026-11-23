@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/contango-holdings--cgo/holding-s-in-company/9876854",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/contango-holdings--cgo/holding-s-in-company/9872588",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/contango-holdings--cgo/notice-of-agm/9868162",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,16 +43,21 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/contango-holdings--cgo/directorate-change/9862827",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative update regarding Contango's board composition; without details on the appointee's background or a concurrent strategic shift, this lacks immediate catalyst potential for the small-cap equity.",
+      "key_themes": [
+        "Corporate Governance",
+        "Minor Admin"
+      ]
     },
     {
       "timestamp": "2026-10-28T09:41:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/contango-holdings--cgo/holding-s-in-company/9845869",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,26 +68,36 @@
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/contango-holdings--cgo/annual-financial-report/9799171",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a small-cap resource explorer, the release of an annual report serves as a critical checkpoint for capital preservation and exploration progress rather than immediate revenue generation; market reaction will hinge on cash runway adequacy and drilling results amidst current gold price volatility.",
+      "key_themes": [
+        "exploration_update",
+        "cash_runway",
+        "small_cap_resource"
+      ]
     },
     {
       "timestamp": "2026-09-21T07:00:00",
       "category": null,
       "headline": "Repayment of Investor Loans",
       "url": "https://www.investegate.co.uk/announcement/rns/contango-holdings--cgo/repayment-of-investor-loans/9780834",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement reflects standard debt servicing for Contango's leveraged gold exploration portfolio rather than a strategic shift; while it reduces interest burden, it does not address the core operational risks or commodity price volatility inherent to junior mining equities.",
+      "key_themes": [
+        "debt_management",
+        "gold_exploration"
+      ]
     },
     {
       "timestamp": "2026-09-07T12:05:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/contango-holdings--cgo/holding-s-in-company/9759114",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,16 +108,22 @@
       "category": null,
       "headline": "Receipt of £5m from the Subscription",
       "url": "https://www.investegate.co.uk/announcement/rns/contango-holdings--cgo/receipt-of-5m-from-the-subscription-/9745253",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The receipt of £5m confirms successful capital raising, likely a placing or subscription, which is critical for Contango's liquidity and ability to fund its gold exploration projects in the current high-interest-rate environment. While it avoids immediate dilution panic by securing cash, the specific terms (price/dilution %) will dictate whether this is viewed as a lifeline or a value-destructive event.",
+      "key_themes": [
+        "Capital Raise",
+        "Liquidity",
+        "Gold Exploration"
+      ]
     },
     {
       "timestamp": "2026-08-18T09:43:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/contango-holdings--cgo/holding-s-in-company/9727378",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -110,30 +134,43 @@
       "category": "AGM/EGM",
       "headline": "Results of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/contango-holdings--cgo/results-of-general-meeting-/9694083",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at Contango's AGM/EGM, which typically involves routine matters like director reappointments or fee approvals rather than strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-07-08T07:55:00",
       "category": null,
       "headline": "Publication of Circular & Subscription of £5m",
       "url": "https://www.investegate.co.uk/announcement/rns/contango-holdings--cgo/publication-of-circular-subscription-of-5m/9658016",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The £5m subscription alongside the Circular publication signals a targeted capital raise to fund growth or strengthen the balance sheet, which is critical for Contango's liquidity in the volatile gold mining sector.",
+      "key_themes": [
+        "Capital Raise",
+        "Liquidity Management",
+        "Gold Mining"
+      ]
     },
     {
       "timestamp": "2026-06-10T15:19:00",
       "category": null,
       "headline": "Statement re Share Price Movement",
       "url": "https://www.investegate.co.uk/announcement/rns/contango-holdings--cgo/statement-re-share-price-movement/9612029",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure required by the FCA to address short-term volatility, offering no fundamental change in Contango's operational outlook or valuation drivers.",
+      "key_themes": [
+        "Share Price Movement",
+        "Regulatory Compliance"
+      ]
     }
   ]
 }

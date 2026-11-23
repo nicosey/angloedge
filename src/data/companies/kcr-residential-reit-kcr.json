@@ -10,6 +10,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/kcr-residential-reit--kcr/notice-of-agm/9858204",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Results",
       "headline": "Final Results",
       "url": "https://www.investegate.co.uk/announcement/rns/kcr-residential-reit--kcr/final-results/9836239",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "Final results for a niche residential REIT typically signal standard dividend distribution and portfolio performance rather than transformative strategic shifts; without evidence of major M&A or distress, this is routine investor information.",
@@ -34,10 +36,14 @@
       "category": null,
       "headline": "Change of Broker",
       "url": "https://www.investegate.co.uk/announcement/rns/kcr-residential-reit--kcr/change-of-broker/9800288",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative change with negligible immediate financial impact; reflects standard operational maintenance rather than strategic shift or liquidity concern in the current UK REIT sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     }
   ]
 }

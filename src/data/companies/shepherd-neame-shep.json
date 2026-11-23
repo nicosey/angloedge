@@ -10,36 +10,49 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/shepherd-neame-ltd--shep/result-of-agm-/9853960",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no immediate financial or strategic weight for Shepherd Neame's valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-10-29T07:00:00",
       "category": "AGM/EGM",
       "headline": "AGM Trading Statement and Brewery Strategy Update",
       "url": "https://www.investegate.co.uk/announcement/rns/shepherd-neame-ltd--shep/agm-trading-statement-and-brewery-strategy-update/9846909",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As the UK's oldest independent brewer, Shepherd Neame's strategy update is critical for assessing its ability to navigate rising input costs and shifting consumer preferences in a highly consolidated market dominated by AB InBev and Heineken.",
+      "key_themes": [
+        "Strategic Outlook",
+        "Brewing Sector"
+      ]
     },
     {
       "timestamp": "2026-10-06T16:21:00",
       "category": "AGM/EGM",
       "headline": "Shepherd Neame - Notice of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/shepherd-neame-ltd--shep/shepherd-neame-notice-of-annual-general-meeting/9809718",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice for Shepherd Neame's AGM, requiring shareholder approval for routine matters such as director re-election and remuneration rather than signaling any strategic shift or material corporate action.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-09-30T07:00:00",
       "category": "Results",
       "headline": "Final results for the 52 weeks to 27 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/shepherd-neame-ltd--shep/final-results-for-the-52-weeks-to-27-june-2026-/9797733",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As the UK's oldest brewer with a unique tied estate model, Shepherd Neame's results are a critical barometer for the premium pub sector's resilience against cost-of-living pressures and shifting consumer habits. The outcome will signal whether the company can maintain margin stability amidst rising input costs and potential regulatory changes affecting the tied house system.",
@@ -54,6 +67,7 @@
       "category": null,
       "headline": "Shepherd Neame Ltd - Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/shepherd-neame-ltd--shep/shepherd-neame-ltd-holding-s-in-company/9790296",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -64,6 +78,7 @@
       "category": "Trading Update",
       "headline": "Board Changes and Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/shepherd-neame-ltd--shep/board-changes-and-trading-update-/9680693",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "The combination of a trading update with board changes in the UK brewing sector signals potential strategic realignment or governance shifts during a period of consumer pressure; while not immediately transformative, it warrants scrutiny for signs of management instability or strategic pivots amidst rising input costs.",

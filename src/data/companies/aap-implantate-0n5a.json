@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "EQS-News: aap increases revenue by 2% in the third quarter of 2026 – on top of the already high prior-year level",
       "url": "https://www.investegate.co.uk/announcement/eqs/aap-implantate-ag--0n5a/eqs-news-aap-increases-revenue-by-2-in-the-/9867512",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "A marginal 2% revenue increase signals stagnation rather than growth for a niche medical device firm, failing to generate significant investor enthusiasm or sector momentum.",
@@ -23,30 +24,45 @@
       "category": null,
       "headline": "EQS-News: aap Implantate AG: Focus on the trauma business – fully MDR-certified portfolio, new products, expanded sales activities – capital increase to finance the next phase of growth",
       "url": "https://www.investegate.co.uk/announcement/eqs/aap-implantate-ag--0n5a/eqs-news-aap-implantate-ag-focus-on-the-tra-/9853934",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The capital increase signals a critical pivot to scale the trauma division post-MDR compliance, addressing the liquidity constraints typical of small-cap medtech firms while mitigating dilution risk through growth-oriented financing.",
+      "key_themes": [
+        "Capital Raise",
+        "MDR Compliance",
+        "Strategic Pivot"
+      ]
     },
     {
       "timestamp": "2026-08-19T08:23:00",
       "category": "Appointment",
       "headline": "EQS-News: aap Implantate AG: Appointment of new board members and change of CEO at aap Implantate AG",
       "url": "https://www.investegate.co.uk/announcement/eqs/aap-implantate-ag--0n5a/eqs-news-aap-implantate-ag-appointment-of-n-/9729490",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "A simultaneous CEO departure and board reshuffle in a mid-cap medical device firm signals potential strategic instability or internal friction, warranting close scrutiny of the incoming leadership's ability to execute on growth targets amidst sector consolidation pressures.",
+      "key_themes": [
+        "Leadership Change",
+        "Corporate Governance",
+        "Medical Devices"
+      ]
     },
     {
       "timestamp": "2026-08-18T09:00:00",
       "category": null,
       "headline": "EQS-News: aap improves profitability in the first half of 2026 and starts the second half of the year with record order intake",
       "url": "https://www.investegate.co.uk/announcement/eqs/aap-implantate-ag--0n5a/eqs-news-aap-improves-profitability-in-the-f-/9727260",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Record order intake in the dental implant sector signals strong demand recovery and validates AAP's competitive positioning against larger rivals like Straumann, though execution risk remains on margin expansion.",
+      "key_themes": [
+        "order_book_growth",
+        "dental_sector_recovery",
+        "profitability_improvement"
+      ]
     }
   ]
 }

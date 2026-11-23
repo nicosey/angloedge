@@ -2,24 +2,40 @@
   "name": "Guardian Metal Resources plc",
   "ticker": "GMET",
   "slug": "guardian-metal-resources-gmet",
-  "announcement_count": 18,
-  "latest_announcement": "2026-10-30T07:30:00",
+  "announcement_count": 19,
+  "latest_announcement": "2026-11-23T07:00:00",
   "announcements": [
     {
-      "timestamp": "2026-10-30T07:30:00",
-      "category": null,
-      "headline": "Option Exercise",
-      "url": "https://www.investegate.co.uk/announcement/rns/guardian-metal-resources-plc--gmet/option-exercise/9850017",
+      "timestamp": "2026-11-23T07:00:00",
+      "category": "AGM/EGM",
+      "headline": "Notice of AGM",
+      "url": "https://www.investegate.co.uk/announcement/rns/guardian-metal-resources-plc--gmet/notice-of-agm/9887567",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
       "key_themes": null
     },
     {
+      "timestamp": "2026-10-30T07:30:00",
+      "category": null,
+      "headline": "Option Exercise",
+      "url": "https://www.investegate.co.uk/announcement/rns/guardian-metal-resources-plc--gmet/option-exercise/9850017",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Option exercises are standard dilutive events in junior mining equities, typically reflecting internal cash management rather than strategic shifts; without accompanying capital raising details, this poses negligible fundamental impact on Guardian Metal Resources' valuation or operational trajectory.",
+      "key_themes": [
+        "dilution",
+        "corporate_governance"
+      ]
+    },
+    {
       "timestamp": "2026-10-30T07:00:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/guardian-metal-resources-plc--gmet/total-voting-rights/9849216",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +46,7 @@
       "category": null,
       "headline": "Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/guardian-metal-resources-plc--gmet/investor-presentation/9846937",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,26 +57,36 @@
       "category": null,
       "headline": "Warrant Exercise",
       "url": "https://www.investegate.co.uk/announcement/rns/guardian-metal-resources-plc--gmet/warrant-exercise-/9833717",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Warrant exercises typically result in dilution of existing equity without immediate cash inflow to the issuer, a common but negative signal for small-cap resource firms reliant on shareholder capital. In the current UK junior mining sector, such events often precede further fundraising rounds or indicate limited organic growth traction.",
+      "key_themes": [
+        "dilution",
+        "capital_structure",
+        "junior-mining"
+      ]
     },
     {
       "timestamp": "2026-10-21T07:00:00",
       "category": null,
       "headline": "Strengthening of Senior Management Team",
       "url": "https://www.investegate.co.uk/announcement/rns/guardian-metal-resources-plc--gmet/strengthening-of-senior-management-team-/9832874",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Executive reshuffles in junior mining firms are common operational adjustments that rarely signal immediate value creation without accompanying asset acquisition or financing news; investors should monitor for subsequent capital raising or exploration updates to gauge strategic intent.",
+      "key_themes": [
+        "Corporate Governance",
+        "Management Change"
+      ]
     },
     {
       "timestamp": "2026-09-21T07:00:00",
       "category": "Results",
       "headline": "Positive Tempiute Tungsten Drilling Results",
       "url": "https://www.investegate.co.uk/announcement/rns/guardian-metal-resources-plc--gmet/positive-tempiute-tungsten-drilling-results-/9780785",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "High-grade tungsten results at Tempiute validate the asset's potential as a critical mineral supply source, aligning with EU/UK strategic autonomy goals for battery metals, though exploration-stage volatility remains high.",
@@ -73,16 +100,21 @@
       "category": null,
       "headline": "Filing of Annual Report on Form 20-F",
       "url": "https://www.investegate.co.uk/announcement/rns/guardian-metal-resources-plc--gmet/filing-of-annual-report-on-form-20-f/9778060",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Filing a Form 20-F is a standard regulatory requirement for non-US companies listed on US exchanges, indicating no immediate material corporate action or financial shock; for GMET, this confirms ongoing compliance but lacks the transformative catalysts required to drive significant equity re-rating in the current speculative mining sector.",
+      "key_themes": [
+        "Regulatory Compliance",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-09-17T07:00:00",
       "category": "Results",
       "headline": "Financial Results for the Year Ended 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/guardian-metal-resources-plc--gmet/financial-results-for-the-year-ended-30-june-2026/9776253",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a junior explorer with no production history, GMET's annual results primarily serve to validate cash burn rates and exploration progress rather than drive immediate valuation shifts; the market will scrutinize funding runway given the current tightening of liquidity for speculative mining stocks.",
@@ -97,36 +129,50 @@
       "category": null,
       "headline": "Admission to FTSE AIM 50 Index",
       "url": "https://www.investegate.co.uk/announcement/rns/guardian-metal-resources-plc--gmet/admission-to-ftse-aim-50-index/9759947",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Admission to the FTSE AIM 50 significantly enhances liquidity and mandates inclusion in passive indices, attracting institutional capital often restricted from smaller caps; for a junior miner like GMET, this validates market sentiment despite the inherent volatility of commodity prices.",
+      "key_themes": [
+        "Index Inclusion",
+        "Liquidity Boost",
+        "Institutional Interest"
+      ]
     },
     {
       "timestamp": "2026-08-27T07:00:00",
       "category": null,
       "headline": "Pilot Mountain Technical Report Summary",
       "url": "https://www.investegate.co.uk/announcement/rns/guardian-metal-resources-plc--gmet/pilot-mountain-technical-report-summary/9742173",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Technical reports for junior miners are standard due diligence steps that rarely move markets without a concurrent financing or production milestone; this summary likely serves to validate resource estimates rather than signal immediate commercial catalysts.",
+      "key_themes": [
+        "exploration",
+        "technical_assessment"
+      ]
     },
     {
       "timestamp": "2026-08-17T11:00:00",
       "category": null,
       "headline": "Warrant Exercise",
       "url": "https://www.investegate.co.uk/announcement/rns/guardian-metal-resources-plc--gmet/warrant-exercise-/9725251",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Warrant exercises are standard capital management tools that typically result in minor dilution rather than transformative growth; without disclosure of the exercise price or volume relative to market cap, this is likely a routine administrative event with negligible strategic impact on Guardian Metal Resources' valuation.",
+      "key_themes": [
+        "capital_structure",
+        "dilution"
+      ]
     },
     {
       "timestamp": "2026-07-21T07:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/guardian-metal-resources-plc--gmet/director-pdmr-shareholding/9678479",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements in the speculative mining sector typically carry negligible fundamental weight unless accompanied by significant volume or insider cluster activity; without transaction details, this remains an administrative disclosure with no immediate strategic implication for GMET's valuation.",
@@ -140,6 +186,7 @@
       "category": "Results",
       "headline": "Non-Core Portfolio Exploration Results",
       "url": "https://www.investegate.co.uk/announcement/rns/guardian-metal-resources-plc--gmet/non-core-portfolio-exploration-results/9666651",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "Exploration results for non-core assets typically generate minimal immediate valuation uplift unless they reveal a world-class discovery; this is likely routine technical reporting with limited near-term financial impact on GMET's core operations.",
@@ -153,16 +200,22 @@
       "category": null,
       "headline": "Pilot Mountain PFS Update & Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/guardian-metal-resources-plc--gmet/pilot-mountain-pfs-update-investor-presentation/9637905",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The Pilot Mountain PFS update serves as a critical de-risking milestone for GMET's US lithium asset, directly addressing the primary valuation hurdle of capital intensity in current high-rate environments; success here validates the project's bankability ahead of potential financing rounds.",
+      "key_themes": [
+        "Pilot Mountain",
+        "Lithium",
+        "Feasibility Study"
+      ]
     },
     {
       "timestamp": "2026-06-22T07:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/guardian-metal-resources-plc--gmet/holding-s-in-company/9628692",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -173,26 +226,35 @@
       "category": "Appointment",
       "headline": "Board Update",
       "url": "https://www.investegate.co.uk/announcement/rns/guardian-metal-resources-plc--gmet/board-update/9612446",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine board updates for junior mining explorers like GMET typically signal administrative continuity rather than strategic shifts; without details on new appointments or capital raises, this lacks the catalyst potential to move the share price significantly.",
+      "key_themes": [
+        "Corporate Governance",
+        "Exploration"
+      ]
     },
     {
       "timestamp": "2026-06-04T07:00:00",
       "category": null,
       "headline": "Discovery of Tremor Zone at Pilot Mountain",
       "url": "https://www.investegate.co.uk/announcement/rns/guardian-metal-resources-plc--gmet/discovery-of-tremor-zone-at-pilot-mountain/9600694",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "In the junior mining sector, 'tremor zone' discoveries are typically interpreted as seismic activity indicators rather than mineralization, representing a technical exploration update with negligible immediate financial impact unless explicitly linked to new ore bodies.",
+      "key_themes": [
+        "exploration_update",
+        "geophysics"
+      ]
     },
     {
       "timestamp": "2026-06-02T17:55:00",
       "category": null,
       "headline": "Exercise of Options",
       "url": "https://www.investegate.co.uk/announcement/rns/guardian-metal-resources-plc--gmet/exercise-of-options/9598255",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,

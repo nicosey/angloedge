@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Receipt of R&D tax credit",
       "url": "https://www.investegate.co.uk/announcement/rns/cap-xx-limited--cpx/receipt-of-r-d-tax-credit/9881902",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative receipt of R&D tax credits for CAP-XX, reflecting routine government incentives for its niche micro-supercapacitor technology rather than a strategic shift or major financial event.",
+      "key_themes": [
+        "R&D Tax Credit",
+        "Administrative Update"
+      ]
     },
     {
       "timestamp": "2026-11-17T07:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/cap-xx-limited--cpx/holding-s-in-company/9878204",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/cap-xx-limited--cpx/notice-of-agm/9861627",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +46,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/cap-xx-limited--cpx/director-pdmr-shareholding/9854512",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements for micro-cap stocks like CAP-XX typically carry negligible market impact unless accompanied by significant volume or unusual timing relative to price action.",
@@ -54,6 +61,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/cap-xx-limited--cpx/holding-s-in-company/9818751",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -64,6 +72,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/cap-xx-limited--cpx/total-voting-rights/9799957",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -74,6 +83,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/cap-xx-limited--cpx/holding-s-in-company/9756788",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -84,30 +94,43 @@
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/cap-xx-limited--cpx/result-of-general-meeting/9741163",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a standard post-meeting disclosure for CAP-XX's AGM/EGM, this announcement confirms routine governance outcomes rather than signaling strategic shifts or capital events, reflecting the low volatility typical of micro-cap biotech administration.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap Routine"
+      ]
     },
     {
       "timestamp": "2026-08-20T10:30:00",
       "category": null,
       "headline": "Change of General Meeting virtual platform",
       "url": "https://www.investegate.co.uk/announcement/rns/cap-xx-limited--cpx/change-of-general-meeting-virtual-platform/9732030",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a purely administrative update regarding the logistics of shareholder engagement, likely reflecting industry-wide adoption of hybrid meeting formats post-pandemic rather than any fundamental shift in CAP-XX's operational or financial standing.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-04T07:00:00",
       "category": "Placing",
       "headline": "Oversubscribed Retail Offer, Notice of GM & TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/cap-xx-limited--cpx/oversubscribed-retail-offer-notice-of-gm-tvr/9702421",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The oversubscribed retail offer validates strong underlying demand for CAP-XX's piezoelectric energy harvesting technology, while the concurrent General Meeting and TVR signal a strategic pivot to secure institutional backing or board changes essential for scaling operations in the competitive IoT sensor sector.",
+      "key_themes": [
+        "Capital Raise",
+        "Retail Demand",
+        "Corporate Governance"
+      ]
     }
   ]
 }

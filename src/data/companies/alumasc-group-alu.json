@@ -2,34 +2,85 @@
   "name": "Alumasc Group",
   "ticker": "ALU",
   "slug": "alumasc-group-alu",
-  "announcement_count": 8,
-  "latest_announcement": "2026-10-27T13:41:00",
+  "announcement_count": 11,
+  "latest_announcement": "2026-11-23T15:38:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T15:38:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/alumasc-group--alu/director-pdmr-shareholding/9889628",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealings in the engineering services sector typically signal low immediate market impact unless accompanied by block trades or executive compensation changes; without volume context, this remains an administrative disclosure.",
+      "key_themes": [
+        "corporate_governance",
+        "minor_disclosure"
+      ]
+    },
+    {
+      "timestamp": "2026-11-23T15:36:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/alumasc-group--alu/director-pdmr-shareholding/9889627",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealings in the engineering services sector typically signal internal alignment rather than strategic shifts, offering negligible immediate catalyst for share price movement compared to operational updates.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-11-23T07:00:00",
+      "category": "Appointment",
+      "headline": "Board changes",
+      "url": "https://www.investegate.co.uk/announcement/rns/alumasc-group--alu/board-changes/9887529",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board changes at Alumasc typically signal incremental governance adjustments rather than strategic shifts; without details on executive departures or new appointments with significant industry clout, the market impact is likely muted compared to operational news.",
+      "key_themes": [
+        "governance",
+        "corporate_actions"
+      ]
+    },
     {
       "timestamp": "2026-10-27T13:41:00",
       "category": "AGM/EGM",
       "headline": "RESULTS OF AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/alumasc-group--alu/results-of-agm/9844125",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting disclosure confirming the outcome of routine shareholder votes, likely concerning director reappointments and remuneration reports; it carries no new strategic or financial information for valuation purposes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-10-27T07:00:00",
       "category": "AGM/EGM",
       "headline": "AGM Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/alumasc-group--alu/agm-trading-update-/9842343",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine administrative filing for the AGM with a standard trading update; lacks transformative catalysts or significant financial guidance shifts typical of high-impact events in the engineering sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Trading Update"
+      ]
     },
     {
       "timestamp": "2026-09-25T16:13:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/alumasc-group--alu/holding-s-in-company/9792385",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +91,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/alumasc-group--alu/holding-s-in-company-/9777669",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,26 +102,35 @@
       "category": null,
       "headline": "Further update re CEO",
       "url": "https://www.investegate.co.uk/announcement/rns/alumasc-group--alu/further-update-re-ceo/9746442",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "CEO transitions in the UK industrials sector often signal strategic pivots or performance remediation; for Alumasc, this creates immediate uncertainty regarding its post-merger integration and capital allocation strategy amidst a challenging macro environment.",
+      "key_themes": [
+        "Leadership Change",
+        "Strategic Uncertainty"
+      ]
     },
     {
       "timestamp": "2026-07-17T07:00:00",
       "category": null,
       "headline": "Suspension of CEO & Changes in Leadership",
       "url": "https://www.investegate.co.uk/announcement/rns/alumasc-group--alu/suspension-of-ceo-changes-in-leadership-/9673585",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "The suspension of the CEO is a critical governance red flag for Alumasc, historically plagued by leadership instability and accounting controversies; this event risks triggering immediate liquidity crises and eroding investor confidence in the group's operational integrity.",
+      "key_themes": [
+        "Governance Risk",
+        "Leadership Instability"
+      ]
     },
     {
       "timestamp": "2026-07-17T07:00:00",
       "category": "Trading Update",
       "headline": "Full Year Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/alumasc-group--alu/full-year-trading-update-/9673563",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Alumasc's update reflects the persistent margin pressure in the UK construction supply chain amid high interest rates and material cost volatility, highlighting the sector-wide struggle to pass on costs without dampening demand.",
@@ -84,10 +145,14 @@
       "category": null,
       "headline": "Change of Company Secretary",
       "url": "https://www.investegate.co.uk/announcement/rns/alumasc-group--alu/change-of-company-secretary/9617243",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing with no direct financial or strategic implication for Alumasc's operations or valuation. Such changes are routine governance updates and do not signal any shift in the company's direction or market position.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     }
   ]
 }

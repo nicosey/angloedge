@@ -2,34 +2,58 @@
   "name": "World Chess",
   "ticker": "CHSS",
   "slug": "world-chess-chss",
-  "announcement_count": 7,
-  "latest_announcement": "2026-11-20T12:00:00",
+  "announcement_count": 8,
+  "latest_announcement": "2026-11-23T11:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T11:00:00",
+      "category": null,
+      "headline": "World Chess launches Watch for World Championship",
+      "url": "https://www.investegate.co.uk/announcement/rns/world-chess--chss/world-chess-launches-watch-for-world-championship/9889008",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This launch capitalizes on the post-2023 Magnus Carlsen hype cycle to drive user acquisition and subscription revenue, but faces intense competition from established platforms like Chess.com; success hinges on converting transient interest into sustained engagement rather than representing a fundamental business model shift.",
+      "key_themes": [
+        "User Acquisition",
+        "Content Strategy",
+        "Gaming Sector"
+      ]
+    },
     {
       "timestamp": "2026-11-20T12:00:00",
       "category": null,
       "headline": "World Chess launches daily prize money rankings",
       "url": "https://www.investegate.co.uk/announcement/rns/world-chess--chss/world-chess-launches-daily-prize-money-rankings/9886787",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This operational update targets user engagement via gamification rather than addressing core profitability challenges; in the competitive online gaming sector, such features are standard retention tactics but do not signal a fundamental shift in revenue generation or market position.",
+      "key_themes": [
+        "user_engagement",
+        "product_update"
+      ]
     },
     {
       "timestamp": "2026-10-08T11:45:00",
       "category": null,
       "headline": "World Chess is only active applicant for .chess",
       "url": "https://www.investegate.co.uk/announcement/rns/world-chess--chss/world-chess-is-only-active-applicant-for-chess/9813804",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "While securing the .chess domain offers a unique branding asset for World Chess, it lacks the financial scale to drive transformative value; this is primarily a marketing win rather than a fundamental shift in revenue or market position.",
+      "key_themes": [
+        "branding",
+        "digital assets"
+      ]
     },
     {
       "timestamp": "2026-09-08T09:00:00",
       "category": null,
       "headline": "Investor Presentation via Investor Meet Company",
       "url": "https://www.investegate.co.uk/announcement/rns/world-chess--chss/investor-presentation-via-investor-meet-company/9760864",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,26 +64,35 @@
       "category": null,
       "headline": "New Domain Application & Loan Agreement",
       "url": "https://www.investegate.co.uk/announcement/rns/world-chess--chss/new-domain-application-loan-agreement-/9749453",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing regarding domain registration and minor financing, offering no material insight into World Chess's operational performance or strategic direction in the competitive online gaming sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-17T14:23:00",
       "category": "AGM/EGM",
       "headline": "Result of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/world-chess--chss/result-of-annual-general-meeting/9623757",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of routine shareholder votes, which carries no immediate financial or strategic weight for World Chess.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-05-26T12:23:00",
       "category": "AGM/EGM",
       "headline": "Notice of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/world-chess--chss/notice-of-annual-general-meeting/9585853",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,10 +103,14 @@
       "category": null,
       "headline": "Launch of Global Brand Campaign",
       "url": "https://www.investegate.co.uk/announcement/rns/world-chess--chss/launch-of-global-brand-campaign-/9585741",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Marketing campaigns are operational expenses with negligible immediate financial impact on a micro-cap equity; without disclosed revenue growth or user acquisition metrics, this remains a low-conviction narrative play rather than a fundamental catalyst.",
+      "key_themes": [
+        "brand awareness",
+        "operational update"
+      ]
     }
   ]
 }

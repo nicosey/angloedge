@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/kooth--koo/holding-s-in-company/9884992",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Transfer of Treasury Shares & Exercise of Options",
       "url": "https://www.investegate.co.uk/announcement/rns/kooth--koo/transfer-of-treasury-shares-exercise-of-options/9851187",
+      "routine_type": "Treasury Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/kooth--koo/holding-s-in-company/9844002",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +43,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/kooth--koo/holding-s-in-company/9794921",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +54,7 @@
       "category": null,
       "headline": "Transfer of Treasury Shares & Exercise of Options",
       "url": "https://www.investegate.co.uk/announcement/rns/kooth--koo/transfer-of-treasury-shares-exercise-of-options/9790319",
+      "routine_type": "Treasury Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,16 +65,21 @@
       "category": "Appointment",
       "headline": "Appointment of Patrick Johnston to Board",
       "url": "https://www.investegate.co.uk/announcement/rns/kooth--koo/appointment-of-patrick-johnston-to-board/9790287",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard governance update for Kooth, a niche edtech firm with limited market liquidity; board appointments rarely drive immediate alpha unless tied to a specific turnaround strategy or M&A activity.",
+      "key_themes": [
+        "Corporate Governance",
+        "EdTech"
+      ]
     },
     {
       "timestamp": "2026-09-16T13:22:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/kooth--koo/holding-s-in-company/9775710",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,6 +90,7 @@
       "category": "Results",
       "headline": "Notice of Half Year Results",
       "url": "https://www.investegate.co.uk/announcement/rns/kooth--koo/notice-of-half-year-results/9759930",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a recently listed growth tech firm, Kooth's half-year results are critical for validating its path to profitability and user acquisition efficiency in the competitive digital mental health sector.",
@@ -93,6 +104,7 @@
       "category": null,
       "headline": "Transfer of Treasury Shares & Exercise of Options",
       "url": "https://www.investegate.co.uk/announcement/rns/kooth--koo/transfer-of-treasury-shares-exercise-of-options-/9716743",
+      "routine_type": "Treasury Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -103,6 +115,7 @@
       "category": null,
       "headline": "Transfer of Treasury Shares & Exercise of Options",
       "url": "https://www.investegate.co.uk/announcement/rns/kooth--koo/transfer-of-treasury-shares-exercise-of-options/9639881",
+      "routine_type": "Treasury Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -113,10 +126,14 @@
       "category": "AGM/EGM",
       "headline": "Result of 2026 Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/kooth--koo/result-of-2026-annual-general-meeting-/9632668",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for a small-cap tech firm typically carry minimal immediate market impact unless contested votes reveal governance instability; KOO's focus remains on execution rather than corporate action.",
+      "key_themes": [
+        "Corporate Governance",
+        "Small Cap"
+      ]
     }
   ]
 }

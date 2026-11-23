@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/prn/4basebio--4bb/holding-s-in-company/9880116",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/prn/4basebio--4bb/holding-s-in-company/9875513",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/prn/4basebio--4bb/holding-s-in-company/9873337",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +43,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/prn/4basebio--4bb/holding-s-in-company/9873336",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +54,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/prn/4basebio--4bb/holding-s-in-company/9873333",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,36 +65,51 @@
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/prn/4basebio--4bb/result-of-general-meeting/9863196",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the AGM/EGM; for a pre-revenue biotech like 4basebio, such routine governance updates have negligible immediate impact on valuation or liquidity.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-10-21T15:00:00",
       "category": "Placing",
       "headline": "Result of Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/prn/4basebio--4bb/result-of-retail-offer/9834827",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 4,
+      "insight": "The conclusion of the retail offer for a small-cap biotech like 4basebio typically signals a lack of institutional demand, often resulting in a depressed share price and limited liquidity. This reinforces the sector-wide challenge where speculative retail interest fails to sustain valuation without major clinical catalysts or strategic partnership.",
+      "key_themes": [
+        "Retail Demand",
+        "Liquidity Risk",
+        "Biotech Funding"
+      ]
     },
     {
       "timestamp": "2026-10-15T16:00:00",
       "category": "Placing",
       "headline": "Proposed Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/prn/4basebio--4bb/proposed-retail-offer/9825703",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The proposed retail offer alongside the placing suggests a targeted capital raise to fund clinical development or commercialization efforts, a common but critical lifeline for small-cap biotech firms in the current funding environment. This move aims to broaden the shareholder base and provide liquidity, though it typically carries dilution risks that weigh on near-term share price performance.",
+      "key_themes": [
+        "Capital Raise",
+        "Biotech Financing",
+        "Shareholder Dilution"
+      ]
     },
     {
       "timestamp": "2026-10-15T15:15:00",
       "category": "Results",
       "headline": "Results of Capital Raise",
       "url": "https://www.investegate.co.uk/announcement/prn/4basebio--4bb/results-of-capital-raise/9825602",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "This capital raise is critical for 4basebio's survival as a pre-revenue biotech, providing runway to advance clinical programs but inevitably diluting existing shareholders in a sector where funding costs remain elevated.",
@@ -104,30 +124,44 @@
       "category": "Results",
       "headline": "Half-year Report",
       "url": "https://www.investegate.co.uk/announcement/prn/4basebio--4bb/half-year-report/9792945",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a pre-revenue biotech, this interim report serves as a critical liquidity and milestone checkpoint rather than a profitability event; investors will scrutinize cash runway and clinical progress against the backdrop of current biotech funding constraints.",
+      "key_themes": [
+        "clinical development",
+        "cash burn",
+        "biotech sector"
+      ]
     },
     {
       "timestamp": "2026-08-26T07:19:00",
       "category": null,
       "headline": "4basebio and Genezen Enter into Strategic Collaboration to Advance Synthetic, Cell-Free DNA Platforms for Next-Generation Viral Vector Manufacturing",
       "url": "https://www.investegate.co.uk/announcement/gnw/4basebio--4bb/4basebio-and-genezen-enter-into-strategic-col-/9740689",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This collaboration with Genezen signals a strategic pivot toward synthetic biology and cell-free manufacturing, addressing critical scalability bottlenecks in the viral vector supply chain for gene therapy. While not immediately transformative, it positions 4basebio to capture value in the growing CDMO market by offering proprietary IP rather than just service capacity.",
+      "key_themes": [
+        "Synthetic Biology",
+        "Strategic Partnership",
+        "Gene Therapy Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-06-30T17:37:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM & Issue of Options",
       "url": "https://www.investegate.co.uk/announcement/prn/4basebio--4bb/result-of-agm-issue-of-options/9645421",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results combined with a standard options issue represent minimal immediate financial impact; such administrative disclosures are typical for pre-IPO or early-stage biotech firms and do not signal strategic shifts or capital raising events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     }
   ]
 }

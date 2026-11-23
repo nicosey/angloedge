@@ -10,16 +10,21 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/home-group-ld--93lf/directorate-change/9780391",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine administrative update regarding board composition for a major UK social housing provider; lacks immediate financial or strategic catalysts compared to earnings or policy-driven news.",
+      "key_themes": [
+        "Corporate Governance",
+        "Social Housing"
+      ]
     },
     {
       "timestamp": "2026-09-03T13:39:00",
       "category": "Trading Update",
       "headline": "Trading Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/home-group-ld--93lf/trading-statement-/9754573",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a major social housing provider, HOME Group's trading update is critical for assessing exposure to rising interest rates and construction cost inflation within the regulated sector; any deviation in net debt or rental income guidance signals broader margin pressure on non-profit landlords.",
@@ -34,10 +39,14 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/home-group-ld--93lf/directorate-change/9600075",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative change within the social housing sector; without details on the departing/arriving director's profile or specific mandate, this lacks immediate strategic weight compared to major capital allocation shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     }
   ]
 }

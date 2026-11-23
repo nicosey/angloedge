@@ -10,26 +10,35 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/skinbiotherapeutics--sbtx/directorate-change/9866463",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative update for a micro-cap biotech with no immediate commercial products; director changes in this sector are common governance adjustments rather than value drivers.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap Biotech"
+      ]
     },
     {
       "timestamp": "2026-08-24T07:00:00",
       "category": "Appointment",
       "headline": "Appointment of Interim CFO",
       "url": "https://www.investegate.co.uk/announcement/rns/skinbiotherapeutics--sbtx/appointment-of-interim-cfo/9735277",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Interim CFO appointments in small-cap biotech often signal internal restructuring or governance tightening rather than strategic expansion; without context on the predecessor's departure, this is likely a routine administrative fix to maintain compliance.",
+      "key_themes": [
+        "Corporate Governance",
+        "Small Cap Biotech"
+      ]
     },
     {
       "timestamp": "2026-07-27T07:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/skinbiotherapeutics--sbtx/holding-s-in-company/9687759",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +49,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/skinbiotherapeutics--sbtx/holding-s-in-company/9678473",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,26 +60,35 @@
       "category": null,
       "headline": "IMC Presentation Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/skinbiotherapeutics--sbtx/imc-presentation-statement/9640580",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Investor presentations are standard IR activities that rarely convey material new information compared to formal RNS filings; without disclosed financials or clinical milestones, this lacks the transformative catalyst required for significant price action in the volatile biotech sector.",
+      "key_themes": [
+        "investor_relations",
+        "clinical_development"
+      ]
     },
     {
       "timestamp": "2026-06-25T12:00:00",
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/skinbiotherapeutics--sbtx/directorate-change/9637172",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board-level restructuring common in pre-revenue biotech firms seeking to enhance governance credibility ahead of potential funding rounds; lacks immediate catalyst for valuation re-rating.",
+      "key_themes": [
+        "corporate_governance",
+        "biotech_administrative"
+      ]
     },
     {
       "timestamp": "2026-06-23T12:03:00",
       "category": null,
       "headline": "Notice of Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/skinbiotherapeutics--sbtx/notice-of-investor-presentation/9632390",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,16 +99,21 @@
       "category": null,
       "headline": "Restoration - SkinBioTherapeutics PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/skinbiotherapeutics--sbtx/restoration-skinbiotherapeutics-plc-/9606127",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "A restoration announcement is a standard administrative correction to the share price following a corporate action, carrying no fundamental change to the company's valuation or operational outlook.",
+      "key_themes": [
+        "administrative",
+        "corporate_governance"
+      ]
     },
     {
       "timestamp": "2026-06-08T07:00:00",
       "category": "Results",
       "headline": "Half-year Results (HY26) and Restated FY25 Results",
       "url": "https://www.investegate.co.uk/announcement/rns/skinbiotherapeutics--sbtx/half-year-results-hy26-and-restated-fy25-results/9605350",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "The restatement of FY25 results alongside HY26 figures signals potential accounting irregularities or compliance issues, which is a red flag for investor confidence in small-cap biotech. While interim results provide necessary liquidity visibility, the need for restatement introduces governance risk that often triggers immediate valuation discounts in the UK AIM sector.",
@@ -104,10 +128,15 @@
       "category": null,
       "headline": "Update on Investigation, Interims and Auditors",
       "url": "https://www.investegate.co.uk/announcement/rns/skinbiotherapeutics--sbtx/update-on-investigation-interims-and-auditors/9588707",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The combination of an investigation update with interim results signals potential governance friction or operational hurdles that may deter institutional capital in the crowded UK biotech sector. This creates near-term volatility and valuation uncertainty for a small-cap entity already facing scrutiny on execution risks.",
+      "key_themes": [
+        "Governance Risk",
+        "Interim Results",
+        "Biotech Volatility"
+      ]
     }
   ]
 }

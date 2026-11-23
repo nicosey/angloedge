@@ -10,6 +10,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/shearwater-group--swg/notice-of-agm/9856260",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Results",
       "headline": "Notice of Results and Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/shearwater-group--swg/notice-of-results-and-investor-presentation-/9823639",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a small-cap infrastructure asset manager, SWG's results are critical for assessing the resilience of its yield-generating portfolio amidst rising interest rates and construction cost inflation; this update will likely drive short-term volatility as investors scrutinize fund valuations and dividend sustainability.",
@@ -34,16 +36,21 @@
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/shearwater-group--swg/result-of-general-meeting/9820535",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the AGM/EGM; while it validates governance compliance, it carries no immediate pricing impact or strategic shift for Shearwater Group.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-09-25T09:12:00",
       "category": null,
       "headline": "Notice of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/shearwater-group--swg/notice-of-general-meeting/9791374",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -54,20 +61,29 @@
       "category": null,
       "headline": "Expanded Growth Opportunity on G-Cloud 15",
       "url": "https://www.investegate.co.uk/announcement/rns/shearwater-group--swg/expanded-growth-opportunity-on-g-cloud-15/9707357",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "G-Cloud 15 represents a critical procurement window for UK public sector IT services, directly addressing the government's push for digital transformation and cost efficiency. For Shearwater, this expands their addressable market within the competitive cloud infrastructure space, though execution risk remains tied to their ability to secure specific framework agreements against larger incumbents.",
+      "key_themes": [
+        "UK Public Sector Procurement",
+        "Cloud Infrastructure",
+        "Government IT Services"
+      ]
     },
     {
       "timestamp": "2026-07-02T07:00:00",
       "category": "Appointment",
       "headline": "Board update",
       "url": "https://www.investegate.co.uk/announcement/rns/shearwater-group--swg/board-update-/9648435",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Board updates for small-cap engineering firms like Shearwater are typically administrative or minor personnel changes that rarely signal immediate strategic shifts or material financial impact.",
+      "key_themes": [
+        "Corporate Governance",
+        "Small Cap"
+      ]
     }
   ]
 }

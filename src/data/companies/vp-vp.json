@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./notification-of-major-holdings/9854511",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Results",
       "headline": "Notice of Results & Investor Presentations",
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./notice-of-results-investor-presentations/9825979",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the release of results and investor presentations, lacking any immediate transformative catalysts or material guidance shifts.",
@@ -33,6 +35,7 @@
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./notification-of-major-holdings/9825633",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,6 +46,7 @@
       "category": "Director Dealing",
       "headline": "Director Share Purchase",
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./director-share-purchase/9807121",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Director share purchases are standard insider activity that rarely signal immediate fundamental shifts without accompanying volume data or context; in the current UK equity environment, isolated buys are often noise rather than alpha.",
@@ -56,6 +60,7 @@
       "category": "Director Dealing",
       "headline": "Director Share Purchase",
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./director-share-purchase/9806415",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Director share purchases are generally viewed as a positive sentiment signal but rarely drive immediate price action unless the volume is substantial relative to float; in the current UK market environment, such deals often reflect confidence rather than fundamental catalysts.",
@@ -69,6 +74,7 @@
       "category": "Director Dealing",
       "headline": "Director Share Purchase",
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./director-share-purchase/9797859",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Director share purchases are generally positive sentiment signals but rarely drive immediate valuation changes in the absence of a larger strategic catalyst; context depends heavily on the director's seniority and deal size relative to market cap.",
@@ -82,16 +88,21 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./directorate-change/9733988",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Directorate changes are standard corporate governance updates that rarely signal immediate strategic shifts without accompanying commentary on succession or performance; for VP, this is likely an administrative filing with negligible short-term price impact.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-05T09:28:00",
       "category": "Director Dealing",
       "headline": "Grant of SAYE Options and PDMR Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./grant-of-saye-options-and-pdmr-dealing/9706022",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine administrative disclosure of executive incentive grants and standard insider trading compliance; lacks material price-sensitive information or strategic shifts relevant to VP's digital health sector positioning.",
@@ -105,26 +116,35 @@
       "category": "Appointment",
       "headline": "Directorate Change",
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./directorate-change/9696410",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative change with no immediate strategic implication for VP Group's core logistics operations or financial outlook.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-07-23T15:00:00",
       "category": "AGM/EGM",
       "headline": "Results of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./results-of-annual-general-meeting/9684880",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard procedural filing confirming the outcome of shareholder votes at VP's AGM, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-07-21T15:36:00",
       "category": null,
       "headline": "Grant of Long Term Incentive Plan Awards",
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./grant-of-long-term-incentive-plan-awards/9680437",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -135,6 +155,7 @@
       "category": null,
       "headline": "Grant of Long Term Incentive Plan Awards",
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./grant-of-long-term-incentive-plan-awards/9678014",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -145,6 +166,7 @@
       "category": null,
       "headline": "Grant of Long Term Incentive Plan Awards",
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./grant-of-long-term-incentive-plan-awards/9678013",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -155,6 +177,7 @@
       "category": null,
       "headline": "Grant of Long Term Incentive Plan Awards",
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./grant-of-long-term-incentive-plan-awards/9678001",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -165,26 +188,35 @@
       "category": "AGM/EGM",
       "headline": "Annual Report and Notice of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./annual-report-and-notice-of-annual-general-meeting/9656722",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for VP Group, serving only to convene the AGM rather than disclose material financial performance or strategic shifts. Such notices are routine governance requirements with negligible immediate impact on share price or valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-06T07:00:00",
       "category": null,
       "headline": "Mello Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./mello-investor-presentation/9653041",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Investor presentations are standard IR tools that rarely move share prices without accompanying financial data; the market will focus on execution metrics and margin trends rather than the deck itself.",
+      "key_themes": [
+        "Investor Relations",
+        "Corporate Communications"
+      ]
     },
     {
       "timestamp": "2026-06-18T14:05:00",
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./director-declaration/9626019",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -195,6 +227,7 @@
       "category": "Results",
       "headline": "Notice of Results & Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./notice-of-results-investor-presentation/9590939",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a standard results announcement for a mid-cap property investment trust, this event confirms financial performance and strategy but lacks the transformative catalysts required for a high impact score. The market will focus on net asset value (NAV) stability and dividend coverage amidst the current UK commercial real estate rate environment.",

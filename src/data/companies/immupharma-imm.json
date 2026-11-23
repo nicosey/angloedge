@@ -10,26 +10,35 @@
       "category": null,
       "headline": "New peer-reviewed publication",
       "url": "https://www.investegate.co.uk/announcement/rns/immupharma--imm/new-peer-reviewed-publication/9771803",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Peer-reviewed publications serve as scientific validation for Immupharma's proprietary technology but do not constitute commercial milestones or revenue-generating events in the current biotech cycle.",
+      "key_themes": [
+        "R&D Validation",
+        "Scientific Credibility"
+      ]
     },
     {
       "timestamp": "2026-09-15T07:01:00",
       "category": null,
       "headline": "P140 International Patent Filing Update",
       "url": "https://www.investegate.co.uk/announcement/rns/immupharma--imm/p140-international-patent-filing-update/9771747",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "While international patent filings are essential for IP protection in the biotech sector, they represent a routine administrative milestone rather than a commercial catalyst; without accompanying clinical data or partnership news, this update lacks immediate valuation impact.",
+      "key_themes": [
+        "IP Strategy",
+        "Biotech Development"
+      ]
     },
     {
       "timestamp": "2026-09-10T13:40:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/immupharma--imm/holding-s-in-company/9766115",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,60 +49,87 @@
       "category": null,
       "headline": "Bioanalytical CRO partner for Kapiglucagon",
       "url": "https://www.investegate.co.uk/announcement/rns/immupharma--imm/bioanalytical-cro-partner-for-kapiglucagon-/9711926",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms the engagement of a bioanalytical CRO for Kapiglucagon, signaling continued progression in the drug's development lifecycle but representing routine operational expenditure rather than a value-accretive catalyst. For a pre-revenue biotech like Immupharma, such partnerships are standard prerequisites for clinical milestones and do not independently alter the investment thesis or valuation.",
+      "key_themes": [
+        "R&D Progress",
+        "Kapiglucagon",
+        "CRO Partnership"
+      ]
     },
     {
       "timestamp": "2026-07-22T07:00:00",
       "category": null,
       "headline": "Thermo Fisher CDMO selected for Kapiglucagon pro",
       "url": "https://www.investegate.co.uk/announcement/rns/immupharma--imm/thermo-fisher-cdmo-selected-for-kapiglucagon-pro/9680713",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Securing Thermo Fisher as a CDMO for Kapiglucagon validates the clinical development pathway and mitigates manufacturing risk for this high-profile obesity asset, though it remains a pre-revenue milestone rather than an immediate commercial catalyst.",
+      "key_themes": [
+        "CDMO Partnership",
+        "Obesity Pipeline",
+        "Manufacturing Risk Mitigation"
+      ]
     },
     {
       "timestamp": "2026-06-25T13:20:00",
       "category": "AGM/EGM",
       "headline": "2026 RESULT OF ANNUAL GENERAL MEETING",
       "url": "https://www.investegate.co.uk/announcement/rns/immupharma--imm/2026-result-of-annual-general-meeting-/9637309",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of routine shareholder approvals for an early-stage biotech; it carries no intrinsic valuation impact unless specific dissenting votes reveal governance risks.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-06-25T07:00:00",
       "category": "Appointment",
       "headline": "ImmuPharma appoints Bachem for Kapiglucagon API",
       "url": "https://www.investegate.co.uk/announcement/rns/immupharma--imm/immupharma-appoints-bachem-for-kapiglucagon-api-/9635563",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Securing Bachem as a CMO for Kapiglucagon API de-risks the supply chain for this novel GLP-1/Glucagon receptor agonist, addressing a critical bottleneck in peptide drug development and validating the asset's progression towards clinical or commercial scale.",
+      "key_themes": [
+        "API Supply Chain",
+        "GLP-1 Agonists",
+        "Strategic Partnership"
+      ]
     },
     {
       "timestamp": "2026-06-24T07:00:00",
       "category": null,
       "headline": "University of Murcia research relating to P140",
       "url": "https://www.investegate.co.uk/announcement/rns/immupharma--imm/university-of-murcia-research-relating-to-p140/9633221",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Academic validation of the P140 mechanism provides necessary scientific credibility for Immupharma's immunotherapy pipeline but lacks immediate commercial catalysts or revenue visibility typical of higher-impact biotech milestones.",
+      "key_themes": [
+        "R&D Validation",
+        "Oncology Pipeline"
+      ]
     },
     {
       "timestamp": "2026-06-04T07:10:00",
       "category": "Appointment",
       "headline": "Incanthera plc – Corporate Update & Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/immupharma--imm/incanthera-plc-corporate-update-board-changes/9601468",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement concerns Incanthera plc, not Immupharma (IMM), indicating a likely data mismatch or ticker confusion in the source material; assuming it refers to IMM, board changes in small-cap biotech are routine governance updates with negligible immediate financial impact.",
+      "key_themes": [
+        "Corporate Governance",
+        "Data Mismatch"
+      ]
     }
   ]
 }

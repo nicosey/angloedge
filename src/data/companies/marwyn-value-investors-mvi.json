@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Notification of Major Interests in Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/marwyn-value-investors-limited--mvi/notification-of-major-interests-in-shares/9839481",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,26 +21,36 @@
       "category": null,
       "headline": "Publication of Circular and Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/marwyn-value-investors-limited--mvi/publication-of-circular-and-prospectus/9837056",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard procedural disclosure for an investment trust's ongoing fundraising or reporting cycle, lacking the transformative catalysts of M&A or leadership changes that typically drive significant UK equity volatility.",
+      "key_themes": [
+        "investment_trust",
+        "capital_markets"
+      ]
     },
     {
       "timestamp": "2026-07-30T07:00:00",
       "category": "Dividend",
       "headline": "Interim Dividend to Ordinary Shareholders",
       "url": "https://www.investegate.co.uk/announcement/rns/marwyn-value-investors-limited--mvi/interim-dividend-to-ordinary-shareholders/9694703",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a closed-end investment trust, this dividend confirms the realization of capital gains from its portfolio, signaling continued liquidity generation in a volatile market environment where income distribution is critical for maintaining share price premium/discount dynamics.",
+      "key_themes": [
+        "investment trust",
+        "income distribution",
+        "capital realization"
+      ]
     },
     {
       "timestamp": "2026-06-24T12:28:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/marwyn-value-investors-limited--mvi/director-pdmr-shareholding/9634779",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate market impact unless accompanied by unusual volume or context suggesting insider sentiment shifts.",
@@ -53,6 +64,7 @@
       "category": null,
       "headline": "Notification of Major Interests in Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/marwyn-value-investors-limited--mvi/notification-of-major-interests-in-shares/9612083",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,6 +75,7 @@
       "category": null,
       "headline": "Notification of Major Interests in Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/marwyn-value-investors-limited--mvi/notification-of-major-interests-in-shares/9611468",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,10 +86,14 @@
       "category": "Acquisition",
       "headline": "Share Acquisition",
       "url": "https://www.investegate.co.uk/announcement/rns/marwyn-value-investors-limited--mvi/share-acquisition/9609312",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Marwyn Value Investors is a closed-end investment trust; share acquisition disclosures typically reflect standard portfolio management or minor treasury activity rather than transformative corporate events.",
+      "key_themes": [
+        "Closed-End Fund",
+        "Portfolio Management"
+      ]
     }
   ]
 }

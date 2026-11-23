@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/ariana-resources--aau/director-pdmr-shareholding-/9877119",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR disclosure typical for junior explorers like Ariana Resources; without volume or price context, it offers no signal of insider conviction or liquidity pressure in the current volatile uranium sector.",
@@ -23,6 +24,7 @@
       "category": null,
       "headline": "Investor Presentation during Mines and Money",
       "url": "https://www.investegate.co.uk/announcement/rns/ariana-resources--aau/investor-presentation-during-mines-and-money/9871324",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -33,66 +35,93 @@
       "category": null,
       "headline": "VFEX Prospectus and Proposed Secondary Listing",
       "url": "https://www.investegate.co.uk/announcement/rns/ariana-resources--aau/vfex-prospectus-and-proposed-secondary-listing/9864973",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The VFEX listing provides a low-cost, rapid route to UK capital markets for AAU, potentially enhancing liquidity and broadening the investor base beyond its primary AIM listing, though it does not constitute a transformative capital raise in itself.",
+      "key_themes": [
+        "VFEX",
+        "Secondary Listing",
+        "Liquidity"
+      ]
     },
     {
       "timestamp": "2026-10-30T07:00:00",
       "category": null,
       "headline": "Quarterly Activities Report Ended 30 Sept 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/ariana-resources--aau/quarterly-activities-report-ended-30-sept-2026/9849254",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Quarterly activity reports for junior explorers like Ariana Resources are routine operational updates that rarely move the market unless they disclose a major discovery or funding event; without specific assay results or financing details in the headline, this is likely administrative noise.",
+      "key_themes": [
+        "Exploration Update",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-10-19T07:00:00",
       "category": null,
       "headline": "ACF Equity Research Broker Notes",
       "url": "https://www.investegate.co.uk/announcement/rns/ariana-resources--aau/acf-equity-research-broker-notes/9828302",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Broker notes are non-binding commentary rather than corporate action, offering limited immediate price catalyst for AAU despite potential validation of exploration strategy.",
+      "key_themes": [
+        "broker_commentary",
+        "exploration"
+      ]
     },
     {
       "timestamp": "2026-10-12T10:30:00",
       "category": null,
       "headline": "Upcoming Events Calendar",
       "url": "https://www.investegate.co.uk/announcement/rns/ariana-resources--aau/upcoming-events-calendar/9817993",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative calendar update with no new substantive data or strategic shifts; in the junior mining sector, such announcements are routine housekeeping and do not influence valuation or sentiment without accompanying operational results.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-09-14T07:00:00",
       "category": "Appointment",
       "headline": "Appointment of Executive Chairman",
       "url": "https://www.investegate.co.uk/announcement/rns/ariana-resources--aau/-appointment-of-executive-chairman/9769151",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The appointment of an Executive Chairman signals a shift towards operational execution in the critical pre-production phase, addressing governance concerns often cited by institutional investors in junior miners. This move aligns with recent sector trends where resource companies consolidate leadership to accelerate project timelines and secure funding ahead of potential capital raises.",
+      "key_themes": [
+        "Corporate Governance",
+        "Project Execution",
+        "Junior Mining"
+      ]
     },
     {
       "timestamp": "2026-07-31T07:15:00",
       "category": null,
       "headline": "Quarterly Activities Report Ended 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/ariana-resources--aau/quarterly-activities-report-ended-30-june-2026/9697887",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Quarterly activities reports are standard operational disclosures for junior explorers like Ariana Resources, providing no new material financial data or strategic shifts to influence valuation.",
+      "key_themes": [
+        "exploration_update",
+        "routine_disclosure"
+      ]
     },
     {
       "timestamp": "2026-06-12T07:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Holding",
       "url": "https://www.investegate.co.uk/announcement/rns/ariana-resources--aau/director-pdmr-holding/9614713",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate market impact, reflecting standard liquidity management rather than strategic shifts in the junior exploration sector.",
@@ -106,10 +135,14 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM and Updated Corporate Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/ariana-resources--aau/result-of-agm-and-updated-corporate-presentation-/9592536",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming shareholder approval for routine governance matters; the 'updated corporate presentation' serves as minor investor relations maintenance rather than signaling any strategic shift or material capital event in the current junior mining sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Investor Relations"
+      ]
     }
   ]
 }

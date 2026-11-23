@@ -10,26 +10,36 @@
       "category": null,
       "headline": "Senior Secured Bond Tap Issue",
       "url": "https://www.investegate.co.uk/announcement/rns/kistos-holdings--kist/senior-secured-bond-tap-issue/9840006",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This tap issue signals Kistos' continued aggressive deployment of capital into its private credit portfolio, leveraging its investment trust structure to fuel growth. While it confirms active management and liquidity access, it also highlights the sector's reliance on debt financing to maintain yield levels amidst rising base rates.",
+      "key_themes": [
+        "capital_allocation",
+        "private_credit",
+        "investment_trust"
+      ]
     },
     {
       "timestamp": "2026-10-14T07:00:00",
       "category": "Acquisition",
       "headline": "Acquisition of Ringhorne Production Licences",
       "url": "https://www.investegate.co.uk/announcement/rns/kistos-holdings--kist/acquisition-of-ringhorne-production-licences/9821326",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This acquisition aligns with Kistos' core strategy of expanding its UK onshore oil portfolio to enhance long-term cash flow visibility and operational scale, though the immediate financial impact depends heavily on current Brent crude pricing and reserve quality.",
+      "key_themes": [
+        "Portfolio Expansion",
+        "Upstream Oil & Gas"
+      ]
     },
     {
       "timestamp": "2026-09-15T07:01:00",
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/kistos-holdings--kist/interim-results/9771745",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a specialist lender to the UK SME sector, KIST's interim results provide critical visibility into credit quality and funding costs during a period of elevated interest rates and economic uncertainty; any deviation in NPL ratios or net interest margins will signal broader health in the alternative finance market.",
@@ -44,16 +54,22 @@
       "category": null,
       "headline": "Issuance of Royal Decree for Block 3 & 4",
       "url": "https://www.investegate.co.uk/announcement/rns/kistos-holdings--kist/issuance-of-royal-decree-for-block-3-4/9757570",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The issuance of the Royal Decree marks a critical regulatory milestone for Block 3 & 4, transitioning the project from exploration to potential exploitation status under Moroccan law. This reduces political risk premium and validates the strategic value of Kistos' upstream assets, though commercial production timelines remain the key variable for valuation.",
+      "key_themes": [
+        "Regulatory Approval",
+        "Upstream Development",
+        "Morocco"
+      ]
     },
     {
       "timestamp": "2026-07-28T07:00:00",
       "category": "Trading Update",
       "headline": "Trading Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/kistos-holdings--kist/trading-statement/9689922",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 4,
       "insight": "As a closed-end investment trust with a long-term horizon, routine trading updates rarely drive immediate price action unless they signal significant NAV volatility or dividend changes; this is likely standard operational reporting.",
@@ -67,16 +83,21 @@
       "category": "AGM/EGM",
       "headline": "Results of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/kistos-holdings--kist/results-of-agm/9684918",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at Kistos' Annual General Meeting, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital allocation changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-30T12:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/kistos-holdings--kist/notice-of-agm/9644671",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -87,10 +108,15 @@
       "category": null,
       "headline": "Balder Next FID",
       "url": "https://www.investegate.co.uk/announcement/rns/kistos-holdings--kist/balder-next-fid/9624295",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The Final Investment Decision (FID) for Balder marks a critical execution milestone for Kistos' offshore wind portfolio, validating its project development pipeline and confirming the transition from construction to operational cash flow generation. This reduces execution risk premium on the stock and signals continued momentum in the UK's renewable energy infrastructure sector.",
+      "key_themes": [
+        "Offshore Wind",
+        "Project Execution",
+        "Renewable Infrastructure"
+      ]
     }
   ]
 }

@@ -2,24 +2,45 @@
   "name": "Discoverie Group",
   "ticker": "DSCV",
   "slug": "discoverie-group-dscv",
-  "announcement_count": 7,
-  "latest_announcement": "2026-08-19T07:00:00",
+  "announcement_count": 8,
+  "latest_announcement": "2026-11-23T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T07:00:00",
+      "category": "Results",
+      "headline": "Notice of Half Year Results",
+      "url": "https://www.investegate.co.uk/announcement/rns/discoverie-group--dscv/notice-of-half-year-results/9887536",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a small-cap tech firm, Discoverie's half-year results are critical for validating its commercial traction in the niche semiconductor inspection sector; investor focus will be on revenue growth rates and path to profitability amidst broader semiconductor capex cycles.",
+      "key_themes": [
+        "interim results",
+        "semiconductor equipment",
+        "small-cap tech"
+      ]
+    },
     {
       "timestamp": "2026-08-19T07:00:00",
       "category": null,
       "headline": "Major Expansion of Manufacturing Capacity in India",
       "url": "https://www.investegate.co.uk/announcement/rns/discoverie-group--dscv/major-expansion-of-manufacturing-capacity-in-india/9728559",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Expanding manufacturing in India aligns with the broader UK tech sector trend of supply chain diversification to mitigate geopolitical risk and reduce costs, though execution risk remains a key factor for this small-cap stock.",
+      "key_themes": [
+        "Supply Chain Diversification",
+        "Cost Optimization",
+        "Manufacturing Expansion"
+      ]
     },
     {
       "timestamp": "2026-08-13T10:36:00",
       "category": "Director Dealing",
       "headline": "Director / PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/discoverie-group--dscv/director-pdmr-shareholding-/9720567",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR shareholding disclosures are standard regulatory filings with negligible immediate market impact; without details on transaction direction (buy/sell) or volume, this data point lacks strategic signal for the small-cap tech sector.",
@@ -33,26 +54,35 @@
       "category": "AGM/EGM",
       "headline": "Results of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/discoverie-group--dscv/results-of-annual-general-meeting/9687006",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results typically confirm shareholder ratification of standard governance items with negligible immediate financial impact, reflecting the low volatility and administrative nature of this corporate action for Discoverie Group.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-18T10:00:00",
       "category": "AGM/EGM",
       "headline": "Annual Report & Accounts 2026 & Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/discoverie-group--dscv/annual-report-accounts-2026-notice-of-agm/9625416",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard compliance filing for the annual report and notice of meeting, typical for AIM-listed small caps like Discoverie Group to maintain governance standards without signaling immediate strategic shifts or material financial changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-06-15T13:34:00",
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/discoverie-group--dscv/notification-of-major-holdings-/9618915",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,16 +93,21 @@
       "category": null,
       "headline": "Director LTIP & DSBP Awards",
       "url": "https://www.investegate.co.uk/announcement/rns/discoverie-group--dscv/director-ltip-dsbp-awards/9613677",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine administrative disclosure of executive compensation awards under the LTIP and DSBP schemes; typical for UK AIM tech firms to align management incentives with long-term shareholder value but carries no immediate fundamental catalyst or financial impact.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Compensation"
+      ]
     },
     {
       "timestamp": "2026-06-03T07:00:00",
       "category": "Results",
       "headline": "Preliminary results",
       "url": "https://www.investegate.co.uk/announcement/rns/discoverie-group--dscv/preliminary-results-/9598411",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a small-cap AIM tech firm, Discoverie's preliminary results provide critical visibility into its niche medical device market positioning and cash burn rate, which is vital for assessing its runway ahead of potential dilutive fundraising or strategic pivots.",

@@ -10,16 +10,21 @@
       "category": null,
       "headline": "La India Construction Site - Fatal Accident",
       "url": "https://www.investegate.co.uk/announcement/mfn/metals-exploration--mtl/la-india-construction-site-fatal-accident/9831732",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "While a fatal accident triggers immediate operational pauses and potential regulatory scrutiny under UK HSE standards, the financial impact on Metals Exploration is likely limited to short-term disruption rather than existential risk given its exploration-stage status. This mirrors historical precedents in junior mining where safety incidents cause temporary sentiment dips but rarely alter long-term valuation unless significant liabilities are incurred.",
+      "key_themes": [
+        "ESG Risk",
+        "Operational Disruption"
+      ]
     },
     {
       "timestamp": "2026-08-28T13:25:00",
       "category": "Director Dealing",
       "headline": "Director / PDMR Dealings",
       "url": "https://www.investegate.co.uk/announcement/mfn/metals-exploration--mtl/director-pdmr-dealings/9746134",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in the junior exploration space typically signal internal alignment rather than material value creation; without disclosed volume or price data, this lacks the transformative weight of M&A or significant capital raises.",
@@ -33,6 +38,7 @@
       "category": "Director Dealing",
       "headline": "PDMR Dealings, Exercise of Warrants, and TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/metals-exploration--mtl/pdmr-dealings-exercise-of-warrants-and-tvr/9704906",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR dealings in the junior exploration space typically signal low immediate conviction shifts; warrant exercises are standard dilution mechanics rather than strategic capital raises, offering no fundamental catalyst for valuation re-rating.",
@@ -46,6 +52,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/metals-exploration--mtl/tr-1-notification-of-major-holdings-/9704878",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -56,6 +63,7 @@
       "category": "Director Dealing",
       "headline": "Director / PDMR Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/metals-exploration--mtl/director-pdmr-dealings-/9635105",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in the junior exploration space typically signal minimal immediate fundamental impact unless volume is exceptional; without disclosure of size or direction (buy/sell), this remains an administrative filing with negligible short-term price implication.",
@@ -69,16 +77,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/metals-exploration--mtl/result-of-agm/9618884",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no immediate financial or strategic weight for Metals Exploration's exploration activities.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-06-05T07:00:00",
       "category": null,
       "headline": "Exercise of Options and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/metals-exploration--mtl/exercise-of-options-and-total-voting-rights/9603053",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

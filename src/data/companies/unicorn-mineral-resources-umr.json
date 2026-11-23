@@ -10,36 +10,49 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/unicorn-mineral-resources-eur0-01-cdi---umr/result-of-agm/9873212",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of an Annual General Meeting, which typically involves routine matters such as director re-election and auditor appointment rather than strategic shifts or capital raises.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-11-02T07:00:00",
       "category": null,
       "headline": "Unicorn launches new interactive investor hub",
       "url": "https://www.investegate.co.uk/announcement/rns/unicorn-mineral-resources-eur0-01-cdi---umr/unicorn-launches-new-interactive-investor-hub/9851927",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations initiative with no fundamental impact on valuation or operations; such digital hubs are routine for micro-cap resource firms seeking liquidity but do not signal material business development.",
+      "key_themes": [
+        "Investor Relations",
+        "Micro-cap"
+      ]
     },
     {
       "timestamp": "2026-10-26T07:00:00",
       "category": "Appointment",
       "headline": "Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/unicorn-mineral-resources-eur0-01-cdi---umr/board-changes/9840030",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine board changes in a micro-cap explorer typically signal administrative housekeeping rather than strategic shifts, offering no immediate catalyst for valuation unless linked to a specific technical milestone.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-Cap"
+      ]
     },
     {
       "timestamp": "2026-09-24T14:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/unicorn-mineral-resources-eur0-01-cdi---umr/notice-of-agm/9789771",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,40 +63,58 @@
       "category": null,
       "headline": "£1.25 Million Loan Facility Fully Drawn",
       "url": "https://www.investegate.co.uk/announcement/rns/unicorn-mineral-resources-eur0-01-cdi---umr/-1-25-million-loan-facility-fully-drawn/9776296",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "The full drawdown of a £1.25m facility signals immediate liquidity needs for Unicorn Mineral Resources, likely to fund near-term exploration or operational costs in the volatile junior mining sector. While not transformative, it highlights the cash-burn reality for small-cap resource explorers reliant on debt facilities between equity raises.",
+      "key_themes": [
+        "liquidity",
+        "mining_exploration",
+        "debt_funding"
+      ]
     },
     {
       "timestamp": "2026-09-15T14:13:00",
       "category": null,
       "headline": "Board and Management Update",
       "url": "https://www.investegate.co.uk/announcement/rns/unicorn-mineral-resources-eur0-01-cdi---umr/board-and-management-update/9773416",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Administrative updates regarding board composition or minor management changes in junior mining stocks typically signal operational continuity rather than strategic shifts, lacking the material financial impact required to move valuation metrics significantly.",
+      "key_themes": [
+        "Corporate Governance",
+        "Minor Update"
+      ]
     },
     {
       "timestamp": "2026-08-17T07:00:00",
       "category": null,
       "headline": "Agreement for £1.25m Unsecured Loan Facility",
       "url": "https://www.investegate.co.uk/announcement/rns/unicorn-mineral-resources-eur0-01-cdi---umr/agreement-for-1-25m-unsecured-loan-facility/9723809",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This £1.25m unsecured loan is a minor liquidity injection typical for micro-cap exploration firms to fund operational continuity rather than transformative growth. It signals no immediate strategic shift or major value creation, merely extending the runway for existing asset evaluation.",
+      "key_themes": [
+        "liquidity",
+        "micro-cap",
+        "debt_finance"
+      ]
     },
     {
       "timestamp": "2026-07-03T11:13:00",
       "category": null,
       "headline": "Term Sheet Agreed for £1.25m Loan Facility",
       "url": "https://www.investegate.co.uk/announcement/rns/unicorn-mineral-resources-eur0-01-cdi---umr/term-sheet-agreed-for-1-25m-loan-facility/9652173",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "A £1.25m facility is immaterial for a mining exploration company's operational needs but signals potential liquidity constraints or working capital management rather than growth-funding. This level of minor debt issuance typically indicates routine cash flow bridging with negligible strategic impact on share valuation.",
+      "key_themes": [
+        "liquidity",
+        "debt_financing"
+      ]
     }
   ]
 }

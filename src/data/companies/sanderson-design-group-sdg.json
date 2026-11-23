@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Result of Requisitioned General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/result-of-requisitioned-general-meeting/9848506",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Requisitioned meetings in the UK equity market typically signal shareholder dissent over governance or executive pay rather than fundamental business shifts; for SDG, this reflects ongoing tension with activist investors regarding capital allocation and strategy execution.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Activism"
+      ]
     },
     {
       "timestamp": "2026-10-14T13:30:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/director-pdmr-shareholding/9823048",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of insider shareholding changes which provides minimal immediate signal on company fundamentals or near-term strategy within the competitive UK design sector.",
@@ -33,6 +38,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/director-pdmr-shareholding/9820820",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements in the luxury retail sector typically carry minimal market impact unless they signal a significant change in insider sentiment; without volume or price context, this is treated as standard administrative disclosure.",
@@ -46,6 +52,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/director-pdmr-shareholding/9820757",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of insider shareholding changes which provides minimal new fundamental data for valuation; typical of low-volatility UK design firms where director transactions rarely signal imminent strategic shifts.",
@@ -59,6 +66,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/director-pdmr-shareholding/9819015",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures that rarely signal immediate strategic shifts or material value creation in the absence of accompanying trading updates.",
@@ -72,6 +80,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/director-pdmr-shareholding/9818170",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure for Sanderson Design Group with no material transaction volume or price specified, indicating routine administrative compliance rather than a strategic signal.",
@@ -85,16 +94,21 @@
       "category": null,
       "headline": "Notice of Requisitioned General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/notice-of-requisitioned-general-meeting/9817096",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "A requisitioned general meeting in the design sector often signals shareholder activism or a dispute over strategy, as seen in recent UK small-cap governance battles; this introduces near-term volatility and potential board disruption.",
+      "key_themes": [
+        "corporate_governance",
+        "shareholder_activism"
+      ]
     },
     {
       "timestamp": "2026-10-08T07:00:00",
       "category": "Results",
       "headline": "Notice of Updated Interim Results Date",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/notice-of-updated-interim-results-date/9812290",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "This administrative update to the interim results date is standard procedure for SDG, reflecting routine reporting cycles rather than any material operational shift or market-moving event in the UK luxury retail sector.",
@@ -108,26 +122,35 @@
       "category": null,
       "headline": "General Meeting Requisition Notice",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/general-meeting-requisition-notice/9792825",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a procedural notice regarding shareholder rights rather than a substantive corporate event; while it signals potential internal dissent or governance friction, the immediate market impact is negligible unless accompanied by specific activist demands.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Activism"
+      ]
     },
     {
       "timestamp": "2026-09-25T15:54:00",
       "category": null,
       "headline": "Strategic licensing agreement",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/strategic-licensing-agreement/9792372",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This licensing deal signals a strategic pivot towards asset-light revenue streams for the premium wallpaper manufacturer, aligning with broader industry trends of leveraging IP to expand global reach without heavy capex.",
+      "key_themes": [
+        "Strategic Pivot",
+        "IP Monetisation"
+      ]
     },
     {
       "timestamp": "2026-09-11T12:46:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/holding-s-in-company/9768394",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -138,6 +161,7 @@
       "category": "Trading Update",
       "headline": "Half Year Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/half-year-trading-update-/9709634",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a niche luxury furniture manufacturer with high exposure to the US housing cycle, this update provides critical visibility into consumer resilience amid inflationary pressures; however, without specific margin or order book data in the prompt, it remains a standard interim check rather than a market-moving event.",
@@ -151,6 +175,7 @@
       "category": "Director Dealing",
       "headline": "Director / PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/director-pdmr-shareholding-/9690998",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of insider shareholding changes with no indication of material strategic shifts or significant transaction values; typical for SDG's low-float, high-liquidity profile where routine dealing is common.",
@@ -164,6 +189,7 @@
       "category": "Director Dealing",
       "headline": "Director / PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/director-pdmr-shareholding-/9661812",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR shareholding disclosures are standard regulatory filings with negligible immediate market impact; without details on transaction direction (buy/sell) or volume, this provides no actionable signal for SDG's valuation.",
@@ -177,16 +203,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/result-of-agm/9648278",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-AGM administrative filing confirming shareholder resolutions; it carries no new strategic information or financial data, reflecting routine corporate governance rather than market-moving events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-06-18T09:18:00",
       "category": null,
       "headline": "Vesting of Awards under LTIP & TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/vesting-of-awards-under-ltip-tvr-/9625372",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -197,16 +228,21 @@
       "category": null,
       "headline": "Grant of Awards under LTIP",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/grant-of-awards-under-ltip/9607554",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative grant of Long-Term Incentive Plan awards, typical for executive retention in the luxury retail sector and devoid of immediate financial or strategic impact.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Compensation"
+      ]
     },
     {
       "timestamp": "2026-06-05T11:57:00",
       "category": null,
       "headline": "Vesting of Awards under LTIP and TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/vesting-of-awards-under-ltip-and-tvr-/9604680",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -217,6 +253,7 @@
       "category": null,
       "headline": "Vesting of Awards under LTIP and TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/vesting-of-awards-under-ltip-and-tvr/9602108",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -227,6 +264,7 @@
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/notification-of-major-holdings-/9602051",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -237,6 +275,7 @@
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/notification-of-major-holdings/9597307",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -247,20 +286,29 @@
       "category": null,
       "headline": "Investor Event - Mello London",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/investor-event-mello-london/9593434",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement signals a strategic pivot into the high-growth short-term rental market via Mello London, leveraging SDG's hospitality expertise to diversify revenue streams beyond traditional hotel management, though execution risk remains elevated.",
+      "key_themes": [
+        "Strategic Diversification",
+        "PropTech",
+        "Hospitality Innovation"
+      ]
     },
     {
       "timestamp": "2026-05-28T08:00:00",
       "category": "AGM/EGM",
       "headline": "Annual Report and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/sanderson-design-group--sdg/annual-report-and-notice-of-agm-/9589469",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for the Sanderson Design Group AGM, serving primarily to convene shareholders rather than disclose material financial developments or strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Meeting"
+      ]
     }
   ]
 }

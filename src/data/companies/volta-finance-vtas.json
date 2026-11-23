@@ -10,6 +10,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of Annual General Meeting 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/volta-finance-limited-npv-gbp---vtas/notice-of-annual-general-meeting-2026/9868235",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/gnw/volta-finance-limited-npv-gbp---vtas/director-pdmr-shareholding/9855749",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in closed-end investment trusts like Volta Finance typically reflect personal portfolio rebalancing rather than corporate strategy shifts, given the fund's established focus on direct lending and stable yield profile.",
@@ -33,16 +35,21 @@
       "category": "Results",
       "headline": "Correction: Volta Finance Limited Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/gnw/volta-finance-limited-npv-gbp---vtas/correction-volta-finance-limited-annual-fina-/9837275",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "The 'Correction' designation indicates a technical filing amendment rather than new financial data, suggesting no material change to the underlying annual results or valuation.",
+      "key_themes": [
+        "Administrative",
+        "Compliance"
+      ]
     },
     {
       "timestamp": "2026-08-04T13:12:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/gnw/volta-finance-limited-npv-gbp---vtas/director-pdmr-shareholding/9704258",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements for closed-end funds like Volta Finance and carry negligible intrinsic market impact unless accompanied by unusual volume or timing relative to NAV discounts.",

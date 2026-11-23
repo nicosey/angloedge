@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/fusion-antibodies--fab/holding-s-in-company/9879978",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,36 +21,49 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/fusion-antibodies--fab/result-of-agm/9825303",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the Annual General Meeting, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital raises.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-10-05T07:00:00",
       "category": null,
       "headline": "Launch of new customer-focused website",
       "url": "https://www.investegate.co.uk/announcement/rns/fusion-antibodies--fab/launch-of-new-customer-focused-website/9805360",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard corporate communications update with negligible financial impact; while digital transformation is relevant to biotech investor relations, it does not alter the company's fundamental valuation or clinical pipeline risk profile.",
+      "key_themes": [
+        "Corporate Communications",
+        "Investor Relations"
+      ]
     },
     {
       "timestamp": "2026-09-22T07:00:00",
       "category": "AGM/EGM",
       "headline": "Posting of Annual Report & Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/fusion-antibodies--fab/posting-of-annual-report-notice-of-agm/9783262",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for Fusion Antibodies, serving only to convene the Annual General Meeting rather than disclose material operational changes or financial results.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-09-15T15:42:00",
       "category": "Results",
       "headline": "REPLACEMENT: Final Results",
       "url": "https://www.investegate.co.uk/announcement/rns/fusion-antibodies--fab/replacement-final-results-/9773630",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "The 'Replacement' designation indicates a technical correction to previously filed final results rather than new financial data, suggesting no material change in the company's valuation or strategic outlook.",
@@ -63,16 +77,21 @@
       "category": null,
       "headline": "Grant of Canadian Patent for OptiMAL",
       "url": "https://www.investegate.co.uk/announcement/rns/fusion-antibodies--fab/grant-of-canadian-patent-for-optimal/9763615",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "While patent grants are essential for IP protection in the biotech sector, this is a routine administrative milestone rather than a commercial catalyst; without accompanying clinical data or licensing deals, it holds limited immediate value for FAB's valuation.",
+      "key_themes": [
+        "Intellectual Property",
+        "Regulatory Milestone"
+      ]
     },
     {
       "timestamp": "2026-09-09T07:00:00",
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/fusion-antibodies--fab/notice-of-results/9761961",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the publication date of results rather than disclosing financial performance itself; for Fusion Antibodies, the market focus will shift to whether these figures demonstrate progress in clinical trials or revenue generation amidst the high-risk biotech sector.",
@@ -86,16 +105,21 @@
       "category": null,
       "headline": "Notice of acceptance of patent in Australia",
       "url": "https://www.investegate.co.uk/announcement/rns/fusion-antibodies--fab/notice-of-acceptance-of-patent-in-australia/9707342",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This administrative milestone confirms regulatory progress for Fusion Antibodies' lead asset in a key jurisdiction but lacks immediate commercial monetization or revenue impact, reflecting the typical low-impact nature of routine IP filings in the biotech sector.",
+      "key_themes": [
+        "Intellectual Property",
+        "Regulatory Approval"
+      ]
     },
     {
       "timestamp": "2026-07-20T09:00:00",
       "category": null,
       "headline": "Grant of options",
       "url": "https://www.investegate.co.uk/announcement/rns/fusion-antibodies--fab/grant-of-options/9676935",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -106,20 +130,28 @@
       "category": null,
       "headline": "Notice of allowance of patent in Canada",
       "url": "https://www.investegate.co.uk/announcement/rns/fusion-antibodies--fab/notice-of-allowance-of-patent-in-canada/9628760",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This administrative milestone validates the IP portfolio for Fusion Antibodies but lacks immediate commercial catalysts or revenue visibility; in the biotech sector, patent grants are standard procedural steps rather than value drivers without accompanying clinical data or partnership announcements.",
+      "key_themes": [
+        "IP Protection",
+        "Biotech Development"
+      ]
     },
     {
       "timestamp": "2026-06-15T07:00:00",
       "category": null,
       "headline": "Update on grant-funded DR5 project",
       "url": "https://www.investegate.co.uk/announcement/rns/fusion-antibodies--fab/update-on-grant-funded-dr5-project/9617242",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Grant-funded R&D updates are standard operational disclosures for pre-revenue biotech firms like Fusion Antibodies, indicating progress but lacking immediate commercial catalysts or financial materiality compared to clinical trial results or partnership announcements.",
+      "key_themes": [
+        "R&D Progress",
+        "Grant Funding"
+      ]
     }
   ]
 }

@@ -10,16 +10,21 @@
       "category": null,
       "headline": "South African Operational Update",
       "url": "https://www.investegate.co.uk/announcement/rns/kazera-global--kzg/south-african-operational-update/9879482",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Operational updates for small-cap resource explorers like Kazera Global are typically low-impact unless they reveal significant grade upgrades or resource expansion; without specific data on reserve growth or financing, this is likely routine noise with minimal immediate price catalyst.",
+      "key_themes": [
+        "exploration",
+        "operational_update"
+      ]
     },
     {
       "timestamp": "2026-10-30T07:00:00",
       "category": "Director Dealing",
       "headline": "Director / PDMR Shareholding and Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/kazera-global--kzg/director-pdmr-shareholding-and-issue-of-equity/9849242",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements for Kazera Global typically reflect minor personal portfolio adjustments rather than significant insider sentiment shifts, especially given the company's speculative status in the AI infrastructure sector.",
@@ -33,16 +38,21 @@
       "category": null,
       "headline": "Zeus Research Note",
       "url": "https://www.investegate.co.uk/announcement/rns/kazera-global--kzg/zeus-research-note/9816864",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a third-party research note rather than company-generated disclosure, this RNS carries no intrinsic financial weight or binding commitment from Kazera Global, reflecting the typical low-impact nature of external analyst commentary in the UK market.",
+      "key_themes": [
+        "external analysis",
+        "low materiality"
+      ]
     },
     {
       "timestamp": "2026-10-06T11:24:00",
       "category": null,
       "headline": "Completion of Additional Subscription and TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/kazera-global--kzg/completion-of-additional-subscription-and-tvr/9809040",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,16 +63,22 @@
       "category": "Appointment",
       "headline": "2A Executed, US$1.75m Triggered & Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/kazera-global--kzg/2a-executed-us-1-75m-triggered-board-changes/9787993",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The execution of the £1.75m placement provides immediate liquidity for Kazera Global's exploration activities but introduces dilution; this routine capital raise is typical for junior explorers seeking to extend their cash runway without signaling distress.",
+      "key_themes": [
+        "Capital Raise",
+        "Dilution",
+        "Exploration Funding"
+      ]
     },
     {
       "timestamp": "2026-09-23T11:36:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/kazera-global--kzg/holding-s-in-company/9787168",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,6 +89,7 @@
       "category": null,
       "headline": "Result of GM and Admission of Shares and TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/kazera-global--kzg/result-of-gm-and-admission-of-shares-and-tvr/9782471",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,26 +100,36 @@
       "category": null,
       "headline": "Zeus Initiates Research Coverage",
       "url": "https://www.investegate.co.uk/announcement/rns/kazera-global--kzg/zeus-initiates-research-coverage/9765671",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Zeus Research coverage provides initial third-party validation for Kazera Global's AI infrastructure strategy, potentially aiding liquidity and visibility in the small-cap tech sector, though it lacks immediate fundamental catalysts like earnings or M&A.",
+      "key_themes": [
+        "Research Coverage",
+        "AI Infrastructure",
+        "Small Cap Visibility"
+      ]
     },
     {
       "timestamp": "2026-09-09T07:30:00",
       "category": null,
       "headline": "Capital Access Window - Kazera Global Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/kazera-global--kzg/capital-access-window-kazera-global-plc/9762691",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice confirming the availability of the company's capital raising facility rather than an active transaction, indicating no immediate dilution or strategic shift.",
+      "key_themes": [
+        "Corporate Governance",
+        "Capital Structure"
+      ]
     },
     {
       "timestamp": "2026-09-04T07:00:00",
       "category": null,
       "headline": "Notice of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/kazera-global--kzg/notice-of-general-meeting/9755173",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -113,96 +140,137 @@
       "category": null,
       "headline": "Capital Access Window - Kazera Global Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/kazera-global--kzg/capital-access-window-kazera-global-plc/9753678",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the opening of a capital raising window rather than a substantive transaction; without disclosed size or pricing, it offers no immediate valuation catalyst for KZG.",
+      "key_themes": [
+        "Capital Raising",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-03T07:00:00",
       "category": "Placing",
       "headline": "Fujax Settlement, Proposed Fundraising & CAW",
       "url": "https://www.investegate.co.uk/announcement/rns/kazera-global--kzg/fujax-settlement-proposed-fundraising-caw/9752902",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The combination of a Fujax settlement and a capital raise via CAW signals necessary balance sheet repair and liquidity injection for Kazera Global, likely mitigating immediate solvency risks but diluting existing shareholders in a challenging small-cap mining environment.",
+      "key_themes": [
+        "Capital Raise",
+        "Debt Restructuring",
+        "Shareholder Dilution"
+      ]
     },
     {
       "timestamp": "2026-08-24T07:00:00",
       "category": null,
       "headline": "2A Technical Report",
       "url": "https://www.investegate.co.uk/announcement/rns/kazera-global--kzg/2a-technical-report/9735288",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Technical reports are standard due diligence for resource projects but carry low immediate market impact unless they trigger aJOR resource upgrade or funding requirement; KZG remains in the exploration phase with no near-term production catalysts.",
+      "key_themes": [
+        "exploration",
+        "due_diligence"
+      ]
     },
     {
       "timestamp": "2026-08-12T07:00:00",
       "category": null,
       "headline": "SAI Operational Planning Update",
       "url": "https://www.investegate.co.uk/announcement/rns/kazera-global--kzg/sai-operational-planning-update-/9716724",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Operational planning updates for micro-cap exploration firms like Kazera Global typically signal routine project management rather than material value creation, reflecting the high-risk, low-liquidity nature of the sector where such announcements rarely move the needle without assay results.",
+      "key_themes": [
+        "operational update",
+        "micro-cap risk"
+      ]
     },
     {
       "timestamp": "2026-07-24T07:00:00",
       "category": null,
       "headline": "Proposed Aftan Shareholder Return Programme",
       "url": "https://www.investegate.co.uk/announcement/rns/kazera-global--kzg/proposed-aftan-shareholder-return-programme/9685296",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This programme signals management's confidence in the company's valuation and cash generation capabilities within the volatile energy services sector, aiming to support the share price amid broader market skepticism towards small-cap exploration stocks.",
+      "key_themes": [
+        "shareholder return",
+        "capital allocation",
+        "small cap equity"
+      ]
     },
     {
       "timestamp": "2026-07-20T07:00:00",
       "category": null,
       "headline": "US$750,000 Strategic Partnership Payment Received",
       "url": "https://www.investegate.co.uk/announcement/rns/kazera-global--kzg/us-750-000-strategic-partnership-payment-received/9675800",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "While the receipt of a $750k payment validates commercial traction in the critical US market, it remains immaterial to Kazera's overall valuation and does not signal transformative growth or strategic control shifts.",
+      "key_themes": [
+        "commercial validation",
+        "minor revenue recognition"
+      ]
     },
     {
       "timestamp": "2026-07-10T14:04:00",
       "category": null,
       "headline": "Aftan Receives Initial US$500k Settlement Payment",
       "url": "https://www.investegate.co.uk/announcement/rns/kazera-global--kzg/aftan-receives-initial-us-500k-settlement-payment/9663721",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This initial payment confirms the commercialization of Kazera's AI-driven recruitment platform in the US market, validating its B2B SaaS model and reducing execution risk for future revenue recognition.",
+      "key_themes": [
+        "Revenue Validation",
+        "US Market Entry"
+      ]
     },
     {
       "timestamp": "2026-07-09T07:00:00",
       "category": null,
       "headline": "Strategic HMS Development Partnership Secured",
       "url": "https://www.investegate.co.uk/announcement/rns/kazera-global--kzg/strategic-hms-development-partnership-secured/9659735",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Strategic partnerships are standard operational milestones for Kazera Global's HMS expansion but lack the immediate revenue visibility or capital injection required to materially shift valuation multiples in the competitive UK fintech sector.",
+      "key_themes": [
+        "HMS",
+        "Partnership",
+        "Operational Update"
+      ]
     },
     {
       "timestamp": "2026-07-07T07:00:00",
       "category": "Acquisition",
       "headline": "Acquisition of additional interests in WHM and DBM",
       "url": "https://www.investegate.co.uk/announcement/rns/kazera-global--kzg/acquisition-of-additional-interests-in-whm-and-dbm/9654886",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This acquisition signals a strategic pivot towards high-growth US healthcare IT markets, leveraging Kazera's existing platform to capture synergies in the rapidly expanding digital health sector, though execution risk remains elevated for a small-cap entity.",
+      "key_themes": [
+        "M&A",
+        "Healthcare IT",
+        "US Expansion"
+      ]
     },
     {
       "timestamp": "2026-05-27T07:00:00",
       "category": null,
       "headline": "Investor Update via Investor Meet Company",
       "url": "https://www.investegate.co.uk/announcement/rns/kazera-global--kzg/investor-update-via-investor-meet-company/9586497",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,

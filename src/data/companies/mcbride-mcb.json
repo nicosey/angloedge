@@ -2,14 +2,26 @@
   "name": "Mcbride",
   "ticker": "MCB",
   "slug": "mcbride-mcb",
-  "announcement_count": 26,
-  "latest_announcement": "2026-11-19T17:44:00",
+  "announcement_count": 27,
+  "latest_announcement": "2026-11-23T09:18:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T09:18:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/transaction-in-own-shares/9888633",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-19T17:44:00",
       "category": "Results",
       "headline": "2026 AGM Results",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/2026-agm-results/9885063",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a standard AGM results filing for a niche pharmaceutical distributor, this is routine administrative disclosure with no immediate catalyst for share price movement, reflecting the stable but low-growth nature of the sector.",
@@ -23,16 +35,22 @@
       "category": "AGM/EGM",
       "headline": "AGM Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/agm-trading-update/9882945",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "McBride's trading update provides critical visibility into the UK independent pharmacy sector's resilience against margin compression from NHS contract changes and inflationary pressures, serving as a bellwether for the broader healthcare retail landscape.",
+      "key_themes": [
+        "Trading Update",
+        "Healthcare Retail",
+        "Margin Analysis"
+      ]
     },
     {
       "timestamp": "2026-11-16T10:44:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/transaction-in-own-shares/9877072",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,6 +61,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/transaction-in-own-shares/9865264",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,6 +72,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/transaction-in-own-shares/9865171",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,6 +83,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/transaction-in-own-shares/9852965",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,16 +94,21 @@
       "category": null,
       "headline": "CEO Succession",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/ceo-succession/9842363",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "CEO succession in the UK mid-cap market is a high-volatility event that often triggers repricing due to uncertainty over strategic continuity; for McBride, this marks a critical inflection point requiring scrutiny of the successor's track record and immediate guidance on capital allocation.",
+      "key_themes": [
+        "Governance",
+        "Leadership Change"
+      ]
     },
     {
       "timestamp": "2026-10-26T09:42:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/transaction-in-own-shares/9841252",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -93,6 +119,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM and Share Buyback Update",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/notice-of-agm-and-share-buyback-update/9830672",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -103,6 +130,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/transaction-in-own-shares/9829627",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -113,6 +141,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/transaction-in-own-shares/9817858",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -123,6 +152,7 @@
       "category": "Share Buyback",
       "headline": "Share Buyback Programme",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/share-buyback-programme/9800287",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine share buybacks are common capital allocation tools for mature UK firms like McBride to return cash to shareholders without altering strategic direction; this signals financial stability rather than transformative growth or distress.",
@@ -136,16 +166,21 @@
       "category": null,
       "headline": "Sale of Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/sale-of-shares-/9787255",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard director shareholding disclosure with no material impact on McBrade's capital structure or strategic direction, reflecting routine compliance rather than insider sentiment shifts.",
+      "key_themes": [
+        "director dealing",
+        "corporate governance"
+      ]
     },
     {
       "timestamp": "2026-09-23T11:16:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/holding-s-in-company/9787116",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -156,56 +191,77 @@
       "category": null,
       "headline": "Redemption of B Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/redemption-of-b-shares/9785655",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative capital reduction to simplify the share structure by redeeming B shares, likely with no material impact on McBrade's liquidity or operational strategy compared to its core pharmaceutical distribution business.",
+      "key_themes": [
+        "Corporate Action",
+        "Capital Structure"
+      ]
     },
     {
       "timestamp": "2026-09-22T17:33:00",
       "category": null,
       "headline": "2026 Share Awards Vesting",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/2026-share-awards-vesting/9785470",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative vesting of employee share awards with no material impact on McBrace's capital structure or operational strategy, reflecting routine equity compensation mechanics rather than strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-21T07:00:00",
       "category": null,
       "headline": "Sale of Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/sale-of-shares/9780814",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard disclosure of director share dealings, likely reflecting routine tax obligations or personal liquidity needs rather than a strategic signal regarding the company's outlook.",
+      "key_themes": [
+        "director_dealings",
+        "corporate_governance"
+      ]
     },
     {
       "timestamp": "2026-09-18T14:43:00",
       "category": null,
       "headline": "New Share Awards",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/new-share-awards/9780340",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for employee share awards, indicating routine compensation activity rather than strategic capital movement or insider sentiment shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "HR Administration"
+      ]
     },
     {
       "timestamp": "2026-09-17T09:58:00",
       "category": null,
       "headline": "Sale of Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/sale-of-shares/9777423",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard disclosure of director share dealings, likely reflecting routine tax obligations or personal liquidity needs rather than a strategic signal regarding the company's outlook.",
+      "key_themes": [
+        "director_dealing",
+        "corporate_governance"
+      ]
     },
     {
       "timestamp": "2026-09-15T07:00:00",
       "category": "Results",
       "headline": "Results for the year ended 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/results-for-the-year-ended-30-june-2026/9771587",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a key player in the UK independent pharmacy sector, McBride's annual results provide critical insight into consumer spending resilience and margin pressure amidst rising operational costs. The outcome will signal whether the company can maintain its growth trajectory against larger competitors like Lloyds Pharmacy and Boots.",
@@ -220,36 +276,51 @@
       "category": null,
       "headline": "Investor Webinar on 16 September 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/investor-webinar-on-16-september-2026/9754202",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations event with no immediate price-sensitive information; while McBride's strong performance in the Scottish pharmacy franchise provides a backdrop for discussion, webinar announcements alone do not alter the fundamental valuation or strategic trajectory.",
+      "key_themes": [
+        "Investor Relations",
+        "Corporate Communications"
+      ]
     },
     {
       "timestamp": "2026-08-28T07:00:00",
       "category": null,
       "headline": "Strategic partnership with Vestacy",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/strategic-partnership-with-vestacy/9744400",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This partnership signals a strategic pivot towards high-growth biotech distribution, diversifying revenue streams beyond traditional pharmaceuticals and aligning with the UK's expanding life sciences sector.",
+      "key_themes": [
+        "Strategic Partnership",
+        "Biotech Distribution",
+        "Revenue Diversification"
+      ]
     },
     {
       "timestamp": "2026-07-02T10:57:00",
       "category": "Acquisition",
       "headline": "Completion of Acquisition of Eurotab Group",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/completion-of-acquisition-of-eurotab-group/9649694",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "This acquisition accelerates McBride's 'buy-and-build' strategy in the European medical distribution sector, directly countering margin pressure from UK NHS contract renewals by diversifying geographic revenue streams and achieving cross-border synergies.",
+      "key_themes": [
+        "M&A",
+        "European Expansion",
+        "Medical Distribution"
+      ]
     },
     {
       "timestamp": "2026-06-15T18:11:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/director-pdmr-shareholding/9619342",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements typically carry minimal market impact unless accompanied by unusual volume or context, as they reflect individual portfolio management rather than corporate strategy shifts in the healthcare services sector.",
@@ -263,16 +334,22 @@
       "category": "Acquisition",
       "headline": "Trading and Acquisition Update",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/trading-and-acquisition-update/9614692",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "McBride's acquisition of a UK veterinary practice signals aggressive consolidation in the fragmented animal health sector, leveraging its scale to capture market share from independent clinics amid rising operational costs.",
+      "key_themes": [
+        "M&A",
+        "Veterinary Sector Consolidation",
+        "Scale Expansion"
+      ]
     },
     {
       "timestamp": "2026-06-11T13:44:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/mcbride--mcb/director-pdmr-shareholding/9614175",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions, which typically carries negligible market impact unless it signals a coordinated shift in insider sentiment or involves substantial volume relative to float. In the absence of context regarding the direction or size of the deal, it remains an administrative filing with no immediate strategic implication for MCB's valuation.",

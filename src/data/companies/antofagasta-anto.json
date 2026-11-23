@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Notification of Transaction - Director / PDMR",
       "url": "https://www.investegate.co.uk/announcement/rns/antofagasta--anto/notification-of-transaction-director-pdmr/9874831",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions, which carries negligible fundamental weight for Antofagasta's operational outlook or valuation in the current copper and molybdenum market context.",
@@ -23,40 +24,56 @@
       "category": "Appointment",
       "headline": "Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/antofagasta--anto/board-changes/9825698",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine board changes at a major copper producer typically signal governance continuity rather than strategic disruption, lacking the immediate catalyst for significant re-rating seen in M&A or executive turnover.",
+      "key_themes": [
+        "Corporate Governance",
+        "Mining Sector"
+      ]
     },
     {
       "timestamp": "2026-10-15T07:00:00",
       "category": null,
       "headline": "Q3 2026 PRODUCTION REPORT",
       "url": "https://www.investegate.co.uk/announcement/rns/antofagasta--anto/q3-2026-production-report/9823600",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine quarterly production data for a major copper producer; while operational efficiency is key to margin preservation in the current cost-inflationary environment, standalone volume updates rarely drive significant re-rating without concurrent guidance or price commentary.",
+      "key_themes": [
+        "Copper Production",
+        "Operational Update"
+      ]
     },
     {
       "timestamp": "2026-08-12T15:30:00",
       "category": null,
       "headline": "DIRECTOR CHANGE AND CHANGES TO BOARD COMMITTEES",
       "url": "https://www.investegate.co.uk/announcement/rns/antofagasta--anto/director-change-and-changes-to-board-committees-/9718760",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine governance update with no immediate financial or strategic implications for ANTO's copper/copper oxide operations; typical of standard board refreshment seen across the FTSE 100 mining sector.",
+      "key_themes": [
+        "Governance",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-07-24T07:00:00",
       "category": null,
       "headline": "LOS PELAMBRES OPERATIONAL UPDATE",
       "url": "https://www.investegate.co.uk/announcement/rns/antofagasta--anto/los-pelambres-operational-update-/9685261",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Operational updates for LOS PELAMBRES are typical for a mature copper producer and rarely move the stock unless they signal significant guidance changes; without details on production volumes or cost inflation, this is likely routine noise in the current base metals cycle.",
+      "key_themes": [
+        "Copper Production",
+        "Operational Update"
+      ]
     }
   ]
 }

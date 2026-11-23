@@ -10,46 +10,63 @@
       "category": null,
       "headline": "Proposed Tender Offer and Notice of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/northern-bear--ntbr/proposed-tender-offer-and-notice-of-gm/9866601",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "A proposed tender offer coupled with a General Meeting notice signals an imminent change in control or significant strategic pivot, often preceding a takeover bid or major restructuring that fundamentally alters the company's trajectory.",
+      "key_themes": [
+        "Corporate Control",
+        "Strategic Shift"
+      ]
     },
     {
       "timestamp": "2026-10-14T07:00:00",
       "category": null,
       "headline": "Notification of Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/northern-bear--ntbr/notification-of-holdings/9821338",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure of shareholding changes with no inherent market-moving catalyst; without details on the direction (buy/sell) or volume, it lacks the strategic weight to influence valuation.",
+      "key_themes": [
+        "Insider Activity",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-09-10T15:15:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/northern-bear--ntbr/result-of-agm/9766308",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at Northern Bear's AGM, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-08-07T07:00:00",
       "category": "AGM/EGM",
       "headline": "Posting of Annual Report & Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/northern-bear--ntbr/posting-of-annual-report-notice-of-agm/9709671",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for Northern Bear, serving only to convene the AGM rather than disclose material financial or strategic developments. Such notices are routine corporate governance requirements with no immediate implication for share price valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-16T07:00:00",
       "category": "Results",
       "headline": "Preliminary Results",
       "url": "https://www.investegate.co.uk/announcement/rns/northern-bear--ntbr/preliminary-results/9671298",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a preliminary results announcement without accompanying M&A or capital raise details, this is classified as routine corporate disclosure with limited immediate market-moving potential unless it contains an unexpected profit warning.",
@@ -63,6 +80,7 @@
       "category": "Results",
       "headline": "Notice of Results and Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/northern-bear--ntbr/notice-of-results-and-investor-presentation/9666688",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the release of results rather than disclosing the financials themselves; without data on earnings revisions or guidance changes, it lacks immediate market-moving catalysts compared to a profit warning or major strategic shift.",

@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/geo-exploration-limited--geo/holding-s-in-company/9879942",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/geo-exploration-limited--geo/holding-s-in-company/9879931",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/geo-exploration-limited--geo/holding-s-in-company/9876853",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +43,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/geo-exploration-limited--geo/notice-of-annual-general-meeting/9851368",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +54,7 @@
       "category": "Results",
       "headline": "Final Results for the Year Ended 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/geo-exploration-limited--geo/final-results-for-the-year-ended-30-june-2026/9846604",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a junior exploration entity, GEO's annual results are inherently low-impact unless they reveal a major resource upgrade or funding crisis; without specific data indicating a breakthrough, this is treated as routine disclosure for a speculative asset.",
@@ -63,16 +68,21 @@
       "category": null,
       "headline": "Field Programme Underway at Gorge and Juno",
       "url": "https://www.investegate.co.uk/announcement/rns/geo-exploration-limited--geo/field-programme-underway-at-gorge-and-juno-/9808982",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This confirms operational progress at the Gorge and Juno projects, but as an early-stage exploration update from a junior explorer, it lacks immediate financial catalysts or de-risking milestones that would significantly alter valuation multiples.",
+      "key_themes": [
+        "Exploration Update",
+        "Junior Mining"
+      ]
     },
     {
       "timestamp": "2026-09-24T09:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/geo-exploration-limited--geo/holding-s-in-company/9788984",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,76 +93,107 @@
       "category": null,
       "headline": "Gorge & Juno Gold Projects – Tom Harris Interview",
       "url": "https://www.investegate.co.uk/announcement/rns/geo-exploration-limited--geo/gorge-juno-gold-projects-tom-harris-interview/9786743",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations activity featuring the CEO rather than a material corporate action or financial update; such interviews rarely drive immediate price discovery in the junior exploration space without accompanying assay results or funding announcements.",
+      "key_themes": [
+        "Investor Relations",
+        "Exploration Update"
+      ]
     },
     {
       "timestamp": "2026-09-15T07:30:00",
       "category": null,
       "headline": "Capital Access Window - Geo Exploration Limited",
       "url": "https://www.investegate.co.uk/announcement/rns/geo-exploration-limited--geo/capital-access-window-geo-exploration-limited/9772397",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice regarding the opening of a capital raising window, lacking specific pricing or size details; in the current UK AIM mining sector, such announcements often signal dilutive fundraising to fund exploration rather than value-accretive growth.",
+      "key_themes": [
+        "Capital Raising",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-10T10:30:00",
       "category": "Placing",
       "headline": "Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/geo-exploration-limited--geo/retail-offer-/9765635",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 4,
+      "insight": "A retail offer for an exploration-stage junior typically signals a desperate need for liquidity to fund drilling rather than value creation, often leading to immediate dilution without near-term catalysts.",
+      "key_themes": [
+        "dilution",
+        "exploration",
+        "liquidity"
+      ]
     },
     {
       "timestamp": "2026-09-10T10:00:00",
       "category": "Placing",
       "headline": "Capital Raise and Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/geo-exploration-limited--geo/capital-raise-and-retail-offer/9765472",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This dual-placing and retail offer signals a critical liquidity injection for GEO Exploration, likely aimed at funding near-term drilling programs to de-risk assets in the current high-cost exploration environment. While dilutive, such capital raises are standard operational necessities for junior explorers seeking to extend cash runways without immediate debt exposure.",
+      "key_themes": [
+        "Capital Raise",
+        "Dilution",
+        "Exploration Funding"
+      ]
     },
     {
       "timestamp": "2026-08-25T07:30:00",
       "category": null,
       "headline": "Capital Access Window - GEO Exploration Limited",
       "url": "https://www.investegate.co.uk/announcement/rns/geo-exploration-limited--geo/capital-access-window-geo-exploration-limited/9738488",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for the AIM Capital Access Window, confirming compliance with listing rules rather than announcing a specific transaction; without details on size or purpose, it carries no immediate fundamental weight for valuation.",
+      "key_themes": [
+        "regulatory_compliance",
+        "capital_markets"
+      ]
     },
     {
       "timestamp": "2026-08-25T07:00:00",
       "category": null,
       "headline": "Capital Access Window – Trading Halt",
       "url": "https://www.investegate.co.uk/announcement/rns/geo-exploration-limited--geo/capital-access-window-trading-halt/9737695",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "A 'Capital Access Window' halt is a standard administrative procedure to prevent insider trading during confidential fundraising discussions; it signals potential dilution risk but lacks immediate fundamental catalysts for GEO Exploration.",
+      "key_themes": [
+        "Administrative Halt",
+        "Fundraising Risk"
+      ]
     },
     {
       "timestamp": "2026-07-31T09:00:00",
       "category": null,
       "headline": "Gorge Project – Tom Harris Interview Now Available",
       "url": "https://www.investegate.co.uk/announcement/rns/geo-exploration-limited--geo/gorge-project-tom-harris-interview-now-available/9698150",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations update featuring an executive interview regarding the Gorge Project, lacking any material financial data, operational milestones, or capital transaction details that would influence valuation.",
+      "key_themes": [
+        "Investor Relations",
+        "Exploration Update"
+      ]
     },
     {
       "timestamp": "2026-07-14T07:00:00",
       "category": null,
       "headline": "Change of Registered Office",
       "url": "https://www.investegate.co.uk/announcement/rns/geo-exploration-limited--geo/change-of-registered-office/9666650",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -163,10 +204,14 @@
       "category": null,
       "headline": "Gorge Project – Positive Initial Field Findings",
       "url": "https://www.investegate.co.uk/announcement/rns/geo-exploration-limited--geo/gorge-project-positive-initial-field-findings-/9628676",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Early-stage exploration updates for junior miners like GEO typically carry low immediate financial impact as they lack near-term revenue visibility; however, positive field findings can provide short-term speculative momentum in the absence of broader sector catalysts.",
+      "key_themes": [
+        "Exploration",
+        "Junior Mining"
+      ]
     }
   ]
 }

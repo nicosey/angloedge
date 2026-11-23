@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Notification of Investor Event",
       "url": "https://www.investegate.co.uk/announcement/rns/distribution-finance-capital-holdings--dfch/notification-of-investor-event/9859308",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a standard 'Other' category notification without disclosed details, this is likely routine administrative compliance or minor corporate action rather than a material event; DFCH's niche position in the asset-backed finance sector suggests no immediate strategic shift unless specific terms are revealed.",
+      "key_themes": [
+        "Corporate Governance",
+        "Market Sensitivity"
+      ]
     },
     {
       "timestamp": "2026-11-04T15:11:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/distribution-finance-capital-holdings--dfch/holding-s-in-company/9858744",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/distribution-finance-capital-holdings--dfch/director-pdmr-shareholding/9820610",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements in the distribution finance sector typically reflect individual liquidity management rather than strategic shifts; without volume context or unusual timing relative to earnings, this holds negligible signal for equity valuation.",
@@ -43,6 +49,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/distribution-finance-capital-holdings--dfch/director-pdmr-shareholding/9796481",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements in the distribution finance sector typically reflect personal liquidity management rather than strategic shifts, offering negligible signal for DFCH's valuation or operational trajectory.",
@@ -56,6 +63,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/distribution-finance-capital-holdings--dfch/holding-s-in-company/9782986",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -66,6 +74,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/distribution-finance-capital-holdings--dfch/holding-s-in-company/9776038",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -76,6 +85,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/distribution-finance-capital-holdings--dfch/holding-s-in-company/9775121",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -86,6 +96,7 @@
       "category": null,
       "headline": "Transfer of Treasury Shares & Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/distribution-finance-capital-holdings--dfch/transfer-of-treasury-shares-total-voting-rights/9767966",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -96,16 +107,21 @@
       "category": null,
       "headline": "Virtual Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/distribution-finance-capital-holdings--dfch/virtual-presentation/9764518",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Virtual presentations are standard investor relations tools for DFCH to maintain dialogue with the market but carry no immediate financial or operational weight compared to substantive corporate actions.",
+      "key_themes": [
+        "investor_relations",
+        "routine_communication"
+      ]
     },
     {
       "timestamp": "2026-09-04T07:00:00",
       "category": "Results",
       "headline": "Notice of Half Year Results and Presentations",
       "url": "https://www.investegate.co.uk/announcement/rns/distribution-finance-capital-holdings--dfch/notice-of-half-year-results-and-presentations/9755176",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a non-operating holding company with no underlying trading activity, this announcement is purely procedural for shareholder distribution updates rather than indicative of operational performance.",
@@ -119,6 +135,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/distribution-finance-capital-holdings--dfch/holding-s-in-company/9746198",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -129,6 +146,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/distribution-finance-capital-holdings--dfch/holding-s-in-company/9741920",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -139,6 +157,7 @@
       "category": null,
       "headline": "Transfer of Treasury Shares & Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/distribution-finance-capital-holdings--dfch/transfer-of-treasury-shares-total-voting-rights/9660910",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -149,10 +168,14 @@
       "category": null,
       "headline": "ENABLE Guarantee Renewal",
       "url": "https://www.investegate.co.uk/announcement/rns/distribution-finance-capital-holdings--dfch/enable-guarantee-renewal/9645668",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative renewal of the corporate guarantee under DFCH's existing £10m revolving credit facility with Barclays, ensuring liquidity continuity rather than signaling new strategic direction or capital expansion.",
+      "key_themes": [
+        "Corporate Governance",
+        "Liquidity Management"
+      ]
     }
   ]
 }

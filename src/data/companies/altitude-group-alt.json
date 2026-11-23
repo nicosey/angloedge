@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Exercise of Options and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/altitude-group--alt/exercise-of-options-and-total-voting-rights-/9813894",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,26 +21,35 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/altitude-group--alt/result-of-agm/9789946",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting disclosure confirming the outcome of routine shareholder votes, which typically carries no immediate financial or strategic weight for Altitude Group's valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-08-28T09:52:00",
       "category": "AGM/EGM",
       "headline": "Posting of Annual Report and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/altitude-group--alt/posting-of-annual-report-and-notice-of-agm-/9745643",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for the AGM notice, carrying no immediate price-sensitive information or strategic shifts beyond routine corporate governance compliance.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-08-20T07:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/altitude-group--alt/director-pdmr-shareholding/9730791",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements for Altitude Group typically reflect minor personal portfolio adjustments rather than significant insider sentiment shifts, given the company's niche position in the UK leisure and hospitality sector.",
@@ -53,26 +63,35 @@
       "category": "Appointment",
       "headline": "Directorate Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/altitude-group--alt/directorate-changes/9650686",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board restructuring typical for Altitude Group's asset-light model; without accompanying strategic shifts or significant capital allocation changes, this has negligible immediate price impact.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-06-30T07:00:00",
       "category": "Appointment",
       "headline": "Appointment of Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/rns/altitude-group--alt/appointment-of-non-executive-director/9643022",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine governance update for a small-cap investment trust; without details on the appointee's background or strategic mandate, this lacks immediate catalyst potential compared to sector peers actively pursuing M&A or dividend reforms.",
+      "key_themes": [
+        "Governance",
+        "Small Cap"
+      ]
     },
     {
       "timestamp": "2026-06-18T11:59:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/altitude-group--alt/holding-s-in-company/9625816",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,6 +102,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/altitude-group--alt/director-pdmr-dealing/9612450",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Altitude Group's valuation or strategic trajectory.",
@@ -96,6 +116,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/altitude-group--alt/director-pdmr-shareholding/9605499",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of director shareholding changes, which is routine administrative noise in the UK equity markets and lacks the transformative catalysts or significant insider sentiment shifts required to move the stock price meaningfully.",
@@ -109,6 +130,7 @@
       "category": null,
       "headline": "Exercise & Grant of Options and TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/altitude-group--alt/exercise-grant-of-options-and-tvr/9594226",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

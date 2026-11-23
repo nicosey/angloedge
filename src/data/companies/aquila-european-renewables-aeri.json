@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/aquila-european-renewables--aeri/director-declaration/9812076",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/aquila-european-renewables--aeri/director-declaration/9794249",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/aquila-european-renewables--aeri/holding-s-in-company/9764006",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +43,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/aquila-european-renewables--aeri/holding-s-in-company/9760942",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,16 +54,22 @@
       "category": null,
       "headline": "Follow-on Investment in Olhava following Breach",
       "url": "https://www.investegate.co.uk/announcement/rns/aquila-european-renewables--aeri/follow-on-investment-in-olhava-following-breach/9664240",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This follow-on investment signals strong conviction in Olhava's long-term value despite a covenant breach, mitigating immediate dilution fears but highlighting ongoing execution risks in the competitive European renewable infrastructure sector.",
+      "key_themes": [
+        "Private Equity",
+        "Renewable Infrastructure",
+        "Covenant Breach"
+      ]
     },
     {
       "timestamp": "2026-06-26T16:16:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/aquila-european-renewables--aeri/holding-s-in-company/9640083",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,40 +80,59 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/aquila-european-renewables--aeri/result-of-agm/9623707",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine ratification of director reappointments and auditor appointments without substantive strategic shifts or capital events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-06-15T07:00:00",
       "category": null,
       "headline": "Board demands Valuation data, withholds fees",
       "url": "https://www.investegate.co.uk/announcement/rns/aquila-european-renewables--aeri/board-demands-valuation-data-withholds-fees/9617248",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "This public standoff signals severe governance breakdown and potential hidden liabilities within the portfolio, raising immediate red flags for valuation integrity similar to past UK infrastructure disputes where asset quality was obscured.",
+      "key_themes": [
+        "Governance Crisis",
+        "Valuation Risk",
+        "Asset Quality"
+      ]
     },
     {
       "timestamp": "2026-06-01T07:25:00",
       "category": null,
       "headline": "Investment Adviser fails to provide transparency",
       "url": "https://www.investegate.co.uk/announcement/rns/aquila-european-renewables--aeri/investment-adviser-fails-to-provide-transparency/9594071",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This disclosure highlights a critical governance failure in the management of an infrastructure asset manager, raising immediate concerns over fee transparency and operational integrity that could trigger investor activism or regulatory scrutiny similar to recent issues in the UK REIT sector.",
+      "key_themes": [
+        "Governance",
+        "Infrastructure",
+        "Transparency"
+      ]
     },
     {
       "timestamp": "2026-05-29T07:00:00",
       "category": null,
       "headline": "The Rock: secures €80m Green Bond Issue",
       "url": "https://www.investegate.co.uk/announcement/rns/aquila-european-renewables--aeri/the-rock-secures-80m-green-bond-issue/9590932",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Securing €80m in green bond financing provides essential long-term debt capacity for the Rock project, reinforcing AERI's capital structure but reflecting standard refinancing rather than transformative growth or M&A activity.",
+      "key_themes": [
+        "Green Finance",
+        "Project Financing",
+        "Capital Structure"
+      ]
     }
   ]
 }

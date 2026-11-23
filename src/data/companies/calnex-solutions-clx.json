@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Notice of Results and Presentations",
       "url": "https://www.investegate.co.uk/announcement/rns/calnex-solutions--clx/notice-of-results-and-presentations/9854648",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the release of results rather than the results themselves; without underlying financial data, it carries no immediate pricing impact for Calnex Solutions.",
@@ -23,16 +24,21 @@
       "category": null,
       "headline": "Capital Markets Day",
       "url": "https://www.investegate.co.uk/announcement/rns/calnex-solutions--clx/capital-markets-day/9761963",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Capital Markets Days serve as critical catalysts for re-rating small-cap industrial stocks by clarifying growth trajectories and margin expansion strategies to institutional investors. For Calnex, this event likely aims to bridge the valuation gap with larger EV charging peers by showcasing order book visibility and international expansion plans.",
+      "key_themes": [
+        "Investor Relations",
+        "Strategic Outlook"
+      ]
     },
     {
       "timestamp": "2026-07-22T11:24:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM and posting of Annual Report",
       "url": "https://www.investegate.co.uk/announcement/rns/calnex-solutions--clx/notice-of-agm-and-posting-of-annual-report/9682098",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,16 +49,21 @@
       "category": null,
       "headline": "Long-Term Incentive Plan Awards",
       "url": "https://www.investegate.co.uk/announcement/rns/calnex-solutions--clx/long-term-incentive-plan-awards-/9612097",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine LTIP grant aligning management incentives with long-term shareholder value in the EV charging infrastructure sector; no immediate financial impact or strategic shift implied.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Compensation"
+      ]
     },
     {
       "timestamp": "2026-06-01T07:30:00",
       "category": "Director Dealing",
       "headline": "Director Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/calnex-solutions--clx/director-dealing/9594076",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Calnex Solutions' valuation or operational trajectory in the EV charging sector.",
@@ -66,6 +77,7 @@
       "category": null,
       "headline": "Exercise of Options and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/calnex-solutions--clx/exercise-of-options-and-total-voting-rights/9592745",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

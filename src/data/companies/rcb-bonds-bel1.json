@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Admission to Trading (Replacement)",
       "url": "https://www.investegate.co.uk/announcement/rns/rcb-bonds-plc--bel1/admission-to-trading-replacement-/9628021",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/rcb-bonds-plc--bel1/admission-to-trading/9627896",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,40 +32,56 @@
       "category": null,
       "headline": "Issue size announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/rcb-bonds-plc--bel1/issue-size-announcement/9611157",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding the size of a bond issuance, indicating routine debt financing rather than a transformative corporate event. While it confirms capital raising activity, it lacks the strategic weight or market-moving potential associated with M&A or significant equity dilution.",
+      "key_themes": [
+        "Debt Financing",
+        "Administrative Disclosure"
+      ]
     },
     {
       "timestamp": "2026-06-09T13:03:00",
       "category": null,
       "headline": "Early closure of offer period",
       "url": "https://www.investegate.co.uk/announcement/rns/rcb-bonds-plc--bel1/early-closure-of-offer-period/9609510",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Early closure of an offer period is a standard administrative procedure in UK takeovers, typically indicating the bidder has secured sufficient acceptances to proceed without extending the timeline; it carries no intrinsic fundamental value signal for RCB Bonds PLC beyond confirming transaction momentum.",
+      "key_themes": [
+        "Corporate Action",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-05-27T12:13:00",
       "category": null,
       "headline": "Belong 7.5% Social Bonds due 2033",
       "url": "https://www.investegate.co.uk/announcement/rns/rcb-bonds-plc--bel1/belong-7-5-social-bonds-due-2033/9587949",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement pertains to Belong Bank's social bond issuance rather than RCB Bonds PLC's operational performance, indicating a passive holding or administrative update for the latter. Such debt instrument listings are standard market mechanics with negligible direct impact on the issuer's equity valuation.",
+      "key_themes": [
+        "Debt Issuance",
+        "ESG Finance"
+      ]
     },
     {
       "timestamp": "2026-05-27T12:05:00",
       "category": null,
       "headline": "Publication of a Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/rcb-bonds-plc--bel1/publication-of-a-prospectus/9587936",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The publication of a prospectus for RCB Bonds PLC is an administrative prerequisite for listing debt securities rather than equity, indicating routine capital market activity with negligible immediate impact on the share price or control structure.",
+      "key_themes": [
+        "Debt Issuance",
+        "Administrative Filing"
+      ]
     }
   ]
 }

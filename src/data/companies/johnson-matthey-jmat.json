@@ -2,24 +2,40 @@
   "name": "Johnson Matthey",
   "ticker": "JMAT",
   "slug": "johnson-matthey-jmat",
-  "announcement_count": 36,
-  "latest_announcement": "2026-11-19T07:02:00",
+  "announcement_count": 37,
+  "latest_announcement": "2026-11-23T13:31:00",
   "announcements": [
     {
-      "timestamp": "2026-11-19T07:02:00",
-      "category": "Appointment",
-      "headline": "Directorate change",
-      "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/directorate-change/9883177",
+      "timestamp": "2026-11-23T13:31:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/transaction-in-own-shares/9889347",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
       "key_themes": null
     },
     {
+      "timestamp": "2026-11-19T07:02:00",
+      "category": "Appointment",
+      "headline": "Directorate change",
+      "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/directorate-change/9883177",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board-level personnel adjustments in the catalysis and precious metals sector typically signal operational continuity rather than strategic disruption, lacking the immediate financial impact of M&A or earnings warnings.",
+      "key_themes": [
+        "corporate_governance",
+        "leadership_change"
+      ]
+    },
+    {
       "timestamp": "2026-11-16T10:00:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/transaction-in-own-shares/9876988",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +46,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/director-pdmr-shareholding/9870911",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry minimal immediate market impact unless they signal significant insider conviction shifts; without volume context or specific buy/sell direction, this remains an administrative filing with no strategic implication for JMAT's catalytic trajectory.",
@@ -43,6 +60,7 @@
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/director-declaration/9870636",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,6 +71,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/transaction-in-own-shares/9865688",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,6 +82,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/total-voting-rights/9853621",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,6 +93,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/transaction-in-own-shares/9853235",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,6 +104,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/transaction-in-own-shares/9829881",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -93,6 +115,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/director-pdmr-shareholding/9822787",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on JMAT's valuation, which remains heavily driven by platinum group metal price volatility and the execution risks of its hydrogen fuel cell business.",
@@ -106,6 +129,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/transaction-in-own-shares/9818533",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -116,6 +140,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/transaction-in-own-shares/9807024",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -126,6 +151,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/total-voting-rights/9806579",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -136,6 +162,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/transaction-in-own-shares/9794484",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -146,6 +173,7 @@
       "category": "Share Buyback",
       "headline": "Share buyback programme",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/share-buyback-programme/9787995",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Johnson Matthey's share buyback signals management confidence in the firm's cash generation capabilities amidst its ongoing transition to a pure-play hydrogen and catalysts business, offering modest support to EPS while reflecting a cautious approach to aggressive M&A in the current capital-intensive industrial environment.",
@@ -160,6 +188,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/director-pdmr-shareholding/9773460",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions, which typically carries negligible immediate impact on JMAT's valuation compared to its broader exposure to platinum group metal prices and hydrogen infrastructure adoption.",
@@ -173,6 +202,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/director-pdmr-shareholding/9768831",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director transactions which lacks the scale or strategic weight to influence JMAT's valuation trajectory amid current hydrogen and catalyst market dynamics.",
@@ -186,6 +216,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/director-pdmr-shareholding/9721271",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on JMAT's valuation, which is currently driven by broader hydrogen infrastructure adoption rates and precious metals price volatility rather than individual insider transactions.",
@@ -199,16 +230,21 @@
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/result-of-general-meeting/9715825",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement confirms the ratification of standard administrative resolutions at Johnson Matthey's AGM, a procedural formality with no immediate financial or strategic impact on the company's ongoing restructuring or hydrogen catalyst business.",
+      "key_themes": [
+        "Corporate Governance",
+        "AGM"
+      ]
     },
     {
       "timestamp": "2026-08-10T15:03:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/director-pdmr-shareholding/9713903",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR disclosure with no material market-moving implication; Johnson Matthey's stock is currently driven by hydrogen catalyst demand and platinum group metal price volatility rather than individual insider transactions.",
@@ -222,6 +258,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/director-pdmr-shareholding/9706742",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate price impact for Johnson Matthey, reflecting normal liquidity management rather than strategic shifts in the catalytic materials sector.",
@@ -235,66 +272,93 @@
       "category": null,
       "headline": "Updated timetable for ADS consolidation",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/updated-timetable-for-ads-consolidation/9694508",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Administrative update regarding the timeline for a capital structure adjustment; while ADS consolidation can signal management's desire to improve liquidity or meet listing requirements, it is typically a low-impact procedural event unless accompanied by a concurrent strategic pivot.",
+      "key_themes": [
+        "Corporate Action",
+        "Capital Structure"
+      ]
     },
     {
       "timestamp": "2026-07-27T07:00:00",
       "category": null,
       "headline": "Circular and Notice of General Meeting published",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/circular-and-notice-of-general-meeting-published/9687773",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing to convene the Annual General Meeting; while shareholder approval for executive remuneration and auditor appointment is routine, it carries no immediate pricing impact or strategic shift for Johnson Matthey.",
+      "key_themes": [
+        "Corporate Governance",
+        "AGM"
+      ]
     },
     {
       "timestamp": "2026-07-23T14:38:00",
       "category": "Acquisition",
       "headline": "Completion of the acquisition of Cormetech",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/completion-of-the-acquisition-of-cormetech/9684833",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "This acquisition consolidates Johnson Matthey's position in the critical hydrogen economy by integrating Cormetech's advanced ceramic membrane technology, directly supporting the group's strategic pivot towards sustainable energy solutions and decarbonisation.",
+      "key_themes": [
+        "Hydrogen Economy",
+        "Strategic Expansion",
+        "Decarbonisation"
+      ]
     },
     {
       "timestamp": "2026-07-17T09:40:00",
       "category": null,
       "headline": "Completion of the sale of Catalyst Technologies",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/completion-of-the-sale-of-catalyst-technologies/9674750",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This divestment aligns with Johnson Matthey's strategic pivot to focus on high-growth battery materials and decarbonisation technologies, shedding legacy catalyst assets to streamline operations and improve capital efficiency.",
+      "key_themes": [
+        "Strategic Restructuring",
+        "Portfolio Optimization",
+        "Battery Materials"
+      ]
     },
     {
       "timestamp": "2026-07-16T13:50:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/result-of-agm/9673039",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, typically involving routine resolutions such as director reappointments and auditor ratification. It carries no immediate strategic or financial implications for Johnson Matthey's valuation or operational trajectory.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-07-16T07:00:00",
       "category": "Appointment",
       "headline": "Board change",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/board-change/9671295",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board changes at Johnson Matthey are typically administrative rather than transformative, lacking the immediate catalyst impact of major M&A or leadership crises seen in the broader precious metals and catalysis sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Leadership Stability"
+      ]
     },
     {
       "timestamp": "2026-07-13T15:28:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/director-pdmr-shareholding/9666293",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate market impact; without context on the direction (buy/sell) or volume relative to free float, this data point lacks strategic signal for Johnson Matthey's catalytic hydrogen or precious metals business.",
@@ -308,26 +372,36 @@
       "category": null,
       "headline": "Agreed completion date for sale of CT",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/agreed-completion-date-for-sale-of-ct/9654620",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The completion of the Clean Technology (CT) business sale finalizes Johnson Matthey's strategic pivot to focus exclusively on core precious metals and catalysts, eliminating execution risk but capping near-term upside from the high-growth EV battery sector.",
+      "key_themes": [
+        "Strategic Restructuring",
+        "Portfolio Simplification"
+      ]
     },
     {
       "timestamp": "2026-07-03T11:45:00",
       "category": null,
       "headline": "China regulatory approval for sale of CT",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/china-regulatory-approval-for-sale-of-ct/9652293",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Regulatory clearance for the sale of Clean Technology (CT) marks a critical step in Johnson Matthey's strategic pivot to focus on high-margin catalytic converter and precious metals processing businesses. This divestment resolves long-standing execution risks associated with the EV catalyst market and allows management to redeploy capital towards core growth areas, aligning with peer consolidation trends in the specialty chemicals sector.",
+      "key_themes": [
+        "Strategic Divestment",
+        "EV Catalyst Market",
+        "Corporate Restructuring"
+      ]
     },
     {
       "timestamp": "2026-06-11T12:17:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/director-pdmr-shareholding/9614053",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on JMAT's valuation, which remains driven by broader hydrogen infrastructure adoption rates and precious metals price volatility rather than individual insider transactions.",
@@ -341,16 +415,22 @@
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/annual-financial-report/9611297",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a key player in the critical hydrogen and automotive catalyst markets, Johnson Matthey's annual results provide essential visibility into the transition to net-zero technologies and the cyclical recovery of the auto sector, directly influencing investor sentiment on green infrastructure capex.",
+      "key_themes": [
+        "Hydrogen Economy",
+        "Automotive Catalysts",
+        "Green Transition"
+      ]
     },
     {
       "timestamp": "2026-06-03T09:03:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/director-pdmr-shareholding/9599524",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry minimal immediate market impact unless they signal a coordinated shift in insider sentiment; without context on volume or direction, this remains an administrative filing rather than a strategic signal.",
@@ -364,6 +444,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/holding-s-in-company/9595684",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -374,26 +455,36 @@
       "category": "Appointment",
       "headline": "Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/board-changes/9588929",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board changes at Johnson Matthey typically signal governance continuity rather than strategic disruption, especially given the company's ongoing focus on its hydrogen and catalyst business transformation without concurrent major M&A or leadership crises.",
+      "key_themes": [
+        "Governance",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-05-28T07:01:00",
       "category": "Acquisition",
       "headline": "Johnson Matthey acquisition of Cormetech",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/johnson-matthey-acquisition-of-cormetech/9588814",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "This acquisition cements Johnson Matthey's pivot to high-growth catalysis for the energy transition, specifically targeting the hydrogen and ammonia markets where Cormetech holds proprietary IP. It signals aggressive capital deployment to capture value in decarbonization infrastructure, moving beyond traditional automotive catalysts into strategic industrial gases.",
+      "key_themes": [
+        "Energy Transition",
+        "Strategic Acquisition",
+        "Hydrogen Economy"
+      ]
     },
     {
       "timestamp": "2026-05-28T07:00:00",
       "category": "Results",
       "headline": "Johnson Matthey Full Year Results",
       "url": "https://www.investegate.co.uk/announcement/rns/johnson-matthey--jmat/johnson-matthey-full-year-results-/9588672",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Johnson Matthey's full year results are critical for assessing the success of its strategic pivot towards sustainable technologies and the execution of its cost reduction programme amid volatile precious metals markets. The outcome will signal whether the group can sustainably improve margins and cash flow to support shareholder returns, a key focus for investors following recent sector-wide pressures on industrial catalysts and refining.",

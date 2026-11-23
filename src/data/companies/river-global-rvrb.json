@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Result of Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/river-global-plc--rvrb/result-of-meeting/9884905",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a standard 'Result of Meeting' RNS for River Global Plc, this likely confirms routine shareholder approvals or board decisions without disclosing material non-public information, reflecting typical administrative governance rather than strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-11-19T11:58:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/river-global-plc--rvrb/director-pdmr-shareholding/9884368",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry minimal immediate market impact unless accompanied by unusual volume or timing relative to price movements; without specific transaction details in the headline, this is classified as standard administrative reporting.",
@@ -33,6 +38,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/river-global-plc--rvrb/director-pdmr-shareholding/9874366",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Director dealings are routine disclosures with negligible immediate market impact unless involving substantial block trades; without volume or price context, this remains an administrative filing rather than a signal of strategic shift.",
@@ -46,6 +52,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/river-global-plc--rvrb/director-pdmr-shareholding/9860943",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry minimal market impact unless accompanied by unusual volume or timing relative to price movements; without specific transaction details in the headline, this is classified as standard administrative reporting.",
@@ -59,16 +66,21 @@
       "category": null,
       "headline": "Shareholders Circular & Notice of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/river-global-plc--rvrb/shareholders-circular-notice-of-general-meeting/9854665",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice for a general meeting, likely covering routine matters such as director re-elections or mandate renewals rather than transformative strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-11-02T11:25:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/river-global-plc--rvrb/director-pdmr-shareholding/9853455",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director transactions which typically lacks material market-moving significance unless accompanied by aggregate insider buying/selling patterns indicating strong conviction.",
@@ -82,6 +94,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/river-global-plc--rvrb/director-pdmr-shareholding/9848916",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements typically carry negligible fundamental weight unless accompanied by unusual volume or timing relative to price action; without specific transaction details, this is classified as standard administrative disclosure.",
@@ -95,36 +108,49 @@
       "category": null,
       "headline": "Treasury Stock",
       "url": "https://www.investegate.co.uk/announcement/rns/river-global-plc--rvrb/treasury-stock/9802035",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement reflects a standard treasury stock transaction, likely related to employee share schemes or minor capital management, indicating no immediate strategic shift or material financial impact for River Global Plc.",
+      "key_themes": [
+        "Corporate Governance",
+        "Capital Management"
+      ]
     },
     {
       "timestamp": "2026-08-14T13:42:00",
       "category": null,
       "headline": "Further re Reduction of Capital",
       "url": "https://www.investegate.co.uk/announcement/rns/river-global-plc--rvrb/further-re-reduction-of-capital/9723214",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Capital reduction in the current UK market often signals a prelude to special dividends or share buybacks to support valuation, though it can also reflect balance sheet restructuring needs; for River Global, this is a notable capital management move rather than an operational shift.",
+      "key_themes": [
+        "capital return",
+        "balance sheet optimization"
+      ]
     },
     {
       "timestamp": "2026-08-07T14:12:00",
       "category": null,
       "headline": "Further re Capital Reduction",
       "url": "https://www.investegate.co.uk/announcement/rns/river-global-plc--rvrb/further-re-capital-reduction/9711484",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Capital reductions in the current UK micro-cap environment often signal a defensive balance sheet strategy to preserve cash during high-interest rate periods or facilitate future M&A without dilution, though it lacks the immediate upside of organic growth.",
+      "key_themes": [
+        "capital structure",
+        "balance sheet optimization"
+      ]
     },
     {
       "timestamp": "2026-07-24T10:23:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/river-global-plc--rvrb/holding-s-in-company/9686567",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -135,46 +161,64 @@
       "category": "Appointment",
       "headline": "Consequential Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/river-global-plc--rvrb/consequential-board-changes/9645700",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board restructuring following the acquisition of River & Mercantile; while governance stability is maintained, this lacks the transformative catalyst required to drive immediate valuation expansion in the current private credit sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Post-M&A Integration"
+      ]
     },
     {
       "timestamp": "2026-06-30T14:50:00",
       "category": "Results",
       "headline": "Interim Report for the six months ended 31/03/2026",
       "url": "https://www.investegate.co.uk/announcement/rns/river-global-plc--rvrb/interim-report-for-the-six-months-ended-31-03-2026/9645055",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a niche alternative asset manager, RVRB's interim results are critical for validating its strategy in the current high-rate environment; investors will scrutinize net asset value (NAV) stability and fee income resilience against recent sector-wide pressures on private credit valuations.",
+      "key_themes": [
+        "Interim Results",
+        "Alternative Assets",
+        "NAV Performance"
+      ]
     },
     {
       "timestamp": "2026-06-29T07:00:00",
       "category": null,
       "headline": "D Ordinary Share Issuance",
       "url": "https://www.investegate.co.uk/announcement/rns/river-global-plc--rvrb/d-ordinary-share-issuance/9640581",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Ordinary share issuances by River Global typically relate to the settlement of acquisition consideration or employee share schemes rather than emergency capital raising, indicating low immediate dilution risk but routine corporate housekeeping.",
+      "key_themes": [
+        "Corporate Action",
+        "Capital Structure"
+      ]
     },
     {
       "timestamp": "2026-06-25T11:02:00",
       "category": "AGM/EGM",
       "headline": "Result of general meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/river-global-plc--rvrb/result-of-general-meeting/9637005",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at River Global's AGM/EGM, which typically involves routine matters like director reappointments or fee approvals rather than strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-25T07:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/river-global-plc--rvrb/director-pdmr-shareholding/9635416",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions which provides no material insight into River Global's strategic direction or financial health compared to the broader market.",
@@ -188,6 +232,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/river-global-plc--rvrb/director-pdmr-shareholding/9616765",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of director shareholding changes, which is routine administrative noise unless accompanied by unusual volume or timing relative to price action; lacks the transformative catalysts required for significant market movement.",
@@ -201,10 +246,14 @@
       "category": null,
       "headline": "Publication of Circular & Notice of General Mtg",
       "url": "https://www.investegate.co.uk/announcement/rns/river-global-plc--rvrb/publication-of-circular-notice-of-general-mtg-/9607766",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard procedural filing for River Global Plc to convene its Annual General Meeting, typically used for routine matters such as director re-election and auditor appointment rather than transformative strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "AGM"
+      ]
     }
   ]
 }

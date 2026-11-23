@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Notification on PDMR transactions",
       "url": "https://www.investegate.co.uk/announcement/rns/nova-ljubljanska-banka-d-d-ljubljana--nlb/notification-on-pdmr-transactions/9865539",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of personal transactions by Persons Discharging Managerial Responsibilities (PDMRs), which carries no intrinsic signal regarding the bank's fundamental health or strategic direction.",
@@ -23,26 +24,35 @@
       "category": null,
       "headline": "Announcement of the envisaged issuance of notes",
       "url": "https://www.investegate.co.uk/announcement/rns/nova-ljubljanska-banka-d-d-ljubljana--nlb/announcement-of-the-envisaged-issuance-of-notes-/9865178",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard debt issuance announcement for a Slovenian bank, indicating routine liquidity management rather than transformative corporate action; it has negligible direct impact on UK equity markets.",
+      "key_themes": [
+        "Debt Issuance",
+        "Liquidity Management"
+      ]
     },
     {
       "timestamp": "2026-11-06T10:05:00",
       "category": null,
       "headline": "NLB publishes Financial Calendar for 2027",
       "url": "https://www.investegate.co.uk/announcement/rns/nova-ljubljanska-banka-d-d-ljubljana--nlb/nlb-publishes-financial-calendar-for-2027/9862831",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure outlining future reporting dates for 2027, offering no immediate price-sensitive information or strategic shift. Such calendars are routine compliance measures with zero direct impact on valuation or market sentiment.",
+      "key_themes": [
+        "Corporate Governance",
+        "IR Calendar"
+      ]
     },
     {
       "timestamp": "2026-11-05T11:00:00",
       "category": "Results",
       "headline": "3rd Quarter Results",
       "url": "https://www.investegate.co.uk/announcement/rns/nova-ljubljanska-banka-d-d-ljubljana--nlb/3rd-quarter-results/9860606",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a Slovenian entity listed on the LSE's AIM market with negligible liquidity, this quarterly update has minimal direct impact on UK equity portfolios, reflecting routine regulatory disclosure rather than strategic market-moving events.",
@@ -56,6 +66,7 @@
       "category": null,
       "headline": "Notice of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/nova-ljubljanska-banka-d-d-ljubljana--nlb/notice-of-gm-/9857706",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -66,36 +77,50 @@
       "category": null,
       "headline": "Announcement of the issuance of subordinated notes",
       "url": "https://www.investegate.co.uk/announcement/rns/nova-ljubljanska-banka-d-d-ljubljana--nlb/announcement-of-the-issuance-of-subordinated-notes/9817701",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Issuance of subordinated notes is a standard capital management tool for banks to meet MREL requirements without diluting equity; while it strengthens the balance sheet, it introduces interest expense and does not signal organic growth or earnings acceleration.",
+      "key_themes": [
+        "Capital Adequacy",
+        "Debt Financing"
+      ]
     },
     {
       "timestamp": "2026-09-18T16:30:00",
       "category": "Acquisition",
       "headline": "Agreement to Acquire More Than 55% in DBS reached",
       "url": "https://www.investegate.co.uk/announcement/rns/nova-ljubljanska-banka-d-d-ljubljana--nlb/agreement-to-acquire-more-than-55-in-dbs-reached/9780517",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This acquisition represents a significant consolidation move for NLB, expanding its footprint in the DACH region through DBS and potentially triggering mandatory takeover bid obligations under Austrian law.",
+      "key_themes": [
+        "Cross-border M&A",
+        "Banking Consolidation",
+        "DACH Expansion"
+      ]
     },
     {
       "timestamp": "2026-08-19T11:10:00",
       "category": null,
       "headline": "NLB d.d., Ljubljana announces new SREP requirement",
       "url": "https://www.investegate.co.uk/announcement/rns/nova-ljubljanska-banka-d-d-ljubljana--nlb/nlb-d-d-ljubljana-announces-new-srep-requirement/9729979",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "SREP requirements are regulatory capital constraints rather than direct profit warnings; while they limit dividend capacity or M&A flexibility, the market impact is muted unless the requirement forces a capital raise or significant dividend cut.",
+      "key_themes": [
+        "regulatory compliance",
+        "capital adequacy"
+      ]
     },
     {
       "timestamp": "2026-08-10T14:15:00",
       "category": "Director Dealing",
       "headline": "Notification on PDMR transactions",
       "url": "https://www.investegate.co.uk/announcement/rns/nova-ljubljanska-banka-d-d-ljubljana--nlb/notification-on-pdmr-transactions-/9713793",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of insider trading activity under the Market Abuse Regulation, which provides no new fundamental information on NLB's financial health or strategic direction.",
@@ -109,66 +134,91 @@
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/nova-ljubljanska-banka-d-d-ljubljana--nlb/half-year-financial-report/9708730",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a Slovenian entity, this announcement holds zero direct impact on UK equity markets due to lack of listing and liquidity; for UK investors, it serves only as peripheral macro data for the broader CEE banking sector.",
+      "key_themes": [
+        "CEE Banking",
+        "Interim Results"
+      ]
     },
     {
       "timestamp": "2026-07-17T07:00:00",
       "category": null,
       "headline": "NLB Publishes Amended Offering Memorandum - Addiko",
       "url": "https://www.investegate.co.uk/announcement/rns/nova-ljubljanska-banka-d-d-ljubljana--nlb/nlb-publishes-amended-offering-memorandum-addiko/9673550",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a procedural update to the Addiko Bank sale process rather than a fundamental shift in NLB's valuation or strategy; while the transaction remains key to unlocking shareholder value via capital return, the amendment itself signals routine regulatory compliance rather than transformative change.",
+      "key_themes": [
+        "Capital Raising",
+        "Asset Sale"
+      ]
     },
     {
       "timestamp": "2026-07-15T18:25:00",
       "category": null,
       "headline": "Confirmed Threshold and Extended Acceptance Period",
       "url": "https://www.investegate.co.uk/announcement/rns/nova-ljubljanska-banka-d-d-ljubljana--nlb/confirmed-threshold-and-extended-acceptance-period/9671153",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a procedural update regarding an existing offer, likely extending the timeline for shareholder acceptance rather than altering the fundamental valuation or strategic rationale; it signals patience in execution but lacks immediate catalysts for price discovery.",
+      "key_themes": [
+        "M&A Process",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-06-16T18:25:00",
       "category": null,
       "headline": "Press Release / Announcement pursuant to Sec 5 ATA",
       "url": "https://www.investegate.co.uk/announcement/rns/nova-ljubljanska-banka-d-d-ljubljana--nlb/press-release-announcement-pursuant-to-sec-5-ata/9621684",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure regarding shareholding thresholds under the ATA, typical for institutional investors in Slovenian banking stocks and devoid of immediate trading catalysts.",
+      "key_themes": [
+        "Regulatory Disclosure",
+        "Shareholding Threshold"
+      ]
     },
     {
       "timestamp": "2026-06-15T16:20:00",
       "category": "AGM/EGM",
       "headline": "AGM Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/nova-ljubljanska-banka-d-d-ljubljana--nlb/agm-statement/9619161",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the convening of an Annual General Meeting, which carries no immediate financial or strategic weight for equity valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-06-11T12:40:00",
       "category": null,
       "headline": "Improvement of the VTO for Addiko Bank AG",
       "url": "https://www.investegate.co.uk/announcement/rns/nova-ljubljanska-banka-d-d-ljubljana--nlb/improvement-of-the-vto-for-addiko-bank-ag/9614074",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a corporate governance update regarding the Voluntary Takeover Offer for Addiko Bank AG, likely reflecting procedural adjustments rather than a fundamental shift in valuation or strategy; it lacks the transformative weight of a completed acquisition or major financial restatement.",
+      "key_themes": [
+        "Corporate Governance",
+        "M&A Process"
+      ]
     },
     {
       "timestamp": "2026-06-05T10:50:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/nova-ljubljanska-banka-d-d-ljubljana--nlb/director-pdmr-shareholding/9604534",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions, which carries negligible market impact for a Slovenian-listed bank like NLB. Such routine filings rarely signal strategic shifts or material insider sentiment in the absence of aggregated block trading data.",
@@ -182,10 +232,14 @@
       "category": null,
       "headline": "Press Release / Announcement pursuant to Sec 5 ATA",
       "url": "https://www.investegate.co.uk/announcement/rns/nova-ljubljanska-banka-d-d-ljubljana--nlb/press-release-announcement-pursuant-to-sec-5-ata/9595389",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing regarding share capital changes under Slovenian law, lacking any material strategic developments or financial performance indicators that would influence equity valuation.",
+      "key_themes": [
+        "regulatory_compliance",
+        "capital_structure"
+      ]
     }
   ]
 }

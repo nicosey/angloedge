@@ -10,6 +10,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM, Annual Report and Accounts",
       "url": "https://www.investegate.co.uk/announcement/rns/sareum-holdings--sar/notice-of-agm-annual-report-and-accounts/9873606",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Director Subs, Admission and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/sareum-holdings--sar/director-subs-admission-and-total-voting-rights/9863554",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": "Results",
       "headline": "Notice of Results and Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/sareum-holdings--sar/notice-of-results-and-investor-presentation/9851135",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice for an AIM-listed entity with low liquidity; without accompanying financial data, it carries no immediate price-moving weight compared to transformative events like M&A or profit warnings.",
@@ -43,6 +46,7 @@
       "category": "Results",
       "headline": "Results of WRAP Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/sareum-holdings--sar/results-of-wrap-offer-/9844598",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "The WRAP offer represents a targeted capital raise to support ongoing operations rather than transformative growth, typical for small-cap infrastructure firms navigating liquidity constraints without signaling major strategic shifts.",
@@ -56,56 +60,78 @@
       "category": "Placing",
       "headline": "Early Close of WRAP Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/sareum-holdings--sar/early-close-of-wrap-retail-offer/9844140",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The early close of the WRAP Retail Offer signals weak retail demand for Sareum's capital raise, a common friction point in current UK AIM fundraising where institutional support often outweighs public appetite. This outcome typically necessitates reliance on existing cash reserves or further dilutive measures to fund growth initiatives, highlighting the challenging liquidity environment for small-cap tech firms.",
+      "key_themes": [
+        "capital_raise",
+        "retail_demand_weakness",
+        "liquidity_risk"
+      ]
     },
     {
       "timestamp": "2026-10-26T07:30:00",
       "category": null,
       "headline": "Capital Access Window - Sareum Holdings Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/sareum-holdings--sar/capital-access-window-sareum-holdings-plc/9840838",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice regarding the company's ability to access capital markets, lacking any specific transaction details or financial metrics that would indicate immediate fundamental change or strategic shift.",
+      "key_themes": [
+        "Corporate Governance",
+        "Capital Markets"
+      ]
     },
     {
       "timestamp": "2026-10-26T07:01:00",
       "category": "Placing",
       "headline": "WRAP Retail Offer for up to £100,000",
       "url": "https://www.investegate.co.uk/announcement/rns/sareum-holdings--sar/wrap-retail-offer-for-up-to-100-000/9840179",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 4,
+      "insight": "This £100k WRAP Retail Offer is a negligible capital raise for Sareum Holdings, primarily serving to maintain retail liquidity rather than fund significant growth or strategic shifts in the competitive UK tech sector.",
+      "key_themes": [
+        "minor_capital_action",
+        "retail_liquidity"
+      ]
     },
     {
       "timestamp": "2026-10-08T07:30:00",
       "category": null,
       "headline": "Capital Access Window - Sareum Holdings Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/sareum-holdings--sar/capital-access-window-sareum-holdings-plc/9813045",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice regarding the reopening of the company's capital raising facility, lacking specific transaction details or pricing that would indicate immediate market-moving potential.",
+      "key_themes": [
+        "Capital Raising",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-10-08T07:00:00",
       "category": null,
       "headline": "Capital Access Window",
       "url": "https://www.investegate.co.uk/announcement/rns/sareum-holdings--sar/capital-access-window/9812286",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The announcement of a capital access window is standard boilerplate for AIM-listed micro-caps to facilitate future fundraising, indicating no immediate transactional commitment or material financial event.",
+      "key_themes": [
+        "Corporate Governance",
+        "Fundraising Readiness"
+      ]
     },
     {
       "timestamp": "2026-08-19T14:19:00",
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/sareum-holdings--sar/exercise-of-warrants/9730380",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -116,6 +142,7 @@
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/sareum-holdings--sar/exercise-of-warrants/9711353",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -126,10 +153,14 @@
       "category": null,
       "headline": "Completion of Dosing in Toxicology Programme",
       "url": "https://www.investegate.co.uk/announcement/rns/sareum-holdings--sar/completion-of-dosing-in-toxicology-programme-/9675797",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Completion of dosing marks a standard operational milestone in the drug development lifecycle but does not constitute a commercial catalyst; value realization depends entirely on subsequent data readouts and regulatory interactions rather than this administrative completion.",
+      "key_themes": [
+        "clinical_development",
+        "pharma_milestones"
+      ]
     }
   ]
 }

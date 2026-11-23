@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Statement Regarding UK Gambling Tax Increases",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/statement-regarding-uk-gambling-tax-increases/9846472",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This announcement signals direct margin compression from the UK's shift to ad valorem gambling duty, a structural headwind that forces Entain to accelerate pricing power initiatives and cost efficiencies to protect EBITDA.",
+      "key_themes": [
+        "Regulatory Risk",
+        "Margin Pressure"
+      ]
     },
     {
       "timestamp": "2026-10-15T14:52:00",
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/director-declaration/9825522",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": "Trading Update",
       "headline": "Q3 Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/q3-trading-update/9823596",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a quarterly trading update for a major bookmaker, this likely provides incremental visibility into consumer spending trends and margin pressures rather than transformative structural changes, though it may signal shifts in regulatory impact or competitive intensity within the UK gambling sector.",
@@ -43,16 +49,22 @@
       "category": null,
       "headline": "BetMGM Q3 2026 Update",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/betmgm-q3-2026-update-/9820594",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "BetMGM's Q3 update serves as a critical barometer for the US sports betting market's maturation and margin sustainability amidst intensifying competition from DraftKings and FanDuel. The results will directly influence Entain's valuation multiple by validating or challenging the profitability trajectory of its largest growth engine.",
+      "key_themes": [
+        "US Sports Betting",
+        "Margin Pressure",
+        "Growth Validation"
+      ]
     },
     {
       "timestamp": "2026-10-02T09:59:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/director-pdmr-shareholding/9804250",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on Entain's valuation or operational trajectory, reflecting normal liquidity management rather than strategic shifts.",
@@ -66,16 +78,22 @@
       "category": null,
       "headline": "FY26 EBITDA maintained guide despite Brazil ban",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/fy26-ebitda-maintained-guide-despite-brazil-ban/9792678",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Entain's maintenance of FY26 EBITDA guidance despite the Brazil regulatory ban demonstrates operational resilience and effective risk management in a key growth market, mitigating investor fears of a significant profit warning.",
+      "key_themes": [
+        "Regulatory Risk",
+        "Guidance Maintenance",
+        "Brazil Market"
+      ]
     },
     {
       "timestamp": "2026-09-21T13:41:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/director-pdmr-shareholding/9782589",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory compliance events with negligible fundamental impact on Entain's valuation or operational trajectory.",
@@ -89,6 +107,7 @@
       "category": null,
       "headline": "Issuance of Shares & Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/issuance-of-shares-total-voting-rights/9749668",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -99,16 +118,21 @@
       "category": null,
       "headline": "Conclusion of Audit Tender",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/conclusion-of-audit-tender/9720995",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative update confirming the completion of an audit firm tender, likely indicating a routine rotation or minor process change rather than a substantive shift in financial reporting quality or strategic direction.",
+      "key_themes": [
+        "Corporate Governance",
+        "Audit"
+      ]
     },
     {
       "timestamp": "2026-08-04T09:30:00",
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/tr-1-notification-of-major-holdings/9703519",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -119,6 +143,7 @@
       "category": "Trading Update",
       "headline": "BetMGM Q2 2026 Business Update",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/betmgm-q2-2026-business-update/9691513",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "BetMGM's Q2 performance serves as a critical bellwether for the US sports betting market's saturation and regulatory trajectory, directly impacting Entain's valuation multiple given its significant exposure to the North American growth engine.",
@@ -132,36 +157,50 @@
       "category": "Appointment",
       "headline": "Directorate Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/directorate-changes/9689263",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board-level changes in the UK gambling sector typically signal governance continuity rather than strategic pivots, lacking the immediate catalyst impact of M&A or earnings revisions.",
+      "key_themes": [
+        "Corporate Governance",
+        "UK Gambling Sector"
+      ]
     },
     {
       "timestamp": "2026-07-14T14:00:00",
       "category": null,
       "headline": "Notice of BetMGM Q2 Update and Conference Call",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/notice-of-betmgm-q2-update-and-conference-call/9668414",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "BetMGM is Entain's primary growth engine and profit contributor; a Q2 update provides critical visibility into US market penetration and margin trends amidst intensifying competition from DraftKings and FanDuel.",
+      "key_themes": [
+        "US Growth",
+        "Profitability",
+        "Market Share"
+      ]
     },
     {
       "timestamp": "2026-06-25T13:03:00",
       "category": null,
       "headline": "Phased exit of Entain CEE - 20% divestment agreed",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/phased-exit-of-entain-cee-20-divestment-agreed-/9637282",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "This divestment aligns with Entain's strategic pivot to focus on core regulated markets like the UK and US, reducing exposure to the volatile Central and Eastern European region; it signals a disciplined capital allocation approach amidst tightening regulatory landscapes in emerging EU jurisdictions.",
+      "key_themes": [
+        "Strategic Restructuring",
+        "Geographic Focus"
+      ]
     },
     {
       "timestamp": "2026-06-25T09:59:00",
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/tr-1-notification-of-major-holdings/9636615",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -172,6 +211,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/tr-1-notification-of-major-holdings/9632762",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -182,16 +222,21 @@
       "category": null,
       "headline": "Directorate and Board Committee Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/directorate-and-board-committee-changes/9631883",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine governance adjustments with no immediate financial or strategic implication for Entain's core betting and gaming operations.",
+      "key_themes": [
+        "corporate_governance",
+        "board_changes"
+      ]
     },
     {
       "timestamp": "2026-06-19T16:26:00",
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/tr-1-notification-of-major-holdings/9628421",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -202,16 +247,21 @@
       "category": null,
       "headline": "Board Committee Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/board-committee-changes/9619128",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine governance adjustment with negligible direct financial impact on Entain's core betting and gaming operations; such committee changes are standard corporate housekeeping rather than indicators of strategic shift or distress.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-12T14:55:00",
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/tr-1-notification-of-major-holdings/9616644",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -222,6 +272,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/tr-1-notification-of-major-holdings/9611270",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -232,6 +283,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/tr-1-notification-of-major-holdings/9608974",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -242,6 +294,7 @@
       "category": null,
       "headline": "TR1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/tr1-notification-of-major-holdings/9606500",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -252,6 +305,7 @@
       "category": null,
       "headline": "TR1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/tr1-notification-of-major-holdings/9597297",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -262,6 +316,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/total-voting-rights/9593524",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -272,10 +327,14 @@
       "category": "Appointment",
       "headline": "Board Appointment",
       "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/board-appointment/9589801",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board appointments are standard governance updates with negligible immediate financial impact on Entain's valuation, though they signal continuity in leadership structure rather than strategic pivots.",
+      "key_themes": [
+        "Corporate Governance",
+        "Leadership Continuity"
+      ]
     }
   ]
 }

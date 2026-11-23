@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Exercise of Options & TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/ms-international--msi/exercise-of-options-tvr-/9854281",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Exercise of Options & TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/ms-international--msi/exercise-of-options-tvr/9845930",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,36 +32,50 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/ms-international--msi/result-of-agm/9763610",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no intrinsic financial value or strategic shift for MS International.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-09-09T11:00:00",
       "category": "AGM/EGM",
       "headline": "AGM Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/ms-international--msi/agm-statement/9763395",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the convening of an Annual General Meeting, which carries no immediate financial or strategic weight for equity valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-08-24T07:00:00",
       "category": null,
       "headline": "Contract to Supply Counter Uncrewed Aerial System",
       "url": "https://www.investegate.co.uk/announcement/rns/ms-international--msi/contract-to-supply-counter-uncrewed-aerial-system-/9735250",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This contract highlights MSI's niche positioning in the defence counter-UAS sector but represents a single commercial win rather than a structural shift; given the company's recent financial volatility and small-cap status, such orders are operationally relevant but unlikely to materially alter valuation multiples without evidence of recurring revenue scale.",
+      "key_themes": [
+        "Defence",
+        "Counter-UAS",
+        "Commercial Win"
+      ]
     },
     {
       "timestamp": "2026-08-05T10:12:00",
       "category": null,
       "headline": "Exercise of Options & TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/ms-international--msi/exercise-of-options-tvr/9706144",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,6 +86,7 @@
       "category": null,
       "headline": "Exercise of Options & TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/ms-international--msi/exercise-of-options-tvr-/9682668",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,16 +97,21 @@
       "category": "Appointment",
       "headline": "Directorate changes",
       "url": "https://www.investegate.co.uk/announcement/rns/ms-international--msi/directorate-changes/9672072",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative change with no immediate strategic implication for MS International's core business operations or valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-16T07:00:00",
       "category": "Results",
       "headline": "Final Results",
       "url": "https://www.investegate.co.uk/announcement/rns/ms-international--msi/final-results/9671282",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a micro-cap with limited liquidity and niche exposure to industrial gases and engineering services, MSI's final results are unlikely to move the broader market; focus remains on whether the update signals stabilization in its core contracting margins or continued pressure from supply chain costs.",

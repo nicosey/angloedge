@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Amended Final Terms",
       "url": "https://www.investegate.co.uk/announcement/rns/barclays-bank-plc--33je/amended-final-terms/9887320",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,56 +21,77 @@
       "category": null,
       "headline": "Admission to trading of Transferable Securities",
       "url": "https://www.investegate.co.uk/announcement/rns/barclays-bank-plc--33je/admission-to-trading-of-transferable-securities-/9873328",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing for the admission of transferable securities, likely related to existing capital instruments or derivatives rather than a new equity raise or M&A event. It carries no immediate fundamental implication for Barclays' valuation or strategic direction.",
+      "key_themes": [
+        "regulatory_compliance",
+        "capital_markets"
+      ]
     },
     {
       "timestamp": "2026-10-22T07:00:00",
       "category": null,
       "headline": "Q3 2026 Pillar 3 Report",
       "url": "https://www.investegate.co.uk/announcement/rns/barclays-bank-plc--33je/q3-2026-pillar-3-report-/9835305",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Pillar 3 reports are mandatory regulatory disclosures detailing capital adequacy ratios rather than operational performance updates; for Barclays, this confirms compliance with PRA requirements but offers no new strategic alpha or earnings guidance.",
+      "key_themes": [
+        "Regulatory Compliance",
+        "Capital Adequacy"
+      ]
     },
     {
       "timestamp": "2026-08-05T14:45:00",
       "category": null,
       "headline": "Publication of Base Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/barclays-bank-plc--33je/publication-of-base-prospectus/9706853",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing to update the base prospectus for debt issuance, common in UK banking capital management but devoid of immediate pricing or sizing details that would signal strategic shifts.",
+      "key_themes": [
+        "Capital Management",
+        "Debt Issuance"
+      ]
     },
     {
       "timestamp": "2026-07-28T07:00:00",
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/barclays-bank-plc--33je/half-year-financial-report-/9689975",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a major UK lender, Barclays' half-year results provide critical real-time data on consumer credit health and net interest margin resilience amid the current high-rate environment, directly influencing sector sentiment for rivals like Lloyds and NatWest.",
+      "key_themes": [
+        "Interim Results",
+        "Banking Sector"
+      ]
     },
     {
       "timestamp": "2026-06-17T17:50:00",
       "category": null,
       "headline": "Admission to Trading of Transferable Securities",
       "url": "https://www.investegate.co.uk/announcement/rns/barclays-bank-plc--33je/admission-to-trading-of-transferable-securities/9624014",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for the admission of transferable securities, likely related to existing debt issuance or capital instrument listings common in UK banking operations, carrying no immediate strategic or financial impact.",
+      "key_themes": [
+        "administrative",
+        "capital_markets"
+      ]
     },
     {
       "timestamp": "2026-05-28T18:15:00",
       "category": null,
       "headline": "Publication of a Supplementary Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/barclays-bank-plc--33je/publication-of-a-supplementary-prospectus/9590742",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,

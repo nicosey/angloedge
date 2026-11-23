@@ -10,16 +10,21 @@
       "category": "Appointment",
       "headline": "Senior Management and Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/asiamet-resources-limited-di---ars/senior-management-and-board-changes/9844616",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine executive reshuffling in a junior explorer typically signals internal governance adjustments rather than immediate value creation; without accompanying resource updates or financing, the market will likely view this as neutral administrative noise.",
+      "key_themes": [
+        "Corporate Governance",
+        "Junior Mining"
+      ]
     },
     {
       "timestamp": "2026-10-22T15:45:00",
       "category": "AGM/EGM",
       "headline": "Notice of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/asiamet-resources-limited-di---ars/notice-of-annual-general-meeting/9837247",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,16 +35,22 @@
       "category": "Dividend",
       "headline": "Special Dividend – GBP Dividend Rate",
       "url": "https://www.investegate.co.uk/announcement/rns/asiamet-resources-limited-di---ars/special-dividend-gbp-dividend-rate/9792804",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a speculative junior explorer with no proven reserves or production history, this special dividend likely signals a liquidation of remaining assets rather than operational success, reflecting the sector's high risk and lack of sustainable cash flows.",
+      "key_themes": [
+        "asset_liquidation",
+        "speculative_exploration",
+        "capital_return"
+      ]
     },
     {
       "timestamp": "2026-09-24T12:20:00",
       "category": "Results",
       "headline": "Interim Results for Six Months Ended 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/asiamet-resources-limited-di---ars/interim-results-for-six-months-ended-30-june-2026/9789595",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a junior explorer in the critical minerals space, this interim update is pivotal for validating exploration progress against prevailing ESG and supply chain security narratives driving UK-listed resource valuations.",
@@ -53,70 +64,101 @@
       "category": "Dividend",
       "headline": "Special Dividend – GBP/USD Exchange Rate",
       "url": "https://www.investegate.co.uk/announcement/rns/asiamet-resources-limited-di---ars/special-dividend-gbp-usd-exchange-rate-/9783257",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement is an administrative disclosure regarding the exchange rate used to calculate a special dividend, rather than a new corporate action; it has no fundamental impact on Asiamet's valuation or operational strategy.",
+      "key_themes": [
+        "administrative",
+        "dividend_calculation"
+      ]
     },
     {
       "timestamp": "2026-09-14T09:15:00",
       "category": "Dividend",
       "headline": "Special Dividend – Payment Instructions",
       "url": "https://www.investegate.co.uk/announcement/rns/asiamet-resources-limited-di---ars/special-dividend-payment-instructions/9770221",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is an administrative notice detailing the mechanics of a previously declared special dividend rather than announcing new value creation; for a small-cap explorer like Asiamet, such payments are typically minor distributions of surplus cash that do not signal strategic shifts or significant capital return programs.",
+      "key_themes": [
+        "Corporate Action",
+        "Cash Distribution"
+      ]
     },
     {
       "timestamp": "2026-09-09T08:00:00",
       "category": null,
       "headline": "Long Term Incentive Programme",
       "url": "https://www.investegate.co.uk/announcement/rns/asiamet-resources-limited-di---ars/long-term-incentive-programme-/9762784",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "LTIP announcements are standard governance mechanisms for aligning management with shareholder interests in junior mining firms, carrying negligible immediate financial impact compared to exploration results or funding rounds.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Compensation"
+      ]
     },
     {
       "timestamp": "2026-09-09T08:00:00",
       "category": "Dividend",
       "headline": "Sale of Indokal Limited and Special Dividend",
       "url": "https://www.investegate.co.uk/announcement/rns/asiamet-resources-limited-di---ars/sale-of-indokal-limited-and-special-dividend/9762782",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The disposal of the Indokal subsidiary to fund a special dividend signals a strategic pivot towards asset-light capital return rather than organic growth, reflecting a pragmatic response to the challenging base metals market environment.",
+      "key_themes": [
+        "Capital Return",
+        "Asset Divestment",
+        "Strategic Pivot"
+      ]
     },
     {
       "timestamp": "2026-09-07T07:00:00",
       "category": null,
       "headline": "Update on Sale of Indokal Limited (KSK Project)",
       "url": "https://www.investegate.co.uk/announcement/rns/asiamet-resources-limited-di---ars/update-on-sale-of-indokal-limited-ksk-project-/9757571",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The divestment of the Indokal asset represents a strategic pivot for Asiamet to reduce exploration risk and potentially generate immediate liquidity, aligning with a broader sector trend of junior miners consolidating portfolios to focus on core assets like the KSK project.",
+      "key_themes": [
+        "Asset Divestment",
+        "Strategic Refocusing",
+        "Liquidity Generation"
+      ]
     },
     {
       "timestamp": "2026-08-05T07:00:00",
       "category": null,
       "headline": "Update on Proposed Sale of Indokal (KSK Project)",
       "url": "https://www.investegate.co.uk/announcement/rns/asiamet-resources-limited-di---ars/update-on-proposed-sale-of-indokal-ksk-project-/9704873",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The disposal of the Indokal (KSK Project) represents a strategic pivot for Asiamet Resources to reduce exploration risk and potentially unlock liquidity in a challenging junior mining finance environment. This aligns with recent sector trends where small-cap miners are divesting non-core or high-cost assets to focus on near-term production or balance sheet stability.",
+      "key_themes": [
+        "Asset Divestment",
+        "Strategic Refocus",
+        "Junior Mining"
+      ]
     },
     {
       "timestamp": "2026-05-26T17:30:00",
       "category": null,
       "headline": "2025 Annual Report & Financial Statements",
       "url": "https://www.investegate.co.uk/announcement/rns/asiamet-resources-limited-di---ars/2025-annual-report-financial-statements/9586300",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a junior explorer in the critical minerals space, ARS's annual report is primarily an administrative filing with limited immediate market-moving catalysts unless it reveals significant resource upgrades or funding requirements.",
+      "key_themes": [
+        "annual reporting",
+        "junior miner"
+      ]
     }
   ]
 }

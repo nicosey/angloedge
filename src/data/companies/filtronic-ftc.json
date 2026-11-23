@@ -10,16 +10,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/filtronic--ftc/result-of-agm/9851422",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting confirmation of shareholder resolutions with no new strategic directives or capital allocation changes, reflecting routine corporate governance rather than market-moving events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-10-23T09:42:00",
       "category": "Director Dealing",
       "headline": "Exercise of Options, Director Dealing and TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/filtronic--ftc/exercise-of-options-director-dealing-and-tvr/9838724",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard administrative disclosure of executive option exercises, which typically results in immediate share dilution but lacks strategic signaling value compared to open market purchases.",
@@ -33,6 +38,7 @@
       "category": null,
       "headline": "Grant of Options",
       "url": "https://www.investegate.co.uk/announcement/rns/filtronic--ftc/grant-of-options-/9821020",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,26 +49,36 @@
       "category": null,
       "headline": "Refreshed brand identity and website",
       "url": "https://www.investegate.co.uk/announcement/rns/filtronic--ftc/refreshed-brand-identity-and-website/9801599",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Rebranding is a cosmetic administrative update with zero immediate financial impact on Filtronic's core RF semiconductor business; it signals no change in strategy or capital allocation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Brand Refresh"
+      ]
     },
     {
       "timestamp": "2026-09-16T07:00:00",
       "category": null,
       "headline": "$8m follow-on order with US Company",
       "url": "https://www.investegate.co.uk/announcement/rns/filtronic--ftc/-8m-follow-on-order-with-us-company/9773932",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The $8m follow-on order validates Filtronic's RF filter technology in the US market, providing tangible revenue visibility and reducing execution risk for FY24/25 estimates. This reinforces the company's strategic pivot towards high-growth telecom infrastructure demand amidst ongoing supply chain normalization.",
+      "key_themes": [
+        "Revenue Visibility",
+        "US Market Expansion",
+        "RF Technology Validation"
+      ]
     },
     {
       "timestamp": "2026-08-26T07:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/filtronic--ftc/holding-s-in-company/9739918",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,6 +89,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/filtronic--ftc/holding-s-in-company/9739917",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,16 +100,21 @@
       "category": "AGM/EGM",
       "headline": "Publication of Annual Report and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/filtronic--ftc/publication-of-annual-report-and-notice-of-agm/9726210",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing accompanying the annual report, serving to convene shareholder meetings for routine approvals rather than signaling any strategic shift or material corporate action.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-08-14T07:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/filtronic--ftc/holding-s-in-company/9721555",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -103,6 +125,7 @@
       "category": "Results",
       "headline": "Full year results for the year ended 31 May 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/filtronic--ftc/full-year-results-for-the-year-ended-31-may-2026/9702431",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a high-beta small-cap in the RF and microwave semiconductor space, Filtronic's full-year results will be scrutinized for margin resilience amid persistent supply chain normalization and demand volatility in telecom infrastructure. The market will focus on cash flow generation to fund R&D without dilutive equity raises, given the sector's recent consolidation trends.",
@@ -117,6 +140,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/filtronic--ftc/holding-s-in-company/9586488",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

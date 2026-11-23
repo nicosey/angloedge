@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Monthly Factsheet as at 31 October 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/henderson-high-income-trust--hhi/monthly-factsheet-as-at-31-october-2026/9886940",
+      "routine_type": "Portfolio Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,22 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/henderson-high-income-trust--hhi/dividend-declaration/9877668",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a closed-end fund, the dividend declaration is the primary metric for investor yield and sentiment; stability here signals management's confidence in underlying asset performance despite broader UK equity volatility.",
+      "key_themes": [
+        "yield",
+        "closed-end-fund",
+        "income-generation"
+      ]
     },
     {
       "timestamp": "2026-11-13T07:00:00",
       "category": null,
       "headline": "Kepler Trust Intelligence: New Research",
       "url": "https://www.investegate.co.uk/announcement/rns/henderson-high-income-trust--hhi/kepler-trust-intelligence-new-research/9873602",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +47,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/henderson-high-income-trust--hhi/director-pdmr-shareholding/9861038",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry minimal market impact unless they signal a coordinated shift in insider sentiment; without volume or price context, this remains an administrative filing with no immediate strategic implication for HHI's valuation.",
@@ -53,6 +61,7 @@
       "category": null,
       "headline": "Monthly Factsheet as at 30 September 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/henderson-high-income-trust--hhi/monthly-factsheet-as-at-30-september-2026-/9839657",
+      "routine_type": "Portfolio Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,16 +72,21 @@
       "category": null,
       "headline": "Portfolio Update",
       "url": "https://www.investegate.co.uk/announcement/rns/henderson-high-income-trust--hhi/portfolio-update/9807395",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Portfolio updates are standard operational disclosures for investment trusts that rarely move share prices unless they signal a drastic shift in strategy or significant performance deviation from peer benchmarks.",
+      "key_themes": [
+        "investment trust",
+        "portfolio disclosure"
+      ]
     },
     {
       "timestamp": "2026-09-23T14:22:00",
       "category": null,
       "headline": "Monthly Factsheet as at 31 August 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/henderson-high-income-trust--hhi/monthly-factsheet-as-at-31-august-2026/9787497",
+      "routine_type": "Portfolio Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,16 +97,22 @@
       "category": null,
       "headline": "Half-year Update",
       "url": "https://www.investegate.co.uk/announcement/rns/henderson-high-income-trust--hhi/half-year-update/9775888",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a closed-end fund, this update primarily signals NAV performance relative to the discount/premium dynamics that drive HHI's valuation; in the current high-yield environment, any deviation from peer discounts or changes in leverage strategy will be closely scrutinised by income-focused investors.",
+      "key_themes": [
+        "NAV Performance",
+        "Discount/Premium Dynamics",
+        "Income Trust"
+      ]
     },
     {
       "timestamp": "2026-08-24T12:54:00",
       "category": null,
       "headline": "Monthly Factsheet as at 31 July 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/henderson-high-income-trust--hhi/monthly-factsheet-as-at-31-july-2026-/9737065",
+      "routine_type": "Portfolio Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -103,6 +123,7 @@
       "category": null,
       "headline": "Compliance with Market Abuse Regulation",
       "url": "https://www.investegate.co.uk/announcement/rns/henderson-high-income-trust--hhi/compliance-with-market-abuse-regulation/9711487",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -113,6 +134,7 @@
       "category": null,
       "headline": "Monthly Factsheet as at 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/henderson-high-income-trust--hhi/monthly-factsheet-as-at-30-june-2026/9682492",
+      "routine_type": "Portfolio Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -123,26 +145,36 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/henderson-high-income-trust--hhi/dividend-declaration/9654510",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a closed-end fund, the dividend declaration is the primary metric for investor returns, directly impacting yield attractiveness relative to rising gilt yields and peer discount/premium dynamics.",
+      "key_themes": [
+        "yield",
+        "closed-end-fund",
+        "income"
+      ]
     },
     {
       "timestamp": "2026-07-02T14:50:00",
       "category": null,
       "headline": "Portfolio Update",
       "url": "https://www.investegate.co.uk/announcement/rns/henderson-high-income-trust--hhi/portfolio-update/9650302",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine portfolio updates for closed-end funds typically offer limited alpha-generating signals compared to NAV discount movements or dividend policy changes; this is standard disclosure rather than a catalyst for re-rating.",
+      "key_themes": [
+        "Closed-End Fund",
+        "Portfolio Disclosure"
+      ]
     },
     {
       "timestamp": "2026-06-23T13:33:00",
       "category": null,
       "headline": "Monthly Factsheet as at 31 May 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/henderson-high-income-trust--hhi/monthly-factsheet-as-at-31-may-2026-/9632520",
+      "routine_type": "Portfolio Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -153,6 +185,7 @@
       "category": null,
       "headline": "Monthly Factsheet as at 30 April 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/henderson-high-income-trust--hhi/monthly-factsheet-as-at-30-april-2026/9585978",
+      "routine_type": "Portfolio Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,

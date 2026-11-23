@@ -10,46 +10,66 @@
       "category": "Appointment",
       "headline": "Appointment of Liquidator",
       "url": "https://www.investegate.co.uk/announcement/rns/engage-xr-holdings-cdi---exr/appointment-of-liquidator/9771616",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 10,
+      "insight": "The appointment of a liquidator signifies the total collapse of Engage XR Holdings, effectively ending its existence as a listed entity and wiping out shareholder equity. This marks the terminal phase for a company that failed to deliver on its XR technology promises, serving as a stark warning regarding the viability of unproven tech ventures in the current high-interest-rate environment.",
+      "key_themes": [
+        "Corporate Failure",
+        "Shareholder Wipeout",
+        "XR Sector Risk"
+      ]
     },
     {
       "timestamp": "2026-09-01T07:30:00",
       "category": null,
       "headline": "Suspension - Engage XR Holdings Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/engage-xr-holdings-cdi---exr/suspension-engage-xr-holdings-plc/9748653",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Suspension of a small-cap tech stock like Engage XR typically signals severe liquidity issues, potential insolvency, or pending regulatory action, effectively freezing shareholder value and indicating imminent delisting risk in the volatile AIM tech sector.",
+      "key_themes": [
+        "Suspension",
+        "Liquidity Risk",
+        "Delisting Threat"
+      ]
     },
     {
       "timestamp": "2026-09-01T07:00:00",
       "category": null,
       "headline": "Suspension of Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/engage-xr-holdings-cdi---exr/suspension-of-shares/9747537",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "Suspension of shares for Engage XR Holdings signals severe distress or imminent corporate action, likely a capital raise or restructuring to avoid insolvency, reflecting the high failure rate and liquidity crunch in the UK AIM tech sector.",
+      "key_themes": [
+        "Liquidity Crisis",
+        "AIM Tech Sector Distress",
+        "Corporate Restructuring"
+      ]
     },
     {
       "timestamp": "2026-06-25T12:04:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/engage-xr-holdings-cdi---exr/result-of-agm/9637183",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting confirmation of shareholder approvals for routine governance matters, offering no new strategic direction or financial data to alter the investment thesis.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-02T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/engage-xr-holdings-cdi---exr/notice-of-agm/9596022",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +80,7 @@
       "category": "Results",
       "headline": "Final Results",
       "url": "https://www.investegate.co.uk/announcement/rns/engage-xr-holdings-cdi---exr/final-results/9595981",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a micro-cap AIM stock with historically low liquidity and limited institutional coverage, final results announcements typically generate minimal market reaction unless accompanied by a significant dividend or major strategic pivot.",

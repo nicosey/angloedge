@@ -10,26 +10,35 @@
       "category": null,
       "headline": "Posting of Shareholder Letter",
       "url": "https://www.investegate.co.uk/announcement/rns/system1-group--sys1/posting-of-shareholder-letter/9827897",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Shareholder letters are standard governance communications that rarely contain material non-public information or immediate catalysts for SYS1's adtech valuation; they serve primarily to manage sentiment rather than signal structural change.",
+      "key_themes": [
+        "Corporate Governance",
+        "Investor Relations"
+      ]
     },
     {
       "timestamp": "2026-09-25T15:48:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/system1-group--sys1/result-of-agm/9792365",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director re-election and auditor appointment rather than strategic shifts or capital allocation changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-09-24T10:23:00",
       "category": "Trading Update",
       "headline": "Replacement: Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/system1-group--sys1/replacement-trading-update/9789226",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 4,
       "insight": "The 'Replacement' status indicates a technical correction of a previous filing rather than new substantive data, resulting in negligible immediate market impact.",
@@ -43,6 +52,7 @@
       "category": "Trading Update",
       "headline": "Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/system1-group--sys1/trading-update/9787954",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a high-growth adtech firm navigating post-IPO scrutiny and macro headwinds in digital advertising, this update provides critical visibility into revenue resilience and path to profitability, distinguishing it from peers facing sharper demand contraction.",
@@ -57,46 +67,65 @@
       "category": "AGM/EGM",
       "headline": "Annual General Meeting arrangements",
       "url": "https://www.investegate.co.uk/announcement/rns/system1-group--sys1/annual-general-meeting-arrangements/9787291",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice for System1's AGM, lacking any substantive corporate action or strategic shift that would influence valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-08-27T07:00:00",
       "category": null,
       "headline": "System1 launches Test Your Ad Screen",
       "url": "https://www.investegate.co.uk/announcement/rns/system1-group--sys1/system1-launches-test-your-ad-screen/9742179",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This product launch addresses the critical ad fraud and viewability concerns plaguing digital advertising, positioning System1 to capture share in a market increasingly demanding transparency post-iOS privacy changes. While strategically relevant for long-term growth, it represents incremental product development rather than an immediate financial inflection point.",
+      "key_themes": [
+        "AdTech",
+        "Product Launch",
+        "Digital Advertising"
+      ]
     },
     {
       "timestamp": "2026-07-17T17:46:00",
       "category": null,
       "headline": "Clarification statement",
       "url": "https://www.investegate.co.uk/announcement/rns/system1-group--sys1/clarification-statement/9675641",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Clarification statements typically address minor market rumors or administrative queries rather than fundamental business changes, indicating low immediate financial impact for System1's ad-tech valuation.",
+      "key_themes": [
+        "Market Clarification",
+        "Low Impact"
+      ]
     },
     {
       "timestamp": "2026-07-17T07:00:00",
       "category": null,
       "headline": "Reiteration of unequivocal rejection",
       "url": "https://www.investegate.co.uk/announcement/rns/system1-group--sys1/reiteration-of-unequivocal-rejection/9673546",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement confirms the status quo in System1's ongoing saga with activist investor MRC Global, signaling no immediate change in control or strategic direction despite persistent pressure.",
+      "key_themes": [
+        "activist investor",
+        "corporate governance",
+        "status quo"
+      ]
     },
     {
       "timestamp": "2026-07-13T15:01:00",
       "category": null,
       "headline": "Form 8 (Opening Position Disclosure) - System1 Group plc - Octopus Investments",
       "url": "https://www.investegate.co.uk/announcement/gnw/system1-group--sys1/form-8-opening-position-disclosure-system-/9666231",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -107,6 +136,7 @@
       "category": null,
       "headline": "Form 8 (OPD) - System1 Group plc",
       "url": "https://www.investegate.co.uk/announcement/rns/system1-group--sys1/form-8-opd-system1-group-plc/9666030",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -117,16 +147,21 @@
       "category": "Dividend",
       "headline": "Dividend Timetable",
       "url": "https://www.investegate.co.uk/announcement/rns/system1-group--sys1/dividend-timetable/9659390",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative timetable update with no new financial data or strategic shifts; System1's current focus remains on growth and market share expansion in the digital advertising sector rather than shareholder returns.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-07-08T07:00:00",
       "category": "Results",
       "headline": "Final Results",
       "url": "https://www.investegate.co.uk/announcement/rns/system1-group--sys1/final-results/9657186",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a high-beta adtech stock heavily correlated to global digital spend cycles, SYS1's final results serve as a critical barometer for the sector's recovery trajectory post-2023 downturn; any deviation in guidance will likely trigger significant volatility given the stock's speculative nature and recent consolidation.",
@@ -141,6 +176,7 @@
       "category": null,
       "headline": "Notice of Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/system1-group--sys1/notice-of-investor-presentation-/9648447",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,

@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Closed Period Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/chelverton-uk-dividend-trust--sdv/closed-period-announcement/9853474",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/chelverton-uk-dividend-trust--sdv/director-pdmr-shareholding/9790011",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements for investment trusts like SDV typically carry minimal market impact unless the volume is substantial or signals a specific shift in insider sentiment; without transaction details, this remains an administrative disclosure.",
@@ -33,6 +35,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/chelverton-uk-dividend-trust--sdv/director-pdmr-shareholding/9790007",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures in closed-end investment trusts like SDV typically reflect personal portfolio management rather than corporate strategy, offering negligible signal for share price direction amidst the broader sector's focus on NAV discounts and dividend sustainability.",
@@ -47,26 +50,35 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/chelverton-uk-dividend-trust--sdv/dividend-declaration/9761336",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine dividend declaration typical for closed-end investment trusts; while critical for income-focused investors, it lacks the transformative catalysts required to drive significant capital appreciation or sector-wide shifts.",
+      "key_themes": [
+        "income",
+        "closed-end-fund"
+      ]
     },
     {
       "timestamp": "2026-09-08T13:31:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/chelverton-uk-dividend-trust--sdv/result-of-agm/9761335",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a standard AGM result for an investment trust, this announcement confirms routine governance matters rather than signaling strategic shifts or material financial events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-07-06T17:17:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/chelverton-uk-dividend-trust--sdv/director-pdmr-shareholding/9654711",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible market impact; without volume or price context indicating significant insider conviction or divestment, this data point remains administratively minor.",
@@ -80,26 +92,36 @@
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/chelverton-uk-dividend-trust--sdv/annual-financial-report/9642630",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a standard annual report for an investment trust, this confirms baseline NAV and dividend data without signaling transformative strategic shifts or significant capital events, reflecting routine governance rather than market-moving news.",
+      "key_themes": [
+        "Annual Report",
+        "Investment Trust",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-06-16T13:47:00",
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/chelverton-uk-dividend-trust--sdv/dividend-declaration/9621338",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine dividend declaration typical for closed-end investment trusts; while critical for income-focused shareholders, it lacks the transformative catalysts required to drive significant re-rating in the current high-yield environment.",
+      "key_themes": [
+        "income",
+        "closed-end-fund"
+      ]
     },
     {
       "timestamp": "2026-05-26T10:22:00",
       "category": null,
       "headline": "Closed Period Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/chelverton-uk-dividend-trust--sdv/closed-period-announcement/9585531",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,

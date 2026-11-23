@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director / PDMR Notification",
       "url": "https://www.investegate.co.uk/announcement/rns/playtech--ptec/director-pdmr-notification/9785089",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR notification typical of executive shareholding maintenance rather than a signal of significant insider sentiment shift; lacks the volume or context to suggest immediate strategic movement in the iGaming sector.",
@@ -23,16 +24,22 @@
       "category": null,
       "headline": "Successful closing of €350 million bond offering",
       "url": "https://www.investegate.co.uk/announcement/rns/playtech--ptec/successful-closing-of-350-million-bond-offering/9784872",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The €350m bond issuance provides crucial liquidity for Playtech's ongoing integration of the BetConstruct acquisition and potential debt refinancing, signaling confidence in its balance sheet strength amid a competitive iGaming sector.",
+      "key_themes": [
+        "capital_raise",
+        "betconstruct_integration",
+        "debt_management"
+      ]
     },
     {
       "timestamp": "2026-09-10T07:00:00",
       "category": "Results",
       "headline": "2026 Half Year Results",
       "url": "https://www.investegate.co.uk/announcement/rns/playtech--ptec/2026-half-year-results/9764419",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a mature B2B iGaming operator facing secular headwinds from regulatory tightening in Europe and the US, this interim update is critical for validating the efficacy of its cost-cutting measures and margin expansion strategy amidst slowing organic growth.",
@@ -47,16 +54,21 @@
       "category": null,
       "headline": "Spectrum Report validates Black Cube investigation",
       "url": "https://www.investegate.co.uk/announcement/rns/playtech--ptec/spectrum-report-validates-black-cube-investigation/9761970",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The Spectrum Report serves as a defensive validation of the Black Cube investigation, likely mitigating immediate reputational risk but failing to address underlying governance concerns or operational performance issues in the iGaming sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Reputation Management"
+      ]
     },
     {
       "timestamp": "2026-07-22T10:57:00",
       "category": null,
       "headline": "TR-1: Standard form-notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/playtech--ptec/tr-1-standard-form-notification-of-major-holdings/9681963",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -67,6 +79,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Notification",
       "url": "https://www.investegate.co.uk/announcement/rns/playtech--ptec/director-pdmr-notification/9592865",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing notifications are standard regulatory filings that rarely signal strategic shifts or material market-moving events for Playtech's core gaming operations.",

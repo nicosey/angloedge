@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Rule 2.9 Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/aptitude-software-group--aptd/rule-2-9-announcement/9852033",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,36 +21,49 @@
       "category": null,
       "headline": "Director stepping down from Checkit plc",
       "url": "https://www.investegate.co.uk/announcement/rns/aptitude-software-group--aptd/director-stepping-down-from-checkit-plc/9837642",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement concerns Checkit plc, a separate entity from Aptitude Software Group (APTD), indicating either a data error in the source feed or a negligible cross-holding with no strategic implication for APTD's core business.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-10-05T09:02:00",
       "category": null,
       "headline": "Exercise of awards under the Company’s PSP 2016",
       "url": "https://www.investegate.co.uk/announcement/rns/aptitude-software-group--aptd/exercise-of-awards-under-the-company-s-psp-2016/9806424",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding executive compensation vesting with no immediate impact on share supply or company strategy, typical for routine PSP exercises in the UK software sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Compensation"
+      ]
     },
     {
       "timestamp": "2026-10-01T07:00:00",
       "category": null,
       "headline": "Fynapse Partnership with Big Four Firm",
       "url": "https://www.investegate.co.uk/announcement/rns/aptitude-software-group--aptd/fynapse-partnership-with-big-four-firm/9800298",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "A partnership with a Big Four firm validates APTD's fintech infrastructure in the competitive UK payments space, signaling potential enterprise adoption and revenue diversification beyond core banking clients.",
+      "key_themes": [
+        "Strategic Partnership",
+        "Fintech Validation"
+      ]
     },
     {
       "timestamp": "2026-09-30T11:44:00",
       "category": null,
       "headline": "BLOCK LISTING SIX MONTHLY RETURN",
       "url": "https://www.investegate.co.uk/announcement/rns/aptitude-software-group--aptd/block-listing-six-monthly-return/9799093",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,16 +74,21 @@
       "category": null,
       "headline": "Additional Directorship Notification",
       "url": "https://www.investegate.co.uk/announcement/rns/aptitude-software-group--aptd/additional-directorship-notification/9770792",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing under the UK Market Abuse Regulation requiring disclosure of new directorships; it carries no intrinsic financial implication for Aptitude Software Group's valuation or operations.",
+      "key_themes": [
+        "Corporate Governance",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-09-03T09:49:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/aptitude-software-group--aptd/total-voting-rights/9754081",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,6 +99,7 @@
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/aptitude-software-group--aptd/notification-of-major-holdings/9718775",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,16 +110,21 @@
       "category": "Appointment",
       "headline": "Appointment of Chief Financial Officer",
       "url": "https://www.investegate.co.uk/announcement/rns/aptitude-software-group--aptd/appointment-of-chief-financial-officer/9714373",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "A CFO appointment in the current UK tech climate signals a push for financial discipline or preparation for a liquidity event, which is critical for APTD given its historical volatility and reliance on strategic partnerships.",
+      "key_themes": [
+        "Leadership Change",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-07-01T10:14:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/aptitude-software-group--aptd/total-voting-rights/9647116",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -110,6 +135,7 @@
       "category": null,
       "headline": "Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/aptitude-software-group--aptd/notification-of-major-holdings/9642441",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -120,6 +146,7 @@
       "category": null,
       "headline": "Form 8 (DD) - Aptitude Software Group - correction",
       "url": "https://www.investegate.co.uk/announcement/rns/aptitude-software-group--aptd/form-8-dd-aptitude-software-group-correction/9595697",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -130,6 +157,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/aptitude-software-group--aptd/total-voting-rights/9594899",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -140,6 +168,7 @@
       "category": null,
       "headline": "Form 8 (DD) - Aptitude Software Group PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/aptitude-software-group--aptd/form-8-dd-aptitude-software-group-plc/9593006",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -150,20 +179,28 @@
       "category": null,
       "headline": "Exercise of awards under the Aptitude 2020 DBP",
       "url": "https://www.investegate.co.uk/announcement/rns/aptitude-software-group--aptd/exercise-of-awards-under-the-aptitude-2020-dbp/9591895",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding the vesting of employee share awards under the company's long-term incentive plan, indicating no immediate change in control or significant capital raising activity.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Dilution"
+      ]
     },
     {
       "timestamp": "2026-05-27T09:38:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/aptitude-software-group--aptd/result-of-agm/9587501",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting confirmation of shareholder resolutions for Aptitude Software Group, carrying no new strategic direction or financial data. Such announcements are routine administrative filings that do not alter the investment thesis or valuation multiples.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     }
   ]
 }

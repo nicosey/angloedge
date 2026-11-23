@@ -10,66 +10,94 @@
       "category": null,
       "headline": "Cancellation - HEADLAM GROUP PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/headlam-group--head/cancellation-headlam-group-plc/9815355",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Cancellation of an RNS typically indicates the withdrawal of a previously announced transaction or proposal that failed to meet regulatory or shareholder approval thresholds; for Headlam, this suggests a halted strategic initiative rather than organic operational change.",
+      "key_themes": [
+        "Corporate Action",
+        "Strategic Uncertainty"
+      ]
     },
     {
       "timestamp": "2026-10-01T15:55:00",
       "category": "Appointment",
       "headline": "Administrators appointed for Ceco (Flooring) Ltd",
       "url": "https://www.investegate.co.uk/announcement/rns/headlam-group--head/administrators-appointed-for-ceco-flooring-ltd/9802714",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Ceco Flooring's administration is a contained operational failure within the fragmented flooring distribution sector rather than a systemic risk to Headlam Group; while it may present opportunistic acquisition targets for Headlam's expansion strategy, the direct financial exposure is likely limited.",
+      "key_themes": [
+        "Sector Consolidation",
+        "Operational Risk"
+      ]
     },
     {
       "timestamp": "2026-09-30T07:00:00",
       "category": "Results",
       "headline": "Delay to publication of half-year report",
       "url": "https://www.investegate.co.uk/announcement/rns/headlam-group--head/delay-to-publication-of-half-year-report/9797745",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "While a delay in publishing half-year results is typically administrative rather than indicative of fundamental distress, it introduces short-term uncertainty for Headlam's valuation during a period where logistics sector margins are under scrutiny. Investors will closely monitor the subsequent release for any signs of working capital pressure or margin compression amid rising operational costs.",
+      "key_themes": [
+        "Interim Results",
+        "Administrative Delay",
+        "Logistics Sector"
+      ]
     },
     {
       "timestamp": "2026-09-08T08:00:00",
       "category": "Appointment",
       "headline": "Administrator Appointment, Trading & Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/headlam-group--head/administrator-appointment-trading-board-changes/9760592",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Headlam Group entering administration marks a catastrophic failure for the UK logistics sector, signaling severe liquidity distress and potential total loss for equity holders amidst rising operational costs and competitive pressure.",
+      "key_themes": [
+        "Corporate Failure",
+        "Logistics Sector Stress",
+        "Equity Wipeout"
+      ]
     },
     {
       "timestamp": "2026-09-08T07:00:00",
       "category": "Dividend",
       "headline": "Sale and leaseback of Bristol distribution centre",
       "url": "https://www.investegate.co.uk/announcement/rns/headlam-group--head/sale-and-leaseback-of-bristol-distribution-centre-/9759853",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This sale-and-leaseback transaction unlocks trapped capital to strengthen the balance sheet and fund organic growth, a standard but effective strategy for asset-heavy logistics firms like Headlam amidst rising interest rates.",
+      "key_themes": [
+        "capital_efficiency",
+        "asset_light_strategy"
+      ]
     },
     {
       "timestamp": "2026-09-01T07:39:00",
       "category": "Appointment",
       "headline": "Intention to Appoint Administrators & Suspension",
       "url": "https://www.investegate.co.uk/announcement/rns/headlam-group--head/intention-to-appoint-administrators-suspension/9748667",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Appointment of administrators signals imminent insolvency for a major UK logistics provider, triggering severe liquidity crisis and potential supply chain disruption across the e-commerce sector. This mirrors high-profile collapses like Toys 'R' Us, suggesting total loss of equity value and complex creditor negotiations ahead.",
+      "key_themes": [
+        "Insolvency",
+        "Logistics",
+        "Equity Wipeout"
+      ]
     },
     {
       "timestamp": "2026-08-19T14:51:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/headlam-group--head/holding-s-in-company/9730431",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,6 +108,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/headlam-group--head/holding-s-in-company/9684811",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,6 +119,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/headlam-group--head/holding-s-in-company/9682722",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -100,6 +130,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/headlam-group--head/holding-s-in-company/9681869",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -110,6 +141,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/headlam-group--head/holding-s-in-company/9680418",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -120,6 +152,7 @@
       "category": null,
       "headline": "TR-1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/headlam-group--head/tr-1-notification-of-major-holdings/9637620",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -130,6 +163,7 @@
       "category": "Results",
       "headline": "Requisitioned General Meeting – Voting Results",
       "url": "https://www.investegate.co.uk/announcement/rns/headlam-group--head/requisitioned-general-meeting-voting-results/9597772",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative filing confirming the outcome of a requisitioned meeting, likely related to director remuneration or share capital authorization, rather than a strategic shift or financial performance indicator.",
@@ -143,10 +177,14 @@
       "category": null,
       "headline": "General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/headlam-group--head/general-meeting/9595484",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice for a shareholder meeting, likely concerning routine matters such as dividend approval or director re-elections rather than transformative corporate action.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Meeting"
+      ]
     }
   ]
 }

@@ -10,6 +10,7 @@
       "category": "Trading Update",
       "headline": "FY26 Trading Update & Notice of Webinar",
       "url": "https://www.investegate.co.uk/announcement/rns/pri0r1ty-intelligence-group-plc--pr1/fy26-trading-update-notice-of-webinar/9885179",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap AI infrastructure play, this update signals critical momentum in the UK's emerging tech sector; the inclusion of a webinar suggests management is actively cultivating investor interest to support liquidity and valuation in a niche market.",
@@ -23,16 +24,21 @@
       "category": null,
       "headline": "Reseller Agreement & Launch of Brand Sonar",
       "url": "https://www.investegate.co.uk/announcement/rns/pri0r1ty-intelligence-group-plc--pr1/reseller-agreement-launch-of-brand-sonar/9882986",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement represents a standard commercial expansion for a niche data analytics firm rather than a transformative event; while reseller agreements can accelerate revenue growth in the competitive UK cybersecurity and intelligence sector, they typically carry lower margins and execution risk compared to organic product development.",
+      "key_themes": [
+        "Commercial Expansion",
+        "Cybersecurity Sector"
+      ]
     },
     {
       "timestamp": "2026-11-09T07:00:00",
       "category": null,
       "headline": "Issue of ATM Shares & TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/pri0r1ty-intelligence-group-plc--pr1/issue-of-atm-shares-tvr/9863824",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,6 +49,7 @@
       "category": null,
       "headline": "Issue of Shares from ATM Facility & TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/pri0r1ty-intelligence-group-plc--pr1/issue-of-shares-from-atm-facility-tvr/9825942",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,66 +60,94 @@
       "category": null,
       "headline": "Opening of Dubai Office & Launch of Pri0r1ty MENA",
       "url": "https://www.investegate.co.uk/announcement/rns/pri0r1ty-intelligence-group-plc--pr1/opening-of-dubai-office-launch-of-pri0r1ty-mena/9792831",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Geographic expansion into the MENA region signals a strategic pivot to diversify revenue streams beyond the UK, aligning with broader fintech trends of seeking high-growth emerging markets, though it represents a low-impact operational milestone rather than a financial inflection point.",
+      "key_themes": [
+        "geographic expansion",
+        "MENA market entry",
+        "strategic diversification"
+      ]
     },
     {
       "timestamp": "2026-09-15T07:00:00",
       "category": null,
       "headline": "Premier League Team Renew & Extend Agreement",
       "url": "https://www.investegate.co.uk/announcement/rns/pri0r1ty-intelligence-group-plc--pr1/premier-league-team-renew-extend-agreement/9771575",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms the renewal of a key commercial contract with a Premier League entity, validating the company's B2B SaaS model and providing revenue visibility rather than transformative growth. While positive for operational stability, it lacks the scale or strategic shift required to significantly alter the valuation multiple in the competitive sports tech sector.",
+      "key_themes": [
+        "Commercial Contract Renewal",
+        "Sports Technology"
+      ]
     },
     {
       "timestamp": "2026-09-04T07:00:00",
       "category": "Acquisition",
       "headline": "Acquisition of Operating Assets & Tech of Pirkx",
       "url": "https://www.investegate.co.uk/announcement/rns/pri0r1ty-intelligence-group-plc--pr1/acquisition-of-operating-assets-tech-of-pirkx-/9755146",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This acquisition signals a strategic pivot for Prior1ty towards the high-growth cybersecurity sector, leveraging Pirkx's threat intelligence capabilities to diversify revenue streams beyond traditional IT services. While accretive to long-term growth prospects, the market will scrutinize integration risks and valuation multiples relative to recent UK tech M&A activity.",
+      "key_themes": [
+        "Cybersecurity",
+        "Strategic Diversification",
+        "M&A"
+      ]
     },
     {
       "timestamp": "2026-08-26T07:00:00",
       "category": "Appointment",
       "headline": "Appointment of Interim CFO",
       "url": "https://www.investegate.co.uk/announcement/rns/pri0r1ty-intelligence-group-plc--pr1/appointment-of-interim-cfo/9739929",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The appointment of an interim CFO signals potential instability in the financial leadership of a small-cap tech firm, often preceding a search for a permanent executive or reflecting internal governance pressures. In the current UK market environment, such administrative changes in micro-caps can trigger short-term liquidity volatility despite lacking immediate fundamental impact.",
+      "key_themes": [
+        "Corporate Governance",
+        "Leadership Change"
+      ]
     },
     {
       "timestamp": "2026-07-08T18:09:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/pri0r1ty-intelligence-group-plc--pr1/result-of-agm/9659528",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no immediate financial or strategic weight for PR1's valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-06-23T17:22:00",
       "category": null,
       "headline": "Closing of Funding Package & ATM Facility",
       "url": "https://www.investegate.co.uk/announcement/rns/pri0r1ty-intelligence-group-plc--pr1/closing-of-funding-package-atm-facility/9632881",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The closure of the funding package provides essential liquidity to sustain operations in a competitive cybersecurity landscape, while the ATM facility offers flexible, on-demand capital raising capabilities typical for growth-stage tech firms navigating interest rate headwinds.",
+      "key_themes": [
+        "Capital Raising",
+        "Liquidity Management",
+        "Cybersecurity Sector"
+      ]
     },
     {
       "timestamp": "2026-06-15T17:20:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/pri0r1ty-intelligence-group-plc--pr1/notice-of-agm/9619248",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -123,6 +158,7 @@
       "category": "Results",
       "headline": "Final Results & Resumption of Trading on AIM",
       "url": "https://www.investegate.co.uk/announcement/rns/pri0r1ty-intelligence-group-plc--pr1/final-results-resumption-of-trading-on-aim/9614699",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Resumption of trading signals the conclusion of a significant information gap, likely following a period of suspension or delayed reporting common in AIM tech firms; the final results will determine if the company can regain investor confidence after potential liquidity or governance concerns.",
@@ -137,20 +173,29 @@
       "category": null,
       "headline": "£1.25 Million Funding Package",
       "url": "https://www.investegate.co.uk/announcement/rns/pri0r1ty-intelligence-group-plc--pr1/-1-25-million-funding-package/9612478",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This funding provides essential liquidity for a small-cap tech firm in a high-interest-rate environment, mitigating immediate solvency risks but signaling potential cash flow constraints; the modest size suggests organic growth or bridge financing rather than transformative M&A.",
+      "key_themes": [
+        "Capital Raise",
+        "Liquidity Management",
+        "Small Cap Tech"
+      ]
     },
     {
       "timestamp": "2026-05-28T14:52:00",
       "category": null,
       "headline": "Update regarding Publication of Annual Accounts",
       "url": "https://www.investegate.co.uk/announcement/rns/pri0r1ty-intelligence-group-plc--pr1/update-regarding-publication-of-annual-accounts-/9590516",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the publication timeline of annual accounts, lacking any substantive financial data or strategic shifts that would alter valuation models.",
+      "key_themes": [
+        "Corporate Governance",
+        "Regulatory Compliance"
+      ]
     }
   ]
 }

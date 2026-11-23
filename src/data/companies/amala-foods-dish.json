@@ -10,16 +10,21 @@
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/amala-foods-npv--dish/annual-financial-report-/9699099",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a non-trading SPAC with no underlying operating business, this annual report is purely administrative; the market impact is negligible unless it signals imminent liquidation or merger timeline changes.",
+      "key_themes": [
+        "SPAC",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-04T09:21:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/amala-foods-npv--dish/holding-s-in-company/9601915",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/amala-foods-npv--dish/holding-s-in-company/9588673",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

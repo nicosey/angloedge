@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Mandatory closed period - Compliance with Market Abuse Regulations",
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-frontiers-investment-trust--brfi/mandatory-closed-period-compliance-with-mar-/9875183",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-frontiers-investment-trust--brfi/director-pdmr-shareholding/9863273",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements typically carry negligible market impact unless they signal a coordinated shift in insider sentiment; without volume or price context, this remains an administrative disclosure with no immediate strategic implication for BRFI's valuation.",
@@ -33,6 +35,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-frontiers-investment-trust--brfi/total-voting-rights/9855580",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,6 +46,7 @@
       "category": null,
       "headline": "Disclosure of Portfolio Holdings",
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-frontiers-investment-trust--brfi/disclosure-of-portfolio-holdings/9802692",
+      "routine_type": "Portfolio Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,16 +57,21 @@
       "category": null,
       "headline": "New Video Available: Selective Investing Beyond Traditional Markets",
       "url": "https://www.investegate.co.uk/announcement/ukn/blackrock-frontiers-investment-trust--brfi/new-video-available-selective-investing-beyo-/9770853",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard marketing update for an investment trust, likely aimed at retail investors to highlight active management in volatile markets; it carries no fundamental financial impact on NAV or share price.",
+      "key_themes": [
+        "Investor Relations",
+        "Marketing"
+      ]
     },
     {
       "timestamp": "2026-09-01T11:00:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-frontiers-investment-trust--brfi/total-voting-rights/9749434",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,26 +82,35 @@
       "category": null,
       "headline": "Portfolio Update",
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-frontiers-investment-trust--brfi/portfolio-update/9746150",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine portfolio updates for closed-end funds typically offer limited immediate alpha as holdings are already priced in; without disclosed material changes to top-tier positions or significant leverage adjustments, this serves primarily as a transparency exercise rather than a catalyst for repricing.",
+      "key_themes": [
+        "transparency",
+        "portfolio-holdings"
+      ]
     },
     {
       "timestamp": "2026-08-26T10:30:00",
       "category": null,
       "headline": "New Research Available: Selective Investing Beyond Traditional Markets",
       "url": "https://www.investegate.co.uk/announcement/ukn/blackrock-frontiers-investment-trust--brfi/new-research-available-selective-investing-b-/9741141",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard marketing distribution of third-party research with no direct financial or operational impact on BRFI's NAV or strategy.",
+      "key_themes": [
+        "Marketing",
+        "Investor Relations"
+      ]
     },
     {
       "timestamp": "2026-08-07T17:01:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-frontiers-investment-trust--brfi/issue-of-equity/9711709",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -103,6 +121,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-frontiers-investment-trust--brfi/issue-of-equity/9709527",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -113,6 +132,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-frontiers-investment-trust--brfi/issue-of-equity/9696879",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -123,6 +143,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-frontiers-investment-trust--brfi/issue-of-equity/9668767",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -133,6 +154,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-frontiers-investment-trust--brfi/issue-of-equity/9664026",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -143,6 +165,7 @@
       "category": null,
       "headline": "Disclosure of Portfolio Holdings",
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-frontiers-investment-trust--brfi/disclosure-of-portfolio-holdings/9652687",
+      "routine_type": "Portfolio Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -153,36 +176,49 @@
       "category": null,
       "headline": "Portfolio Update",
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-frontiers-investment-trust--brfi/portfolio-update/9628041",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine portfolio updates for closed-end funds typically offer limited alpha generation compared to NAV discounts or dividend policy changes; without specific details on significant position changes or leverage adjustments, this is likely a standard disclosure with minimal immediate price impact.",
+      "key_themes": [
+        "Portfolio Disclosure",
+        "Standard Reporting"
+      ]
     },
     {
       "timestamp": "2026-06-12T14:12:00",
       "category": null,
       "headline": "Submission of Documents",
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-frontiers-investment-trust--brfi/submission-of-documents/9616590",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the submission of required documents to the FCA, likely related to ongoing compliance or periodic reporting obligations rather than a material corporate event.",
+      "key_themes": [
+        "regulatory_compliance",
+        "administrative"
+      ]
     },
     {
       "timestamp": "2026-06-10T17:27:00",
       "category": "Dividend",
       "headline": "Dividend Exchange Rate Set",
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-frontiers-investment-trust--brfi/dividend-exchange-rate-set/9612188",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative update regarding the GBP/USD exchange rate used to calculate the dividend for BRFI's US-domiciled shares; it has no material impact on the trust's underlying NAV or investment strategy.",
+      "key_themes": [
+        "Administrative",
+        "Dividend Mechanics"
+      ]
     },
     {
       "timestamp": "2026-06-03T14:57:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-frontiers-investment-trust--brfi/issue-of-equity/9600346",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -193,6 +229,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-frontiers-investment-trust--brfi/issue-of-equity/9595797",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -203,16 +240,21 @@
       "category": null,
       "headline": "Portfolio Update",
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-frontiers-investment-trust--brfi/portfolio-update/9595688",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Portfolio updates are standard informational disclosures for investment trusts that rarely trigger immediate price action unless they signal a drastic shift in strategy; without details on significant new positions or divestments, this remains a low-impact routine filing.",
+      "key_themes": [
+        "Investment Trust",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-05-27T17:44:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-frontiers-investment-trust--brfi/issue-of-equity/9588473",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,

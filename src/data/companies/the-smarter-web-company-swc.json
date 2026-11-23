@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "PDMR/Director Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/pdmr-director-dealing-/9886984",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard PDMR notification typical of low-float AIM tech firms; without volume or price data, this lacks the signal strength to influence valuation multiples or indicate insider conviction shifts.",
@@ -23,6 +24,7 @@
       "category": "Share Buyback",
       "headline": "MORE Preferred Shares Buyback",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/more-preferred-shares-buyback/9882975",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard administrative filing for a minor tranche of preferred share buyback, indicating routine capital management rather than a strategic shift or significant liquidity event in the UK tech sector.",
@@ -36,26 +38,37 @@
       "category": "Dividend",
       "headline": "Bitcoin Purchase and MORE Weekly Dividend",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/bitcoin-purchase-and-more-weekly-dividend/9878237",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The dual announcement of a Bitcoin purchase alongside an increased weekly dividend signals aggressive capital allocation towards high-volatility assets while maintaining liquidity for shareholders; this strategy mirrors crypto-mining firms but introduces significant balance sheet risk to a web services entity without clear synergistic value.",
+      "key_themes": [
+        "Bitcoin",
+        "Dividend Increase",
+        "Capital Allocation",
+        "Risk Profile"
+      ]
     },
     {
       "timestamp": "2026-11-10T07:00:00",
       "category": "Dividend",
       "headline": "MORE Weekly Dividend: Preferred Dividend Rate 12%",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/more-weekly-dividend-preferred-dividend-rate-12-/9866459",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement confirms a standard preferred dividend payment at the contracted 12% rate rather than signaling a change in capital structure or strategic direction; for SWC, this is a routine compliance action with no material impact on equity valuation or growth trajectory.",
+      "key_themes": [
+        "Preferred Dividend",
+        "Routine Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-11-04T07:00:00",
       "category": "Share Buyback",
       "headline": "MORE Preferred Shares Buyback",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/more-preferred-shares-buyback-/9856821",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This represents a minor capital return mechanism for a micro-cap tech firm, likely aimed at supporting the share price rather than signaling transformative growth; such buybacks are routine administrative actions with negligible fundamental impact on valuation.",
@@ -69,76 +82,108 @@
       "category": "Dividend",
       "headline": "MORE Weekly Dividend: Preferred Dividend Rate 12%",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/more-weekly-dividend-preferred-dividend-rate-12-/9854519",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The announcement of a weekly dividend at a 12% preferred rate is highly unusual for UK equities and suggests significant cash flow generation or a specific capital structure mechanism rather than standard profit distribution. This frequency may indicate a need to maintain investor liquidity in a niche segment but raises questions about long-term sustainability compared to traditional quarterly payouts.",
+      "key_themes": [
+        "unusual_dividend_frequency",
+        "cash_flow_management",
+        "preferred_equity"
+      ]
     },
     {
       "timestamp": "2026-11-02T07:00:00",
       "category": null,
       "headline": "Bitcoin Custody Arrangements",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/bitcoin-custody-arrangements/9851914",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement signals a strategic pivot into digital asset infrastructure, leveraging SWC's existing tech capabilities to capture the growing institutional demand for crypto custody; however, as a non-core business development for a web services firm, it carries execution risk and limited immediate revenue impact.",
+      "key_themes": [
+        "Digital Assets",
+        "Strategic Pivot",
+        "New Revenue Stream"
+      ]
     },
     {
       "timestamp": "2026-10-28T07:00:00",
       "category": "Appointment",
       "headline": "Board Update",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/board-update/9844613",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board updates for micro-cap tech firms typically signal administrative continuity rather than strategic shifts; without details on the appointee's background or specific mandate, this lacks the catalyst potential to drive significant valuation re-rating in the current liquidity-constrained SME market.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap Tech"
+      ]
     },
     {
       "timestamp": "2026-10-23T07:00:00",
       "category": null,
       "headline": "Bitcoin Purchase",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/bitcoin-purchase/9837639",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement reflects a speculative treasury strategy rather than core operational growth, exposing the company to high volatility in an asset class unrelated to its web services business model.",
+      "key_themes": [
+        "Treasury Management",
+        "Cryptocurrency Exposure"
+      ]
     },
     {
       "timestamp": "2026-10-20T07:00:00",
       "category": "Dividend",
       "headline": "MORE Weekly Dividend: Preferred Dividend Rate 12%",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/more-weekly-dividend-preferred-dividend-rate-12-/9830653",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement confirms the ongoing payment of a fixed 12% preferred dividend, indicating no change in capital structure or strategic direction rather than a new initiative. For SWC, this is a routine compliance update for its preference share class, lacking the transformative catalysts required to move the equity price significantly.",
+      "key_themes": [
+        "Preferred Dividend",
+        "Capital Return",
+        "Routine Update"
+      ]
     },
     {
       "timestamp": "2026-10-15T07:00:00",
       "category": null,
       "headline": "Bitcoin Purchase",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/bitcoin-purchase/9823646",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement reflects a speculative treasury strategy rather than core operational growth, exposing the company to high volatility in an asset class unrelated to its web services business model.",
+      "key_themes": [
+        "Treasury Management",
+        "Cryptocurrency Exposure"
+      ]
     },
     {
       "timestamp": "2026-10-14T07:00:00",
       "category": "New Listing",
       "headline": "First day of dealings in Preferred Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/first-day-of-dealings-in-preferred-shares/9821366",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The listing of preferred shares is a standard capital structure adjustment rather than a transformative event, typically indicating a desire to optimize the balance sheet or provide liquidity without diluting equity control.",
+      "key_themes": [
+        "Capital Structure",
+        "Corporate Finance"
+      ]
     },
     {
       "timestamp": "2026-10-12T07:00:00",
       "category": null,
       "headline": "Subscription Agreement, Warrant Exercises & TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/subscription-agreement-warrant-exercises-tvr/9816846",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -149,46 +194,65 @@
       "category": null,
       "headline": "Subscription Agreement Update - £2.2m Proceeds",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/subscription-agreement-update-2-2m-proceeds/9805348",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The £2.2m equity raise provides essential liquidity for The Smarter Web Company to fund growth initiatives without dilution-heavy debt financing, a critical lifeline for mid-cap tech firms navigating high-interest rate environments.",
+      "key_themes": [
+        "Capital Raise",
+        "Liquidity"
+      ]
     },
     {
       "timestamp": "2026-09-29T11:41:00",
       "category": "Placing",
       "headline": "Launch of Retail Offer of \"MORE\" Preferred Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/launch-of-retail-offer-of-more-preferred-shares/9796688",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The launch of a retail offer for 'MORE' preferred shares indicates a targeted capital raise to fund growth without immediate equity dilution, reflecting a common strategy in the UK tech sector to balance liquidity needs with shareholder value preservation amid current market volatility.",
+      "key_themes": [
+        "Capital Raise",
+        "Tech Sector Financing",
+        "Shareholder Structure"
+      ]
     },
     {
       "timestamp": "2026-09-29T11:40:00",
       "category": "New Listing",
       "headline": "Publication of Prospectus and Intention to Float",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/publication-of-prospectus-and-intention-to-float/9796685",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "The IPO of a UK-listed web technology firm signals renewed investor appetite for digital infrastructure assets post-pandemic; success hinges on demonstrating scalable SaaS metrics in a high-interest-rate environment where tech valuations remain under pressure.",
+      "key_themes": [
+        "IPO",
+        "Technology Sector",
+        "Capital Markets"
+      ]
     },
     {
       "timestamp": "2026-09-28T12:00:00",
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/result-of-general-meeting/9794327",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the AGM/EGM; while necessary for governance compliance, it carries no intrinsic financial impact or strategic signal compared to trading updates or capital raises.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-09-28T07:00:00",
       "category": null,
       "headline": "Subscription Agreement, Credit Facility & TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/subscription-agreement-credit-facility-tvr/9792814",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -199,96 +263,134 @@
       "category": "New Listing",
       "headline": "Expected Intention to Float Pref Share & GM Notice",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/expected-intention-to-float-pref-share-gm-notice/9768634",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The float of preference shares represents a targeted capital raise that likely dilutes existing equity holders while providing liquidity for growth or debt reduction; in the current high-interest-rate environment, this signals a need for balance sheet strengthening rather than organic expansion.",
+      "key_themes": [
+        "Capital Raise",
+        "Dilution Risk",
+        "Balance Sheet Management"
+      ]
     },
     {
       "timestamp": "2026-09-02T07:00:00",
       "category": null,
       "headline": "Bitcoin Purchase",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/bitcoin-purchase/9750542",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement reflects a speculative treasury strategy rather than core operational growth, exposing the company to high volatility in an asset class unrelated to its web services business model.",
+      "key_themes": [
+        "Treasury Management",
+        "Cryptocurrency Exposure"
+      ]
     },
     {
       "timestamp": "2026-08-25T07:00:00",
       "category": null,
       "headline": "Employee Update",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/employee-update-/9737670",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Employee updates are typically administrative with negligible financial impact unless they signal mass exodus or restructuring, which is not evident here; SWC remains a micro-cap with low liquidity and limited market sensitivity to such routine disclosures.",
+      "key_themes": [
+        "Corporate Governance",
+        "HR Administration"
+      ]
     },
     {
       "timestamp": "2026-08-24T07:00:00",
       "category": null,
       "headline": "Subscription Agreement Update - £0.1m Proceeds",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/subscription-agreement-update-0-1m-proceeds-/9735246",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "A £0.1m subscription is immaterial for a listed entity, indicating negligible dilution or cash injection; this reflects routine administrative closure of a prior agreement rather than strategic capital raising.",
+      "key_themes": [
+        "minor_capital_action",
+        "administrative_update"
+      ]
     },
     {
       "timestamp": "2026-07-23T07:00:00",
       "category": null,
       "headline": "Repayment of Smarter Convert Instrument",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/repayment-of-smarter-convert-instrument/9683036",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The repayment of a convertible instrument reduces leverage but eliminates potential equity upside for holders; in the current UK SME capital markets environment, this signals a focus on balance sheet stability over aggressive expansion.",
+      "key_themes": [
+        "deleveraging",
+        "capital_structure"
+      ]
     },
     {
       "timestamp": "2026-07-20T07:00:00",
       "category": null,
       "headline": "Subscription Agreement Update - £0.2m Proceeds",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/subscription-agreement-update-0-2m-proceeds/9675806",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "A £0.2m subscription is immaterial for a listed entity, indicating negligible capital injection or debt conversion with no transformative strategic impact on the balance sheet or operational scale.",
+      "key_themes": [
+        "minor_capital_action",
+        "administrative_update"
+      ]
     },
     {
       "timestamp": "2026-07-15T16:05:00",
       "category": null,
       "headline": "Replacement RNS: Capital Reduction Confirmed",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/replacement-rns-capital-reduction-confirmed-/9671014",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Capital reductions are typically administrative mechanisms to return surplus cash or adjust share capital structures without the complexity of a buyback programme; for a micro-cap like SWC, this signals financial housekeeping rather than strategic transformation.",
+      "key_themes": [
+        "Corporate Action",
+        "Capital Structure"
+      ]
     },
     {
       "timestamp": "2026-07-15T12:56:00",
       "category": null,
       "headline": "Capital Reduction Confirmed",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/capital-reduction-confirmed-/9670640",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Capital reductions are typically administrative mechanisms to return surplus cash or adjust share capital structures without the complexity of a full buyback program; for a small-cap tech firm like SWC, this signals financial housekeeping rather than strategic transformation.",
+      "key_themes": [
+        "Corporate Action",
+        "Capital Structure"
+      ]
     },
     {
       "timestamp": "2026-06-17T15:03:00",
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/result-of-general-meeting/9623817",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the AGM/EGM; it carries no intrinsic financial value or strategic shift for Smarter Web Company Plc.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-04T18:25:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/holding-s-in-company/9602971",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -299,6 +401,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/holding-s-in-company/9602970",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -309,16 +412,21 @@
       "category": null,
       "headline": "Proposed Capital Reduction and Notice of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/proposed-capital-reduction-and-notice-of-gm/9595476",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Capital reductions in the UK AIM market are typically administrative mechanisms to return surplus cash or clean up share capital structures rather than indicative of distress; without accompanying details on a buyback or dividend, this is likely a routine housekeeping measure with negligible immediate market impact.",
+      "key_themes": [
+        "Corporate Action",
+        "Capital Structure"
+      ]
     },
     {
       "timestamp": "2026-06-01T07:00:00",
       "category": null,
       "headline": "Warrants, TVR & Admission of Further Securities",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/warrants-tvr-admission-of-further-securities/9593418",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -329,10 +437,14 @@
       "category": null,
       "headline": "Bitcoin Purchase",
       "url": "https://www.investegate.co.uk/announcement/rns/the-smarter-web-company-plc--swc/bitcoin-purchase/9590941",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement reflects a speculative treasury strategy rather than core operational growth, exposing the company to high volatility in an asset class unrelated to its web services business model.",
+      "key_themes": [
+        "Treasury Management",
+        "Crypto Exposure"
+      ]
     }
   ]
 }

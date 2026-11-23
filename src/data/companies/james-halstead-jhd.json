@@ -10,26 +10,35 @@
       "category": "Acquisition",
       "headline": "PDMR Acquisition of Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/james-halstead--jhd/pdmr-acquisition-of-shares/9887194",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This is a standard PDMR notification reflecting individual director activity rather than corporate strategy; without volume or price data indicating a coordinated buyback or significant insider conviction, it holds negligible signal for valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Dealing"
+      ]
     },
     {
       "timestamp": "2026-10-23T07:00:00",
       "category": "AGM/EGM",
       "headline": "Posting of Annual Report and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/james-halstead--jhd/posting-of-annual-report-and-notice-of-agm/9837629",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for the James Halstead Annual Report and Notice of AGM, indicating no immediate corporate action or material news flow. Such announcements are routine governance requirements with negligible short-term impact on share price volatility.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-10-14T07:00:00",
       "category": "Results",
       "headline": "Preliminary Results",
       "url": "https://www.investegate.co.uk/announcement/rns/james-halstead--jhd/preliminary-results/9821337",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a niche player in the workplace furniture sector, JHD's results provide critical visibility into B2B capex sentiment and office occupancy recovery trends post-pandemic, serving as a bellwether for the broader commercial real estate supply chain.",
@@ -44,6 +53,7 @@
       "category": "Results",
       "headline": "Delay in publication of FY26 Audited Results",
       "url": "https://www.investegate.co.uk/announcement/rns/james-halstead--jhd/delay-in-publication-of-fy26-audited-results/9792824",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "A delay in FY26 audited results for James Halstead is typically an administrative matter rather than a red flag, especially given the company's history of stable performance in the office furniture sector; however, it warrants monitoring to ensure no hidden liquidity or audit complexities are at play.",
@@ -57,6 +67,7 @@
       "category": "Results",
       "headline": "Notice of Preliminary Results",
       "url": "https://www.investegate.co.uk/announcement/rns/james-halstead--jhd/notice-of-preliminary-results/9780817",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice for preliminary results rather than a substantive update; without the actual financial data, it carries no immediate pricing impact beyond routine market activity.",
@@ -70,6 +81,7 @@
       "category": null,
       "headline": "Block Listing Return",
       "url": "https://www.investegate.co.uk/announcement/rns/james-halstead--jhd/block-listing-return/9647491",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,

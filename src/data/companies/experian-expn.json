@@ -2,14 +2,40 @@
   "name": "Experian",
   "ticker": "EXPN",
   "slug": "experian-expn",
-  "announcement_count": 35,
-  "latest_announcement": "2026-11-18T07:15:00",
+  "announcement_count": 37,
+  "latest_announcement": "2026-11-23T14:30:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T14:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/director-pdmr-shareholding/9889449",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealings typically signal low immediate market impact compared to executive compensation or major corporate actions; without volume or price context, this is standard administrative disclosure rather than a strategic indicator.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-11-23T12:00:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/transaction-in-own-shares/9889200",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-18T07:15:00",
       "category": "Share Buyback",
       "headline": "Share repurchase programme",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/share-repurchase-programme/9881343",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "This announcement confirms the execution of Experian's ongoing capital return programme, reflecting strong free cash flow generation typical of data analytics firms with high recurring revenue models. While routine for a mature tech player, it signals management's confidence in the stability of their credit bureau and identity verification segments amidst broader economic uncertainty.",
@@ -24,16 +50,21 @@
       "category": null,
       "headline": "Notification of issuance of equity securities",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/notification-of-issuance-of-equity-securities/9851177",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This RNS likely details the issuance of shares under existing employee share plans or a small-scale capital raise, which is standard operational procedure for Experian rather than a transformative strategic move. While dilution is a factor, such routine equity issuances typically have negligible immediate impact on share price compared to core credit data performance.",
+      "key_themes": [
+        "equity issuance",
+        "corporate action"
+      ]
     },
     {
       "timestamp": "2026-10-30T13:45:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/total-voting-rights/9851172",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -44,6 +75,7 @@
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/director-declaration/9850428",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -54,6 +86,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/transaction-in-own-shares/9830632",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -64,6 +97,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/transaction-in-own-shares/9807652",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -74,6 +108,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/transaction-in-own-shares/9803007",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -84,16 +119,21 @@
       "category": null,
       "headline": "Notification of issuance of equity securities",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/notification-of-issuance-of-equity-securities/9799811",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This notification likely reflects the issuance of shares under Experian's existing equity incentive plans or a minor placement to satisfy employee share scheme obligations rather than a strategic capital raise, indicating low immediate dilution impact.",
+      "key_themes": [
+        "Equity Issuance",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-09-30T16:08:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/total-voting-rights/9799796",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -104,6 +144,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/transaction-in-own-shares/9780739",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -114,16 +155,21 @@
       "category": null,
       "headline": "Notification of issuance of equity securities",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/notification-of-issuance-of-equity-securities/9749463",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard notification of equity issuance, likely related to the Experian Share Plan or convertible instruments, indicating routine capital management rather than a transformative strategic shift or distress.",
+      "key_themes": [
+        "Corporate Action",
+        "Equity Issuance"
+      ]
     },
     {
       "timestamp": "2026-09-01T11:05:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/total-voting-rights/9749447",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -134,6 +180,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/director-pdmr-shareholding/9704577",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Experian's valuation or operational trajectory, reflecting normal liquidity management rather than strategic shifts.",
@@ -147,16 +194,21 @@
       "category": null,
       "headline": "Notification of issuance of equity securities",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/notification-of-issuance-of-equity-securities/9699095",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard notification of equity issuance likely linked to existing share plans or convertible instruments rather than a primary capital raise; without details on dilution magnitude or pricing, it represents routine administrative activity with negligible immediate impact on Experian's valuation.",
+      "key_themes": [
+        "Corporate Action",
+        "Share Dilution"
+      ]
     },
     {
       "timestamp": "2026-07-31T14:33:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/total-voting-rights/9699091",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -167,16 +219,21 @@
       "category": null,
       "headline": "Additional Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/additional-admission-to-trading/9694187",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement relates to the admission of new shares (likely from a placing or option exercise) rather than a fundamental business shift, indicating routine capital structure adjustment rather than transformative strategic activity.",
+      "key_themes": [
+        "Corporate Action",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-23T15:30:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/director-pdmr-shareholding/9684970",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings typically signal minimal immediate market impact compared to executive compensation or major corporate actions; however, in the data analytics sector, sustained insider buying can serve as a subtle confidence indicator regarding Experian's long-term growth trajectory amidst economic headwinds.",
@@ -190,16 +247,21 @@
       "category": "AGM/EGM",
       "headline": "Results of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/results-of-annual-general-meeting/9682202",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming shareholder approval for routine governance matters, carrying no new strategic direction or financial data that would alter the investment thesis.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-07-17T07:00:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/transaction-in-own-shares/9673553",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -210,6 +272,7 @@
       "category": "Trading Update",
       "headline": "Trading update, first quarter",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/trading-update-first-quarter/9671274",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a key proxy for UK consumer credit health, Experian's Q1 update provides critical early signals on lending standards and default rates amidst persistent inflationary pressures. The market will scrutinize guidance for signs of credit cycle deterioration versus resilient demand for data analytics services.",
@@ -224,6 +287,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/transaction-in-own-shares/9661969",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -234,6 +298,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/transaction-in-own-shares/9654875",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -244,16 +309,21 @@
       "category": "Dividend",
       "headline": "Second Interim Dividend",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/second-interim-dividend/9652741",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This confirms Experian's continued commitment to returning capital amidst strong cash flow generation from its data analytics segment, reinforcing shareholder yield expectations in a sector where peers are increasingly prioritizing dividends over aggressive M&A.",
+      "key_themes": [
+        "capital return",
+        "cash flow stability"
+      ]
     },
     {
       "timestamp": "2026-07-03T07:00:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/transaction-in-own-shares/9650643",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -264,6 +334,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/transaction-in-own-shares/9648413",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -274,26 +345,35 @@
       "category": null,
       "headline": "Additional Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/additional-admission-to-trading/9647892",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement confirms the admission of new shares to trading, likely following a previous corporate action such as a rights issue or placement; it is a procedural administrative step with no immediate fundamental impact on Experian's credit data business model.",
+      "key_themes": [
+        "administrative",
+        "capital_structure"
+      ]
     },
     {
       "timestamp": "2026-06-30T16:20:00",
       "category": null,
       "headline": "Notification of issuance of equity securities",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/notification-of-issuance-of-equity-securities/9645289",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This notification typically relates to the issuance of shares under existing employee share plans or convertible instruments rather than a primary capital raise, indicating routine dilution management rather than strategic expansion or distress.",
+      "key_themes": [
+        "Corporate Action",
+        "Dilution"
+      ]
     },
     {
       "timestamp": "2026-06-30T16:10:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/total-voting-rights/9645267",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -304,6 +384,7 @@
       "category": "Share Buyback",
       "headline": "Share repurchase programme",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/share-repurchase-programme-/9645221",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "This announcement confirms Experian's commitment to returning capital to shareholders amidst strong free cash flow generation from its data analytics segment, aligning with broader FTSE 100 trends of share buybacks as a primary return mechanism in the absence of high-growth M&A opportunities.",
@@ -318,36 +399,50 @@
       "category": null,
       "headline": "Additional Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/additional-admission-to-trading/9634122",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the listing of new shares, likely resulting from an existing employee share scheme or convertible note conversion rather than a primary capital raise. It carries no immediate strategic weight for Experian's valuation or operational trajectory.",
+      "key_themes": [
+        "administrative",
+        "share_listing"
+      ]
     },
     {
       "timestamp": "2026-06-17T08:30:00",
       "category": null,
       "headline": "Bond Issue",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/bond-issue/9622851",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine debt issuance typical for capital structure management in the credit bureau sector; lacks transformative M&A or earnings guidance that would alter valuation multiples.",
+      "key_themes": [
+        "capital_structure",
+        "corporate_finance"
+      ]
     },
     {
       "timestamp": "2026-06-11T15:15:00",
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/annual-financial-report/9614311",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a core FTSE 100 credit data provider, Experian's annual results serve as a key barometer for the UK consumer lending and risk management sector; strong performance here signals robust underlying demand for data analytics amidst rising interest rates, while any guidance miss would weigh heavily on financial services sentiment.",
+      "key_themes": [
+        "Credit Data",
+        "Consumer Lending",
+        "Risk Analytics"
+      ]
     },
     {
       "timestamp": "2026-06-08T15:30:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/director-pdmr-shareholding/9607421",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry minimal market impact unless they signal significant insider conviction or divergence; without volume or price context, this is standard administrative reporting rather than a strategic signal.",
@@ -361,16 +456,21 @@
       "category": "Dividend",
       "headline": "Elections for Second Interim Dividend",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/elections-for-second-interim-dividend-/9604540",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative filing for the record date of Experian's second interim dividend, reflecting routine capital return rather than strategic shift; while consistent with the credit data sector's focus on shareholder yield, it carries no new market-moving information.",
+      "key_themes": [
+        "Corporate Action",
+        "Shareholder Yield"
+      ]
     },
     {
       "timestamp": "2026-05-26T11:45:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/experian--expn/director-pdmr-shareholding/9585756",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Experian's valuation or strategic direction, reflecting normal liquidity management rather than significant insider sentiment shifts.",

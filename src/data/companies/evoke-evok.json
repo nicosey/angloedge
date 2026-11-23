@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/evoke-di---evok/holding-s-in-company/9842178",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Trading Update",
       "headline": "Notice of Q3 2026 Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/evoke-di---evok/notice-of-q3-2026-trading-update/9825987",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 4,
       "insight": "This is a standard administrative notice scheduling a future update rather than disclosing material financial data; without the actual Q3 figures, it holds no immediate pricing power for EVOK.",
@@ -33,6 +35,7 @@
       "category": null,
       "headline": "Block Listing Six Monthly Return",
       "url": "https://www.investegate.co.uk/announcement/rns/evoke-di---evok/block-listing-six-monthly-return/9821355",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,6 +46,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/evoke-di---evok/holding-s-in-company/9797271",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,6 +57,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/evoke-di---evok/holding-s-in-company/9789825",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,6 +68,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/evoke-di---evok/holding-s-in-company/9789819",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,6 +79,7 @@
       "category": "Results",
       "headline": "Results of Intralot General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/evoke-di---evok/results-of-intralot-general-meeting-/9780475",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard corporate governance filing confirming the ratification of annual accounts and director reappointments; it carries no new financial data or strategic shifts for Evoke's gaming technology business.",
@@ -86,6 +93,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/evoke-di---evok/holding-s-in-company/9765660",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -96,6 +104,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/evoke-di---evok/holding-s-in-company/9745778",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -106,16 +115,21 @@
       "category": "AGM/EGM",
       "headline": "Results of Court Meeting and General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/evoke-di---evok/results-of-court-meeting-and-general-meeting/9725760",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard procedural disclosure confirming the approval of resolutions at Evoke's AGM/EGM, likely related to routine governance matters or minor administrative updates rather than strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-08-12T07:00:00",
       "category": "Results",
       "headline": "H1 2026 Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/evoke-di---evok/h1-2026-interim-results/9716727",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a high-growth digital marketing tech firm, H1 results are critical for validating the sustainability of its post-IPO revenue expansion and margin trajectory in a competitive ad-tech landscape.",
@@ -130,16 +144,22 @@
       "category": null,
       "headline": "Publication of the Scheme Document",
       "url": "https://www.investegate.co.uk/announcement/rns/evoke-di---evok/publication-of-the-scheme-document/9678458",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The publication of the Scheme Document marks a critical procedural milestone in Evoke's proposed acquisition by Permira-backed consortium, signaling that due diligence is concluding and shareholder voting is imminent. This advances the timeline for the £100m+ deal, reducing execution risk but offering no immediate upside catalyst beyond the existing offer price.",
+      "key_themes": [
+        "M&A",
+        "Private Equity",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-07-16T07:00:00",
       "category": "Results",
       "headline": "Notice of Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/evoke-di---evok/notice-of-interim-results/9671318",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a small-cap software firm in a competitive B2B SaaS market, this interim update is critical for validating revenue growth trajectories and cash burn rates against peers like Sage or XPS Pensions. The market will scrutinize whether the company can demonstrate scalable unit economics to justify its current valuation multiple.",
@@ -154,26 +174,36 @@
       "category": null,
       "headline": "Timing of Posting Scheme Document",
       "url": "https://www.investegate.co.uk/announcement/rns/evoke-di---evok/timing-of-posting-scheme-document/9650665",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a purely administrative notice regarding the publication schedule of an employee share scheme document, carrying no material financial or strategic weight for equity valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-12T15:48:00",
       "category": null,
       "headline": "Awards granted under the LTIP",
       "url": "https://www.investegate.co.uk/announcement/rns/evoke-di---evok/awards-granted-under-the-ltip/9616768",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding long-term incentive plan awards, which dilutes existing shareholders but signals management alignment with long-term growth targets rather than immediate financial performance.",
+      "key_themes": [
+        "LTIP",
+        "Corporate Governance",
+        "Shareholder Dilution"
+      ]
     },
     {
       "timestamp": "2026-06-09T15:30:00",
       "category": "Director Dealing",
       "headline": "Notification of Transactions by PDMR",
       "url": "https://www.investegate.co.uk/announcement/rns/evoke-di---evok/notification-of-transactions-by-pdmr/9609745",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard PDMR notification with no disclosed volume or price, rendering it administratively neutral; without evidence of significant insider buying or selling, it lacks the signal strength to influence EVOK's valuation or sentiment in the current market.",
@@ -187,26 +217,36 @@
       "category": "AGM/EGM",
       "headline": "Results of AGM 8 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/evoke-di---evok/results-of-agm-8-june-2026/9607038",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of routine shareholder votes at the Annual General Meeting, which typically involves ratifying auditor appointments and director re-elections without material strategic implications for Evoke's valuation or operations.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-05T07:00:00",
       "category": "Acquisition",
       "headline": "Recommended all-share acquisition of evoke plc",
       "url": "https://www.investegate.co.uk/announcement/rns/evoke-di---evok/recommended-all-share-acquisition-of-evoke-plc/9603066",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "This transformative all-share acquisition signals a major consolidation in the UK digital marketing services sector, likely creating a larger, more diversified platform to compete against global tech giants and improve economies of scale.",
+      "key_themes": [
+        "M&A",
+        "Sector Consolidation",
+        "Digital Marketing"
+      ]
     },
     {
       "timestamp": "2026-06-04T17:55:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/evoke-di---evok/holding-s-in-company/9602959",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

@@ -10,16 +10,21 @@
       "category": "Appointment",
       "headline": "Appointment of Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/rns/wynnstay-group--wyn/appointment-of-non-executive-director/9868723",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine governance update for a small-cap agricultural services firm; while board refreshment can signal strategic focus, it lacks the immediate financial catalyst required to move the stock price significantly in the current volatile agri-input sector.",
+      "key_themes": [
+        "Governance",
+        "Small Cap"
+      ]
     },
     {
       "timestamp": "2026-11-04T07:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/wynnstay-group--wyn/director-pdmr-shareholding/9856847",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions rather than a corporate strategy signal; without volume context or net buy/sell direction, it holds no immediate predictive value for Wynnstay's agricultural machinery sector performance.",
@@ -33,16 +38,21 @@
       "category": null,
       "headline": "Investment in Scottish Fertiliser Capacity Growth",
       "url": "https://www.investegate.co.uk/announcement/rns/wynnstay-group--wyn/investment-in-scottish-fertiliser-capacity-growth/9709683",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Expanding Scottish fertiliser capacity directly addresses the UK's critical dependency on imported nitrogen products, offering Wynnstay a strategic hedge against supply chain volatility and geopolitical pricing shocks in the agri-input sector.",
+      "key_themes": [
+        "Supply Chain Resilience",
+        "Agri-Input Security"
+      ]
     },
     {
       "timestamp": "2026-06-29T15:46:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/wynnstay-group--wyn/director-pdmr-shareholding/9642631",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of insider shareholding changes which provides minimal new fundamental data for Wynnstay Group's agricultural supply chain operations.",
@@ -56,6 +66,7 @@
       "category": "Results",
       "headline": "Notice of HY Results & Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/wynnstay-group--wyn/notice-of-hy-results-investor-presentation/9610080",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a niche agricultural machinery distributor, Wynnstay's half-year results are a critical barometer for UK farm capital expenditure and input costs amid volatile commodity prices and post-Brexit labor constraints.",

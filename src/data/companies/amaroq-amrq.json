@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Admission to Trading and PDMR Transaction",
       "url": "https://www.investegate.co.uk/announcement/gnw/amaroq-ltd---amrq/admission-to-trading-and-pdmr-transaction/9812095",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure for insider transactions following the company's admission to trading; it confirms initial shareholding movements by directors but lacks substantive commercial catalysts or strategic shifts.",
@@ -23,6 +24,7 @@
       "category": null,
       "headline": "Filing of NI 43-101 Technical Report for the Nalunaq Property, Vesting of RSUs and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/amaroq-ltd---amrq/filing-of-ni-43-101-technical-report-for-the-/9768781",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -33,56 +35,78 @@
       "category": null,
       "headline": "New Awards under the Restricted Share Unit (“RSU”) Plan and the Stock Option Plan",
       "url": "https://www.investegate.co.uk/announcement/gnw/amaroq-ltd---amrq/new-awards-under-the-restricted-share-unit-/9730344",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding executive compensation grants, typical for maintaining talent retention in the competitive tech sector rather than signaling strategic shifts or financial performance changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Compensation"
+      ]
     },
     {
       "timestamp": "2026-07-31T08:00:00",
       "category": null,
       "headline": "Readmission - Amaroq Ltd.",
       "url": "https://www.investegate.co.uk/announcement/rns/amaroq-ltd---amrq/readmission-amaroq-ltd-/9697912",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Readmission to the AIM market is a standard administrative procedure for companies returning from suspension or delisting, typically indicating regulatory compliance rather than fundamental value creation; without accompanying trading updates or capital raises, it carries minimal immediate investment implication.",
+      "key_themes": [
+        "Corporate Action",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-07-29T18:00:00",
       "category": null,
       "headline": "Amaroq",
       "url": "https://www.investegate.co.uk/announcement/rns/amaroq-ltd---amrq/amaroq/9694522",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 1,
+      "insight": "The headline 'Amaroq' without accompanying text suggests a boilerplate filing, likely a minor administrative update or routine disclosure with no material financial impact on the share price.",
+      "key_themes": [
+        "Administrative",
+        "No Material News"
+      ]
     },
     {
       "timestamp": "2026-07-29T14:10:00",
       "category": null,
       "headline": "Updated Mineral Resource Estimate and publication of Competent Persons Report",
       "url": "https://www.investegate.co.uk/announcement/gnw/amaroq-ltd---amrq/updated-mineral-resource-estimate-and-publica-/9694184",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "An updated Mineral Resource Estimate is a critical de-risking step for junior miners seeking to advance towards feasibility studies and attract institutional capital, though it does not guarantee immediate production or financing.",
+      "key_themes": [
+        "Resource Expansion",
+        "Project Advancement"
+      ]
     },
     {
       "timestamp": "2026-07-29T12:20:00",
       "category": null,
       "headline": "Publication of Prospectus",
       "url": "https://www.investegate.co.uk/announcement/gnw/amaroq-ltd---amrq/publication-of-prospectus/9694026",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement marks the final regulatory step for Amaroq's planned £15m non-brokered placing and open offer to fund its transition into a pure-play oil & gas exploration company. While it confirms the capital raise is proceeding, the market has largely priced in this dilutive move as part of the strategic pivot from its previous mining assets.",
+      "key_themes": [
+        "Capital Raise",
+        "Strategic Pivot",
+        "Exploration"
+      ]
     },
     {
       "timestamp": "2026-06-26T15:27:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/amaroq-ltd---amrq/total-voting-rights/9640054",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

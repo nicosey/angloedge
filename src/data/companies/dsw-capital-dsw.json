@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Half Year Trading Update and  Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/dsw-capital--dsw/half-year-trading-update-and-notice-of-results/9864867",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a small-cap investment trust, DSW's interim update is critical for assessing NAV erosion risks in the current high-rate environment; investors will scrutinize portfolio liquidity and valuation adjustments against peers like Baillie Gifford or City of London.",
@@ -24,16 +25,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/dsw-capital--dsw/result-of-agm/9799083",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of routine shareholder votes at an Annual General Meeting, which typically carries no immediate financial or strategic weight for DSW Capital's valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-09-04T10:30:00",
       "category": null,
       "headline": "Grant of options under Performance Share Plan",
       "url": "https://www.investegate.co.uk/announcement/rns/dsw-capital--dsw/grant-of-options-under-performance-share-plan-/9756494",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -44,26 +50,35 @@
       "category": null,
       "headline": "Vesting of Share Option Award",
       "url": "https://www.investegate.co.uk/announcement/rns/dsw-capital--dsw/vesting-of-share-option-award/9690284",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative vesting event with negligible dilution impact on the float; such routine option exercises are common in small-cap equity compensation structures and do not signal strategic shifts or insider sentiment changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Minor Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-01T07:00:00",
       "category": "Acquisition",
       "headline": "Funding support for licensee's acquisition",
       "url": "https://www.investegate.co.uk/announcement/rns/dsw-capital--dsw/funding-support-for-licensee-s-acquisition/9645706",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This announcement confirms funding for a licensee's acquisition rather than a direct corporate transaction for DSW Capital, limiting immediate balance sheet impact. While it supports the broader franchise model, it lacks the transformative capital or strategic shift required for a higher impact score.",
+      "key_themes": [
+        "Licensee Activity",
+        "Indirect Growth"
+      ]
     },
     {
       "timestamp": "2026-06-03T14:26:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/dsw-capital--dsw/holding-s-in-company/9600299",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

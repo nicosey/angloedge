@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Corporate Update",
       "url": "https://www.investegate.co.uk/announcement/rns/genflow-biosciences--genf/corporate-update-/9816283",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a pre-revenue biotech with limited liquidity, 'Corporate Updates' typically signal routine governance or minor administrative changes rather than material operational shifts, posing negligible immediate impact on valuation.",
+      "key_themes": [
+        "Biotech",
+        "Governance"
+      ]
     },
     {
       "timestamp": "2026-10-05T07:00:00",
       "category": "Results",
       "headline": "Presentation of Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/genflow-biosciences--genf/presentation-of-interim-results-/9805359",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a pre-revenue biotech, interim results serve as a critical liquidity and cash-burn checkpoint rather than a profitability indicator; the market will scrutinize runway duration for potential dilutive fundraising in a capital-constrained sector.",
@@ -34,6 +39,7 @@
       "category": null,
       "headline": "Exercise of Warrants and Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/genflow-biosciences--genf/exercise-of-warrants-and-issue-of-equity/9796936",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -44,70 +50,100 @@
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/genflow-biosciences--genf/half-year-financial-report/9795243",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a pre-revenue biotech, this interim report is critical for assessing cash burn rates and R&D progress ahead of potential dilutive fundraising; in the current UK AIM biotech sector, such updates often trigger volatility based on funding runway rather than immediate commercial milestones.",
+      "key_themes": [
+        "cash_burn",
+        "pre_revenue_biotech",
+        "fundraising_risk"
+      ]
     },
     {
       "timestamp": "2026-09-08T07:00:00",
       "category": null,
       "headline": "Primary Endpoint in SLAB Clinical Trial Met",
       "url": "https://www.investegate.co.uk/announcement/rns/genflow-biosciences--genf/primary-endpoint-in-slab-clinical-trial-met/9759932",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "Meeting the primary endpoint in a clinical trial is a critical de-risking milestone for Genflow Biosciences, validating its lead candidate and potentially accelerating regulatory timelines within the competitive biotech sector.",
+      "key_themes": [
+        "Clinical Trial Success",
+        "Biotech Validation"
+      ]
     },
     {
       "timestamp": "2026-09-07T07:00:00",
       "category": "Appointment",
       "headline": "Appointment of Investor Relations Adviser",
       "url": "https://www.investegate.co.uk/announcement/rns/genflow-biosciences--genf/appointment-of-investor-relations-adviser/9757614",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative update for a pre-revenue biotech firm seeking to improve market visibility rather than signal fundamental operational shifts; such appointments are routine in the AIM life sciences sector and do not indicate immediate catalysts or capital raising.",
+      "key_themes": [
+        "Investor Relations",
+        "Pre-revenue Biotech",
+        "AIM Administration"
+      ]
     },
     {
       "timestamp": "2026-07-13T07:00:00",
       "category": null,
       "headline": "Mid-Year Operational and Corporate Summary",
       "url": "https://www.investegate.co.uk/announcement/rns/genflow-biosciences--genf/mid-year-operational-and-corporate-summary/9664252",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a pre-revenue biotech, operational summaries rarely drive valuation without clinical milestone data; this update likely serves to maintain investor engagement rather than signal material financial shifts in the current high-cost capital environment.",
+      "key_themes": [
+        "biotech",
+        "operational_update"
+      ]
     },
     {
       "timestamp": "2026-06-29T12:02:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/genflow-biosciences--genf/result-of-agm/9642155",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for a pre-revenue biotech firm typically involve standard shareholder ratifications with negligible immediate market impact unless specific governance disputes or unusual voting outcomes are highlighted.",
+      "key_themes": [
+        "Corporate Governance",
+        "Biotech"
+      ]
     },
     {
       "timestamp": "2026-06-22T07:00:00",
       "category": null,
       "headline": "Participation at BIO International Convention 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/genflow-biosciences--genf/participation-at-bio-international-convention-2026/9628768",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Attendance at a major industry conference is standard operational activity for biotech firms seeking networking and partnership opportunities, but it carries no immediate financial or valuation impact without accompanying deal announcements.",
+      "key_themes": [
+        "conference",
+        "networking"
+      ]
     },
     {
       "timestamp": "2026-06-17T07:00:00",
       "category": null,
       "headline": "Company to present at Animal Longevity Summit 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/genflow-biosciences--genf/company-to-present-at-animal-longevity-summit-2026/9621962",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard investor relations activity aimed at building visibility within the niche longevity biotech sector rather than a material corporate event; while it signals active engagement with emerging therapeutic trends, it carries no immediate financial or operational weight for GENF.",
+      "key_themes": [
+        "Investor Relations",
+        "Longevity Biotech"
+      ]
     }
   ]
 }

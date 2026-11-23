@@ -2,34 +2,59 @@
   "name": "Eco (Atlantic) Oil & Gas NPV (DI)",
   "ticker": "ECO",
   "slug": "eco-atlantic-oil-gas-eco",
-  "announcement_count": 13,
-  "latest_announcement": "2026-11-17T07:00:00",
+  "announcement_count": 14,
+  "latest_announcement": "2026-11-23T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T07:00:00",
+      "category": null,
+      "headline": "Falkland Islands Licence PL001 – Operator Update",
+      "url": "https://www.investegate.co.uk/announcement/rns/eco-atlantic-oil-gas-npv-di---eco/falkland-islands-licence-pl001-operator-update/9887513",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine operational updates for deepwater exploration assets like PL001 typically carry low immediate market impact unless they signal a drilling decision or significant cost overrun; current oil price volatility and high capex requirements in the Falklands basin keep investor sentiment cautious.",
+      "key_themes": [
+        "exploration",
+        "operator_update"
+      ]
+    },
     {
       "timestamp": "2026-11-17T07:00:00",
       "category": "Acquisition",
       "headline": "Closing of the Acquisition of 100% of JHI",
       "url": "https://www.investegate.co.uk/announcement/rns/eco-atlantic-oil-gas-npv-di---eco/closing-of-the-acquisition-of-100-of-jhi/9878203",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This acquisition marks a significant step in Atlantic Oil & Gas's strategy to consolidate its UK North Sea portfolio by acquiring the JHI asset, potentially enhancing reserve base and production longevity amidst an industry focused on extending field life through infill drilling.",
+      "key_themes": [
+        "UK North Sea",
+        "Portfolio Consolidation",
+        "Asset Acquisition"
+      ]
     },
     {
       "timestamp": "2026-11-10T07:29:00",
       "category": null,
       "headline": "Completion of Namibian Portfolio Farm-down to BP",
       "url": "https://www.investegate.co.uk/announcement/rns/eco-atlantic-oil-gas-npv-di---eco/completion-of-namibian-portfolio-farm-down-to-bp/9867144",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "This marks a pivotal validation of Atlantic's Namibian assets through a farm-down to BP, providing immediate non-dilutive capital and de-risking the project ahead of the final investment decision. It signals strong industry confidence in the Orange Basin's exploration potential, distinguishing ECO from peers still reliant on speculative drilling outcomes.",
+      "key_themes": [
+        "Strategic Partnership",
+        "De-risking",
+        "Upstream Capital"
+      ]
     },
     {
       "timestamp": "2026-11-09T16:23:00",
       "category": null,
       "headline": "Exercise of Options",
       "url": "https://www.investegate.co.uk/announcement/rns/eco-atlantic-oil-gas-npv-di---eco/exercise-of-options-/9865981",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +65,7 @@
       "category": null,
       "headline": "Exercise of Options",
       "url": "https://www.investegate.co.uk/announcement/rns/eco-atlantic-oil-gas-npv-di---eco/exercise-of-options/9839298",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +76,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/eco-atlantic-oil-gas-npv-di---eco/holding-s-in-company/9831454",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +87,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/eco-atlantic-oil-gas-npv-di---eco/holding-s-in-company/9831453",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,46 +98,65 @@
       "category": null,
       "headline": "Completion of Direct Equity Subscription",
       "url": "https://www.investegate.co.uk/announcement/rns/eco-atlantic-oil-gas-npv-di---eco/completion-of-direct-equity-subscription/9828250",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms the completion of a direct equity subscription, likely representing a minor capital raise or placement to existing stakeholders rather than a transformative institutional fundraise. In the current UK E&P sector, such routine funding mechanisms are standard for maintaining liquidity without signaling major strategic shifts or distress.",
+      "key_themes": [
+        "Capital Raising",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-10-13T11:36:00",
       "category": null,
       "headline": "Direct Equity Subscription of US$7.7 million",
       "url": "https://www.investegate.co.uk/announcement/rns/eco-atlantic-oil-gas-npv-di---eco/direct-equity-subscription-of-us-7-7-million-/9820522",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "The US$7.7m direct equity subscription provides immediate liquidity for exploration drilling without diluting existing shareholders via a placing, a prudent capital management tactic in the current high-interest-rate environment where debt is costly.",
+      "key_themes": [
+        "Capital Raise",
+        "Exploration Funding",
+        "Shareholder Alignment"
+      ]
     },
     {
       "timestamp": "2026-10-02T07:00:00",
       "category": null,
       "headline": "Ministerial Approval - Namibia Licences Farm-down",
       "url": "https://www.investegate.co.uk/announcement/rns/eco-atlantic-oil-gas-npv-di---eco/ministerial-approval-namibia-licences-farm-down/9803008",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Ministerial approval for the Namibia farm-down is a critical regulatory milestone that de-risks the transaction and accelerates cash generation, aligning with the sector's shift towards monetizing exploration assets to fund development or reduce debt.",
+      "key_themes": [
+        "regulatory_approval",
+        "farm_down",
+        "cash_flow"
+      ]
     },
     {
       "timestamp": "2026-08-25T07:00:00",
       "category": null,
       "headline": "Navitas update on PL001 & Block 1 CBK",
       "url": "https://www.investegate.co.uk/announcement/rns/eco-atlantic-oil-gas-npv-di---eco/navitas-update-on-pl001-block-1-cbk-/9737676",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine operational updates on exploration blocks typically carry low immediate financial impact for junior E&G firms unless accompanied by significant drilling results or reserve revisions; this falls under standard reporting rather than transformative catalyst.",
+      "key_themes": [
+        "exploration",
+        "operational_update"
+      ]
     },
     {
       "timestamp": "2026-07-23T07:00:00",
       "category": "Results",
       "headline": "Audited Results for the Year Ended 31 March 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/eco-atlantic-oil-gas-npv-di---eco/audited-results-for-the-year-ended-31-march-2026/9682989",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a junior E&P explorer with limited production history, ECO's audited results serve as a critical validation of its exploration strategy and asset valuation in the current high-cost UKCS environment, directly influencing investor sentiment ahead of potential funding rounds or partnership discussions.",
@@ -123,16 +170,22 @@
       "category": null,
       "headline": "Ministerial Approval for Namibia PEL 98 Farm-Out",
       "url": "https://www.investegate.co.uk/announcement/rns/eco-atlantic-oil-gas-npv-di---eco/ministerial-approval-for-namibia-pel-98-farm-out/9640586",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Ministerial approval for the PEL 98 farm-out represents a critical de-risking milestone for ECO's core Namibian asset, validating the commercial strategy and potentially unlocking future capital or revenue streams through partner involvement. This regulatory green light reduces execution risk ahead of exploration activities, distinguishing it from routine administrative updates.",
+      "key_themes": [
+        "regulatory_approval",
+        "farm_out",
+        "namibia_operations"
+      ]
     },
     {
       "timestamp": "2026-06-01T11:30:00",
       "category": null,
       "headline": "Exercise of Options",
       "url": "https://www.investegate.co.uk/announcement/rns/eco-atlantic-oil-gas-npv-di---eco/exercise-of-options-/9595035",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,

@@ -10,16 +10,22 @@
       "category": null,
       "headline": "Share Issuance and new Share Option Plan adoption",
       "url": "https://www.investegate.co.uk/announcement/rns/hamak-gold-limited-npv-di---hama/share-issuance-and-new-share-option-plan-adoption-/9876796",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative update for a junior explorer, indicating routine equity dilution to fund operations rather than transformative growth; in the current capital-constrained junior mining sector, such issuances are common but typically viewed negatively by shareholders due to EPS dilution without immediate asset upside.",
+      "key_themes": [
+        "equity_dilution",
+        "corporate_governance",
+        "exploration_funding"
+      ]
     },
     {
       "timestamp": "2026-11-12T10:32:00",
       "category": "Director Dealing",
       "headline": "Director Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/hamak-gold-limited-npv-di---hama/director-dealing/9872381",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures in junior mining equities like Hamak Gold typically carry negligible fundamental weight compared to exploration results or funding events, reflecting standard compliance rather than strategic shifts.",
@@ -33,6 +39,7 @@
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/hamak-gold-limited-npv-di---hama/interim-results/9792185",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a junior explorer in a volatile gold market, interim results provide critical visibility on cash burn and exploration progress rather than immediate revenue generation; the impact hinges entirely on whether the update signals accelerated drilling or unexpected cost overruns relative to peer juniors.",
@@ -47,116 +54,165 @@
       "category": null,
       "headline": "Sale of 8 Bitcoin Supports Advancing of Akoko PEA",
       "url": "https://www.investegate.co.uk/announcement/rns/hamak-gold-limited-npv-di---hama/sale-of-8-bitcoin-supports-advancing-of-akoko-pea-/9780831",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The sale of Bitcoin is a non-core treasury management activity with negligible impact on Hamak Gold's primary exploration valuation; it reflects liquidity optimization rather than strategic shift in the junior mining sector.",
+      "key_themes": [
+        "Treasury Management",
+        "Non-Core Asset"
+      ]
     },
     {
       "timestamp": "2026-09-09T07:00:00",
       "category": null,
       "headline": "Correction re. Warrant Exchange Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/hamak-gold-limited-npv-di---hama/correction-re-warrant-exchange-offer/9761964",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a procedural correction to a previous warrant exchange offer, likely addressing technical errors rather than altering the fundamental economic terms or dilution profile. In the junior mining sector, such administrative updates are routine and carry negligible strategic weight unless they signal a failure to secure necessary shareholder approval.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative Correction"
+      ]
     },
     {
       "timestamp": "2026-08-27T11:42:00",
       "category": null,
       "headline": "Admission of New Ordinary Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/hamak-gold-limited-npv-di---hama/admission-of-new-ordinary-shares/9743720",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Admission of new shares typically indicates a capital raise to fund exploration or development; for a junior explorer like Hamak Gold, this is routine liquidity management rather than a transformative event unless the size is material.",
+      "key_themes": [
+        "capital_raise",
+        "exploration_funding"
+      ]
     },
     {
       "timestamp": "2026-08-13T07:00:00",
       "category": null,
       "headline": "Snowden Optiro Selected for Akoko PEA",
       "url": "https://www.investegate.co.uk/announcement/rns/hamak-gold-limited-npv-di---hama/snowden-optiro-selected-for-akoko-pea/9719098",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Engaging Optiro for the Akoko PEA signals a strategic pivot toward de-risking the project's commercial viability ahead of potential financing or farm-in opportunities, aligning with the sector trend of prioritizing bankable studies to attract institutional capital in the current high-interest-rate environment.",
+      "key_themes": [
+        "Project Development",
+        "Gold Mining",
+        "Feasibility Study"
+      ]
     },
     {
       "timestamp": "2026-07-29T07:00:00",
       "category": null,
       "headline": "Maiden Independent 43-101 Resource at Akoko",
       "url": "https://www.investegate.co.uk/announcement/rns/hamak-gold-limited-npv-di---hama/maiden-independent-43-101-resource-at-akoko/9692363",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "While a maiden NI 43-101 resource provides essential technical validation for Akoko, it is an exploratory milestone rather than a commercial event; in the current junior gold mining sector, such announcements rarely drive significant valuation multiples without accompanying drilling results or feasibility studies.",
+      "key_themes": [
+        "exploration",
+        "resource estimation",
+        "gold mining"
+      ]
     },
     {
       "timestamp": "2026-07-27T09:00:00",
       "category": null,
       "headline": "179,906,090 Warrants Tendered for Cancellation",
       "url": "https://www.investegate.co.uk/announcement/rns/hamak-gold-limited-npv-di---hama/179-906-090-warrants-tendered-for-cancellation/9688606",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The cancellation of nearly 180 million warrants reduces the share count, offering a marginal dilution relief for existing shareholders; however, as a routine capital structure adjustment rather than a strategic pivot or major funding event, it lacks transformative potential for Hamak Gold's valuation.",
+      "key_themes": [
+        "warrant cancellation",
+        "dilution management",
+        "capital structure"
+      ]
     },
     {
       "timestamp": "2026-07-20T14:22:00",
       "category": null,
       "headline": "Warrant Exchange Offer: Threshold Met",
       "url": "https://www.investegate.co.uk/announcement/rns/hamak-gold-limited-npv-di---hama/warrant-exchange-offer-threshold-met/9677922",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This capital raise via warrant exchange is a critical lifeline for Hamak Gold to fund the development of its Kenyan assets without immediate cash outlay, mitigating dilution risk compared to a standard equity placement. While it secures necessary liquidity in a challenging junior mining finance environment, it signals potential near-term pressure on share price as warrants are eventually exercised.",
+      "key_themes": [
+        "Capital Raising",
+        "Dilution Management",
+        "Junior Mining Finance"
+      ]
     },
     {
       "timestamp": "2026-07-15T07:00:00",
       "category": null,
       "headline": "Notice to Eligible Warrant Holders",
       "url": "https://www.investegate.co.uk/announcement/rns/hamak-gold-limited-npv-di---hama/notice-to-eligible-warrant-holders/9668970",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice regarding warrant eligibility, likely triggering exercise windows or dividend entitlements rather than signaling new strategic direction or capital raising.",
+      "key_themes": [
+        "Corporate Action",
+        "Warrants"
+      ]
     },
     {
       "timestamp": "2026-07-14T12:00:00",
       "category": null,
       "headline": "Statement regarding investment in Vaultz Capital",
       "url": "https://www.investegate.co.uk/announcement/rns/hamak-gold-limited-npv-di---hama/statement-regarding-investment-in-vaultz-capital/9668161",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement likely pertains to a minor portfolio adjustment or administrative update regarding a non-core holding in Vaultz Capital, which is immaterial to Hamak Gold's primary exploration activities and valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Minor Investment"
+      ]
     },
     {
       "timestamp": "2026-07-13T11:57:00",
       "category": null,
       "headline": "Proposed Warrant Exchange Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/hamak-gold-limited-npv-di---hama/proposed-warrant-exchange-offer/9665890",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Warrant exchanges are standard capital management tools for junior miners to extend expiry without immediate cash dilution; while it avoids a fresh equity raise, it signals potential liquidity constraints and offers no fundamental value creation for the underlying gold asset.",
+      "key_themes": [
+        "Capital Management",
+        "Junior Mining"
+      ]
     },
     {
       "timestamp": "2026-07-09T07:00:00",
       "category": "Appointment",
       "headline": "£200,000 Subscription & Appointment of Adviser",
       "url": "https://www.investegate.co.uk/announcement/rns/hamak-gold-limited-npv-di---hama/-200-000-subscription-appointment-of-adviser/9659741",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "A £200k raise is immaterial for Hamak Gold's exploration budget, suggesting the primary purpose is to fund the appointment of a corporate adviser rather than expand operations; this signals a potential pivot toward capital raising or M&A preparation rather than immediate drilling activity.",
+      "key_themes": [
+        "Corporate Governance",
+        "Capital Raising"
+      ]
     },
     {
       "timestamp": "2026-07-08T07:00:00",
       "category": "Results",
       "headline": "Further High-Grade Drilling Results at Akoko",
       "url": "https://www.investegate.co.uk/announcement/rns/hamak-gold-limited-npv-di---hama/further-high-grade-drilling-results-at-akoko-/9657223",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "While high-grade intercepts are technically positive for the resource base, junior gold explorers like Hamak Gold face persistent liquidity and funding challenges that limit immediate market reaction; such updates rarely drive significant valuation expansion without a concurrent financing solution or production milestone.",
@@ -171,26 +227,36 @@
       "category": null,
       "headline": "£1.66 million Amended Funding Package",
       "url": "https://www.investegate.co.uk/announcement/rns/hamak-gold-limited-npv-di---hama/-1-66-million-amended-funding-package/9648453",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The £1.66m amended funding package provides essential liquidity for Hamak Gold's exploration activities in the DRC, mitigating immediate dilution risk but highlighting the capital-intensive nature of junior mining ventures in volatile jurisdictions.",
+      "key_themes": [
+        "Capital Raise",
+        "Exploration Funding",
+        "DRC Operations"
+      ]
     },
     {
       "timestamp": "2026-06-25T17:15:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/hamak-gold-limited-npv-di---hama/result-of-agm/9637718",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no immediate financial or strategic weight for Hamak Gold's exploration progress or valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-05-29T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/hamak-gold-limited-npv-di---hama/notice-of-agm/9590923",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,

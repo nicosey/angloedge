@@ -2,14 +2,40 @@
   "name": "Frasers Group",
   "ticker": "FRAS",
   "slug": "frasers-group-fras",
-  "announcement_count": 31,
-  "latest_announcement": "2026-11-20T07:00:00",
+  "announcement_count": 33,
+  "latest_announcement": "2026-11-23T10:12:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T10:12:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/transaction-in-own-shares/9888884",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-23T07:00:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/director-pdmr-shareholding/9887540",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Standard regulatory disclosure of insider transactions which provides minimal alpha given the lack of volume context or price sensitivity; typical for high-float retailers like Frasers where individual director dealings rarely signal strategic shifts.",
+      "key_themes": [
+        "regulatory_compliance",
+        "low_signal"
+      ]
+    },
     {
       "timestamp": "2026-11-20T07:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/director-pdmr-shareholding/9885194",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on FRAS's valuation or liquidity, reflecting normal insider activity rather than a strategic shift in the competitive retail sector.",
@@ -23,6 +49,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/director-pdmr-shareholding/9880564",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in the retail sector typically signal low immediate volatility unless accompanied by block trades; without volume context, this remains an administrative disclosure with negligible price impact.",
@@ -36,6 +63,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/director-pdmr-shareholding/9878213",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Frasers Group's valuation or operational trajectory.",
@@ -49,6 +77,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/transaction-in-own-shares/9875778",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -59,6 +88,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/director-pdmr-shareholding/9875764",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings for a large-cap retailer like Frasers Group typically reflect personal portfolio management rather than strategic shifts, offering negligible signal on near-term operational performance amidst current consumer spending pressures.",
@@ -72,6 +102,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/director-pdmr-shareholding/9873588",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on FRAS's valuation or operational trajectory, reflecting normal liquidity management rather than strategic signaling.",
@@ -85,16 +116,21 @@
       "category": null,
       "headline": "Senior Management Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/senior-management-changes/9873348",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine senior management changes at Frasers Group typically signal internal restructuring rather than strategic distress, especially given the company's strong cash flow generation and recent focus on margin expansion under Mike Ashley's continued control.",
+      "key_themes": [
+        "Corporate Governance",
+        "Leadership Transition"
+      ]
     },
     {
       "timestamp": "2026-11-12T07:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/director-pdmr-shareholding/9871306",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on FRAS's valuation or operational trajectory, especially given the company's complex multi-brand structure and recent focus on debt reduction.",
@@ -108,6 +144,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/director-pdmr-shareholding/9870578",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in the retail sector typically signal low immediate volatility unless accompanied by block trades or executive exits; without volume context, this remains an administrative disclosure with negligible price impact.",
@@ -121,6 +158,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/director-pdmr-shareholding/9868271",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on FRAS's valuation or operational trajectory, reflecting normal liquidity management rather than strategic shifts.",
@@ -134,6 +172,7 @@
       "category": null,
       "headline": "Purchases of shares during closed period",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/purchases-of-shares-during-closed-period/9866483",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -144,6 +183,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/transaction-in-own-shares/9864085",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -154,16 +194,21 @@
       "category": null,
       "headline": "Launch of Directed Trading Programme",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/launch-of-directed-trading-programme/9861210",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard liquidity management tool allowing for opportunistic share repurchases within regulatory limits, similar to previous programmes executed by the group; it signals no immediate change in strategic direction or valuation thesis.",
+      "key_themes": [
+        "liquidity",
+        "capital allocation"
+      ]
     },
     {
       "timestamp": "2026-11-03T11:57:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/director-pdmr-shareholding/9856059",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate price impact for a large-cap retailer like Frasers Group, unless the volume is exceptionally large or signals a sudden loss of confidence.",
@@ -177,16 +222,21 @@
       "category": null,
       "headline": "Update on investment in HUGO BOSS",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/update-on-investment-in-hugo-boss/9839834",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This update likely reflects standard portfolio monitoring of a non-core asset rather than a strategic pivot; without details on significant divestment or impairment, the market will view this as low-impact noise against FRAS's core operational performance.",
+      "key_themes": [
+        "portfolio management",
+        "non-core assets"
+      ]
     },
     {
       "timestamp": "2026-09-28T07:00:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/transaction-in-own-shares/9792671",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -197,16 +247,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/result-of-agm/9775849",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine confirmation of shareholder approvals for standard AGM business items carries no material strategic or financial implication for Frasers Group's valuation or operational trajectory.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-09-14T16:16:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/holding-s-in-company/9771252",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -217,16 +272,22 @@
       "category": null,
       "headline": "Further update on investment in HUGO BOSS",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/further-update-on-investment-in-hugo-boss/9770002",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This update signals a critical validation of Mike Ashley's high-stakes pivot into luxury apparel, reducing execution risk for the group's margin expansion strategy. The market will scrutinize whether HUGO BOSS can successfully penetrate the UK mass-market channel without diluting its premium brand equity, a key hurdle in this sector consolidation.",
+      "key_themes": [
+        "Luxury Retail",
+        "Strategic Pivot",
+        "Margin Expansion"
+      ]
     },
     {
       "timestamp": "2026-08-18T16:05:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/holding-s-in-company/9728249",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -237,6 +298,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/notice-of-agm/9726208",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -247,6 +309,7 @@
       "category": "Results",
       "headline": "Results of Offer for HUGO BOSS",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/results-of-offer-for-hugo-boss/9726184",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 9,
       "insight": "Frasers Group's acquisition of a majority stake in HUGO BOSS represents a transformative strategic pivot from pure retail to brand ownership, significantly altering the group's margin profile and competitive positioning against rivals like ASOS and Boohoo.",
@@ -261,36 +324,51 @@
       "category": "Acquisition",
       "headline": "Frasers Group Acquisition of Harvey Nichols",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/frasers-group-acquisition-of-harvey-nichols/9720947",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This acquisition represents a pivotal vertical integration for Frasers Group, securing the iconic Harvey Nichols brand to bolster its luxury portfolio and compete directly with Selfridges and Harrods in the high-end retail sector.",
+      "key_themes": [
+        "luxury expansion",
+        "vertical integration",
+        "brand acquisition"
+      ]
     },
     {
       "timestamp": "2026-07-21T07:00:00",
       "category": null,
       "headline": "Update on offer for HUGO BOSS AG",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/update-on-offer-for-hugo-boss-ag/9678459",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This represents a potential paradigm shift for Frasers Group, moving from a high-growth retailer to a global luxury conglomerate via the acquisition of HUGO BOSS AG. Success would significantly alter the sector landscape by creating a diversified powerhouse with strong brand equity, though it carries substantial execution and integration risks typical of large-cap M&A.",
+      "key_themes": [
+        "M&A",
+        "Luxury Retail",
+        "Strategic Pivot"
+      ]
     },
     {
       "timestamp": "2026-07-20T07:00:00",
       "category": "Appointment",
       "headline": "Appointment of joint corporate broker",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/appointment-of-joint-corporate-broker-/9675802",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative update regarding the appointment of joint corporate brokers, likely reflecting routine market-making arrangements rather than a strategic shift in capital markets activity. While it ensures liquidity and advisory coverage, it lacks the transformative catalysts required to move the stock price significantly.",
+      "key_themes": [
+        "Corporate Governance",
+        "Market Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-07-16T07:00:00",
       "category": "Results",
       "headline": "Final Results",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/final-results/9671279",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a high-beta consumer discretionary stock, FRAS results are critical for gauging UK household spending resilience amid persistent inflation; any deviation in like-for-like sales or margin guidance will likely trigger significant volatility given the group's heavy reliance on value retail and sports apparel demand.",
@@ -305,6 +383,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/holding-s-in-company/9654587",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -315,26 +394,36 @@
       "category": null,
       "headline": "Frasers strengthens strategic partnership with MAP",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/frasers-strengthens-strategic-partnership-with-map/9646996",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement reflects standard operational alignment within the multi-brand retail sector rather than a transformative strategic shift; MAP's established role as a key wholesale partner means this strengthens existing supply chain dynamics but lacks the novelty or financial magnitude to drive significant re-rating.",
+      "key_themes": [
+        "Strategic Partnership",
+        "Retail Operations"
+      ]
     },
     {
       "timestamp": "2026-06-25T10:41:00",
       "category": null,
       "headline": "Further information re Cash Offer for HUGO BOSS",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/further-information-re-cash-offer-for-hugo-boss/9636887",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "Frasers Group's cash offer for Hugo Boss represents a transformative cross-border M&A move that could fundamentally restructure the global luxury retail landscape, leveraging Frasers' operational efficiency to unlock value in a sector facing significant headwinds.",
+      "key_themes": [
+        "M&A",
+        "Luxury Retail",
+        "Strategic Acquisition"
+      ]
     },
     {
       "timestamp": "2026-06-15T07:00:00",
       "category": "Acquisition",
       "headline": "Takeover Offer for Accent Group Limited",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/takeover-offer-for-accent-group-limited-/9617110",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 9,
       "insight": "This acquisition represents a strategic consolidation in the UK footwear and apparel sector, significantly expanding Frasers Group's portfolio and market share against rivals like Sports Direct and JD Sports. It signals aggressive growth via M&A rather than organic expansion, leveraging Frasers' scale to capture premium brands and digital capabilities.",
@@ -349,10 +438,15 @@
       "category": null,
       "headline": "Cash Offer for Hugo Boss AG",
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/cash-offer-for-hugo-boss-ag/9612181",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This represents a high-stakes strategic pivot for Frasers Group, moving from a retailer to a global brand owner in the premium fashion sector. The acquisition of Hugo Boss would significantly diversify revenue streams away from discount retail and leverage Frasers' operational scale to drive margin expansion in a competitive luxury market.",
+      "key_themes": [
+        "M&A",
+        "Strategic Transformation",
+        "Premium Fashion"
+      ]
     }
   ]
 }

@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Commercial Update",
       "url": "https://www.investegate.co.uk/announcement/rns/vianet-group--vnet/commercial-update/9880584",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a non-standard 'Other' category update for a small-cap IT services firm without explicit financial metrics or strategic pivots in the headline, this is likely routine operational noise with negligible immediate market impact.",
+      "key_themes": [
+        "Corporate Communications",
+        "Small Cap"
+      ]
     },
     {
       "timestamp": "2026-08-14T12:46:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/vianet-group--vnet/director-pdmr-shareholding/9723074",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on VNET's valuation or liquidity, reflecting normal insider activity rather than a strategic shift.",
@@ -33,6 +38,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/vianet-group--vnet/holding-s-in-company/9664228",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,6 +49,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/vianet-group--vnet/holding-s-in-company/9660768",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,30 +60,42 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/vianet-group--vnet/result-of-agm/9656592",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting confirmation of shareholder resolutions with no new strategic directives or capital allocation changes, reflecting routine corporate governance rather than value-moving events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-07-07T07:00:00",
       "category": "AGM/EGM",
       "headline": "AGM Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/vianet-group--vnet/agm-statement-/9654880",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the convening of an Annual General Meeting, which carries no immediate financial or strategic weight for Vianet Group's valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-06-03T07:00:00",
       "category": null,
       "headline": "Contract Renewal with Admiral Taverns",
       "url": "https://www.investegate.co.uk/announcement/rns/vianet-group--vnet/contract-renewal-with-admiral-taverns/9598436",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Contract renewals with established clients like Admiral Taverns provide incremental revenue visibility but lack the transformative scale required for significant multiple expansion in the UK mid-cap tech sector.",
+      "key_themes": [
+        "revenue_stability",
+        "client_retention"
+      ]
     }
   ]
 }

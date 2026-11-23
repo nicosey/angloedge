@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-real-estate-investment-trust-ltd--srei/total-voting-rights/9799995",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Results",
       "headline": "Notice of Half Year Results",
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-real-estate-investment-trust-ltd--srei/notice-of-half-year-results/9796362",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a high-yield UK REIT, SREI's half-year results are critical for assessing dividend sustainability amidst the ongoing commercial property valuation reset and rising financing costs.",
@@ -34,6 +36,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-real-estate-investment-trust-ltd--srei/holding-s-in-company/9794049",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -44,16 +47,21 @@
       "category": "AGM/EGM",
       "headline": "Result of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-real-estate-investment-trust-ltd--srei/result-of-annual-general-meeting/9785493",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for a UK REIT typically involve rubber-stamping board re-elections and dividend approvals; without specific details on major capital allocation changes or governance disputes, the market impact is negligible.",
+      "key_themes": [
+        "Corporate Governance",
+        "UK Real Estate"
+      ]
     },
     {
       "timestamp": "2026-09-21T16:23:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-real-estate-investment-trust-ltd--srei/director-pdmr-shareholding/9782992",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions with no material implication for SREIT's valuation or strategy, reflecting routine compliance rather than significant insider sentiment shifts in the current UK REIT sector.",
@@ -67,6 +75,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-real-estate-investment-trust-ltd--srei/director-pdmr-shareholding/9780605",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on SREI's valuation or strategy, especially given the broader UK REIT sector's ongoing challenges with refinancing and yield compression.",
@@ -80,6 +89,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-real-estate-investment-trust-ltd--srei/holding-s-in-company/9768914",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,6 +100,7 @@
       "category": null,
       "headline": "Results analysis from Kepler Trust Intelligence",
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-real-estate-investment-trust-ltd--srei/results-analysis-from-kepler-trust-intelligence/9709422",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -100,46 +111,64 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-real-estate-investment-trust-ltd--srei/dividend-declaration/9704892",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine dividend declarations are standard income-generating mechanics for UK REITs like SREI; without specific yield changes or context on underlying NAV performance, this lacks the transformative catalyst required for significant price action.",
+      "key_themes": [
+        "income",
+        "routine"
+      ]
     },
     {
       "timestamp": "2026-08-05T07:00:00",
       "category": null,
       "headline": "NAV update for the quarter to 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-real-estate-investment-trust-ltd--srei/nav-update-for-the-quarter-to-30-june-2026/9704872",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Quarterly NAV updates are critical for UK REITs to signal asset revaluation trends amid rising interest rates and shifting office demand; this update will clarify whether SREI's portfolio is holding value or facing write-downs in the current commercial property cycle.",
+      "key_themes": [
+        "NAV",
+        "UK Commercial Real Estate",
+        "Asset Valuation"
+      ]
     },
     {
       "timestamp": "2026-07-10T07:01:00",
       "category": "Appointment",
       "headline": "Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-real-estate-investment-trust-ltd--srei/board-changes/9662143",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board changes in the UK REIT sector typically signal governance continuity rather than strategic shifts; without details on executive departures or new mandates, this is likely administrative maintenance of the existing capital allocation framework.",
+      "key_themes": [
+        "Governance",
+        "UK REIT"
+      ]
     },
     {
       "timestamp": "2026-07-10T07:00:00",
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-real-estate-investment-trust-ltd--srei/annual-financial-report/9661985",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a standard annual report filing for a listed REIT, this is routine disclosure rather than a market-moving event; however, it will be closely scrutinized for dividend sustainability and NAV trends amidst the UK commercial property sector's ongoing valuation adjustments.",
+      "key_themes": [
+        "Annual Results",
+        "REIT Disclosure"
+      ]
     },
     {
       "timestamp": "2026-07-09T14:30:00",
       "category": null,
       "headline": "Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-real-estate-investment-trust-ltd--srei/investor-presentation/9661590",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -150,6 +179,7 @@
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-real-estate-investment-trust-ltd--srei/notice-of-results/9654914",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the publication date of results rather than disclosing financial data itself; in the current UK REIT sector context, investor focus remains on valuation adjustments and dividend sustainability amidst rising interest rates.",
@@ -163,10 +193,15 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-real-estate-investment-trust-ltd--srei/dividend-declaration/9595179",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "In the current UK REIT landscape where capital preservation is paramount, this dividend declaration signals management's confidence in cash flow stability despite rising financing costs and property valuation headwinds.",
+      "key_themes": [
+        "UK REIT",
+        "Dividend Policy",
+        "Income Generation"
+      ]
     }
   ]
 }

@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/pagegroup--page/director-pdmr-shareholding/9832491",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Pagegroup's valuation or strategic direction, reflecting normal liquidity management rather than significant insider sentiment shifts.",
@@ -23,6 +24,7 @@
       "category": "Trading Update",
       "headline": "Notice of Third Quarter 2026 Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/pagegroup--page/notice-of-third-quarter-2026-trading-update/9815510",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 4,
       "insight": "This is a standard administrative notice for an upcoming quarterly update rather than a substantive trading statement; PAGE's stock price will only react significantly upon the release of actual financial metrics or guidance.",
@@ -36,16 +38,21 @@
       "category": "Appointment",
       "headline": "Appointment of new Chair",
       "url": "https://www.investegate.co.uk/announcement/rns/pagegroup--page/appointment-of-new-chair/9789792",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine governance update for a specialist recruitment firm; leadership changes in this sector are common but rarely drive immediate valuation shifts without concurrent strategic pivots.",
+      "key_themes": [
+        "Governance",
+        "Leadership Change"
+      ]
     },
     {
       "timestamp": "2026-08-03T15:26:00",
       "category": "Results",
       "headline": "Notice of 2026 Half Year Results",
       "url": "https://www.investegate.co.uk/announcement/rns/pagegroup--page/notice-of-2026-half-year-results/9702066",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard interim results announcement for Pagegroup, a UK-listed recruitment firm; while routine, it provides critical visibility into the health of the UK labour market and corporate hiring sentiment during a period of economic uncertainty.",
@@ -59,16 +66,21 @@
       "category": null,
       "headline": "PageGroup plans rebrand to Michael Page",
       "url": "https://www.investegate.co.uk/announcement/rns/pagegroup--page/pagegroup-plans-rebrand-to-michael-page/9672500",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Consolidating under the Michael Page brand leverages global equity to strengthen market positioning in the competitive UK professional recruitment sector, though it signals a shift away from legacy brand value without immediate financial upside.",
+      "key_themes": [
+        "brand consolidation",
+        "strategic repositioning"
+      ]
     },
     {
       "timestamp": "2026-07-09T15:23:00",
       "category": "Trading Update",
       "headline": "Notice of Second Quarter 2026 Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/pagegroup--page/notice-of-second-quarter-2026-trading-update/9661713",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 4,
       "insight": "This is a standard administrative notice for an upcoming quarterly update rather than a substantive trading statement itself; without the actual financial data, it carries no immediate pricing impact, though it signals continued monitoring of Pagegroup's performance in the UK contingent labour market.",
@@ -82,20 +94,28 @@
       "category": null,
       "headline": "PageGroup plc - Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/pagegroup--page/pagegroup-plc-director-declaration/9621206",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine director declaration typically indicates standard compliance filing rather than significant insider activity; without details on volume or direction (buy/sell), it lacks the signal strength to influence PAGE's valuation in the current competitive recruitment sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
     },
     {
       "timestamp": "2026-05-28T13:22:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/pagegroup--page/result-of-agm/9590407",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no direct financial implication for Pagegroup's valuation or operational strategy.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     }
   ]
 }

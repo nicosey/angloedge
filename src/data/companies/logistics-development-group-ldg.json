@@ -10,26 +10,35 @@
       "category": "Acquisition",
       "headline": "Statement re possible offer and extension of PUSU",
       "url": "https://www.investegate.co.uk/announcement/rns/logistics-development-group--ldg/statement-re-possible-offer-and-extension-of-pusu-/9861239",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The extension of the Put/Call Option Agreement (PUSU) indicates a delay in resolving the controlling shareholder's exit strategy rather than immediate value creation; this prolongs uncertainty regarding liquidity and corporate governance for LDG investors.",
+      "key_themes": [
+        "Governance Risk",
+        "Liquidity Constraint"
+      ]
     },
     {
       "timestamp": "2026-10-15T10:26:00",
       "category": null,
       "headline": "From 8 Opening Position Disclosure",
       "url": "https://www.investegate.co.uk/announcement/rns/logistics-development-group--ldg/from-8-opening-position-disclosure/9824807",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure of a new shareholding position, likely by an institutional investor or fund manager, rather than a corporate action by LDG itself. Such filings provide no immediate insight into the company's operational performance or strategic direction.",
+      "key_themes": [
+        "regulatory filing",
+        "ownership structure"
+      ]
     },
     {
       "timestamp": "2026-10-01T13:03:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/logistics-development-group--ldg/holding-s-in-company/9802312",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,16 +49,22 @@
       "category": null,
       "headline": "Portfolio NAV Update",
       "url": "https://www.investegate.co.uk/announcement/rns/logistics-development-group--ldg/portfolio-nav-update-/9744377",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine NAV updates for unquoted logistics REITs like LDG are standard disclosure practices that rarely move the market unless they signal a sharp devaluation of assets or a strategic pivot; without details on valuation methodology changes or significant asset disposals, this is likely administrative.",
+      "key_themes": [
+        "NAV Disclosure",
+        "Logistics REIT",
+        "Asset Valuation"
+      ]
     },
     {
       "timestamp": "2026-08-05T09:45:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/logistics-development-group--ldg/holding-s-in-company/9706044",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,10 +75,14 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/logistics-development-group--ldg/result-of-agm/9625961",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of an Annual General Meeting, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital allocation changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     }
   ]
 }

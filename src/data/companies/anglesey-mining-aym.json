@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/prn/anglesey-mining--aym/holding-s-in-company/9879381",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/prn/anglesey-mining--aym/holding-s-in-company/9870610",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/anglesey-mining--aym/holding-s-in-company/9868078",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +43,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/anglesey-mining--aym/holding-s-in-company/9866156",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +54,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/anglesey-mining--aym/holding-s-in-company/9863180",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,26 +65,35 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/prn/anglesey-mining--aym/result-of-agm/9834635",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no immediate financial or strategic weight for Anglesey Mining's exploration progress or capital position.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-08-26T07:00:00",
       "category": null,
       "headline": "Corporate Presentation and Investor Webinar",
       "url": "https://www.investegate.co.uk/announcement/rns/anglesey-mining--aym/corporate-presentation-and-investor-webinar/9739946",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations activity with no immediate price-sensitive data or capital allocation changes; for junior explorers like Anglesey Mining, such updates rarely move the needle without concurrent assay results or financing news.",
+      "key_themes": [
+        "Investor Relations",
+        "Exploration"
+      ]
     },
     {
       "timestamp": "2026-06-11T15:52:00",
       "category": null,
       "headline": "Issue of Shares",
       "url": "https://www.investegate.co.uk/announcement/prn/anglesey-mining--aym/issue-of-shares/9614388",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,20 +104,28 @@
       "category": "Acquisition",
       "headline": "Acquisition of Option on Anglesey Stock",
       "url": "https://www.investegate.co.uk/announcement/prn/anglesey-mining--aym/acquisition-of-option-on-anglesey-stock/9612000",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Acquiring an option on a stock (likely referring to the Anglesey Copper Project assets) is a standard exploration-stage capital preservation tactic rather than a transformative event; it secures rights without immediate dilution but carries no near-term revenue implication for this cash-burn entity.",
+      "key_themes": [
+        "Exploration Stage",
+        "Asset Security"
+      ]
     },
     {
       "timestamp": "2026-06-10T14:46:00",
       "category": null,
       "headline": "Issuance of Share Options",
       "url": "https://www.investegate.co.uk/announcement/prn/anglesey-mining--aym/issuance-of-share-options/9611981",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Share option issuances are standard administrative actions for equity compensation and rarely signal immediate fundamental shifts in mining valuations.",
+      "key_themes": [
+        "Corporate Governance",
+        "Equity Compensation"
+      ]
     }
   ]
 }

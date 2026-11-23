@@ -10,6 +10,7 @@
       "category": null,
       "headline": "TR-1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/tr-1-notification-of-major-holdings/9854514",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,22 @@
       "category": "Acquisition",
       "headline": "Etu Acquisition Update",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/etu-acquisition-update/9848591",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This update signals active deal execution in the fragmented UK environmental services sector, where Afentra is leveraging its platform strategy to consolidate assets and drive scale efficiencies.",
+      "key_themes": [
+        "M&A Execution",
+        "Sector Consolidation",
+        "Platform Strategy"
+      ]
     },
     {
       "timestamp": "2026-10-22T12:20:00",
       "category": "Director Dealing",
       "headline": "Director / PDMR Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/director-pdmr-dealings/9836896",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible signal for Afentra's valuation given the company's small-cap status and lack of major corporate actions.",
@@ -43,26 +50,36 @@
       "category": "Acquisition",
       "headline": "Etu Acquisition Update",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/etu-acquisition-update-/9809496",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This update likely clarifies the progress of Afentra's acquisition of Etu, a key step in their strategy to consolidate the UK's fragmented waste management sector; successful completion would significantly enhance scale and market position against larger competitors like Viridor.",
+      "key_themes": [
+        "M&A",
+        "Waste Management",
+        "Consolidation"
+      ]
     },
     {
       "timestamp": "2026-08-04T07:00:00",
       "category": "Appointment",
       "headline": "Directorate Change",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/directorate-change-/9702448",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine executive changes in the niche rail infrastructure sector typically signal operational continuity rather than strategic pivots; without details on the departing director's role or the new appointee's background, this lacks immediate market-moving catalysts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Rail Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-07-10T12:11:00",
       "category": "Director Dealing",
       "headline": "Director / PDMR Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/director-pdmr-dealings/9663579",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR disclosures for Afentra typically involve small-scale transactions that lack the volume or strategic weight to signal significant insider sentiment shifts in the current UK mid-cap infrastructure sector.",
@@ -76,6 +93,7 @@
       "category": "Director Dealing",
       "headline": "FSP, LTIP Awards & Director/PDMR Dealings & TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/fsp-ltip-awards-director-pdmr-dealings-tvr/9659731",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard administrative disclosure of director dealings and LTIP awards with no immediate price-sensitive catalysts; routine PDMR transactions are common in the small-cap space and typically lack standalone market impact unless aggregated with significant insider buying/selling patterns.",
@@ -89,16 +107,21 @@
       "category": null,
       "headline": "Operational and Financial Update",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/operational-and-financial-update-/9654881",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a micro-cap with historically low liquidity and limited analyst coverage, Afentra's operational update is unlikely to trigger significant price discovery or institutional interest without material M&A or earnings surprises.",
+      "key_themes": [
+        "micro-cap",
+        "low-liquidity"
+      ]
     },
     {
       "timestamp": "2026-06-30T10:50:00",
       "category": null,
       "headline": "TR-1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/tr-1-notification-of-major-holdings-/9644482",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -109,6 +132,7 @@
       "category": "Results",
       "headline": "Results of GM - Completion of Equity Fundraising",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/results-of-gm-completion-of-equity-fundraising/9637230",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 8,
       "insight": "Afentra's completion of a significant equity fundraising is transformative for its balance sheet, providing essential liquidity to accelerate growth in the critical UK waste management and recycling sector amid rising interest rates.",
@@ -123,6 +147,7 @@
       "category": "Results",
       "headline": "Results of 2026 Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/results-of-2026-annual-general-meeting/9632756",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative filing confirming the outcome of the AGM rather than a financial performance update; for Afentra, a small-cap infrastructure firm, routine shareholder approvals have negligible immediate impact on valuation or liquidity.",
@@ -136,6 +161,7 @@
       "category": null,
       "headline": "TR-1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/tr-1-notification-of-major-holdings-/9611935",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -146,36 +172,51 @@
       "category": null,
       "headline": "Publication of Circular and Notice of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/publication-of-circular-and-notice-of-gm-/9607779",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative filing for Afentra's upcoming General Meeting, likely concerning routine matters such as director re-elections or mandate renewals rather than transformative corporate actions.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-09T07:00:00",
       "category": "Placing",
       "headline": "Result of Oversubscribed WRAP Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/result-of-oversubscribed-wrap-retail-offer-/9607747",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The oversubscription of the WRAP retail offer signals strong grassroots investor confidence in Afentra's transition to a pure-play renewable energy infrastructure asset, validating the strategic pivot away from its legacy waste management business. This successful capital raise de-risks the balance sheet and provides necessary liquidity for future M&A activity in the fragmented UK recycling sector.",
+      "key_themes": [
+        "Capital Raise",
+        "Retail Sentiment",
+        "Strategic Pivot"
+      ]
     },
     {
       "timestamp": "2026-06-04T12:57:00",
       "category": "Placing",
       "headline": "Fundraising Update Interview",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/fundraising-update-interview-/9602320",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This update likely confirms a successful equity raise to fund Afentra's expansion in the UK's growing waste management and recycling sector, mitigating dilution concerns while providing necessary liquidity for capital-intensive growth.",
+      "key_themes": [
+        "Capital Raise",
+        "Waste Management",
+        "Growth Funding"
+      ]
     },
     {
       "timestamp": "2026-06-04T07:00:00",
       "category": "Results",
       "headline": "Results Of Equity Fundraising",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/results-of-equity-fundraising/9600729",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 8,
       "insight": "Equity fundraising for a small-cap infrastructure asset manager like Afentra signals urgent liquidity needs or strategic expansion, typically diluting existing shareholders significantly. In the current high-interest-rate environment, such capital raises are often viewed negatively due to the high cost of equity and potential distress signals in the sector.",
@@ -190,30 +231,45 @@
       "category": "Placing",
       "headline": "WRAP Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/wrap-retail-offer/9600698",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The WRAP Retail Offer indicates a strategic move to broaden the shareholder base by targeting retail investors, likely aiming to enhance liquidity and stability for Afentra's growth capital raise in the competitive waste management sector.",
+      "key_themes": [
+        "capital_raise",
+        "retail_investor_base",
+        "liquidity"
+      ]
     },
     {
       "timestamp": "2026-06-03T18:13:00",
       "category": "Placing",
       "headline": "Proposed Equity Fundraising",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/proposed-equity-fundraising-/9600569",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Afentra's equity fundraising signals a critical pivot to fund its aggressive M&A strategy in the fragmented UK waste management sector, aiming for scale and operational synergies rather than organic growth alone.",
+      "key_themes": [
+        "M&A Financing",
+        "Sector Consolidation",
+        "Capital Raise"
+      ]
     },
     {
       "timestamp": "2026-05-27T07:00:00",
       "category": null,
       "headline": "Award of KON4 Licence Onshore Angola",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/award-of-kon4-licence-onshore-angola/9586509",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The KON4 licence grants Afentra the right to conduct onshore exploration in Angola's prolific Kwanza Basin, a critical step for validating its geological thesis and attracting future farm-in partners or capital. While strategically vital for long-term resource definition, this is a preliminary regulatory milestone rather than an immediate revenue generator, limiting near-term market reaction.",
+      "key_themes": [
+        "Upstream Exploration",
+        "Angola Onshore",
+        "Regulatory Approval"
+      ]
     }
   ]
 }

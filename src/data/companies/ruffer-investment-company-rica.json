@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/ruffer-investment-company-ltd-red-ptg-pref-shares--rica/transaction-in-own-shares/9885156",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,21 @@
       "category": null,
       "headline": "Monthly Investment Report - October 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/ruffer-investment-company-ltd-red-ptg-pref-shares--rica/monthly-investment-report-october-2026/9866477",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Monthly investment reports for closed-end funds like RICA are routine informational updates that rarely move share prices unless they signal a significant NAV divergence or strategy shift.",
+      "key_themes": [
+        "Closed-End Fund",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-10-15T17:51:00",
       "category": null,
       "headline": "Transaction in Own Shares - Replacement",
       "url": "https://www.investegate.co.uk/announcement/rns/ruffer-investment-company-ltd-red-ptg-pref-shares--rica/transaction-in-own-shares-replacement/9825834",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +46,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/ruffer-investment-company-ltd-red-ptg-pref-shares--rica/notice-of-agm/9816834",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,16 +57,21 @@
       "category": null,
       "headline": "Monthly Investment Report - September 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/ruffer-investment-company-ltd-red-ptg-pref-shares--rica/monthly-investment-report-september-2026/9816833",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine monthly reporting for a closed-end fund with fixed capital structure; lacks the material corporate actions or performance deviations required to drive immediate price discovery or sentiment shifts in the UK equity market.",
+      "key_themes": [
+        "monthly-reporting",
+        "closed-end-fund"
+      ]
     },
     {
       "timestamp": "2026-10-02T16:25:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/ruffer-investment-company-ltd-red-ptg-pref-shares--rica/director-pdmr-shareholding/9805086",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures for RICA typically reflect minor portfolio adjustments rather than significant insider sentiment shifts, given the fund's established long-only strategy and lack of recent transformative catalysts.",
@@ -73,36 +85,49 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/ruffer-investment-company-ltd-red-ptg-pref-shares--rica/dividend-declaration/9797858",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard distribution update for a closed-end investment trust, reflecting routine income generation rather than strategic change; such announcements are expected by the income-focused shareholder base and carry no material implication for share price volatility or capital structure.",
+      "key_themes": [
+        "Income Distribution",
+        "Closed-End Trust"
+      ]
     },
     {
       "timestamp": "2026-09-11T07:00:00",
       "category": null,
       "headline": "Monthly Investment Report - August 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/ruffer-investment-company-ltd-red-ptg-pref-shares--rica/monthly-investment-report-august-2026/9766703",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Monthly investment reports are standard disclosure requirements for closed-end funds like RICA, providing no new material information to drive immediate price action.",
+      "key_themes": [
+        "routine_disclosure",
+        "closed_end_fund"
+      ]
     },
     {
       "timestamp": "2026-09-11T07:00:00",
       "category": null,
       "headline": "Management Fee Revision",
       "url": "https://www.investegate.co.uk/announcement/rns/ruffer-investment-company-ltd-red-ptg-pref-shares--rica/management-fee-revision/9766702",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative adjustment to the fee structure for RICA's preferred shares, likely reflecting changes in the underlying fund's management fees or regulatory requirements rather than a strategic shift in the investment company's core operations.",
+      "key_themes": [
+        "administrative",
+        "fee_structure"
+      ]
     },
     {
       "timestamp": "2026-08-18T07:00:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/ruffer-investment-company-ltd-red-ptg-pref-shares--rica/transaction-in-own-shares/9726162",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -113,6 +138,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/ruffer-investment-company-ltd-red-ptg-pref-shares--rica/transaction-in-own-shares/9721516",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -123,16 +149,21 @@
       "category": null,
       "headline": "Monthly Investment Report - July 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/ruffer-investment-company-ltd-red-ptg-pref-shares--rica/monthly-investment-report-july-2026-/9719091",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Monthly investment reports for closed-end funds like RICA are routine disclosures that provide incremental performance data rather than triggering immediate price discovery or strategic shifts.",
+      "key_themes": [
+        "Routine Disclosure",
+        "Performance Tracking"
+      ]
     },
     {
       "timestamp": "2026-08-12T12:12:00",
       "category": null,
       "headline": "Transaction in Own Shares - Replacement",
       "url": "https://www.investegate.co.uk/announcement/rns/ruffer-investment-company-ltd-red-ptg-pref-shares--rica/transaction-in-own-shares-replacement-/9718369",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -143,16 +174,21 @@
       "category": null,
       "headline": "Investment Manager’s Year End Review",
       "url": "https://www.investegate.co.uk/announcement/rns/ruffer-investment-company-ltd-red-ptg-pref-shares--rica/investment-manager-s-year-end-review/9685275",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a closed-end fund, this review provides essential performance attribution for the 'Ruffer' style of absolute return strategy but lacks the transformative catalysts required to move share price significantly in the short term.",
+      "key_themes": [
+        "performance review",
+        "closed-end fund"
+      ]
     },
     {
       "timestamp": "2026-07-10T07:05:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/ruffer-investment-company-ltd-red-ptg-pref-shares--rica/transaction-in-own-shares/9662231",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -163,16 +199,21 @@
       "category": null,
       "headline": "Monthly Investment Report - June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/ruffer-investment-company-ltd-red-ptg-pref-shares--rica/monthly-investment-report-june-2026/9662005",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine monthly reporting for a closed-end fund with fixed capital structure; provides no new material information on NAV performance or strategy shifts compared to quarterly reports.",
+      "key_themes": [
+        "Closed-End Fund",
+        "Monthly Reporting"
+      ]
     },
     {
       "timestamp": "2026-07-06T09:21:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/ruffer-investment-company-ltd-red-ptg-pref-shares--rica/transaction-in-own-shares/9653912",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -183,6 +224,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/ruffer-investment-company-ltd-red-ptg-pref-shares--rica/transaction-in-own-shares/9645900",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -193,6 +235,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/ruffer-investment-company-ltd-red-ptg-pref-shares--rica/director-pdmr-shareholding/9637916",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director activity within an established UK investment trust, lacking the materiality to influence institutional positioning or share price dynamics.",
@@ -206,20 +249,28 @@
       "category": null,
       "headline": "Monthly Investment Report - May 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/ruffer-investment-company-ltd-red-ptg-pref-shares--rica/monthly-investment-report-may-2026/9612467",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Monthly investment reports for closed-end funds like RICA are routine informational disclosures that rarely trigger immediate price action unless they signal a significant deviation from NAV or strategy.",
+      "key_themes": [
+        "Closed-End Fund",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-06-04T07:00:00",
       "category": null,
       "headline": "Change of Company Secretary - Replacement",
       "url": "https://www.investegate.co.uk/announcement/rns/ruffer-investment-company-ltd-red-ptg-pref-shares--rica/change-of-company-secretary-replacement/9600717",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing reflecting internal governance changes rather than a strategic shift in the firm's investment mandate or capital structure.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     }
   ]
 }

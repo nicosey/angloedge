@@ -10,26 +10,35 @@
       "category": "Appointment",
       "headline": "Director Appointment",
       "url": "https://www.investegate.co.uk/announcement/rns/mind-gym--mind/director-appointment/9846623",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative update regarding board composition with no immediate strategic or financial implications for Mind Gym's operations or valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Changes"
+      ]
     },
     {
       "timestamp": "2026-10-23T10:00:00",
       "category": "Appointment",
       "headline": "Board update",
       "url": "https://www.investegate.co.uk/announcement/rns/mind-gym--mind/board-update-/9838773",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board updates for small-cap advisory firms like Mind Gym typically signal administrative continuity rather than strategic shifts; without details on new appointments or governance changes, the market impact is negligible compared to earnings or M&A activity.",
+      "key_themes": [
+        "Corporate Governance",
+        "Small Cap"
+      ]
     },
     {
       "timestamp": "2026-09-08T16:29:00",
       "category": "Results",
       "headline": "Results of 2026 Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/mind-gym--mind/results-of-2026-annual-general-meeting-/9761596",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the AGM; it carries no intrinsic financial data or strategic direction for Mind Gym's valuation.",
@@ -43,16 +52,21 @@
       "category": "AGM/EGM",
       "headline": "Withdrawal of AGM Resolution",
       "url": "https://www.investegate.co.uk/announcement/rns/mind-gym--mind/withdrawal-of-agm-resolution/9721560",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Withdrawal of an AGM resolution is typically a procedural adjustment to correct technical errors or secure additional shareholder support, indicating no fundamental shift in the company's strategy or financial health.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-05T16:23:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/mind-gym--mind/holding-s-in-company/9707026",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,10 +77,14 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/mind-gym--mind/directorate-change/9699740",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative update regarding Mind Gym's board composition; without details on the appointee's background or strategic mandate, this lacks immediate catalyst potential for a micro-cap training firm.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     }
   ]
 }

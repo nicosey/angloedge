@@ -10,26 +10,35 @@
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/power-finance-corporation-limited--10oe/half-year-financial-report/9858083",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a non-listed subsidiary of the Government of India, this RNS serves primarily as a compliance disclosure for UK investors rather than a market-moving event, lacking the strategic volatility typical of listed equities.",
+      "key_themes": [
+        "Regulatory Compliance",
+        "State-Owned Enterprise"
+      ]
     },
     {
       "timestamp": "2026-10-16T10:12:00",
       "category": null,
       "headline": "Update",
       "url": "https://www.investegate.co.uk/announcement/rns/power-finance-corporation-limited--10oe/update-/9827174",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Power Finance Corporation is a state-owned Indian NBFC with no direct listing on the UK market; this RNS likely reflects routine administrative updates or minor corporate governance filings rather than material financial events impacting UK equity valuations.",
+      "key_themes": [
+        "Administrative",
+        "Non-UK Listed"
+      ]
     },
     {
       "timestamp": "2026-08-07T14:42:00",
       "category": "Results",
       "headline": "1st Quarter Results",
       "url": "https://www.investegate.co.uk/announcement/rns/power-finance-corporation-limited--10oe/1st-quarter-results/9711521",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a non-UK listed entity (NSE:BHEL subsidiary), this quarterly update holds negligible direct impact on the UK equity market for ticker 10OE, representing routine administrative disclosure rather than a material event.",
@@ -43,20 +52,28 @@
       "category": null,
       "headline": "Result of Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/power-finance-corporation-limited--10oe/result-of-meeting/9642484",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure for an Indian PSU entity listed on the LSE, indicating no material corporate action or financial event; such routine filings typically have negligible impact on share price or liquidity.",
+      "key_themes": [
+        "Administrative",
+        "Low Impact"
+      ]
     },
     {
       "timestamp": "2026-06-11T14:35:00",
       "category": "Acquisition",
       "headline": "Acquisition",
       "url": "https://www.investegate.co.uk/announcement/rns/power-finance-corporation-limited--10oe/acquisition-/9614247",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Power Finance Corporation is a large Indian state-owned NBFC, not a UK-listed entity; this appears to be a data mismatch or erroneous classification for the UK market (10OE ticker). Without verified UK listing context or specific deal terms, the materiality for UK investors is negligible.",
+      "key_themes": [
+        "Data Mismatch",
+        "Non-UK Entity"
+      ]
     }
   ]
 }

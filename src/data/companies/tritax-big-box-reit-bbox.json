@@ -10,36 +10,50 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/tritax-big-box-reit--bbox/dividend-declaration/9823194",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a standard dividend declaration for a UK REIT, this confirms income continuity but lacks the transformative catalysts required for significant price re-rating in the current high-yield environment.",
+      "key_themes": [
+        "Income Distribution",
+        "REIT Sector"
+      ]
     },
     {
       "timestamp": "2026-10-07T13:08:00",
       "category": null,
       "headline": "Chair update",
       "url": "https://www.investegate.co.uk/announcement/rns/tritax-big-box-reit--bbox/chair-update/9811677",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Chair updates are typically governance-focused communications that rarely contain actionable financial data or strategic pivots; without details on dividend policy changes or asset disposals, the market impact is negligible.",
+      "key_themes": [
+        "Governance",
+        "Low Impact"
+      ]
     },
     {
       "timestamp": "2026-09-23T07:00:00",
       "category": null,
       "headline": "1 million sq ft logistics facility and pre-let",
       "url": "https://www.investegate.co.uk/announcement/rns/tritax-big-box-reit--bbox/1-million-sq-ft-logistics-facility-and-pre-let-/9785651",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Securing a pre-let for 1 million sq ft of logistics space significantly de-risks the development pipeline and demonstrates sustained tenant appetite in the UK industrial sector despite rising interest rates, supporting asset valuation stability.",
+      "key_themes": [
+        "Logistics",
+        "Pre-let",
+        "Development Pipeline"
+      ]
     },
     {
       "timestamp": "2026-08-28T10:08:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/tritax-big-box-reit--bbox/total-voting-rights/9745666",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +64,7 @@
       "category": "Director Dealing",
       "headline": "PDMR subscription for ordinary shares",
       "url": "https://www.investegate.co.uk/announcement/rns/tritax-big-box-reit--bbox/pdmr-subscription-for-ordinary-shares/9740935",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard PDMR subscription notification rather than an open market purchase, indicating internal capital raising or rights issue mechanics common in REITs to maintain leverage targets; it lacks the bullish signal of direct share buying and carries minimal immediate price impact.",
@@ -64,6 +79,7 @@
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/tritax-big-box-reit--bbox/admission-to-trading/9740818",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -74,46 +90,63 @@
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/tritax-big-box-reit--bbox/result-of-general-meeting/9736934",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the Annual General Meeting, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital actions.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-08-11T16:29:00",
       "category": "Director Dealing",
       "headline": "Purchase of Ordinary Shares by PDMRs",
       "url": "https://www.investegate.co.uk/announcement/rns/tritax-big-box-reit--bbox/purchase-of-ordinary-shares-by-pdmrs/9716491",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine insider buying signals internal confidence but lacks the scale to influence institutional positioning; in the current UK REIT sector, such minor transactions are standard noise rather than a strategic catalyst.",
+      "key_themes": [
+        "Insider Confidence",
+        "Low Impact"
+      ]
     },
     {
       "timestamp": "2026-08-06T18:00:00",
       "category": null,
       "headline": "Tritax Big Box REIT",
       "url": "https://www.investegate.co.uk/announcement/rns/tritax-big-box-reit--bbox/tritax-big-box-reit/9709561",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The headline lacks specific content, indicating a likely administrative filing or minor update rather than a material event; without details on dividends, acquisitions, or financial performance, the market impact is negligible.",
+      "key_themes": [
+        "administrative",
+        "unclear"
+      ]
     },
     {
       "timestamp": "2026-08-06T15:09:00",
       "category": null,
       "headline": "Publication of Circular",
       "url": "https://www.investegate.co.uk/announcement/rns/tritax-big-box-reit--bbox/publication-of-circular-/9709302",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for an REIT, likely detailing the terms of a share buyback or dividend reinvestment scheme rather than a transformative corporate event.",
+      "key_themes": [
+        "Corporate Governance",
+        "Capital Allocation"
+      ]
     },
     {
       "timestamp": "2026-08-06T07:00:00",
       "category": "Results",
       "headline": "Results of Equity Issue",
       "url": "https://www.investegate.co.uk/announcement/rns/tritax-big-box-reit--bbox/results-of-equity-issue/9707306",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "This equity raise signals a proactive capital management strategy to fund acquisitions in the resilient logistics sector, likely aimed at accretive growth rather than distress; however, it introduces near-term dilution pressure on NAV per share which investors will scrutinize against yield maintenance.",
@@ -128,6 +161,7 @@
       "category": "Results",
       "headline": "Notice of 2026 half-year results and webcast",
       "url": "https://www.investegate.co.uk/announcement/rns/tritax-big-box-reit--bbox/notice-of-2026-half-year-results-and-webcast/9702464",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice for the H1 2026 results, typical for UK REITs to maintain investor transparency. While routine, it serves as a critical checkpoint for assessing rental growth and occupancy levels in the industrial sector amidst current interest rate pressures.",
@@ -141,50 +175,74 @@
       "category": null,
       "headline": "Planning consent secured for 107MW data centre",
       "url": "https://www.investegate.co.uk/announcement/rns/tritax-big-box-reit--bbox/planning-consent-secured-for-107mw-data-centre/9687622",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "Securing planning consent for a 107MW data centre represents a high-value development milestone in the UK's constrained logistics sector, directly addressing the structural supply-demand imbalance driven by AI and cloud infrastructure demand. This validates BBOX's strategic pivot towards digital assets, offering significant yield upside and long-term lease security compared to traditional retail warehousing.",
+      "key_themes": [
+        "Data Centre Development",
+        "Digital Infrastructure",
+        "Yield Expansion"
+      ]
     },
     {
       "timestamp": "2026-06-17T07:00:00",
       "category": null,
       "headline": "Entry into DMA at Chelmsford",
       "url": "https://www.investegate.co.uk/announcement/rns/tritax-big-box-reit--bbox/entry-into-dma-at-chelmsford/9621813",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This transaction reflects the ongoing institutionalization of the UK logistics sector, where major funds like DMA are acquiring prime assets from REITs to optimize their own balance sheets. While it confirms BBOX's strategy of recycling capital into high-yield opportunities, it also highlights the intense competition for top-tier logistics real estate which compresses yields.",
+      "key_themes": [
+        "Logistics Real Estate",
+        "Capital Recycling",
+        "Institutional Investment"
+      ]
     },
     {
       "timestamp": "2026-06-10T13:01:00",
       "category": null,
       "headline": "Statement re Manor Farm Data Centre",
       "url": "https://www.investegate.co.uk/announcement/rns/tritax-big-box-reit--bbox/statement-re-manor-farm-data-centre/9611804",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This announcement highlights the structural shift in UK logistics demand from traditional retail 'big box' to industrial data centres, a critical diversification trend for REITs facing e-commerce saturation. It signals BBOX's strategic pivot to capture higher-yielding, long-lease tech infrastructure assets amidst rising interest rates.",
+      "key_themes": [
+        "Data Centre",
+        "Portfolio Diversification",
+        "Logistics Sector"
+      ]
     },
     {
       "timestamp": "2026-06-10T07:00:00",
       "category": null,
       "headline": "Statement re Manor Farm Data Centre",
       "url": "https://www.investegate.co.uk/announcement/rns/tritax-big-box-reit--bbox/statement-re-manor-farm-data-centre/9610039",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This appears to be a standard regulatory disclosure regarding a single asset within the logistics/industrial REIT portfolio; without details on valuation changes or lease events, it lacks the materiality to drive significant share price movement in the current data centre investment climate.",
+      "key_themes": [
+        "Real Estate",
+        "Regulatory Disclosure"
+      ]
     },
     {
       "timestamp": "2026-06-03T07:00:00",
       "category": null,
       "headline": "Sale of six logistics assets for £199 million",
       "url": "https://www.investegate.co.uk/announcement/rns/tritax-big-box-reit--bbox/sale-of-six-logistics-assets-for-199-million/9598389",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This disposal represents a significant portfolio rationalization within the UK logistics sector, likely aimed at recycling capital into higher-yielding assets or deleveraging in response to rising interest rates and cap rate expansion pressures.",
+      "key_themes": [
+        "Portfolio Rationalization",
+        "Logistics Sector",
+        "Capital Recycling"
+      ]
     }
   ]
 }

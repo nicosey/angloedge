@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/itaconix--itx/director-pdmr-shareholding/9807674",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on share price volatility or valuation, particularly for a small-cap biotech like Itaconix where catalysts are driven by clinical trial outcomes rather than insider trading activity.",
@@ -23,6 +24,7 @@
       "category": "Results",
       "headline": "Notice of Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/itaconix--itx/notice-of-interim-results/9730806",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap biotech in the competitive cell therapy space, this interim results release is critical for validating clinical progress and cash runway without triggering dilution; it serves as a key sentiment barometer for investors monitoring the sector's funding winter.",
@@ -37,6 +39,7 @@
       "category": "Trading Update",
       "headline": "Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/itaconix--itx/trading-update/9673555",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 4,
       "insight": "As a micro-cap biotech with no approved products, routine trading updates are typically administrative milestones regarding cash runway rather than commercial catalysts, offering negligible immediate value to the equity.",
@@ -50,60 +53,84 @@
       "category": null,
       "headline": "Customer Agreement Update",
       "url": "https://www.investegate.co.uk/announcement/rns/itaconix--itx/customer-agreement-update/9666695",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a pre-revenue biotech, commercial agreements are critical for validation but rarely drive immediate valuation shifts without clinical data; this update likely confirms standard contractual terms rather than signaling a breakthrough partnership.",
+      "key_themes": [
+        "commercialisation",
+        "biotech"
+      ]
     },
     {
       "timestamp": "2026-07-08T07:00:00",
       "category": null,
       "headline": "Agreement Extended with Bonals Technologies",
       "url": "https://www.investegate.co.uk/announcement/rns/itaconix--itx/agreement-extended-with-bonals-technologies/9657230",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Extension of a commercial agreement with Bonals Technologies signals continued operational momentum in the industrial gasification sector but lacks the transformative scale required for significant valuation re-rating compared to major M&A or capital raises.",
+      "key_themes": [
+        "Commercial Agreement",
+        "Industrial Gasification"
+      ]
     },
     {
       "timestamp": "2026-06-10T14:43:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/itaconix--itx/result-of-agm/9611978",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for a micro-cap biotech firm typically involve standard shareholder ratifications with negligible immediate market impact unless specific governance controversies arise.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap"
+      ]
     },
     {
       "timestamp": "2026-06-01T07:00:00",
       "category": null,
       "headline": "Progress in Crop Production Field Trials",
       "url": "https://www.investegate.co.uk/announcement/rns/itaconix--itx/progress-in-crop-production-field-trials/9593433",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Field trial progress is a standard developmental milestone for agritech firms like Itaconix, validating technology but lacking immediate revenue visibility; such updates typically sustain investor interest without triggering significant price action unless data demonstrates breakthrough efficacy against established competitors.",
+      "key_themes": [
+        "R&D Progress",
+        "Agritech"
+      ]
     },
     {
       "timestamp": "2026-05-29T07:00:00",
       "category": null,
       "headline": "Development of Next Generation Plant-Based Paints",
       "url": "https://www.investegate.co.uk/announcement/rns/itaconix--itx/development-of-next-generation-plant-based-paints/9590952",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement reflects standard R&D progression for a micro-cap biotech rather than a commercial catalyst; without data on scalability, IP strength, or partnership potential, it lacks the substance to drive material valuation re-rating in the current market.",
+      "key_themes": [
+        "R&D Update",
+        "Sustainability"
+      ]
     },
     {
       "timestamp": "2026-05-27T07:00:00",
       "category": null,
       "headline": "Launch of New Marketing Program for Detergents",
       "url": "https://www.investegate.co.uk/announcement/rns/itaconix--itx/launch-of-new-marketing-program-for-detergents/9586511",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Marketing initiatives are operational tactics that do not immediately alter financial metrics or valuation multiples; without disclosed revenue uplift or cost savings, this remains a low-impact administrative update for the market.",
+      "key_themes": [
+        "Commercial Strategy",
+        "Operational Update"
+      ]
     }
   ]
 }

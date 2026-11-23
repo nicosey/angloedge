@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/connecting-excellence-group-plc--xce/total-voting-rights/9851423",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,21 @@
       "category": null,
       "headline": "Launch of XCE’s EMI Options Scheme",
       "url": "https://www.investegate.co.uk/announcement/rns/connecting-excellence-group-plc--xce/launch-of-xce-s-emi-options-scheme/9815502",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative filing to enable employee retention via tax-efficient share options, common in the FTSE250/Small Cap tech and professional services sectors; it signals no immediate strategic shift or capital event.",
+      "key_themes": [
+        "Corporate Governance",
+        "HR Policy"
+      ]
     },
     {
       "timestamp": "2026-10-05T07:01:00",
       "category": null,
       "headline": "Issue of shares under ATM-like facility",
       "url": "https://www.investegate.co.uk/announcement/rns/connecting-excellence-group-plc--xce/issue-of-shares-under-atm-like-facility/9805486",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,16 +46,22 @@
       "category": "Acquisition",
       "headline": "Completion of James Gray Recruitment acquisition",
       "url": "https://www.investegate.co.uk/announcement/rns/connecting-excellence-group-plc--xce/completion-of-james-gray-recruitment-acquisition/9805337",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Completion of the James Gray Recruitment acquisition marks a concrete step in XCE's strategy to consolidate its position within the UK professional services sector, though execution risk remains high given the firm's history of integration challenges and market volatility.",
+      "key_themes": [
+        "M&A",
+        "Sector Consolidation",
+        "Execution Risk"
+      ]
     },
     {
       "timestamp": "2026-09-29T16:20:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/connecting-excellence-group-plc--xce/holding-s-in-company/9797270",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,40 +72,56 @@
       "category": null,
       "headline": "CEO at New York Bitcoin Treasuries Conference",
       "url": "https://www.investegate.co.uk/announcement/rns/connecting-excellence-group-plc--xce/ceo-at-new-york-bitcoin-treasuries-conference/9791677",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard corporate visibility exercise with no immediate financial or operational impact on XCE's valuation; the company's core business in education and training remains structurally distinct from Bitcoin treasury strategies.",
+      "key_themes": []
     },
     {
       "timestamp": "2026-09-22T10:30:00",
       "category": null,
       "headline": "Institutional Subscription raising £600,000",
       "url": "https://www.investegate.co.uk/announcement/rns/connecting-excellence-group-plc--xce/institutional-subscription-raising-600-000-/9784654",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "A £600k institutional subscription is a marginal capital injection for a PLC of this size, likely serving as a routine working capital top-up rather than a transformative strategic move. In the current UK SME equity market, such small raises often signal limited access to deeper liquidity pools or a desire to avoid significant dilution from larger public offers.",
+      "key_themes": [
+        "capital_raise",
+        "liquidity",
+        "sme_equity"
+      ]
     },
     {
       "timestamp": "2026-09-01T07:01:00",
       "category": "Acquisition",
       "headline": "First acquisition Heads of Terms & Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/connecting-excellence-group-plc--xce/first-acquisition-heads-of-terms-trading-update/9747835",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Marks a strategic pivot from pure consultancy to asset-heavy operations via the acquisition of a care home portfolio, signaling an attempt to capture recurring revenue streams in the UK social care sector despite prevailing margin pressures.",
+      "key_themes": [
+        "M&A",
+        "Care Sector",
+        "Business Model Pivot"
+      ]
     },
     {
       "timestamp": "2026-09-01T07:01:00",
       "category": "Acquisition",
       "headline": "First acquisition Heads of Terms & Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/connecting-excellence-group-plc--xce/first-acquisition-heads-of-terms-trading-update/9747834",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Marks a pivotal shift from organic growth to inorganic expansion for XCE, signaling management's intent to consolidate the fragmented UK education support sector; success hinges on integration capabilities and accretive financials.",
+      "key_themes": [
+        "M&A Strategy",
+        "Sector Consolidation",
+        "Growth Acceleration"
+      ]
     }
   ]
 }

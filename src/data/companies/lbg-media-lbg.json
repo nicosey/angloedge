@@ -10,6 +10,7 @@
       "category": "Trading Update",
       "headline": "Trading Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/lbg-media--lbg/trading-statement/9842336",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 4,
       "insight": "Without the specific financial data or narrative contained in the full text of the RNS, this is classified as a routine administrative update; LBG Media's small-cap status and recent history suggest such statements typically lack immediate market-moving catalysts compared to major M&A or profit warnings.",
@@ -23,6 +24,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/lbg-media--lbg/holding-s-in-company/9823617",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -33,26 +35,35 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/lbg-media--lbg/directorate-change/9768619",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative update regarding board composition in the UK media sector; without details on the appointee's background or specific mandate, this lacks immediate strategic weight compared to earnings or M&A events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-06-19T07:00:00",
       "category": "Acquisition",
       "headline": "Acquisition of Uncovered Holdings Limited",
       "url": "https://www.investegate.co.uk/announcement/rns/lbg-media--lbg/acquisition-of-uncovered-holdings-limited/9626430",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Acquisition of a private holding company suggests portfolio consolidation or asset restructuring rather than transformative growth; without disclosed financials or strategic rationale, this is likely an administrative move with limited immediate market impact.",
+      "key_themes": [
+        "Corporate Restructuring",
+        "Portfolio Management"
+      ]
     },
     {
       "timestamp": "2026-06-09T07:00:00",
       "category": "Results",
       "headline": "Half-year results",
       "url": "https://www.investegate.co.uk/announcement/rns/lbg-media--lbg/half-year-results/9607733",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap media entity, LBG's interim results are routine but critical for assessing liquidity and survival in a fragmented, ad-revenue-sensitive sector. The lack of transformative catalysts suggests this is a hold-or-flatten scenario rather than a growth or M&A play.",

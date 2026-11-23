@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Correction: Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-group-holdings-limited-npv--fsg/correction-transaction-in-own-shares/9841743",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/foresight-group-holdings-limited-npv--fsg/total-voting-rights/9803011",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/foresight-group-holdings-limited-npv--fsg/transaction-in-own-shares/9803010",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +43,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-group-holdings-limited-npv--fsg/total-voting-rights/9749202",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +54,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-group-holdings-limited-npv--fsg/transaction-in-own-shares/9744334",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +65,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-group-holdings-limited-npv--fsg/transaction-in-own-shares/9734217",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,6 +76,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-group-holdings-limited-npv--fsg/director-pdmr-shareholding/9716444",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry negligible market impact unless they signal a coordinated shift in insider sentiment; without context on volume or price, this is standard administrative compliance rather than a strategic signal.",
@@ -83,6 +90,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-group-holdings-limited-npv--fsg/director-pdmr-shareholding/9716387",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry negligible market impact unless accompanied by unusual volume or context; without details on direction or size, this remains an administrative filing with no immediate strategic implication for Foresight Group.",
@@ -96,30 +104,43 @@
       "category": "AGM/EGM",
       "headline": "AMENDED - Results of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/foresight-group-holdings-limited-npv--fsg/amended-results-of-annual-general-meeting/9704158",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a standard administrative filing confirming the outcome of routine shareholder votes, this announcement carries no new fundamental data or strategic shifts for Foresight Group's NPV portfolio.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-03T17:39:00",
       "category": null,
       "headline": "Changes in Board Composition",
       "url": "https://www.investegate.co.uk/announcement/rns/foresight-group-holdings-limited-npv--fsg/changes-in-board-composition-/9702266",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board changes in the infrastructure investment sector typically signal governance continuity rather than strategic pivot; without details on executive departures or new appointments with specific M&A mandates, this remains an administrative update with negligible immediate price impact.",
+      "key_themes": [
+        "Governance",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-06-11T07:00:00",
       "category": null,
       "headline": "Sale of public markets division to GGI",
       "url": "https://www.investegate.co.uk/announcement/rns/foresight-group-holdings-limited-npv--fsg/sale-of-public-markets-division-to-ggi-/9612475",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This divestment marks a fundamental strategic pivot for Foresight away from its traditional public markets business towards private assets, significantly altering its risk profile and growth trajectory in the UK alternative investment sector.",
+      "key_themes": [
+        "Strategic Restructuring",
+        "Asset Management",
+        "Private Markets"
+      ]
     }
   ]
 }

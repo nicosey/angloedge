@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Interim Unaudited Results to 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/majestic-corporation-plc--mcj/interim-unaudited-results-to-30-june-2026/9776286",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a high-beta discretionary retailer, MCJ's interim results will be scrutinized for margin resilience against rising operational costs and shifting consumer sentiment in the UK wine sector. The market will focus on same-store sales trends to gauge whether the brand is successfully navigating the cost-of-living crisis without eroding its premium positioning.",
@@ -24,26 +25,36 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/majestic-corporation-plc--mcj/result-of-agm/9692357",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-07-27T07:00:00",
       "category": "Appointment",
       "headline": "Appointment of Corporate Advisor and Joint Brokers",
       "url": "https://www.investegate.co.uk/announcement/rns/majestic-corporation-plc--mcj/appointment-of-corporate-advisor-and-joint-brokers/9687630",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The appointment of joint brokers signals a strategic pivot to enhance liquidity and investor visibility for the UK's largest off-licence retailer, likely in preparation for potential capital raising or M&A activity amidst intensifying competition from supermarkets.",
+      "key_themes": [
+        "liquidity enhancement",
+        "strategic positioning",
+        "retail sector consolidation"
+      ]
     },
     {
       "timestamp": "2026-07-01T12:06:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/majestic-corporation-plc--mcj/notice-of-agm-2026/9647550",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -54,6 +65,7 @@
       "category": "Results",
       "headline": "Final results for the FY2025 - Replacement",
       "url": "https://www.investegate.co.uk/announcement/rns/majestic-corporation-plc--mcj/final-results-for-the-fy2025-replacement-/9641785",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a replacement filing for FY2025 results, this likely indicates prior administrative errors rather than new financial data, limiting immediate market impact unless the corrected figures reveal significant variances in Majestic's struggling off-trade wine sector.",
@@ -67,6 +79,7 @@
       "category": "Results",
       "headline": "Final results for the year ended 31 December 2025",
       "url": "https://www.investegate.co.uk/announcement/rns/majestic-corporation-plc--mcj/final-results-for-the-year-ended-31-december-2025/9640569",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a high-growth premium wine retailer, MCJ's full-year results are critical for validating its expansion strategy against intensifying competition from discounters and online players; any deviation in like-for-like sales or margin guidance will significantly influence investor sentiment on the stock's valuation trajectory.",

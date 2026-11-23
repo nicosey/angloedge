@@ -10,16 +10,21 @@
       "category": "Appointment",
       "headline": "Board Appointment",
       "url": "https://www.investegate.co.uk/announcement/rns/aseana-properties-ltd---aspl/board-appointment/9886928",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board appointments in the UK property sector typically signal governance maintenance rather than strategic pivots; without details on the appointee's background or specific mandate, this lacks the catalyst potential for significant price action.",
+      "key_themes": [
+        "Corporate Governance",
+        "Management Structure"
+      ]
     },
     {
       "timestamp": "2026-09-04T11:03:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/aseana-properties-ltd---aspl/holding-s-in-company/9756532",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/aseana-properties-ltd---aspl/director-pdmr-shareholding/9754918",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements in the UK real estate investment trust (REIT) sector are typically low-impact administrative disclosures unless accompanied by significant block trades or insider trading alerts; without volume or price context, this suggests no immediate strategic shift.",
@@ -43,6 +49,7 @@
       "category": "Results",
       "headline": "Half-year Results",
       "url": "https://www.investegate.co.uk/announcement/rns/aseana-properties-ltd---aspl/half-year-results/9727883",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap property investment trust with limited liquidity, ASPL's half-year results are routine but critical for tracking net asset value (NAV) erosion in the current high-rate UK commercial real estate sector. The update serves primarily as a compliance exercise rather than a catalyst for significant price action.",
@@ -56,20 +63,29 @@
       "category": null,
       "headline": "Hotel Management Agreements",
       "url": "https://www.investegate.co.uk/announcement/rns/aseana-properties-ltd---aspl/hotel-management-agreements/9666319",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement signals a strategic pivot from asset ownership to asset-light management, reducing capital intensity but capping immediate upside in the UK hospitality sector where high interest rates make heavy capex prohibitive.",
+      "key_themes": [
+        "asset-light",
+        "hospitality",
+        "strategic pivot"
+      ]
     },
     {
       "timestamp": "2026-05-29T10:25:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/aseana-properties-ltd---aspl/result-of-agm/9592174",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of an Annual General Meeting, which typically involves routine matters such as director re-elections and auditor appointments rather than strategic shifts or capital events.",
+      "key_themes": [
+        "Corporate Governance",
+        "AGM Results"
+      ]
     }
   ]
 }

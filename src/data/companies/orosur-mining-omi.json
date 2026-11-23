@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "AGM Results & Investor Q&A Session",
       "url": "https://www.investegate.co.uk/announcement/rns/orosur-mining-inc--omi/agm-results-investor-q-a-session-/9877933",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative filing for an AGM and Q&A session, indicating no material financial events or strategic shifts; such routine corporate governance updates typically have negligible immediate impact on OMI's share price compared to operational developments.",
@@ -23,6 +24,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/orosur-mining-inc--omi/holding-s-in-company/9860815",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -33,6 +35,7 @@
       "category": null,
       "headline": "TR-1: Standard Form for Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/eqs/orosur-mining-inc--omi/tr-1-standard-form-for-notification-of-major-/9860820",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,6 +46,7 @@
       "category": "Director Dealing",
       "headline": "Director Purchase of shares",
       "url": "https://www.investegate.co.uk/announcement/rns/orosur-mining-inc--omi/director-purchase-of-shares-/9859181",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine insider buying in the junior mining sector often signals confidence but lacks the transformative weight of M&A or major capital raises; context is key as OMI's exploration stage limits immediate fundamental impact.",
@@ -56,76 +60,107 @@
       "category": null,
       "headline": "Notice of Annual and Special Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/orosur-mining-inc--omi/notice-of-annual-and-special-meeting/9825993",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice for an AGM/EGM, which typically serves to ratify routine governance matters rather than signal immediate strategic shifts or material financial events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-25T12:33:00",
       "category": null,
       "headline": "Brokered LIFE Private Placement is Oversubscribed",
       "url": "https://www.investegate.co.uk/announcement/rns/orosur-mining-inc--omi/brokered-life-private-placement-is-oversubscribed-/9791994",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Oversubscription of a private placement signals strong institutional confidence in Orosur's exploration thesis despite the dilutive nature of the capital raise, which is critical for funding high-risk greenfield projects in the current mining finance environment.",
+      "key_themes": [
+        "capital_raise",
+        "institutional_confidence",
+        "exploration_funding"
+      ]
     },
     {
       "timestamp": "2026-09-23T07:00:00",
       "category": null,
       "headline": "Private Placement for Gross Proceeds up to C$14m",
       "url": "https://www.investegate.co.uk/announcement/rns/orosur-mining-inc--omi/private-placement-for-gross-proceeds-up-to-c-14m/9785658",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This C$14m raise addresses immediate liquidity needs for Orosur's exploration activities in the UK and Canada, a standard survival mechanism for junior miners but indicative of ongoing capital intensity without near-term production revenue.",
+      "key_themes": [
+        "Capital Raise",
+        "Exploration Funding"
+      ]
     },
     {
       "timestamp": "2026-09-15T07:36:00",
       "category": null,
       "headline": "Orosur Mining Announces Discovery at El Cedro",
       "url": "https://www.investegate.co.uk/announcement/eqs/orosur-mining-inc--omi/orosur-mining-announces-discovery-at-el-cedro/9772403",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The El Cedro discovery reinforces Orosur's status as a high-potential junior explorer in the prolific Sonoran Belt, offering significant optionality for future resource expansion despite the typical lack of immediate financial impact.",
+      "key_themes": [
+        "Exploration",
+        "Gold",
+        "Mexico"
+      ]
     },
     {
       "timestamp": "2026-09-02T07:19:00",
       "category": null,
       "headline": "Anzá Activity Accelerating",
       "url": "https://www.investegate.co.uk/announcement/rns/orosur-mining-inc--omi/anz-activity-accelerating/9751174",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "Accelerating activity at the Anzá project signals operational momentum in a sector where execution speed is critical for valuation, though it remains a pre-revenue exploration update rather than a transformative financial event.",
+      "key_themes": [
+        "Exploration Progress",
+        "Project Development"
+      ]
     },
     {
       "timestamp": "2026-08-11T11:10:00",
       "category": null,
       "headline": "COLOMBIAN EARTHQUAKE",
       "url": "https://www.investegate.co.uk/announcement/rns/orosur-mining-inc--omi/colombian-earthquake/9715828",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "While Colombia is a key jurisdiction for Orosur's assets (specifically the La Colosa project), an earthquake announcement typically triggers operational safety reviews rather than immediate financial impairment unless significant damage is confirmed. For junior miners, such events are routine risk disclosures that rarely alter long-term valuation without subsequent asset-specific damage reports.",
+      "key_themes": [
+        "Operational Risk",
+        "Geopolitical & Environmental"
+      ]
     },
     {
       "timestamp": "2026-07-22T07:00:00",
       "category": null,
       "headline": "El Pantano Project Developing",
       "url": "https://www.investegate.co.uk/announcement/rns/orosur-mining-inc--omi/el-pantano-project-developing-/9680686",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This update reflects standard exploration progress for a junior explorer, lacking the materiality to influence valuation without assay results or resource definition milestones; such announcements are routine in the sector and typically priced in unless accompanied by significant capital raising or high-grade discovery data.",
+      "key_themes": [
+        "Exploration Update",
+        "Junior Mining"
+      ]
     },
     {
       "timestamp": "2026-07-13T07:00:00",
       "category": null,
       "headline": "Block listing six monthly return",
       "url": "https://www.investegate.co.uk/announcement/rns/orosur-mining-inc--omi/block-listing-six-monthly-return/9664238",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -136,6 +171,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/orosur-mining-inc--omi/holding-s-in-company/9664212",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

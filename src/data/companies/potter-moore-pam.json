@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Interim Results Presentation via IMC",
       "url": "https://www.investegate.co.uk/announcement/rns/potter-moore-plc--pam/interim-results-presentation-via-imc/9881571",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a niche player in the UK's independent pharmacy sector, Potter & Moore's interim results provide critical visibility into margin pressures and working capital dynamics amid rising interest rates and regulatory scrutiny on pharmacy ownership rules.",
@@ -23,6 +24,7 @@
       "category": "Results",
       "headline": "Interim results for six months ended 30 Sept 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/potter-moore-plc--pam/interim-results-for-six-months-ended-30-sept-2026-/9880734",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a niche player in the high-margin orthotic and prosthetic market, Potter & Moore's interim results provide critical visibility into consumer discretionary spending resilience amid UK inflation pressures; any deviation in gross margins or order book growth will signal broader health trends in private healthcare demand.",
@@ -37,16 +39,21 @@
       "category": "Appointment",
       "headline": "Appointment of Chief Financial Officer",
       "url": "https://www.investegate.co.uk/announcement/rns/potter-moore-plc--pam/appointment-of-chief-financial-officer/9863969",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The appointment of a new CFO in the current UK mid-cap environment signals a potential shift towards financial discipline or preparation for capital raising, which is critical for Potter & Moore's growth strategy in the competitive medical device sector.",
+      "key_themes": [
+        "Leadership Change",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-11-02T15:17:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/potter-moore-plc--pam/holding-s-in-company/9854068",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -57,6 +64,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/potter-moore-plc--pam/holding-s-in-company/9832164",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -67,36 +75,49 @@
       "category": "AGM/EGM",
       "headline": "Results of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/potter-moore-plc--pam/results-of-agm/9732895",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting disclosure confirming the outcome of routine shareholder votes, offering no new strategic direction or financial data to influence valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-08-20T07:00:00",
       "category": "AGM/EGM",
       "headline": "AGM Trading update",
       "url": "https://www.investegate.co.uk/announcement/rns/potter-moore-plc--pam/agm-trading-update/9730772",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative filing for Potter & Moore's AGM with no substantive trading data or strategic shifts disclosed, reflecting the company's niche status in the UK medical device sector where such updates are typically low-impact.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-22T07:00:00",
       "category": "Appointment",
       "headline": "CFO Resignation",
       "url": "https://www.investegate.co.uk/announcement/rns/potter-moore-plc--pam/cfo-resignation-/9680695",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The departure of a CFO in the niche medical imaging sector signals potential internal governance friction or strategic realignment, raising immediate questions about financial oversight and execution risk during a period where capital efficiency is critical for growth.",
+      "key_themes": [
+        "Leadership Change",
+        "Governance Risk"
+      ]
     },
     {
       "timestamp": "2026-07-14T15:05:00",
       "category": "Results",
       "headline": "Notice of Recorded Results Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/potter-moore-plc--pam/notice-of-recorded-results-presentation/9668567",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice for the Potter & Moore Plc (PAM) recorded results presentation, lacking immediate market-moving catalysts; while PAM operates in the niche orthotic and prosthetic sector with stable demand, this specific filing does not indicate strategic shifts or material financial surprises.",
@@ -110,10 +131,14 @@
       "category": "Dividend",
       "headline": "Dividend Timetable",
       "url": "https://www.investegate.co.uk/announcement/rns/potter-moore-plc--pam/dividend-timetable/9666053",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative timetable update for an existing dividend declaration, offering no new financial data or strategic shifts. Such announcements are routine noise in the UK equity market and do not alter the fundamental valuation or risk profile of Potter & Moore.",
+      "key_themes": [
+        "Corporate Action",
+        "Administrative"
+      ]
     }
   ]
 }

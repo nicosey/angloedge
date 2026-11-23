@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "PDMR Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/latham-james---lthm/pdmr-dealings-/9756856",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR dealings in the engineering services sector typically reflect personal liquidity management rather than strategic shifts, offering no immediate signal of corporate direction or valuation change.",
@@ -23,36 +24,49 @@
       "category": "AGM/EGM",
       "headline": "Results of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/latham-james---lthm/results-of-annual-general-meeting-/9730197",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure confirming the outcome of routine shareholder votes, such as director reappointments and auditor mandates, which carry no material financial or strategic weight for Latham Group's valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-08-19T09:00:00",
       "category": "AGM/EGM",
       "headline": "AGM Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/latham-james---lthm/agm-statement/9729592",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the convening of an Annual General Meeting, which carries no immediate financial or strategic weight for Latham Group's valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-07-24T10:34:00",
       "category": "AGM/EGM",
       "headline": "Posting of Annual Report and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/latham-james---lthm/posting-of-annual-report-and-notice-of-agm/9686651",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for James Latham (LTHM) to convene its Annual General Meeting, indicating no immediate material corporate action or strategic shift.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-07-02T07:00:00",
       "category": "Results",
       "headline": "Preliminary Results",
       "url": "https://www.investegate.co.uk/announcement/rns/latham-james---lthm/preliminary-results/9648427",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a niche player in the UK's fragmented IT services market, Latham's results provide critical visibility into demand resilience for managed services and cloud migration amidst broader tech spending caution. The outcome will signal whether the company can maintain its growth trajectory against larger competitors like Mitie or Serco.",

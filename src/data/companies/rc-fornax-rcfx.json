@@ -10,6 +10,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/rc-fornax-plc--rcfx/tr-1-notification-of-major-holdings-/9882304",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,21 @@
       "category": null,
       "headline": "£350k Contract Win and Funding Update",
       "url": "https://www.investegate.co.uk/announcement/rns/rc-fornax-plc--rcfx/-350k-contract-win-and-funding-update/9787999",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The £350k contract is immaterial to RC Fornax's revenue base, offering negligible fundamental impact; the funding update likely pertains to working capital maintenance rather than transformative growth, reflecting typical small-cap liquidity management.",
+      "key_themes": [
+        "contract_award",
+        "funding_update"
+      ]
     },
     {
       "timestamp": "2026-09-22T10:49:00",
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/rc-fornax-plc--rcfx/tr-1-notification-of-major-holdings/9784715",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +46,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/rc-fornax-plc--rcfx/tr-1-notification-of-major-holdings/9784714",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +57,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/rc-fornax-plc--rcfx/tr-1-notification-of-major-holdings-/9784711",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,16 +68,21 @@
       "category": null,
       "headline": "Retail Investor Online Event - 24 September",
       "url": "https://www.investegate.co.uk/announcement/rns/rc-fornax-plc--rcfx/retail-investor-online-event-24-september/9782469",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations activity with no immediate financial or strategic impact on share valuation; retail engagement events are routine and do not signal material corporate developments or sector shifts.",
+      "key_themes": [
+        "Investor Relations",
+        "Corporate Communications"
+      ]
     },
     {
       "timestamp": "2026-09-18T07:49:00",
       "category": "Trading Update",
       "headline": "Replacement: Government Contract & Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/rc-fornax-plc--rcfx/replacement-government-contract-trading-update/9779339",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "The dual focus on securing a government contract alongside a trading update suggests potential revenue diversification for RC Fornax, mitigating reliance on volatile commercial sectors; however, the 'Replacement' headline implies prior disclosure issues which may dampen investor confidence in governance.",
@@ -83,6 +96,7 @@
       "category": "Trading Update",
       "headline": "£4.0m Government Contract and Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/rc-fornax-plc--rcfx/-4-0m-government-contract-and-trading-update/9778530",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "The £4.0m government contract provides tangible revenue visibility and validates the company's operational capability in a competitive public sector landscape, though it remains a modest addition relative to typical market cap fluctuations.",
@@ -96,6 +110,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/rc-fornax-plc--rcfx/tr-1-notification-of-major-holdings/9778307",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -106,6 +121,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/rc-fornax-plc--rcfx/tr-1-notification-of-major-holdings-/9778290",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -116,6 +132,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/rc-fornax-plc--rcfx/tr-1-notification-of-major-holdings-/9778286",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -126,6 +143,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/rc-fornax-plc--rcfx/tr-1-notification-of-major-holdings-/9778285",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -136,20 +154,28 @@
       "category": null,
       "headline": "Investor Webinar – Update",
       "url": "https://www.investegate.co.uk/announcement/rns/rc-fornax-plc--rcfx/investor-webinar-update/9613880",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations event with no immediate price-sensitive financial data or corporate action disclosed; such webinars are routine engagement tools that rarely move share prices unless accompanied by specific guidance updates.",
+      "key_themes": [
+        "Investor Relations",
+        "Corporate Communication"
+      ]
     },
     {
       "timestamp": "2026-06-03T12:00:00",
       "category": null,
       "headline": "Investor Webinar – Thursday 11th June",
       "url": "https://www.investegate.co.uk/announcement/rns/rc-fornax-plc--rcfx/investor-webinar-thursday-11th-june/9600054",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations event with no immediate financial or strategic catalysts; such webinars are routine for maintaining shareholder engagement but do not signal material changes in the company's outlook or valuation.",
+      "key_themes": [
+        "Investor Relations",
+        "Corporate Communications"
+      ]
     }
   ]
 }

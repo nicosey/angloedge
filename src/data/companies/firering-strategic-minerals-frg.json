@@ -10,36 +10,50 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/firering-strategic-minerals-di---frg/result-of-agm/9770889",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no immediate financial or strategic weight for equity valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-09-07T07:00:00",
       "category": null,
       "headline": "Grant of Option over Lithium-Tantalum Projects",
       "url": "https://www.investegate.co.uk/announcement/rns/firering-strategic-minerals-di---frg/grant-of-option-over-lithium-tantalum-projects/9757609",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Granting an option over lithium-tantalum projects is a standard exploratory step for junior miners to secure future rights without immediate dilution; while it signals continued interest in the critical minerals sector, it lacks the transformative catalyst required for significant price movement.",
+      "key_themes": [
+        "Critical Minerals",
+        "Exploration",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-07-24T07:00:00",
       "category": "AGM/EGM",
       "headline": "Revised Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/firering-strategic-minerals-di---frg/revised-notice-of-agm/9685299",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "A revised notice for an AGM is a standard administrative update with no intrinsic financial impact, though it ensures shareholder quorum for routine resolutions in the mining sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-20T08:45:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/firering-strategic-minerals-di---frg/notice-of-agm/9676924",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +64,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/firering-strategic-minerals-di---frg/holding-s-in-company/9635222",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

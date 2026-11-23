@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/maintel-holdings--mai/holding-s-in-company/9834800",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company - Replacement",
       "url": "https://www.investegate.co.uk/announcement/rns/maintel-holdings--mai/holding-s-in-company-replacement/9790127",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/maintel-holdings--mai/holding-s-in-company/9789627",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +43,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/maintel-holdings--mai/holding-s-in-company/9717805",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +54,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/maintel-holdings--mai/holding-s-in-company/9709229",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +65,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/maintel-holdings--mai/holding-s-in-company/9709220",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,6 +76,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/maintel-holdings--mai/holding-s-in-company/9706917",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,36 +87,49 @@
       "category": "Appointment",
       "headline": "Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/maintel-holdings--mai/board-changes/9697095",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board changes in the telecoms infrastructure sector typically signal governance continuity rather than strategic pivots; without details on executive departures or new appointments with specific M&A mandates, this is a low-impact administrative update.",
+      "key_themes": [
+        "Corporate Governance",
+        "Telecom Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-07-23T14:56:00",
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/maintel-holdings--mai/result-of-general-meeting/9684860",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at Maintel's AGM/EGM, which typically involves routine matters like director reappointments or fee approvals rather than strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-07-16T07:00:00",
       "category": "Appointment",
       "headline": "Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/maintel-holdings--mai/board-changes/9671303",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine board changes in the telecoms infrastructure sector typically signal administrative continuity rather than strategic shifts, lacking the immediate catalyst for valuation re-rating seen in M&A or major capital events.",
+      "key_themes": [
+        "corporate_governance",
+        "administrative"
+      ]
     },
     {
       "timestamp": "2026-06-30T16:18:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/maintel-holdings--mai/total-voting-rights/9645286",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -120,36 +140,49 @@
       "category": "AGM/EGM",
       "headline": "Result of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/maintel-holdings--mai/result-of-annual-general-meeting/9645274",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for Maintel typically involve rubber-stamping director reappointments and auditor appointments with no material strategic shifts or capital allocation changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-30T12:57:00",
       "category": null,
       "headline": "Annual Report & Accounts and Notice of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/maintel-holdings--mai/annual-report-accounts-and-notice-of-gm/9644789",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard annual reporting cycle for Maintel, a niche provider of private broadband and connectivity solutions; while it provides essential financial transparency, it lacks the transformative catalysts or strategic shifts required to move the needle on valuation.",
+      "key_themes": [
+        "Annual Results",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-06-30T10:25:00",
       "category": "AGM/EGM",
       "headline": "Directorate Change & AGM Update",
       "url": "https://www.investegate.co.uk/announcement/rns/maintel-holdings--mai/directorate-change-agm-update/9644398",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine governance updates regarding board composition carry minimal immediate financial impact for Maintel, a niche telecoms infrastructure provider, as they do not signal strategic pivots or material capital changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-06-29T12:30:00",
       "category": "Results",
       "headline": "2025 Annual Results",
       "url": "https://www.investegate.co.uk/announcement/rns/maintel-holdings--mai/2025-annual-results/9642192",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a niche B2B connectivity provider in a high-interest-rate environment, Maintel's annual results will be scrutinized for margin resilience and cash flow generation amid rising borrowing costs and competitive pressure from larger telcos.",
@@ -163,6 +196,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/maintel-holdings--mai/holding-s-in-company/9637751",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -173,6 +207,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/maintel-holdings--mai/holding-s-in-company/9636549",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -183,6 +218,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/maintel-holdings--mai/notice-of-agm/9598429",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -193,10 +229,15 @@
       "category": "Placing",
       "headline": "Result of Retail Offer and Update on Timing",
       "url": "https://www.investegate.co.uk/announcement/rns/maintel-holdings--mai/result-of-retail-offer-and-update-on-timing/9592663",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This update signals a standard equity fundraising mechanism typical for Maintel's growth phase, likely aimed at funding acquisitions or reducing debt rather than indicating distress; while dilutive, it reflects the company's active capital deployment strategy in the competitive telecoms infrastructure sector.",
+      "key_themes": [
+        "Capital Raising",
+        "Dilution",
+        "Growth Strategy"
+      ]
     }
   ]
 }

@@ -10,26 +10,35 @@
       "category": null,
       "headline": "Mello Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/dotdigital-group--dotd/mello-investor-presentation/9878248",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Investor presentations are standard IR tools that rarely move share prices without accompanying material financial data; this likely serves as a routine engagement tactic rather than signaling immediate transformative catalysts.",
+      "key_themes": [
+        "investor_relations",
+        "marketing"
+      ]
     },
     {
       "timestamp": "2026-11-05T07:00:00",
       "category": "Dividend",
       "headline": "Final Dividend Timetable",
       "url": "https://www.investegate.co.uk/announcement/rns/dotdigital-group--dotd/final-dividend-timetable/9859186",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a purely administrative timetable announcement for a final dividend, lacking any substantive guidance on earnings growth or capital allocation strategy that would influence valuation multiples.",
+      "key_themes": [
+        "Corporate Action",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-11-04T13:17:00",
       "category": null,
       "headline": "Grant of Options",
       "url": "https://www.investegate.co.uk/announcement/rns/dotdigital-group--dotd/grant-of-options/9858566",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +49,7 @@
       "category": "Results",
       "headline": "Full Year Results",
       "url": "https://www.investegate.co.uk/announcement/rns/dotdigital-group--dotd/full-year-results/9854569",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a high-growth SaaS player in the competitive martech sector, DOTD's full year results will be scrutinized for margin expansion and cash flow generation amidst rising customer acquisition costs; any deviation from consensus on recurring revenue growth could trigger significant multiple compression relative to peers like HubSpot or Salesforce.",
@@ -54,6 +64,7 @@
       "category": "Results",
       "headline": "Notice of Results and Investor Presentations",
       "url": "https://www.investegate.co.uk/announcement/rns/dotdigital-group--dotd/notice-of-results-and-investor-presentations/9835283",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "This notice signals the release of interim results for DotDigital Group, a key event for assessing the sustainability of its post-IPO growth trajectory in the competitive UK SaaS sector. While routine for listed entities, the specific financial metrics and forward guidance will be critical for validating investor confidence following recent volatility in the tech equity space.",
@@ -68,6 +79,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/dotdigital-group--dotd/holding-s-in-company/9818752",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -78,6 +90,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/dotdigital-group--dotd/holding-s-in-company/9816825",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -88,6 +101,7 @@
       "category": null,
       "headline": "Exercise of Options and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/dotdigital-group--dotd/exercise-of-options-and-total-voting-rights/9763924",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -98,6 +112,7 @@
       "category": null,
       "headline": "Cancellation of Treasury Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/dotdigital-group--dotd/cancellation-of-treasury-shares/9733055",
+      "routine_type": "Treasury Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -108,6 +123,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/dotdigital-group--dotd/holding-s-in-company/9699118",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -118,6 +134,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/dotdigital-group--dotd/holding-s-in-company/9684919",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -128,16 +145,22 @@
       "category": null,
       "headline": "Dotdigital Loyalty and new AI capabilities",
       "url": "https://www.investegate.co.uk/announcement/rns/dotdigital-group--dotd/dotdigital-loyalty-and-new-ai-capabilities/9671323",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Integrating AI into loyalty platforms aligns with the broader martech shift toward hyper-personalization, offering a competitive moat against rivals like Salesforce but representing incremental product evolution rather than transformative M&A.",
+      "key_themes": [
+        "AI Integration",
+        "Customer Retention",
+        "Martech Innovation"
+      ]
     },
     {
       "timestamp": "2026-07-06T14:07:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/dotdigital-group--dotd/holding-s-in-company/9654457",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -148,10 +171,14 @@
       "category": null,
       "headline": "New Website",
       "url": "https://www.investegate.co.uk/announcement/rns/dotdigital-group--dotd/new-website-/9646512",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "A website refresh is a standard operational update with negligible financial impact on DotDigital's core B2B SaaS revenue streams or valuation multiples.",
+      "key_themes": [
+        "Corporate Communications",
+        "Brand Refresh"
+      ]
     }
   ]
 }

@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Openreach announces Board and executive changes",
       "url": "https://www.investegate.co.uk/announcement/rns/bt-group--bt.a/openreach-announces-board-and-executive-changes-/9872250",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "Executive reshuffles at Openreach signal ongoing operational restructuring within BT's fibre rollout strategy, reflecting the broader industry pressure to optimize fixed-line infrastructure costs amid intense competition from Virgin Media O2 and CityFibre.",
+      "key_themes": [
+        "Corporate Governance",
+        "Infrastructure Investment"
+      ]
     },
     {
       "timestamp": "2026-11-10T15:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/bt-group--bt.a/director-pdmr-shareholding/9868260",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in BT Group typically reflect individual portfolio management rather than corporate strategy shifts, especially given the company's ongoing focus on network investment and debt reduction under current leadership.",
@@ -33,16 +38,21 @@
       "category": null,
       "headline": "BT Group announces triennial pension valuation",
       "url": "https://www.investegate.co.uk/announcement/rns/bt-group--bt.a/bt-group-announces-triennial-pension-valuation/9859418",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Triennial valuations are standard regulatory requirements that typically result in minor funding adjustments rather than transformative balance sheet events; the market impact is muted unless a significant deficit emerges, which is unlikely given BT's recent pension de-risking strategies.",
+      "key_themes": [
+        "Pension Funding",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-10-30T15:00:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/bt-group--bt.a/total-voting-rights/9851288",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,6 +63,7 @@
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/bt-group--bt.a/director-declaration/9836358",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,16 +74,22 @@
       "category": "Acquisition",
       "headline": "BT Group has acquired TalkTalk and PlatformX",
       "url": "https://www.investegate.co.uk/announcement/rns/bt-group--bt.a/bt-group-has-acquired-talktalk-and-platformx/9806102",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This acquisition fundamentally reshapes the UK telecoms landscape by consolidating BT's consumer base and accelerating its pivot to a digital infrastructure and services provider, directly challenging Sky and Virgin Media in the converged broadband market.",
+      "key_themes": [
+        "Market Consolidation",
+        "Converged Services",
+        "Strategic Pivot"
+      ]
     },
     {
       "timestamp": "2026-09-30T11:30:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/bt-group--bt.a/total-voting-rights/9799047",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,6 +100,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/bt-group--bt.a/director-pdmr-shareholding/9768355",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in BT Group are typically low-impact administrative events that rarely signal immediate strategic shifts, especially given the company's ongoing focus on network investment and debt reduction rather than speculative M&A.",
@@ -96,6 +114,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/bt-group--bt.a/total-voting-rights/9745716",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -106,6 +125,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/bt-group--bt.a/total-voting-rights/9698799",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -116,6 +136,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/bt-group--bt.a/director-pdmr-shareholding/9691088",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on BT Group's valuation or strategic trajectory, reflecting individual portfolio management rather than corporate signaling.",
@@ -129,26 +150,35 @@
       "category": null,
       "headline": "Outcome of Audit Tender",
       "url": "https://www.investegate.co.uk/announcement/rns/bt-group--bt.a/outcome-of-audit-tender/9683966",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement signals BT's ongoing cost-cutting measures to improve margins amid intense competition in the UK telecoms sector, but lacks immediate financial impact or strategic pivot.",
+      "key_themes": [
+        "cost reduction",
+        "operational efficiency"
+      ]
     },
     {
       "timestamp": "2026-07-09T15:28:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/bt-group--bt.a/result-of-agm/9661745",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting confirmation of shareholder votes for BT Group's AGM, typically rubber-stamping routine resolutions such as director reappointments and auditor ratification without material strategic shifts or governance controversies.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-30T09:19:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/bt-group--bt.a/total-voting-rights/9644187",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -159,16 +189,21 @@
       "category": null,
       "headline": "BT Updates Guidance for International JV Formation",
       "url": "https://www.investegate.co.uk/announcement/rns/bt-group--bt.a/bt-updates-guidance-for-international-jv-formation/9640665",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This update signals BT's continued pivot toward asset-light models by offloading international infrastructure assets to reduce debt and refocus on core UK connectivity, aligning with broader sector trends of divesting non-core global operations.",
+      "key_themes": [
+        "Strategic Restructuring",
+        "Asset Divestment"
+      ]
     },
     {
       "timestamp": "2026-06-25T15:06:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/bt-group--bt.a/director-pdmr-shareholding/9637529",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions rather than a strategic corporate action; while BT's ongoing transformation and dividend policy remain key investor focal points, isolated PDMR dealings have negligible immediate impact on share valuation.",
@@ -182,6 +217,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/bt-group--bt.a/director-pdmr-shareholding/9626058",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on BT.A's valuation or strategic direction, reflecting standard insider compliance rather than significant insider sentiment shifts.",
@@ -195,6 +231,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/bt-group--bt.a/director-pdmr-shareholding/9621568",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate market impact, though sustained insider buying can signal confidence in BT's ongoing transformation and dividend sustainability amidst high-interest rate pressures.",
@@ -208,16 +245,21 @@
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/bt-group--bt.a/annual-financial-report/9613826",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a high-yield defensive staple in the FTSE 100, BT's annual results are critical for income investors monitoring dividend sustainability amid heavy Openreach separation costs and broadband market saturation.",
+      "key_themes": [
+        "Dividend Sustainability",
+        "Openreach Separation"
+      ]
     },
     {
       "timestamp": "2026-05-29T10:41:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/bt-group--bt.a/total-voting-rights/9592233",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

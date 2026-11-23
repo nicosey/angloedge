@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Admission of Further Securities to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/admission-of-further-securities-to-trading/9867337",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/director-pdmr-shareholding/9860863",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements typically carry minimal market impact unless they signal significant insider conviction or divergence; without volume or price context, this is likely administrative noise rather than a strategic indicator for the REIT sector.",
@@ -33,26 +35,37 @@
       "category": "Placing",
       "headline": "Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/retail-offer/9854719",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This retail placing signals a critical capital raise for SUPR to address its liquidity crisis and fund the restructuring of its UK supermarket portfolio, following the precedent set by other REITs like Landsec in managing distressed assets. The move underscores the sector's ongoing struggle with high interest rates and the urgent need for balance sheet repair amidst falling property valuations.",
+      "key_themes": [
+        "Capital Raise",
+        "Distressed Assets",
+        "REIT Restructuring"
+      ]
     },
     {
       "timestamp": "2026-11-03T07:00:00",
       "category": null,
       "headline": "Proposed equity issue to fund transaction pipeline",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/proposed-equity-issue-to-fund-transaction-pipeline/9854538",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This capital raise signals aggressive expansion in the UK REIT sector, where yield compression is forcing funds to deploy cash rapidly; however, it introduces dilution risk and execution pressure on a pipeline that must deliver immediate income growth to justify the valuation.",
+      "key_themes": [
+        "Capital Raise",
+        "REIT Expansion",
+        "Dilution"
+      ]
     },
     {
       "timestamp": "2026-10-23T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/notice-of-annual-general-meeting/9837635",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,16 +76,21 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/dividend-declaration/9812250",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine dividend declarations for UK REITs like SUPR are standard income distributions rather than value-creating events; without context on yield changes or coverage ratios, this lacks the catalyst potential for significant price movement.",
+      "key_themes": [
+        "Income Distribution",
+        "REIT Sector"
+      ]
     },
     {
       "timestamp": "2026-09-29T07:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/director-pdmr-shareholding/9795256",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on SUPR's valuation or liquidity, reflecting typical insider activity rather than a strategic shift in the UK REIT sector.",
@@ -86,6 +104,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/director-pdmr-shareholding/9775762",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard administrative disclosures with negligible immediate impact on SUPR's valuation or liquidity, reflecting typical insider activity rather than a strategic shift in the REIT sector.",
@@ -99,16 +118,22 @@
       "category": "Acquisition",
       "headline": "Acquisition of six new assets",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/acquisition-of-six-new-assets/9766669",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This acquisition signals active portfolio expansion for a REIT currently navigating the UK retail property sector's structural shift towards necessity-led assets; while accretive to yield, it increases exposure to high-street volatility and requires scrutiny on financing costs in the current rate environment.",
+      "key_themes": [
+        "Portfolio Expansion",
+        "Retail Property",
+        "Yield Enhancement"
+      ]
     },
     {
       "timestamp": "2026-08-14T13:30:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/director-pdmr-shareholding/9723181",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate price impact for REITs like SUPR, which are primarily driven by interest rate expectations and property valuation cycles rather than individual insider trades.",
@@ -122,6 +147,7 @@
       "category": "Results",
       "headline": "Notice of Results and Investor Meet Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/notice-of-results-and-investor-meet-presentation/9719088",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice for an upcoming results release rather than the results themselves; while retail REITs face ongoing pressure from high interest rates and shifting consumer spending, this specific announcement carries no immediate pricing impact.",
@@ -135,6 +161,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/holding-s-in-company/9713892",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -145,6 +172,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/holding-s-in-company/9709223",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -155,6 +183,7 @@
       "category": null,
       "headline": "Admission of Further Securities to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/admission-of-further-securities-to-trading/9705996",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -165,26 +194,35 @@
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/result-of-general-meeting/9701931",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the AGM/EGM; while necessary for governance compliance, it carries no immediate pricing impact or strategic shift for the REIT.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-07-21T13:07:00",
       "category": null,
       "headline": "Edison issues report on Supermarket Income REIT (SUPR)",
       "url": "https://www.investegate.co.uk/announcement/eqs/supermarket-income-reit--supr/edison-issues-report-on-supermarket-income-re-/9680141",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Third-party research reports from firms like Edison rarely move share prices in isolation without a concurrent broker rating change or price target revision; this is primarily informational for existing holders rather than a catalyst for new capital inflow.",
+      "key_themes": [
+        "analyst_coverage",
+        "informational"
+      ]
     },
     {
       "timestamp": "2026-07-17T07:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/holding-s-in-company/9673565",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -195,16 +233,21 @@
       "category": null,
       "headline": "Publication of Circular and Notice of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/publication-of-circular-and-notice-of-gm/9671315",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative notice for a UK REIT, indicating an upcoming General Meeting to approve routine matters such as dividend payments or director re-elections rather than transformative strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "REIT Administration"
+      ]
     },
     {
       "timestamp": "2026-07-15T17:15:00",
       "category": "Results",
       "headline": "Results of the Issue",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/results-of-the-issue/9671096",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "The headline 'Results of the Issue' in an RNS context for a REIT typically denotes the pricing and allocation of a new equity raise or bond issuance rather than operational performance, indicating routine capital management activity with limited immediate strategic impact on share valuation.",
@@ -218,60 +261,88 @@
       "category": "Acquisition",
       "headline": "Acquisition of three supermarkets for £118 million",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/acquisition-of-three-supermarkets-for-118-million/9670761",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "This acquisition signals aggressive portfolio expansion for a niche REIT, leveraging current high-yield opportunities in the UK retail property sector amidst rising interest rates. It demonstrates management's confidence in the resilience of supermarket real estate assets despite broader economic headwinds.",
+      "key_themes": [
+        "Portfolio Expansion",
+        "Retail Property",
+        "Yield Compression"
+      ]
     },
     {
       "timestamp": "2026-07-15T07:02:00",
       "category": "Placing",
       "headline": "Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/retail-offer/9669200",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This retail placing indicates a capital raise to support the REIT's liquidity or acquisition pipeline, reflecting the ongoing need for funding in the competitive UK supermarket sector amidst margin pressures.",
+      "key_themes": [
+        "Capital Raise",
+        "UK Retail Sector"
+      ]
     },
     {
       "timestamp": "2026-07-15T07:00:00",
       "category": "Acquisition",
       "headline": "Proposed equity issue to fund acquisitions",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/proposed-equity-issue-to-fund-acquisitions-/9668985",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "This capital raise signals aggressive expansion in the UK REIT sector, likely targeting high-yield assets to counteract rising interest rates and inflationary pressures on operational costs. It reflects a strategic pivot from passive income generation to active portfolio growth, a trend seen among peers like Landsec and Segro seeking scale advantages.",
+      "key_themes": [
+        "Capital Raise",
+        "M&A Activity",
+        "UK REIT Sector"
+      ]
     },
     {
       "timestamp": "2026-07-02T07:00:00",
       "category": null,
       "headline": "£445 Million Debt Refinancing",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/-445-million-debt-refinancing/9648458",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This refinancing likely extends maturity profiles and secures favorable interest rates in a high-rate environment, stabilizing the REIT's balance sheet but highlighting the sector's ongoing liquidity management challenges amidst rising borrowing costs.",
+      "key_themes": [
+        "Debt Management",
+        "Interest Rate Risk",
+        "REIT Sector"
+      ]
     },
     {
       "timestamp": "2026-07-02T07:00:00",
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/supermarket-income-reit--supr/dividend-declaration/9648433",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine dividend announcements for UK REITs like SUPR are standard income distributions rather than value-creating events; without context on yield changes or property portfolio performance, this carries no strategic weight.",
+      "key_themes": [
+        "Dividend",
+        "REIT",
+        "Income"
+      ]
     },
     {
       "timestamp": "2026-06-11T07:24:00",
       "category": null,
       "headline": "Edison issues report on Supermarket Income REIT (SUPR)",
       "url": "https://www.investegate.co.uk/announcement/eqs/supermarket-income-reit--supr/edison-issues-report-on-supermarket-income-re-/9613222",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Third-party research reports from firms like Edison are informational rather than transactional, carrying no immediate binding impact on share price or corporate strategy compared to official company announcements.",
+      "key_themes": [
+        "analyst_coverage",
+        "informational"
+      ]
     }
   ]
 }

@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Update re Financial Results",
       "url": "https://www.investegate.co.uk/announcement/rns/jarvis-securities--jim/update-re-financial-results/9827028",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a non-operational investment vehicle with no underlying trading business, this update likely pertains to NAV fluctuations or administrative reporting rather than operational performance, offering limited alpha for active investors.",
@@ -23,40 +24,57 @@
       "category": null,
       "headline": "Jarvis Securities",
       "url": "https://www.investegate.co.uk/announcement/rns/jarvis-securities--jim/jarvis-securities/9825836",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The announcement lacks substantive financial data or strategic shifts, indicating a routine administrative filing with negligible immediate impact on Jarvis Securities' valuation or operational trajectory.",
+      "key_themes": [
+        "administrative",
+        "low-impact"
+      ]
     },
     {
       "timestamp": "2026-10-15T07:00:00",
       "category": "Appointment",
       "headline": "Appointment of Special Administrators",
       "url": "https://www.investegate.co.uk/announcement/rns/jarvis-securities--jim/appointment-of-special-administrators/9823597",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "The appointment of special administrators for Jarvis Securities signals a catastrophic collapse in liquidity and solvency, effectively marking the end of the firm's operations. This event highlights severe systemic risks within the non-bank lending sector, particularly regarding funding reliance and asset quality deterioration during periods of market stress.",
+      "key_themes": [
+        "Insolvency",
+        "Non-Bank Lending",
+        "Sector Risk"
+      ]
     },
     {
       "timestamp": "2026-08-28T08:35:00",
       "category": null,
       "headline": "Update re Jarvis Investment Management Limited",
       "url": "https://www.investegate.co.uk/announcement/rns/jarvis-securities--jim/update-re-jarvis-investment-management-limited/9745421",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a standard operational update for a niche asset manager, this likely lacks the material financial catalysts required to move JIM's valuation significantly without accompanying trading data or strategic shifts.",
+      "key_themes": [
+        "Asset Management",
+        "Corporate Communications"
+      ]
     },
     {
       "timestamp": "2026-05-29T14:10:00",
       "category": null,
       "headline": "Result of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/jarvis-securities--jim/result-of-gm/9592676",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The 'Result of GM' for a non-brokerage entity like Jarvis Securities typically denotes routine shareholder approval for minor administrative matters rather than transformative corporate action, reflecting the company's current status as a dormant or shell vehicle in the UK equity market.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shell Company"
+      ]
     }
   ]
 }

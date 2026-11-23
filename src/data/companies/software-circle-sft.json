@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Share Premium Cancellation effective",
       "url": "https://www.investegate.co.uk/announcement/rns/software-circle--sft/share-premium-cancellation-effective/9825717",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative capital reduction to align the share premium account with nominal value, eliminating future issuance costs for new shares; it carries no intrinsic valuation impact but reflects routine corporate housekeeping common in small-cap tech firms.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative Action"
+      ]
     },
     {
       "timestamp": "2026-09-10T07:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/software-circle--sft/holding-s-in-company/9764358",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,36 +35,49 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM and Board Appointment",
       "url": "https://www.investegate.co.uk/announcement/rns/software-circle--sft/result-of-agm-and-board-appointment/9752374",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine governance update typical for small-cap software firms; without details on the specific board appointment's strategic background or remuneration terms, this lacks immediate catalyst potential for share price movement.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-09-02T07:00:00",
       "category": "Appointment",
       "headline": "Board Appointment",
       "url": "https://www.investegate.co.uk/announcement/rns/software-circle--sft/board-appointment-/9750411",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board appointments in the UK SME software sector are typically administrative unless linked to a specific turnaround strategy or M&A activity; without details on the appointee's background, this lacks immediate market-moving catalysts.",
+      "key_themes": [
+        "Corporate Governance",
+        "SME Administration"
+      ]
     },
     {
       "timestamp": "2026-08-07T12:27:00",
       "category": "AGM/EGM",
       "headline": "AGM Notice & proposed Share Premium Cancellation",
       "url": "https://www.investegate.co.uk/announcement/rns/software-circle--sft/agm-notice-proposed-share-premium-cancellation/9711244",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Share premium cancellation is a standard accounting mechanism to eliminate historical capital surpluses, often preceding a return of capital or simply cleaning up the balance sheet; it carries no intrinsic value creation for Software Circle given its niche market position and lack of recent transformative catalysts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Balance Sheet Restructuring"
+      ]
     },
     {
       "timestamp": "2026-07-23T07:00:00",
       "category": "Results",
       "headline": "Final Results for the year ended 31 March 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/software-circle--sft/final-results-for-the-year-ended-31-march-2026/9682986",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a niche UK software distributor with limited organic growth runway, this full-year result is critical for validating the company's pivot towards higher-margin managed services and cloud solutions amidst intensifying margin pressure from major OEMs.",

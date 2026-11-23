@@ -10,36 +10,52 @@
       "category": null,
       "headline": "Capital Access Window - Pantheon Resources Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-resources--panr/capital-access-window-pantheon-resources-plc/9879042",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice confirming the reopening of the capital raise window for existing shareholders, lacking any new substantive commercial developments or pricing updates to drive immediate valuation changes.",
+      "key_themes": [
+        "Capital Raise",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-11-17T07:00:00",
       "category": "Placing",
       "headline": "Result of Fundraise",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-resources--panr/result-of-fundraise-/9878198",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This capital raise is critical for Pantheon to fund its Phase 2 development in the UK North Sea, mitigating immediate liquidity risk but introducing dilution; it reflects the sector's ongoing struggle to secure funding for marginal fields amidst high interest rates and ESG constraints.",
+      "key_themes": [
+        "Capital Raise",
+        "UK Oil & Gas",
+        "Dilution",
+        "Development Funding"
+      ]
     },
     {
       "timestamp": "2026-11-11T07:30:00",
       "category": null,
       "headline": "Capital Access Window - Pantheon Resources PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-resources--panr/capital-access-window-pantheon-resources-plc-/9869497",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement signals a critical need for liquidity in the current high-interest-rate environment where E&P firms face refinancing cliffs; it implies potential dilution or debt restructuring rather than organic growth, reflecting broader sector pressures on independent UK oil and gas producers.",
+      "key_themes": [
+        "Capital Raising",
+        "Liquidity Risk",
+        "E&P Sector"
+      ]
     },
     {
       "timestamp": "2026-11-05T07:00:00",
       "category": null,
       "headline": "Blocklisting Interim Update & Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-resources--panr/blocklisting-interim-update-total-voting-rights/9859315",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,16 +66,22 @@
       "category": "Appointment",
       "headline": "Appointment of CEO and Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-resources--panr/appointment-of-ceo-and-board-changes-/9800258",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "The appointment of a new CEO at Pantheon Resources signals a critical strategic pivot for the UK-listed E&P firm, aiming to restore investor confidence and drive value creation in a volatile energy sector following recent operational challenges.",
+      "key_themes": [
+        "Leadership Change",
+        "Strategic Reset",
+        "UK Energy Sector"
+      ]
     },
     {
       "timestamp": "2026-06-10T18:21:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-resources--panr/director-pdmr-shareholding/9612222",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate price impact, reflecting individual liquidity needs rather than strategic shifts in the competitive UK E&P sector.",
@@ -73,6 +95,7 @@
       "category": "Director Dealing",
       "headline": "Grant of Awards and Options / PDMR Notification",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-resources--panr/grant-of-awards-and-options-pdmr-notification/9607762",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of director dealings and option grants, common in the E&P sector for retention purposes, but lacks the transformative catalysts or significant insider buying signals that typically drive immediate share price re-rating.",
@@ -86,6 +109,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-resources--panr/director-pdmr-shareholding/9601941",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate price impact, though consistent insider buying in the current volatile E&P sector can signal management confidence in underlying asset value.",
@@ -99,10 +123,14 @@
       "category": null,
       "headline": "Alaska Legislature Appearance & Op. Update",
       "url": "https://www.investegate.co.uk/announcement/rns/pantheon-resources--panr/alaska-legislature-appearance-op-update-/9595980",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Regulatory engagement in Alaska signals long-term exploration potential but offers no immediate catalyst for PANR's UK-listed valuation, which remains heavily dependent on Brent crude prices and operational execution rather than distant geopolitical developments.",
+      "key_themes": [
+        "Exploration",
+        "Geopolitics"
+      ]
     }
   ]
 }

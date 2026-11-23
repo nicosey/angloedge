@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/chapel-down-group--cdgp/holding-s-in-company/9870897",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,21 @@
       "category": "Placing",
       "headline": "Result of Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/chapel-down-group--cdgp/result-of-retail-offer-/9865972",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 4,
+      "insight": "The conclusion of the retail offer confirms the capital raise structure for Chapel Down's expansion but represents a routine funding step rather than a transformative event; investor focus remains on execution risk in the competitive UK wine sector.",
+      "key_themes": [
+        "Capital Raise",
+        "Expansion Funding"
+      ]
     },
     {
       "timestamp": "2026-11-04T16:25:00",
       "category": "Placing",
       "headline": "Result of Placing",
       "url": "https://www.investegate.co.uk/announcement/rns/chapel-down-group--cdgp/result-of-placing-/9858895",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Chapel Down's placing likely serves to de-lever the balance sheet following its aggressive expansion into premium sparkling wine production, a critical move given the sector's high capex intensity and recent margin pressures from input cost inflation.",
@@ -44,26 +50,38 @@
       "category": "Placing",
       "headline": "Close of Accelerated Bookbuild to New Orders",
       "url": "https://www.investegate.co.uk/announcement/rns/chapel-down-group--cdgp/close-of-accelerated-bookbuild-to-new-orders/9858551",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The close of the accelerated bookbuild confirms Chapel Down has successfully raised capital to accelerate its expansion into premium sparkling wine production and direct-to-consumer channels, mitigating near-term liquidity risks while signaling confidence in long-term margin improvement despite current sector headwinds.",
+      "key_themes": [
+        "Capital Raise",
+        "UK Wine Sector",
+        "Growth Strategy"
+      ]
     },
     {
       "timestamp": "2026-11-04T07:00:00",
       "category": null,
       "headline": "Proposed Capital Raising up to £6.0 million",
       "url": "https://www.investegate.co.uk/announcement/rns/chapel-down-group--cdgp/proposed-capital-raising-up-to-6-0-million/9856834",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The £6m capital raise is a necessary lifeline for Chapel Down's aggressive expansion into premium sparkling wine and new vineyards, but it signals continued cash burn in a high-interest-rate environment that pressures margins. This dilutive move underscores the capital-intensive nature of UK viticulture, where growth ambitions are currently outpacing organic free cash flow generation.",
+      "key_themes": [
+        "Capital Raise",
+        "Dilution",
+        "Expansion",
+        "Cash Burn"
+      ]
     },
     {
       "timestamp": "2026-09-15T07:00:00",
       "category": "Results",
       "headline": "Notice of Results and Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/chapel-down-group--cdgp/notice-of-results-and-investor-presentation/9771615",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the release of results rather than the results themselves; for Chapel Down, market attention will focus on margin pressures in the wine sector and execution against its premiumisation strategy.",
@@ -77,10 +95,14 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/chapel-down-group--cdgp/result-of-agm/9623897",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a standard post-AGM result announcement for Chapel Down Group, this confirms routine shareholder approvals without introducing new strategic directives or capital changes, reflecting typical governance housekeeping rather than market-moving catalysts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     }
   ]
 }

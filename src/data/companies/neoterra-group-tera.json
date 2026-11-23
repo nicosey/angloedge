@@ -10,6 +10,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/neoterra-group--tera/notice-of-agm/9877625",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Total Voting Rights Notification",
       "url": "https://www.investegate.co.uk/announcement/rns/neoterra-group--tera/total-voting-rights-notification-/9851379",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,80 +32,114 @@
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/neoterra-group--tera/annual-financial-report-/9849220",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a micro-cap exploration entity, the release of an annual report without accompanying major M&A or significant resource upgrades typically signals routine compliance rather than immediate value creation, reflecting the sector's reliance on speculative future milestones over current financial performance.",
+      "key_themes": [
+        "Annual Report",
+        "Micro-cap Exploration"
+      ]
     },
     {
       "timestamp": "2026-10-21T07:00:00",
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/neoterra-group--tera/directorate-change/9832859",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board-level restructuring common in micro-cap exploration firms to maintain compliance or streamline governance; lacks immediate catalyst for valuation re-rating without concurrent resource definition updates.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap Administration"
+      ]
     },
     {
       "timestamp": "2026-09-23T07:00:00",
       "category": null,
       "headline": "Extension of CCL Debt Facility",
       "url": "https://www.investegate.co.uk/announcement/rns/neoterra-group--tera/extension-of-ccl-debt-facility/9785656",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This extension of the CCL debt facility is a standard liquidity management action for NeoTerra, signaling no immediate distress but reflecting the ongoing need to manage working capital in the waste management sector where cash conversion cycles can be lengthy.",
+      "key_themes": [
+        "liquidity",
+        "debt_management"
+      ]
     },
     {
       "timestamp": "2026-09-04T07:00:00",
       "category": null,
       "headline": "Termination of Growth Capital Facility",
       "url": "https://www.investegate.co.uk/announcement/rns/neoterra-group--tera/termination-of-growth-capital-facility/9755175",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The termination of a growth capital facility typically signals a failure to meet performance hurdles or mutual disagreement on valuation, indicating potential liquidity constraints or strategic misalignment for NeoTerra. While it removes immediate debt servicing pressure, it limits near-term expansion options and may spook investors regarding the company's operational execution.",
+      "key_themes": [
+        "liquidity",
+        "debt_facility_termination",
+        "strategic_risk"
+      ]
     },
     {
       "timestamp": "2026-08-20T16:18:00",
       "category": null,
       "headline": "Extension of 2p Warrants to 9 October 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/neoterra-group--tera/extension-of-2p-warrants-to-9-october-2026/9732848",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative extension of existing warrant expiry dates, likely to maintain liquidity or align with broader financing timelines, rather than a signal of new capital raising or strategic shifts in the environmental tech sector.",
+      "key_themes": [
+        "Corporate Action",
+        "Warrant Extension"
+      ]
     },
     {
       "timestamp": "2026-08-20T07:00:00",
       "category": null,
       "headline": "Selection of Contractor for USTDA Funded Project",
       "url": "https://www.investegate.co.uk/announcement/rns/neoterra-group--tera/selection-of-contractor-for-ustda-funded-project/9730767",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Securing a USTDA-funded contract validates NeoTerra's technical capability in the US market but represents a single project win rather than a structural revenue shift; investor focus remains on execution risk and scalability of this specific deal.",
+      "key_themes": [
+        "US Market Entry",
+        "Government Contracting"
+      ]
     },
     {
       "timestamp": "2026-07-16T07:00:00",
       "category": null,
       "headline": "Updated MRE Incorporates Heavy Rare Earth Elements",
       "url": "https://www.investegate.co.uk/announcement/rns/neoterra-group--tera/updated-mre-incorporates-heavy-rare-earth-elements/9671289",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The inclusion of Heavy Rare Earth Elements (HREEs) in the MRE significantly elevates NeoTerra's strategic value by targeting high-margin applications like EV motors and defense tech, differentiating it from peers focused solely on Light REEs.",
+      "key_themes": [
+        "Heavy Rare Earths",
+        "Critical Minerals",
+        "Resource Expansion"
+      ]
     },
     {
       "timestamp": "2026-07-07T07:00:00",
       "category": null,
       "headline": "Operational Progress and Strategic Market Update",
       "url": "https://www.investegate.co.uk/announcement/rns/neoterra-group--tera/operational-progress-and-strategic-market-update/9654878",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Operational updates for micro-cap exploration firms like NeoTerra rarely drive immediate valuation shifts without assay results or resource estimates; this likely serves to maintain investor interest rather than signal material financial change.",
+      "key_themes": [
+        "exploration",
+        "investor_relations"
+      ]
     }
   ]
 }

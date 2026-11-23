@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Completion of sale of Croatian geothermal company",
       "url": "https://www.investegate.co.uk/announcement/rns/star-energy-group-plc--star/completion-of-sale-of-croatian-geothermal-company/9823011",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This divestment aligns with Star Energy's strategic pivot away from international geothermal assets toward its core UK renewable portfolio, likely generating a modest one-off gain but offering limited long-term growth catalysts for the share price.",
+      "key_themes": [
+        "Asset Divestment",
+        "Strategic Refocus"
+      ]
     },
     {
       "timestamp": "2026-09-18T07:07:00",
       "category": null,
       "headline": "Notice of Investor Presentation via IMC",
       "url": "https://www.investegate.co.uk/announcement/rns/star-energy-group-plc--star/notice-of-investor-presentation-via-imc/9778801",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/star-energy-group-plc--star/holding-s-in-company/9772869",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +46,7 @@
       "category": "Director Dealing",
       "headline": "Additional Listing Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/star-energy-group-plc--star/additional-listing-director-pdmr-shareholding/9689936",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine disclosure of PDMR shareholding changes typical for STAR's current operational phase; lacks the transformative catalysts like major M&A or significant profit warnings required to drive immediate valuation re-rating in the current energy sector.",
@@ -53,6 +60,7 @@
       "category": null,
       "headline": "Block Listing Six Monthly Return",
       "url": "https://www.investegate.co.uk/announcement/rns/star-energy-group-plc--star/block-listing-six-monthly-return/9629607",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,26 +71,35 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/star-energy-group-plc--star/result-of-agm/9625969",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no intrinsic financial value or strategic shift for Star Energy Group.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-06-18T07:00:00",
       "category": null,
       "headline": "Publication of New Corporate Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/star-energy-group-plc--star/publication-of-new-corporate-presentation/9624283",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations activity with no immediate financial or operational implications for Star Energy Group's valuation or strategy.",
+      "key_themes": [
+        "Investor Relations",
+        "Corporate Communications"
+      ]
     },
     {
       "timestamp": "2026-05-28T09:43:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/star-energy-group-plc--star/director-pdmr-shareholding/9589751",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Star Energy's valuation or operational trajectory, reflecting standard insider compliance rather than strategic shifts.",

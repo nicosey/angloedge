@@ -10,16 +10,21 @@
       "category": "Appointment",
       "headline": "Poundland Ltd: Intention to appoint Administrators",
       "url": "https://www.investegate.co.uk/announcement/rns/supreme--sup/poundland-ltd-intention-to-appoint-administrators/9850655",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This marks the collapse of a high-profile turnaround attempt in the UK discount retail sector, signaling severe liquidity distress and potential asset fire-sales that will intensify competition for remaining players like B&M and Wilko's legacy assets.",
+      "key_themes": [
+        "Retail Insolvency",
+        "Sector Consolidation"
+      ]
     },
     {
       "timestamp": "2026-10-22T07:00:00",
       "category": "Results",
       "headline": "Notice of Results & Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/supreme--sup/notice-of-results-investor-presentation/9835282",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap with historically low liquidity, this announcement serves as a critical visibility event for institutional scrutiny rather than an immediate catalyst for price discovery. The release of results and an investor presentation is standard procedure for maintaining FTSE250 eligibility but offers limited new alpha without accompanying guidance upgrades or strategic pivots.",
@@ -33,16 +38,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/supreme--sup/result-of-agm/9777855",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard procedural filing confirming the outcome of routine shareholder votes at Supreme's AGM, lacking any substantive strategic shifts or material financial disclosures that would alter investor valuation models.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-09-07T07:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/supreme--sup/holding-s-in-company/9757593",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,6 +63,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/supreme--sup/holding-s-in-company/9750415",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,16 +74,21 @@
       "category": null,
       "headline": "Nominated Adviser and Sole Broker",
       "url": "https://www.investegate.co.uk/announcement/rns/supreme--sup/nominated-adviser-and-sole-broker/9728556",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the appointment of financial advisors, likely for potential corporate actions or liquidity provision, but lacks specific transactional details that would signal immediate value creation or strategic shifts in the competitive UK retail sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Advisory Appointment"
+      ]
     },
     {
       "timestamp": "2026-08-18T09:33:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/supreme--sup/holding-s-in-company/9727362",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,16 +99,21 @@
       "category": "AGM/EGM",
       "headline": "Posting of Annual Report & Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/supreme--sup/posting-of-annual-report-notice-of-agm/9727265",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for the Supreme Group (SUP), serving only to convene the Annual General Meeting and distribute statutory reports without triggering immediate price-sensitive corporate actions or strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-07-22T15:56:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/supreme--sup/holding-s-in-company/9682672",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -103,6 +124,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/supreme--sup/director-pdmr-shareholding/9678470",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard disclosure of insider shareholding changes which provides minimal new information for valuation; lacks the transformative catalysts like M&A or earnings guidance required to move the stock significantly.",
@@ -116,6 +138,7 @@
       "category": null,
       "headline": "Grant of Options",
       "url": "https://www.investegate.co.uk/announcement/rns/supreme--sup/grant-of-options/9660745",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -126,6 +149,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/supreme--sup/holding-s-in-company/9655940",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -136,6 +160,7 @@
       "category": null,
       "headline": "Block Admission Return",
       "url": "https://www.investegate.co.uk/announcement/rns/supreme--sup/block-admission-return/9645708",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -146,6 +171,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/supreme--sup/holding-s-in-company/9611788",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/clarkson--ckn/total-voting-rights/9853585",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Block listing Interim Review",
       "url": "https://www.investegate.co.uk/announcement/rns/clarkson--ckn/block-listing-interim-review/9841990",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Block listing application",
       "url": "https://www.investegate.co.uk/announcement/rns/clarkson--ckn/block-listing-application/9829281",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,16 +43,21 @@
       "category": null,
       "headline": "Confirmation of Chief Financial Officer Start Date",
       "url": "https://www.investegate.co.uk/announcement/rns/clarkson--ckn/confirmation-of-chief-financial-officer-start-date/9822355",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative confirmation regarding executive onboarding timing rather than a substantive corporate development; in the current UK market environment, such routine personnel updates carry negligible pricing power or strategic signal.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Appointment"
+      ]
     },
     {
       "timestamp": "2026-10-06T07:00:00",
       "category": "Trading Update",
       "headline": "Trading Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/clarkson--ckn/trading-statement/9807658",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a high-quality compounder in the staffing sector, Clarkson's update is critical for gauging resilience against wage inflation and demand softness; any deviation from consensus will likely trigger significant multiple re-rating given its premium valuation relative to peers like Randstad or Adecco.",
@@ -64,6 +72,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/clarkson--ckn/total-voting-rights/9802082",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -74,26 +83,35 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/clarkson--ckn/directorate-change/9800249",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Directorate changes are standard corporate governance updates with negligible immediate financial impact on Clarkson's core logistics operations, reflecting routine board maintenance rather than strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-09-16T09:00:00",
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/clarkson--ckn/directorate-change/9774950",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine administrative updates to the board composition are standard governance practices for Clarkson and do not signal immediate strategic shifts or value-creating catalysts in the current industrial sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-09-01T12:02:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/clarkson--ckn/total-voting-rights/9749629",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -104,6 +122,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/clarkson--ckn/total-voting-rights/9647512",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -114,6 +133,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/clarkson--ckn/director-pdmr-shareholding/9626184",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of director shareholding changes, which is routine administrative noise in the recruitment sector and lacks the strategic weight to influence CKN's valuation or market sentiment.",
@@ -127,16 +147,21 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/clarkson--ckn/directorate-change/9610059",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative updates to the board composition are standard for Clarkson's ongoing governance structure and carry no immediate financial or strategic weight for shareholders.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-06-01T12:00:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/clarkson--ckn/total-voting-rights/9595150",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

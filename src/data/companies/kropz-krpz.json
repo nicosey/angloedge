@@ -10,56 +10,80 @@
       "category": null,
       "headline": "New Loan Facilities",
       "url": "https://www.investegate.co.uk/announcement/rns/kropz--krpz/new-loan-facilities/9887274",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Securing new loan facilities indicates a need for liquidity to fund operations or growth, which is common in the capital-intensive UK tech sector but introduces leverage risk without immediate revenue visibility.",
+      "key_themes": [
+        "liquidity",
+        "debt_financing",
+        "tech_sector"
+      ]
     },
     {
       "timestamp": "2026-10-23T12:02:00",
       "category": null,
       "headline": "Drawdown on Bridge Loan Facilities",
       "url": "https://www.investegate.co.uk/announcement/rns/kropz--krpz/drawdown-on-bridge-loan-facilities-/9839303",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Kropz is leveraging bridge financing to accelerate its acquisition strategy in the waste management sector, a common tactic for roll-up platforms seeking rapid scale before securing permanent debt or equity. This indicates aggressive expansion but introduces near-term refinancing risk if asset integration or market conditions falter.",
+      "key_themes": [
+        "M&A Financing",
+        "Roll-up Strategy",
+        "Refinancing Risk"
+      ]
     },
     {
       "timestamp": "2026-10-01T07:30:00",
       "category": null,
       "headline": "Suspension - Kropz PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/kropz--krpz/suspension-kropz-plc/9801098",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Suspension of a micro-cap stock like Kropz typically signals severe governance issues, potential insolvency, or regulatory scrutiny by the FCA, effectively freezing liquidity and destroying shareholder value instantly.",
+      "key_themes": [
+        "Liquidity Risk",
+        "Governance Failure",
+        "Micro-cap Volatility"
+      ]
     },
     {
       "timestamp": "2026-09-24T12:51:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/kropz--krpz/result-of-agm/9789652",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no intrinsic valuation impact for Kropz's exploration-stage status.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-09-17T14:27:00",
       "category": null,
       "headline": "Development at the Hinda phosphate project",
       "url": "https://www.investegate.co.uk/announcement/rns/kropz--krpz/development-at-the-hinda-phosphate-project/9778130",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Operational updates for junior explorers like Kropz rarely move markets without assay results or resource estimates; this likely reflects routine project management rather than a material catalyst for valuation.",
+      "key_themes": [
+        "Exploration Update",
+        "Junior Mining"
+      ]
     },
     {
       "timestamp": "2026-09-01T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/kropz--krpz/notice-of-annual-general-meeting/9747521",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,30 +94,44 @@
       "category": null,
       "headline": "Change of Nominated Adviser",
       "url": "https://www.investegate.co.uk/announcement/rns/kropz--krpz/change-of-nominated-adviser/9697122",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "In the UK AIM market, changing a Nomad is often a precursor to seeking a new listing venue or addressing governance concerns, signaling potential strategic shifts rather than operational improvements.",
+      "key_themes": [
+        "Corporate Governance",
+        "AIM Regulatory"
+      ]
     },
     {
       "timestamp": "2026-07-20T09:27:00",
       "category": null,
       "headline": "Drawdown on Bridge Loan Facilities",
       "url": "https://www.investegate.co.uk/announcement/rns/kropz--krpz/drawdown-on-bridge-loan-facilities/9676969",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Kropz is leveraging bridge financing to accelerate its aggressive acquisition strategy in the waste management sector, a common tactic for roll-up platforms but one that increases leverage risk if integration targets are missed.",
+      "key_themes": [
+        "M&A Financing",
+        "Leverage",
+        "Roll-up Strategy"
+      ]
     },
     {
       "timestamp": "2026-07-15T07:00:00",
       "category": null,
       "headline": "New Loan Facility and Operational Update",
       "url": "https://www.investegate.co.uk/announcement/rns/kropz--krpz/new-loan-facility-and-operational-update/9669019",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Securing new debt financing provides critical liquidity for Kropz's expansion into the high-growth cannabis cultivation sector, mitigating immediate cash burn risks but increasing leverage in a capital-intensive industry.",
+      "key_themes": [
+        "liquidity",
+        "cannabis-infrastructure",
+        "debt-financing"
+      ]
     }
   ]
 }

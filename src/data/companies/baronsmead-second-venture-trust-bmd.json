@@ -2,14 +2,26 @@
   "name": "Baronsmead Second Venture Trust",
   "ticker": "BMD",
   "slug": "baronsmead-second-venture-trust-bmd",
-  "announcement_count": 16,
-  "latest_announcement": "2026-11-20T07:05:00",
+  "announcement_count": 17,
+  "latest_announcement": "2026-11-23T10:30:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T10:30:00",
+      "category": null,
+      "headline": "Admission to Trading",
+      "url": "https://www.investegate.co.uk/announcement/rns/baronsmead-second-venture-trust--bmd/admission-to-trading/9888919",
+      "routine_type": "Block Listing / Admission",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T07:05:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/baronsmead-second-venture-trust--bmd/director-pdmr-shareholding/9885448",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry minimal market impact unless they signal significant insider conviction or divergence; without volume or price context, this remains an administrative filing with no immediate strategic implication for BMD's valuation.",
@@ -23,16 +35,22 @@
       "category": null,
       "headline": "Publication of a Prospectus/Offer for Subscription",
       "url": "https://www.investegate.co.uk/announcement/rns/baronsmead-second-venture-trust--bmd/publication-of-a-prospectus-offer-for-subscription/9823340",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Publication of a prospectus indicates an imminent capital raise or subscription offer for the investment trust, which is routine administrative activity rather than a transformative event; while dilution risk exists, it is standard operational procedure for BMD to maintain its portfolio.",
+      "key_themes": [
+        "capital_raise",
+        "investment_trust",
+        "routine_admin"
+      ]
     },
     {
       "timestamp": "2026-10-01T07:15:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/baronsmead-second-venture-trust--bmd/total-voting-rights/9801089",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,6 +61,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/baronsmead-second-venture-trust--bmd/transaction-in-own-shares/9796583",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,6 +72,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/baronsmead-second-venture-trust--bmd/director-pdmr-shareholding-/9780395",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible price impact for the fund; without volume or direction specifics, it remains an administrative filing rather than a signal of strategic intent.",
@@ -66,6 +86,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/baronsmead-second-venture-trust--bmd/director-pdmr-shareholding-/9780389",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically signal low immediate market impact unless volume is exceptional; without transaction specifics, this remains an administrative filing with no material implication for BMD's valuation or strategy.",
@@ -79,6 +100,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/baronsmead-second-venture-trust--bmd/transaction-in-own-shares/9773486",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -89,26 +111,35 @@
       "category": null,
       "headline": "Quarterly Factsheet to 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/baronsmead-second-venture-trust--bmd/quarterly-factsheet-to-30-june-2026-/9761548",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard quarterly factsheet release for an investment trust, providing routine NAV and portfolio updates without triggering any material price-sensitive events or strategic shifts.",
+      "key_themes": [
+        "Routine Disclosure",
+        "Investment Trust"
+      ]
     },
     {
       "timestamp": "2026-09-04T12:45:00",
       "category": null,
       "headline": "Update on Offer for Subscription",
       "url": "https://www.investegate.co.uk/announcement/rns/baronsmead-second-venture-trust--bmd/update-on-offer-for-subscription-/9756811",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Subscription updates are standard procedural communications for investment trusts, indicating no material change in valuation or strategy; they serve primarily to manage liquidity expectations rather than signal performance.",
+      "key_themes": [
+        "Investment Trust",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-01T11:00:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/baronsmead-second-venture-trust--bmd/total-voting-rights/9749420",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -119,6 +150,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/baronsmead-second-venture-trust--bmd/transaction-in-own-shares/9723536",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -129,16 +161,22 @@
       "category": null,
       "headline": "Intention to Launch an Offer for Subscription",
       "url": "https://www.investegate.co.uk/announcement/rns/baronsmead-second-venture-trust--bmd/intention-to-launch-an-offer-for-subscription/9696787",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This capital raise is critical for BMD to maintain its investment capacity in a high-interest-rate environment where cash yields are attractive, though it signals potential NAV dilution for existing shareholders.",
+      "key_themes": [
+        "capital_raise",
+        "investment_company",
+        "nav_dilution"
+      ]
     },
     {
       "timestamp": "2026-07-06T14:45:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/baronsmead-second-venture-trust--bmd/total-voting-rights/9654503",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -149,6 +187,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/baronsmead-second-venture-trust--bmd/transaction-in-own-shares/9635266",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -159,16 +198,21 @@
       "category": null,
       "headline": "Newsletter for the period June 2025 to March 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/baronsmead-second-venture-trust--bmd/newsletter-for-the-period-june-2025-to-march-2026/9599774",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard periodic newsletter for an investment trust, serving as a routine communication channel rather than a catalyst for price action; such updates rarely contain material non-public information or significant strategic shifts.",
+      "key_themes": [
+        "Investment Trust",
+        "Routine Communication"
+      ]
     },
     {
       "timestamp": "2026-06-01T11:26:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/baronsmead-second-venture-trust--bmd/total-voting-rights/9595022",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Disclosure Table",
       "url": "https://www.investegate.co.uk/announcement/rns/dianomi--dnm/disclosure-table/9877278",
+      "routine_type": "Disclosure Table",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,26 +21,36 @@
       "category": null,
       "headline": "Scheme Effective",
       "url": "https://www.investegate.co.uk/announcement/rns/dianomi--dnm/scheme-effective-/9877204",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms the legal completion of a scheme of arrangement, likely a reverse takeover or capital restructuring aimed at stabilizing Dianomi's balance sheet rather than driving organic growth. While it removes immediate insolvency risk, the market typically views such administrative closures as low-impact events compared to substantive operational updates or new strategic partnerships.",
+      "key_themes": [
+        "Corporate Action",
+        "Administrative Closure"
+      ]
     },
     {
       "timestamp": "2026-11-16T07:30:00",
       "category": null,
       "headline": "Suspension - Dianomi plc",
       "url": "https://www.investegate.co.uk/announcement/rns/dianomi--dnm/suspension-dianomi-plc/9876563",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Suspension of a micro-cap tech stock like Dianomi typically signals severe liquidity issues, potential insolvency, or imminent delisting, representing an existential threat to shareholders rather than routine administrative noise.",
+      "key_themes": [
+        "Liquidity Crisis",
+        "Delisting Risk",
+        "Micro-cap Distress"
+      ]
     },
     {
       "timestamp": "2026-11-12T14:15:00",
       "category": "Acquisition",
       "headline": "Court Sanction of Scheme of Arrangement",
       "url": "https://www.investegate.co.uk/announcement/rns/dianomi--dnm/court-sanction-of-scheme-of-arrangement-/9873040",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 8,
       "insight": "The court sanction finalizes the acquisition of Adform by Criteo, marking a significant consolidation in the programmatic advertising sector and removing DNM as an independent entity for shareholders.",
@@ -53,16 +64,21 @@
       "category": null,
       "headline": "Dianomi",
       "url": "https://www.investegate.co.uk/announcement/rns/dianomi--dnm/dianomi/9866155",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The headline 'Dianomi' under the 'Other' category without a descriptive title typically indicates a routine administrative filing, such as a change in registered office address or minor corporate secretarial update, rather than material news. In the absence of specific transactional details, this is classified as low-impact administrative noise with no immediate strategic implications for shareholders.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-11-06T17:30:00",
       "category": "Results",
       "headline": "Results of Scheme Court Meeting & General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/dianomi--dnm/results-of-scheme-court-meeting-general-meeting/9863645",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This announcement confirms the procedural completion of a scheme of arrangement, likely related to a previous capital raise or restructuring effort; without accompanying financial data or new strategic directives, it represents administrative closure rather than a value-driving event for Dianomi's core ad-tech business.",
@@ -76,26 +92,35 @@
       "category": null,
       "headline": "Updated Scheme Timetable",
       "url": "https://www.investegate.co.uk/announcement/rns/dianomi--dnm/updated-scheme-timetable/9853926",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Administrative update to the timeline for an existing scheme of arrangement; while procedural clarity is necessary for execution, it does not alter the fundamental valuation thesis or risk profile of the distressed tech sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Procedural Update"
+      ]
     },
     {
       "timestamp": "2026-10-14T17:20:00",
       "category": null,
       "headline": "Publication of Scheme Document",
       "url": "https://www.investegate.co.uk/announcement/rns/dianomi--dnm/publication-of-scheme-document-/9823442",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The publication of a Scheme Document is a mandatory procedural step in a takeover bid, confirming the transaction's progression but offering no new fundamental valuation data; for Dianomi, this maintains status quo uncertainty regarding its survival as an independent entity amidst ongoing liquidity and governance concerns.",
+      "key_themes": [
+        "Corporate Action",
+        "Takeover Process"
+      ]
     },
     {
       "timestamp": "2026-09-28T17:30:00",
       "category": null,
       "headline": "Form 8 (OPD) - Dianomi PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/dianomi--dnm/form-8-opd-dianomi-plc/9794909",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -106,6 +131,7 @@
       "category": null,
       "headline": "Rule 2.9 Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/dianomi--dnm/rule-2-9-announcement/9780801",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -116,6 +142,7 @@
       "category": null,
       "headline": "Disclosure Table",
       "url": "https://www.investegate.co.uk/announcement/rns/dianomi--dnm/disclosure-table/9779336",
+      "routine_type": "Disclosure Table",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -126,16 +153,22 @@
       "category": "Acquisition",
       "headline": "Recommended Acquisition of Dianomi plc",
       "url": "https://www.investegate.co.uk/announcement/rns/dianomi--dnm/recommended-acquisition-of-dianomi-plc/9778532",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This represents a definitive delisting event for Dianomi, effectively ending its existence as an independent listed entity and terminating the speculative growth narrative associated with its AI-driven marketing platform.",
+      "key_themes": [
+        "Delisting",
+        "M&A Exit",
+        "AI Sector Consolidation"
+      ]
     },
     {
       "timestamp": "2026-08-17T15:15:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/dianomi--dnm/holding-s-in-company/9725841",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -146,6 +179,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/dianomi--dnm/holding-s-in-company/9722796",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -156,16 +190,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/dianomi--dnm/result-of-agm/9637395",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard procedural filing confirming the outcome of shareholder votes at Dianomi's Annual General Meeting, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital raises.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-02T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/dianomi--dnm/notice-of-agm/9596026",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,

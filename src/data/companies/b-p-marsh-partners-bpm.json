@@ -2,14 +2,29 @@
   "name": "B.P. Marsh & Partners",
   "ticker": "BPM",
   "slug": "b-p-marsh-partners-bpm",
-  "announcement_count": 33,
-  "latest_announcement": "2026-11-11T14:04:00",
+  "announcement_count": 34,
+  "latest_announcement": "2026-11-23T09:28:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T09:28:00",
+      "category": null,
+      "headline": "Follow-on Equity Purchase in ATC Insurance",
+      "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/follow-on-equity-purchase-in-atc-insurance-/9888649",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This represents a standard follow-on equity placement by an existing major shareholder, likely for liquidity or portfolio rebalancing rather than strategic expansion. In the insurance sector, such routine capital movements rarely signal fundamental shifts unless accompanied by significant dilution warnings or changes in board control.",
+      "key_themes": [
+        "shareholder activity",
+        "capital structure"
+      ]
+    },
     {
       "timestamp": "2026-11-11T14:04:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/holding-s-in-company/9870558",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +35,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/director-pdmr-shareholding/9868213",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions which carries no intrinsic signal regarding the company's fundamental outlook or strategic direction without volume and price context.",
@@ -33,16 +49,21 @@
       "category": null,
       "headline": "Secondary Share Sale in B.P. Marsh & Partners PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/secondary-share-sale-in-b-p-marsh-partners-plc/9866026",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Secondary share sales typically indicate insider liquidity events rather than strategic shifts, often viewed neutrally by the market unless accompanied by volume anomalies suggesting broader sentiment changes.",
+      "key_themes": [
+        "Insider Dealing",
+        "Liquidity"
+      ]
     },
     {
       "timestamp": "2026-10-07T14:53:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/holding-s-in-company/9811826",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,16 +74,21 @@
       "category": null,
       "headline": "New Investment: Dauntless U/W Limited",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/new-investment-dauntless-u-w-limited/9807688",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement reflects a standard portfolio adjustment by the investment manager rather than an operational event for BPM itself, indicating no immediate change to the company's fundamental value or strategic direction.",
+      "key_themes": [
+        "portfolio_activity",
+        "investment_management"
+      ]
     },
     {
       "timestamp": "2026-09-25T07:00:00",
       "category": null,
       "headline": "Purchase of Own Shares and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/purchase-of-own-shares-and-total-voting-rights/9790280",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,6 +99,7 @@
       "category": "Director Dealing",
       "headline": "PDMR - Correction",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/pdmr-correction/9787420",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "A correction to a PDMR dealing is an administrative adjustment with negligible fundamental impact, indicating no change in the director's actual economic position or market sentiment.",
@@ -86,6 +113,7 @@
       "category": null,
       "headline": "Purchase of Own Shares and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/purchase-of-own-shares-and-total-voting-rights/9785786",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -96,6 +124,7 @@
       "category": "Results",
       "headline": "Notice of HY Results and Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/notice-of-hy-results-and-investor-presentation/9785643",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice for half-year results; without accompanying financial data or commentary, it carries no immediate market-moving weight compared to transformative corporate actions.",
@@ -109,6 +138,7 @@
       "category": null,
       "headline": "Purchase of Own Shares and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/purchase-of-own-shares-and-total-voting-rights/9780754",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -119,6 +149,7 @@
       "category": null,
       "headline": "Purchase of Own Shares and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/purchase-of-own-shares-and-total-voting-rights/9776251",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -129,16 +160,21 @@
       "category": "Director Dealing",
       "headline": "Transaction in Own Shares, Director Dealings & TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/transaction-in-own-shares-director-dealings-tvr/9771746",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard regulatory filing for insider share transactions with no material impact on BPM's valuation or strategy; without specific deal size or direction (buy/sell), it remains an administrative disclosure rather than a market-moving signal.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
     },
     {
       "timestamp": "2026-09-15T07:00:00",
       "category": null,
       "headline": "Correction to RNS 6991U Exercise Of Options & TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/correction-to-rns-6991u-exercise-of-options-tvr-/9771578",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -149,6 +185,7 @@
       "category": null,
       "headline": "Exercise Of Options and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/exercise-of-options-and-total-voting-rights/9771257",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -159,6 +196,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/transaction-in-own-shares/9766673",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -169,6 +207,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/transaction-in-own-shares/9761831",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -179,6 +218,7 @@
       "category": null,
       "headline": "Purchase of Own Shares and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/purchase-of-own-shares-and-total-voting-rights/9721522",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -189,6 +229,7 @@
       "category": null,
       "headline": "Purchase of Own Shares and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/purchase-of-own-shares-and-total-voting-rights/9717904",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -199,6 +240,7 @@
       "category": null,
       "headline": "Transaction in Own Shares and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/transaction-in-own-shares-and-total-voting-rights/9714361",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -209,6 +251,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/transaction-in-own-shares/9690925",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -219,6 +262,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/transaction-in-own-shares/9682987",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -229,6 +273,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/transaction-in-own-shares/9678460",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -239,6 +284,7 @@
       "category": "Share Buyback",
       "headline": "New Share Buyback Programme",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/new-share-buyback-programme/9669794",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Share buybacks are a standard capital allocation tool used to signal confidence or manage EPS dilution rather than drive transformative growth; without disclosed size or funding details, this is likely a routine administrative update with negligible immediate market impact.",
@@ -252,6 +298,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/director-pdmr-shareholding/9666164",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions with no inherent signal regarding corporate strategy or financial health. Without details on the direction (buy/sell) or volume relative to total holdings, it remains an administrative filing with negligible market impact.",
@@ -265,16 +312,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/result-of-agm/9658702",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which typically involves routine ratification of directors and auditor appointments without material strategic shifts or capital allocation changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-07-08T07:01:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/director-pdmr-shareholding/9657359",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions which carries no intrinsic signal regarding the company's strategic direction or financial health without volume and price context.",
@@ -288,6 +340,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/director-pdmr-shareholding/9657194",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry negligible market impact unless accompanied by unusual volume or timing relative to price movements; without specific transaction details, this remains an administrative filing with no immediate strategic implication for BPM.",
@@ -301,36 +354,49 @@
       "category": null,
       "headline": "Investment in Autonomy Investment Partners",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/investment-in-autonomy-investment-partners/9635578",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement reflects a standard private equity co-investment or fund placement typical for mid-market asset managers like BPM, indicating steady deal flow rather than transformative corporate action. It lacks the materiality of a major M&A event or strategic pivot, serving primarily as confirmation of ongoing operational activity in the alternative investment sector.",
+      "key_themes": [
+        "Private Equity",
+        "Fund Raising"
+      ]
     },
     {
       "timestamp": "2026-06-23T07:00:00",
       "category": null,
       "headline": "Receipt of Deferred Consideration",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/receipt-of-deferred-consideration-/9630750",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard cash flow event confirming the realization of previously recognized revenue rather than new value creation; for a small-cap advisory firm like BPM, it provides liquidity but lacks strategic transformative potential.",
+      "key_themes": [
+        "cash_inflow",
+        "administrative"
+      ]
     },
     {
       "timestamp": "2026-06-16T07:01:00",
       "category": "Dividend",
       "headline": "Final Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/final-dividend-declaration/9619748",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a final dividend declaration for a small-cap firm with limited market visibility, this is a routine income distribution event lacking the transformative catalysts required for significant price action or sector-wide precedent.",
+      "key_themes": [
+        "Dividend",
+        "Small Cap"
+      ]
     },
     {
       "timestamp": "2026-06-16T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/notice-of-agm/9619646",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -341,6 +407,7 @@
       "category": "Results",
       "headline": "Final Results for the Year to 31 January 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/final-results-for-the-year-to-31-january-2026/9586628",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a standard annual results release for a mid-cap professional services firm, this provides essential baseline data on fee income and margin trends but lacks the transformative catalysts of M&A or major capital allocation shifts that typically drive significant re-rating in the sector.",
@@ -354,10 +421,14 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/directorate-change/9586481",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative update regarding board composition with no immediate financial or strategic implications for the core business.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     }
   ]
 }

@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/ashington-innovation--ashi/interim-results/9795245",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap entity with negligible liquidity, this interim release serves primarily as a compliance exercise rather than a market-moving event, though it may offer critical visibility into the viability of its innovation-focused business model amidst tight capital markets.",
@@ -23,30 +24,44 @@
       "category": null,
       "headline": "Working Capital Loan",
       "url": "https://www.investegate.co.uk/announcement/rns/ashington-innovation--ashi/working-capital-loan/9777386",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "A working capital loan indicates short-term liquidity management rather than strategic expansion; for a micro-cap like Ashington Innovation, this suggests potential cash flow tightness but lacks the transformative weight of M&A or equity raises.",
+      "key_themes": [
+        "liquidity",
+        "debt_financing",
+        "cash_flow"
+      ]
     },
     {
       "timestamp": "2026-08-10T07:44:00",
       "category": "Acquisition",
       "headline": "Proposed Acquisition of WMG; Suspension of Listing",
       "url": "https://www.investegate.co.uk/announcement/rns/ashington-innovation--ashi/proposed-acquisition-of-wmg-suspension-of-listing/9712707",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "The suspension of listing alongside a proposed acquisition signals a high-stakes corporate restructuring or potential takeover bid, creating significant binary risk for shareholders and indicating a pivotal moment in the company's strategic trajectory.",
+      "key_themes": [
+        "Corporate Restructuring",
+        "M&A Activity",
+        "Listing Suspension"
+      ]
     },
     {
       "timestamp": "2026-06-18T12:30:00",
       "category": "AGM/EGM",
       "headline": "Results of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/ashington-innovation--ashi/results-of-annual-general-meeting/9625879",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results typically confirm standard board re-elections and dividend approvals without altering the fundamental investment thesis or capital structure.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     }
   ]
 }

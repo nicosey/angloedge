@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Tender Results Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/arada-sukuk-limited--ri99/tender-results-announcement/9844165",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "Tender results for a sukuk issuer typically indicate standard debt management or minor capital structure adjustments rather than equity value drivers, reflecting routine administrative activity with negligible impact on ARADA's core real estate operations.",
@@ -23,26 +24,36 @@
       "category": null,
       "headline": "Maximum Acceptance Amount Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/arada-sukuk-limited--ri99/maximum-acceptance-amount-announcement-/9837244",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for the Sukuk programme, confirming the maximum amount of notes eligible for acceptance by the issuer; it carries no intrinsic valuation signal or strategic shift beyond routine debt management.",
+      "key_themes": [
+        "Sukuk",
+        "Administrative",
+        "Debt Issuance"
+      ]
     },
     {
       "timestamp": "2026-10-20T08:51:00",
       "category": null,
       "headline": "Launch of Tender Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/arada-sukuk-limited--ri99/launch-of-tender-offer/9831635",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Tender offers in the UK equity market typically signal a potential change of control or significant shareholder consolidation, often preceding a takeover bid or private equity exit; for ARADA Sukuk, this suggests active capital structure management within the Islamic finance sector.",
+      "key_themes": [
+        "Corporate Action",
+        "Shareholder Consolidation"
+      ]
     },
     {
       "timestamp": "2026-09-17T15:26:00",
       "category": "Results",
       "headline": "Results of Consent Solicitation",
       "url": "https://www.investegate.co.uk/announcement/rns/arada-sukuk-limited--ri99/results-of-consent-solicitation-/9778252",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "Consent solicitations are administrative mechanisms to amend bond covenants rather than fundamental business updates; while they signal potential liquidity stress or restructuring needs, the direct market impact is limited unless accompanied by a default event.",
@@ -56,6 +67,7 @@
       "category": "Results",
       "headline": "Results of Meeting of Certificateholders",
       "url": "https://www.investegate.co.uk/announcement/rns/arada-sukuk-limited--ri99/results-of-meeting-of-certificateholders/9756786",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This RNS pertains to a meeting of certificateholders for an Islamic finance vehicle rather than the operating company's equity performance, indicating a structural or administrative update with negligible direct impact on ARADA Sukuk Limited's share price.",
@@ -69,6 +81,7 @@
       "category": "Results",
       "headline": "Arada Consent Solicitation Results Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/arada-sukuk-limited--ri99/arada-consent-solicitation-results-announcement/9749875",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a procedural disclosure regarding shareholder consent for the Sukuk instrument rather than an operational update; while it confirms the continuation of the company's specific financing structure, it carries no immediate earnings or strategic transformation implications.",
@@ -82,30 +95,42 @@
       "category": null,
       "headline": "Consent Fee Deadline Extension Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/arada-sukuk-limited--ri99/consent-fee-deadline-extension-announcement/9736260",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Administrative extension of a consent fee deadline indicates procedural management rather than fundamental value change; typical for sukuk structures to manage investor timelines without altering core credit risk.",
+      "key_themes": [
+        "Corporate Action",
+        "Sukuk"
+      ]
     },
     {
       "timestamp": "2026-08-12T12:46:00",
       "category": null,
       "headline": "Launch of Consent Soliciation",
       "url": "https://www.investegate.co.uk/announcement/rns/arada-sukuk-limited--ri99/launch-of-consent-soliciation/9718420",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Consent solicitations are standard procedural mechanisms for modifying bond covenants or terms, typically indicating routine debt management rather than strategic distress or transformative growth.",
+      "key_themes": [
+        "debt_management",
+        "corporate_action"
+      ]
     },
     {
       "timestamp": "2026-06-25T08:20:00",
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/arada-sukuk-limited--ri99/annual-financial-report/9636397",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a standard annual report filing for a niche sukuk issuer, this lacks the transformative catalysts required for significant price action; market focus remains on yield stability and asset quality rather than growth narratives.",
+      "key_themes": [
+        "annual results",
+        "fixed income"
+      ]
     }
   ]
 }

@@ -10,16 +10,22 @@
       "category": "Dividend",
       "headline": "Q3 2026 Trading Update and Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/regional-reit-limited--rgl/q3-2026-trading-update-and-dividend-declaration-/9871307",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "In a high-yield sector where capital preservation is paramount, this update signals management's commitment to dividend stability despite potential interest rate headwinds, reinforcing RGL's positioning as a defensive income play amidst UK retail property volatility.",
+      "key_themes": [
+        "Dividend Stability",
+        "UK Retail REITs",
+        "Income Strategy"
+      ]
     },
     {
       "timestamp": "2026-10-08T13:29:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/regional-reit-limited--rgl/director-pdmr-shareholding/9814003",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements in the UK REIT sector are typically low-impact administrative disclosures unless they signal significant insider conviction; without volume or price context, this lacks transformative strategic weight.",
@@ -33,6 +39,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/regional-reit-limited--rgl/director-pdmr-shareholding/9798990",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible market impact unless accompanied by aggregate insider buying/selling patterns indicating strong conviction; routine in nature for a REIT with stable dividend focus.",
@@ -46,6 +53,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/regional-reit-limited--rgl/director-pdmr-shareholding/9787690",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures in the UK REIT sector are typically low-impact administrative events unless accompanied by significant block trades; without volume or price context, this suggests no immediate strategic shift.",
@@ -59,6 +67,7 @@
       "category": null,
       "headline": "Investor Presentation via Investor Meet Company",
       "url": "https://www.investegate.co.uk/announcement/rns/regional-reit-limited--rgl/investor-presentation-via-investor-meet-company/9752634",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -69,20 +78,28 @@
       "category": null,
       "headline": "Edison issues report on Regional REIT (RGL)",
       "url": "https://www.investegate.co.uk/announcement/eqs/regional-reit-limited--rgl/edison-issues-report-on-regional-reit-rgl-/9627581",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Third-party research reports from brokers like Edison are informational rather than transactional, offering no immediate catalyst for price discovery compared to earnings or dividends.",
+      "key_themes": [
+        "analyst_coverage",
+        "informational"
+      ]
     },
     {
       "timestamp": "2026-06-18T07:00:00",
       "category": null,
       "headline": "£1.1m of New Rent Secured for 2 Nottingham Offices",
       "url": "https://www.investegate.co.uk/announcement/rns/regional-reit-limited--rgl/-1-1m-of-new-rent-secured-for-2-nottingham-offices/9624280",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "While securing new rent is positive for occupancy metrics, the £1.1m absolute value is immaterial to RGL's overall portfolio yield and reflects routine leasing activity rather than a strategic inflection point in the current UK office market.",
+      "key_themes": [
+        "Office Sector",
+        "Leasing Activity"
+      ]
     }
   ]
 }

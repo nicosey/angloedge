@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/ebiquity--ebq/holding-s-in-company/9848879",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Notice of Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/ebiquity--ebq/notice-of-investor-presentation-/9772953",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/ebiquity--ebq/notice-of-results-/9772951",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the release of results rather than the results themselves; without data on Ebiquity's specific performance in the volatile ESG and corporate reputation advisory sector, it holds no immediate market-moving weight.",
@@ -43,6 +46,7 @@
       "category": null,
       "headline": "Notification of Major Holding",
       "url": "https://www.investegate.co.uk/announcement/rns/ebiquity--ebq/notification-of-major-holding-/9689774",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,10 +57,14 @@
       "category": null,
       "headline": "CAPITAL MARKETS DAY",
       "url": "https://www.investegate.co.uk/announcement/rns/ebiquity--ebq/capital-markets-day/9641717",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Capital Markets Days in the UK AIM tech sector often signal a pivot toward aggressive growth strategies or new financing to fund expansion, serving as a critical catalyst for re-rating stagnant valuations.",
+      "key_themes": [
+        "Investor Relations",
+        "Strategic Outlook"
+      ]
     }
   ]
 }

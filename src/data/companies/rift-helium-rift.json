@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Half Year Results and Operational Update",
       "url": "https://www.investegate.co.uk/announcement/rns/rift-helium-plc--rift/half-year-results-and-operational-update/9773931",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap exploration stage company, Rift Helium's interim results are critical for validating cash burn rates and drilling progress without the distraction of major corporate actions. The market will scrutinize operational updates against the backdrop of rising helium demand and supply constraints, though the lack of commercial production limits immediate financial impact.",
@@ -24,26 +25,35 @@
       "category": "AGM/EGM",
       "headline": "Result of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/rift-helium-plc--rift/result-of-annual-general-meeting/9658932",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for a micro-cap exploration firm typically involve rubber-stamping board reappointments and auditor fees with no material strategic shift or capital event.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap"
+      ]
     },
     {
       "timestamp": "2026-06-30T07:00:00",
       "category": null,
       "headline": "Greenwood Capital Issues Research Report",
       "url": "https://www.investegate.co.uk/announcement/rns/rift-helium-plc--rift/greenwood-capital-issues-research-report/9643062",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Greenwood Capital's research report provides independent analyst coverage for a micro-cap stock, potentially enhancing liquidity and visibility but lacking the transformative catalysts of M&A or earnings surprises typical of higher-impact RNS filings.",
+      "key_themes": [
+        "analyst_coverage",
+        "micro_cap_visibility"
+      ]
     },
     {
       "timestamp": "2026-06-26T15:05:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/rift-helium-plc--rift/holding-s-in-company/9639962",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -54,20 +64,28 @@
       "category": null,
       "headline": "Zeus Initiates Research & Conference Attendance",
       "url": "https://www.investegate.co.uk/announcement/rns/rift-helium-plc--rift/zeus-initiates-research-conference-attendance/9629619",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations update with no immediate financial or operational catalysts; in the current speculative helium market, such announcements serve primarily to maintain visibility rather than signal material value creation.",
+      "key_themes": [
+        "Investor Relations",
+        "Market Visibility"
+      ]
     },
     {
       "timestamp": "2026-06-15T07:00:00",
       "category": "Results",
       "headline": "Annual Financial Report & Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/rift-helium-plc--rift/annual-financial-report-notice-of-agm-/9617108",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a micro-cap exploration company with no revenue, this annual report is primarily an administrative filing detailing cash burn and exploration progress rather than a catalyst for valuation change.",
+      "key_themes": [
+        "Corporate Governance",
+        "Exploration Update"
+      ]
     }
   ]
 }

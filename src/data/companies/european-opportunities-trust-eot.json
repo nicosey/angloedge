@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/european-opportunities-trust--eot/total-voting-rights/9700872",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,21 @@
       "category": null,
       "headline": "Result of Elections",
       "url": "https://www.investegate.co.uk/announcement/rns/european-opportunities-trust--eot/result-of-elections/9694397",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine governance update regarding board composition changes; while continuity is key for investment trusts, this lacks the material financial or strategic weight to influence valuation multiples or immediate investor sentiment.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-07-28T13:27:00",
       "category": "Results",
       "headline": "Results of First General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/european-opportunities-trust--eot/results-of-first-general-meeting/9691639",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative filing confirming the outcome of an Annual General Meeting rather than a substantive trading update or financial result, offering no new alpha for valuation models.",
@@ -43,6 +49,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/european-opportunities-trust--eot/holding-s-in-company/9688628",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,6 +60,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/european-opportunities-trust--eot/holding-s-in-company/9679417",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,26 +71,35 @@
       "category": null,
       "headline": "Portfolio Update",
       "url": "https://www.investegate.co.uk/announcement/rns/european-opportunities-trust--eot/portfolio-update/9650332",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Portfolio updates are standard informational disclosures for investment trusts that rarely trigger immediate price action unless they signal a drastic shift in strategy or significant valuation changes not yet priced in.",
+      "key_themes": [
+        "investment trust",
+        "portfolio disclosure"
+      ]
     },
     {
       "timestamp": "2026-07-02T07:00:00",
       "category": null,
       "headline": "Publication of Circular",
       "url": "https://www.investegate.co.uk/announcement/rns/european-opportunities-trust--eot/publication-of-circular/9648457",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative filing for an Investment Trust, typically containing details of the Annual General Meeting or proxy voting instructions rather than material corporate action.",
+      "key_themes": [
+        "Corporate Governance",
+        "Investment Trust"
+      ]
     },
     {
       "timestamp": "2026-07-01T09:47:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/european-opportunities-trust--eot/total-voting-rights/9647034",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -93,16 +110,21 @@
       "category": null,
       "headline": "Portfolio Update",
       "url": "https://www.investegate.co.uk/announcement/rns/european-opportunities-trust--eot/portfolio-update/9599957",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Portfolio updates are standard informational disclosures for investment trusts that rarely drive immediate price action unless they signal a drastic shift in strategy; without specific details on significant position changes, this remains a routine administrative update.",
+      "key_themes": [
+        "Investment Trust",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-06-01T10:12:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/european-opportunities-trust--eot/total-voting-rights/9594740",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -113,10 +135,15 @@
       "category": null,
       "headline": "Result of Strategic Review",
       "url": "https://www.investegate.co.uk/announcement/rns/european-opportunities-trust--eot/result-of-strategic-review/9590946",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Strategic reviews for closed-end funds often signal potential NAV discounts to market price, raising the spectre of a premium/discount management action such as a tender offer or share buyback; this is a common precursor to value-unlocking measures in the current UK investment trust landscape.",
+      "key_themes": [
+        "Investment Trust",
+        "Strategic Review",
+        "Premium/Discount Management"
+      ]
     }
   ]
 }

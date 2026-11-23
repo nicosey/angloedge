@@ -10,16 +10,21 @@
       "category": null,
       "headline": "MoU signed with Centre for Process Innovation",
       "url": "https://www.investegate.co.uk/announcement/rns/abingdon-health--abdx/mou-signed-with-centre-for-process-innovation/9875797",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This MoU signals early-stage validation of ABDX's technology within the UK's advanced manufacturing ecosystem, offering potential pathway to commercialization but lacking immediate revenue visibility or binding commitment.",
+      "key_themes": [
+        "R&D Collaboration",
+        "UK Manufacturing"
+      ]
     },
     {
       "timestamp": "2026-11-11T10:13:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM & availability of 2026 Annual Report",
       "url": "https://www.investegate.co.uk/announcement/rns/abingdon-health--abdx/notice-of-agm-availability-of-2026-annual-report/9869964",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/abingdon-health--abdx/notice-of-results/9810112",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the publication date of results rather than disclosing financial data; for ABDX, market attention will focus on guidance updates regarding NHS procurement cycles and potential margin pressures in the diagnostic sector.",
@@ -43,40 +49,58 @@
       "category": null,
       "headline": "UKAS ISO/IEC 17025 accreditation",
       "url": "https://www.investegate.co.uk/announcement/rns/abingdon-health--abdx/ukas-iso-iec-17025-accreditation/9795290",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This accreditation validates the technical competence of ABDX's reference laboratories for IVD testing, a standard operational requirement rather than a growth catalyst; while it reinforces quality assurance for NHS and commercial clients, it does not alter the company's financial trajectory or competitive moat in the short term.",
+      "key_themes": [
+        "Quality Assurance",
+        "Regulatory Compliance",
+        "IVD Sector"
+      ]
     },
     {
       "timestamp": "2026-09-25T07:00:00",
       "category": null,
       "headline": "Official opening of manufacturing hub in the US",
       "url": "https://www.investegate.co.uk/announcement/rns/abingdon-health--abdx/official-opening-of-manufacturing-hub-in-the-us/9790315",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Establishing US manufacturing capacity is a critical strategic enabler for ABDX to capture the growing global demand for point-of-care testing and reduce reliance on overseas supply chains, though it represents a capex-heavy execution phase rather than immediate earnings accretion.",
+      "key_themes": [
+        "Supply Chain Diversification",
+        "US Market Expansion",
+        "Capex Cycle"
+      ]
     },
     {
       "timestamp": "2026-09-08T07:00:00",
       "category": null,
       "headline": "Shareholder open day",
       "url": "https://www.investegate.co.uk/announcement/rns/abingdon-health--abdx/shareholder-open-day-/9759946",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Shareholder open days are standard investor relations exercises aimed at transparency rather than value-creating events; they carry no immediate financial implication for ABDX's valuation or capital structure.",
+      "key_themes": [
+        "Investor Relations",
+        "Corporate Communications"
+      ]
     },
     {
       "timestamp": "2026-05-29T07:00:00",
       "category": null,
       "headline": "Presentation at Mello2026",
       "url": "https://www.investegate.co.uk/announcement/rns/abingdon-health--abdx/presentation-at-mello2026/9590954",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Conference presentations are standard investor relations activities that rarely drive immediate valuation changes; without disclosed commercial deals or financial metrics, this lacks the substance to influence ABDX's near-term trajectory.",
+      "key_themes": [
+        "Investor Relations",
+        "Corporate Communications"
+      ]
     }
   ]
 }

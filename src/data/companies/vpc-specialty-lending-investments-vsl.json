@@ -10,26 +10,36 @@
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/vpc-specialty-lending-investments--vsl/half-year-financial-report-/9792810",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a closed-end fund heavily exposed to the commercial real estate (CRE) sector, VSL's half-year results are critical for assessing asset valuation adjustments and liquidity management amid rising interest rates. The market will scrutinize net asset value (NAV) stability and distribution coverage ratios more than headline earnings, given the sector's ongoing deleveraging pressures.",
+      "key_themes": [
+        "Commercial Real Estate",
+        "Closed-End Fund",
+        "Interest Rate Sensitivity"
+      ]
     },
     {
       "timestamp": "2026-09-16T11:30:00",
       "category": null,
       "headline": "Portfolio Update",
       "url": "https://www.investegate.co.uk/announcement/rns/vpc-specialty-lending-investments--vsl/portfolio-update/9775401",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a closed-end fund, VSL's portfolio updates are informational rather than transformative, lacking the binding commitments of M&A or capital raises that typically drive significant UK equity volatility.",
+      "key_themes": [
+        "fund-management",
+        "informational-update"
+      ]
     },
     {
       "timestamp": "2026-07-27T16:23:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/vpc-specialty-lending-investments--vsl/holding-s-in-company/9689656",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,10 +50,14 @@
       "category": "Appointment",
       "headline": "Board Update",
       "url": "https://www.investegate.co.uk/announcement/rns/vpc-specialty-lending-investments--vsl/board-update/9614571",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Board updates for VSL typically signal administrative continuity rather than strategic disruption; without details on executive changes or capital allocation shifts, the market impact is limited to minor sentiment adjustments within the private credit sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     }
   ]
 }

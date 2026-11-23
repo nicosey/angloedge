@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Half-year Results to 30 September 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/sysgroup--sys/half-year-results-to-30-september-2026/9880542",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a mid-cap IT services provider, SYS's interim results are critical for gauging resilience in the face of persistent tech procurement caution and margin pressure from wage inflation; any deviation in order book growth will signal broader sector sentiment towards near-term contract renewals.",
@@ -24,6 +25,7 @@
       "category": "Results",
       "headline": "Notice of Results, Investor Presentation and Mello",
       "url": "https://www.investegate.co.uk/announcement/rns/sysgroup--sys/notice-of-results-investor-presentation-and-mello/9844634",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "The inclusion of 'Mello' alongside results suggests a strategic pivot towards digital health or telemedicine integration, reflecting the broader UK tech sector's consolidation and diversification into high-growth verticals beyond core IT services.",
@@ -38,36 +40,50 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/sysgroup--sys/result-of-agm/9778087",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard procedural filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director re-election and auditor appointment rather than strategic shifts or capital allocation changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-09-17T07:00:00",
       "category": "AGM/EGM",
       "headline": "AGM Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/sysgroup--sys/agm-statement/9776259",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the convening of an Annual General Meeting, which carries no immediate financial or strategic weight for Sysgroup's valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-08-11T07:00:00",
       "category": null,
       "headline": "£1m+ cyber wins; first UK&I MSP on Rubrik PayGo",
       "url": "https://www.investegate.co.uk/announcement/rns/sysgroup--sys/-1m-cyber-wins-first-uk-i-msp-on-rubrik-paygo/9714404",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The Rubrik PayGo partnership positions Sysgroup as a first-mover in the UK&I MSP market, capitalizing on the accelerating shift from CapEx to OpEx models for cybersecurity infrastructure. While £1m+ in new wins is positive, the strategic value lies in differentiating their service offering against competitors amid intensifying ransomware threats and cloud security demand.",
+      "key_themes": [
+        "Cybersecurity",
+        "Cloud Infrastructure",
+        "MSP Innovation"
+      ]
     },
     {
       "timestamp": "2026-08-05T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM and Publication of Accounts",
       "url": "https://www.investegate.co.uk/announcement/rns/sysgroup--sys/notice-of-agm-and-publication-of-accounts-/9704897",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -78,6 +94,7 @@
       "category": "Director Dealing",
       "headline": "Director Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/sysgroup--sys/director-dealing/9666662",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in the IT services sector typically signal low immediate volatility unless accompanied by block trades; without volume context, this remains an administrative filing with negligible price impact.",
@@ -91,6 +108,7 @@
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/sysgroup--sys/notice-of-results/9648455",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the publication date of results rather than the results themselves; without accompanying financial data or commentary, it holds no immediate market-moving weight for Sysgroup's valuation.",
@@ -104,6 +122,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/sysgroup--sys/holding-s-in-company/9628231",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

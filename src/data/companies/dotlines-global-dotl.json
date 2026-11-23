@@ -2,14 +2,29 @@
   "name": "Dotlines Global Limited",
   "ticker": "DOTL",
   "slug": "dotlines-global-dotl",
-  "announcement_count": 5,
-  "latest_announcement": "2026-11-20T12:49:00",
+  "announcement_count": 6,
+  "latest_announcement": "2026-11-23T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T07:00:00",
+      "category": null,
+      "headline": "Third ISP goes live with Catena",
+      "url": "https://www.investegate.co.uk/announcement/rns/dotlines-global-limited--dotl/third-isp-goes-live-with-catena/9887560",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The activation of a third ISP confirms commercial traction for Dotlines' Catena platform, validating the B2B SaaS model but representing incremental rather than transformative growth given the company's micro-cap status and historical execution challenges.",
+      "key_themes": [
+        "Commercial Traction",
+        "SaaS Validation"
+      ]
+    },
     {
       "timestamp": "2026-11-20T12:49:00",
       "category": null,
       "headline": "Issue of equity and total voting rights",
       "url": "https://www.investegate.co.uk/announcement/rns/dotlines-global-limited--dotl/issue-of-equity-and-total-voting-rights/9886910",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +35,7 @@
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/dotlines-global-limited--dotl/interim-results/9798413",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap AIM listing with historically low liquidity and limited analyst coverage, this interim update serves primarily as a compliance exercise rather than a catalyst for significant price discovery, though it may offer marginal visibility into the firm's niche digital infrastructure revenue streams.",
@@ -34,6 +50,7 @@
       "category": null,
       "headline": "New Debt Facility, Issue of Equity and TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/dotlines-global-limited--dotl/new-debt-facility-issue-of-equity-and-tvr/9746058",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -44,6 +61,7 @@
       "category": "Results",
       "headline": "Financial Results of Operating Subsidiaries",
       "url": "https://www.investegate.co.uk/announcement/rns/dotlines-global-limited--dotl/financial-results-of-operating-subsidiaries-/9645269",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a shell company with no operating subsidiaries, this announcement is likely administrative or erroneous, offering zero fundamental value to investors in the UK micro-cap sector.",
@@ -57,10 +75,14 @@
       "category": null,
       "headline": "Change of Accounting Reference Date",
       "url": "https://www.investegate.co.uk/announcement/rns/dotlines-global-limited--dotl/change-of-accounting-reference-date-/9634890",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative adjustment to the financial year-end, likely aligning reporting cycles with fiscal periods or internal planning; it carries no inherent commercial significance for Dotlines Global's valuation or operational trajectory.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     }
   ]
 }

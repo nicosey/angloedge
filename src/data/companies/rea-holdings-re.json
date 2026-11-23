@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "R.E.A. Holdings plc: Half yearly results",
       "url": "https://www.investegate.co.uk/announcement/eqs/rea-holdings--re./r-e-a-holdings-plc-half-yearly-results/9785891",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a niche UK small-cap, this interim update provides essential visibility into the group's operational resilience and cash flow generation amidst rising interest rates, though it lacks the transformative catalysts required for significant re-rating.",
@@ -23,30 +24,42 @@
       "category": "AGM/EGM",
       "headline": "R.E.A. Holdings plc: Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/eqs/rea-holdings--re./r-e-a-holdings-plc-result-of-agm/9611691",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results typically confirm standard shareholder approvals with no material strategic shifts or capital events, reflecting low immediate volatility potential for REA Holdings.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-10T07:00:00",
       "category": "AGM/EGM",
       "headline": "R.E.A. Holdings plc: AGM Statement",
       "url": "https://www.investegate.co.uk/announcement/eqs/rea-holdings--re./r-e-a-holdings-plc-agm-statement/9610302",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the convening of an Annual General Meeting, which carries no immediate financial or strategic weight for shareholders.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-06-04T07:00:00",
       "category": "Dividend",
       "headline": "R.E.A. Holdings plc: Dividend in respect of 9 per cent cumulative preference shares",
       "url": "https://www.investegate.co.uk/announcement/eqs/rea-holdings--re./r-e-a-holdings-plc-dividend-in-respect-of-9-/9600959",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard distribution on fixed-income preference shares, indicating no change in equity capital structure or strategic direction. Such announcements are routine administrative events with negligible impact on common share valuation or market sentiment.",
+      "key_themes": [
+        "fixed income",
+        "routine disclosure"
+      ]
     }
   ]
 }

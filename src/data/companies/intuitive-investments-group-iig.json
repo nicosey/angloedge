@@ -10,16 +10,22 @@
       "category": null,
       "headline": "Cancellation - Intuitive Investments Group plc",
       "url": "https://www.investegate.co.uk/announcement/rns/intuitive-investments-group--iig/cancellation-intuitive-investments-group-plc/9722226",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Cancellation of a listing typically signals the company has fallen below minimum share price or market capitalisation requirements, often preceding a delisting or reverse takeover; for IIG, this suggests a loss of public market status and liquidity rather than an operational crisis.",
+      "key_themes": [
+        "Delisting",
+        "Corporate Action",
+        "Liquidity Risk"
+      ]
     },
     {
       "timestamp": "2026-08-13T10:50:00",
       "category": null,
       "headline": "Disclosure Table",
       "url": "https://www.investegate.co.uk/announcement/rns/intuitive-investments-group--iig/disclosure-table/9720586",
+      "routine_type": "Disclosure Table",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,46 +36,65 @@
       "category": null,
       "headline": "Scheme Effective",
       "url": "https://www.investegate.co.uk/announcement/rns/intuitive-investments-group--iig/scheme-effective/9720566",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The Scheme Effective status confirms the successful completion of a corporate restructuring or takeover bid, removing execution uncertainty for shareholders. While this finalizes the transaction, it typically marks the end of the speculative phase, often leading to reduced liquidity and volatility as the stock transitions to its new post-deal state.",
+      "key_themes": [
+        "Corporate Action",
+        "Transaction Completion"
+      ]
     },
     {
       "timestamp": "2026-08-13T07:30:00",
       "category": null,
       "headline": "Suspension - Intuitive Investments Group plc",
       "url": "https://www.investegate.co.uk/announcement/rns/intuitive-investments-group--iig/suspension-intuitive-investments-group-plc/9719861",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Suspensions of AIM-listed investment trusts like IIG typically signal severe liquidity crises, governance breakdowns, or imminent delisting risks, often preceding a return to private status or insolvency proceedings.",
+      "key_themes": [
+        "AIM",
+        "Governance Risk",
+        "Liquidity Crisis"
+      ]
     },
     {
       "timestamp": "2026-08-06T14:00:00",
       "category": null,
       "headline": "Court Sanction of the Scheme",
       "url": "https://www.investegate.co.uk/announcement/rns/intuitive-investments-group--iig/court-sanction-of-the-scheme/9709172",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "Court sanction is the critical legal milestone for a scheme of arrangement, effectively guaranteeing the transaction's completion barring unforeseen appeals; this typically triggers immediate re-rating as the deal risk premium evaporates.",
+      "key_themes": [
+        "Corporate Action",
+        "Deal Completion",
+        "M&A"
+      ]
     },
     {
       "timestamp": "2026-08-03T18:12:00",
       "category": "AGM/EGM",
       "headline": "Results of the Court Meeting and General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/intuitive-investments-group--iig/results-of-the-court-meeting-and-general-meeting/9702281",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This RNS confirms the procedural conclusion of shareholder votes for Intuitive Investments Group, likely ratifying a capital raise or restructuring plan essential for its private equity strategy; while critical for governance, it represents a routine administrative step rather than a new market-moving catalyst.",
+      "key_themes": [
+        "Corporate Governance",
+        "Capital Raising"
+      ]
     },
     {
       "timestamp": "2026-07-10T13:49:00",
       "category": null,
       "headline": "Exercise of Warrants, Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/intuitive-investments-group--iig/exercise-of-warrants-issue-of-equity/9663700",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,16 +105,21 @@
       "category": null,
       "headline": "Publication and posting of Scheme Document",
       "url": "https://www.investegate.co.uk/announcement/rns/intuitive-investments-group--iig/publication-and-posting-of-scheme-document/9661777",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement marks a procedural milestone in the ongoing takeover bid by Intuitive Capital, confirming the formal distribution of scheme documents to shareholders rather than signaling new strategic developments or financial performance shifts.",
+      "key_themes": [
+        "Corporate Action",
+        "Takeover Process"
+      ]
     },
     {
       "timestamp": "2026-07-08T07:00:00",
       "category": null,
       "headline": "Issue of Equity, Amendment to Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/intuitive-investments-group--iig/issue-of-equity-amendment-to-warrants-/9657221",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -100,10 +130,14 @@
       "category": "Acquisition",
       "headline": "Further Extension of PUSU Deadline",
       "url": "https://www.investegate.co.uk/announcement/rns/intuitive-investments-group--iig/further-extension-of-pusu-deadline/9598424",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This is a procedural extension of the Puttable Unit Shareholder's Option (PUSU) deadline, indicating no immediate liquidity event for shareholders and reflecting standard administrative timelines rather than strategic shifts or value-creating catalysts.",
+      "key_themes": [
+        "PUSU",
+        "Administrative"
+      ]
     }
   ]
 }

@@ -2,24 +2,40 @@
   "name": "Majedie Investments",
   "ticker": "MAJE",
   "slug": "majedie-investments-maje",
-  "announcement_count": 11,
-  "latest_announcement": "2026-11-06T10:13:00",
+  "announcement_count": 12,
+  "latest_announcement": "2026-11-23T07:00:00",
   "announcements": [
     {
-      "timestamp": "2026-11-06T10:13:00",
+      "timestamp": "2026-11-23T07:00:00",
       "category": null,
-      "headline": "Portfolio Manager Commentary",
-      "url": "https://www.investegate.co.uk/announcement/rns/majedie-investments--maje/portfolio-manager-commentary/9862836",
+      "headline": "Authority to Issue Shares and Block Admission",
+      "url": "https://www.investegate.co.uk/announcement/rns/majedie-investments--maje/authority-to-issue-shares-and-block-admission/9887543",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
       "key_themes": null
     },
     {
+      "timestamp": "2026-11-06T10:13:00",
+      "category": null,
+      "headline": "Portfolio Manager Commentary",
+      "url": "https://www.investegate.co.uk/announcement/rns/majedie-investments--maje/portfolio-manager-commentary/9862836",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Portfolio manager commentaries are standard informational updates that rarely drive immediate price action or signal structural changes in the fund's strategy.",
+      "key_themes": [
+        "Investor Relations",
+        "Routine Disclosure"
+      ]
+    },
+    {
       "timestamp": "2026-11-02T10:07:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/majedie-investments--maje/total-voting-rights/9853098",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,16 +46,21 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/majedie-investments--maje/dividend-declaration/9848532",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine dividend declaration for a closed-end investment trust; while it signals cash generation capability, it lacks the transformative catalysts required to drive significant re-rating in the current high-yield environment.",
+      "key_themes": [
+        "Income",
+        "Closed-End Fund"
+      ]
     },
     {
       "timestamp": "2026-10-01T10:15:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/majedie-investments--maje/total-voting-rights/9801648",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +71,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/majedie-investments--maje/total-voting-rights/9749201",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +82,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/majedie-investments--maje/total-voting-rights/9700864",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,16 +93,21 @@
       "category": null,
       "headline": "Manager Commentary Quarter Ended 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/majedie-investments--maje/manager-commentary-quarter-ended-30-june-2026/9691190",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a closed-end fund, this commentary provides essential insight into net asset value (NAV) performance and portfolio positioning ahead of the next valuation date, directly influencing investor sentiment on premium/discount dynamics in the UK CEF sector.",
+      "key_themes": [
+        "NAV Performance",
+        "Portfolio Strategy"
+      ]
     },
     {
       "timestamp": "2026-07-01T09:49:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/majedie-investments--maje/total-voting-rights/9647042",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,16 +118,21 @@
       "category": null,
       "headline": "Estimated Net Asset Value",
       "url": "https://www.investegate.co.uk/announcement/rns/majedie-investments--maje/estimated-net-asset-value/9611952",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure of the fund's NAV, lacking any new strategic developments or material valuation shifts that would alter market sentiment.",
+      "key_themes": [
+        "NAV Disclosure",
+        "Routine Reporting"
+      ]
     },
     {
       "timestamp": "2026-06-09T07:00:00",
       "category": null,
       "headline": "Kepler Trust Intelligence: New Research",
       "url": "https://www.investegate.co.uk/announcement/rns/majedie-investments--maje/kepler-trust-intelligence-new-research/9607781",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -110,6 +143,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/majedie-investments--maje/total-voting-rights/9594748",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

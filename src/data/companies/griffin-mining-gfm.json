@@ -10,16 +10,21 @@
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/griffin-mining-ltd---gfm/half-year-financial-report/9765337",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a small-cap miner with limited liquidity, this interim report provides essential visibility on operational continuity and cash flow but lacks the transformative catalysts required for significant price discovery.",
+      "key_themes": [
+        "Interim Results",
+        "Small Cap Mining"
+      ]
     },
     {
       "timestamp": "2026-08-03T14:00:00",
       "category": null,
       "headline": "Change of Registered Office",
       "url": "https://www.investegate.co.uk/announcement/rns/griffin-mining-ltd---gfm/change-of-registered-office/9701806",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": "Share Buyback",
       "headline": "Result of Share Buyback",
       "url": "https://www.investegate.co.uk/announcement/rns/griffin-mining-ltd---gfm/result-of-share-buyback/9630760",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "As a small-cap miner with limited liquidity, Griffin Mining's share buyback serves primarily as a minor capital management tool rather than a signal of undervaluation or transformative strategy, reflecting routine administrative activity in the current resource sector environment.",
@@ -43,16 +49,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/griffin-mining-ltd---gfm/result-of-agm/9614405",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no immediate financial or strategic weight for Griffin Mining's operations or valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-06-03T07:00:00",
       "category": "Share Buyback",
       "headline": "SHARE BUY BACK PROGRAMME",
       "url": "https://www.investegate.co.uk/announcement/rns/griffin-mining-ltd---gfm/share-buy-back-programme/9598425",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Griffin Mining's buyback signals management confidence in the company's financial position and aims to support the share price amidst the volatile base metals market, though it represents a minor capital allocation action rather than a strategic pivot.",
@@ -67,10 +78,14 @@
       "category": "AGM/EGM",
       "headline": "ANNUAL GENERAL MEETING",
       "url": "https://www.investegate.co.uk/announcement/rns/griffin-mining-ltd---gfm/annual-general-meeting/9588701",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM notices are standard corporate governance events with negligible immediate financial impact, though they provide a forum for shareholder scrutiny on mining sector capital allocation and ESG compliance.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Engagement"
+      ]
     }
   ]
 }

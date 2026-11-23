@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Interim Results for the 6 months to 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/prn/nomad-compute-plc--nmd/interim-results-for-the-6-months-to-30-june-2-/9799747",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a speculative small-cap in the high-volatility AI infrastructure sector, this interim results release is critical for validating revenue traction and cash burn rates against current market skepticism regarding unprofitable tech growth stocks.",
@@ -23,26 +24,35 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/prn/nomad-compute-plc--nmd/directorate-change/9780148",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative update regarding board composition changes; without details on the appointee's background or a concurrent strategic shift, this lacks immediate market-moving catalysts for a small-cap tech stock.",
+      "key_themes": [
+        "corporate_governance",
+        "board_changes"
+      ]
     },
     {
       "timestamp": "2026-09-07T16:05:00",
       "category": "Appointment",
       "headline": "Directorate Change",
       "url": "https://www.investegate.co.uk/announcement/rns/nomad-compute-plc--nmd/directorate-change/9759593",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative change with no immediate financial or strategic implication for Nomad Compute PLC's core operations in the UK tech infrastructure sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-08T17:41:00",
       "category": "Results",
       "headline": "Corrective announcement - Results General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/nomad-compute-plc--nmd/corrective-announcement-results-general-meeting/9607560",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "A corrective announcement regarding a General Meeting is typically an administrative error with negligible fundamental impact on valuation, though it may signal internal governance friction or operational sloppiness in a small-cap tech firm.",
@@ -56,10 +66,14 @@
       "category": "AGM/EGM",
       "headline": "Results of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/nomad-compute-plc--nmd/results-of-general-meeting-/9604965",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting disclosure confirming the outcome of routine shareholder votes, likely concerning statutory approvals or minor governance matters rather than transformative capital events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     }
   ]
 }

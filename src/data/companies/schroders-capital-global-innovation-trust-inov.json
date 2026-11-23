@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/schroders-capital-global-innovation-trust--inov/holding-s-in-company/9866134",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/schroders-capital-global-innovation-trust--inov/director-pdmr-shareholding/9834662",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on INOV's valuation or strategy, reflecting normal liquidity management rather than a signal of significant insider conviction or divergence.",
@@ -33,6 +35,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/schroders-capital-global-innovation-trust--inov/director-pdmr-shareholding/9809784",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on share price dynamics or valuation metrics for a closed-end fund like INOV.",
@@ -46,6 +49,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/schroders-capital-global-innovation-trust--inov/director-pdmr-shareholding/9807437",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures in closed-end investment trusts typically reflect personal portfolio management rather than strategic shifts, offering negligible signal for the underlying global innovation mandate.",
@@ -59,6 +63,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/schroders-capital-global-innovation-trust--inov/total-voting-rights/9800006",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -69,26 +74,36 @@
       "category": null,
       "headline": "Final Tender Price and Basic Entitlement",
       "url": "https://www.investegate.co.uk/announcement/rns/schroders-capital-global-innovation-trust--inov/final-tender-price-and-basic-entitlement/9776252",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement finalizes the mechanics of a tender offer, likely related to the fund's ongoing discount management strategy rather than transformative corporate action. While it provides clarity on shareholder entitlements, it lacks the strategic weight of major M&A or significant capital raises.",
+      "key_themes": [
+        "Tender Offer",
+        "Discount Management",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-08-13T07:00:00",
       "category": null,
       "headline": "Change of Auditor",
       "url": "https://www.investegate.co.uk/announcement/rns/schroders-capital-global-innovation-trust--inov/change-of-auditor/9719094",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative change with negligible immediate financial impact; however, in the current audit market climate, any auditor transition warrants scrutiny for potential underlying governance concerns or fee pressures common among smaller AIM-listed investment trusts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-09T17:11:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/schroders-capital-global-innovation-trust--inov/holding-s-in-company/9609854",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -99,20 +114,28 @@
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/schroders-capital-global-innovation-trust--inov/result-of-general-meeting/9598106",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a standard AGM result for an investment trust, this announcement confirms routine governance approvals rather than signaling any strategic shift or material capital event, reflecting the typical low-impact nature of such administrative filings in the UK equity market.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-06-02T16:12:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/schroders-capital-global-innovation-trust--inov/result-of-agm/9598105",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director re-election and auditor appointment rather than strategic shifts or capital changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     }
   ]
 }

@@ -10,6 +10,7 @@
       "category": null,
       "headline": "EQS-CMS: CANCOM SE: Release of a capital market information",
       "url": "https://www.investegate.co.uk/announcement/eqs/cancom-se--0o0f/eqs-cms-cancom-se-release-of-a-capital-mark-/9867487",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "EQS-CMS: CANCOM SE: Release of a capital market information",
       "url": "https://www.investegate.co.uk/announcement/eqs/cancom-se--0o0f/eqs-cms-cancom-se-release-of-a-capital-mark-/9807498",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "EQS-CMS: CANCOM SE: Release of a capital market information",
       "url": "https://www.investegate.co.uk/announcement/eqs/cancom-se--0o0f/eqs-cms-cancom-se-release-of-a-capital-mark-/9783031",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,46 +43,65 @@
       "category": "Share Buyback",
       "headline": "EQS-Adhoc: CANCOM SE: CANCOM decides on share buyback",
       "url": "https://www.investegate.co.uk/announcement/eqs/cancom-se--0o0f/eqs-adhoc-cancom-se-cancom-decides-on-share-/9749938",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This announcement signals management's confidence in Cancom's valuation and cash flow generation within the competitive UK IT services sector, where buybacks are increasingly used to offset dilution from share-based compensation and support EPS growth.",
+      "key_themes": [
+        "capital allocation",
+        "shareholder return",
+        "IT services"
+      ]
     },
     {
       "timestamp": "2026-08-13T11:47:00",
       "category": null,
       "headline": "EQS-DD: CANCOM SE: Rüdiger Rath, Kauf",
       "url": "https://www.investegate.co.uk/announcement/eqs/cancom-se--0o0f/eqs-dd-cancom-se-r-diger-rath-kauf/9720584",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard insider transaction disclosure with no material impact on corporate strategy or valuation; such routine director dealings are common in the IT services sector and do not signal significant market-moving events.",
+      "key_themes": [
+        "Insider Dealing",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-08-13T11:47:00",
       "category": null,
       "headline": "EQS-DD: CANCOM SE: Rüdiger Rath, buy",
       "url": "https://www.investegate.co.uk/announcement/eqs/cancom-se--0o0f/eqs-dd-cancom-se-r-diger-rath-buy/9720583",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard insider transaction disclosure reflecting personal portfolio management rather than corporate strategy; such routine director dealings carry negligible signal for equity valuation.",
+      "key_themes": [
+        "Insider Dealing",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-08-11T07:00:00",
       "category": null,
       "headline": "EQS-News: CANCOM SE continues to significantly strengthen profitability in H1.26",
       "url": "https://www.investegate.co.uk/announcement/eqs/cancom-se--0o0f/eqs-news-cancom-se-continues-to-significantl-/9714642",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The headline confirms continued margin expansion in the UK IT services sector, a critical metric given current cost-of-capital pressures and competitive intensity. While validating management's operational discipline, the lack of specific revenue growth or guidance updates limits immediate market re-rating potential.",
+      "key_themes": [
+        "profitability",
+        "IT services",
+        "operational efficiency"
+      ]
     },
     {
       "timestamp": "2026-08-04T17:02:00",
       "category": "Dividend",
       "headline": "EQS-PVR: CANCOM SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
       "url": "https://www.investegate.co.uk/announcement/eqs/cancom-se--0o0f/eqs-pvr-cancom-se-release-according-to-arti-/9704650",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,6 +112,7 @@
       "category": "Dividend",
       "headline": "EQS-PVR: CANCOM SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
       "url": "https://www.investegate.co.uk/announcement/eqs/cancom-se--0o0f/eqs-pvr-cancom-se-release-according-to-arti-/9704649",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -100,16 +123,21 @@
       "category": "AGM/EGM",
       "headline": "EQS-News: CANCOM SE: Annual General Meeting approves all proposed resolutions by a large majority",
       "url": "https://www.investegate.co.uk/announcement/eqs/cancom-se--0o0f/eqs-news-cancom-se-annual-general-meeting-a-/9623800",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine corporate governance event confirming shareholder approval for standard annual resolutions; lacks the transformative catalysts or financial data required to influence valuation multiples.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-16T17:00:00",
       "category": "Dividend",
       "headline": "EQS-PVR: CANCOM SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
       "url": "https://www.investegate.co.uk/announcement/eqs/cancom-se--0o0f/eqs-pvr-cancom-se-release-according-to-arti-/9621612",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -120,6 +148,7 @@
       "category": "Dividend",
       "headline": "EQS-PVR: CANCOM SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
       "url": "https://www.investegate.co.uk/announcement/eqs/cancom-se--0o0f/eqs-pvr-cancom-se-release-according-to-arti-/9619216",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

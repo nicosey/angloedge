@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholdings",
       "url": "https://www.investegate.co.uk/announcement/prn/capital-for-colleagues-plc--cfcp/director-pdmr-shareholdings/9856457",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director shareholdings lacks the materiality to influence valuation; without context on transaction direction (buy/sell) or volume relative to total float, this is purely administrative data with no immediate strategic implication for Capital for Colleagues plc.",
@@ -23,6 +24,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholdings",
       "url": "https://www.investegate.co.uk/announcement/prn/capital-for-colleagues-plc--cfcp/director-pdmr-shareholdings/9804441",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible signal for institutional investors compared to aggregate insider net buying/selling trends.",
@@ -36,6 +38,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholdings",
       "url": "https://www.investegate.co.uk/announcement/prn/capital-for-colleagues-plc--cfcp/director-pdmr-shareholdings/9763538",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing notifications are standard regulatory disclosures with negligible immediate market impact; without details on direction (buy/sell) or volume relative to total holdings, this data lacks the signal strength to influence valuation.",
@@ -49,6 +52,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/prn/capital-for-colleagues-plc--cfcp/holding-s-in-company/9725929",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -59,10 +63,14 @@
       "category": null,
       "headline": "Portfolio Update - Morris Commercial Ltd",
       "url": "https://www.investegate.co.uk/announcement/prn/capital-for-colleagues-plc--cfcp/portfolio-update-morris-commercial-ltd/9615972",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a niche asset manager focused on private equity debt, this update reflects standard portfolio monitoring rather than a material catalyst for share price movement; without details on valuation adjustments or new commitments, it lacks the transformative nature required for high scoring.",
+      "key_themes": [
+        "portfolio_monitoring",
+        "niche_lending"
+      ]
     }
   ]
 }

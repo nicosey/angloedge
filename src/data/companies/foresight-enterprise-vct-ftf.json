@@ -10,16 +10,22 @@
       "category": null,
       "headline": "Offer Document Posted",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-enterprise-vct--ftf/offer-document-posted/9870907",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Posting an offer document is a standard procedural step for VCT fundraising rounds, indicating routine capital raising rather than transformative corporate activity; market reaction will depend on the specific subscription terms and discount to NAV.",
+      "key_themes": [
+        "VCT",
+        "Capital Raising",
+        "Fund Management"
+      ]
     },
     {
       "timestamp": "2026-10-30T15:30:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-enterprise-vct--ftf/total-voting-rights/9851374",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +36,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-enterprise-vct--ftf/transaction-in-own-shares/9816041",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,16 +47,22 @@
       "category": "Placing",
       "headline": "Intention to Fundraise",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-enterprise-vct--ftf/intention-to-fundraise/9768505",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This capital raise is critical for Foresight Enterprise VCT to maintain its investment pipeline in the UK private equity market, where deal flow has tightened significantly due to higher interest rates and valuation compression. The move underscores the sector-wide pressure on VCTs to replenish liquidity to meet regulatory requirements and sustain distributions.",
+      "key_themes": [
+        "VCT",
+        "Capital Raise",
+        "Private Equity Liquidity"
+      ]
     },
     {
       "timestamp": "2026-08-07T11:10:00",
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-enterprise-vct--ftf/director-declaration/9711008",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,16 +73,21 @@
       "category": "Appointment",
       "headline": "Correction: Appointment of Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-enterprise-vct--ftf/correction-appointment-of-non-executive-dire-/9699289",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This correction to a Non-Executive Director appointment is an administrative update with negligible fundamental impact on Foresight Enterprise VCT's investment strategy or valuation, as governance changes of this nature are routine and do not signal strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative Update"
+      ]
     },
     {
       "timestamp": "2026-07-24T12:15:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-enterprise-vct--ftf/director-pdmr-shareholding/9686947",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine disclosure of individual director transactions in a VCT structure typically carries negligible market impact unless the volume is substantial relative to float; without specific deal details, this remains an administrative filing with no strategic implication for FTF's valuation.",
@@ -83,6 +101,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-enterprise-vct--ftf/issue-of-equity/9686932",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -93,6 +112,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-enterprise-vct--ftf/transaction-in-own-shares/9652450",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -103,20 +123,28 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-enterprise-vct--ftf/dividend-declaration/9637483",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This declaration confirms the fund's ongoing commitment to income generation amidst a challenging UK equity market, reinforcing its appeal to yield-seeking retail investors but offering no growth catalysts for capital appreciation.",
+      "key_themes": [
+        "VCT Income",
+        "Retail Yield"
+      ]
     },
     {
       "timestamp": "2026-06-12T14:50:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-enterprise-vct--ftf/result-of-agm/9616637",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for a VCT typically confirm standard investment policy adherence and dividend declarations without triggering immediate price volatility, reflecting the sector's focus on stable yield over growth.",
+      "key_themes": [
+        "Corporate Governance",
+        "VCT Sector"
+      ]
     }
   ]
 }

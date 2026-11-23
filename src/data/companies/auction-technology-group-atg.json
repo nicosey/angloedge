@@ -10,36 +10,50 @@
       "category": null,
       "headline": "Publication of Circular",
       "url": "https://www.investegate.co.uk/announcement/rns/auction-technology-group--atg/publication-of-circular-/9873625",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing accompanying a previous corporate action, likely a share buyback or capital reduction, rather than a standalone event with immediate price impact.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-10-26T12:50:00",
       "category": null,
       "headline": "Requisition notice from FitzWalter Capital Limited",
       "url": "https://www.investegate.co.uk/announcement/rns/auction-technology-group--atg/requisition-notice-from-fitzwalter-capital-limited/9841771",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "FitzWalter Capital's requisition notice signals active shareholder pressure for strategic change or governance reform, a common catalyst in the small-cap auction sector where value realization is often contested. This increases the probability of a board reshuffle or strategic review, potentially unlocking latent value but introducing short-term volatility.",
+      "key_themes": [
+        "Corporate Governance",
+        "Activist Investor",
+        "Small Cap"
+      ]
     },
     {
       "timestamp": "2026-10-22T12:08:00",
       "category": null,
       "headline": "Strategic partnership with Jeff Martin",
       "url": "https://www.investegate.co.uk/announcement/rns/auction-technology-group--atg/strategic-partnership-with-jeff-martin-/9836868",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This partnership leverages Jeff Martin's brand to enhance auction engagement but represents a marginal tactical move rather than a structural shift in ATG's competitive positioning within the UK online auction sector.",
+      "key_themes": [
+        "brand endorsement",
+        "user acquisition"
+      ]
     },
     {
       "timestamp": "2026-07-03T09:48:00",
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/auction-technology-group--atg/director-declaration/9651769",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +64,7 @@
       "category": null,
       "headline": "Transfer of Treasury Shares & Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/auction-technology-group--atg/transfer-of-treasury-shares-total-voting-rights/9597600",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +75,7 @@
       "category": "Director Dealing",
       "headline": "Notification of Transaction by PDMR",
       "url": "https://www.investegate.co.uk/announcement/rns/auction-technology-group--atg/notification-of-transaction-by-pdmr/9592489",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard PDMR notification with no inherent market-moving significance; without volume or price data, it cannot signal insider conviction or divergence, reflecting routine compliance rather than strategic shift.",

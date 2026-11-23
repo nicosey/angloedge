@@ -10,16 +10,21 @@
       "category": null,
       "headline": "First patient successfully treated with ChemoSeed",
       "url": "https://www.investegate.co.uk/announcement/rns/crism-therapeutics-corporation-ord-npv--crtx/first-patient-successfully-treated-with-chemoseed/9878234",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This milestone validates the proprietary ChemoSeed technology platform but represents a pre-commercial proof-of-concept rather than immediate revenue generation; clinical-stage biotech valuation remains highly sensitive to binary trial outcomes and cash burn rates.",
+      "key_themes": [
+        "Clinical Milestone",
+        "Platform Validation"
+      ]
     },
     {
       "timestamp": "2026-11-02T15:50:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/crism-therapeutics-corporation-ord-npv--crtx/holding-s-in-company/9854164",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,16 +35,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/crism-therapeutics-corporation-ord-npv--crtx/result-of-agm/9843981",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting disclosure confirming the outcome of routine shareholder approvals, likely involving minor administrative matters rather than strategic shifts. In the biotech sector, such announcements are common housekeeping items that do not signal new capital raises, M&A activity, or clinical catalysts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-10-02T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/crism-therapeutics-corporation-ord-npv--crtx/notice-of-agm/9803046",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +60,7 @@
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/crism-therapeutics-corporation-ord-npv--crtx/interim-results/9780752",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a pre-revenue biotech, interim results are critical for assessing cash burn rates and clinical milestone progress against the backdrop of tightening venture capital liquidity in the UK life sciences sector.",
@@ -64,16 +75,22 @@
       "category": null,
       "headline": "Commencement of Patient Recruitment",
       "url": "https://www.investegate.co.uk/announcement/rns/crism-therapeutics-corporation-ord-npv--crtx/commencement-of-patient-recruitment/9732148",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Patient recruitment marks a critical operational milestone in the clinical development lifecycle, validating trial execution but offering no immediate revenue catalyst; for small-cap biotechs like CRTX, this is routine progress rather than a value-inflecting event.",
+      "key_themes": [
+        "clinical_development",
+        "biotech_pipeline",
+        "operational_milestone"
+      ]
     },
     {
       "timestamp": "2026-07-29T16:02:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/crism-therapeutics-corporation-ord-npv--crtx/holding-s-in-company/9694407",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -84,16 +101,21 @@
       "category": null,
       "headline": "Result of Shareholder Analysis",
       "url": "https://www.investegate.co.uk/announcement/rns/crism-therapeutics-corporation-ord-npv--crtx/result-of-shareholder-analysis/9687766",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Shareholder analysis updates are standard administrative disclosures with no immediate financial or operational impact, reflecting routine regulatory compliance rather than strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-30T15:30:00",
       "category": null,
       "headline": "Grant of Options",
       "url": "https://www.investegate.co.uk/announcement/rns/crism-therapeutics-corporation-ord-npv--crtx/grant-of-options-/9645220",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -104,6 +126,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/crism-therapeutics-corporation-ord-npv--crtx/holding-s-in-company/9629604",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -114,6 +137,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/crism-therapeutics-corporation-ord-npv--crtx/holding-s-in-company/9621628",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -124,46 +148,65 @@
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/crism-therapeutics-corporation-ord-npv--crtx/result-of-general-meeting-/9618603",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a biotech firm in the post-IPO phase, this AGM result is primarily procedural, confirming shareholder ratification of standard governance matters rather than signaling strategic shifts or capital raises.",
+      "key_themes": [
+        "Corporate Governance",
+        "Biotech"
+      ]
     },
     {
       "timestamp": "2026-06-04T07:00:00",
       "category": null,
       "headline": "Significant Grant Award",
       "url": "https://www.investegate.co.uk/announcement/rns/crism-therapeutics-corporation-ord-npv--crtx/significant-grant-award/9600723",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "A significant grant award for a pre-revenue biotech like Crism Therapeutics provides critical runway to advance clinical trials without immediate dilution, directly mitigating near-term financing risk in a capital-intensive sector.",
+      "key_themes": [
+        "funding",
+        "biotech",
+        "cash_runway"
+      ]
     },
     {
       "timestamp": "2026-06-01T07:00:00",
       "category": null,
       "headline": "Grant Award",
       "url": "https://www.investegate.co.uk/announcement/rns/crism-therapeutics-corporation-ord-npv--crtx/grant-award/9593417",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Grant awards are standard administrative equity compensation events in biotech, typically having negligible immediate impact on share price unless the volume is exceptionally large relative to float.",
+      "key_themes": [
+        "Corporate Governance",
+        "Equity Compensation"
+      ]
     },
     {
       "timestamp": "2026-05-28T13:35:00",
       "category": "Placing",
       "headline": "Result of Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/crism-therapeutics-corporation-ord-npv--crtx/result-of-retail-offer/9590417",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The successful conclusion of the retail offer component validates investor appetite for Crism Therapeutics' pipeline, providing essential non-dilutive validation alongside the institutional placing to fund clinical development without immediate cash flow distress.",
+      "key_themes": [
+        "capital_raise",
+        "biotech_funding",
+        "retail_demand"
+      ]
     },
     {
       "timestamp": "2026-05-27T09:34:00",
       "category": null,
       "headline": "Notice of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/crism-therapeutics-corporation-ord-npv--crtx/notice-of-general-meeting/9587499",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,

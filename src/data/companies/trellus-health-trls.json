@@ -10,70 +10,102 @@
       "category": "Appointment",
       "headline": "Appointment of Administrators & Nomad Resignation",
       "url": "https://www.investegate.co.uk/announcement/rns/trellus-health--trls/appointment-of-administrators-nomad-resignation-/9737125",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Appointment of administrators signals insolvency and imminent delisting for a micro-cap biotech, effectively wiping out equity value; this mirrors the collapse of other speculative UK life science firms lacking near-term commercialisation or funding.",
+      "key_themes": [
+        "Insolvency",
+        "Biotech Sector Risk",
+        "Equity Wipeout"
+      ]
     },
     {
       "timestamp": "2026-08-21T07:00:00",
       "category": "Appointment",
       "headline": "Notice of intention to appoint Administrators",
       "url": "https://www.investegate.co.uk/announcement/rns/trellus-health--trls/notice-of-intention-to-appoint-administrators/9733072",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Appointment of administrators signals imminent insolvency and total equity dilution/wipeout for shareholders, a catastrophic outcome for any listed entity regardless of sector stage.",
+      "key_themes": [
+        "Insolvency",
+        "Equity Wipeout",
+        "Corporate Failure"
+      ]
     },
     {
       "timestamp": "2026-08-12T07:00:00",
       "category": null,
       "headline": "Loan and Related Party Transaction",
       "url": "https://www.investegate.co.uk/announcement/rns/trellus-health--trls/loan-and-related-party-transaction/9716769",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Related party loans in biotech often signal liquidity constraints or internal capital allocation inefficiencies rather than organic growth; this raises governance concerns for a pre-revenue entity dependent on external funding rounds.",
+      "key_themes": [
+        "governance",
+        "liquidity",
+        "related_party_transaction"
+      ]
     },
     {
       "timestamp": "2026-07-31T16:20:00",
       "category": null,
       "headline": "Update",
       "url": "https://www.investegate.co.uk/announcement/rns/trellus-health--trls/update/9699292",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Without specific details on the update's content, this is classified as a routine administrative disclosure typical for pre-market cap biotechs; investors should await the actual text to assess any material shift in clinical milestones or cash runway.",
+      "key_themes": [
+        "RNS Update",
+        "Biotech"
+      ]
     },
     {
       "timestamp": "2026-07-06T18:00:00",
       "category": null,
       "headline": "Trellus Health",
       "url": "https://www.investegate.co.uk/announcement/rns/trellus-health--trls/trellus-health/9654735",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The absence of substantive content in the RNS headline suggests a routine administrative filing or boilerplate update with no immediate financial or strategic implications for shareholders.",
+      "key_themes": [
+        "Administrative",
+        "No Material Change"
+      ]
     },
     {
       "timestamp": "2026-06-30T18:30:00",
       "category": null,
       "headline": "Delay to Publication of Annual Report and Accounts",
       "url": "https://www.investegate.co.uk/announcement/rns/trellus-health--trls/delay-to-publication-of-annual-report-and-accounts/9645461",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Delays in publishing annual accounts for UK small-cap biotech firms often signal underlying accounting complexities or audit disagreements, raising red flags regarding financial transparency and potential liquidity constraints.",
+      "key_themes": [
+        "governance_risk",
+        "audit_delay",
+        "small_cap_volatility"
+      ]
     },
     {
       "timestamp": "2026-06-19T07:00:00",
       "category": null,
       "headline": "Update",
       "url": "https://www.investegate.co.uk/announcement/rns/trellus-health--trls/update/9626575",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Without the specific text of the update, this is classified as administrative; however, Trellus Health's reliance on clinical trial milestones means any non-material progress report has negligible immediate financial impact compared to binary outcome events.",
+      "key_themes": [
+        "Biotech",
+        "Clinical Development"
+      ]
     }
   ]
 }

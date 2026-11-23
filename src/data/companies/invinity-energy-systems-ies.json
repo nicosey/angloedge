@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Dairyland Power Cooperative Project Update",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/dairyland-power-cooperative-project-update/9880594",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This update likely confirms project execution milestones rather than financial materiality, typical for IES's current phase of securing grid connections and permitting in the US market. While it validates operational progress, it lacks the revenue recognition or contract value required to significantly alter valuation multiples compared to transformative events.",
+      "key_themes": [
+        "Project Execution",
+        "US Market Expansion"
+      ]
     },
     {
       "timestamp": "2026-11-13T10:03:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/holding-s-in-company/9874545",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/holding-s-in-company/9872840",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,26 +46,35 @@
       "category": "Appointment",
       "headline": "Result of Meeting, Board Changes and TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/result-of-meeting-board-changes-and-tvr/9870559",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The appointment of a new CEO with deep decarbonisation expertise signals a strategic pivot to capitalise on UK net-zero infrastructure spending, addressing prior governance concerns and aligning management with the sector's consolidation trend.",
+      "key_themes": [
+        "Leadership Change",
+        "Decarbonisation Strategy"
+      ]
     },
     {
       "timestamp": "2026-11-09T07:00:00",
       "category": null,
       "headline": "Endurium Performance Upgrade",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/endurium-performance-upgrade/9863998",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The Endurium upgrade signals tangible progress in IES's proprietary battery technology, addressing critical energy density and cost hurdles in the UK's emerging long-duration storage market. This enhances commercial viability for grid-scale projects but remains a product development milestone rather than an immediate revenue inflection point.",
+      "key_themes": [
+        "Energy Storage",
+        "Technology Validation"
+      ]
     },
     {
       "timestamp": "2026-10-23T11:00:00",
       "category": null,
       "headline": "Posting of Circular and Notice of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/posting-of-circular-and-notice-of-general-meeting/9838931",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,16 +85,22 @@
       "category": null,
       "headline": "Capital Access Window- Invinity Energy Systems Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/capital-access-window-invinity-energy-systems-plc/9836075",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative notice confirming the opening of a capital raising window rather than a substantive transaction; without disclosed size or pricing, it signals potential dilution risk but lacks immediate transformative impact for Invinity Energy Systems.",
+      "key_themes": [
+        "Capital Raising",
+        "Dilution Risk",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-10-20T15:41:00",
       "category": "Placing",
       "headline": "Result of Placing",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/result-of-placing/9832526",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "This placing likely represents a critical liquidity injection for IES to fund working capital and R&D in the competitive heat pump sector, mitigating immediate solvency risks but signaling potential dilution for existing shareholders amid broader market consolidation.",
@@ -94,56 +115,82 @@
       "category": "Placing",
       "headline": "WRAP Retail Offer for up to £5,000,000",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/wrap-retail-offer-for-up-to-5-000-000-/9830803",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The £5m placing via WRAP Retail targets retail liquidity in a niche EV charging market, signaling a need for working capital to support growth but raising dilution concerns amidst recent sector consolidation.",
+      "key_themes": [
+        "capital_raise",
+        "retail_investor_focus",
+        "ev_infrastructure"
+      ]
     },
     {
       "timestamp": "2026-10-20T07:00:00",
       "category": "Placing",
       "headline": "Proposed Fundraising of a minimum of £20 million",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/proposed-fundraising-of-a-minimum-of-20-million/9830673",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "A £20m+ capital raise for a small-cap energy infrastructure firm signals urgent liquidity needs to fund growth or service debt, reflecting the high capital intensity and financing pressures currently facing the UK renewable sector.",
+      "key_themes": [
+        "Capital Raise",
+        "Energy Infrastructure",
+        "Dilution Risk"
+      ]
     },
     {
       "timestamp": "2026-10-19T11:19:00",
       "category": "Placing",
       "headline": "Statement Regarding Proposed Fundraise",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/statement-regarding-proposed-fundraise-/9829715",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "The capital raise is critical for IES to fund working capital and R&D in the competitive UK energy storage market, mitigating immediate liquidity risks but diluting existing shareholders.",
+      "key_themes": [
+        "capital_raise",
+        "liquidity_management",
+        "energy_storage_sector"
+      ]
     },
     {
       "timestamp": "2026-10-19T07:30:00",
       "category": null,
       "headline": "Capital Access Window- Invinity Energy Systems Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/capital-access-window-invinity-energy-systems-plc/9829064",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative notice confirming the opening of a capital raising window rather than a completed transaction; while necessary for liquidity in the capital-intensive renewable energy sector, it signals potential dilution risk without guaranteeing successful funding.",
+      "key_themes": [
+        "Capital Raising",
+        "Dilution Risk",
+        "Renewable Energy Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-10-01T07:03:00",
       "category": null,
       "headline": "California VFB Surpasses 1 GWh of Energy Delivered",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/california-vfb-surpasses-1-gwh-of-energy-delivered/9800559",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This operational milestone validates IES's technology scalability but lacks immediate financial quantification; in the current UK AIM energy storage sector, such updates serve primarily as sentiment maintenance rather than value drivers without accompanying revenue guidance or contract disclosures.",
+      "key_themes": [
+        "Operational Milestone",
+        "Energy Storage",
+        "Technology Validation"
+      ]
     },
     {
       "timestamp": "2026-09-21T07:00:00",
       "category": "Results",
       "headline": "2026 Interims Results",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/2026-interims-results/9780784",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a small-cap renewable infrastructure player, IES's interim results provide critical visibility on project execution margins and cash flow generation in a high-interest-rate environment, though they lack the transformative catalysts of major M&A or strategic pivots.",
@@ -157,56 +204,81 @@
       "category": null,
       "headline": "UK Trade Commissioner for Europe Visits FlexBase",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/uk-trade-commissioner-for-europe-visits-flexbase/9765345",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a low-impact PR event highlighting government engagement rather than material financial performance or contract wins; while it signals potential policy tailwinds for the energy storage sector, it lacks immediate revenue visibility or binding commercial commitments.",
+      "key_themes": [
+        "Government Relations",
+        "Energy Storage"
+      ]
     },
     {
       "timestamp": "2026-08-11T07:00:00",
       "category": null,
       "headline": "Progress on FlexBase Project Delivery",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/progress-on-flexbase-project-delivery/9714407",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Progress on the FlexBase project signals operational execution in the UK's emerging grid stability market, validating IES's technology against competitors like Fluence and Tesla; however, as a delivery update rather than a financial result, it confirms roadmap adherence without immediately altering valuation multiples.",
+      "key_themes": [
+        "Grid Stability",
+        "Project Execution",
+        "Energy Storage"
+      ]
     },
     {
       "timestamp": "2026-08-04T07:00:00",
       "category": null,
       "headline": "Invinity Exceeds 10 GWh Dispatched for Customers",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/invinity-exceeds-10-gwh-dispatched-for-customers/9702469",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Crossing the 10 GWh milestone validates IES's commercial traction in the UK energy storage market, addressing key investor concerns regarding project execution and revenue visibility ahead of potential financing rounds or IPO readiness.",
+      "key_themes": [
+        "Energy Storage",
+        "Commercial Traction",
+        "Renewable Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-08-03T07:00:00",
       "category": null,
       "headline": "43 MWh Sale to U.S. Power Cooperative",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/43-mwh-sale-to-u-s-power-cooperative/9699759",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This represents a critical commercial validation of IES's proprietary flow battery technology in the high-growth US market, demonstrating tangible revenue generation and de-risking future scaling efforts amid intensifying global energy storage competition.",
+      "key_themes": [
+        "Commercial Validation",
+        "US Market Entry",
+        "Energy Storage"
+      ]
     },
     {
       "timestamp": "2026-07-31T14:30:00",
       "category": "Appointment",
       "headline": "Appointment of Joint Broker",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/appointment-of-joint-broker/9699085",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Appointing a joint broker signals a strategic pivot to enhance liquidity and market visibility for this small-cap renewable infrastructure firm, likely in preparation for capital raising or M&A activity amidst the sector's consolidation trend.",
+      "key_themes": [
+        "liquidity enhancement",
+        "capital markets access",
+        "renewable energy"
+      ]
     },
     {
       "timestamp": "2026-07-13T13:30:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/holding-s-in-company/9666035",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -217,36 +289,50 @@
       "category": "Appointment",
       "headline": "Appointment of Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/appointment-of-non-executive-director/9640562",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine governance update for a small-cap energy infrastructure firm; while strengthening the board is positive, non-executive appointments rarely drive immediate alpha without accompanying strategic mandates or capital allocation changes.",
+      "key_themes": [
+        "Governance",
+        "Small Cap"
+      ]
     },
     {
       "timestamp": "2026-06-26T09:29:00",
       "category": null,
       "headline": "Update on UK LDES Cap and Floor Scheme",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/update-on-uk-ldes-cap-and-floor-scheme/9639092",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The UK LDES Cap and Floor scheme provides critical revenue certainty for long-duration storage assets, directly de-risking the business case for IES's technology and potentially accelerating project bankability in a sector currently constrained by financing costs.",
+      "key_themes": [
+        "UK Energy Policy",
+        "Revenue Support Mechanism",
+        "Energy Storage"
+      ]
     },
     {
       "timestamp": "2026-06-25T14:32:00",
       "category": "AGM/EGM",
       "headline": "Result of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/result-of-annual-general-meeting/9637443",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine shareholder ratification of governance matters carries negligible immediate financial impact for IES, which remains heavily dependent on execution of its renewable energy infrastructure pipeline rather than corporate housekeeping.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-25T11:30:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/holding-s-in-company/9637098",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -257,6 +343,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/holding-s-in-company/9634173",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -267,16 +354,21 @@
       "category": null,
       "headline": "32 MWh Sale to U.S. Steel Mill",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/32-mwh-sale-to-u-s-steel-mill/9617246",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Validates IES's technology in the high-value industrial decarbonisation sector, though the direct financial impact is likely marginal given the company's current scale and reliance on future project pipelines rather than immediate revenue recognition.",
+      "key_themes": [
+        "Industrial Decarbonisation",
+        "Commercial Validation"
+      ]
     },
     {
       "timestamp": "2026-06-01T16:18:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM and Posting of Annual Report",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/notice-of-agm-and-posting-of-annual-report/9595701",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -287,10 +379,14 @@
       "category": null,
       "headline": "2 MWh Sale to U.S. C&I Customer",
       "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/2-mwh-sale-to-u-s-c-i-customer-/9593527",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms commercial traction in the US C&I segment but represents a negligible revenue contribution relative to IES's valuation; it validates market entry strategy without materially altering near-term financial outlook.",
+      "key_themes": [
+        "US Expansion",
+        "Commercial Validation"
+      ]
     }
   ]
 }

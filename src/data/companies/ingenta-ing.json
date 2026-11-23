@@ -10,16 +10,21 @@
       "category": "Appointment",
       "headline": "Strategic Update and Directorate Change",
       "url": "https://www.investegate.co.uk/announcement/rns/ingenta--ing/strategic-update-and-directorate-change/9871472",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The combination of a strategic update and directorate change in the academic publishing sector suggests a potential pivot to address margin pressures or digital transformation challenges, similar to recent restructuring efforts by peers like Taylor & Francis. This signals active governance intervention to stabilize growth trajectories rather than passive administrative maintenance.",
+      "key_themes": [
+        "Corporate Governance",
+        "Strategic Pivot"
+      ]
     },
     {
       "timestamp": "2026-08-20T07:00:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/ingenta--ing/transaction-in-own-shares/9730756",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/ingenta--ing/tr-1-notification-of-major-holdings/9718087",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,10 +46,14 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/ingenta--ing/result-of-agm/9637499",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-AGM outcome announcement confirming the ratification of routine resolutions; it carries no new strategic information or financial data for Ingenta (ING). Such filings are administrative necessities rather than market-moving events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     }
   ]
 }

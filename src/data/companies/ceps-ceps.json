@@ -10,40 +10,56 @@
       "category": "Acquisition",
       "headline": "Acquisition by Aford Awards",
       "url": "https://www.investegate.co.uk/announcement/rns/ceps--ceps/acquisition-by-aford-awards/9809948",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This is a standard disclosure of a director's shareholding change rather than a corporate M&A event; the headline 'Acquisition' refers to personal portfolio accumulation, indicating no strategic shift or capital deployment for CEPS.",
+      "key_themes": [
+        "Director Dealing",
+        "Insider Activity"
+      ]
     },
     {
       "timestamp": "2026-07-17T10:21:00",
       "category": null,
       "headline": "Liquidation of Milano International Limited & AR17",
       "url": "https://www.investegate.co.uk/announcement/rns/ceps--ceps/liquidation-of-milano-international-limited-ar17/9674801",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The liquidation of a subsidiary is a standard administrative cleanup for non-core assets, indicating no immediate operational disruption to CEPS's primary business lines.",
+      "key_themes": [
+        "Corporate Restructuring",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-06T10:33:00",
       "category": null,
       "headline": "Liquidation of Milano International Limited",
       "url": "https://www.investegate.co.uk/announcement/rns/ceps--ceps/liquidation-of-milano-international-limited/9653998",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Liquidation of a subsidiary is typically an administrative housekeeping exercise or the closure of a non-core asset, indicating no immediate strategic shift or material financial impact on CEPS's core operations.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-15T17:38:00",
       "category": "AGM/EGM",
       "headline": "Result of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/ceps--ceps/result-of-annual-general-meeting/9619281",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of routine shareholder votes, carrying no new strategic direction or financial data that would alter valuation models.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     }
   ]
 }

@@ -10,16 +10,21 @@
       "category": "Appointment",
       "headline": "Appointment of Managing Director",
       "url": "https://www.investegate.co.uk/announcement/rns/beximco-pharmaceuticals-limited--bxp/appointment-of-managing-director/9873621",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine executive appointment typical for BXP's ongoing restructuring; lacks the transformative catalyst required to shift market sentiment given the company's persistent liquidity and governance challenges.",
+      "key_themes": [
+        "Corporate Governance",
+        "Management Change"
+      ]
     },
     {
       "timestamp": "2026-11-09T07:00:00",
       "category": "Results",
       "headline": "Results for the year ended 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/beximco-pharmaceuticals-limited--bxp/results-for-the-year-ended-30-june-2026/9863811",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap pharmaceutical firm with limited liquidity, this annual results release provides essential fundamental data for valuation but lacks the transformative catalysts required for significant price discovery or sector-wide precedent.",
@@ -33,6 +38,7 @@
       "category": "Results",
       "headline": "Notification of Preliminary Results and AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/beximco-pharmaceuticals-limited--bxp/notification-of-preliminary-results-and-agm/9847682",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notification for preliminary results and AGM in the UK market; without disclosed financial figures, it carries no immediate pricing impact or strategic signal beyond routine compliance.",
@@ -46,36 +52,49 @@
       "category": "Appointment",
       "headline": "Board changes",
       "url": "https://www.investegate.co.uk/announcement/rns/beximco-pharmaceuticals-limited--bxp/board-changes/9840863",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board changes in a small-cap pharmaceutical firm typically signal administrative adjustments rather than strategic shifts; without details on the nature of the appointments, this lacks the catalyst potential for significant price movement.",
+      "key_themes": [
+        "corporate_governance",
+        "small_cap"
+      ]
     },
     {
       "timestamp": "2026-09-15T11:47:00",
       "category": null,
       "headline": "Clarification of Press Commentary",
       "url": "https://www.investegate.co.uk/announcement/rns/beximco-pharmaceuticals-limited--bxp/clarification-of-press-commentary/9773182",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Clarification announcements typically aim to mitigate short-term volatility from market speculation rather than signal fundamental shifts; for BXP, this suggests management is addressing liquidity or valuation concerns without altering the core business trajectory.",
+      "key_themes": [
+        "Investor Relations",
+        "Market Sentiment"
+      ]
     },
     {
       "timestamp": "2026-06-26T07:30:00",
       "category": null,
       "headline": "Restoration - Beximco Pharmaceuticals PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/beximco-pharmaceuticals-limited--bxp/restoration-beximco-pharmaceuticals-plc/9638688",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Administrative restoration of a dormant shell company with no active trading history or disclosed operational assets; lacks immediate commercial significance for the UK pharmaceutical sector.",
+      "key_themes": [
+        "Corporate Administration",
+        "Shell Company"
+      ]
     },
     {
       "timestamp": "2026-06-26T07:00:00",
       "category": "Results",
       "headline": "Results for the year ended 30 June 2025",
       "url": "https://www.investegate.co.uk/announcement/rns/beximco-pharmaceuticals-limited--bxp/results-for-the-year-ended-30-june-2025/9637900",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a niche player in the UK-listed Indian pharmaceutical sector, BXP's annual results provide critical visibility into margin pressures and demand trends within the complex generics landscape, though lacking the transformative scale of major M&A or significant profit warnings.",
@@ -89,6 +108,7 @@
       "category": "Results",
       "headline": "Notification of Preliminary Results and AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/beximco-pharmaceuticals-limited--bxp/notification-of-preliminary-results-and-agm/9633328",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notification for preliminary results and AGM rather than a substantive trading update; without specific financial metrics or guidance in the headline, it lacks immediate market-moving catalysts typical of transformative events.",
@@ -102,6 +122,7 @@
       "category": "Results",
       "headline": "Q3 Financial Results 2025-26",
       "url": "https://www.investegate.co.uk/announcement/rns/beximco-pharmaceuticals-limited--bxp/q3-financial-results-2025-26/9633326",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap with limited liquidity, this Q3 update provides essential visibility into operational performance for a niche player in the Bangladesh pharma sector, though it lacks the transformative catalysts required for broader market movement.",
@@ -115,6 +136,7 @@
       "category": "Results",
       "headline": "Half Year Results 2025-26",
       "url": "https://www.investegate.co.uk/announcement/rns/beximco-pharmaceuticals-limited--bxp/half-year-results-2025-26/9633306",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a small-cap pharmaceutical listing on the London market, BXP's interim results provide essential visibility into its operational cash flow and pipeline progress, which is critical for liquidity assessment in this illiquid segment.",
@@ -128,6 +150,7 @@
       "category": "Results",
       "headline": "Q1 Financial Results 2025-26",
       "url": "https://www.investegate.co.uk/announcement/rns/beximco-pharmaceuticals-limited--bxp/q1-financial-results-2025-26/9633305",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap listing on the AIC with limited liquidity, this quarterly update provides essential visibility into operational performance in the competitive Bangladesh pharma sector, though it lacks the transformative catalysts required for significant price discovery.",
@@ -141,6 +164,7 @@
       "category": "Results",
       "headline": "Q3 Financial Results 2024-25",
       "url": "https://www.investegate.co.uk/announcement/rns/beximco-pharmaceuticals-limited--bxp/q3-financial-results-2024-25/9633301",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap with limited liquidity, this quarterly update provides essential visibility into operational performance in the competitive Bangladesh pharma sector, though it lacks the transformative catalysts required for broader market movement.",

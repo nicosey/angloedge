@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/honye-financial-services-limited-di---hoye/holding-s-in-company/9887271",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/honye-financial-services-limited-di---hoye/holding-s-in-company/9887265",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,30 +32,42 @@
       "category": null,
       "headline": "Change of Directorship Notification",
       "url": "https://www.investegate.co.uk/announcement/rns/honye-financial-services-limited-di---hoye/change-of-directorship-notification/9865783",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative filing for a micro-cap financial services firm with negligible liquidity; directorship changes are standard corporate governance events that rarely signal immediate strategic shifts or material value creation in the absence of accompanying trading updates.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap"
+      ]
     },
     {
       "timestamp": "2026-09-18T14:20:00",
       "category": null,
       "headline": "Letter of Intent Signed",
       "url": "https://www.investegate.co.uk/announcement/rns/honye-financial-services-limited-di---hoye/letter-of-intent-signed/9780303",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "A Letter of Intent is non-binding and typically signals early-stage negotiations rather than a completed transaction; for HOYE, this offers limited immediate value without confirmed terms or financing.",
+      "key_themes": [
+        "M&A",
+        "Strategic Development"
+      ]
     },
     {
       "timestamp": "2026-05-26T11:07:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/honye-financial-services-limited-di---hoye/result-of-agm/9585701",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure confirming the outcome of an Annual General Meeting, which carries no intrinsic financial value or strategic shift for Honye Financial Services.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Disclosure"
+      ]
     }
   ]
 }

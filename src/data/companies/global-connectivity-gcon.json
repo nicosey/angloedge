@@ -10,16 +10,21 @@
       "category": "AGM/EGM",
       "headline": "AGM Resolutions passed",
       "url": "https://www.investegate.co.uk/announcement/rns/global-connectivity-plc--gcon/agm-resolutions-passed/9834523",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative confirmation of shareholder approval for annual governance matters, carrying no intrinsic valuation impact or strategic signal for Global Connectivity PLC.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-10-08T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/global-connectivity-plc--gcon/notice-of-agm/9812247",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,26 +35,36 @@
       "category": "Acquisition",
       "headline": "Acquisition by Director of Shares in Plug Networks",
       "url": "https://www.investegate.co.uk/announcement/rns/global-connectivity-plc--gcon/acquisition-by-director-of-shares-in-plug-networks/9799466",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This is a standard regulatory disclosure of a director's personal share transaction, which carries no immediate strategic weight for Global Connectivity PLC's operations or valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Dealing"
+      ]
     },
     {
       "timestamp": "2026-09-29T12:24:00",
       "category": "Acquisition",
       "headline": "Acquisition of Shares in Plug Networks LLC-FZ",
       "url": "https://www.investegate.co.uk/announcement/rns/global-connectivity-plc--gcon/acquisition-of-shares-in-plug-networks-llc-fz/9796814",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This acquisition signals GCON's strategic pivot towards high-growth US infrastructure assets, leveraging its existing UK telecoms base to diversify revenue streams and capture the expanding digital connectivity demand in North America.",
+      "key_themes": [
+        "International Expansion",
+        "Infrastructure Investment",
+        "Diversification"
+      ]
     },
     {
       "timestamp": "2026-08-20T12:00:00",
       "category": null,
       "headline": "TR1 Notification",
       "url": "https://www.investegate.co.uk/announcement/rns/global-connectivity-plc--gcon/tr1-notification/9732325",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +75,7 @@
       "category": null,
       "headline": "TR1 Notification",
       "url": "https://www.investegate.co.uk/announcement/rns/global-connectivity-plc--gcon/tr1-notification/9728542",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,6 +86,7 @@
       "category": null,
       "headline": "TR-1 Notification",
       "url": "https://www.investegate.co.uk/announcement/rns/global-connectivity-plc--gcon/tr-1-notification/9727788",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,6 +97,7 @@
       "category": null,
       "headline": "Global Connectivity TR-1 Notification",
       "url": "https://www.investegate.co.uk/announcement/rns/global-connectivity-plc--gcon/global-connectivity-tr-1-notification/9727565",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,6 +108,7 @@
       "category": "Results",
       "headline": "Full Year Results for year ended 31 December 2025",
       "url": "https://www.investegate.co.uk/announcement/rns/global-connectivity-plc--gcon/full-year-results-for-year-ended-31-december-2025/9639872",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap with historically low liquidity, this full-year results release serves as a critical sentiment gauge for the niche connectivity infrastructure sector, though it lacks the transformative scale of major M&A or significant profit warnings.",

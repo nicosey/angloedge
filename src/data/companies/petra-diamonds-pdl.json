@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/prn/petra-diamonds-ltd-di---pdl/holding-s-in-company/9838904",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Results",
       "headline": "Delay in Publication of Annual Results",
       "url": "https://www.investegate.co.uk/announcement/prn/petra-diamonds-ltd-di---pdl/delay-in-publication-of-annual-results/9837001",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Delays in publishing annual results for diamond miners often signal underlying operational complexities or audit disagreements regarding inventory valuation and impairment testing, raising red flags about asset quality and liquidity management in a volatile commodity sector.",
@@ -34,6 +36,7 @@
       "category": null,
       "headline": "Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/prn/petra-diamonds-ltd-di---pdl/notification-of-major-holdings/9834158",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -44,66 +47,93 @@
       "category": null,
       "headline": "Further update in relation to Petra Diamonds UK Treasury Limited",
       "url": "https://www.investegate.co.uk/announcement/prn/petra-diamonds-ltd-di---pdl/further-update-in-relation-to-petra-diamonds-/9823096",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This update pertains to the UK Treasury Limited entity, indicating routine corporate finance or liquidity management activities rather than operational performance changes. Such administrative updates are standard for diamond miners managing capital structures and do not signal material shifts in asset value or strategic direction.",
+      "key_themes": [
+        "Corporate Governance",
+        "Treasury Management"
+      ]
     },
     {
       "timestamp": "2026-10-13T15:25:00",
       "category": "Appointment",
       "headline": "Appointment of Senior Independent Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/prn/petra-diamonds-ltd-di---pdl/appointment-of-senior-independent-non-executi-/9820984",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine governance update reflecting standard board refreshment practices within the UK mining sector; lacks immediate catalyst for valuation re-rating or strategic pivot.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-10-05T11:51:00",
       "category": "Appointment",
       "headline": "Appointment of Financial Advisor",
       "url": "https://www.investegate.co.uk/announcement/prn/petra-diamonds-ltd-di---pdl/appointment-of-financial-advisor/9806951",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Appointment of a financial advisor is typically a precursor to M&A activity or capital restructuring in the diamond sector, but without further details, it remains an administrative step with limited immediate market impact.",
+      "key_themes": [
+        "M&A speculation",
+        "Corporate governance"
+      ]
     },
     {
       "timestamp": "2026-10-02T11:18:00",
       "category": null,
       "headline": "Update in relation to Petra Diamonds UK Treasury Limited",
       "url": "https://www.investegate.co.uk/announcement/prn/petra-diamonds-ltd-di---pdl/update-in-relation-to-petra-diamonds-uk-treas-/9804497",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement pertains to the administrative management of Petra Diamonds' UK treasury vehicle, indicating routine corporate governance rather than a material operational shift or strategic pivot in the diamond sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Treasury Management"
+      ]
     },
     {
       "timestamp": "2026-10-01T13:41:00",
       "category": "Appointment",
       "headline": "Strategic Review and Directorate Change",
       "url": "https://www.investegate.co.uk/announcement/prn/petra-diamonds-ltd-di---pdl/strategic-review-and-directorate-change/9802382",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The appointment of a new CEO signals a strategic pivot for Petra Diamonds amidst the broader diamond industry's consolidation and margin pressures, raising questions about whether management will prioritize operational efficiency over growth or pursue further M&A to secure scale.",
+      "key_themes": [
+        "Leadership Change",
+        "Strategic Review",
+        "Diamond Sector Consolidation"
+      ]
     },
     {
       "timestamp": "2026-08-07T15:05:00",
       "category": null,
       "headline": "Update on Finsch Business Rescue Process",
       "url": "https://www.investegate.co.uk/announcement/prn/petra-diamonds-ltd-di---pdl/update-on-finsch-business-rescue-process/9711572",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The Finsch mine is Petra Diamonds' primary asset and largest producer; its entry into business rescue signals severe operational distress and potential value destruction for the group's core revenue stream, reflecting broader challenges in the South African mining sector regarding infrastructure reliability and cost inflation.",
+      "key_themes": [
+        "Operational Risk",
+        "Asset Distress",
+        "South Africa Mining"
+      ]
     },
     {
       "timestamp": "2026-07-28T11:38:00",
       "category": "Trading Update",
       "headline": "Q4 and FY 2026 Operating & Business Update",
       "url": "https://www.investegate.co.uk/announcement/prn/petra-diamonds-ltd-di---pdl/q4-and-fy-2026-operating-business-update/9691440",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a pure-play diamond miner, Petra's FY2026 update is critical for gauging demand resilience amid global economic uncertainty and the competitive pressure from lab-grown alternatives; any deviation in production or pricing directly signals sector health.",
@@ -118,6 +148,7 @@
       "category": "Trading Update",
       "headline": "Business Update",
       "url": "https://www.investegate.co.uk/announcement/prn/petra-diamonds-ltd-di---pdl/business-update/9592541",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 4,
       "insight": "As a routine trading update for a mature diamond miner, this likely lacks the transformative catalysts required to move the stock significantly, reflecting the sector's ongoing struggle with volatile commodity prices and operational headwinds rather than strategic shifts.",

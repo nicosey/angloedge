@@ -10,16 +10,22 @@
       "category": null,
       "headline": "Reports Q3-2026 Production & Operational Highlights",
       "url": "https://www.investegate.co.uk/announcement/gnw/serabi-gold--srb/reports-q3-2026-production-operational-high-/9832718",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Q3 production updates for junior miners like Serabi Gold are critical sentiment drivers in the volatile gold exploration sector; consistent output validates operational execution but rarely triggers immediate re-rating without reserve upgrades or M&A interest.",
+      "key_themes": [
+        "operational update",
+        "gold mining",
+        "production metrics"
+      ]
     },
     {
       "timestamp": "2026-09-22T06:00:00",
       "category": "Results",
       "headline": "Unaudited interim results for the three-and six-month periods ended 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/serabi-gold--srb/unaudited-interim-results-for-the-three-and-s-/9783116",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Interim results for a junior explorer like Serabi Gold are critical for validating resource estimates and cash burn rates in the current high-interest-rate environment where funding is scarce; any deviation from guidance significantly impacts investor sentiment on survival and dilution risk.",
@@ -34,16 +40,21 @@
       "category": "AGM/EGM",
       "headline": "Annual General Meeting Statement",
       "url": "https://www.investegate.co.uk/announcement/gnw/serabi-gold--srb/annual-general-meeting-statement/9626332",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine shareholder approval for standard governance matters carries negligible immediate financial impact, though it ensures continuity of the board's mandate to advance Serabi's exploration strategy in a challenging gold mining sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-01T22:00:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/serabi-gold--srb/total-voting-rights/9595863",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -54,6 +65,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/gnw/serabi-gold--srb/notice-of-annual-general-meeting/9583350",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -64,10 +76,14 @@
       "category": "Dividend",
       "headline": "Dividend Information",
       "url": "https://www.investegate.co.uk/announcement/gnw/serabi-gold--srb/dividend-information/9583349",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Serabi Gold's dividend announcement is a minor administrative update with negligible immediate market impact, as the company remains in the exploration phase and has historically prioritized capital preservation over shareholder distributions amidst volatile gold prices.",
+      "key_themes": [
+        "exploration-stage",
+        "capital-allocation"
+      ]
     }
   ]
 }

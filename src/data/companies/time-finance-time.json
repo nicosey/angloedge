@@ -10,6 +10,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/time-finance--time/notice-of-agm/9860614",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,21 @@
       "category": "AGM/EGM",
       "headline": "Results of Court Meeting and General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/time-finance--time/results-of-court-meeting-and-general-meeting/9802279",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms the procedural completion of a capital restructuring vote, likely related to the company's ongoing efforts to stabilize its balance sheet following recent liquidity pressures in the consumer finance sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Capital Restructuring"
+      ]
     },
     {
       "timestamp": "2026-08-17T07:45:00",
       "category": null,
       "headline": "Disclosure Table",
       "url": "https://www.investegate.co.uk/announcement/rns/time-finance--time/disclosure-table/9724630",
+      "routine_type": "Disclosure Table",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,20 +46,29 @@
       "category": "Acquisition",
       "headline": "Recommended Cash Acquisition of Time Finance plc",
       "url": "https://www.investegate.co.uk/announcement/rns/time-finance--time/recommended-cash-acquisition-of-time-finance-plc/9723817",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This represents a definitive exit for shareholders in the UK consumer finance sector, likely at a premium to reflect the asset's cash flow stability and regulatory capital requirements following recent industry consolidation.",
+      "key_themes": [
+        "M&A",
+        "Consumer Finance",
+        "Liquidity Event"
+      ]
     },
     {
       "timestamp": "2026-06-09T07:00:00",
       "category": null,
       "headline": "Lending Book Milestone & Notice of Q4 Update",
       "url": "https://www.investegate.co.uk/announcement/rns/time-finance--time/lending-book-milestone-notice-of-q4-update/9607736",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The milestone likely signals strong loan book growth in the sub-prime lending sector, validating the firm's risk appetite and market share gains during a period of rising interest rates; however, without specific profit or NPL data, the update remains a positive operational indicator rather than a fundamental valuation driver.",
+      "key_themes": [
+        "Lending Growth",
+        "Sector Momentum"
+      ]
     }
   ]
 }

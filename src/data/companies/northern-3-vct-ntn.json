@@ -10,46 +10,66 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-3-vct--ntn/dividend-declaration/9887051",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "Routine dividend declaration for a VCT confirms ongoing income generation but offers no growth catalyst; in the current high-rate environment, such announcements primarily serve to maintain investor retention rather than signal strategic expansion or capital appreciation.",
+      "key_themes": [
+        "VCT",
+        "Income Distribution",
+        "Tax-Advantaged Investing"
+      ]
     },
     {
       "timestamp": "2026-11-20T14:00:00",
       "category": "Results",
       "headline": "Half-yearly Financial Report for the six months ended 30 September 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-3-vct--ntn/half-yearly-financial-report-for-the-six-mont-/9887040",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a VCT, the primary metric is NAV per share performance rather than operational profit; this interim report will be scrutinized for dividend sustainability and portfolio valuation adjustments in a high-interest-rate environment. The timing suggests a routine compliance update with moderate investor interest focused on yield stability amidst UK equity volatility.",
+      "key_themes": [
+        "VCT",
+        "Interim Results",
+        "NAV Performance"
+      ]
     },
     {
       "timestamp": "2026-09-30T08:00:00",
       "category": null,
       "headline": "Offer for Subscription",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-3-vct--ntn/offer-for-subscription-/9798455",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard capital raise for a Venture Capital Trust, typical for maintaining investment capacity rather than signaling transformative growth; VCTs frequently issue shares to meet regulatory asset thresholds or fund new portfolio commitments.",
+      "key_themes": [
+        "capital_raise",
+        "vct_fundraising"
+      ]
     },
     {
       "timestamp": "2026-09-16T13:30:00",
       "category": null,
       "headline": "Publication of an Offer Document",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-3-vct--ntn/publication-of-an-offer-document/9775719",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative filing for Northern 3 VCT to launch a new share offer, likely for capital raising or reinvestment purposes. While it signals ongoing activity in the VCT sector's fundraising efforts, it lacks the transformative M&A or earnings impact required for a higher score.",
+      "key_themes": [
+        "VCT",
+        "Capital Raising",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-11T15:45:00",
       "category": null,
       "headline": "Admission of further securities to trading",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-3-vct--ntn/admission-of-further-securities-to-trading-/9768773",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +80,7 @@
       "category": null,
       "headline": "Issue of equity and voting rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-3-vct--ntn/issue-of-equity-and-voting-rights/9756476",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,16 +91,21 @@
       "category": null,
       "headline": "Amendment to Investment Management Agreement",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-3-vct--ntn/amendment-to-investment-management-agreement/9718349",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Administrative amendment to the investment management agreement is standard operational housekeeping for VCTs, typically reflecting fee adjustments or regulatory compliance updates rather than strategic shifts.",
+      "key_themes": [
+        "VCT",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-07-31T15:00:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-3-vct--ntn/total-voting-rights/9699149",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,16 +116,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-3-vct--ntn/result-of-agm/9696562",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of Northern 3 VCT's Annual General Meeting, which typically involves routine matters such as dividend approvals and director re-elections rather than strategic shifts or capital raises.",
+      "key_themes": [
+        "Corporate Governance",
+        "VCT Administration"
+      ]
     },
     {
       "timestamp": "2026-06-30T11:00:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-3-vct--ntn/total-voting-rights/9644495",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -110,40 +141,61 @@
       "category": "Results",
       "headline": "Annual Financial Report and Notice of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-3-vct--ntn/annual-financial-report-and-notice-of-annual-/9639717",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "Standard annual reporting for a VCT is routine administrative compliance with no immediate catalyst for share price movement; investor focus remains on dividend yield sustainability and NAV stability rather than growth metrics typical of operating companies.",
+      "key_themes": [
+        "VCT",
+        "Annual Report",
+        "Dividend"
+      ]
     },
     {
       "timestamp": "2026-06-11T15:10:00",
       "category": "Placing",
       "headline": "Statement regarding intention to fundraise",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-3-vct--ntn/statement-regarding-intention-to-fundraise/9614307",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This capital raise is critical for Northern 3 VCT to maintain its investment base and meet FRS 102 solvency requirements in a challenging private equity exit environment. While routine for closed-end funds facing NAV erosion, the success of this placing will determine the fund's ability to continue operations without liquidation.",
+      "key_themes": [
+        "VCT",
+        "Capital Raise",
+        "FRS 102",
+        "NAV Erosion"
+      ]
     },
     {
       "timestamp": "2026-06-11T15:05:00",
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-3-vct--ntn/dividend-declaration/9614297",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a VCT, dividend declarations are the primary mechanism for delivering tax-advantaged returns to retail investors, making this a routine but essential operational update rather than a strategic shift. The announcement confirms ongoing liquidity and compliance with VCT investment rules, which is critical for maintaining investor confidence in a sector sensitive to regulatory changes.",
+      "key_themes": [
+        "VCT",
+        "Dividend",
+        "Retail Income"
+      ]
     },
     {
       "timestamp": "2026-06-11T15:00:00",
       "category": null,
       "headline": "Annual Report and Financial Statements for the year ended 31 March 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-3-vct--ntn/annual-report-and-financial-statements-for-th-/9614288",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Standard annual filing for a closed-end VCT; while essential for dividend confirmation and NAV verification, it lacks the transformative catalysts required for significant price re-rating in the current high-yield environment.",
+      "key_themes": [
+        "VCT",
+        "Annual Report",
+        "Dividend Yield"
+      ]
     }
   ]
 }

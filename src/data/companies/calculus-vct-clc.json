@@ -10,16 +10,22 @@
       "category": null,
       "headline": "Publication of a Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/calculus-vct--clc/publication-of-a-prospectus/9807269",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The publication of a prospectus is a standard procedural step for VCTs raising new capital or making investments, indicating routine fundraising activity rather than transformative corporate action.",
+      "key_themes": [
+        "VCT",
+        "Capital Raising",
+        "Regulatory Filing"
+      ]
     },
     {
       "timestamp": "2026-10-02T15:44:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/calculus-vct--clc/issue-of-equity/9805059",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,26 +36,36 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/calculus-vct--clc/result-of-agm/9797377",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting for Calculus VCT, which typically involves routine matters such as dividend approval and director re-election rather than strategic shifts or capital raises.",
+      "key_themes": [
+        "Corporate Governance",
+        "VCT Administration"
+      ]
     },
     {
       "timestamp": "2026-09-14T09:56:00",
       "category": null,
       "headline": "Statement re Intention to Raise",
       "url": "https://www.investegate.co.uk/announcement/rns/calculus-vct--clc/statement-re-intention-to-raise/9770288",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Calculus VCT's intention to raise capital signals a proactive effort to replenish its lending book in a high-yield environment, though it highlights the sector's ongoing struggle with liquidity and investor appetite for new issues amidst rising interest rates.",
+      "key_themes": [
+        "Capital Raise",
+        "VCT Sector",
+        "Lending Book Expansion"
+      ]
     },
     {
       "timestamp": "2026-09-02T11:28:00",
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/calculus-vct--clc/issue-of-equity/9751959",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +76,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/calculus-vct--clc/issue-of-equity/9741909",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,6 +87,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/calculus-vct--clc/transaction-in-own-shares/9737518",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,6 +98,7 @@
       "category": null,
       "headline": "Publication of a Supplementary Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/calculus-vct--clc/publication-of-a-supplementary-prospectus/9722646",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,10 +109,15 @@
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/calculus-vct--clc/annual-financial-report/9698347",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a standard annual report for a VCT, this is routine compliance rather than a market-moving event; investor focus remains on the underlying portfolio performance and dividend sustainability amidst current high-interest-rate pressures on alternative asset valuations.",
+      "key_themes": [
+        "VCT",
+        "Annual Report",
+        "Dividend Policy"
+      ]
     }
   ]
 }

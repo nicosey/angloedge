@@ -10,16 +10,21 @@
       "category": "Appointment",
       "headline": "Confirmation of Directorate Change + Grant of LTIP",
       "url": "https://www.investegate.co.uk/announcement/rns/raspberry-pi-holdings-wi---rpi/confirmation-of-directorate-change-grant-of-ltip/9863435",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine administrative update regarding board composition and executive compensation; while LTIP grants align management incentives with long-term shareholder value, they do not signal immediate strategic shifts or material financial impact for Raspberry Pi Holdings.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Compensation"
+      ]
     },
     {
       "timestamp": "2026-11-05T17:53:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/raspberry-pi-holdings-wi---rpi/director-pdmr-shareholding/9861348",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in the consumer electronics retail sector typically signal internal alignment rather than strategic shifts, especially given RPI's recent focus on margin expansion and inventory management amidst a challenging high-street environment.",
@@ -33,6 +38,7 @@
       "category": "Director Dealing",
       "headline": "Notification of Transactions by a PDMR",
       "url": "https://www.investegate.co.uk/announcement/rns/raspberry-pi-holdings-wi---rpi/notification-of-transactions-by-a-pdmr/9848269",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of personal transactions by a Person Discharging Managerial Responsibilities, which carries minimal intrinsic market signal compared to substantive corporate actions. In the current consumer discretionary environment, such filings are routine administrative events rather than indicators of strategic shifts or insider sentiment.",
@@ -46,6 +52,7 @@
       "category": "Results",
       "headline": "Notice of Results and Presentations",
       "url": "https://www.investegate.co.uk/announcement/rns/raspberry-pi-holdings-wi---rpi/notice-of-results-and-presentations/9759939",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard results announcement for a high-growth consumer electronics retailer; while critical for assessing margin resilience amid inflationary pressures and supply chain normalization, it lacks the transformative catalysts required for an 8+ score.",
@@ -59,6 +66,7 @@
       "category": null,
       "headline": "Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/raspberry-pi-holdings-wi---rpi/notification-of-major-holdings/9728529",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -69,6 +77,7 @@
       "category": null,
       "headline": "Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/raspberry-pi-holdings-wi---rpi/notification-of-major-holdings/9728528",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -79,6 +88,7 @@
       "category": "Director Dealing",
       "headline": "PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/raspberry-pi-holdings-wi---rpi/pdmr-shareholding/9614714",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of insider shareholding changes, which provides transparency but lacks the strategic weight of M&A or earnings guidance. In the current consumer discretionary sector, such routine filings are common and do not signal immediate directional shifts in company performance.",
@@ -92,6 +102,7 @@
       "category": "Trading Update",
       "headline": "Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/raspberry-pi-holdings-wi---rpi/trading-update/9603039",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 4,
       "insight": "The announcement lacks specific financial metrics or strategic shifts, indicating a routine administrative filing with no immediate material implication for valuation or investor sentiment.",
@@ -105,10 +116,14 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/raspberry-pi-holdings-wi---rpi/result-of-agm/9602926",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital allocation changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     }
   ]
 }

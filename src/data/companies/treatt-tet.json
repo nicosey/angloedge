@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Cancellation - TREATT PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/treatt--tet/cancellation-treatt-plc/9651451",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative cancellation of an existing share buyback programme, likely due to the completion of its target or expiration, rather than a new strategic move. It signals no immediate change in Treatt's capital allocation strategy or liquidity position.",
+      "key_themes": [
+        "Corporate Action",
+        "Share Buyback"
+      ]
     },
     {
       "timestamp": "2026-06-30T11:39:00",
       "category": "Acquisition",
       "headline": "Court Sanction of Scheme of Arrangement",
       "url": "https://www.investegate.co.uk/announcement/rns/treatt--tet/court-sanction-of-scheme-of-arrangement/9644587",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 9,
       "insight": "The court sanction marks the final legal hurdle for Treatt's acquisition by Givaudan, a transformative delisting event that ends its independent listing and cements the strategic consolidation of the global natural ingredients sector.",
@@ -34,16 +39,21 @@
       "category": null,
       "headline": "Treatt",
       "url": "https://www.investegate.co.uk/announcement/rns/treatt--tet/treatt/9637767",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The absence of substantive content in the RNS headline suggests a routine administrative filing or boilerplate update rather than a material corporate event, indicating negligible immediate impact on Treatt's valuation or strategic direction.",
+      "key_themes": [
+        "Administrative",
+        "Low Impact"
+      ]
     },
     {
       "timestamp": "2026-06-19T14:46:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/treatt--tet/holding-s-in-company/9628276",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -54,26 +64,36 @@
       "category": null,
       "headline": "Update on Regulatory Conditions & Scheme Timetable",
       "url": "https://www.investegate.co.uk/announcement/rns/treatt--tet/update-on-regulatory-conditions-scheme-timetable/9619506",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This update clarifies the regulatory approval timeline for the proposed acquisition by Kerry Group, reducing execution uncertainty but confirming the deal remains subject to standard antitrust scrutiny in the global flavour and fragrance sector.",
+      "key_themes": [
+        "M&A",
+        "Regulatory Approval",
+        "Kerry Group"
+      ]
     },
     {
       "timestamp": "2026-06-09T14:55:00",
       "category": "AGM/EGM",
       "headline": "Results of the Court Meeting and General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/treatt--tet/results-of-the-court-meeting-and-general-meeting/9609660",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement confirms the procedural ratification of Treatt's existing capital raise scheme, which was already priced and widely anticipated by the market, resulting in no new fundamental valuation shock or strategic pivot.",
+      "key_themes": [
+        "Corporate Governance",
+        "Capital Raise"
+      ]
     },
     {
       "timestamp": "2026-06-03T07:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/treatt--tet/holding-s-in-company/9598412",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -84,6 +104,7 @@
       "category": null,
       "headline": "Block Listing Six Monthly Return",
       "url": "https://www.investegate.co.uk/announcement/rns/treatt--tet/block-listing-six-monthly-return-/9595322",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -94,6 +115,7 @@
       "category": null,
       "headline": "Block Listing Six Monthly Return",
       "url": "https://www.investegate.co.uk/announcement/rns/treatt--tet/block-listing-six-monthly-return/9595314",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,

@@ -10,36 +10,49 @@
       "category": null,
       "headline": "TEN THOUSAND WEBPAGES REACHED USING AI CMS",
       "url": "https://www.investegate.co.uk/announcement/rns/b90-holdings-npv--b90/ten-thousand-webpages-reached-using-ai-cms/9805361",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement lacks material financial metrics or revenue guidance, rendering it a low-conviction marketing update rather than a fundamental catalyst for valuation.",
+      "key_themes": [
+        "AI",
+        "Marketing"
+      ]
     },
     {
       "timestamp": "2026-09-30T07:00:00",
       "category": null,
       "headline": "BESTPREVIEWS: END-TO-END AI AUTOMATION THROUGH",
       "url": "https://www.investegate.co.uk/announcement/rns/b90-holdings-npv--b90/bestpreviews-end-to-end-ai-automation-through-/9797754",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The announcement is a marketing teaser for an upcoming event rather than substantive financial data or corporate action, offering no immediate valuation impact or strategic clarity for B90 Holdings.",
+      "key_themes": [
+        "Marketing",
+        "AI"
+      ]
     },
     {
       "timestamp": "2026-09-25T12:47:00",
       "category": "Director Dealing",
       "headline": "Director's Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/b90-holdings-npv--b90/director-s-dealings/9792018",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Standard regulatory filing for individual director transactions which typically carries negligible signal value unless aggregated across the board; without volume or price context, it remains a routine administrative disclosure rather than a strategic indicator.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
     },
     {
       "timestamp": "2026-09-21T07:00:00",
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/b90-holdings-npv--b90/interim-results/9780767",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a SPAC with limited operating history, B90's interim results primarily serve as a compliance checkpoint for its £1bn IPO proceeds rather than an indicator of operational traction; market focus remains on the execution timeline of its target acquisition strategy within the volatile post-IPO window.",
@@ -54,16 +67,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/b90-holdings-npv--b90/result-of-agm/9772721",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of an AGM, which typically involves routine matters such as director re-elections and auditor appointments rather than strategic shifts or capital changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-09-03T07:00:00",
       "category": "Results",
       "headline": "Notice of Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/b90-holdings-npv--b90/notice-of-interim-results/9752896",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a SPAC with limited operational history, this interim results release is critical for validating the target acquisition thesis and assessing post-merger integration progress against initial projections.",
@@ -78,6 +96,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/b90-holdings-npv--b90/notice-of-agm/9744390",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -88,10 +107,14 @@
       "category": "Director Dealing",
       "headline": "Director's Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/b90-holdings-npv--b90/director-s-dealings/9627713",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible signal for institutional investors compared to aggregate insider net buying/selling trends.",
+      "key_themes": [
+        "regulatory_compliance",
+        "low_signal"
+      ]
     }
   ]
 }

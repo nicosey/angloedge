@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Publication of a Supplementary Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/investec-bank-plc--im88/publication-of-a-supplementary-prospectus/9785251",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,20 +21,29 @@
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/investec-bank-plc--im88/annual-financial-report/9632763",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a key UK challenger bank, Investec's annual results provide critical insight into consumer credit health and wealth management fee income resilience amid persistent high interest rates; the market will scrutinize net interest margin trends and impairment provisions for signs of stress in the retail lending book.",
+      "key_themes": [
+        "Banking Results",
+        "Interest Rate Sensitivity",
+        "Wealth Management"
+      ]
     },
     {
       "timestamp": "2026-05-26T14:00:00",
       "category": null,
       "headline": "Unaudited Condensed Financial Information",
       "url": "https://www.investegate.co.uk/announcement/rns/investec-bank-plc--im88/unaudited-condensed-financial-information-/9586043",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a core component of the Investec Group's dual-listed structure, this release provides critical visibility into the UK banking subsidiary's performance, which is currently navigating higher funding costs and a challenging mortgage market environment distinct from its wealth management arm.",
+      "key_themes": [
+        "UK Banking",
+        "Financial Results"
+      ]
     }
   ]
 }

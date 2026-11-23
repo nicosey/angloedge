@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Consolidation Notice:3xFutu;-3x AI;-1x AMD;-3x EWT",
       "url": "https://www.investegate.co.uk/announcement/rns/leverage-shares-public-limited-company--amds/consolidation-notice-3xfutu-3x-ai-1x-amd-3x-ewt/9661331",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative consolidation of leveraged ETN product lines rather than a corporate event for the issuer itself, reflecting routine ETF industry housekeeping to manage liquidity or consolidate underperforming tracks.",
+      "key_themes": [
+        "ETF Consolidation",
+        "Administrative Action"
+      ]
     },
     {
       "timestamp": "2026-07-09T12:24:00",
       "category": "Results",
       "headline": "Results of Adjourned Meeting - 1x AMD ETP",
       "url": "https://www.investegate.co.uk/announcement/rns/leverage-shares-public-limited-company--amds/results-of-adjourned-meeting-1x-amd-etp/9661290",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This announcement pertains to the administrative conclusion of a meeting for an Exchange Traded Product (ETP) rather than the listed parent company's operational performance, indicating no direct fundamental impact on LEVERAGE SHARES' equity value.",
@@ -33,20 +38,28 @@
       "category": null,
       "headline": "Notice of Adjourned Meeting - -1x AMD ETP",
       "url": "https://www.investegate.co.uk/announcement/rns/leverage-shares-public-limited-company--amds/notice-of-adjourned-meeting-1x-amd-etp/9631508",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice regarding the scheduling of an ETP meeting, likely for product maintenance or index rebalancing rather than fundamental corporate change. It carries no immediate pricing implication for LEVERAGE SHARES beyond minor operational noise.",
+      "key_themes": [
+        "ETP administration",
+        "Routine disclosure"
+      ]
     },
     {
       "timestamp": "2026-05-29T15:44:00",
       "category": null,
       "headline": "ETP Noteholder Meeting Notice -1x AMD",
       "url": "https://www.investegate.co.uk/announcement/rns/leverage-shares-public-limited-company--amds/etp-noteholder-meeting-notice-1x-amd/9592837",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice for an ETP product, indicating routine governance rather than fundamental corporate activity; it carries no direct equity impact on underlying AMD holdings.",
+      "key_themes": [
+        "ETP Governance",
+        "Administrative"
+      ]
     }
   ]
 }

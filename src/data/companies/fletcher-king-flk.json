@@ -10,36 +10,49 @@
       "category": "Appointment",
       "headline": "Completion of Phase 1 Disposal & Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/fletcher-king--flk/completion-of-phase-1-disposal-board-changes/9856984",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The completion of the Phase 1 disposal signals a strategic pivot towards core asset optimization, likely aimed at strengthening the balance sheet in a high-interest-rate environment common for UK REITs. Concurrent board changes suggest an effort to inject fresh governance or operational expertise to navigate current sector headwinds.",
+      "key_themes": [
+        "Corporate Restructuring",
+        "Governance Change"
+      ]
     },
     {
       "timestamp": "2026-10-26T12:00:00",
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/fletcher-king--flk/result-of-general-meeting/9841687",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at Fletcher King's AGM/EGM, typically covering routine matters like director reappointments and auditor ratification rather than strategic shifts or capital changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-10-07T17:15:00",
       "category": null,
       "headline": "Publication of Annual Report and Accounts",
       "url": "https://www.investegate.co.uk/announcement/rns/fletcher-king--flk/publication-of-annual-report-and-accounts/9812054",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing for annual accounts, lacking the transformative catalysts or immediate financial data required to move the stock price significantly in isolation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Annual Reporting"
+      ]
     },
     {
       "timestamp": "2026-10-07T07:01:00",
       "category": "Results",
       "headline": "Final Results",
       "url": "https://www.investegate.co.uk/announcement/rns/fletcher-king--flk/final-results/9810202",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a micro-cap with limited liquidity, this announcement serves primarily as a compliance update rather than a market-moving event, reflecting standard reporting cycles for small-cap industrials.",
@@ -53,6 +66,7 @@
       "category": null,
       "headline": "Posting of Circular and Notice of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/fletcher-king--flk/posting-of-circular-and-notice-of-general-meeting/9810116",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,6 +77,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/fletcher-king--flk/holding-s-in-company/9714035",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,16 +88,21 @@
       "category": "Dividend",
       "headline": "Board Changes and Special Dividend",
       "url": "https://www.investegate.co.uk/announcement/rns/fletcher-king--flk/board-changes-and-special-dividend/9627916",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The combination of board changes and a special dividend signals a strategic pivot to return capital while restructuring governance, likely reflecting pressure for efficiency in the competitive UK recruitment sector.",
+      "key_themes": [
+        "capital_return",
+        "governance_change"
+      ]
     },
     {
       "timestamp": "2026-05-29T07:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/fletcher-king--flk/holding-s-in-company/9590914",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -93,6 +113,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/fletcher-king--flk/holding-s-in-company/9590913",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

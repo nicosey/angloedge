@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/motorpoint-group--motr/holding-s-in-company/9879898",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/motorpoint-group--motr/director-pdmr-shareholding/9877863",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Motorpoint's valuation or operational trajectory, reflecting normal insider activity rather than a strategic shift.",
@@ -33,6 +35,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/motorpoint-group--motr/holding-s-in-company/9736578",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,6 +46,7 @@
       "category": null,
       "headline": "Awards granted under the Long Term Incentive Plan",
       "url": "https://www.investegate.co.uk/announcement/rns/motorpoint-group--motr/awards-granted-under-the-long-term-incentive-plan-/9699017",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,16 +57,21 @@
       "category": null,
       "headline": "Restricted Share Award",
       "url": "https://www.investegate.co.uk/announcement/rns/motorpoint-group--motr/restricted-share-award/9698964",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement reflects standard executive compensation mechanics rather than a strategic shift or capital event, indicating no immediate material impact on Motorpoint's valuation or operational trajectory.",
+      "key_themes": [
+        "Executive Compensation",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-07-29T12:03:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/motorpoint-group--motr/holding-s-in-company/9693989",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,6 +82,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/motorpoint-group--motr/director-pdmr-dealings/9690950",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine disclosure of individual director transactions which typically carries negligible signal for Motorpoint's valuation compared to broader automotive retail margins and interest rate sensitivity.",
@@ -86,16 +96,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/motorpoint-group--motr/result-of-agm/9684979",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting confirmation of shareholder votes for Motorpoint Group's Annual General Meeting, which typically involves routine matters such as director reappointments and auditor remuneration rather than strategic shifts or capital allocation changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-24T12:18:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/motorpoint-group--motr/holding-s-in-company/9634764",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -106,10 +121,14 @@
       "category": "AGM/EGM",
       "headline": "FY26 Annual Report and Accounts and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/motorpoint-group--motr/fy26-annual-report-and-accounts-and-notice-of-agm/9634450",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard statutory filing for Motorpoint Group, marking the conclusion of its FY26 financial year and convening the AGM; while routine for listed entities, it provides essential data on the used car retailer's performance amidst shifting consumer demand and interest rate environments.",
+      "key_themes": [
+        "Corporate Governance",
+        "Annual Reporting"
+      ]
     }
   ]
 }

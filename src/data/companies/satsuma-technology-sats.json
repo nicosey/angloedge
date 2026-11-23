@@ -10,26 +10,36 @@
       "category": null,
       "headline": "Cancellation - SATSUMA TECHNOLOGY PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/satsuma-technology-plc--sats/cancellation-satsuma-technology-plc/9833747",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Cancellation of a share class is a standard administrative procedure to simplify the capital structure and reduce ongoing compliance costs, carrying no direct financial implication for existing shareholders.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-10-20T15:56:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM and Cancellation of Listing",
       "url": "https://www.investegate.co.uk/announcement/rns/satsuma-technology-plc--sats/result-of-agm-and-cancellation-of-listing/9832546",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "The cancellation of listing signifies a delisting from the AIM market, typically preceding a takeover or private equity buyout; this represents a fundamental structural change and exit event for public shareholders rather than routine administration.",
+      "key_themes": [
+        "Delisting",
+        "Corporate Action",
+        "Liquidity Risk"
+      ]
     },
     {
       "timestamp": "2026-09-25T14:45:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/satsuma-technology-plc--sats/notice-of-agm/9792205",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,80 +50,115 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/satsuma-technology-plc--sats/directorate-change/9790141",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative update regarding Satsuma Technology's board composition; without details on the appointee's background or specific mandate, this lacks immediate strategic weight for valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-09-14T12:05:00",
       "category": null,
       "headline": "Update on de-listing",
       "url": "https://www.investegate.co.uk/announcement/rns/satsuma-technology-plc--sats/update-on-de-listing/9770822",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Delisting from the AIM market typically signals a transition to private ownership or a move to a different regulatory regime, often driven by the high compliance costs relative to liquidity for small-cap tech firms; this reduces public market visibility but may allow for longer-term strategic focus without quarterly earnings pressure.",
+      "key_themes": [
+        "Delisting",
+        "AIM",
+        "Corporate Governance",
+        "Liquidity"
+      ]
     },
     {
       "timestamp": "2026-09-08T15:01:00",
       "category": null,
       "headline": "Court approval of reduction of capital",
       "url": "https://www.investegate.co.uk/announcement/rns/satsuma-technology-plc--sats/court-approval-of-reduction-of-capital-/9761481",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Court-approved capital reduction typically signals a structural balance sheet reset to facilitate future M&A or dividend distributions, reflecting management's intent to optimize equity structure rather than immediate operational change.",
+      "key_themes": [
+        "capital_structure",
+        "corporate_governance"
+      ]
     },
     {
       "timestamp": "2026-08-04T16:21:00",
       "category": null,
       "headline": "Update on Proposed Reduction of Capital",
       "url": "https://www.investegate.co.uk/announcement/rns/satsuma-technology-plc--sats/update-on-proposed-reduction-of-capital/9704601",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This capital reduction is a structural housekeeping measure to clean up the balance sheet following the acquisition of Satsuma Software, facilitating future M&A flexibility rather than signaling immediate distress or aggressive growth.",
+      "key_themes": [
+        "Capital Structure",
+        "M&A Readiness"
+      ]
     },
     {
       "timestamp": "2026-07-20T15:26:00",
       "category": null,
       "headline": "Result of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/satsuma-technology-plc--sats/result-of-gm-/9678127",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The 'Result of GM' headline typically denotes a minor administrative update regarding General Meeting outcomes, such as the ratification of director appointments or share capital changes, rather than material financial performance data. Without evidence of a significant mandate change or strategic pivot, this is classified as routine corporate governance activity with negligible immediate market impact.",
+      "key_themes": [
+        "corporate_governance",
+        "shareholder_approval"
+      ]
     },
     {
       "timestamp": "2026-07-03T11:35:00",
       "category": null,
       "headline": "Corporate Update",
       "url": "https://www.investegate.co.uk/announcement/rns/satsuma-technology-plc--sats/corporate-update-/9652258",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Without the specific text of the update, this is classified as administrative; in the absence of material financial data or strategic shifts, such announcements typically have negligible immediate impact on SATS's valuation relative to its core logistics operations.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-01T12:24:00",
       "category": null,
       "headline": "Monthly Fact Pack — July 2026 Update",
       "url": "https://www.investegate.co.uk/announcement/rns/satsuma-technology-plc--sats/monthly-fact-pack-july-2026-update/9647615",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine monthly reporting for a micro-cap tech firm carries negligible market-moving weight; without accompanying guidance changes or material contract wins, this update is purely informational and unlikely to alter valuation multiples.",
+      "key_themes": [
+        "Micro-cap",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-06-24T11:08:00",
       "category": null,
       "headline": "Proposed Return of Capital and Delisting",
       "url": "https://www.investegate.co.uk/announcement/rns/satsuma-technology-plc--sats/proposed-return-of-capital-and-delisting/9634577",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This represents a definitive exit for Satsuma Technology, likely triggered by the collapse of its core telecoms infrastructure business and failure to secure rescue financing, marking the end of an era for UK-listed tech hardware. The delisting signals total capital destruction for equity holders, mirroring the fate of other distressed FTSE 250 tech names that failed to pivot successfully.",
+      "key_themes": [
+        "Delisting",
+        "Capital Return",
+        "Distressed Asset"
+      ]
     }
   ]
 }

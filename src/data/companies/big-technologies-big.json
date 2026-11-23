@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/big-technologies--big/holding-s-in-company/9865965",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/big-technologies--big/holding-s-in-company/9865275",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,16 +32,21 @@
       "category": null,
       "headline": "Further Litigation Update",
       "url": "https://www.investegate.co.uk/announcement/rns/big-technologies--big/further-litigation-update/9839999",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Litigation updates are typically non-cash events that rarely alter immediate valuation unless they signal existential risk; without disclosed financial exposure, this is likely routine legal housekeeping rather than a material fundamental shift.",
+      "key_themes": [
+        "Legal Risk",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-10-22T07:00:00",
       "category": "Director Dealing",
       "headline": "PDMR Dealing Notification",
       "url": "https://www.investegate.co.uk/announcement/rns/big-technologies--big/pdmr-dealing-notification/9835264",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard PDMR notification for a technology firm typically reflects routine portfolio diversification rather than strategic conviction; without disclosed volume or price data, this lacks the signal strength to influence valuation multiples in the current tech sector.",
@@ -53,36 +60,49 @@
       "category": null,
       "headline": "Litigation Update",
       "url": "https://www.investegate.co.uk/announcement/rns/big-technologies--big/litigation-update/9816850",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Litigation updates for non-financial firms typically carry low immediate market impact unless they signal existential risk or massive liabilities; without disclosed figures, this is likely routine legal housekeeping rather than a material event.",
+      "key_themes": [
+        "legal_risk",
+        "corporate_governance"
+      ]
     },
     {
       "timestamp": "2026-09-22T10:25:00",
       "category": null,
       "headline": "Contract Extension",
       "url": "https://www.investegate.co.uk/announcement/rns/big-technologies--big/contract-extension/9784652",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Contract extensions are standard operational maintenance for technology firms, indicating continuity rather than growth; without disclosed financial terms or volume expansion, this lacks the catalyst required to move the stock price significantly.",
+      "key_themes": [
+        "operational continuity",
+        "low impact"
+      ]
     },
     {
       "timestamp": "2026-09-14T07:01:00",
       "category": null,
       "headline": "Litigation Update",
       "url": "https://www.investegate.co.uk/announcement/rns/big-technologies--big/litigation-update/9769265",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Litigation updates for tech firms typically signal potential contingent liabilities or operational delays rather than immediate financial shocks; without disclosed settlement figures, the market will likely price this as a low-probability risk event unless it involves core IP rights.",
+      "key_themes": [
+        "Legal Risk",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-09-07T11:29:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/big-technologies--big/holding-s-in-company/9759007",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -93,6 +113,7 @@
       "category": "Director Dealing",
       "headline": "Director Change, Share Issue, PDMR Dealing & TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/big-technologies--big/director-change-share-issue-pdmr-dealing-tvr/9697124",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "The combination of a director change and PDMR dealing suggests routine executive turnover and standard compliance disclosures rather than a strategic pivot; without details on the nature of the share issue or TVR, this remains an administrative update with negligible immediate market impact.",
@@ -106,16 +127,21 @@
       "category": "Appointment",
       "headline": "Director Retirement and Board Change",
       "url": "https://www.investegate.co.uk/announcement/rns/big-technologies--big/director-retirement-and-board-change-/9640567",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board succession in the tech sector; without details on the successor's background or strategic direction, this is likely a neutral administrative update rather than a signal of underlying distress or major pivot.",
+      "key_themes": [
+        "Corporate Governance",
+        "Leadership Transition"
+      ]
     },
     {
       "timestamp": "2026-05-27T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/big-technologies--big/notice-of-agm/9586500",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,

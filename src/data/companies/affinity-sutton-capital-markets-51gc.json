@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Quarterly Investor Update",
       "url": "https://www.investegate.co.uk/announcement/rns/affinity-sutton-capital-markets-plc--51gc/quarterly-investor-update-/9845891",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine quarterly update for a niche REIT focused on specialist housing; lacks the catalysts required to move the stock materially absent concurrent dividend guidance or significant portfolio acquisition news.",
+      "key_themes": [
+        "REIT",
+        "Quarterly Update"
+      ]
     },
     {
       "timestamp": "2026-09-01T10:10:00",
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/affinity-sutton-capital-markets-plc--51gc/admission-to-trading/9749216",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": null,
       "headline": "Publication of Final Terms",
       "url": "https://www.investegate.co.uk/announcement/rns/affinity-sutton-capital-markets-plc--51gc/publication-of-final-terms-/9744188",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,40 +46,57 @@
       "category": null,
       "headline": "Publication of supplement to the Offering Circular",
       "url": "https://www.investegate.co.uk/announcement/rns/affinity-sutton-capital-markets-plc--51gc/publication-of-supplement-to-the-offering-circular/9734827",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative update to finalize the Offering Circular for the current capital raise, likely clarifying terms or updating financial data without altering the core transaction structure. Such supplements are routine in UK equity fundraising and do not signal new strategic developments or material changes to investor sentiment.",
+      "key_themes": [
+        "capital_raise",
+        "regulatory_compliance"
+      ]
     },
     {
       "timestamp": "2026-08-21T08:00:00",
       "category": null,
       "headline": "Board Member Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/affinity-sutton-capital-markets-plc--51gc/board-member-announcement/9733857",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine board composition changes in the UK REIT sector are standard governance updates with negligible immediate financial impact unless accompanied by a strategic pivot or leadership vacuum.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-07-29T08:30:00",
       "category": null,
       "headline": "Quarterly Investor Update",
       "url": "https://www.investegate.co.uk/announcement/rns/affinity-sutton-capital-markets-plc--51gc/quarterly-investor-update-/9693273",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Quarterly updates for closed-end investment trusts like Affinity Sutton are typically routine communications providing NAV and dividend details without triggering significant price action or strategic shifts.",
+      "key_themes": [
+        "Closed-End Fund",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-07-20T08:30:00",
       "category": null,
       "headline": "Group Annual Report and Accounts 2025/26",
       "url": "https://www.investegate.co.uk/announcement/rns/affinity-sutton-capital-markets-plc--51gc/group-annual-report-and-accounts-2025-26/9676912",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a specialist finance house with a closed-end fund structure, the annual report provides critical data on net asset value (NAV) performance and dividend sustainability rather than traditional P&L growth. In the current high-interest-rate environment, this filing is essential for assessing the resilience of its loan book yields against potential credit deterioration in the SME sector.",
+      "key_themes": [
+        "Annual Results",
+        "SME Lending",
+        "NAV Performance"
+      ]
     }
   ]
 }

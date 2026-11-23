@@ -10,30 +10,42 @@
       "category": null,
       "headline": "Result of Tender Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/jsc-nc-kazmunaygas---42ai/result-of-tender-offer/9782213",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement pertains to a foreign sovereign wealth fund's tender offer, which has no direct operational or financial impact on UK-listed equities and is irrelevant to the target company's domestic operations.",
+      "key_themes": [
+        "irrelevant",
+        "foreign_entity"
+      ]
     },
     {
       "timestamp": "2026-09-03T10:03:00",
       "category": null,
       "headline": "Result of Tender Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/jsc-nc-kazmunaygas---42ai/result-of-tender-offer/9754095",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement pertains to a foreign sovereign wealth fund's tender offer, which has no direct operational or financial impact on UK-listed equities, serving merely as an administrative update for the specific issuer.",
+      "key_themes": [
+        "Sovereign Wealth Fund",
+        "Administrative Update"
+      ]
     },
     {
       "timestamp": "2026-08-19T09:31:00",
       "category": null,
       "headline": "Tender Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/jsc-nc-kazmunaygas---42ai/tender-offer/9729652",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement pertains to a foreign sovereign wealth fund's capital market activity, which has zero direct correlation to JSC NC 'KAZMUNAYGAS' (42AI) as the ticker is invalid for this entity and likely refers to a different instrument or is a data error; assuming it implies a generic tender offer in the energy sector, it remains administratively minor without specific deal terms.",
+      "key_themes": [
+        "Corporate Action",
+        "Energy Sector"
+      ]
     }
   ]
 }

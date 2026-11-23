@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/gnw/oxford-technology-2-vct-ot2--oxh/holding-s-in-company/9821086",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,26 +21,35 @@
       "category": "AGM/EGM",
       "headline": "AGM Statement",
       "url": "https://www.investegate.co.uk/announcement/gnw/oxford-technology-2-vct-ot2--oxh/agm-statement/9673450",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for an Investment Company VCT, serving only to confirm the convening of a general meeting without disclosing any material financial data or strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "VCT Administration"
+      ]
     },
     {
       "timestamp": "2026-07-16T17:31:00",
       "category": "AGM/EGM",
       "headline": "AGM Statement",
       "url": "https://www.investegate.co.uk/announcement/gnw/oxford-technology-2-vct-ot2--oxh/agm-statement/9673422",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for a Venture Capital Trust (VCT) confirming the holding of its Annual General Meeting, carrying no substantive financial or strategic weight for investors.",
+      "key_themes": [
+        "Corporate Governance",
+        "VCT Administration"
+      ]
     },
     {
       "timestamp": "2026-07-02T13:16:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/gnw/oxford-technology-2-vct-ot2--oxh/director-pdmr-shareholding/9650172",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Director dealings in a VCT are typically low-liquidity administrative events with negligible price impact on the underlying portfolio assets, reflecting standard compliance rather than strategic shifts.",
@@ -54,6 +64,7 @@
       "category": "Results",
       "headline": "1st Quarter Results",
       "url": "https://www.investegate.co.uk/announcement/gnw/oxford-technology-2-vct-ot2--oxh/1st-quarter-results/9597864",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a VCT, quarterly results primarily reflect portfolio valuation changes and dividend distribution capacity rather than operational growth, making this a routine income-focused update for existing shareholders rather than a catalyst for capital appreciation.",

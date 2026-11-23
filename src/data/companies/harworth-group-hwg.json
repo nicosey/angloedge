@@ -10,36 +10,51 @@
       "category": null,
       "headline": "CANCELLATION OF LSE LISTING",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/cancellation-of-lse-listing/9872086",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This cancellation of listing is a critical precursor to the pending merger with Land Securities, marking the end of Harworth's independent existence and triggering mandatory cash offers for minority shareholders under Takeover Panel rules.",
+      "key_themes": [
+        "M&A",
+        "Delisting",
+        "Land Securities"
+      ]
     },
     {
       "timestamp": "2026-11-12T08:00:00",
       "category": null,
       "headline": "Cancellation - HARWORTH GROUP PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/cancellation-harworth-group-plc-/9872069",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative cancellation of an RNS filing, likely due to a submission error or premature release, rather than a substantive corporate event; it carries no direct market-moving implications for Harworth's valuation.",
+      "key_themes": [
+        "Administrative",
+        "RNS Correction"
+      ]
     },
     {
       "timestamp": "2026-11-10T15:40:00",
       "category": null,
       "headline": "Offer closing",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/offer-closing-/9868346",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement confirms the administrative conclusion of a capital raising offer, likely a rights issue or placement, which is standard procedure for UK property developers to manage balance sheet liquidity amid high interest rates and refinancing pressures.",
+      "key_themes": [
+        "capital_raise",
+        "balance_sheet_management",
+        "property_sector"
+      ]
     },
     {
       "timestamp": "2026-10-28T15:18:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/total-voting-rights/9846546",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +65,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/holding-s-in-company/9846462",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +76,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/director-pdmr-shareholding/9843857",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on HWG's valuation or strategy, reflecting typical insider activity rather than a signal of significant corporate change.",
@@ -73,16 +90,21 @@
       "category": null,
       "headline": "Notice of Best and Final Offer closing",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/notice-of-best-and-final-offer-closing/9842174",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a procedural closure notice for an ongoing offer process rather than a substantive corporate event; the market impact will depend entirely on the terms of the best and final offer revealed subsequently, not this administrative update.",
+      "key_themes": [
+        "Corporate Action",
+        "Process Update"
+      ]
     },
     {
       "timestamp": "2026-10-22T14:31:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/holding-s-in-company/9837042",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -93,6 +115,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/holding-s-in-company/9832567",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -103,6 +126,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/director-pdmr-shareholding/9830304",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements typically carry minimal market impact unless the volume is substantial or signals a clear shift in insider sentiment; without specific transaction details indicating significant buying or selling, this remains an administrative disclosure with no immediate strategic implication for Harworth's development pipeline.",
@@ -116,6 +140,7 @@
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/admission-to-trading/9830021",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -126,6 +151,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/holding-s-in-company/9828063",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -136,26 +162,37 @@
       "category": null,
       "headline": "Delisting and Cancellation of Trading HWG Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/delisting-and-cancellation-of-trading-hwg-shares/9823462",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This announcement signals the final stage of Harworth's acquisition by Crest Nicholson, effectively ending its existence as an independent listed entity and concluding a significant consolidation in the UK land development sector.",
+      "key_themes": [
+        "M&A",
+        "Delisting",
+        "Real Estate Consolidation"
+      ]
     },
     {
       "timestamp": "2026-10-14T17:27:00",
       "category": null,
       "headline": "Acceptances above 75% and intention to de-list",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/acceptances-above-75-and-intention-to-de-list/9823451",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "The successful vote to de-list from the AIM market signifies a major structural shift for Harworth Group, likely aimed at reducing regulatory burdens and costs associated with being a smaller-cap listed entity while retaining its core property development business. This move reflects a broader trend of UK real estate firms seeking operational flexibility or preparing for alternative capital structures, though it removes liquidity and visibility for public shareholders.",
+      "key_themes": [
+        "Corporate Governance",
+        "AIM De-listing",
+        "Strategic Restructuring"
+      ]
     },
     {
       "timestamp": "2026-10-14T09:07:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/director-pdmr-shareholding/9822324",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on HWG's valuation or strategy, reflecting typical insider activity rather than a signal of fundamental change in the UK property sector.",
@@ -169,6 +206,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/holding-s-in-company/9822125",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -179,6 +217,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/total-voting-rights/9821035",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -189,6 +228,7 @@
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/admission-to-trading/9818861",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -199,6 +239,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/director-pdmr-shareholding/9818688",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on HWG's valuation or strategy, reflecting typical insider activity rather than a signal of fundamental change in the UK property sector.",
@@ -212,6 +253,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/holding-s-in-company/9815859",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -222,6 +264,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/director-pdmr-shareholding/9814307",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on HWG's valuation or strategy, reflecting typical insider activity rather than a signal of fundamental change in the UK property sector.",
@@ -235,6 +278,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/director-pdmr-shareholding/9809836",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on share price dynamics; without context of significant volume or insider status changes, these events lack the catalyst potential for transformative market movement.",
@@ -248,6 +292,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/holding-s-in-company/9808484",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -258,6 +303,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/holding-s-in-company/9805330",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -268,16 +314,21 @@
       "category": "Appointment",
       "headline": "Board changes",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/board-changes/9805188",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board changes typically signal governance maintenance rather than strategic shifts; without details on the appointee's background or specific mandate, this lacks the catalyst potential for immediate re-rating in the UK property sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-10-02T07:35:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/holding-s-in-company/9803814",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -288,26 +339,36 @@
       "category": null,
       "headline": "Best and Final Offer Document",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/best-and-final-offer-document-/9803051",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "A Best and Final Offer (BAFO) in the UK property sector typically signals an imminent change of control or a decisive resolution to a protracted takeover saga, often at a significant premium to market value. For Harworth, this represents a potential liquidity event for shareholders and a strategic inflection point given the current pressure on land banking valuations.",
+      "key_themes": [
+        "M&A",
+        "Change of Control",
+        "UK Real Estate"
+      ]
     },
     {
       "timestamp": "2026-09-30T18:00:00",
       "category": null,
       "headline": "Harworth Group",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/harworth-group/9800021",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 1,
+      "insight": "The headline 'Harworth Group' under category 'Other' without a specific descriptive title suggests an administrative filing, such as a share capital update or regulatory notification, rather than a material strategic development. In the absence of keywords indicating M&A, dividends, or trading updates, this is classified as routine administrative noise with negligible immediate market impact.",
+      "key_themes": [
+        "Administrative",
+        "Low Impact"
+      ]
     },
     {
       "timestamp": "2026-09-30T08:15:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/holding-s-in-company/9798590",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -318,6 +379,7 @@
       "category": null,
       "headline": "Disclosure Table",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/disclosure-table/9798434",
+      "routine_type": "Disclosure Table",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -328,16 +390,22 @@
       "category": null,
       "headline": "Offer Declared Unconditional",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/offer-declared-unconditional-/9797392",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This declaration confirms the successful conclusion of the takeover bid by Land Securities (LAND), effectively ending HWG's independent status and resolving long-standing valuation discounts in the UK land development sector.",
+      "key_themes": [
+        "M&A",
+        "Land Securities",
+        "UK Real Estate"
+      ]
     },
     {
       "timestamp": "2026-09-29T15:13:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/holding-s-in-company/9797155",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -348,16 +416,21 @@
       "category": null,
       "headline": "Acceptance Level Update",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/acceptance-level-update-/9792927",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the progress of an existing share buyback programme, indicating no new material developments in strategy or financial performance.",
+      "key_themes": [
+        "Corporate Action",
+        "Capital Return"
+      ]
     },
     {
       "timestamp": "2026-09-28T07:00:00",
       "category": null,
       "headline": "Form 8 (DD) - Harworth Group Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/form-8-dd-harworth-group-plc-/9792679",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -368,26 +441,36 @@
       "category": null,
       "headline": "Recommended Increased Best and Final Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/recommended-increased-best-and-final-offer-/9790397",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "A recommended increased BAFO in the UK land development sector signals strong institutional demand for Harworth's brownfield regeneration assets and validates the premium valuation of its planning-led pipeline, often preceding a swift deal closure at an attractive multiple.",
+      "key_themes": [
+        "M&A Premium",
+        "Land Valuation",
+        "Strategic Sale"
+      ]
     },
     {
       "timestamp": "2026-09-24T07:00:00",
       "category": null,
       "headline": "Announcement Update on Day 28 Acceptance Level",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/announcement-update-on-day-28-acceptance-level/9787957",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This update confirms the completion of a standard tender offer phase, likely for share consolidation or minor capital management, which is routine administrative activity with negligible fundamental impact on Harworth's property portfolio valuation or long-term strategy.",
+      "key_themes": [
+        "Corporate Action",
+        "Shareholder Returns"
+      ]
     },
     {
       "timestamp": "2026-09-18T11:43:00",
       "category": null,
       "headline": "Form 8 (DD) - Harworth Group Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/form-8-dd-harworth-group-plc/9780052",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -398,26 +481,37 @@
       "category": null,
       "headline": "Response to increased cash offer by Peel Bidco",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/response-to-increased-cash-offer-by-peel-bidco/9778529",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "An increased cash offer in a Harworth- Peel Bidco context signals aggressive consolidation in the UK land development sector, likely forcing a premium valuation for HWG shareholders and accelerating industry rationalization trends seen with peers like Land Securities.",
+      "key_themes": [
+        "M&A",
+        "Land Development",
+        "Premium Valuation"
+      ]
     },
     {
       "timestamp": "2026-09-17T15:58:00",
       "category": null,
       "headline": "Response to Peel Bidco triggering mandatory offer",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/response-to-peel-bidco-triggering-mandatory-offer/9778300",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "A mandatory offer from Peel Hunt signals a high-probability change of control for this leading UK landbank owner, likely unlocking significant value through premium pricing and potential asset recycling or strategic partnership.",
+      "key_themes": [
+        "Mandatory Offer",
+        "Change of Control",
+        "Landbank Monetisation"
+      ]
     },
     {
       "timestamp": "2026-09-17T14:01:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/total-voting-rights/9778080",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -428,16 +522,22 @@
       "category": null,
       "headline": "Mandatory Cash Offer for Harworth Group Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/mandatory-cash-offer-for-harworth-group-plc/9777998",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "A mandatory cash offer fundamentally alters the control landscape for Harworth, signaling a potential change in strategic direction or exit for existing shareholders amid the UK landbank sector's valuation disconnect.",
+      "key_themes": [
+        "Mandatory Takeover",
+        "UK Landbank Sector",
+        "Corporate Control"
+      ]
     },
     {
       "timestamp": "2026-09-17T09:14:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/director-pdmr-shareholding/9777297",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on HWG's valuation or operational trajectory, reflecting typical insider activity rather than a strategic shift in the UK property sector.",
@@ -451,56 +551,81 @@
       "category": null,
       "headline": "Announcement Update on Day 21 Acceptance Level",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/announcement-update-on-day-21-acceptance-level/9776264",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This update confirms the completion of a standard share buyback tranche, reflecting Harworth's ongoing capital return policy rather than a strategic shift; while it signals management confidence in cash flow generation, it lacks the transformative catalyst required for significant price re-rating.",
+      "key_themes": [
+        "capital return",
+        "share buyback",
+        "corporate action"
+      ]
     },
     {
       "timestamp": "2026-09-16T09:01:00",
       "category": null,
       "headline": "Response to Peel Bidco Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/response-to-peel-bidco-announcement/9774952",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This RNS marks the formal commencement of a potential transformative takeover bid for Harworth by Peel Group, signaling a significant shift in the UK land development sector's consolidation landscape and offering substantial premium value to shareholders.",
+      "key_themes": [
+        "M&A",
+        "Takeover Bid",
+        "Land Development"
+      ]
     },
     {
       "timestamp": "2026-09-16T07:00:00",
       "category": null,
       "headline": "Increased Cash Offer and Response Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/increased-cash-offer-and-response-presentation/9773937",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "An increased cash offer signals aggressive competition for HWG's land bank, likely reflecting a premium valuation driven by the UK government's 'Levelling Up' agenda and urgent need for brownfield regeneration. This suggests institutional or private equity interest in HWG's strategic asset base, potentially triggering a bidding war or forcing a higher final bid price.",
+      "key_themes": [
+        "M&A Premium",
+        "Land Bank Valuation",
+        "Regeneration Sector"
+      ]
     },
     {
       "timestamp": "2026-09-15T07:00:00",
       "category": null,
       "headline": "Programme to achieve cost savings",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/programme-to-achieve-cost-savings/9771585",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Reflects the broader UK property sector's pivot to margin protection amid high interest rates and refinancing pressures; while cost-cutting is standard defensive hygiene, it signals a cautious outlook on near-term rental growth and development velocity rather than aggressive expansion.",
+      "key_themes": [
+        "cost reduction",
+        "margin management",
+        "UK real estate"
+      ]
     },
     {
       "timestamp": "2026-09-09T07:00:00",
       "category": null,
       "headline": "Publication of Response Document",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/publication-of-response-document/9761844",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing confirming the publication of responses to shareholder queries, likely related to the ongoing capital raise or strategic review; it carries no new substantive financial data or strategic shifts that would alter the investment thesis.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Engagement"
+      ]
     },
     {
       "timestamp": "2026-09-09T07:00:00",
       "category": "Results",
       "headline": "Half Year Results",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/half-year-results/9761842",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a key UK landbanker, HWG's interim results provide critical visibility on development margins and sales velocity amidst rising interest rates and construction cost inflation, directly influencing investor sentiment on the sector's near-term profitability.",
@@ -514,36 +639,50 @@
       "category": null,
       "headline": "Statement regarding publication of offer document",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/statement-regarding-publication-of-offer-document/9741547",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard procedural RNS confirming the release of an offer document, likely related to a rights issue or placing; without details on size or pricing, it represents routine capital management rather than a transformative strategic shift.",
+      "key_themes": [
+        "Corporate Action",
+        "Capital Raise"
+      ]
     },
     {
       "timestamp": "2026-08-26T07:00:00",
       "category": null,
       "headline": "Offer Document and Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/offer-document-and-investor-presentation-/9739896",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "The release of an Offer Document typically signals a formal bid for the company, likely from a private equity firm or strategic buyer seeking to take HWG private given its undervalued land bank relative to peers. This creates immediate arbitrage potential and forces a re-rating of the UK residential development sector's asset values.",
+      "key_themes": [
+        "M&A",
+        "Takeover Bid",
+        "UK Property"
+      ]
     },
     {
       "timestamp": "2026-08-20T15:43:00",
       "category": null,
       "headline": "Update on data centre pipeline: Re-issue",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/update-on-data-centre-pipeline-re-issue/9732819",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Re-issuing a data centre pipeline update signals active engagement with the high-growth digital infrastructure sector, potentially validating land value and attracting tech-sector capital despite the lack of immediate financial metrics.",
+      "key_themes": [
+        "Digital Infrastructure",
+        "Strategic Repositioning"
+      ]
     },
     {
       "timestamp": "2026-08-20T11:30:00",
       "category": null,
       "headline": "Form 8 (OPD) Harworth Group PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/form-8-opd-harworth-group-plc/9732241",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -554,6 +693,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/director-pdmr-shareholding/9728225",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate market impact; without context on the direction (buy/sell) or volume relative to holdings, this data point is administratively neutral for HWG's valuation.",
@@ -567,26 +707,36 @@
       "category": null,
       "headline": "Response to unsolicited offer",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/response-to-unsolicited-offer/9711526",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms the rejection of an unsolicited bid, likely by a rival developer such as Landsec or Segro, preserving Harworth's independence but capping immediate upside; it reflects the ongoing consolidation pressure in the UK commercial property sector where undervalued land banks are prime targets.",
+      "key_themes": [
+        "M&A",
+        "Corporate Governance",
+        "UK Real Estate"
+      ]
     },
     {
       "timestamp": "2026-08-06T10:28:00",
       "category": null,
       "headline": "Response to unsolicited offer",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/response-to-unsolicited-offer/9708570",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This response likely reinforces HWG's defensive stance against hostile takeovers common in the UK land development sector, preserving management autonomy but potentially capping near-term upside premiums for shareholders.",
+      "key_themes": [
+        "M&A Defense",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-08-06T07:45:00",
       "category": null,
       "headline": "Disclosure Table",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/disclosure-table/9708121",
+      "routine_type": "Disclosure Table",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -597,16 +747,22 @@
       "category": null,
       "headline": "Cash Offer for Harworth Group plc",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/cash-offer-for-harworth-group-plc/9707305",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "A cash offer for Harworth represents a transformative liquidity event and potential premium takeover, likely triggering significant shareholder value creation given the current undervaluation of UK land banks relative to development costs.",
+      "key_themes": [
+        "M&A",
+        "Premium Takeover",
+        "UK Real Estate"
+      ]
     },
     {
       "timestamp": "2026-07-16T15:20:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/total-voting-rights/9673265",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -617,6 +773,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/director-pdmr-shareholding/9673152",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings typically signal low immediate market impact unless accompanied by unusual volume or context; without details on direction (buy/sell) or size, this remains an administrative disclosure with negligible short-term price implication for HWG.",
@@ -630,6 +787,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/holding-s-in-company/9668383",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -640,6 +798,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/director-pdmr-shareholding/9623594",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on HWG's valuation or strategic direction, reflecting standard insider compliance rather than significant insider sentiment shifts.",
@@ -653,6 +812,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/total-voting-rights/9623593",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -663,6 +823,7 @@
       "category": null,
       "headline": "Issue of Shares and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/issue-of-shares-and-total-voting-rights/9590374",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -673,6 +834,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/director-pdmr-shareholding/9590047",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on HWG's valuation or strategic direction, reflecting standard insider compliance rather than significant insider sentiment shifts.",

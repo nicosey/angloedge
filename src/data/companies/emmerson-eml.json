@@ -10,36 +10,49 @@
       "category": null,
       "headline": "Capital Access Window - Emmerson plc",
       "url": "https://www.investegate.co.uk/announcement/rns/emmerson-npv--eml/capital-access-window-emmerson-plc/9883738",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice regarding the reopening of the company's capital access window for share dealings, indicating no immediate material corporate action or strategic shift.",
+      "key_themes": [
+        "Corporate Governance",
+        "Share Dealing"
+      ]
     },
     {
       "timestamp": "2026-11-19T07:00:00",
       "category": null,
       "headline": "Capital Access Window",
       "url": "https://www.investegate.co.uk/announcement/rns/emmerson-npv--eml/capital-access-window/9882953",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms the operational launch of a secondary capital raise mechanism rather than disclosing specific transaction terms or pricing, limiting immediate quantitative impact. While it signals management's intent to optimize the balance sheet, the actual market reaction will depend entirely on the size and dilution profile of subsequent tranches.",
+      "key_themes": [
+        "capital_raise",
+        "balance_sheet_management"
+      ]
     },
     {
       "timestamp": "2026-11-02T13:19:00",
       "category": "AGM/EGM",
       "headline": "AGM Notice",
       "url": "https://www.investegate.co.uk/announcement/rns/emmerson-npv--eml/agm-notice-/9853814",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice for an Annual General Meeting, typical for routine shareholder approvals such as director re-elections and auditor appointments. It carries no immediate financial or strategic weight for the equity valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-30T16:09:00",
       "category": "Results",
       "headline": "Final Results",
       "url": "https://www.investegate.co.uk/announcement/rns/emmerson-npv--eml/final-results/9645266",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a SPAC with limited operational history, final results are largely administrative confirmations of liquidation or extension terms rather than indicators of fundamental business performance, offering minimal alpha for equity investors.",
@@ -53,10 +66,14 @@
       "category": null,
       "headline": "Khemisset Multi-mineral Process Patent",
       "url": "https://www.investegate.co.uk/announcement/rns/emmerson-npv--eml/khemisset-multi-mineral-process-patent-/9626565",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "While proprietary processing technology offers potential margin advantages for critical mineral extraction, IP announcements for pre-revenue juniors rarely drive immediate valuation re-ratings without proven commercial scale or offtake agreements.",
+      "key_themes": [
+        "IP",
+        "Processing Technology"
+      ]
     }
   ]
 }

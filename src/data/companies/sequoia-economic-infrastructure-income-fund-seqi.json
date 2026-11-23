@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/sequoia-economic-infrastructure-income-fund-limited--seqi/transaction-in-own-shares/9885171",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/sequoia-economic-infrastructure-income-fund-limited--seqi/total-voting-rights/9853888",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,26 +32,35 @@
       "category": null,
       "headline": "Purchase of Shares re Investment Adviser Fees",
       "url": "https://www.investegate.co.uk/announcement/rns/sequoia-economic-infrastructure-income-fund-limited--seqi/purchase-of-shares-re-investment-adviser-fees/9835430",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative transaction where the fund acquires shares to cover investment adviser fees, a routine operational mechanism for closed-end funds that avoids cash outflows but slightly dilutes existing holdings.",
+      "key_themes": [
+        "administrative",
+        "fee_payment_in_kind"
+      ]
     },
     {
       "timestamp": "2026-10-19T11:58:00",
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/sequoia-economic-infrastructure-income-fund-limited--seqi/dividend-declaration/9829853",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine dividend declaration for a closed-end infrastructure fund; while critical for yield-seeking income investors, it reflects standard distribution policy rather than transformative corporate action.",
+      "key_themes": [
+        "Dividend",
+        "Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-09-15T16:13:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/sequoia-economic-infrastructure-income-fund-limited--seqi/holding-s-in-company/9773651",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +71,7 @@
       "category": null,
       "headline": "QuotedData's In The HotSeat Special",
       "url": "https://www.investegate.co.uk/announcement/rns/sequoia-economic-infrastructure-income-fund-limited--seqi/quoteddata-s-in-the-hotseat-special/9744167",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,6 +82,7 @@
       "category": "Director Dealing",
       "headline": "PDMR / PCA Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sequoia-economic-infrastructure-income-fund-limited--seqi/pdmr-pca-shareholding/9737488",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of insider shareholding changes, which provides transparency but lacks the transformative catalysts required for significant price movement in the closed-end fund sector.",
@@ -83,6 +96,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/sequoia-economic-infrastructure-income-fund-limited--seqi/director-pdmr-shareholding/9699439",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements for closed-end funds like SEQI and typically carry negligible market impact unless the volume is exceptional or signals a clear shift in insider sentiment.",
@@ -96,16 +110,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/sequoia-economic-infrastructure-income-fund-limited--seqi/result-of-agm/9691572",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of routine shareholder votes for an investment trust, carrying no new strategic direction or financial data.",
+      "key_themes": [
+        "Corporate Governance",
+        "Investment Trust"
+      ]
     },
     {
       "timestamp": "2026-07-21T07:00:00",
       "category": null,
       "headline": "Kepler Trust Intelligence: New Research",
       "url": "https://www.investegate.co.uk/announcement/rns/sequoia-economic-infrastructure-income-fund-limited--seqi/kepler-trust-intelligence-new-research/9678496",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -116,16 +135,22 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/sequoia-economic-infrastructure-income-fund-limited--seqi/dividend-declaration/9670784",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine dividend declaration for a closed-end infrastructure fund; while critical for yield-seeking investors, it lacks the transformative catalysts required to drive significant capital appreciation in the current rate environment.",
+      "key_themes": [
+        "Dividend",
+        "Infrastructure",
+        "Yield"
+      ]
     },
     {
       "timestamp": "2026-07-07T18:09:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/sequoia-economic-infrastructure-income-fund-limited--seqi/notice-of-agm/9657060",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -136,6 +161,7 @@
       "category": "Results",
       "headline": "Notice of Results & Investor and Analyst Call",
       "url": "https://www.investegate.co.uk/announcement/rns/sequoia-economic-infrastructure-income-fund-limited--seqi/notice-of-results-investor-and-analyst-call/9602955",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a listed infrastructure income fund, SEQI's results are critical for tracking yield sustainability and NAV performance in a high-interest-rate environment, though this is a standard reporting event rather than a strategic inflection point.",
@@ -150,6 +176,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/sequoia-economic-infrastructure-income-fund-limited--seqi/total-voting-rights/9595611",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

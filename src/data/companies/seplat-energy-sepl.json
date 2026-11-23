@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/director-pdmr-shareholding/9879587",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Seplat's valuation or operational trajectory, reflecting individual portfolio management rather than corporate strategy shifts.",
@@ -23,6 +24,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/director-pdmr-shareholding/9879586",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on Seplat's valuation or operational trajectory, reflecting individual portfolio management rather than corporate strategy shifts.",
@@ -36,26 +38,36 @@
       "category": "Dividend",
       "headline": "CURRENCY EXCHANGE RATE Q3 2026 & SPECIAL DIVIDEND",
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/currency-exchange-rate-q3-2026-special-dividend/9872224",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The combination of FX rate disclosure and a special dividend signals strong cash generation from Seplat's upstream assets, likely reflecting favorable Naira/USD dynamics or hedging outcomes; this reinforces the stock's appeal as a high-yield commodity play amidst Nigeria's broader currency volatility.",
+      "key_themes": [
+        "Shareholder Return",
+        "FX Exposure",
+        "Upstream Cash Flow"
+      ]
     },
     {
       "timestamp": "2026-10-29T07:00:00",
       "category": null,
       "headline": "Corporate Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/corporate-announcement/9846910",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The 'Other' category with a generic headline typically indicates routine corporate governance filings such as director changes or minor share capital updates, which lack the materiality to drive immediate price action in Seplat's volatile upstream sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-10-29T07:00:00",
       "category": "Results",
       "headline": "Unaudited Q3 Results Ended: 30th September 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/unaudited-q3-results-ended-30th-september-2026/9846891",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a pure-play upstream E&P in Nigeria's volatile regulatory environment, Q3 results provide critical visibility on production resilience and cash flow generation amidst global oil price fluctuations.",
@@ -70,6 +82,7 @@
       "category": null,
       "headline": "TR-1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/tr-1-notification-of-major-holdings/9778040",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,6 +93,7 @@
       "category": null,
       "headline": "TR-1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/tr-1-notification-of-major-holdings-/9737392",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,46 +104,64 @@
       "category": null,
       "headline": "NOTIFICATION OF TRANSACTIONS - LTIP",
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/notification-of-transactions-ltip-/9737369",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure of executive share transactions under the Long Term Incentive Plan, reflecting routine compensation mechanics rather than strategic shifts or insider sentiment signals.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Compensation"
+      ]
     },
     {
       "timestamp": "2026-08-13T08:00:00",
       "category": "Dividend",
       "headline": "CURRENCY EXCHANGE RATE Q2 2026 & SPECIAL DIVIDEND",
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/currency-exchange-rate-q2-2026-special-dividend/9719905",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The combination of FX rate disclosure and a special dividend signals strong cash generation from Seplat's upstream operations in Nigeria, likely driven by favorable Naira devaluation dynamics boosting USD-equivalent revenues. This reinforces the stock's appeal as a high-yield commodity play but highlights persistent currency risk for international investors.",
+      "key_themes": [
+        "Shareholder Returns",
+        "FX Risk",
+        "Upstream Cash Flow"
+      ]
     },
     {
       "timestamp": "2026-07-30T07:03:00",
       "category": null,
       "headline": "Corporate Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/corporate-announcement/9694950",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The 'Other' category with a generic headline typically denotes routine administrative filings such as share capital changes or minor regulatory updates, lacking the materiality to drive immediate price action in Seplat's volatile upstream sector.",
+      "key_themes": [
+        "administrative",
+        "low-impact"
+      ]
     },
     {
       "timestamp": "2026-07-30T07:02:00",
       "category": null,
       "headline": "Board Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/board-announcement/9694919",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Without the specific text of the announcement, this is classified as administrative; typically, 'Board Announcements' in this category involve routine governance updates or minor director dealings that lack immediate fundamental impact on Seplat's upstream production or downstream refining margins.",
+      "key_themes": [
+        "governance",
+        "routine"
+      ]
     },
     {
       "timestamp": "2026-07-30T07:01:00",
       "category": "Results",
       "headline": "Unaudited Results for Six Months Ended: 30.06.2026",
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/unaudited-results-for-six-months-ended-30-06-2026/9694859",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a key proxy for Nigerian upstream exposure, Seplat's interim results are critical for assessing resilience against Naira devaluation and production volatility in the face of global energy price fluctuations.",
@@ -144,6 +176,7 @@
       "category": "Results",
       "headline": "Notice of Half Year 2026 Financial Results",
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/notice-of-half-year-2026-financial-results/9671316",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a pure-play upstream E&P with high leverage to Brent prices and Naira FX volatility, this interim report is critical for assessing cash flow resilience and dividend sustainability in the current Nigerian oil sector climate.",
@@ -158,6 +191,7 @@
       "category": "Director Dealing",
       "headline": "Notification of Dealing in Shares by a PDMR",
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/notification-of-dealing-in-shares-by-a-pdmr/9612078",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR notification with no disclosed volume or price, indicating standard compliance rather than strategic signal; lacks the materiality to influence Seplat's valuation or sector sentiment.",
@@ -171,30 +205,42 @@
       "category": null,
       "headline": "Board and Executive Management Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/board-and-executive-management-changes/9609563",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Executive changes in the upstream oil & gas sector are common but rarely transformative without a concurrent strategic shift; investors will focus on continuity of production targets and cost discipline rather than the personnel change itself.",
+      "key_themes": [
+        "Corporate Governance",
+        "Management Continuity"
+      ]
     },
     {
       "timestamp": "2026-06-05T11:00:00",
       "category": "Dividend",
       "headline": "Currency Exchange Rate For Q12026 Interim Dividend",
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/currency-exchange-rate-for-q12026-interim-dividend/9604541",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding the FX rate applied to the Q1 2026 interim dividend, which has no bearing on Seplat's underlying operational performance or long-term valuation.",
+      "key_themes": [
+        "Dividend",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-05-29T14:40:00",
       "category": null,
       "headline": "Persons discharging managerial responsibilities",
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/persons-discharging-managerial-responsibilities/9592720",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure of insider trading activity by Seplat's management, which provides transparency but lacks the transformative catalyst required for significant price movement in the current oil-focused sector.",
+      "key_themes": [
+        "Insider Dealing",
+        "Corporate Governance"
+      ]
     }
   ]
 }

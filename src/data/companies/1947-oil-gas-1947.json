@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/1947-oil-gas-plc--1947/holding-s-in-company/9804236",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,20 +21,29 @@
       "category": null,
       "headline": "Unaudited Interim Financials: Renaissance Offshore",
       "url": "https://www.investegate.co.uk/announcement/rns/1947-oil-gas-plc--1947/unaudited-interim-financials-renaissance-offshore/9799779",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Interim results for Renaissance Offshore provide critical visibility into the UK Continental Shelf's maturing asset base, where production decline management and cost control are paramount for maintaining shareholder returns.",
+      "key_themes": [
+        "UKCS",
+        "Interim Results"
+      ]
     },
     {
       "timestamp": "2026-09-28T07:00:00",
       "category": "New Listing",
       "headline": "Admission to AIM and First Day of Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/1947-oil-gas-plc--1947/admission-to-aim-and-first-day-of-dealings/9792812",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Admission to AIM is a standard administrative milestone for private companies seeking liquidity rather than a transformative commercial event; while it provides an exit route for early investors and raises capital, the immediate market impact is limited by the lack of trading history or established revenue streams typical of pre-revenue oil & gas exploration entities.",
+      "key_themes": [
+        "AIM Listing",
+        "Capital Raising",
+        "Oil & Gas"
+      ]
     }
   ]
 }

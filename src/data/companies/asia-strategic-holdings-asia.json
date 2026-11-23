@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Conversion of Shares and Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/asia-strategic-holdings-limited-npv-di---asia/conversion-of-shares-and-issue-of-equity-/9858726",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard capital structure adjustment typical of small-cap AIM vehicles to enhance liquidity or facilitate shareholder exits, lacking any transformative operational or strategic weight.",
+      "key_themes": [
+        "Capital Structure",
+        "Liquidity Management"
+      ]
     },
     {
       "timestamp": "2026-11-04T07:00:00",
       "category": "Trading Update",
       "headline": "Update on Convertible Note & Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/asia-strategic-holdings-limited-npv-di---asia/update-on-convertible-note-trading-update-/9856813",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "The dual focus on convertible note resolution and trading performance suggests critical liquidity management for a micro-cap, highlighting ongoing solvency or refinancing risks common in distressed Asian equity vehicles.",
@@ -33,26 +38,35 @@
       "category": "AGM/EGM",
       "headline": "Result of EGM",
       "url": "https://www.investegate.co.uk/announcement/rns/asia-strategic-holdings-limited-npv-di---asia/result-of-egm/9796365",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a standard EGM result announcement for a small-cap investment trust, this is likely routine administrative disclosure with no immediate material impact on valuation unless specific resolutions regarding capital structure or director remuneration were passed.",
+      "key_themes": [
+        "Corporate Governance",
+        "Small Cap"
+      ]
     },
     {
       "timestamp": "2026-09-14T07:00:00",
       "category": "AGM/EGM",
       "headline": "Change of auditor and notice of EGM",
       "url": "https://www.investegate.co.uk/announcement/rns/asia-strategic-holdings-limited-npv-di---asia/change-of-auditor-and-notice-of-egm-/9769136",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine administrative change of auditor for a micro-cap vehicle holding Asian real estate assets; while standard governance practice, it signals no immediate strategic shift or financial distress given the lack of accompanying profit warnings or capital raises.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap Administration"
+      ]
     },
     {
       "timestamp": "2026-06-11T07:00:00",
       "category": null,
       "headline": "Grant of Options",
       "url": "https://www.investegate.co.uk/announcement/rns/asia-strategic-holdings-limited-npv-di---asia/grant-of-options/9612457",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,6 +77,7 @@
       "category": "Results",
       "headline": "Interim results for six months ended 31 March 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/asia-strategic-holdings-limited-npv-di---asia/interim-results-for-six-months-ended-31-march-2026/9607743",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a small-cap investment trust, ASIA's interim results provide critical visibility into its exposure to Asian equity volatility and currency fluctuations; the market will scrutinize NAV movement and discount levels relative to the broader EM recovery narrative.",

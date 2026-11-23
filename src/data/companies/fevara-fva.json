@@ -10,16 +10,21 @@
       "category": "Appointment",
       "headline": "Board Change",
       "url": "https://www.investegate.co.uk/announcement/rns/fevara-plc--fva/board-change/9885193",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board changes in the small-cap tech sector typically signal governance adjustments rather than strategic pivots; without details on the appointee's background or specific mandate, this lacks the catalyst potential for significant re-rating.",
+      "key_themes": [
+        "governance",
+        "small-cap"
+      ]
     },
     {
       "timestamp": "2026-11-19T07:00:00",
       "category": null,
       "headline": "Notice of Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/fevara-plc--fva/notice-of-investor-presentation/9882977",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": "Results",
       "headline": "Notice of Annual Results",
       "url": "https://www.investegate.co.uk/announcement/rns/fevara-plc--fva/notice-of-annual-results/9875772",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the release of annual results rather than the results themselves; it carries no immediate pricing impact or strategic signal for Fevara plc.",
@@ -43,36 +49,49 @@
       "category": null,
       "headline": "MelloMonday Investor Webinar",
       "url": "https://www.investegate.co.uk/announcement/rns/fevara-plc--fva/mellomonday-investor-webinar/9804495",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Investor webinars are standard IR maintenance activities that do not convey new financial data or strategic shifts; for a micro-cap like Fevara, this lacks the catalyst weight to influence valuation.",
+      "key_themes": [
+        "investor_relations",
+        "corporate_communications"
+      ]
     },
     {
       "timestamp": "2026-09-01T08:20:00",
       "category": "Appointment",
       "headline": "Appointment of Company Secretary",
       "url": "https://www.investegate.co.uk/announcement/rns/fevara-plc--fva/appointment-of-company-secretary/9748824",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing ensuring regulatory compliance with UK Corporate Governance Code requirements for listed entities. While essential for governance structure, it carries no immediate financial or strategic weight for equity valuation.",
+      "key_themes": [
+        "corporate_governance",
+        "administrative"
+      ]
     },
     {
       "timestamp": "2026-08-11T13:07:00",
       "category": null,
       "headline": "Chirton Disposal & Completion of Strategic Refocus",
       "url": "https://www.investegate.co.uk/announcement/rns/fevara-plc--fva/chirton-disposal-completion-of-strategic-refocus/9716142",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The disposal of Chirton signals a decisive pivot away from legacy assets toward core high-margin operations, aligning with the broader UK market trend of portfolio simplification to unlock shareholder value and improve EBITDA margins.",
+      "key_themes": [
+        "Strategic Refocus",
+        "Asset Divestment"
+      ]
     },
     {
       "timestamp": "2026-08-05T18:07:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholdings",
       "url": "https://www.investegate.co.uk/announcement/rns/fevara-plc--fva/director-pdmr-shareholdings/9707156",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry minimal market impact unless accompanied by unusual volume or timing relative to price movements; without specific transaction details in the headline, this is classified as administrative.",
@@ -86,16 +105,21 @@
       "category": null,
       "headline": "Change of Company Secretary",
       "url": "https://www.investegate.co.uk/announcement/rns/fevara-plc--fva/change-of-company-secretary/9707116",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing with no direct financial or strategic implication for Fevara's valuation; such changes are routine governance updates common across the UK AIM market and do not signal underlying business shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-23T16:41:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/fevara-plc--fva/total-voting-rights/9685029",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -106,6 +130,7 @@
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/fevara-plc--fva/admission-to-trading/9685025",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -116,16 +141,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM - Update Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/fevara-plc--fva/result-of-agm-update-statement/9685007",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director re-election and auditor appointment rather than strategic shifts or capital allocation changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-07-20T11:29:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/fevara-plc--fva/director-pdmr-shareholding/9677232",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements typically carry minimal market impact unless accompanied by unusual volume or timing relative to price action; without specific deal details, this is classified as administrative noise rather than a strategic signal.",
@@ -139,6 +169,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/fevara-plc--fva/director-pdmr-shareholding/9673309",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of insider shareholding changes, which provides transparency but lacks the transformative catalysts required for significant price movement in the absence of accompanying trading updates or strategic announcements.",
@@ -152,10 +183,14 @@
       "category": null,
       "headline": "Fevara supports Ruminant Health & Welfare",
       "url": "https://www.investegate.co.uk/announcement/rns/fevara-plc--fva/fevara-supports-ruminant-health-welfare/9640596",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement reflects standard corporate social responsibility activities with no material financial impact on Fevara's core business operations or revenue streams.",
+      "key_themes": [
+        "CSR",
+        "Corporate Governance"
+      ]
     }
   ]
 }

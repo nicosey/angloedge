@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/victorian-plumbing-group--vic/director-declaration/9822783",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,21 @@
       "category": "Appointment",
       "headline": "Appointment of Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/rns/victorian-plumbing-group--vic/appointment-of-non-executive-director/9771591",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board refreshment typical for Victorian Plumbing's current governance cycle; lacks the strategic weight of M&A or leadership changes to move the needle on valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-07-16T13:19:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/victorian-plumbing-group--vic/director-pdmr-dealings/9672993",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in the competitive home improvement sector typically signal internal liquidity management rather than strategic shifts, offering no immediate catalyst for VIC's valuation amidst broader consumer spending pressures.",
@@ -43,6 +49,7 @@
       "category": "Director Dealing",
       "headline": "Director / PDMR Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/victorian-plumbing-group--vic/director-pdmr-dealings/9639897",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible pricing impact for Victorian Plumbing; without context on volume or direction (buy/sell), this is routine administrative noise rather than a signal of insider sentiment.",

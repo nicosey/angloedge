@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/fdm-group-holdings---fdm/holding-s-in-company/9870927",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Results",
       "headline": "Notice of Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/fdm-group-holdings---fdm/notice-of-interim-results/9650226",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a key player in the UK IT recruitment sector, FDM's interim results provide critical visibility into labour market elasticity and margin resilience amid economic uncertainty; any deviation from consensus will likely trigger immediate repricing relative to peers like Hays or Reed.",
@@ -34,6 +36,7 @@
       "category": "Director Dealing",
       "headline": "Director/PCA Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/fdm-group-holdings---fdm/director-pca-shareholding/9637426",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry minimal market impact unless accompanied by unusual volume or timing relative to earnings; without specific transaction details in the headline, this is classified as standard administrative reporting.",
@@ -47,6 +50,7 @@
       "category": "Director Dealing",
       "headline": "Notification of Transaction of PDMR",
       "url": "https://www.investegate.co.uk/announcement/rns/fdm-group-holdings---fdm/notification-of-transaction-of-pdmr/9628368",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard PDMR notification with no disclosed volume or price, rendering it informationally neutral for immediate price action. In the IT services sector, routine director dealings are common and rarely signal significant strategic shifts without accompanying context.",
@@ -61,26 +65,35 @@
       "category": null,
       "headline": "Notification of Transactions of Directors",
       "url": "https://www.investegate.co.uk/announcement/rns/fdm-group-holdings---fdm/notification-of-transactions-of-directors/9628317",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure of individual director transactions rather than a corporate strategy shift; while insider buying can signal confidence, the market impact is negligible without context on volume or price relative to recent trading ranges.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
     },
     {
       "timestamp": "2026-06-08T08:24:00",
       "category": null,
       "headline": "Disclosure of PSP Performance Condition Targets",
       "url": "https://www.investegate.co.uk/announcement/rns/fdm-group-holdings---fdm/disclosure-of-psp-performance-condition-targets/9606459",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This RNS clarifies the specific hurdles for Executive Director PSP awards, a standard governance disclosure that confirms alignment with shareholder interests but lacks immediate market-moving catalysts compared to earnings or strategic shifts.",
+      "key_themes": [
+        "Governance",
+        "Executive Compensation"
+      ]
     },
     {
       "timestamp": "2026-06-03T11:01:00",
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/fdm-group-holdings---fdm/admission-to-trading/9599898",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -91,6 +104,7 @@
       "category": "Director Dealing",
       "headline": "Director Shareholding & Block Listing Application",
       "url": "https://www.investegate.co.uk/announcement/rns/fdm-group-holdings---fdm/director-shareholding-block-listing-application/9597865",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure regarding director shareholding changes, likely reflecting routine tax obligations or minor portfolio adjustments rather than a strategic signal. In the current UK market, such filings are common administrative events that rarely influence FDM's valuation or sector positioning without accompanying commentary on insider sentiment.",

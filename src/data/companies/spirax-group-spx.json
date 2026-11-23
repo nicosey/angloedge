@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/spirax-group-plc--spx/director-pdmr-shareholding/9880341",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on share price dynamics or valuation metrics for Spirax Group.",
@@ -23,6 +24,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/spirax-group-plc--spx/director-pdmr-shareholding/9865744",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry negligible market impact unless accompanied by unusual volume or timing relative to price movements; without specific transaction details in the headline, this is classified as standard administrative reporting.",
@@ -36,6 +38,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/spirax-group-plc--spx/director-pdmr-shareholding/9811636",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings typically signal low immediate market impact compared to corporate actions; without volume or price context, this is classified as administrative noise rather than a strategic indicator for the industrial engineering sector.",
@@ -49,16 +52,21 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/spirax-group-plc--spx/directorate-change/9797247",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative update regarding board composition; without details on the appointee's background or specific mandate, this lacks immediate strategic weight for SPX's industrial automation focus.",
+      "key_themes": [
+        "corporate_governance",
+        "board_changes"
+      ]
     },
     {
       "timestamp": "2026-09-09T07:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/spirax-group-plc--spx/director-pdmr-shareholding/9761851",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings typically signal low immediate market impact unless volume is exceptional; without transaction specifics, this falls under standard administrative disclosure rather than a strategic signal for Spirax Group's thermal efficiency sector.",
@@ -72,6 +80,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/spirax-group-plc--spx/director-pdmr-shareholding/9711537",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in the industrial engineering sector typically signal internal alignment rather than strategic shifts, offering negligible immediate catalyst for share price movement compared to broader macro trends in energy efficiency.",
@@ -85,16 +94,21 @@
       "category": null,
       "headline": "Change in Major Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/spirax-group-plc--spx/change-in-major-shareholding-/9681611",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure of a change in major shareholding, likely reflecting routine portfolio rebalancing by institutional investors rather than a strategic shift in control or sentiment towards Spirax Group's core industrial automation business.",
+      "key_themes": [
+        "regulatory_compliance",
+        "shareholder_activity"
+      ]
     },
     {
       "timestamp": "2026-07-08T07:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/spirax-group-plc--spx/director-pdmr-shareholding/9657193",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in the industrial engineering sector typically signal internal alignment rather than strategic shifts, offering negligible immediate catalyst for share price movement compared to earnings or M&A events.",
@@ -108,16 +122,21 @@
       "category": null,
       "headline": "Change in Major Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/spirax-group-plc--spx/change-in-major-shareholding-/9634627",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure of beneficial interest changes with no inherent market-moving catalyst; without details on the direction (buy/sell) or volume, it lacks immediate strategic implication for Spirax Group's valuation.",
+      "key_themes": [
+        "regulatory_compliance",
+        "shareholder_activity"
+      ]
     },
     {
       "timestamp": "2026-06-18T07:00:00",
       "category": null,
       "headline": "BLOCK LISTING SIX MONTHLY RETURN",
       "url": "https://www.investegate.co.uk/announcement/rns/spirax-group-plc--spx/block-listing-six-monthly-return/9624276",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -128,6 +147,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/spirax-group-plc--spx/director-pdmr-shareholding/9607135",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Spirax Group's valuation or operational trajectory, reflecting standard insider compliance rather than strategic shifts.",
@@ -141,26 +161,35 @@
       "category": null,
       "headline": "Change in Major Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/spirax-group-plc--spx/change-in-major-shareholding-/9594845",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure of a change in major shareholding, likely reflecting routine portfolio rebalancing by institutional investors rather than a strategic shift in control or sentiment towards Spirax Group's core heating and energy efficiency business.",
+      "key_themes": [
+        "regulatory_compliance",
+        "institutional_activity"
+      ]
     },
     {
       "timestamp": "2026-05-29T14:24:00",
       "category": null,
       "headline": "Update on Directorships held by Company Directors",
       "url": "https://www.investegate.co.uk/announcement/rns/spirax-group-plc--spx/update-on-directorships-held-by-company-directors/9592694",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding board composition with no immediate financial or operational impact on Spirax Group's core steam engineering business.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Updates"
+      ]
     },
     {
       "timestamp": "2026-05-27T15:30:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/spirax-group-plc--spx/director-pdmr-shareholding/9588313",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements typically carry negligible fundamental weight for Spirax Group, as they reflect individual liquidity needs rather than strategic shifts in the industrial automation sector.",
@@ -174,6 +203,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/spirax-group-plc--spx/director-pdmr-shareholding/9586293",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements typically carry minimal market impact unless involving substantial block trades or insider trading alerts, which are absent here. In the industrial engineering sector, such filings are standard compliance requirements rather than strategic signals.",

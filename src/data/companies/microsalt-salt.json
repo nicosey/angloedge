@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Replacement - Issue of Equity, Warrants and TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/replacement-issue-of-equity-warrants-and-tvr/9863520",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/holding-s-in-company/9844618",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/holding-s-in-company/9808677",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +43,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/holding-s-in-company/9805339",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,76 +54,106 @@
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/result-of-general-meeting/9804956",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine AGM results for a micro-cap biotech typically carry minimal immediate market impact unless contentious shareholder votes occurred; without evidence of major dissent or strategic shifts, this is standard governance housekeeping.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap"
+      ]
     },
     {
       "timestamp": "2026-09-30T07:36:00",
       "category": "Placing",
       "headline": "Result of Retail Offer and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/result-of-retail-offer-and-total-voting-rights/9798429",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 4,
+      "insight": "This is a standard post-offering administrative update confirming the completion of the retail tranche, which typically carries minimal market impact compared to the initial placing terms.",
+      "key_themes": [
+        "Corporate Action",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-30T07:32:00",
       "category": null,
       "headline": "Result of Director Subscription",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/result-of-director-subscription/9798423",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Director subscriptions are standard administrative filings confirming insider capital commitment rather than indicative of strategic shifts or material financial events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
     },
     {
       "timestamp": "2026-09-29T07:00:00",
       "category": "Results",
       "headline": "Unaudited Half-year Report",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/unaudited-half-year-report-/9795251",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a micro-cap in the critical lithium supply chain, this interim report provides essential visibility on production scaling and cash burn rates during a volatile commodity cycle, directly influencing investor sentiment on near-term liquidity risks.",
+      "key_themes": [
+        "interim results",
+        "lithium sector",
+        "cash flow"
+      ]
     },
     {
       "timestamp": "2026-09-24T17:08:00",
       "category": "Placing",
       "headline": "Retail Offer to raise up to £100,000",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/retail-offer-to-raise-up-to-100-000/9790112",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 4,
+      "insight": "A £100k retail placing is financially negligible for Microsalt's operations, serving primarily as a nominal capital maintenance exercise rather than a strategic growth driver in the competitive salt mining sector.",
+      "key_themes": [
+        "capital_maintenance",
+        "retail_fundraising"
+      ]
     },
     {
       "timestamp": "2026-09-24T14:00:00",
       "category": null,
       "headline": "Result of Subscription",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/result-of-subscription-/9789769",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Subscription results for micro-cap equities like Microsalt typically indicate low institutional interest and high retail dependency, reinforcing the stock's illiquidity profile rather than signaling fundamental growth or strategic shifts.",
+      "key_themes": [
+        "capital_raise",
+        "liquidity_risk"
+      ]
     },
     {
       "timestamp": "2026-09-24T14:00:00",
       "category": null,
       "headline": "Capital Access Window - Microsalt Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/capital-access-window-microsalt-plc/9789768",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative notice confirming the reopening of the capital access window for existing shareholders, indicating no immediate new fundraising or M&A activity but preserving liquidity options for future needs.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Rights"
+      ]
     },
     {
       "timestamp": "2026-09-24T13:06:00",
       "category": "Results",
       "headline": "Notice of Interim Results & Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/notice-of-interim-results-investor-presentation/9789677",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Interim results for a micro-cap like Microsalt are critical for validating its pivot to sustainable agriculture tech; the accompanying investor presentation suggests management is actively courting institutional interest to support liquidity and future capital raising needs.",
@@ -134,26 +168,35 @@
       "category": null,
       "headline": "Publication of Circular and Notice of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/publication-of-circular-and-notice-of-gm-/9775721",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for a General Meeting, likely concerning routine governance matters or minor capital adjustments rather than transformative strategic shifts. For Microsalt, a small-cap biotech in the early development stages, such notices are procedural necessities with negligible immediate impact on valuation or share price dynamics.",
+      "key_themes": [
+        "Corporate Governance",
+        "Procedural"
+      ]
     },
     {
       "timestamp": "2026-09-10T07:30:00",
       "category": null,
       "headline": "Capital Access Window - MicroSalt Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/capital-access-window-microsalt-plc/9765156",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice regarding the company's ability to access capital markets, devoid of specific transactional details or financial metrics. It signals no immediate change in MicroSalt's strategic direction or liquidity position.",
+      "key_themes": [
+        "Corporate Governance",
+        "Capital Markets"
+      ]
     },
     {
       "timestamp": "2026-09-10T07:00:00",
       "category": null,
       "headline": "Conversion of CLNs, Capital Access Window & TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/conversion-of-clns-capital-access-window-tvr/9764383",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -164,6 +207,7 @@
       "category": null,
       "headline": "Investor Presentation via Investor Meet Company",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/investor-presentation-via-investor-meet-company/9673594",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -174,6 +218,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/holding-s-in-company/9673420",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -184,6 +229,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/holding-s-in-company/9666931",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -194,6 +240,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/holding-s-in-company/9666927",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -204,16 +251,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/result-of-agm-/9645841",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no immediate financial or strategic weight for Microsalt's valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-07-01T07:00:00",
       "category": "Director Dealing",
       "headline": "Grant of Options, PDMR Dealing & TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/grant-of-options-pdmr-dealing-tvr/9645687",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine administrative disclosure of executive option grants and dealings typical for a micro-cap exploration firm; lacks material catalysts to influence valuation in the absence of assay breakthroughs or funding news.",
@@ -227,6 +279,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/notice-of-agm-/9603097",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -237,6 +290,7 @@
       "category": "Results",
       "headline": "Final Results",
       "url": "https://www.investegate.co.uk/announcement/rns/microsalt--salt/final-results/9588931",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a micro-cap exploration stage company, final results are typically administrative with minimal immediate market impact unless accompanied by a significant resource upgrade or capital raise, which are not indicated here.",

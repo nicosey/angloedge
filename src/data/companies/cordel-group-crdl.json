@@ -10,26 +10,36 @@
       "category": null,
       "headline": "Scheme Effective",
       "url": "https://www.investegate.co.uk/announcement/rns/cordel-group--crdl/scheme-effective/9720119",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The effective date of the scheme confirms the completion of the takeover by Cinven, providing definitive exit liquidity for shareholders at a premium to pre-announcement levels while removing CRDL from public markets.",
+      "key_themes": [
+        "M&A",
+        "Takeover Completion",
+        "Private Equity"
+      ]
     },
     {
       "timestamp": "2026-08-13T07:30:00",
       "category": null,
       "headline": "Suspension - Cordel Group Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/cordel-group--crdl/suspension-cordel-group-plc/9719860",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Suspensions in the UK equity market typically signal imminent material developments such as a takeover bid, major restructuring, or severe liquidity crisis, creating high uncertainty and halting price discovery for investors.",
+      "key_themes": [
+        "Corporate Action",
+        "Market Uncertainty"
+      ]
     },
     {
       "timestamp": "2026-08-11T16:21:00",
       "category": null,
       "headline": "Court Sanction of Scheme and Rule 2.9 Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/cordel-group--crdl/court-sanction-of-scheme-and-rule-2-9-announcement/9716485",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,46 +50,64 @@
       "category": null,
       "headline": "Cordel Group",
       "url": "https://www.investegate.co.uk/announcement/rns/cordel-group--crdl/cordel-group/9709560",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The headline 'Cordel Group' under the 'Other' category with no accompanying text typically indicates a routine administrative filing, such as a change in registered office or minor corporate secretarial update, rather than a material market-moving event.",
+      "key_themes": [
+        "Administrative",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-07-10T07:00:00",
       "category": null,
       "headline": "Satisfaction of NSIA Approval",
       "url": "https://www.investegate.co.uk/announcement/rns/cordel-group--crdl/satisfaction-of-nsia-approval-/9661982",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms the resolution of a regulatory hurdle for Cordel's acquisition of Balfour Beatty Rail, removing uncertainty but offering no new fundamental value creation. While it clears the path for integration, the market has already priced in this approval given the extended timeline, making the immediate share price reaction likely muted.",
+      "key_themes": [
+        "M&A",
+        "Regulatory Approval",
+        "Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-06-30T15:39:00",
       "category": "AGM/EGM",
       "headline": "Results of Court Meeting and General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/cordel-group--crdl/results-of-court-meeting-and-general-meeting/9645235",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms the successful restructuring of Cordel's debt via a scheme of arrangement, a critical step for liquidity management in the current high-interest rate environment rather than a value-creating event.",
+      "key_themes": [
+        "debt restructuring",
+        "liquidity management"
+      ]
     },
     {
       "timestamp": "2026-06-08T18:19:00",
       "category": null,
       "headline": "Publication and Posting of Scheme Document",
       "url": "https://www.investegate.co.uk/announcement/rns/cordel-group--crdl/publication-and-posting-of-scheme-document-/9607600",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a procedural milestone in the ongoing takeover bid by CVC Capital Partners, confirming the regulatory filing of the scheme document which sets out the terms for shareholder consideration. While critical for deal progression, it does not introduce new strategic variables or valuation changes beyond the existing bid framework.",
+      "key_themes": [
+        "Corporate Action",
+        "M&A Process"
+      ]
     },
     {
       "timestamp": "2026-06-03T17:00:00",
       "category": null,
       "headline": "Amend - Form 8 (OPD) - Cordel Group plc",
       "url": "https://www.investegate.co.uk/announcement/rns/cordel-group--crdl/amend-form-8-opd-cordel-group-plc/9600516",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,6 +118,7 @@
       "category": null,
       "headline": "Form 8 (DD) - Ashley Cox",
       "url": "https://www.investegate.co.uk/announcement/rns/cordel-group--crdl/form-8-dd-ashley-cox/9597067",
+      "routine_type": "Form 8 Disclosure",
       "enriched": false,
       "impact_score": null,
       "insight": null,

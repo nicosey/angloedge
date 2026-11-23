@@ -2,14 +2,26 @@
   "name": "Edinburgh Inv Trust",
   "ticker": "EDIN",
   "slug": "edinburgh-inv-trust-edin",
-  "announcement_count": 14,
-  "latest_announcement": "2026-11-20T07:01:00",
+  "announcement_count": 15,
+  "latest_announcement": "2026-11-23T16:05:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T16:05:00",
+      "category": null,
+      "headline": "Results analysis from Kepler Trust Intelligence",
+      "url": "https://www.investegate.co.uk/announcement/rns/edinburgh-inv-trust--edin/results-analysis-from-kepler-trust-intelligence/9889636",
+      "routine_type": "Third-party Research",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T07:01:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/edinburgh-inv-trust--edin/transaction-in-own-shares/9885335",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +32,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/edinburgh-inv-trust--edin/total-voting-rights/9852030",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,16 +43,22 @@
       "category": "Dividend",
       "headline": "Declaration of first interim dividend",
       "url": "https://www.investegate.co.uk/announcement/rns/edinburgh-inv-trust--edin/declaration-of-first-interim-dividend/9837615",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a closed-end investment trust, the declaration of an interim dividend confirms ongoing income generation but is routine for EDIN's yield-focused mandate; market reaction will hinge on whether the payout ratio aligns with or exceeds current NAV growth expectations amid volatile global equity markets.",
+      "key_themes": [
+        "Income Distribution",
+        "Investment Trusts",
+        "NAV Performance"
+      ]
     },
     {
       "timestamp": "2026-10-16T07:01:00",
       "category": null,
       "headline": "Closed Period Notification",
       "url": "https://www.investegate.co.uk/announcement/rns/edinburgh-inv-trust--edin/closed-period-notification/9826121",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,26 +69,35 @@
       "category": null,
       "headline": "Revolving Credit Facility",
       "url": "https://www.investegate.co.uk/announcement/rns/edinburgh-inv-trust--edin/revolving-credit-facility/9809699",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Establishing a revolving credit facility is a standard treasury management tool for investment trusts to enhance liquidity and facilitate opportunistic acquisitions without immediate dilution; it signals financial prudence rather than strategic disruption.",
+      "key_themes": [
+        "liquidity",
+        "capital structure"
+      ]
     },
     {
       "timestamp": "2026-09-01T11:01:00",
       "category": "Appointment",
       "headline": "Appointment of New Director",
       "url": "https://www.investegate.co.uk/announcement/rns/edinburgh-inv-trust--edin/appointment-of-new-director/9749428",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board refreshment typical for closed-ended funds; without details on the appointee's background or mandate, this lacks immediate strategic weight compared to investment policy changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-09-01T07:01:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/edinburgh-inv-trust--edin/total-voting-rights/9747828",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,6 +108,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/edinburgh-inv-trust--edin/total-voting-rights/9699909",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,26 +119,35 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/edinburgh-inv-trust--edin/result-of-agm/9680184",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-AGM administrative filing confirming the outcome of routine shareholder votes; it carries no new strategic information or market-moving catalysts for Edinburgh Investment Trust.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-07-15T16:23:00",
       "category": "AGM/EGM",
       "headline": "Annual General Meeting details",
       "url": "https://www.investegate.co.uk/announcement/rns/edinburgh-inv-trust--edin/annual-general-meeting-details-/9671032",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative filing confirming AGM logistics for an established investment trust; lacks substantive catalysts or strategic shifts that would influence immediate valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Investment Trust"
+      ]
     },
     {
       "timestamp": "2026-07-01T07:02:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/edinburgh-inv-trust--edin/total-voting-rights/9645899",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -120,6 +158,7 @@
       "category": null,
       "headline": "Kepler Trust Intelligence: New Research",
       "url": "https://www.investegate.co.uk/announcement/rns/edinburgh-inv-trust--edin/kepler-trust-intelligence-new-research/9638056",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -130,6 +169,7 @@
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/edinburgh-inv-trust--edin/director-declaration/9623895",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -140,6 +180,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/edinburgh-inv-trust--edin/total-voting-rights/9593523",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

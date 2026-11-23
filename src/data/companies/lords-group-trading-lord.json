@@ -10,6 +10,7 @@
       "category": "Trading Update",
       "headline": "Trading Update & Banking Facility Amendments",
       "url": "https://www.investegate.co.uk/announcement/rns/lords-group-trading--lord/trading-update-banking-facility-amendments-/9861475",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "The amendment of banking facilities suggests Lords Group is proactively managing liquidity ahead of potential M&A activity or to secure favorable terms for its next acquisition cycle, a common pattern in the fragmented UK recruitment sector.",
@@ -23,6 +24,7 @@
       "category": "Results",
       "headline": "Notice of Results and IMC presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/lords-group-trading--lord/notice-of-results-and-imc-presentation-/9783265",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard results announcement for Lords Group, a niche player in the UK's specialist recruitment sector; while likely to provide clarity on margin pressures and demand trends within the temporary staffing market, it lacks the transformative catalysts required for significant re-rating.",
@@ -36,6 +38,7 @@
       "category": null,
       "headline": "Block Admission Update",
       "url": "https://www.investegate.co.uk/announcement/rns/lords-group-trading--lord/block-admission-update/9704909",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -46,10 +49,14 @@
       "category": "AGM/EGM",
       "headline": "AGM Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/lords-group-trading--lord/agm-statement/9623328",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the convening of an Annual General Meeting, which carries no immediate financial or strategic weight for Lords Group Trading.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     }
   ]
 }

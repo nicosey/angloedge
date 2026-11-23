@@ -10,16 +10,22 @@
       "category": null,
       "headline": "KAP Improves its S&P Global ESG Score",
       "url": "https://www.investegate.co.uk/announcement/rns/joint-stock-company-national-atomic-company-kazatomprom--kap/kap-improves-its-s-p-global-esg-score/9868862",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "While an improved ESG score may aid access to green finance and mitigate reputational risk for a uranium producer facing geopolitical scrutiny, it is a non-financial administrative update with no immediate impact on KAP's production guidance or commodity pricing.",
+      "key_themes": [
+        "ESG",
+        "Uranium",
+        "Reputational Risk"
+      ]
     },
     {
       "timestamp": "2026-10-23T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of the EGM of Shareholders",
       "url": "https://www.investegate.co.uk/announcement/rns/joint-stock-company-national-atomic-company-kazatomprom--kap/notice-of-the-egm-of-shareholders-/9837646",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,46 +36,65 @@
       "category": "AGM/EGM",
       "headline": "Voting results of the EGM of Shareholders",
       "url": "https://www.investegate.co.uk/announcement/rns/joint-stock-company-national-atomic-company-kazatomprom--kap/voting-results-of-the-egm-of-shareholders/9812299",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard procedural disclosure confirming the outcome of an EGM, which typically carries no immediate fundamental valuation impact on KAP's uranium production or pricing dynamics.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-09-21T07:32:00",
       "category": null,
       "headline": "Expl rights for Kyzyltu,Update on Acid from Russia",
       "url": "https://www.investegate.co.uk/announcement/rns/joint-stock-company-national-atomic-company-kazatomprom--kap/expl-rights-for-kyzyltu-update-on-acid-from-russia/9781595",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The rights issue provides essential capital for the Kyzyltu project, a key growth driver in the uranium sector, while the update on Russian acid supply highlights ongoing geopolitical logistics risks that could impact near-term production costs and margins.",
+      "key_themes": [
+        "Capital Raise",
+        "Supply Chain Risk",
+        "Uranium Production"
+      ]
     },
     {
       "timestamp": "2026-09-09T14:12:00",
       "category": null,
       "headline": "Moody’s affirms KAP’s Baa1 rating, Stable outlook",
       "url": "https://www.investegate.co.uk/announcement/rns/joint-stock-company-national-atomic-company-kazatomprom--kap/moody-s-affirms-kap-s-baa1-rating-stable-outlook-/9763812",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This affirmation of a Baa1 rating confirms KAP's strong investment-grade status, providing crucial debt market access and cost stability amid volatile uranium pricing; however, as a routine credit update, it lacks the catalystic weight to drive immediate equity repricing.",
+      "key_themes": [
+        "Credit Rating",
+        "Uranium Sector",
+        "Capital Structure"
+      ]
     },
     {
       "timestamp": "2026-08-26T07:00:00",
       "category": null,
       "headline": "Fitch Affirms KAP's Rating at BBB, Outlook Stable",
       "url": "https://www.investegate.co.uk/announcement/rns/joint-stock-company-national-atomic-company-kazatomprom--kap/fitch-affirms-kap-s-rating-at-bbb-outlook-stable/9739939",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard credit rating affirmation that confirms KAP's investment-grade status but offers no new strategic catalysts; while BBB stability supports lower borrowing costs for uranium expansion, it does not drive immediate equity re-rating compared to commodity price or production volume updates.",
+      "key_themes": [
+        "Credit Rating",
+        "Uranium Sector"
+      ]
     },
     {
       "timestamp": "2026-08-21T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of the EGM of Kazatomprom",
       "url": "https://www.investegate.co.uk/announcement/rns/joint-stock-company-national-atomic-company-kazatomprom--kap/notice-of-the-egm-of-kazatomprom/9733076",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,6 +105,7 @@
       "category": "Results",
       "headline": "Kazatomprom announces 1H2026 Financial Results",
       "url": "https://www.investegate.co.uk/announcement/rns/joint-stock-company-national-atomic-company-kazatomprom--kap/kazatomprom-announces-1h2026-financial-results-/9733046",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As the world's largest uranium producer, KAP's half-year results are a critical barometer for global nuclear fuel supply dynamics and long-term energy security narratives amidst rising geopolitical tensions.",
@@ -94,16 +120,21 @@
       "category": "AGM/EGM",
       "headline": "Voting results of the EGM",
       "url": "https://www.investegate.co.uk/announcement/rns/joint-stock-company-national-atomic-company-kazatomprom--kap/voting-results-of-the-egm/9716737",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a procedural disclosure of voting outcomes for an EGM, which typically carries low market impact unless it signals a significant governance shift or hostile takeover defense; in the absence of such context, it remains a routine administrative update for KAP.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-08-03T07:01:00",
       "category": "Trading Update",
       "headline": "Kazatomprom 2Q26 Operations and Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/joint-stock-company-national-atomic-company-kazatomprom--kap/kazatomprom-2q26-operations-and-trading-update/9699953",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As the world's largest uranium producer, Kazatomprom's operational guidance directly influences global spot pricing and supply tightness narratives; any deviation in output targets signals potential strain on the nuclear fuel recovery thesis amid geopolitical supply constraints.",
@@ -118,16 +149,21 @@
       "category": null,
       "headline": "KAP announces the payment of coupon on its bonds",
       "url": "https://www.investegate.co.uk/announcement/rns/joint-stock-company-national-atomic-company-kazatomprom--kap/kap-announces-the-payment-of-coupon-on-its-bonds-/9652476",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard debt servicing event with no impact on equity valuation or corporate strategy; bond coupon payments are routine administrative actions that do not signal changes in the issuer's financial health or market position.",
+      "key_themes": [
+        "Corporate Action",
+        "Debt Management"
+      ]
     },
     {
       "timestamp": "2026-06-26T07:00:00",
       "category": null,
       "headline": "Notice of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/joint-stock-company-national-atomic-company-kazatomprom--kap/notice-of-gm/9638055",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -138,6 +174,7 @@
       "category": "Results",
       "headline": "The EGM Results on the composition of the BoD",
       "url": "https://www.investegate.co.uk/announcement/rns/joint-stock-company-national-atomic-company-kazatomprom--kap/the-egm-results-on-the-composition-of-the-bod-/9630728",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a corporate governance update regarding board composition rather than financial performance; while leadership stability matters for state-owned uranium producers like KAP, it lacks the immediate earnings or strategic catalysts required to move the stock significantly.",
@@ -151,6 +188,7 @@
       "category": null,
       "headline": "Report on Payments to Governments",
       "url": "https://www.investegate.co.uk/announcement/rns/joint-stock-company-national-atomic-company-kazatomprom--kap/report-on-payments-to-governments/9628109",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -161,26 +199,36 @@
       "category": null,
       "headline": "Partial redemption of long-term bonds",
       "url": "https://www.investegate.co.uk/announcement/rns/joint-stock-company-national-atomic-company-kazatomprom--kap/partial-redemption-of-long-term-bonds-/9600237",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard debt management action typical for capital-intensive uranium producers like KAP, aimed at optimizing the balance sheet rather than signaling distress or major strategic shifts. While it reduces leverage, it lacks the transformative catalyst required for significant re-rating in the current commodity cycle.",
+      "key_themes": [
+        "Debt Management",
+        "Uranium Sector"
+      ]
     },
     {
       "timestamp": "2026-05-29T07:00:00",
       "category": null,
       "headline": "Kazatomprom 1Q26 Consolidated Financial Statements",
       "url": "https://www.investegate.co.uk/announcement/rns/joint-stock-company-national-atomic-company-kazatomprom--kap/kazatomprom-1q26-consolidated-financial-statements/9590894",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As the world's largest uranium producer, KAP's Q1 results are a critical barometer for global supply tightness and spot price resilience amid steady nuclear renaissance demand.",
+      "key_themes": [
+        "uranium",
+        "commodity cycle",
+        "energy security"
+      ]
     },
     {
       "timestamp": "2026-05-28T07:00:00",
       "category": "Results",
       "headline": "Approval of dividends for the results of FY2025",
       "url": "https://www.investegate.co.uk/announcement/rns/joint-stock-company-national-atomic-company-kazatomprom--kap/approval-of-dividends-for-the-results-of-fy2025/9588698",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Kazatomprom's dividend approval signals robust cash generation from its dominant position in the global uranium supply chain, reflecting sustained demand for nuclear energy as a low-carbon baseload source. While routine for a mature miner, the payout level provides a tangible yield benchmark for the resource sector amidst geopolitical supply constraints.",
@@ -196,10 +244,14 @@
       "category": "AGM/EGM",
       "headline": "Voting Results of the Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/joint-stock-company-national-atomic-company-kazatomprom--kap/voting-results-of-the-annual-general-meeting/9588657",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative disclosure confirming shareholder approval of standard governance items; lacks any transformative strategic shifts, M&A activity, or capital allocation changes that would materially alter KAP's valuation or operational trajectory.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     }
   ]
 }

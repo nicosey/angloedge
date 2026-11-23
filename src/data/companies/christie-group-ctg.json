@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/christie-group--ctg/holding-s-in-company/9851421",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,76 +21,105 @@
       "category": null,
       "headline": "Christie & Co advises on landmark hotel sale",
       "url": "https://www.investegate.co.uk/announcement/rns/christie-group--ctg/christie-co-advises-on-landmark-hotel-sale/9837651",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard advisory engagement for Christie & Co, the UK's leading hotel broker, rather than a transaction by Christie Group itself; it highlights sector liquidity but offers no direct revenue or strategic impact for the listed entity.",
+      "key_themes": [
+        "Advisory Services",
+        "Hotel Sector"
+      ]
     },
     {
       "timestamp": "2026-10-12T11:05:00",
       "category": null,
       "headline": "Christie & Co publishes Leisure Market Review 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/christie-group--ctg/christie-co-publishes-leisure-market-review-2026/9818130",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard industry report publication with no direct financial disclosure or corporate action for Christie Group; while it may highlight broader leisure sector trends, it lacks the specificity to drive immediate valuation changes for CTG.",
+      "key_themes": [
+        "Industry Report",
+        "No Material Impact"
+      ]
     },
     {
       "timestamp": "2026-10-06T10:15:00",
       "category": null,
       "headline": "Christie & Co publishes Pubs & Rest. Review 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/christie-group--ctg/christie-co-publishes-pubs-rest-review-2026/9808828",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard industry report publication by Christie & Co, serving as a marketing tool rather than a material corporate event for the listed entity; it does not indicate immediate financial performance changes or strategic shifts.",
+      "key_themes": [
+        "Industry Report",
+        "Marketing"
+      ]
     },
     {
       "timestamp": "2026-10-01T10:10:00",
       "category": null,
       "headline": "Christie & Co publishes Pharmacy Market Review 26",
       "url": "https://www.investegate.co.uk/announcement/rns/christie-group--ctg/christie-co-publishes-pharmacy-market-review-26/9801639",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard industry report publication with no direct financial impact on Christie Group's balance sheet or immediate revenue streams. While it reinforces the firm's position as a market authority in pharmacy valuations, it lacks the materiality to drive share price movement compared to earnings updates or M&A activity.",
+      "key_themes": [
+        "Market Intelligence",
+        "Sector Analysis"
+      ]
     },
     {
       "timestamp": "2026-09-24T10:03:00",
       "category": null,
       "headline": "Christie & Co publishes Care Market Review 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/christie-group--ctg/christie-co-publishes-care-market-review-2026/9789190",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a non-financial industry report rather than a corporate disclosure, offering no immediate data on Christie Group's balance sheet or earnings. While it may highlight long-term structural tailwinds for the care sector, it lacks the specificity to drive short-term equity valuation changes.",
+      "key_themes": [
+        "industry_report",
+        "care_sector"
+      ]
     },
     {
       "timestamp": "2026-09-22T07:00:00",
       "category": null,
       "headline": "New Corporate Website",
       "url": "https://www.investegate.co.uk/announcement/rns/christie-group--ctg/new-corporate-website/9783283",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update with no material financial or operational implications for Christie Group's core construction business.",
+      "key_themes": [
+        "Corporate Governance",
+        "IR Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-09-16T10:35:00",
       "category": null,
       "headline": "Christie & Co launches Retail Market Review 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/christie-group--ctg/christie-co-launches-retail-market-review-2026/9775164",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard marketing initiative rather than a material corporate event; while it signals continued focus on the residential property market, it offers no immediate financial guidance or strategic shift for Christie Group.",
+      "key_themes": [
+        "Market Sentiment",
+        "Residential Property"
+      ]
     },
     {
       "timestamp": "2026-09-15T07:00:00",
       "category": "Results",
       "headline": "Notice of Results and Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/christie-group--ctg/notice-of-results-and-investor-presentation-/9771618",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a high-beta property developer, Christie Group's results are critical for gauging the resilience of the UK residential market amid rising interest rates and construction cost inflation; this update will likely drive volatility based on margin preservation and order book visibility.",
@@ -104,36 +134,49 @@
       "category": null,
       "headline": "Dental Market Review 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/christie-group--ctg/dental-market-review-2026/9760925",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard annual industry report release with no immediate financial impact on Christie Group's valuation; it serves as passive market intelligence rather than a catalyst for share price movement.",
+      "key_themes": [
+        "Industry Report",
+        "Market Intelligence"
+      ]
     },
     {
       "timestamp": "2026-09-07T07:00:00",
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/christie-group--ctg/directorate-change/9757576",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative updates to the board composition are common in UK small-caps and rarely signal immediate strategic shifts or value creation without accompanying commentary on the appointee's specific mandate.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-08-04T11:07:00",
       "category": null,
       "headline": "Christie & Co launches dental brokerage in ROI",
       "url": "https://www.investegate.co.uk/announcement/rns/christie-group--ctg/christie-co-launches-dental-brokerage-in-roi/9703903",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This represents a niche diversification into the fragmented Irish dental market rather than a transformative shift for Christie Group's core valuation drivers. While it highlights entrepreneurial agility, the immediate financial impact on CTG is likely negligible given the small addressable market and lack of scale compared to their primary asset management business.",
+      "key_themes": [
+        "Diversification",
+        "Niche Market Entry"
+      ]
     },
     {
       "timestamp": "2026-07-14T08:30:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/christie-group--ctg/holding-s-in-company/9667610",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -144,16 +187,21 @@
       "category": null,
       "headline": "Christie & Co publishes UK Hotel Market Review",
       "url": "https://www.investegate.co.uk/announcement/rns/christie-group--ctg/christie-co-publishes-uk-hotel-market-review/9637415",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard industry report release with no direct financial impact on Christie Group's balance sheet or immediate trading outlook; it serves primarily as a marketing tool to highlight sector activity rather than signaling specific corporate developments.",
+      "key_themes": [
+        "market intelligence",
+        "hospitality sector"
+      ]
     },
     {
       "timestamp": "2026-06-17T07:01:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/christie-group--ctg/holding-s-in-company/9622058",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -164,6 +212,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/christie-group--ctg/holding-s-in-company/9622057",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -174,10 +223,14 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/christie-group--ctg/result-of-agm/9621811",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which typically rubber-stamps routine matters like director reappointments and auditor mandates without altering the company's strategic trajectory or valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     }
   ]
 }

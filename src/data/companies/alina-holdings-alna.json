@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Alina Holdings PLC: 2026 Interim Results",
       "url": "https://www.investegate.co.uk/announcement/eqs/alina-holdings--alna/alina-holdings-plc-2026-interim-results/9777673",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap entity with historically low liquidity and limited analyst coverage, this interim update provides essential visibility into management's execution but lacks the scale to drive broad sector sentiment shifts.",
@@ -23,20 +24,29 @@
       "category": "AGM/EGM",
       "headline": "Alina Holdings PLC: Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/eqs/alina-holdings--alna/alina-holdings-plc-result-of-agm/9623798",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of an Annual General Meeting, which typically involves routine matters such as director re-elections and auditor appointments rather than strategic shifts or capital changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-06-03T07:30:00",
       "category": null,
       "headline": "Alina Holdings PLC: Sale of property in Brislington, Bristol",
       "url": "https://www.investegate.co.uk/announcement/eqs/alina-holdings--alna/alina-holdings-plc-sale-of-property-in-brisl-/9599179",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Asset disposals are standard liquidity management tools for property investment trusts like Alina Holdings, typically executed to reduce gearing or fund distributions rather than signal strategic distress; without disclosed proceeds relative to net asset value, the market impact remains negligible.",
+      "key_themes": [
+        "asset monetisation",
+        "property sector",
+        "liquidity management"
+      ]
     }
   ]
 }

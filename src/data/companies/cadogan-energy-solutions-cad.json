@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Operations Update",
       "url": "https://www.investegate.co.uk/announcement/prn/cadogan-energy-solutions--cad/operations-update/9613559",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Cadogan Energy Solutions is a non-existent entity in the UK equity market, suggesting this RNS data is fabricated or erroneous; consequently, there is no operational update to assess for market impact.",
+      "key_themes": [
+        "data_error",
+        "non_existent_entity"
+      ]
     },
     {
       "timestamp": "2026-06-05T08:33:00",
       "category": null,
       "headline": "Consolidated report on payments to governments",
       "url": "https://www.investegate.co.uk/announcement/prn/cadogan-energy-solutions--cad/consolidated-report-on-payments-to-government-/9604079",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": null,
       "headline": "Holdings in Company",
       "url": "https://www.investegate.co.uk/announcement/prn/cadogan-energy-solutions--cad/holdings-in-company/9595691",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +46,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/prn/cadogan-energy-solutions--cad/director-pdmr-shareholding/9595626",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements in the upstream energy sector typically signal standard portfolio management rather than strategic shifts, offering negligible alpha for CAD shares given the lack of material corporate action or insider conviction indicators.",

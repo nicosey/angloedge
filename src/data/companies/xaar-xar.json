@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/xaar--xar/director-pdmr-shareholding/9827606",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements for Xaar typically reflect individual portfolio management rather than strategic shifts, especially given the company's historical volatility and niche position in inkjet printhead technology.",
@@ -23,26 +24,35 @@
       "category": "Appointment",
       "headline": "Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/xaar--xar/board-changes/9821346",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board changes at Xaar typically signal incremental governance adjustments rather than strategic pivots in the competitive inkjet printhead sector, lacking the transformative catalyst required for significant re-rating.",
+      "key_themes": [
+        "Corporate Governance",
+        "Leadership Stability"
+      ]
     },
     {
       "timestamp": "2026-09-09T08:31:00",
       "category": null,
       "headline": "FLASHFORGE LAUNCH CJ270 DESKTOP 3D PRINTER",
       "url": "https://www.investegate.co.uk/announcement/rns/xaar--xar/flashforge-launch-cj270-desktop-3d-printer/9762985",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement concerns Flashforge's product launch rather than Xaar's direct operational performance or financial results, representing negligible immediate impact on XAR's valuation despite potential long-term ecosystem synergy.",
+      "key_themes": [
+        "3D Printing",
+        "Peripheral News"
+      ]
     },
     {
       "timestamp": "2026-08-20T11:27:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/xaar--xar/holding-s-in-company/9732238",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,6 +63,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/xaar--xar/total-voting-rights/9715966",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,6 +74,7 @@
       "category": null,
       "headline": "Investor Presentation via Investor Meet Company",
       "url": "https://www.investegate.co.uk/announcement/rns/xaar--xar/investor-presentation-via-investor-meet-company/9698511",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,6 +85,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/xaar--xar/total-voting-rights/9597734",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,10 +96,14 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/xaar--xar/result-of-agm/9589710",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting confirmation of shareholder votes for routine governance items, offering no new strategic direction or financial data to influence valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     }
   ]
 }

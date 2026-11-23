@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/bazalgette-finance-plc--38lo/admission-to-trading/9813691",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Publication of Final Terms",
       "url": "https://www.investegate.co.uk/announcement/rns/bazalgette-finance-plc--38lo/publication-of-final-terms/9809517",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,20 +32,29 @@
       "category": null,
       "headline": "Publication of a Prospectus and Project Update",
       "url": "https://www.investegate.co.uk/announcement/rns/bazalgette-finance-plc--38lo/publication-of-a-prospectus-and-project-update/9792083",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The dual release of a prospectus and project update signals a critical capital raising phase essential for funding the company's infrastructure development pipeline, reflecting the sector's reliance on external financing to bridge the gap between project viability and operational cash flow.",
+      "key_themes": [
+        "capital_raise",
+        "infrastructure_finance",
+        "project_update"
+      ]
     },
     {
       "timestamp": "2026-06-01T10:01:00",
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/bazalgette-finance-plc--38lo/directorate-change/9594632",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine administrative update regarding BAZALGETTE FINANCE PLC's board composition; without details on the specific role or background of the appointee, this lacks immediate strategic weight for valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     }
   ]
 }

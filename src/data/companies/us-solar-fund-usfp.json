@@ -10,16 +10,22 @@
       "category": null,
       "headline": "Potential Portfolio Sale - Exclusivity Extension",
       "url": "https://www.investegate.co.uk/announcement/rns/us-solar-fund-gbp---usfp/potential-portfolio-sale-exclusivity-extension/9828290",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The extension of exclusivity signals active negotiations for a portfolio asset sale, likely aimed at unlocking NAV or managing liquidity in the current high-rate environment; this is a positive tactical move but lacks the transformative scale of a full fund wind-down.",
+      "key_themes": [
+        "NAV Unlocking",
+        "Liquidity Management",
+        "Asset Disposition"
+      ]
     },
     {
       "timestamp": "2026-09-24T07:00:00",
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/us-solar-fund-gbp---usfp/notice-of-results/9787996",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the publication date of results rather than disclosing material financial data; without the actual figures, it holds no immediate pricing power for this solar infrastructure vehicle.",
@@ -33,10 +39,14 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/us-solar-fund-gbp---usfp/result-of-agm/9590610",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "AGM results are standard corporate governance procedures for investment trusts like USFP, typically confirming board re-elections and dividend approvals without altering the underlying asset value or strategy.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     }
   ]
 }

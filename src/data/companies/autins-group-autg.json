@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/autins-group--autg/holding-s-in-company/9794538",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,21 @@
       "category": "AGM/EGM",
       "headline": "Result of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/autins-group--autg/result-of-annual-general-meeting/9787778",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at an AGM, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-08-10T07:00:00",
       "category": "Director Dealing",
       "headline": "Grant of Share Options & PDMR Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/autins-group--autg/grant-of-share-options-pdmr-dealings-/9711920",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine administrative disclosure of share options and PDMR dealings typical for small-cap tech firms like Autins; lacks material strategic catalysts or significant volume changes to influence valuation.",
@@ -43,6 +49,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/autins-group--autg/notice-of-annual-general-meeting/9707344",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,6 +60,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/autins-group--autg/director-pdmr-dealing/9653020",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements for small-cap firms like Autins Group typically carry minimal market-moving weight unless accompanied by unusual volume or timing relative to price action; without specific deal details, this is classified as standard administrative disclosure.",
@@ -66,20 +74,28 @@
       "category": "Appointment",
       "headline": "Board Change",
       "url": "https://www.investegate.co.uk/announcement/rns/autins-group--autg/board-change/9633072",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board changes in small-cap AIM firms like Autins Group typically signal administrative adjustments rather than strategic shifts, lacking the transformative weight of M&A or executive departures seen in higher-impact scenarios.",
+      "key_themes": [
+        "Corporate Governance",
+        "Small Cap"
+      ]
     },
     {
       "timestamp": "2026-06-15T07:00:00",
       "category": null,
       "headline": "Investor Engagement Update",
       "url": "https://www.investegate.co.uk/announcement/rns/autins-group--autg/investor-engagement-update/9617256",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Investor engagement updates are standard administrative communications that rarely contain price-sensitive material; without disclosed financial metrics or strategic shifts, this holds negligible immediate impact on AUTG's valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "IR Activity"
+      ]
     }
   ]
 }

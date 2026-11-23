@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-technology-vct-plc--fwt/total-voting-rights/9851373",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,46 +21,65 @@
       "category": null,
       "headline": "Publication of an Offer Document and Relevant Related Party Transaction Offer for Subscription",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-technology-vct-plc--fwt/publication-of-an-offer-document-and-relevant-/9794919",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This RNS signals a critical capital raise for the VCT, essential for maintaining its investment mandate and tax-advantaged status in a competitive fundraising environment; it highlights the ongoing liquidity challenges facing the closed-end fund sector as investors increasingly demand yield over growth.",
+      "key_themes": [
+        "Capital Raise",
+        "VCT Sector",
+        "Fund Management"
+      ]
     },
     {
       "timestamp": "2026-09-17T16:35:00",
       "category": "Appointment",
       "headline": "Board Changes",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-technology-vct-plc--fwt/board-changes/9778331",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine board changes in a VCT typically reflect standard governance maintenance rather than strategic shifts, offering no immediate catalyst for valuation re-rating given the sector's focus on tax-efficient investment portfolios.",
+      "key_themes": [
+        "Corporate Governance",
+        "VCT Sector"
+      ]
     },
     {
       "timestamp": "2026-09-17T14:15:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-technology-vct-plc--fwt/result-of-agm/9778110",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings for a closed-end investment trust, carrying no new strategic direction or material financial data.",
+      "key_themes": [
+        "Corporate Governance",
+        "VCT"
+      ]
     },
     {
       "timestamp": "2026-08-19T12:15:00",
       "category": "Placing",
       "headline": "Intention to Fundraise",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-technology-vct-plc--fwt/intention-to-fundraise/9730163",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a VCT, this capital raise is essential for maintaining investment volume and tax-advantaged status, but it signals dilution risk for existing shareholders while highlighting the sector's reliance on continuous fundraising to meet regulatory thresholds.",
+      "key_themes": [
+        "VCT",
+        "Capital Raise",
+        "Dilution"
+      ]
     },
     {
       "timestamp": "2026-07-22T16:20:00",
       "category": "Results",
       "headline": "Final Results",
       "url": "https://www.investegate.co.uk/announcement/gnw/foresight-technology-vct-plc--fwt/final-results/9682712",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a VCT, this is a standard statutory disclosure of net asset value and dividend distribution rather than a strategic inflection point; the primary market focus remains on the sustainability of tax-advantaged income yields amidst rising interest rates.",

@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/elixirr-international--elix/holding-s-in-company/9830652",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/elixirr-international--elix/holding-s-in-company/9791801",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,26 +32,35 @@
       "category": null,
       "headline": "Clarification of Corporate Brokers",
       "url": "https://www.investegate.co.uk/announcement/rns/elixirr-international--elix/clarification-of-corporate-brokers/9785444",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Administrative change in corporate broker representation for a micro-cap biotech firm typically signals no immediate material shift in strategy or liquidity, reflecting routine governance rather than transformative market activity.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap Administration"
+      ]
     },
     {
       "timestamp": "2026-09-15T07:00:00",
       "category": null,
       "headline": "Notice of H1 26 Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/elixirr-international--elix/notice-of-h1-26-investor-presentation/9771619",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative notice for a micro-cap investor presentation, offering limited immediate catalyst value compared to earnings releases or M&A activity.",
+      "key_themes": [
+        "Investor Relations",
+        "Micro-cap"
+      ]
     },
     {
       "timestamp": "2026-08-03T07:00:00",
       "category": "Trading Update",
       "headline": "Trading Update and Appointment of Joint Broker",
       "url": "https://www.investegate.co.uk/announcement/rns/elixirr-international--elix/trading-update-and-appointment-of-joint-broker/9699755",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "The appointment of a joint broker signals a strategic pivot to enhance liquidity and market visibility for this micro-cap, addressing the typical illiquidity premium that constrains valuation multiples in the sector.",
@@ -63,6 +74,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/elixirr-international--elix/director-pdmr-shareholding/9663038",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry minimal market impact unless accompanied by unusual volume or timing relative to price movements; without specific transaction details in the headline, this is classified as administrative.",
@@ -76,16 +88,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/elixirr-international--elix/result-of-agm/9644851",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of routine shareholder votes, which carries no intrinsic valuation impact for Elixirr International's biotech development pipeline.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-02T09:49:00",
       "category": "Dividend",
       "headline": "Notice of AGM and Dividend Timetable",
       "url": "https://www.investegate.co.uk/announcement/rns/elixirr-international--elix/notice-of-agm-and-dividend-timetable/9597187",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,

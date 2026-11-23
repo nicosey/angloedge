@@ -10,36 +10,49 @@
       "category": null,
       "headline": "Cascade Launches Global Filmmaking Competition",
       "url": "https://www.investegate.co.uk/announcement/rns/mollyroe-plc--moy/cascade-launches-global-filmmaking-competition-/9822786",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement appears to be a press release for an unrelated entity ('Cascade') mistakenly filed under Mollyroe plc's RNS feed, indicating an administrative error rather than a strategic development for MOY.",
+      "key_themes": [
+        "Administrative Error",
+        "Irrelevant Content"
+      ]
     },
     {
       "timestamp": "2026-10-13T14:57:00",
       "category": "Appointment",
       "headline": "Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/mollyroe-plc--moy/board-changes/9820906",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine board changes in the absence of a CEO departure or major strategic pivot typically signal administrative continuity rather than immediate value creation or risk.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-10-09T14:30:00",
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/prn/mollyroe-plc--moy/result-of-general-meeting/9816339",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM/EGM results typically confirm shareholder approval for standard administrative matters rather than signaling strategic shifts or material financial events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-09-30T14:20:00",
       "category": "Results",
       "headline": "Unaudited Interim Results for the six months ended 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/prn/mollyroe-plc--moy/unaudited-interim-results-for-the-six-months-/9799537",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Interim results provide critical visibility into consumer spending resilience in the current high-interest-rate environment; however, without specific guidance or margin data, the market reaction will hinge on whether management signals a sustainable recovery or continued headwinds.",
@@ -53,30 +66,43 @@
       "category": "Acquisition",
       "headline": "Correction - Proposed Acquisition of Cascade ...",
       "url": "https://www.investegate.co.uk/announcement/prn/mollyroe-plc--moy/correction-proposed-acquisition-of-cascade-/9775998",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a correction to a previous announcement, this filing likely clarifies terms or timelines rather than altering the fundamental strategic thesis, limiting immediate market reaction unless material financials are revised.",
+      "key_themes": [
+        "Corporate Governance",
+        "M&A Process"
+      ]
     },
     {
       "timestamp": "2026-09-15T16:05:00",
       "category": "Acquisition",
       "headline": "Proposed Acquisition of Cascade Holding Limited",
       "url": "https://www.investegate.co.uk/announcement/prn/mollyroe-plc--moy/proposed-acquisition-of-cascade-holding-limit-/9773645",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This represents a significant inorganic growth strategy for Mollyroe, likely expanding its asset base or market share in the energy infrastructure sector; such acquisitions often signal management's confidence in future cash flows and potential accretive earnings.",
+      "key_themes": [
+        "M&A",
+        "Strategic Expansion",
+        "Energy Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-06-19T10:51:00",
       "category": null,
       "headline": "Consolidated Financial Statements for the Year Ended 31st December 2025",
       "url": "https://www.investegate.co.uk/announcement/prn/mollyroe-plc--moy/consolidated-financial-statements-for-the-yea-/9627869",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard statutory filing of annual accounts required by the FCA, carrying no new market-moving information beyond what was likely already priced in via prior trading updates or consensus estimates.",
+      "key_themes": [
+        "regulatory_compliance",
+        "routine_disclosure"
+      ]
     }
   ]
 }

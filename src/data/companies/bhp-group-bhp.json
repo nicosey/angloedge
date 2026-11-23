@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/bhp-group-limited-npv-di---bhp/director-pdmr-shareholding/9865205",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions which carries no intrinsic signal regarding BHP's strategic direction or financial health. In the absence of aggregate insider buying/selling data or accompanying commentary, such routine filings are market-neutral and do not warrant re-pricing.",
@@ -23,6 +24,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/bhp-group-limited-npv-di---bhp/director-pdmr-shareholding/9865204",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions which carries no intrinsic signal regarding BHP's strategic direction or financial health. In the absence of aggregate insider buying/selling data or specific deal context, such routine filings are administratively neutral for equity valuation.",
@@ -36,6 +38,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/bhp-group-limited-npv-di---bhp/director-pdmr-shareholding/9770220",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director transactions which carries negligible signal for BHP's fundamental outlook or share price direction compared to broader commodity cycles.",
@@ -49,16 +52,22 @@
       "category": null,
       "headline": "Media speculation on Western Australia Iron Ore",
       "url": "https://www.investegate.co.uk/announcement/rns/bhp-group-limited-npv-di---bhp/media-speculation-on-western-australia-iron-ore-/9756530",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard market-sensitivity disclosure regarding WAIO pricing speculation rather than a fundamental operational update; while it highlights the critical link between BHP's fortunes and Chinese steel demand dynamics, it lacks actionable financial data or strategic shifts.",
+      "key_themes": [
+        "Market Speculation",
+        "Iron Ore Pricing",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-08-28T10:21:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/bhp-group-limited-npv-di---bhp/total-voting-rights/9745683",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -69,16 +78,21 @@
       "category": "Dividend",
       "headline": "Dividend Currency Exchange Rate South African Rand",
       "url": "https://www.investegate.co.uk/announcement/rns/bhp-group-limited-npv-di---bhp/dividend-currency-exchange-rate-south-african-rand/9744312",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding the FX rate used for dividend conversion to South African Rand, carrying no fundamental impact on BHP's valuation or cash flow generation.",
+      "key_themes": [
+        "Dividend",
+        "FX Administration"
+      ]
     },
     {
       "timestamp": "2026-08-25T12:57:00",
       "category": "Director Dealing",
       "headline": "PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/bhp-group-limited-npv-di---bhp/pdmr-shareholding/9739363",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions with no material implication for BHP's strategic direction or valuation, as PDMR dealings are routine and do not reflect aggregate insider sentiment.",
@@ -92,6 +106,7 @@
       "category": null,
       "headline": "Additional Listing",
       "url": "https://www.investegate.co.uk/announcement/rns/bhp-group-limited-npv-di---bhp/additional-listing/9738741",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -102,16 +117,21 @@
       "category": null,
       "headline": "2026 US Annual Report (Form 20-F)",
       "url": "https://www.investegate.co.uk/announcement/rns/bhp-group-limited-npv-di---bhp/2026-us-annual-report-form-20-f-/9727857",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Filing a Form 20-F is a standard regulatory requirement for foreign private issuers in the US and does not constitute a material event; BHP's operational narrative is driven by commodity cycles and project execution rather than this administrative disclosure.",
+      "key_themes": [
+        "regulatory_compliance",
+        "routine_disclosure"
+      ]
     },
     {
       "timestamp": "2026-06-30T09:16:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/bhp-group-limited-npv-di---bhp/director-pdmr-shareholding/9644182",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of individual director transactions, which carries negligible fundamental weight for BHP's valuation compared to its commodity price exposure and operational output.",
@@ -125,10 +145,15 @@
       "category": null,
       "headline": "Jansen Project Update",
       "url": "https://www.investegate.co.uk/announcement/rns/bhp-group-limited-npv-di---bhp/jansen-project-update/9625349",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The Jansen potash project represents a critical supply-side catalyst for BHP's growth trajectory, directly addressing the structural deficit in global fertiliser markets and providing a high-margin revenue stream to offset volatility in core iron ore and copper segments.",
+      "key_themes": [
+        "Potash",
+        "Supply Expansion",
+        "Agricultural Commodities"
+      ]
     }
   ]
 }

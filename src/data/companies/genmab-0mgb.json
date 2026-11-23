@@ -10,56 +10,78 @@
       "category": null,
       "headline": "Grant of Restricted Stock Units and Warrants to Employees in Genmab",
       "url": "https://www.investegate.co.uk/announcement/gnw/genmab-a-s-genmab-ord-shs--0mgb/grant-of-restricted-stock-units-and-warrants-/9882813",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard equity incentive mechanism with negligible dilution impact on the float; such grants are routine administrative actions in biotech to retain talent and do not signal strategic shifts or material financial changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Minor Administrative"
+      ]
     },
     {
       "timestamp": "2026-11-12T19:09:00",
       "category": null,
       "headline": "Transactions with shares and linked securities in Genmab A/S made by managerial employees and their closely associated persons",
       "url": "https://www.investegate.co.uk/announcement/gnw/genmab-a-s-genmab-ord-shs--0mgb/transactions-with-shares-and-linked-securitie-/9873357",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure of insider transactions with negligible market impact, typical for biotech firms where executive shareholding changes are routine and do not signal strategic shifts or financial distress.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Dealing"
+      ]
     },
     {
       "timestamp": "2026-11-11T20:43:00",
       "category": null,
       "headline": "Transactions with shares and linked securities in Genmab A/S made by managerial employees and their closely associated persons",
       "url": "https://www.investegate.co.uk/announcement/gnw/genmab-a-s-genmab-ord-shs--0mgb/transactions-with-shares-and-linked-securitie-/9870948",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure of insider transactions with negligible market impact; routine director dealing in biotech firms rarely signals strategic shifts compared to block trades or executive sales exceeding typical vesting schedules.",
+      "key_themes": [
+        "Insider Dealing",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-11-10T22:57:00",
       "category": null,
       "headline": "Transactions with shares and linked securities in Genmab A/S made by managerial employees and their closely associated persons",
       "url": "https://www.investegate.co.uk/announcement/gnw/genmab-a-s-genmab-ord-shs--0mgb/transactions-with-shares-and-linked-securitie-/9868549",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure of insider transactions with minimal market impact, reflecting routine compliance rather than strategic shifts in the biotech sector.",
+      "key_themes": [
+        "Insider Dealing",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-11-10T20:32:00",
       "category": null,
       "headline": "Capital Increase in Genmab as a Result of Employee Warrant Exercise",
       "url": "https://www.investegate.co.uk/announcement/gnw/genmab-a-s-genmab-ord-shs--0mgb/capital-increase-in-genmab-as-a-result-of-emp-/9868546",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard dilutive event driven by employee incentive plans rather than strategic capital raising; while it increases share count and slightly reduces EPS, the cash inflow from warrant exercises is typically immaterial for Genmab's R&D funding needs compared to its core revenue streams.",
+      "key_themes": [
+        "Dilution",
+        "Employee Compensation",
+        "Capital Structure"
+      ]
     },
     {
       "timestamp": "2026-11-05T16:01:00",
       "category": "Results",
       "headline": "Genmab Announces Financial Results for the Nine Months of 2026",
       "url": "https://www.investegate.co.uk/announcement/gnw/genmab-a-s-genmab-ord-shs--0mgb/genmab-announces-financial-results-for-the-ni-/9861225",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a mid-cap biotech, Genmab's results are critical for tracking the commercial ramp-up of its ADC portfolio and antibody pipeline against larger peers like AstraZeneca and Roche; any deviation in revenue guidance or cash burn rates significantly impacts valuation multiples in the current high-rate environment.",
@@ -74,6 +96,7 @@
       "category": "Results",
       "headline": "Genmab to Present Results from Comprehensive Epcoritamab Development Program Highlighting Potential Across B-Cell Malignancies at the 2026 American Society of Hematology (ASH) Annual Meeting",
       "url": "https://www.investegate.co.uk/announcement/gnw/genmab-a-s-genmab-ord-shs--0mgb/genmab-to-present-results-from-comprehensive-/9858627",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a mid-cap biotech with high R&D burn rates, comprehensive results are critical for assessing the commercial trajectory of key assets like daratumumab and mogamulizumab against competitors. The market will scrutinize revenue growth sustainability and cash runway to gauge near-term financing risk in a volatile biotech funding environment.",

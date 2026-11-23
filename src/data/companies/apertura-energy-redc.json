@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Total Voting Rights and Capital",
       "url": "https://www.investegate.co.uk/announcement/rns/apertura-energy-plc--redc/total-voting-rights-and-capital/9592153",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,20 +21,28 @@
       "category": "Appointment",
       "headline": "Directorate Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/red-capital--redc/directorate-changes/9588007",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Directorate changes in the UK micro-cap space often signal internal restructuring or governance adjustments rather than immediate strategic pivots; without details on the specific roles or background of appointees, this remains a low-conviction administrative update.",
+      "key_themes": [
+        "Governance",
+        "Micro-cap"
+      ]
     },
     {
       "timestamp": "2026-05-27T12:55:00",
       "category": "AGM/EGM",
       "headline": "Result of 2026 Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/red-capital--redc/result-of-2026-annual-general-meeting/9588004",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results typically carry minimal immediate market impact unless contentious votes on executive pay or governance occur; without specific dissent data, this is classified as standard administrative disclosure.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     }
   ]
 }

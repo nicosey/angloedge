@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/capai-plc--cpai/holding-s-in-company/9737686",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,21 @@
       "category": null,
       "headline": "Clarification Re: Admission of Ordinary Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/capai-plc--cpai/clarification-re-admission-of-ordinary-shares/9711656",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Administrative clarification regarding share admission is a standard compliance update with no immediate financial or strategic implications for Capai PLC's valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-08-05T17:23:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/capai-plc--cpai/holding-s-in-company/9707112",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,36 +46,50 @@
       "category": "Placing",
       "headline": "Fundraise",
       "url": "https://www.investegate.co.uk/announcement/rns/capai-plc--cpai/fundraise/9704870",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "A capital raise for Capai PLC signals a need to bolster liquidity or fund growth initiatives in the competitive UK tech recruitment sector, where cash flow management is critical amid economic uncertainty.",
+      "key_themes": [
+        "capital_raise",
+        "liquidity_management",
+        "tech_recruitment"
+      ]
     },
     {
       "timestamp": "2026-07-23T07:00:00",
       "category": null,
       "headline": "Licence and Option Agreement for Ageotype",
       "url": "https://www.investegate.co.uk/announcement/rns/capai-plc--cpai/licence-and-option-agreement-for-ageotype-/9682983",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This represents a low-value commercial milestone typical of Capai's asset-light strategy, lacking the scale to materially alter financial projections or valuation multiples in the near term.",
+      "key_themes": [
+        "commercialisation",
+        "partnership"
+      ]
     },
     {
       "timestamp": "2026-07-09T07:00:00",
       "category": null,
       "headline": "Extension of Licence and Option Agreements",
       "url": "https://www.investegate.co.uk/announcement/rns/capai-plc--cpai/extension-of-licence-and-option-agreements-/9659739",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This administrative extension of licensing terms suggests operational continuity rather than strategic expansion, typical for small-cap tech firms managing IP portfolios without immediate revenue inflection.",
+      "key_themes": [
+        "Corporate Governance",
+        "IP Management"
+      ]
     },
     {
       "timestamp": "2026-06-30T14:00:00",
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/capai-plc--cpai/interim-results/9644903",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a small-cap AIM-listed entity, Capai's interim results provide essential visibility into its niche market positioning and liquidity profile, though lacking the transformative catalysts typical of larger FTSE constituents.",
@@ -83,20 +103,28 @@
       "category": null,
       "headline": "capAI Chairman Professor Ronjon Nag Awarded OBE",
       "url": "https://www.investegate.co.uk/announcement/rns/capai-plc--cpai/capai-chairman-professor-ronjon-nag-awarded-obe/9619663",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard corporate governance update highlighting the Chairman's personal accolade rather than a material operational development for CapAI PLC. While it reinforces leadership credibility in the AI sector, it carries no immediate financial implication or strategic shift for shareholders.",
+      "key_themes": [
+        "Corporate Governance",
+        "Leadership"
+      ]
     },
     {
       "timestamp": "2026-06-09T07:00:00",
       "category": null,
       "headline": "capMedia Platform Portfolio Update and Webinar",
       "url": "https://www.investegate.co.uk/announcement/rns/capai-plc--cpai/capmedia-platform-portfolio-update-and-webinar/9607738",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard investor relations update for a micro-cap media firm, likely aimed at maintaining liquidity and visibility rather than signaling material operational shifts or capital events.",
+      "key_themes": [
+        "Investor Relations",
+        "Micro-cap"
+      ]
     }
   ]
 }

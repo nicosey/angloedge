@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/renishaw--rsw/director-pdmr-shareholding/9836849",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings typically signal low immediate market impact unless accompanied by unusual volume or timing relative to earnings; without specific transaction details in the headline, this falls under standard administrative disclosure rather than a strategic catalyst.",
@@ -23,6 +24,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/renishaw--rsw/director-pdmr-shareholding/9797253",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings typically signal low immediate market impact unless accompanied by unusual volume or timing relative to price action; without specific transaction details in the headline, this falls under standard administrative disclosure rather than a strategic inflection point.",
@@ -36,6 +38,7 @@
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/renishaw--rsw/notice-of-results/9767942",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a notice of results rather than the full report, immediate market impact is limited to positioning ahead of the data release; however, Renishaw's status as a high-quality industrial tech play means any deviation in guidance or margin commentary will likely trigger significant repricing relative to its historical premium.",
@@ -49,10 +52,14 @@
       "category": null,
       "headline": "Capital Markets Day",
       "url": "https://www.investegate.co.uk/announcement/rns/renishaw--rsw/capital-markets-day/9619650",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Capital Markets Days serve as critical inflection points for industrial firms to reset growth narratives; for Renishaw, this event likely focuses on high-margin software transition and automation tailwinds, directly influencing long-term valuation multiples in the precision engineering sector.",
+      "key_themes": [
+        "Strategic Roadmap",
+        "Growth Narrative"
+      ]
     }
   ]
 }

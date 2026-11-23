@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "PDMR Notification",
       "url": "https://www.investegate.co.uk/announcement/rns/total-graphite-plc--tgr/pdmr-notification/9861172",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR notification for a micro-cap graphite explorer carries negligible immediate market impact; without disclosed volume or price data, it signals no strategic shift in the highly speculative battery materials sector.",
@@ -23,16 +24,22 @@
       "category": "Acquisition",
       "headline": "Proposed Acquisition and £0.41m CLN Fundraise",
       "url": "https://www.investegate.co.uk/announcement/rns/total-graphite-plc--tgr/proposed-acquisition-and-0-41m-cln-fundraise/9860237",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The combination of an acquisition with a CLN fundraise signals aggressive expansion in the graphite sector but introduces significant dilution and debt-like risk typical of junior resource plays; this mirrors recent capital-intensive moves by peers like Syrah Resources to secure supply chain positioning.",
+      "key_themes": [
+        "Capital Raise",
+        "M&A",
+        "Graphite"
+      ]
     },
     {
       "timestamp": "2026-10-28T14:48:00",
       "category": null,
       "headline": "CLN Conversion and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/total-graphite-plc--tgr/cln-conversion-and-total-voting-rights/9846493",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,26 +50,39 @@
       "category": null,
       "headline": "Downstream Materials Programme & Issue of Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/total-graphite-plc--tgr/downstream-materials-programme-issue-of-shares/9764378",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The issuance of shares signals a critical capital raise to fund the downstream graphite programme, diluting existing holders but validating the strategic pivot from exploration to processing. This aligns with recent sector trends where junior miners must secure funding for value-added infrastructure to unlock premium pricing in the EV battery supply chain.",
+      "key_themes": [
+        "Capital Raise",
+        "Downstream Processing",
+        "Dilution",
+        "EV Battery Materials"
+      ]
     },
     {
       "timestamp": "2026-09-09T07:00:00",
       "category": null,
       "headline": "Montepuez Feasibility Study Update",
       "url": "https://www.investegate.co.uk/announcement/rns/total-graphite-plc--tgr/montepuez-feasibility-study-update/9761834",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The Montepuez feasibility study update is a critical de-risking milestone for Total Graphite's primary asset in Mozambique, directly addressing the execution risk that has historically suppressed valuation multiples for junior miners. While not an immediate catalyst like production commencement, it provides the technical validation necessary to attract institutional capital and potentially secure offtake agreements in the current EV battery supply chain consolidation phase.",
+      "key_themes": [
+        "Feasibility Study",
+        "Mozambique",
+        "Graphite",
+        "De-risking"
+      ]
     },
     {
       "timestamp": "2026-07-31T12:00:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/total-graphite-plc--tgr/total-voting-rights/9698700",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,40 +93,56 @@
       "category": null,
       "headline": "Operational Update",
       "url": "https://www.investegate.co.uk/announcement/rns/total-graphite-plc--tgr/operational-update-/9685259",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Operational updates for junior explorers like Total Graphite are typically routine status reports that rarely move the market without accompanying assay results or resource estimates; this is likely a low-impact administrative disclosure.",
+      "key_themes": [
+        "exploration",
+        "routine_update"
+      ]
     },
     {
       "timestamp": "2026-06-09T07:00:00",
       "category": null,
       "headline": "Updated Corporate Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/total-graphite-plc--tgr/updated-corporate-presentation/9607774",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine marketing update for a micro-cap exploration stock with no immediate catalysts; lacks material operational data or financial guidance to influence valuation.",
+      "key_themes": [
+        "investor_relations",
+        "exploration"
+      ]
     },
     {
       "timestamp": "2026-06-08T07:00:00",
       "category": "Appointment",
       "headline": "Graphite Portfolio Optimisation and Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/total-graphite-plc--tgr/graphite-portfolio-optimisation-and-board-changes/9605498",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Board changes in small-cap mining often signal a strategic pivot to address governance gaps or operational bottlenecks; this move aims to restore investor confidence and align leadership with the 'portfolio optimisation' narrative to unlock value in a capital-intensive sector.",
+      "key_themes": [
+        "Governance",
+        "Strategic Pivot"
+      ]
     },
     {
       "timestamp": "2026-06-05T12:19:00",
       "category": null,
       "headline": "General Meeting Result",
       "url": "https://www.investegate.co.uk/announcement/rns/total-graphite-plc--tgr/general-meeting-result/9604745",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "General Meeting results are typically administrative ratifications of board decisions already taken, offering no new material information to drive share price action in the absence of a concurrent major corporate event.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     }
   ]
 }

@@ -10,30 +10,43 @@
       "category": null,
       "headline": "Company Update",
       "url": "https://www.investegate.co.uk/announcement/rns/heylo-housing-secured-bond-plc--hey1/company-update-/9811077",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a fixed-income issuer, HEY1's 'Company Update' likely pertains to routine administrative matters or minor covenant compliance rather than equity-moving events; without specific details on capital structure changes or default risks, the market impact is negligible for equity holders.",
+      "key_themes": [
+        "Administrative",
+        "Fixed Income"
+      ]
     },
     {
       "timestamp": "2026-06-30T14:03:00",
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/heylo-housing-secured-bond-plc--hey1/half-year-financial-report/9644913",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a listed bond issuer, HEY1's interim results are critical for assessing credit risk and dividend sustainability within the UK social housing finance sector; investors will scrutinize net interest margins and default rates to gauge resilience against rising refinancing costs.",
+      "key_themes": [
+        "Credit Risk",
+        "Dividend Sustainability",
+        "Social Housing Finance"
+      ]
     },
     {
       "timestamp": "2026-05-29T14:30:00",
       "category": null,
       "headline": "Portfolio Update",
       "url": "https://www.investegate.co.uk/announcement/rns/heylo-housing-secured-bond-plc--hey1/portfolio-update/9592701",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Portfolio updates for secured bond issuers typically signal asset quality maintenance rather than growth catalysts; without explicit data on yield compression or default rates, this is likely a routine compliance disclosure with limited immediate pricing impact.",
+      "key_themes": [
+        "asset_quality",
+        "routine_disclosure"
+      ]
     }
   ]
 }

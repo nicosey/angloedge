@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Transfer of Treasury Shares & Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/northamber--nar/transfer-of-treasury-shares-total-voting-rights-/9689659",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/northamber--nar/holding-s-in-company/9684746",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/northamber--nar/holding-s-in-company/9620431",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,10 +43,14 @@
       "category": null,
       "headline": "Share Purchase",
       "url": "https://www.investegate.co.uk/announcement/rns/northamber--nar/share-purchase/9611787",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Share purchase announcements for Northamber typically reflect minor internal treasury management or small-scale director transactions rather than strategic capital allocation, indicating negligible immediate impact on share price dynamics.",
+      "key_themes": [
+        "Corporate Action",
+        "Minor"
+      ]
     }
   ]
 }

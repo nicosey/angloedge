@@ -10,36 +10,49 @@
       "category": "Dividend",
       "headline": "Preference Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/prn/aeci-ld--87fz/preference-dividend-declaration/9875131",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard distribution on fixed-income preference shares, carrying no equity dilution or operational significance for AECI LD's common shareholders.",
+      "key_themes": [
+        "capital_structure",
+        "routine_admin"
+      ]
     },
     {
       "timestamp": "2026-09-07T09:00:00",
       "category": null,
       "headline": "Interest and Capital Payment Notification",
       "url": "https://www.investegate.co.uk/announcement/prn/aeci-ld--87fz/interest-and-capital-payment-notification/9758615",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notification regarding scheduled debt servicing, indicating no immediate liquidity stress or strategic shift. Such filings are routine for leveraged entities and carry negligible market-moving potential compared to operational updates.",
+      "key_themes": [
+        "Debt Servicing",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-04T15:00:00",
       "category": null,
       "headline": "Dealings in securities by Directors, Prescribed Officers and the Group Company Secretary",
       "url": "https://www.investegate.co.uk/announcement/prn/aeci-ld--87fz/dealings-in-securities-by-directors-prescrib-/9757178",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing detailing routine insider transactions rather than a substantive corporate event; in the absence of large-scale disposals or significant purchases by key decision-makers, it carries no immediate strategic signal for AECI's valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
     },
     {
       "timestamp": "2026-08-17T08:00:00",
       "category": "Results",
       "headline": "Voting results in respect of the request for written consent of Noteholders of AECI06 Notes",
       "url": "https://www.investegate.co.uk/announcement/prn/aeci-ld--87fz/voting-results-in-respect-of-the-request-for-/9724648",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "Voting results for a request typically confirm procedural outcomes of routine corporate actions rather than signaling new strategic shifts or financial performance changes.",
@@ -53,6 +66,7 @@
       "category": null,
       "headline": "Notice to Noteholders of the AECI06 Notes",
       "url": "https://www.investegate.co.uk/announcement/prn/aeci-ld--87fz/notice-to-noteholders-of-the-aeci06-notes/9673036",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,10 +77,14 @@
       "category": null,
       "headline": "Interest Payment Notifications",
       "url": "https://www.investegate.co.uk/announcement/prn/aeci-ld--87fz/interest-payment-notifications/9606481",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notification regarding periodic interest payments on debt instruments, carrying no material implication for AECI's operational performance or equity valuation.",
+      "key_themes": [
+        "Corporate Finance",
+        "Debt Service"
+      ]
     }
   ]
 }

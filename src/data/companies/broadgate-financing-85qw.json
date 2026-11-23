@@ -10,16 +10,22 @@
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/broadgate-financing-plc--85qw/half-year-financial-report/9884858",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a SPAC vehicle, this report confirms the critical post-merger financial trajectory of the acquired entity, serving as a vital due diligence checkpoint for shareholders assessing the viability of the de-SPAC transaction.",
+      "key_themes": [
+        "SPAC",
+        "Post-Merger Integration",
+        "Financial Performance"
+      ]
     },
     {
       "timestamp": "2026-11-19T07:00:00",
       "category": null,
       "headline": "Notice to Bondholders",
       "url": "https://www.investegate.co.uk/announcement/rns/broadgate-financing-plc--85qw/notice-to-bondholders/9882954",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,20 +36,28 @@
       "category": null,
       "headline": "Bond Calculations",
       "url": "https://www.investegate.co.uk/announcement/rns/broadgate-financing-plc--85qw/bond-calculations/9802737",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding bond calculation mechanics, likely related to interest accruals or maturity schedules, carrying no material strategic or financial impact for equity holders.",
+      "key_themes": [
+        "administrative",
+        "bond_mechanics"
+      ]
     },
     {
       "timestamp": "2026-07-02T15:00:00",
       "category": null,
       "headline": "Bond Calculations",
       "url": "https://www.investegate.co.uk/announcement/rns/broadgate-financing-plc--85qw/bond-calculations/9650325",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding bond calculation mechanics, likely related to interest accruals or redemption values, carrying no material strategic or financial impact for the equity holder.",
+      "key_themes": [
+        "administrative",
+        "bond_mechanics"
+      ]
     }
   ]
 }

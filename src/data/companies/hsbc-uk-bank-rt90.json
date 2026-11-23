@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Issue of Debt",
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-uk-bank-plc--rt90/issue-of-debt/9865759",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine debt issuance typical for liquidity management in the UK banking sector; lacks transformative M&A or significant capital raise elements that would alter valuation multiples.",
+      "key_themes": [
+        "capital_management",
+        "banking_sector"
+      ]
     },
     {
       "timestamp": "2026-09-22T15:57:00",
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-uk-bank-plc--rt90/admission-to-trading/9785334",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": null,
       "headline": "Publication of a Supplementary Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-uk-bank-plc--rt90/publication-of-a-supplementary-prospectus/9706485",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,30 +46,43 @@
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-uk-bank-plc--rt90/half-year-financial-report/9703683",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a standalone entity post-2017 demerger, HSBC UK's half-year results provide a critical barometer for the UK retail and SME banking sector's resilience against rising funding costs and potential credit deterioration, rather than signaling group-level strategic shifts.",
+      "key_themes": [
+        "UK Banking",
+        "Interim Results",
+        "Retail Lending"
+      ]
     },
     {
       "timestamp": "2026-06-24T13:25:00",
       "category": null,
       "headline": "Publication of a Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-uk-bank-plc--rt90/publication-of-a-prospectus/9634852",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing required for the issuance of debt securities or capital instruments, reflecting routine treasury management rather than strategic shifts or equity dilution.",
+      "key_themes": [
+        "Capital Management",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-06-24T13:23:00",
       "category": null,
       "headline": "Publication of a Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-uk-bank-plc--rt90/publication-of-a-prospectus/9634849",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing for HSBC UK Bank PLC, likely related to its ongoing separation from the global group or routine debt issuance, rather than a transformative event for the listed entity itself.",
+      "key_themes": [
+        "Corporate Action",
+        "Regulatory Compliance"
+      ]
     }
   ]
 }

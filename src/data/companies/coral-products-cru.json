@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/coral-products--cru/holding-s-in-company/9856468",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,26 +21,35 @@
       "category": null,
       "headline": "Suspension - Coral Products Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/coral-products--cru/suspension-coral-products-plc/9852618",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Suspension of a AIM-listed small-cap typically signals severe liquidity issues, potential insolvency, or imminent delisting proceedings, representing an existential threat to shareholder value with near-zero probability of recovery.",
+      "key_themes": [
+        "Liquidity Crisis",
+        "Delisting Risk"
+      ]
     },
     {
       "timestamp": "2026-10-06T16:00:00",
       "category": null,
       "headline": "Related Party Transactions",
       "url": "https://www.investegate.co.uk/announcement/rns/coral-products--cru/related-party-transactions/9809702",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Related party transaction disclosures are typically administrative compliance requirements with negligible immediate financial impact unless they involve significant asset transfers or governance breaches; for a small-cap like Coral Products, this is routine housekeeping rather than a strategic catalyst.",
+      "key_themes": [
+        "Corporate Governance",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-09-24T12:41:00",
       "category": "Trading Update",
       "headline": "Board Changes and Further Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/coral-products--cru/board-changes-and-further-trading-update/9789631",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "The combination of a trading update with board changes suggests potential underlying operational pressures or strategic shifts within the industrial recycling sector, warranting scrutiny on whether leadership instability is masking margin compression.",
@@ -53,10 +63,14 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/coral-products--cru/directorate-change/9785225",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine administrative updates to the board of Coral Products are unlikely to drive immediate valuation changes, as the company operates in a niche industrial sector with limited recent precedent for activist intervention or strategic pivots.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     }
   ]
 }

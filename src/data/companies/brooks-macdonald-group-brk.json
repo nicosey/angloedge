@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/brooks-macdonald-group--brk/holding-s-in-company/9841788",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/brooks-macdonald-group--brk/director-pdmr-shareholding/9827062",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on BRK's valuation or liquidity; the firm's performance remains tethered to broader UK wealth management AUM trends and fee compression pressures rather than individual insider transactions.",
@@ -33,6 +35,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/brooks-macdonald-group--brk/holding-s-in-company/9825207",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,26 +46,35 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/brooks-macdonald-group--brk/result-of-agm/9820783",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting confirmation of shareholder resolutions for Brooks Macdonald Group's Annual General Meeting, carrying no new strategic direction or financial data. Such announcements are routine administrative updates with negligible immediate impact on share price or valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-10-08T07:00:00",
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/brooks-macdonald-group--brk/directorate-change/9812242",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board-level personnel adjustments in the UK wealth management sector typically signal governance continuity rather than strategic pivots, offering no immediate catalyst for valuation re-rating amidst current margin pressures.",
+      "key_themes": [
+        "Corporate Governance",
+        "Leadership Stability"
+      ]
     },
     {
       "timestamp": "2026-09-28T11:00:00",
       "category": null,
       "headline": "Block Listing Six Monthly Return",
       "url": "https://www.investegate.co.uk/announcement/rns/brooks-macdonald-group--brk/block-listing-six-monthly-return/9794149",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,6 +85,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/brooks-macdonald-group--brk/holding-s-in-company/9789126",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,6 +96,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/brooks-macdonald-group--brk/holding-s-in-company/9786791",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -93,16 +107,21 @@
       "category": "AGM/EGM",
       "headline": "Annual Report and Accounts and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/brooks-macdonald-group--brk/annual-report-and-accounts-and-notice-of-agm/9768791",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for the AGM notice and annual accounts, lacking any transformative M&A, profit warnings, or significant capital actions that would alter the investment thesis.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-08-03T09:26:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/brooks-macdonald-group--brk/holding-s-in-company/9700772",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

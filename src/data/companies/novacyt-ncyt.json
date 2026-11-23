@@ -10,16 +10,22 @@
       "category": null,
       "headline": "Australian approval for Yourgene® DPYD Assay",
       "url": "https://www.investegate.co.uk/announcement/rns/novacyt-s-a-cdi---ncyt/australian-approval-for-yourgene-dpyd-assay-/9868831",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Regulatory approval in Australia expands the addressable market for Yourgene's DPYD assay, a critical companion diagnostic for fluoropyrimidine chemotherapy, enhancing commercial visibility and validating the platform's global scalability.",
+      "key_themes": [
+        "regulatory_approval",
+        "companion_diagnostic",
+        "market_expansion"
+      ]
     },
     {
       "timestamp": "2026-11-02T13:30:00",
       "category": null,
       "headline": "Liquidity Agreement and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/novacyt-s-a-cdi---ncyt/liquidity-agreement-and-total-voting-rights/9853827",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +36,7 @@
       "category": null,
       "headline": "Liquidity Agreement Monthly Update and TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/novacyt-s-a-cdi---ncyt/liquidity-agreement-monthly-update-and-tvr/9802858",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +47,7 @@
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/novacyt-s-a-cdi---ncyt/notice-of-results/9785646",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the release of results rather than the results themselves; without accompanying financial data, it holds no immediate valuation impact for Novacyt.",
@@ -53,16 +61,22 @@
       "category": null,
       "headline": "Launch of IVDR-Certified Yourgene® DPYD Assay",
       "url": "https://www.investegate.co.uk/announcement/rns/novacyt-s-a-cdi---ncyt/launch-of-ivdr-certified-yourgene-dpyd-assay/9759938",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This launch addresses the critical IVDR regulatory transition in Europe, securing Novacyt's commercial viability for its core DPYD portfolio against competitors like Thermo Fisher and BioMérieux. It mitigates significant regulatory risk but represents a standard product lifecycle update rather than a transformative strategic shift.",
+      "key_themes": [
+        "IVDR Compliance",
+        "In Vitro Diagnostics",
+        "Market Access"
+      ]
     },
     {
       "timestamp": "2026-09-01T12:30:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/novacyt-s-a-cdi---ncyt/total-voting-rights/9749697",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -73,6 +87,7 @@
       "category": null,
       "headline": "Liquidity Agreement Update and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/novacyt-s-a-cdi---ncyt/liquidity-agreement-update-and-total-voting-rights/9701529",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,6 +98,7 @@
       "category": null,
       "headline": "Liquidity Agreement Monthly Update and TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/novacyt-s-a-cdi---ncyt/liquidity-agreement-monthly-update-and-tvr/9648118",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -93,36 +109,49 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/novacyt-s-a-cdi---ncyt/result-of-agm/9645427",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for a small-cap biotech firm typically confirm standard shareholder approvals with no material strategic shifts, reflecting the low liquidity and speculative nature of the UK AIM biotech sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Small Cap Biotech"
+      ]
     },
     {
       "timestamp": "2026-06-11T07:00:00",
       "category": null,
       "headline": "Publication of Annual Report",
       "url": "https://www.investegate.co.uk/announcement/rns/novacyt-s-a-cdi---ncyt/publication-of-annual-report-/9612464",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine publication of the annual report serves as a standard compliance filing rather than a catalyst for immediate price action; investors will focus on underlying revenue growth and cash burn rates within the text to assess valuation in the competitive IVD sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Financial Reporting"
+      ]
     },
     {
       "timestamp": "2026-06-10T07:00:00",
       "category": "AGM/EGM",
       "headline": "AGM Voting",
       "url": "https://www.investegate.co.uk/announcement/rns/novacyt-s-a-cdi---ncyt/agm-voting-/9610070",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM voting is an administrative procedural event with no immediate financial or strategic impact on Novacyt's valuation or operations.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-01T14:45:00",
       "category": null,
       "headline": "Liquidity Agreement Monthly Update and TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/novacyt-s-a-cdi---ncyt/liquidity-agreement-monthly-update-and-tvr/9595487",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -133,10 +162,14 @@
       "category": null,
       "headline": "Operational Update",
       "url": "https://www.investegate.co.uk/announcement/rns/novacyt-s-a-cdi---ncyt/operational-update-/9594582",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a micro-cap in the niche molecular diagnostics sector, Novacyt's operational updates typically lack the materiality to drive significant price discovery without accompanying financial metrics; this category suggests routine administrative or minor progress reporting rather than transformative strategic shifts.",
+      "key_themes": [
+        "Micro-cap",
+        "Operational Routine"
+      ]
     }
   ]
 }

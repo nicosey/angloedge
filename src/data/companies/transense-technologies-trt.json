@@ -10,6 +10,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM & Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/transense-technologies--trt/notice-of-agm-board-changes/9846921",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/transense-technologies--trt/holding-s-in-company/9809694",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/transense-technologies--trt/holding-s-in-company/9775713",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,20 +43,29 @@
       "category": "Appointment",
       "headline": "Transense appoints distributors for Translogik",
       "url": "https://www.investegate.co.uk/announcement/rns/transense-technologies--trt/transense-appoints-distributors-for-translogik/9680724",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This appointment signals a critical pivot from niche OEM supply to broader aftermarket penetration for Transense's EV charging infrastructure, addressing the key bottleneck of channel distribution in the fragmented UK green energy sector.",
+      "key_themes": [
+        "EV Infrastructure",
+        "Commercialisation",
+        "Market Expansion"
+      ]
     },
     {
       "timestamp": "2026-07-07T07:00:00",
       "category": "Appointment",
       "headline": "Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/transense-technologies--trt/board-changes-/9654895",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board changes for a micro-cap engineering firm typically signal administrative continuity rather than strategic pivot; without details on the appointee's background or specific mandate, this lacks the catalyst potential to drive significant valuation re-rating in the current market.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap Administration"
+      ]
     }
   ]
 }

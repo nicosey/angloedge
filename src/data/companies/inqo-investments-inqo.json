@@ -10,16 +10,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/inqo-investments-limited--inqo/result-of-agm-/9789806",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no immediate financial or strategic weight for equity valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-08-27T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/inqo-investments-limited--inqo/notice-of-agm-/9742149",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,10 +35,14 @@
       "category": null,
       "headline": "Chairman Loan Conversion",
       "url": "https://www.investegate.co.uk/announcement/rns/inqo-investments-limited--inqo/chairman-loan-conversion-/9689939",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This administrative conversion of a chairman's loan is a standard corporate finance maneuver that strengthens the balance sheet by reducing debt but offers no immediate operational catalyst or valuation re-rating for INQO.",
+      "key_themes": [
+        "balance_sheet_strengthening",
+        "administrative_action"
+      ]
     }
   ]
 }

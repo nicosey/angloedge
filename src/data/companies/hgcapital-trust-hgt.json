@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/hgcapital-trust--hgt/director-pdmr-shareholding/9875236",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry negligible market impact unless involving significant insider buying during a discount period; without volume or price data, this is classified as administrative noise rather than a strategic signal.",
@@ -23,36 +24,51 @@
       "category": null,
       "headline": "Edison issues report on HgT (HGT)",
       "url": "https://www.investegate.co.uk/announcement/eqs/hgcapital-trust--hgt/edison-issues-report-on-hgt-hgt-/9868102",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Edison's independent report serves as a standard due diligence tool for investment trust investors rather than a material corporate event; while it may influence sentiment regarding the manager's strategy or valuation discount, it does not alter the underlying asset base or governance structure.",
+      "key_themes": [
+        "Investment Trust",
+        "Analyst Report",
+        "Due Diligence"
+      ]
     },
     {
       "timestamp": "2026-11-03T09:38:00",
       "category": null,
       "headline": "Hg invests in new AI venture alongside Anthropic",
       "url": "https://www.investegate.co.uk/announcement/rns/hgcapital-trust--hgt/hg-invests-in-new-ai-venture-alongside-anthropic/9855575",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This investment signals HGT's active pivot towards high-growth AI infrastructure, leveraging its partnership with Anthropic to access top-tier deal flow in a sector commanding premium valuations. It serves as a strategic differentiator for the trust's growth mandate but carries execution risk given the speculative nature of early-stage AI ventures.",
+      "key_themes": [
+        "AI Infrastructure",
+        "Venture Capital Strategy",
+        "Growth Allocation"
+      ]
     },
     {
       "timestamp": "2026-10-26T07:00:00",
       "category": null,
       "headline": "Hg announces an investment in 3E",
       "url": "https://www.investegate.co.uk/announcement/rns/hgcapital-trust--hgt/hg-announces-an-investment-in-3e/9840040",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms standard portfolio deployment for a closed-end investment trust, reflecting routine capital allocation rather than transformative corporate action. While it signals active management in the industrial/tech sectors, it carries no immediate implication for HGT's NAV or dividend policy beyond normal investment activity.",
+      "key_themes": [
+        "Portfolio Deployment",
+        "Private Equity Investment"
+      ]
     },
     {
       "timestamp": "2026-10-23T13:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/hgcapital-trust--hgt/holding-s-in-company/9839410",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,16 +79,21 @@
       "category": null,
       "headline": "Hg announces the full exit of Gen II",
       "url": "https://www.investegate.co.uk/announcement/rns/hgcapital-trust--hgt/hg-announces-the-full-exit-of-gen-ii-/9808432",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This signals the successful lifecycle conclusion of a vintage fund rather than a distress event; for HGT, it represents portfolio normalization and potential capital recycling into newer vintages, though it offers no immediate earnings catalyst.",
+      "key_themes": [
+        "Private Equity",
+        "Fund Lifecycle"
+      ]
     },
     {
       "timestamp": "2026-10-05T09:43:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/hgcapital-trust--hgt/holding-s-in-company/9806576",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,16 +104,21 @@
       "category": null,
       "headline": "Hg announces an investment in EnterSoftone",
       "url": "https://www.investegate.co.uk/announcement/rns/hgcapital-trust--hgt/hg-announces-an-investment-in-entersoftone/9784373",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This represents a standard portfolio deployment for a mid-market private equity trust rather than a transformative event; while it confirms active deal flow in the fragmented UK IT services sector, the specific financial terms are undisclosed and unlikely to materially alter HGT's NAV per share in the short term.",
+      "key_themes": [
+        "Private Equity Deployment",
+        "IT Services Sector"
+      ]
     },
     {
       "timestamp": "2026-09-18T16:40:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/hgcapital-trust--hgt/holding-s-in-company/9780523",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -103,6 +129,7 @@
       "category": null,
       "headline": "Holding(s) in Company & Update on Hg Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/hgcapital-trust--hgt/holding-s-in-company-update-on-hg-shareholding/9761183",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -113,6 +140,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/hgcapital-trust--hgt/holding-s-in-company/9744232",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -123,6 +151,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/hgcapital-trust--hgt/holding-s-in-company/9734728",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -133,46 +162,65 @@
       "category": null,
       "headline": "Hg announces an investment in Nourish",
       "url": "https://www.investegate.co.uk/announcement/rns/hgcapital-trust--hgt/hg-announces-an-investment-in-nourish/9726213",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This investment aligns with HGT's core strategy of backing the UK's high-growth tech sector, specifically targeting the resilient health-tech and wellness markets which have seen increased M&A activity and valuation stabilization post-2023 correction.",
+      "key_themes": [
+        "Private Equity",
+        "Health-Tech",
+        "Portfolio Expansion"
+      ]
     },
     {
       "timestamp": "2026-08-10T12:43:00",
       "category": null,
       "headline": "Edison issues report on HgT (HGT)",
       "url": "https://www.investegate.co.uk/announcement/eqs/hgcapital-trust--hgt/edison-issues-report-on-hgt-hgt-/9713646",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Third-party research reports from firms like Edison do not constitute corporate announcements and carry no direct market-moving weight for HGT, though they may influence sentiment among retail investors who follow such coverage.",
+      "key_themes": [
+        "analyst_coverage",
+        "sentiment"
+      ]
     },
     {
       "timestamp": "2026-07-29T16:09:00",
       "category": null,
       "headline": "Hg announces the full exit of Quantios",
       "url": "https://www.investegate.co.uk/announcement/rns/hgcapital-trust--hgt/hg-announces-the-full-exit-of-quantios/9694412",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This exit likely represents a standard portfolio recycling event for an investment trust rather than a strategic pivot; without evidence of significant impairment or loss, it is routine capital management typical of private equity vehicles like HGT.",
+      "key_themes": [
+        "Portfolio Management",
+        "Exit"
+      ]
     },
     {
       "timestamp": "2026-07-22T07:00:00",
       "category": null,
       "headline": "Hg announces an investment in Street Group",
       "url": "https://www.investegate.co.uk/announcement/rns/hgcapital-trust--hgt/hg-announces-an-investment-in-street-group-/9680720",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This investment aligns with HGT's core strategy of backing high-growth UK tech firms in the B2B SaaS and fintech sectors, reinforcing its position as a key capital provider for the domestic innovation ecosystem. While routine for a specialist finance trust, it signals continued confidence in the resilience of the UK private equity market despite broader macroeconomic headwinds.",
+      "key_themes": [
+        "Private Equity",
+        "UK Tech Investment",
+        "Portfolio Expansion"
+      ]
     },
     {
       "timestamp": "2026-06-30T14:44:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/hgcapital-trust--hgt/director-pdmr-shareholding/9645042",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry minimal market impact unless they signal significant insider sentiment shifts; without volume or price context, this remains an administrative filing with no immediate strategic implication for HGT's valuation.",
@@ -186,16 +234,21 @@
       "category": null,
       "headline": "Edison issues report on HgT (HGT)",
       "url": "https://www.investegate.co.uk/announcement/eqs/hgcapital-trust--hgt/edison-issues-report-on-hgt-hgt-/9616615",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Third-party research reports from firms like Edison are standard informational updates that rarely move share prices unless they contain a significant rating change or target price revision not already priced in.",
+      "key_themes": [
+        "analyst_coverage",
+        "informational_update"
+      ]
     },
     {
       "timestamp": "2026-06-09T14:31:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/hgcapital-trust--hgt/holding-s-in-company/9609640",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -206,6 +259,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/hgcapital-trust--hgt/holding-s-in-company/9604392",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -216,20 +270,29 @@
       "category": null,
       "headline": "Hg to increase strategic investment in HgT",
       "url": "https://www.investegate.co.uk/announcement/rns/hgcapital-trust--hgt/hg-to-increase-strategic-investment-in-hgt/9600938",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This signals strong internal conviction in the private equity asset base during a period of market volatility, aligning management interests with shareholders and potentially supporting the NAV premium; however, as a closed-end fund, it represents capital recycling rather than transformative external growth.",
+      "key_themes": [
+        "Management Alignment",
+        "Private Equity Exposure",
+        "NAV Support"
+      ]
     },
     {
       "timestamp": "2026-05-27T07:00:00",
       "category": null,
       "headline": "Hg announces an investment in Rightsline",
       "url": "https://www.investegate.co.uk/announcement/rns/hgcapital-trust--hgt/hg-announces-an-investment-in-rightsline/9586493",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms a new portfolio investment rather than a capital return or major corporate restructuring, offering limited immediate catalyst for the trust's NAV or share price performance.",
+      "key_themes": [
+        "Portfolio Activity",
+        "Private Equity"
+      ]
     }
   ]
 }

@@ -10,16 +10,21 @@
       "category": "Dividend",
       "headline": "Interim Dividend Payment",
       "url": "https://www.investegate.co.uk/announcement/rns/steppe-cement-ltd--stcm/interim-dividend-payment-/9849253",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a non-listed private entity, Steppe Cement Ltd's interim dividend is an internal capital distribution with zero impact on public equity markets or liquidity.",
+      "key_themes": [
+        "private_company",
+        "capital_distribution"
+      ]
     },
     {
       "timestamp": "2026-10-16T10:30:00",
       "category": "Trading Update",
       "headline": "Trading Update for Q3 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/steppe-cement-ltd--stcm/trading-update-for-q3-2026/9827253",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a pre-revenue exploration entity, this update likely details drilling progress rather than financial results; in the current UK equity market, such updates are routine but critical for validating resource estimates and managing cash burn expectations among speculative investors.",
@@ -33,26 +38,36 @@
       "category": "Dividend",
       "headline": "Declaration of Interim Dividend",
       "url": "https://www.investegate.co.uk/announcement/rns/steppe-cement-ltd--stcm/declaration-of-interim-dividend/9810098",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a pre-revenue exploration entity, the declaration of an interim dividend is highly anomalous and likely indicates a return of capital to shareholders rather than operational profitability, signaling potential strategic pivot or liquidity management in a capital-intensive sector.",
+      "key_themes": [
+        "capital_return",
+        "exploration_stage",
+        "unusual_dividend"
+      ]
     },
     {
       "timestamp": "2026-09-09T09:00:00",
       "category": "Results",
       "headline": "Half-year Report",
       "url": "https://www.investegate.co.uk/announcement/rns/steppe-cement-ltd--stcm/half-year-report-/9763021",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a micro-cap entity with negligible liquidity, STCM's interim results are unlikely to move the broader market but may trigger minor volatility among its small shareholder base amid ongoing sector headwinds from high energy costs and weak construction demand.",
+      "key_themes": [
+        "interim results",
+        "micro-cap volatility"
+      ]
     },
     {
       "timestamp": "2026-07-20T07:00:00",
       "category": "Director Dealing",
       "headline": "Director's Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/steppe-cement-ltd--stcm/director-s-dealing-/9675796",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealings in the materials sector typically signal internal alignment rather than strategic shifts, offering negligible immediate alpha compared to fundamental catalysts like cement demand recovery or capex announcements.",
@@ -66,26 +81,35 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/steppe-cement-ltd--stcm/result-of-agm/9639722",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no immediate financial or strategic weight for equity valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-06-22T07:00:00",
       "category": "AGM/EGM",
       "headline": "AGM - Submission of Shareholder Questions",
       "url": "https://www.investegate.co.uk/announcement/rns/steppe-cement-ltd--stcm/agm-submission-of-shareholder-questions-/9628764",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for an AGM, indicating routine governance rather than any material corporate action or strategic shift in the cement sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Engagement"
+      ]
     },
     {
       "timestamp": "2026-05-27T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/steppe-cement-ltd--stcm/notice-of-agm-/9586507",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -96,10 +120,14 @@
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/steppe-cement-ltd--stcm/annual-financial-report-/9586462",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a non-existent entity with no trading history on the London Stock Exchange, this announcement is likely fictitious or erroneous; without verifiable financial data or sector context, it holds zero market relevance.",
+      "key_themes": [
+        "non-existent_entity",
+        "data_integrity_issue"
+      ]
     }
   ]
 }

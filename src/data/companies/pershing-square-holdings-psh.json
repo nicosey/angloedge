@@ -2,14 +2,29 @@
   "name": "Pershing Square Holdings Ltd",
   "ticker": "PSH",
   "slug": "pershing-square-holdings-psh",
-  "announcement_count": 5,
-  "latest_announcement": "2026-11-11T07:10:00",
+  "announcement_count": 6,
+  "latest_announcement": "2026-11-23T15:07:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T15:07:00",
+      "category": null,
+      "headline": "Pershing Square Holdings, Ltd. Announces New ...",
+      "url": "https://www.investegate.co.uk/announcement/bzw/pershing-square-holdings-ltd--psh/pershing-square-holdings-ltd-announces-new-/9889531",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The truncated headline suggests a standard administrative update or minor corporate action typical for closed-end funds like PSH; without details on significant capital deployment or governance changes, the market impact is likely negligible.",
+      "key_themes": [
+        "Corporate Action",
+        "Closed-End Fund"
+      ]
+    },
     {
       "timestamp": "2026-11-11T07:10:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/bzw/pershing-square-holdings-ltd--psh/transaction-in-own-shares/9869136",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +35,22 @@
       "category": "Dividend",
       "headline": "Pershing Square Holdings, Ltd. Confirms Fourth Quarter 2026 Dividend for Shareholders",
       "url": "https://www.investegate.co.uk/announcement/bzw/pershing-square-holdings-ltd--psh/pershing-square-holdings-ltd-confirms-fourt-/9861013",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Confirms ongoing capital return policy typical of closed-end investment trusts like PSH, providing yield stability for income-focused UK equity investors amidst volatile market conditions.",
+      "key_themes": [
+        "Dividend",
+        "Closed-End Fund",
+        "Capital Return"
+      ]
     },
     {
       "timestamp": "2026-10-28T13:18:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/bzw/pershing-square-holdings-ltd--psh/transaction-in-own-shares/9846348",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,16 +61,22 @@
       "category": "Share Buyback",
       "headline": "Pershing Square Holdings, Ltd. Announces Additional Share Buyback Program of $100,000,000",
       "url": "https://www.investegate.co.uk/announcement/bzw/pershing-square-holdings-ltd--psh/pershing-square-holdings-ltd-announces-addi-/9792377",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "This $100m buyback signals strong conviction in the underlying NAV of Pershing Square's concentrated long/short portfolio, reinforcing the fund's commitment to returning capital during periods of market volatility. It serves as a defensive mechanism to support the share price against discount widening, a common dynamic for closed-end investment trusts.",
+      "key_themes": [
+        "NAV Support",
+        "Capital Return",
+        "Closed-End Trust"
+      ]
     },
     {
       "timestamp": "2026-07-31T17:43:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/bzw/pershing-square-holdings-ltd--psh/transaction-in-own-shares/9699458",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,

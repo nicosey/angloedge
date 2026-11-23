@@ -10,46 +10,60 @@
       "category": null,
       "headline": "2026/27 Financial Performance – Quarter 2",
       "url": "https://www.investegate.co.uk/announcement/rns/aberdeen-city-council--54mp/2026-27-financial-performance-quarter-2/9844299",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard local government statutory publication with no direct equity market relevance as Aberdeen City Council is not a listed entity; it serves only as a reference for regional economic health and public sector funding stability.",
+      "key_themes": []
     },
     {
       "timestamp": "2026-10-09T15:21:00",
       "category": null,
       "headline": "New Chief Executive announced",
       "url": "https://www.investegate.co.uk/announcement/rns/aberdeen-city-council--54mp/new-chief-executive-announced-/9816479",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a municipal administrative update with zero relevance to UK equity markets, as Aberdeen City Council is not a listed entity and its leadership changes do not influence public company performance or sector trends.",
+      "key_themes": [
+        "irrelevant",
+        "administrative"
+      ]
     },
     {
       "timestamp": "2026-08-20T17:09:00",
       "category": null,
       "headline": "ACC Interim Chief Executive",
       "url": "https://www.investegate.co.uk/announcement/rns/aberdeen-city-council--54mp/acc-interim-chief-executive/9732920",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a municipal administrative update regarding local government leadership rather than a listed equity event; Aberdeen City Council is not a publicly traded company on the London Stock Exchange, rendering this announcement irrelevant for UK equity market analysis.",
+      "key_themes": [
+        "Local Government",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-29T14:08:00",
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/aberdeen-city-council--54mp/annual-financial-report/9694175",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a local government entity rather than a listed equity, this announcement carries zero direct market impact for UK public markets; it reflects routine municipal financial reporting with no tradable securities involved.",
+      "key_themes": [
+        "Local Government",
+        "Public Sector Finance"
+      ]
     },
     {
       "timestamp": "2026-07-28T15:00:00",
       "category": "Results",
       "headline": "1st Quarter Results",
       "url": "https://www.investegate.co.uk/announcement/rns/aberdeen-city-council--54mp/1st-quarter-results-/9691806",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a local government entity rather than a listed corporation, this announcement pertains to public sector financial reporting with no direct equity market impact or tradable securities involved.",
@@ -63,10 +77,14 @@
       "category": null,
       "headline": "Notice of Chief Executive leaving",
       "url": "https://www.investegate.co.uk/announcement/rns/aberdeen-city-council--54mp/notice-of-chief-executive-leaving-/9673323",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a municipal administrative notice with zero relevance to UK equity markets, as Aberdeen City Council is a local government body and not a listed company.",
+      "key_themes": [
+        "non-listed",
+        "administrative"
+      ]
     }
   ]
 }

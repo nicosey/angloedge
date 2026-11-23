@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Half Year Results",
       "url": "https://www.investegate.co.uk/announcement/rns/mha-plc--mha/half-year-results/9882916",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a mid-cap professional services firm operating in a cyclical advisory market, MHA's half-year results provide essential visibility on fee pressure and margin trends without signaling transformative change or distress.",
@@ -23,16 +24,22 @@
       "category": null,
       "headline": "MHA to rebrand as Baker Tilly in the UK",
       "url": "https://www.investegate.co.uk/announcement/rns/mha-plc--mha/mha-to-rebrand-as-baker-tilly-in-the-uk/9875775",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This rebranding aligns MHA with the global Baker Tilly network, signaling a strategic shift toward international integration and enhanced brand equity in the competitive UK accountancy sector. While operationally routine, it reflects broader industry consolidation trends where firms leverage global networks to compete against Big Four dominance.",
+      "key_themes": [
+        "Rebranding",
+        "Professional Services",
+        "Strategic Alignment"
+      ]
     },
     {
       "timestamp": "2026-10-30T12:57:00",
       "category": null,
       "headline": "notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/mha-plc--mha/notification-of-major-holdings/9851112",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,6 +50,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/mha-plc--mha/holding-s-in-company/9849248",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,6 +61,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/mha-plc--mha/holding-s-in-company/9741528",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,16 +72,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/mha-plc--mha/result-of-agm/9734903",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of routine shareholder votes at MHA's AGM, which typically involves ratifying auditor appointments and director remuneration rather than strategic shifts or capital raises.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-07-29T15:44:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM and posting of Annual Report",
       "url": "https://www.investegate.co.uk/announcement/rns/mha-plc--mha/notice-of-agm-and-posting-of-annual-report/9694388",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,6 +97,7 @@
       "category": "Results",
       "headline": "Preliminary Results",
       "url": "https://www.investegate.co.uk/announcement/rns/mha-plc--mha/preliminary-results/9678485",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a mid-cap professional services firm, MHA's results provide critical visibility into the health of the UK SME advisory market and potential margin pressure from competitive consolidation. The outcome will signal whether the sector is successfully navigating post-Brexit regulatory complexities and economic headwinds.",
@@ -97,6 +112,7 @@
       "category": "Results",
       "headline": "Notice of Results and Presentations",
       "url": "https://www.investegate.co.uk/announcement/rns/mha-plc--mha/notice-of-results-and-presentations/9650699",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the timing of results release rather than disclosing financial data; it carries no immediate pricing impact but signals routine compliance for the professional services sector.",
@@ -110,6 +126,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/mha-plc--mha/holding-s-in-company/9642771",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -120,10 +137,14 @@
       "category": "Dividend",
       "headline": "Declaration of Third Interim Dividend",
       "url": "https://www.investegate.co.uk/announcement/rns/mha-plc--mha/declaration-of-third-interim-dividend/9612441",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The declaration of a third interim dividend signals management's confidence in cash flow generation within the fragmented professional services sector, though it offers limited growth catalyst compared to M&A or expansion strategies.",
+      "key_themes": [
+        "Shareholder Yield",
+        "Professional Services"
+      ]
     }
   ]
 }

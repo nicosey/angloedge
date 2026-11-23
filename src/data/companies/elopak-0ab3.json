@@ -2,84 +2,128 @@
   "name": "Elopak ASA",
   "ticker": "0AB3",
   "slug": "elopak-0ab3",
-  "announcement_count": 11,
-  "latest_announcement": "2026-11-10T15:47:00",
+  "announcement_count": 12,
+  "latest_announcement": "2026-11-23T07:47:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T07:47:00",
+      "category": null,
+      "headline": "Elopak ASA: Mandatory notification of trade -...",
+      "url": "https://www.investegate.co.uk/announcement/mfn/elopak-asa--0ab3/elopak-asa-mandatory-notification-of-trade-/9888340",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Mandatory trade notifications are standard regulatory disclosures for insider transactions and typically carry no intrinsic market-moving weight unless the volume or direction signals a significant shift in insider sentiment.",
+      "key_themes": [
+        "Insider Dealing",
+        "Regulatory Compliance"
+      ]
+    },
     {
       "timestamp": "2026-11-10T15:47:00",
       "category": null,
       "headline": "Elopak ASA: Mandatory notification of trade by primary insider",
       "url": "https://www.investegate.co.uk/announcement/mfn/elopak-asa--0ab3/elopak-asa-mandatory-notification-of-trade-b-/9868359",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure for insider trading, likely reflecting routine executive share transactions rather than strategic shifts; without details on direction or volume, it holds no immediate predictive value for Elopak's valuation.",
+      "key_themes": [
+        "regulatory_compliance",
+        "insider_dealing"
+      ]
     },
     {
       "timestamp": "2026-11-02T12:46:00",
       "category": null,
       "headline": "Elopak ASA: Mandatory notification of trade by primary insider - award of PSUs",
       "url": "https://www.investegate.co.uk/announcement/mfn/elopak-asa--0ab3/elopak-asa-mandatory-notification-of-trade-b-/9853761",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard mandatory disclosure of equity-based compensation rather than a market-moving event; PSUs are routine retention tools in the packaging sector and do not indicate immediate strategic shifts or liquidity changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Compensation"
+      ]
     },
     {
       "timestamp": "2026-10-27T06:00:00",
       "category": null,
       "headline": "Elopak s third quarter (Q3): Regaining momentum despite ongoing headwinds",
       "url": "https://www.investegate.co.uk/announcement/mfn/elopak-asa--0ab3/elopak-s-third-quarter-q3-regaining-moment-/9842240",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Elopak's Q3 update highlights a return to growth in its core carton packaging segment, signaling resilience against inflationary pressures and supply chain normalization in the Nordic industrial sector.",
+      "key_themes": [
+        "earnings recovery",
+        "operational efficiency"
+      ]
     },
     {
       "timestamp": "2026-10-21T20:07:00",
       "category": null,
       "headline": "Elopak ASA: Håkon Volldal to assume CEO role from November 2, 2026",
       "url": "https://www.investegate.co.uk/announcement/mfn/elopak-asa--0ab3/elopak-asa-h-kon-volldal-to-assume-ceo-role-/9835097",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "Executive leadership transition is a critical governance event for Elopak; the November 2026 timeline suggests a planned succession rather than an emergency departure, mitigating immediate market shock but requiring scrutiny of Håkon Volldal's strategic vision in the competitive packaging sector.",
+      "key_themes": [
+        "Leadership Change",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-10-15T06:00:00",
       "category": "Dividend",
       "headline": "Elopak ASA: Ex. dividend EUR 0.065 per share today",
       "url": "https://www.investegate.co.uk/announcement/mfn/elopak-asa--0ab3/elopak-asa-ex-dividend-eur-0-065-per-share-/9823496",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard ex-dividend date notification with no new strategic information or capital allocation changes, representing routine administrative activity rather than a market-moving event.",
+      "key_themes": [
+        "Dividend",
+        "Routine"
+      ]
     },
     {
       "timestamp": "2026-10-12T08:54:00",
       "category": "Results",
       "headline": "Elopak ASA: Invitation to third quarter 2026 results presentation",
       "url": "https://www.investegate.co.uk/announcement/mfn/elopak-asa--0ab3/elopak-asa-invitation-to-third-quarter-2026-/9817718",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This is a standard interim results invitation for Elopak, a packaging manufacturer with exposure to the global food and beverage sector; while routine, it provides critical visibility into margin pressures from raw material costs and demand trends in key markets like dairy and plant-based alternatives.",
+      "key_themes": [
+        "Interim Results",
+        "Packaging Sector",
+        "Operational Update"
+      ]
     },
     {
       "timestamp": "2026-09-17T16:02:00",
       "category": "Share Buyback",
       "headline": "Elopak ASA: Transactions update under - and completion of share buy-back program",
       "url": "https://www.investegate.co.uk/announcement/mfn/elopak-asa--0ab3/elopak-asa-transactions-update-under-and-c-/9778305",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Completion of the buyback signals management confidence in valuation but offers limited immediate catalyst for share price appreciation compared to growth-driven news; typical of mature industrial firms returning capital rather than pursuing aggressive expansion.",
+      "key_themes": [
+        "capital return",
+        "shareholder yield"
+      ]
     },
     {
       "timestamp": "2026-09-09T08:26:00",
       "category": "Share Buyback",
       "headline": "Elopak ASA: Launch of share buy-back programme",
       "url": "https://www.investegate.co.uk/announcement/mfn/elopak-asa--0ab3/elopak-asa-launch-of-share-buy-back-programm-/9762982",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "This capital return signals management's confidence in Elopak's cash generation capabilities within the competitive packaging sector, though it lacks the transformative weight of M&A or major restructuring.",
@@ -93,30 +137,43 @@
       "category": null,
       "headline": "Elopak ASA: Mandatory notification of trade by primary insiders",
       "url": "https://www.investegate.co.uk/announcement/mfn/elopak-asa--0ab3/elopak-asa-mandatory-notification-of-trade-b-/9729657",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure for insider trading under MAR, common in European packaging stocks like Elopak; without details on direction or volume, it signals no immediate strategic shift or material market-moving event.",
+      "key_themes": [
+        "Regulatory Compliance",
+        "Insider Dealing"
+      ]
     },
     {
       "timestamp": "2026-08-04T08:00:00",
       "category": "Results",
       "headline": "Elopak ASA: Invitation to second quarter 2026 results presentation",
       "url": "https://www.investegate.co.uk/announcement/mfn/elopak-asa--0ab3/elopak-asa-invitation-to-second-quarter-2026-/9703235",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a packaging manufacturer with significant exposure to the FMCG and food & beverage sectors, Elopak's Q2 results will serve as a critical barometer for global consumer demand trends and input cost inflation. The timing in mid-2026 suggests investors are looking for evidence of margin resilience amidst potential macroeconomic headwinds affecting discretionary spending.",
+      "key_themes": [
+        "FMCG Demand",
+        "Margin Analysis",
+        "Quarterly Earnings"
+      ]
     },
     {
       "timestamp": "2026-06-25T15:15:00",
       "category": null,
       "headline": "Elopak ASA: Mandatory notification of trade by primary insider - award of PSUs",
       "url": "https://www.investegate.co.uk/announcement/mfn/elopak-asa--0ab3/elopak-asa-mandatory-notification-of-trade-b-/9637544",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard mandatory disclosure for equity-settled performance share unit awards, indicating routine executive compensation rather than a strategic shift or insider conviction signal.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Remuneration"
+      ]
     }
   ]
 }

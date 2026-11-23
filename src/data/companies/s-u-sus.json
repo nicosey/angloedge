@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Notice of Results and Investor Presentations",
       "url": "https://www.investegate.co.uk/announcement/rns/s-u--sus/notice-of-results-and-investor-presentations/9776294",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the release of results and investor presentations, lacking any immediate transformative catalysts or material surprises in its headline.",
@@ -23,16 +24,21 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/s-u--sus/directorate-change/9701972",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative updates to the board composition are standard for UK listed entities and rarely drive immediate valuation changes without accompanying strategic commentary.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-07-09T15:04:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/s-u--sus/director-pdmr-dealing/9661651",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible signal for S&U's broader business trajectory or valuation compared to institutional flows.",
@@ -46,6 +52,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/s-u--sus/director-pdmr-dealing/9647987",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure for individual director transactions which typically carries negligible signal value for the broader market unless aggregated across multiple PDMRs or indicative of significant insider positioning.",
@@ -59,16 +66,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/s-u--sus/result-of-agm/9634812",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no intrinsic valuation impact for S&U beyond routine governance compliance.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-12T15:01:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/s-u--sus/director-pdmr-dealing/9616671",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible signal for institutional investors compared to aggregate insider buying/selling trends or strategic corporate actions.",

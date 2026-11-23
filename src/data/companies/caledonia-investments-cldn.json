@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Notice of half-year results",
       "url": "https://www.investegate.co.uk/announcement/rns/caledonia-investments--cldn/notice-of-half-year-results/9854649",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a prominent UK investment trust with a significant exposure to the US market, this half-year results release is critical for assessing the impact of currency fluctuations and US equity performance on its NAV and dividend sustainability.",
@@ -24,6 +25,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/caledonia-investments--cldn/director-pdmr-shareholding/9848327",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Director dealings are routine disclosures with negligible immediate impact on Caledonia's investment thesis or NAV; without specific volume or direction details indicating significant insider conviction shifts, this remains an administrative filing rather than a strategic signal.",
@@ -37,16 +39,21 @@
       "category": null,
       "headline": "Change of Registrar",
       "url": "https://www.investegate.co.uk/announcement/rns/caledonia-investments--cldn/change-of-registrar/9805341",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the transfer of share registry services, likely to Computershare or Equiniti, with no bearing on Caledonia's investment strategy or NAV performance.",
+      "key_themes": [
+        "administrative",
+        "corporate_governance"
+      ]
     },
     {
       "timestamp": "2026-10-02T09:41:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/caledonia-investments--cldn/holding-s-in-company/9804238",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -57,6 +64,7 @@
       "category": "Share Buyback",
       "headline": "Irrevocable Share Repurchase Instruction",
       "url": "https://www.investegate.co.uk/announcement/rns/caledonia-investments--cldn/irrevocable-share-repurchase-instruction-/9799783",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Irrevocable instructions are standard procedural requirements for UK buybacks to ensure regulatory compliance and finality, rather than a signal of new strategic intent or material capital allocation changes.",
@@ -70,6 +78,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/caledonia-investments--cldn/director-pdmr-shareholding/9796957",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Director dealings are standard disclosures with minimal immediate market impact unless involving significant block trades; without volume or price context, this remains a routine administrative update rather than a signal of strategic shift.",
@@ -83,6 +92,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/caledonia-investments--cldn/director-pdmr-shareholding/9744031",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Director dealings are standard disclosures for a closed-end investment trust like Caledonia; without volume or price context indicating insider conviction or divergence from NAV, this holds no immediate strategic weight.",
@@ -96,6 +106,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/caledonia-investments--cldn/director-pdmr-shareholding/9709545",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Director dealings are standard disclosures for a closed-end investment trust like Caledonia; without volume or price specifics indicating insider conviction or divergence from NAV, this carries negligible market-moving weight.",
@@ -109,16 +120,21 @@
       "category": null,
       "headline": "Caledonia to Invest in Conquip Engineering",
       "url": "https://www.investegate.co.uk/announcement/rns/caledonia-investments--cldn/caledonia-to-invest-in-conquip-engineering/9702428",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This represents a standard portfolio adjustment for an investment trust rather than a transformative event; Conquip Engineering is a niche industrial services firm with limited market visibility, suggesting the move is driven by specific value identification rather than sector-wide momentum.",
+      "key_themes": [
+        "Portfolio Adjustment",
+        "Industrial Services"
+      ]
     },
     {
       "timestamp": "2026-07-28T12:39:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/caledonia-investments--cldn/director-pdmr-shareholding/9691573",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures for closed-end investment trusts like Caledonia and typically carry no immediate signal regarding the fund's underlying strategy or NAV performance.",
@@ -132,6 +148,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/caledonia-investments--cldn/director-pdmr-shareholding/9691557",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of insider shareholding changes which provides minimal new fundamental data for valuation; typical for closed-end funds where NAV transparency is already high and director deals rarely signal strategic shifts.",
@@ -145,36 +162,49 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/caledonia-investments--cldn/result-of-agm/9671109",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which typically rubber-stamp routine governance items without altering the investment thesis or capital structure.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-07-15T17:31:00",
       "category": null,
       "headline": "Nomination Committee Membership",
       "url": "https://www.investegate.co.uk/announcement/rns/caledonia-investments--cldn/nomination-committee-membership-/9671108",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine governance update regarding the Nomination Committee with no immediate strategic or financial implications for Caledonia's investment portfolio or valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-07-03T07:00:00",
       "category": null,
       "headline": "Completion of investment in Blue Diamond",
       "url": "https://www.investegate.co.uk/announcement/rns/caledonia-investments--cldn/completion-of-investment-in-blue-diamond/9650658",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms the deployment of capital into a private equity vehicle, reflecting standard investment management activity rather than a transformative corporate event for the listed entity.",
+      "key_themes": [
+        "Private Equity",
+        "Capital Deployment"
+      ]
     },
     {
       "timestamp": "2026-07-03T07:00:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/caledonia-investments--cldn/transaction-in-own-shares/9650637",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -185,6 +215,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/caledonia-investments--cldn/director-pdmr-shareholding/9645185",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry minimal market impact unless accompanied by significant volume or unusual timing relative to price action; without specific transaction details in the headline, this is classified as standard administrative reporting.",
@@ -198,16 +229,21 @@
       "category": "AGM/EGM",
       "headline": "Annual report 2026 and notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/caledonia-investments--cldn/annual-report-2026-and-notice-of-agm/9614372",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for an investment trust, serving primarily to convene the AGM rather than signal new strategic direction or material financial shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-06-05T13:39:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/caledonia-investments--cldn/director-pdmr-shareholding/9604864",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Director dealings are routine disclosures with negligible immediate impact on CLDN's valuation or strategy, though they may offer marginal sentiment signals regarding insider confidence in the current NAV discount.",
@@ -218,6 +254,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/caledonia-investments--cldn/director-pdmr-shareholding/9600531",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on CLDN's valuation or strategy, reflecting standard insider compliance rather than significant insider sentiment shifts.",
@@ -231,16 +268,22 @@
       "category": null,
       "headline": "Completion of Stonehage Fleming sale",
       "url": "https://www.investegate.co.uk/announcement/rns/caledonia-investments--cldn/completion-of-stonehage-fleming-sale/9594943",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The sale of Stonehage Fleming marks a decisive pivot from active wealth management to pure asset management, significantly reducing fee-related revenue volatility while streamlining the investment trust's strategic focus.",
+      "key_themes": [
+        "Strategic Restructuring",
+        "Fee Income Reduction",
+        "Asset Management Focus"
+      ]
     },
     {
       "timestamp": "2026-05-28T09:42:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/caledonia-investments--cldn/director-pdmr-shareholding/9589749",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry minimal market impact unless they signal a coordinated shift in insider sentiment; without volume or price context, this remains an administrative filing with no immediate strategic implication for CLDN's investment thesis.",
@@ -254,6 +297,7 @@
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/caledonia-investments--cldn/director-declaration/9586098",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,

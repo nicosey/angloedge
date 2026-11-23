@@ -10,16 +10,22 @@
       "category": null,
       "headline": "Q1 FY27 Quarterly Update and Appendix 4C",
       "url": "https://www.investegate.co.uk/announcement/rns/wellnex-life-limited--wnx/q1-fy27-quarterly-update-and-appendix-4c/9849222",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a pre-revenue biotech, this update is critical for assessing cash runway and clinical milestone progress rather than financial performance; the market will scrutinize the Appendix 4C for dilution risks or burn rate changes amidst the current high-cost capital environment for UK life sciences.",
+      "key_themes": [
+        "Biotech",
+        "Cash Runway",
+        "Clinical Progress"
+      ]
     },
     {
       "timestamp": "2026-10-29T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/wellnex-life-limited--wnx/notice-of-annual-general-meeting/9846931",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +36,7 @@
       "category": "Director Dealing",
       "headline": "Director’s dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/wellnex-life-limited--wnx/director-s-dealing-/9806146",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures in the biotech sector typically carry low immediate market impact unless accompanied by significant volume or insider trading patterns; without context on deal size or direction, this remains an administrative filing with negligible strategic implication for Wellnex Life.",
@@ -43,16 +50,21 @@
       "category": null,
       "headline": "Completion and Settlement of Sale of Pain Away",
       "url": "https://www.investegate.co.uk/announcement/rns/wellnex-life-limited--wnx/completion-and-settlement-of-sale-of-pain-away-/9767565",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This transaction represents a divestment of a non-core asset to streamline the portfolio, likely generating cash for debt reduction or core R&D rather than signaling a major strategic pivot.",
+      "key_themes": [
+        "portfolio rationalization",
+        "cash generation"
+      ]
     },
     {
       "timestamp": "2026-09-08T07:15:00",
       "category": "Results",
       "headline": "Results of Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/wellnex-life-limited--wnx/results-of-meeting-/9760481",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a pre-revenue biotech, the 'Results of Meeting' headline typically denotes shareholder approval for capital raising or governance changes rather than operational performance; without details on funding size or dilution, this remains an administrative update with limited immediate market impact.",
@@ -66,40 +78,58 @@
       "category": "AGM/EGM",
       "headline": "Posting of EGM Notice and Explanatory Memorandum",
       "url": "https://www.investegate.co.uk/announcement/rns/wellnex-life-limited--wnx/posting-of-egm-notice-and-explanatory-memorandum/9711653",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative filing for an EGM; without the explanatory memorandum detailing the specific resolution (e.g., share issue, director appointment), no material financial impact can be assessed, though it signals ongoing corporate governance activity.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-06T07:55:00",
       "category": null,
       "headline": "Sale of Pain Away for up to A$21.3 million",
       "url": "https://www.investegate.co.uk/announcement/rns/wellnex-life-limited--wnx/sale-of-pain-away-for-up-to-a-21-3-million-/9708132",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The sale of the Pain Away division for up to A$21.3m represents a strategic pivot away from consumer health products toward core pharmaceutical services, aligning with sector trends of divesting non-core assets to sharpen focus and improve margins.",
+      "key_themes": [
+        "Asset Divestment",
+        "Strategic Refocus",
+        "Pharmaceutical Services"
+      ]
     },
     {
       "timestamp": "2026-07-31T07:39:00",
       "category": null,
       "headline": "Q4 FY26 Quarterly Update and Appendix 4C",
       "url": "https://www.investegate.co.uk/announcement/rns/wellnex-life-limited--wnx/q4-fy26-quarterly-update-and-appendix-4c/9697897",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a pre-revenue biotech, this Q4 update is critical for assessing cash runway and clinical milestone progress ahead of potential dilutive fundraising; the market will scrutinize any delays in Wellnex's lead asset development against sector-wide funding tightening.",
+      "key_themes": [
+        "clinical trial progress",
+        "cash burn rate",
+        "funding risk"
+      ]
     },
     {
       "timestamp": "2026-06-12T09:45:00",
       "category": "Appointment",
       "headline": "Appointment of Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/rns/wellnex-life-limited--wnx/appointment-of-non-executive-director/9615885",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine governance update for a micro-cap biotech; adds board depth but lacks the transformative capital or strategic pivot required to move valuation metrics in the current high-rate environment.",
+      "key_themes": [
+        "Governance",
+        "Micro-cap"
+      ]
     }
   ]
 }

@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/volution-group--fan/holding-s-in-company/9887090",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/volution-group--fan/holding-s-in-company/9861050",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/volution-group--fan/total-voting-rights/9853469",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,26 +43,35 @@
       "category": "AGM/EGM",
       "headline": "Annual Report 2026 & Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/volution-group--fan/annual-report-2026-notice-of-agm/9834819",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative filing for Volution Group's Annual General Meeting, serving primarily to formalize shareholder approval for director remuneration and auditor appointment rather than signaling new strategic shifts or financial performance.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-10-15T16:00:00",
       "category": null,
       "headline": "LTIP and DSBP Awards dsh",
       "url": "https://www.investegate.co.uk/announcement/rns/volution-group--fan/ltip-and-dsbp-awards-dsh/9825700",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding the grant of Long-Term Incentive Plan (LTIP) and Deferred Share Bonus Plan (DSBP) awards, which serves to align management incentives with shareholder interests rather than signaling immediate strategic shifts or financial performance changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Compensation"
+      ]
     },
     {
       "timestamp": "2026-10-15T16:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/volution-group--fan/director-pdmr-shareholding/9825699",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Volution's valuation or operational trajectory, reflecting normal liquidity management rather than strategic signaling.",
@@ -73,16 +85,21 @@
       "category": "Appointment",
       "headline": "Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/volution-group--fan/board-changes/9821339",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board changes at Volution typically reflect standard governance maintenance rather than strategic shifts; without details on executive departures or new strategic hires, the market impact is negligible compared to core operational performance.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-10-12T14:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/volution-group--fan/director-pdmr-shareholding/9818630",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR disclosures in the infrastructure services sector typically reflect standard compliance or minor personal liquidity events rather than strategic shifts, offering no material signal for Volution's operational outlook.",
@@ -96,6 +113,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/volution-group--fan/total-voting-rights/9702269",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -106,6 +124,7 @@
       "category": "Trading Update",
       "headline": "Notice of Pre-Close Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/volution-group--fan/notice-of-pre-close-trading-update/9677075",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a high-growth infrastructure services provider in the UK's regulated water sector, Volution's pre-close update is critical for validating its transition from growth to profitability; any deviation in EBITDA margins or cash flow guidance will significantly influence multiple compression risks amidst rising interest rates.",
@@ -120,6 +139,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/volution-group--fan/holding-s-in-company/9600256",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

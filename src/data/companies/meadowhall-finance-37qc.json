@@ -10,30 +10,43 @@
       "category": null,
       "headline": "Bond Calculations",
       "url": "https://www.investegate.co.uk/announcement/rns/meadowhall-finance-plc--37qc/bond-calculations/9814276",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding bond mechanics, likely related to interest accrual or maturity calculations, carrying no material strategic implication for equity valuation.",
+      "key_themes": [
+        "administrative",
+        "bond_mechanics"
+      ]
     },
     {
       "timestamp": "2026-07-30T13:19:00",
       "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/meadowhall-finance-plc--37qc/annual-financial-report/9696494",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "As a dormant SPAC vehicle with no active trading operations, this annual report is purely administrative, reflecting the standard regulatory requirement for shell companies awaiting a target acquisition rather than conveying any operational financial performance.",
+      "key_themes": [
+        "SPAC",
+        "Shell Company",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-09T15:30:00",
       "category": null,
       "headline": "Bond Calculations",
       "url": "https://www.investegate.co.uk/announcement/rns/meadowhall-finance-plc--37qc/bond-calculations/9661750",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding bond mechanics rather than a material corporate event, indicating no immediate change in the company's financial position or strategic direction.",
+      "key_themes": [
+        "administrative",
+        "bond_mechanics"
+      ]
     }
   ]
 }

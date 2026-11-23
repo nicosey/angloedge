@@ -10,16 +10,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/fandango-holdings--fhp/result-of-agm/9879593",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for a micro-cap entity typically confirm standard shareholder approvals with negligible immediate market impact, reflecting the low liquidity and limited analyst coverage inherent to this segment of the UK equity market.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap"
+      ]
     },
     {
       "timestamp": "2026-10-21T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/fandango-holdings--fhp/notice-of-agm/9832873",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,10 +35,15 @@
       "category": "Acquisition",
       "headline": "Acquisition Update, AIM Admission & Delisting",
       "url": "https://www.investegate.co.uk/announcement/rns/fandango-holdings--fhp/acquisition-update-aim-admission-delisting-/9713085",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "The simultaneous AIM admission and delisting from the main market represents a significant structural shift for FHP, likely driven by cost reduction pressures or a strategic pivot to a smaller-cap growth profile, mirroring recent trends where AIM's lower compliance burden attracts companies seeking agility over prestige.",
+      "key_themes": [
+        "AIM Admission",
+        "Delisting",
+        "Corporate Restructuring"
+      ]
     }
   ]
 }

@@ -2,24 +2,44 @@
   "name": "Coiled Therapeutics plc",
   "ticker": "COIL",
   "slug": "coiled-therapeutics-coil",
-  "announcement_count": 14,
-  "latest_announcement": "2026-09-30T07:00:00",
+  "announcement_count": 15,
+  "latest_announcement": "2026-11-23T07:30:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T07:30:00",
+      "category": "Appointment",
+      "headline": "CFO, Audit Comm Chair and Senior Mgt Appointments",
+      "url": "https://www.investegate.co.uk/announcement/rns/coiled-therapeutics-plc--coil/cfo-audit-comm-chair-and-senior-mgt-appointments/9888320",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This appointment signals a critical step in Coiled Therapeutics' governance maturity ahead of potential clinical milestones or fundraising, addressing the 'small-cap premium' often applied to biotechs lacking robust audit oversight. While routine for listed entities, it mitigates investor risk regarding financial reporting credibility in a sector where capital efficiency and transparency are paramount.",
+      "key_themes": [
+        "Governance",
+        "Biotech",
+        "Investor Confidence"
+      ]
+    },
     {
       "timestamp": "2026-09-30T07:00:00",
       "category": null,
       "headline": "Participation in The Small Cap Showcase",
       "url": "https://www.investegate.co.uk/announcement/rns/coiled-therapeutics-plc--coil/participation-in-the-small-cap-showcase/9797759",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Participation in a showcase event is a standard marketing exercise for micro-cap biotechs with no immediate catalysts; it offers negligible fundamental value compared to clinical data releases or partnership announcements.",
+      "key_themes": [
+        "investor_relations",
+        "marketing"
+      ]
     },
     {
       "timestamp": "2026-09-28T10:33:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/coiled-therapeutics-plc--coil/director-pdmr-shareholding/9794057",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures in the biotech sector typically carry minimal immediate market impact unless they signal a mass exodus or significant insider accumulation; without volume context, this is treated as standard administrative compliance.",
@@ -33,16 +53,21 @@
       "category": null,
       "headline": "Successful Enrolment Completed Across Two Cohorts",
       "url": "https://www.investegate.co.uk/announcement/rns/coiled-therapeutics-plc--coil/successful-enrolment-completed-across-two-cohorts-/9780828",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Completion of cohort enrolment is a standard operational milestone in clinical development that confirms protocol adherence but does not yet provide efficacy data or de-risk the asset's commercial potential.",
+      "key_themes": [
+        "Clinical Development",
+        "Operational Update"
+      ]
     },
     {
       "timestamp": "2026-08-10T11:57:00",
       "category": null,
       "headline": "Change of Registered Office",
       "url": "https://www.investegate.co.uk/announcement/rns/coiled-therapeutics-plc--coil/change-of-registered-office/9713525",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,66 +78,92 @@
       "category": null,
       "headline": "First Patient Dosed with new Formulation of AO-252",
       "url": "https://www.investegate.co.uk/announcement/rns/coiled-therapeutics-plc--coil/first-patient-dosed-with-new-formulation-of-ao-252/9699764",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "First-in-human dosing marks a critical technical milestone for AO-252 but carries high binary risk given the historical attrition rates in oncology and the company's reliance on this asset for valuation. This is a standard clinical progression event rather than a commercial or financial inflection point.",
+      "key_themes": [
+        "Clinical Trial",
+        "Oncology",
+        "Binary Risk"
+      ]
     },
     {
       "timestamp": "2026-07-07T07:00:00",
       "category": null,
       "headline": "Coiled Advances Next-Generation AO-252 Formulation",
       "url": "https://www.investegate.co.uk/announcement/rns/coiled-therapeutics-plc--coil/coiled-advances-next-generation-ao-252-formulation/9654916",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This represents a standard preclinical development milestone for a speculative biotech, lacking immediate commercial catalysts or financial impact; AO-252's advancement is routine R&D progress rather than a transformative event.",
+      "key_themes": [
+        "Biotech R&D",
+        "Formulation Development"
+      ]
     },
     {
       "timestamp": "2026-06-24T12:30:00",
       "category": null,
       "headline": "Company Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/coiled-therapeutics-plc--coil/company-presentation/9634787",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Company presentations are standard investor relations tools that rarely contain material non-public information; without accompanying trading updates or financing announcements, this serves primarily as a visibility exercise rather than a catalyst for immediate price action.",
+      "key_themes": [
+        "Investor Relations",
+        "Biotech"
+      ]
     },
     {
       "timestamp": "2026-06-24T11:18:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/coiled-therapeutics-plc--coil/result-of-agm/9634628",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine post-meeting disclosure of AGM outcomes for a pre-revenue biotech; lacks material corporate action or strategic shift that would alter the investment thesis.",
+      "key_themes": [
+        "Corporate Governance",
+        "Biotech"
+      ]
     },
     {
       "timestamp": "2026-06-19T07:00:00",
       "category": null,
       "headline": "Life Sciences Investor Forum",
       "url": "https://www.investegate.co.uk/announcement/rns/coiled-therapeutics-plc--coil/life-sciences-investor-forum/9626578",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Attendance at a life sciences investor forum is a standard marketing activity for pre-revenue biotech firms seeking to build pipeline visibility rather than signal immediate financial catalysts. Without accompanying clinical data or partnership announcements, this event carries negligible short-term price impact compared to regulatory milestones.",
+      "key_themes": [
+        "Investor Relations",
+        "Biotech Sector"
+      ]
     },
     {
       "timestamp": "2026-06-18T07:00:00",
       "category": null,
       "headline": "Proactive One2One Investor Forum",
       "url": "https://www.investegate.co.uk/announcement/rns/coiled-therapeutics-plc--coil/proactive-one2one-investor-forum/9624296",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard investor relations activity with no immediate financial or operational impact; for pre-revenue biotech like Coiled Therapeutics, value drivers remain strictly tied to clinical trial milestones and regulatory approvals rather than forum engagement.",
+      "key_themes": [
+        "Investor Relations",
+        "Pre-revenue Biotech"
+      ]
     },
     {
       "timestamp": "2026-06-17T09:37:00",
       "category": null,
       "headline": "Grant of Share Options",
       "url": "https://www.investegate.co.uk/announcement/rns/coiled-therapeutics-plc--coil/grant-of-share-options/9623015",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -123,26 +174,36 @@
       "category": null,
       "headline": "Establishment of Medical Advisory Board",
       "url": "https://www.investegate.co.uk/announcement/rns/coiled-therapeutics-plc--coil/establishment-of-medical-advisory-board/9621955",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Establishing a Medical Advisory Board is a standard governance step for pre-revenue biotechs to bolster scientific credibility and de-risk clinical development, but it carries no immediate financial or valuation impact.",
+      "key_themes": [
+        "Corporate Governance",
+        "Clinical Strategy"
+      ]
     },
     {
       "timestamp": "2026-06-08T07:00:00",
       "category": "Appointment",
       "headline": "Appointment of Ozgur Sahin as Scientific Advisor",
       "url": "https://www.investegate.co.uk/announcement/rns/coiled-therapeutics-plc--coil/appointment-of-ozgur-sahin-as-scientific-advisor/9605511",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This appointment signals a strategic pivot toward leveraging Ozgur Sahin’s mRNA expertise to enhance Coiled Therapeutics' pipeline credibility and potential partnership appeal, though it remains an administrative update with no immediate financial impact.",
+      "key_themes": [
+        "Biotech",
+        "Strategic Hiring",
+        "mRNA"
+      ]
     },
     {
       "timestamp": "2026-05-27T07:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/coiled-therapeutics-plc--coil/notice-of-annual-general-meeting/9586492",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,

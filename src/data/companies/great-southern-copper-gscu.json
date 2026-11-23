@@ -10,36 +10,49 @@
       "category": null,
       "headline": "Greenwood Research Note",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/greenwood-research-note/9867543",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Greenwood Research is a short-selling firm known for aggressive bearish narratives; while such notes can cause short-term volatility in small-cap equities like GSCU, they rarely constitute fundamental transformative events unless accompanied by regulatory confirmation or material restatements.",
+      "key_themes": [
+        "short-seller report",
+        "reputational risk"
+      ]
     },
     {
       "timestamp": "2026-11-09T07:24:00",
       "category": null,
       "headline": "Diamond Drilling Commences at Artemisa Prospect",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/diamond-drilling-commences-at-artemisa-prospect/9864640",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Drilling commencement is a standard exploration milestone that confirms project progression but lacks immediate commercial valuation impact; in the current junior mining sector, such announcements are routine and typically fail to drive significant price action without assay results.",
+      "key_themes": [
+        "exploration",
+        "capital_markets"
+      ]
     },
     {
       "timestamp": "2026-10-26T07:00:00",
       "category": null,
       "headline": "Phase IV Drilling to Commence at Cerro Negro",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/phase-iv-drilling-to-commence-at-cerro-negro-/9840008",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Phase IV drilling marks a standard progression in the exploration lifecycle for junior miners, signaling technical diligence rather than immediate commercial value; without assay results or resource estimates, this remains an administrative milestone with negligible short-term price impact.",
+      "key_themes": [
+        "Exploration Update",
+        "Junior Mining"
+      ]
     },
     {
       "timestamp": "2026-10-23T08:32:00",
       "category": null,
       "headline": "Admission of Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/admission-of-shares-/9838637",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +63,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholdings",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/director-pdmr-shareholdings-/9834670",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements typically carry minimal market impact unless accompanied by unusual volume or timing relative to price movements; without specific transaction details, this is classified as administrative noise rather than a strategic signal.",
@@ -63,6 +77,7 @@
       "category": "Director Dealing",
       "headline": "Issue of Shares and Director/PDMR Shareholdings",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/issue-of-shares-and-director-pdmr-shareholdings/9829798",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine disclosure of share issuance and PDMR holdings lacks transformative strategic weight; without context on the deal size or specific director actions, it remains an administrative filing with negligible immediate market impact.",
@@ -76,6 +91,7 @@
       "category": "Director Dealing",
       "headline": "Admission of Shares & Director/PDMR Shareholdings",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/admission-of-shares-director-pdmr-shareholdings-/9824704",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure of shareholding changes following an admission event, lacking the transformative catalysts required for significant price movement. In the current UK market, such routine PDMR filings are typically ignored by institutional investors unless accompanied by unusual volume or timing relative to earnings.",
@@ -89,46 +105,64 @@
       "category": null,
       "headline": "Corporate Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/corporate-presentation/9813714",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Corporate presentations are standard investor relations tools lacking the binding commitments or financial data required to move share prices; without accompanying guidance or transaction details, this is purely informational noise.",
+      "key_themes": [
+        "investor_relations",
+        "no_material_change"
+      ]
     },
     {
       "timestamp": "2026-10-08T07:00:00",
       "category": null,
       "headline": "£2m Raised to Advance Mostaza Towards Resource",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/-2m-raised-to-advance-mostaza-towards-resource/9812203",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "A £2m equity raise for an exploration-stage junior is a standard dilutive funding event rather than a transformative catalyst; while necessary to advance the Mostaza project, it highlights the capital intensity of early-stage mining without de-risking commercial viability.",
+      "key_themes": [
+        "Capital Raise",
+        "Exploration Stage",
+        "Dilution"
+      ]
     },
     {
       "timestamp": "2026-09-21T07:24:00",
       "category": null,
       "headline": "Tests Confirm Excellent Metallurgy Recovery",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/tests-confirm-excellent-metallurgy-recovery-/9781586",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Validating high metallurgy recovery rates directly enhances the project's Net Present Value (NPV) and reduces operational risk, a critical de-risking step for copper miners in the current capital-intensive environment.",
+      "key_themes": [
+        "Metallurgy",
+        "Project Development"
+      ]
     },
     {
       "timestamp": "2026-09-09T07:15:00",
       "category": null,
       "headline": "IP - Resistivity Survey Commences at Cerro Negro",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/ip-resistivity-survey-commences-at-cerro-negro-/9762680",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Resistivity surveys are a standard, low-cost preliminary step in mineral exploration that confirms geological targets but provides no immediate resource definition or economic data. While essential for long-term pipeline development, this announcement lacks the materiality to influence near-term valuation compared to drill results or reserve updates.",
+      "key_themes": [
+        "Exploration",
+        "Mineral Discovery"
+      ]
     },
     {
       "timestamp": "2026-09-07T08:00:00",
       "category": "AGM/EGM",
       "headline": "Notice of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/notice-of-annual-general-meeting-/9758403",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -139,16 +173,21 @@
       "category": null,
       "headline": "Greenwood Research Note",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/greenwood-research-note/9752096",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Greenwood Research is a known short-seller; their notes typically target valuation discrepancies rather than operational fundamentals, often causing short-term volatility without altering the company's long-term strategic trajectory.",
+      "key_themes": [
+        "short-selling",
+        "market sentiment"
+      ]
     },
     {
       "timestamp": "2026-08-11T14:05:00",
       "category": "Director Dealing",
       "headline": "Replacement – Director/PDMR Shareholdings",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/replacement-director-pdmr-shareholdings-/9716243",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory disclosure for PDMR shareholding changes, likely reflecting routine tax obligations or minor portfolio rebalancing rather than a strategic signal. In the current UK equity market, such filings are ubiquitous and rarely drive material price action unless accompanied by unusual volume or context.",
@@ -162,6 +201,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholdings",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/director-pdmr-shareholdings-/9716139",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry minimal market impact unless accompanied by significant volume or unusual timing relative to price action; without specific transaction details in the headline, this is classified as administrative noise rather than a strategic signal.",
@@ -175,6 +215,7 @@
       "category": "Results",
       "headline": "Full Year Results and Publication of Annual Report",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/full-year-results-and-publication-of-annual-report/9693951",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard annual results filing with no immediate market-moving catalysts; without specific financial data indicating significant variance from consensus or strategic shifts, it falls into routine disclosure.",
@@ -188,6 +229,7 @@
       "category": "Results",
       "headline": "Cu-Ag Channel Results Confirm Scale of Monolith",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/cu-ag-channel-results-confirm-scale-of-monolith-/9680690",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 8,
       "insight": "Confirmation of a 'Monolith' scale Cu-Ag channel validates the asset's potential to become a Tier-1 global producer, significantly altering the company's valuation profile and strategic trajectory in the copper sector.",
@@ -201,26 +243,36 @@
       "category": null,
       "headline": "Viuda Sampling Indicates Increased Mineralisation",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/viuda-sampling-indicates-increased-mineralisation/9669218",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Exploration updates are standard for junior miners and rarely drive immediate valuation without resource definition or PEA results; this highlights ongoing capital intensity rather than near-term monetization potential.",
+      "key_themes": [
+        "exploration",
+        "junior miner",
+        "capital intensity"
+      ]
     },
     {
       "timestamp": "2026-07-08T07:02:00",
       "category": null,
       "headline": "Scout RC Drilling Campaign Completed",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/scout-rc-drilling-campaign-completed-/9657437",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Completion of a scout drilling campaign is a standard operational milestone that confirms data collection but lacks immediate commercial valuation; in the junior mining sector, such updates are routine unless accompanied by high-grade assay results or resource expansion.",
+      "key_themes": [
+        "exploration",
+        "operational_update"
+      ]
     },
     {
       "timestamp": "2026-07-02T07:00:00",
       "category": null,
       "headline": "Admission of Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/admission-of-shares-/9648429",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -231,6 +283,7 @@
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/exercise-of-warrants-/9641734",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -241,6 +294,7 @@
       "category": null,
       "headline": "Issue of Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/issue-of-shares-/9636494",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -251,6 +305,7 @@
       "category": null,
       "headline": "Grant of Share Options",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/grant-of-share-options/9604078",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -261,6 +316,7 @@
       "category": null,
       "headline": "Admission of Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/admission-of-shares/9598405",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -271,6 +327,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholdings",
       "url": "https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/director-pdmr-shareholdings-/9597755",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on share price or corporate strategy, reflecting standard liquidity management rather than significant insider sentiment shifts.",

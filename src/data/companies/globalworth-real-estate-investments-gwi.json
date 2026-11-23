@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/globalworth-real-estate-investments-limited--gwi/director-pdmr-shareholding/9821347",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures in the UK REIT sector are typically low-impact administrative updates unless they signal a coordinated shift by PDMRs; without volume or price context, this lacks transformative strategic weight.",
@@ -23,40 +24,59 @@
       "category": "New Listing",
       "headline": "Issue of Scrip Dividend Shares & Admission to AIM",
       "url": "https://www.investegate.co.uk/announcement/rns/globalworth-real-estate-investments-limited--gwi/issue-of-scrip-dividend-shares-admission-to-aim-/9785622",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This admission to AIM marks a pivotal liquidity event for Globalworth, transitioning the REIT from private equity backing to public markets to facilitate future capital raising and M&A activity in the competitive European real estate sector.",
+      "key_themes": [
+        "AIM Admission",
+        "Scrip Dividend",
+        "Real Estate Investment Trust"
+      ]
     },
     {
       "timestamp": "2026-09-22T11:45:00",
       "category": "Results",
       "headline": "Half-year Report",
       "url": "https://www.investegate.co.uk/announcement/rns/globalworth-real-estate-investments-limited--gwi/half-year-report/9784870",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a UK-listed property investment trust with significant exposure to the commercial real estate sector, this interim report provides critical visibility into asset valuations and liquidity amidst high interest rates; however, without specific financial data in the headline, it remains a routine disclosure rather than a market-moving event.",
+      "key_themes": [
+        "Interim Results",
+        "Commercial Real Estate",
+        "Property Sector"
+      ]
     },
     {
       "timestamp": "2026-09-10T07:00:00",
       "category": "Dividend",
       "headline": "Scrip Dividend Share Reference Price",
       "url": "https://www.investegate.co.uk/announcement/rns/globalworth-real-estate-investments-limited--gwi/scrip-dividend-share-reference-price/9764357",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the reference price for the scrip dividend option, lacking any substantive news on valuation, asset performance, or strategic shifts.",
+      "key_themes": [
+        "Corporate Action",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-03T15:11:00",
       "category": null,
       "headline": "Fitch investment grade credit rating maintained",
       "url": "https://www.investegate.co.uk/announcement/rns/globalworth-real-estate-investments-limited--gwi/fitch-investment-grade-credit-rating-maintained/9600376",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Maintaining an investment-grade rating is a critical validation of GWI's balance sheet resilience in the high-interest-rate UK commercial property sector, mitigating refinancing risks and preserving access to cheaper capital for future acquisitions.",
+      "key_themes": [
+        "credit_rating",
+        "balance_sheet_strength",
+        "commercial_real_estate"
+      ]
     }
   ]
 }

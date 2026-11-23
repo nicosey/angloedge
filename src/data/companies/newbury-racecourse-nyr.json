@@ -10,16 +10,22 @@
       "category": "Results",
       "headline": "Half-year Report",
       "url": "https://www.investegate.co.uk/announcement/rns/newbury-racecourse-plc--nyr/half-year-report/9764350",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a niche leisure asset with high fixed costs and seasonal revenue concentration, NYR's interim results are critical for assessing consumer discretionary spending resilience post-inflation; any deviation in footfall or F&B margins signals broader pressure on the UK hospitality sector.",
+      "key_themes": [
+        "Leisure Sector",
+        "Consumer Spending",
+        "Interim Results"
+      ]
     },
     {
       "timestamp": "2026-07-09T14:22:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/newbury-racecourse-plc--nyr/director-pdmr-shareholding/9661571",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Newbury Racecourse's valuation or operational outlook.",
@@ -33,10 +39,14 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/newbury-racecourse-plc--nyr/result-of-agm-/9605021",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for a leisure asset with no disclosed strategic shifts or capital allocation changes; NYR remains heavily influenced by macro consumer spending trends rather than corporate governance events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Leisure Sector"
+      ]
     }
   ]
 }

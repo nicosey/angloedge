@@ -10,50 +10,71 @@
       "category": null,
       "headline": "Extension of Subscription Payment",
       "url": "https://www.investegate.co.uk/announcement/rns/coastal-africa-group--cagl/extension-of-subscription-payment/9865776",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative extension for a private placement, indicating no immediate liquidity crisis but reflecting the typical patience required in small-cap capital raises; it lacks the transformative weight of major M&A or significant profit warnings.",
+      "key_themes": [
+        "capital_raise",
+        "administrative"
+      ]
     },
     {
       "timestamp": "2026-09-30T14:38:00",
       "category": "Appointment",
       "headline": "Appointment of Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/rns/coastal-africa-group--cagl/appointment-of-non-executive-director-/9799570",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "While adding governance depth is standard for AIM-listed exploration firms, the market typically views non-executive appointments as low-impact administrative updates unless the appointee brings specific technical expertise or capital to a critical funding stage.",
+      "key_themes": [
+        "corporate_governance",
+        "mining_exploration"
+      ]
     },
     {
       "timestamp": "2026-09-30T11:47:00",
       "category": "Appointment",
       "headline": "Appointment of Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/rns/coastal-africa-group--cagl/appointment-of-non-executive-director/9799119",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine governance update for a micro-cap resource explorer; without details on the appointee's track record in mining finance or exploration, this holds negligible immediate valuation impact.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap"
+      ]
     },
     {
       "timestamp": "2026-09-02T07:00:00",
       "category": null,
       "headline": "Loan Notes and Extension of Subscription Payment",
       "url": "https://www.investegate.co.uk/announcement/rns/coastal-africa-group--cagl/loan-notes-and-extension-of-subscription-payment/9750545",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The extension of subscription payment terms for loan notes indicates potential liquidity constraints or negotiation leverage by investors rather than organic growth; in the current UK small-cap debt market, such extensions often signal difficulty in raising fresh equity without dilution.",
+      "key_themes": [
+        "liquidity",
+        "debt_maturity",
+        "capital_structure"
+      ]
     },
     {
       "timestamp": "2026-06-10T07:00:00",
       "category": "New Listing",
       "headline": "Admission to AIM and First Day of Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/coastal-africa-group--cagl/admission-to-aim-and-first-day-of-dealings/9610073",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Admission to AIM is a standard administrative milestone for private companies seeking liquidity rather than a transformative corporate event; the market impact will be driven by subsequent trading volume and investor appetite for its specific asset class rather than the listing itself.",
+      "key_themes": [
+        "AIM Listing",
+        "Liquidity Event"
+      ]
     }
   ]
 }

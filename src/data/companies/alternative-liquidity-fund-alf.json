@@ -10,6 +10,7 @@
       "category": "Results",
       "headline": "Extraordinary General Meeting Voting Results",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-liquidity-fund-limited--alf/extraordinary-general-meeting-voting-results/9811882",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard procedural disclosure confirming shareholder approval for the fund's continued operation or minor administrative adjustments, lacking any material catalyst for valuation re-rating.",
@@ -23,6 +24,7 @@
       "category": null,
       "headline": "Notice of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-liquidity-fund-limited--alf/notice-of-gm/9782997",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -33,30 +35,42 @@
       "category": null,
       "headline": "Receipt of Funds and Final Return of Capital",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-liquidity-fund-limited--alf/receipt-of-funds-and-final-return-of-capital/9776036",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement signals the terminal phase of a closed-end fund's lifecycle, representing a routine wind-down rather than a growth catalyst; such events typically result in liquidity for investors but offer no upside potential or strategic repositioning for the entity.",
+      "key_themes": [
+        "Fund Wind-Down",
+        "Capital Return"
+      ]
     },
     {
       "timestamp": "2026-09-11T12:00:00",
       "category": null,
       "headline": "Receipt of Funds and Shareholder Update",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-liquidity-fund-limited--alf/receipt-of-funds-and-shareholder-update/9768311",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update for an investment trust confirming capital receipt, lacking any material catalysts for valuation re-rating or strategic shift.",
+      "key_themes": [
+        "Administrative",
+        "Investment Trust"
+      ]
     },
     {
       "timestamp": "2026-06-30T15:00:00",
       "category": null,
       "headline": "Shareholder Update",
       "url": "https://www.investegate.co.uk/announcement/rns/alternative-liquidity-fund-limited--alf/shareholder-update/9645106",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a closed-end investment trust with a passive mandate, shareholder updates are typically informational rather than transformative, lacking the catalysts for significant price discovery found in active management or operational businesses.",
+      "key_themes": [
+        "Investment Trust",
+        "Passive Management"
+      ]
     }
   ]
 }

@@ -2,14 +2,26 @@
   "name": "Hostelworld Group",
   "ticker": "HSW",
   "slug": "hostelworld-group-hsw",
-  "announcement_count": 5,
-  "latest_announcement": "2026-10-05T15:47:00",
+  "announcement_count": 6,
+  "latest_announcement": "2026-11-23T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T07:00:00",
+      "category": null,
+      "headline": "Block Listing Six Monthly Return",
+      "url": "https://www.investegate.co.uk/announcement/rns/hostelworld-group--hsw/block-listing-six-monthly-return/9887546",
+      "routine_type": "Block Listing / Admission",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-10-05T15:47:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/hostelworld-group--hsw/holding-s-in-company/9807399",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,26 +32,35 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/hostelworld-group--hsw/directorate-change/9714518",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board-level administrative change typical for a mid-cap tech firm; without details on the departing/arriving director's background or specific mandate, this lacks immediate strategic weight compared to operational updates.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-11T07:00:00",
       "category": null,
       "headline": "Change of Adviser",
       "url": "https://www.investegate.co.uk/announcement/rns/hostelworld-group--hsw/change-of-adviser/9714393",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative change with minimal immediate financial implication; however, in the context of HSW's ongoing efforts to streamline operations and reduce costs post-pandemic, it may signal a shift in external advisory relationships or internal restructuring.",
+      "key_themes": [
+        "Corporate Governance",
+        "Operational Efficiency"
+      ]
     },
     {
       "timestamp": "2026-07-29T07:18:00",
       "category": "Results",
       "headline": "Interim Results 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/hostelworld-group--hsw/interim-results-2026/9693119",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a high-beta proxy for global travel sentiment, Hostelworld's interim results will heavily influence investor confidence in the leisure travel recovery; any divergence between revenue growth and margin expansion will signal competitive pressures from Airbnb or macroeconomic headwinds affecting discretionary spending.",
@@ -54,10 +75,14 @@
       "category": null,
       "headline": "Hostelworld Group plc Board and Committee Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/hostelworld-group--hsw/hostelworld-group-plc-board-and-committee-changes/9685280",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine governance updates are common in post-IPO tech firms but lack immediate catalyst potential; without details on executive departures or strategic shifts, this is unlikely to move the share price significantly.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     }
   ]
 }

@@ -10,6 +10,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/gateley-holdings---gtly/tr-1-notification-of-major-holdings-/9854025",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/gateley-holdings---gtly/director-pdmr-shareholding/9836373",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on share price; without context of significant volume or insider trading patterns, this remains an administrative update rather than a strategic signal.",
@@ -33,46 +35,64 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/gateley-holdings---gtly/result-of-agm/9809500",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital allocation changes.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-09-28T07:00:00",
       "category": null,
       "headline": "Launch of Gateley Built Environment",
       "url": "https://www.investegate.co.uk/announcement/rns/gateley-holdings---gtly/launch-of-gateley-built-environment/9792829",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This launch signals a strategic pivot into the high-growth UK infrastructure and construction finance niche, leveraging Gateley's existing regulatory expertise to capture market share in a sector with robust project pipeline demand.",
+      "key_themes": [
+        "strategic expansion",
+        "infrastructure finance",
+        "sector diversification"
+      ]
     },
     {
       "timestamp": "2026-09-11T07:00:00",
       "category": "AGM/EGM",
       "headline": "Annual Report and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/gateley-holdings---gtly/annual-report-and-notice-of-agm-/9766700",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for the AGM notice and annual report, lacking any immediate catalysts for share price movement compared to earnings releases or M&A announcements.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Meeting"
+      ]
     },
     {
       "timestamp": "2026-09-07T07:00:00",
       "category": null,
       "headline": "Class Action Update",
       "url": "https://www.investegate.co.uk/announcement/rns/gateley-holdings---gtly/class-action-update/9757610",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Class action updates are typically procedural legal disclosures with negligible immediate financial impact on Gateley's core advisory revenue streams, though they introduce low-probability litigation risk that warrants monitoring for any settlement or adverse judgment precedents.",
+      "key_themes": [
+        "Legal Risk",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-09-04T07:00:00",
       "category": "Director Dealing",
       "headline": "Grant of RSAs, Issue of Shares, PDMR Dealing & TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/gateley-holdings---gtly/grant-of-rsas-issue-of-shares-pdmr-dealing-tvr/9755160",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This announcement reflects standard executive remuneration structures and routine insider activity typical for the professional services sector, lacking any material signal regarding corporate strategy or financial health.",
@@ -86,16 +106,21 @@
       "category": null,
       "headline": "Share Purchase",
       "url": "https://www.investegate.co.uk/announcement/rns/gateley-holdings---gtly/share-purchase/9685019",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard director share purchase disclosure with no material impact on GTLY's capital structure or strategic direction, reflecting routine insider activity rather than a significant market signal.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Dealing"
+      ]
     },
     {
       "timestamp": "2026-07-21T07:01:00",
       "category": "Results",
       "headline": "Full Year Results",
       "url": "https://www.investegate.co.uk/announcement/rns/gateley-holdings---gtly/full-year-results/9678631",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a niche specialist lender in the UK legal sector, Gateley's results are closely watched for credit cycle signals; any deviation in impairment charges or lending growth directly impacts sentiment on its exposure to conveyancing and insolvency volumes.",
@@ -110,16 +135,21 @@
       "category": "Appointment",
       "headline": "Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/gateley-holdings---gtly/board-changes/9678472",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board changes in the professional services sector typically signal governance continuity rather than strategic disruption; without details on the nature of the appointments, this is classified as administrative with minimal immediate market impact.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-14T07:00:00",
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/gateley-holdings---gtly/notice-of-results/9666684",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the release of results rather than the results themselves; without data on fee income growth or regulatory capital ratios, it holds no immediate pricing power for Gateley's niche professional services model.",

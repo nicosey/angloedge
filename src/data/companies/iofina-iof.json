@@ -10,26 +10,36 @@
       "category": null,
       "headline": "Q3 2026 Update",
       "url": "https://www.investegate.co.uk/announcement/rns/iofina--iof/q3-2026-update/9826176",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a pre-revenue exploration stage company, an interim update is critical for validating the technical viability of its lithium projects and managing investor expectations regarding future funding needs amidst the volatile EV battery supply chain.",
+      "key_themes": [
+        "Exploration Update",
+        "Lithium Sector"
+      ]
     },
     {
       "timestamp": "2026-10-16T07:00:00",
       "category": null,
       "headline": "IO#12 Iodine Plant",
       "url": "https://www.investegate.co.uk/announcement/rns/iofina--iof/io-12-iodine-plant/9825988",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This announcement signals the operationalisation of Iofina's first commercial-scale iodine production facility, marking a critical transition from development to revenue generation in the high-growth battery electrolyte supply chain. It validates the company's technological roadmap and reduces execution risk, though near-term financial impact remains limited by initial production volumes.",
+      "key_themes": [
+        "Commercialisation",
+        "Battery Supply Chain",
+        "Operational Milestone"
+      ]
     },
     {
       "timestamp": "2026-09-21T07:00:00",
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/iofina--iof/interim-results/9780777",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a high-beta small-cap in the UK tech sector, Iofina's interim results will be scrutinized for revenue growth against rising cloud infrastructure costs and competitive pressures from larger peers like Sage or Xero. The market will focus on cash burn rates and path to profitability given the current risk-off sentiment towards unprofitable software names.",
@@ -44,16 +54,22 @@
       "category": null,
       "headline": "IO#11 Additional Water Installed & IO#12 Progress",
       "url": "https://www.investegate.co.uk/announcement/rns/iofina--iof/io-11-additional-water-installed-io-12-progress/9735285",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The commissioning of IO#11 and progress on IO#12 confirms the successful execution of Iofina's modular desalination strategy, directly translating to accelerated revenue recognition and de-risked capex delivery in a sector facing global water scarcity pressures.",
+      "key_themes": [
+        "Operational Execution",
+        "Revenue Growth",
+        "Water Infrastructure"
+      ]
     },
     {
       "timestamp": "2026-08-12T07:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/iofina--iof/director-pdmr-shareholding/9716746",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate price impact unless accompanied by unusual volume or context suggesting insider knowledge of material non-public information.",
@@ -67,6 +83,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/iofina--iof/director-pdmr-shareholding/9643018",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate price impact unless accompanied by unusual volume or context suggesting insider knowledge; without specific transaction details in the headline, this remains an administrative filing.",
@@ -80,10 +97,14 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/iofina--iof/result-of-agm-/9609458",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director re-elections and auditor appointments rather than strategic shifts or capital events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     }
   ]
 }

@@ -10,66 +10,94 @@
       "category": null,
       "headline": "Listing on the Namibia Securities Exchange",
       "url": "https://www.investegate.co.uk/announcement/rns/tharisa-di---ths/listing-on-the-namibia-securities-exchange/9863970",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Listing on the Namibian exchange is primarily a corporate governance and liquidity enhancement move for a local investor base, lacking the transformative capital raising or M&A activity required for higher scoring.",
+      "key_themes": [
+        "Corporate Governance",
+        "Market Access"
+      ]
     },
     {
       "timestamp": "2026-10-20T07:00:00",
       "category": null,
       "headline": "Tharisa secures early renewable energy from Etana",
       "url": "https://www.investegate.co.uk/announcement/rns/tharisa-di---ths/tharisa-secures-early-renewable-energy-from-etana/9830665",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Securing early renewable energy access via Etana directly addresses the critical ESG and cost-of-energy constraints facing South African miners, enhancing long-term operational viability and aligning with global decarbonisation mandates.",
+      "key_themes": [
+        "ESG",
+        "Energy Security",
+        "Cost Management"
+      ]
     },
     {
       "timestamp": "2026-10-15T07:00:00",
       "category": null,
       "headline": "PGM concentrate offtake agreement with Valterra",
       "url": "https://www.investegate.co.uk/announcement/rns/tharisa-di---ths/pgm-concentrate-offtake-agreement-with-valterra-/9823631",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Secures a dedicated offtake channel for PGM concentrates, mitigating spot market volatility and validating production output in the current high-cost mining environment; reflects broader industry trend of miners locking in buyers to ensure cash flow visibility.",
+      "key_themes": [
+        "PGM",
+        "Offtake Agreement",
+        "Revenue Visibility"
+      ]
     },
     {
       "timestamp": "2026-09-28T08:00:00",
       "category": null,
       "headline": "Migration to the Electronic Trading Service (SETS)",
       "url": "https://www.investegate.co.uk/announcement/rns/tharisa-di---ths/migration-to-the-electronic-trading-service-sets-/9793508",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard operational migration to the London Stock Exchange's SETS platform, enhancing liquidity and execution efficiency without altering the company's fundamental valuation or strategic direction.",
+      "key_themes": [
+        "Liquidity",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-25T07:15:00",
       "category": null,
       "headline": "Bond proceeds placed in Escrow - CP satisfied",
       "url": "https://www.investegate.co.uk/announcement/rns/tharisa-di---ths/bond-proceeds-placed-in-escrow-cp-satisfied/9791071",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms the satisfaction of a condition precedent for Tharisa's bond issuance, indicating progress in securing debt financing rather than immediate operational impact. While it validates the capital raising process, it does not yet reflect cash inflow or strategic deployment, keeping the event in the administrative/financing execution category.",
+      "key_themes": [
+        "Debt Financing",
+        "Capital Structure"
+      ]
     },
     {
       "timestamp": "2026-09-02T07:00:00",
       "category": null,
       "headline": "Investor Meetings and Senior Secured Bond Issue",
       "url": "https://www.investegate.co.uk/announcement/rns/tharisa-di---ths/investor-meetings-and-senior-secured-bond-issue/9750534",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The issuance of senior secured bonds signals a strategic shift towards debt financing to support growth or liquidity, reflecting the broader trend in the mining sector where firms leverage balance sheets amidst volatile commodity prices; this is notable but routine for Tharisa's capital structure management.",
+      "key_themes": [
+        "capital_structure",
+        "debt_issuance",
+        "mining_sector"
+      ]
     },
     {
       "timestamp": "2026-08-26T11:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/tharisa-di---ths/director-pdmr-shareholding/9741215",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on THS equity valuation, though consistent insider buying in the current PGM sector consolidation could signal long-term confidence.",
@@ -83,40 +111,59 @@
       "category": null,
       "headline": "Karo signs Special Mining Lease Agreement",
       "url": "https://www.investegate.co.uk/announcement/rns/tharisa-di---ths/karo-signs-special-mining-lease-agreement-/9737232",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The Special Mining Lease (SML) for the Karo project marks a critical regulatory milestone in Tharisa's PGM expansion strategy, reducing execution risk and validating the asset's long-term viability amidst South Africa's complex permitting landscape.",
+      "key_themes": [
+        "PGM Expansion",
+        "Regulatory Approval",
+        "CAPEX De-risking"
+      ]
     },
     {
       "timestamp": "2026-07-14T07:00:00",
       "category": null,
       "headline": "Production Report Q3 2026 ended 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/tharisa-di---ths/production-report-q3-2026-ended-30-june-2026/9666676",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a PGM-focused miner with high operational leverage to platinum group metal prices, this Q3 update provides critical visibility into margin resilience amid volatile commodity cycles and South African energy constraints.",
+      "key_themes": [
+        "PGM Production",
+        "Operational Update",
+        "Commodity Exposure"
+      ]
     },
     {
       "timestamp": "2026-06-25T07:00:00",
       "category": null,
       "headline": "Nedbank ZAR750 million Asset Finance Facility",
       "url": "https://www.investegate.co.uk/announcement/rns/tharisa-di---ths/nedbank-zar750-million-asset-finance-facility/9635564",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This ZAR750m facility provides essential liquidity for Tharisa's PGM operations in South Africa, mitigating immediate refinancing risks amid volatile local currency and energy costs, though it reflects standard operational leverage rather than transformative growth.",
+      "key_themes": [
+        "Debt Management",
+        "South African Mining",
+        "Liquidity"
+      ]
     },
     {
       "timestamp": "2026-06-08T09:30:00",
       "category": null,
       "headline": "Tharisa launches Level 1 ADR Programme",
       "url": "https://www.investegate.co.uk/announcement/rns/tharisa-di---ths/tharisa-launches-level-1-adr-programme/9606501",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This administrative move enhances liquidity for US institutional investors but offers no immediate fundamental catalyst for the underlying platinum group metals business, reflecting a standard investor relations tactic rather than a strategic shift.",
+      "key_themes": [
+        "Investor Relations",
+        "Market Access"
+      ]
     }
   ]
 }

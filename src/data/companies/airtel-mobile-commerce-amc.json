@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Stabilisation Notice",
       "url": "https://www.investegate.co.uk/announcement/rns/airtel-mobile-commerce-n-v---amc/stabilisation-notice/9866145",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Stabilisation Notice",
       "url": "https://www.investegate.co.uk/announcement/rns/airtel-mobile-commerce-n-v---amc/stabilisation-notice/9863648",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/airtel-mobile-commerce-n-v---amc/total-voting-rights/9853041",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +43,7 @@
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/airtel-mobile-commerce-n-v---amc/notice-of-results/9834711",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the publication of results rather than the results themselves; without disclosed figures, it carries no immediate pricing impact for AMC.",
@@ -53,6 +57,7 @@
       "category": null,
       "headline": "Stabilisation Notice",
       "url": "https://www.investegate.co.uk/announcement/rns/airtel-mobile-commerce-n-v---amc/stabilisation-notice/9828068",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,16 +68,21 @@
       "category": null,
       "headline": "Admission to trading on the London Stock Exchange",
       "url": "https://www.investegate.co.uk/announcement/rns/airtel-mobile-commerce-n-v---amc/admission-to-trading-on-the-london-stock-exchange/9821344",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Admission to trading is a procedural milestone rather than a value-driving event; without accompanying details on the raise size or valuation, it remains an administrative update with no immediate fundamental impact.",
+      "key_themes": [
+        "IPO",
+        "Market Access"
+      ]
     },
     {
       "timestamp": "2026-10-09T07:05:00",
       "category": null,
       "headline": "Stabilisation Notice",
       "url": "https://www.investegate.co.uk/announcement/rns/amur-minerals-corporation-npv--amc/stabilisation-notice/9814798",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,10 +93,14 @@
       "category": null,
       "headline": "Airtel Money Announcement of Final Offer Details",
       "url": "https://www.investegate.co.uk/announcement/rns/amur-minerals-corporation-npv--amc/airtel-money-announcement-of-final-offer-details/9814566",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement concerns a payment service provider (Airtel Money) rather than Amur Minerals' core copper-cobalt mining operations in Zambia, indicating zero direct operational or financial impact on AMC's valuation or production strategy.",
+      "key_themes": [
+        "irrelevant",
+        "data_mismatch"
+      ]
     }
   ]
 }

@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Admission of Further Securities to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-income-growth-2-vct-plc--ghv2/admission-of-further-securities-to-trading-/9862967",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Issue of Equity and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-income-growth-2-vct-plc--ghv2/issue-of-equity-and-total-voting-rights/9851095",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +32,7 @@
       "category": null,
       "headline": "Transaction in Own Shares and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-income-growth-2-vct-plc--ghv2/transaction-in-own-shares-and-total-voting-rights/9793885",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,26 +43,37 @@
       "category": "Results",
       "headline": "Interim Management Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-income-growth-2-vct-plc--ghv2/interim-management-statement-/9764625",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a VCT, this interim statement primarily signals dividend sustainability and NAV trajectory rather than operational growth; in the current high-rate environment, maintaining yield is critical for investor retention amidst rising alternative fixed-income options.",
+      "key_themes": [
+        "VCT Dividends",
+        "NAV Performance",
+        "Yield Sustainability"
+      ]
     },
     {
       "timestamp": "2026-09-10T07:00:00",
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-income-growth-2-vct-plc--ghv2/dividend-declaration/9764349",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This declaration confirms the VCT's ongoing commitment to its dividend policy, a critical factor for maintaining investor retention in a high-yield sector currently facing regulatory scrutiny and tax incentive uncertainty.",
+      "key_themes": [
+        "VCT",
+        "Dividend Policy",
+        "Investor Confidence"
+      ]
     },
     {
       "timestamp": "2026-09-01T11:00:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-income-growth-2-vct-plc--ghv2/total-voting-rights/9749419",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,6 +84,7 @@
       "category": null,
       "headline": "Transaction in Own Shares and Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-income-growth-2-vct-plc--ghv2/transaction-in-own-shares-and-total-voting-rights/9690958",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,16 +95,21 @@
       "category": "Results",
       "headline": "Half-Year Report",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-income-growth-2-vct-plc--ghv2/half-year-report-/9635565",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a VCT, the primary market driver is dividend yield maintenance rather than capital growth; this interim report serves as a critical check on distributable income stability in a high-interest-rate environment where alternative fixed-income yields remain competitive.",
+      "key_themes": [
+        "VCT Dividend Sustainability",
+        "Interim Income Report"
+      ]
     },
     {
       "timestamp": "2026-06-01T10:30:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/gresham-house-income-growth-2-vct-plc--ghv2/total-voting-rights/9594850",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

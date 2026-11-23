@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/ecofin-u-s-renewables-infrastructure-trust--rnep/director-declaration/9867960",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,40 +21,57 @@
       "category": null,
       "headline": "New Consultancy Arrangements",
       "url": "https://www.investegate.co.uk/announcement/rns/ecofin-u-s-renewables-infrastructure-trust--rnep/new-consultancy-arrangements/9848491",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative update regarding consultancy arrangements lacks material financial impact or strategic direction, typical of standard operational disclosures in UK investment trusts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Operational Update"
+      ]
     },
     {
       "timestamp": "2026-09-18T07:00:00",
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/ecofin-u-s-renewables-infrastructure-trust--rnep/half-year-financial-report/9778516",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a closed-end fund tracking US renewables infrastructure, RNEP's half-year results provide critical visibility into the sector's capital expenditure trends and dividend sustainability amidst rising interest rates, though it lacks the transformative catalyst of major M&A or strategic pivots.",
+      "key_themes": [
+        "Closed-End Fund",
+        "Renewable Infrastructure",
+        "Dividend Yield"
+      ]
     },
     {
       "timestamp": "2026-06-17T12:30:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/ecofin-u-s-renewables-infrastructure-trust--rnep/result-of-agm/9623565",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for a closed-end fund typically confirm standard governance matters with negligible price impact, reflecting the low volatility and administrative nature of such disclosures in the UK investment trust sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Closed-End Fund"
+      ]
     },
     {
       "timestamp": "2026-05-28T12:00:00",
       "category": null,
       "headline": "B Share scheme apportionment ratio",
       "url": "https://www.investegate.co.uk/announcement/rns/ecofin-u-s-renewables-infrastructure-trust--rnep/b-share-scheme-apportionment-ratio/9590261",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative disclosure detailing the ratio for converting B Shares to A Shares, a routine mechanism within the fund's structure rather than a strategic shift or capital event.",
+      "key_themes": [
+        "Corporate Action",
+        "Fund Structure"
+      ]
     }
   ]
 }

@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/rosslyn-data-technologies--rdt/holding-s-in-company/9789232",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/rosslyn-data-technologies--rdt/holding-s-in-company/9703222",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,10 +32,14 @@
       "category": null,
       "headline": "Grant and Cancellation of Options",
       "url": "https://www.investegate.co.uk/announcement/rns/rosslyn-data-technologies--rdt/grant-and-cancellation-of-options/9683014",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding equity compensation adjustments, likely reflecting normal vesting schedules or performance condition modifications rather than a strategic shift. In the current UK tech sector climate, such routine option movements are common and carry negligible immediate impact on share valuation or capital structure.",
+      "key_themes": [
+        "Corporate Governance",
+        "Equity Compensation"
+      ]
     }
   ]
 }

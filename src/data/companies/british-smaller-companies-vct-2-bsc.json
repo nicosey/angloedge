@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct-2--bsc/director-declaration/9877566",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct-2--bsc/admission-to-trading/9865067",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,36 +32,51 @@
       "category": "Dividend",
       "headline": "Payment of dividend and issue of equity",
       "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct-2--bsc/payment-of-dividend-and-issue-of-equity/9838921",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The combination of a dividend payment with an equity issue suggests active capital management to maintain the VCT's investment capacity while rewarding shareholders, a standard but necessary operational rhythm for closed-end funds in the current UK SME financing environment.",
+      "key_themes": [
+        "VCT",
+        "Capital Management",
+        "Dividend"
+      ]
     },
     {
       "timestamp": "2026-09-30T09:00:00",
       "category": null,
       "headline": "Offer Update",
       "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct-2--bsc/offer-update/9798628",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a VCT, this update likely pertains to subscription levels or tax status maintenance rather than operational performance; such announcements are routine administrative updates with negligible immediate impact on share price volatility.",
+      "key_themes": [
+        "VCT",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-23T11:00:00",
       "category": null,
       "headline": "Publication of a Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct-2--bsc/publication-of-a-prospectus/9787087",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing required for the launch or continuation of a Venture Capital Trust (VCT), indicating routine fundraising activity rather than transformative corporate action.",
+      "key_themes": [
+        "VCT",
+        "Fundraising",
+        "Regulatory Filing"
+      ]
     },
     {
       "timestamp": "2026-09-15T11:07:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct-2--bsc/transaction-in-own-shares/9772980",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,16 +87,22 @@
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct-2--bsc/half-year-financial-report/9767719",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a VCT, this report reflects the performance of its underlying portfolio rather than operational trading; in the current UK smaller-cap environment, such updates are critical for assessing NAV stability and dividend sustainability amidst rising interest rates.",
+      "key_themes": [
+        "VCT",
+        "Interim Results",
+        "NAV"
+      ]
     },
     {
       "timestamp": "2026-09-07T12:15:00",
       "category": null,
       "headline": "Admission of Further Securities to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct-2--bsc/admission-of-further-securities-to-trading/9759123",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -90,30 +113,44 @@
       "category": null,
       "headline": "New combined offer for subscription",
       "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct-2--bsc/new-combined-offer-for-subscription/9691783",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This administrative capital raise is typical for VCTs to maintain compliance with HMRC's £200m asset limit and ensure ongoing tax relief eligibility, rather than signaling strategic expansion or market confidence.",
+      "key_themes": [
+        "VCT",
+        "Capital Raise",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-06-11T12:15:00",
       "category": "Results",
       "headline": "Interim Management Statement to 31 March 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct-2--bsc/interim-management-statement-to-31-march-2026/9614048",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a VCT, this interim statement primarily signals portfolio valuation stability and dividend sustainability rather than operational growth, which is critical for maintaining investor confidence in the current high-interest-rate environment.",
+      "key_themes": [
+        "VCT",
+        "Interim Results",
+        "Dividend Sustainability"
+      ]
     },
     {
       "timestamp": "2026-06-09T13:50:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct-2--bsc/result-of-agm/9609575",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine confirmation of AGM outcomes for a closed-end investment trust typically carries no material financial implication, as these entities operate under fixed mandates with minimal operational discretion compared to open-ended funds.",
+      "key_themes": [
+        "Corporate Governance",
+        "Closed-End Trust"
+      ]
     }
   ]
 }

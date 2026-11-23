@@ -2,38 +2,66 @@
   "name": "Zanaga Iron Ore Co. Ltd (DI)",
   "ticker": "ZIOC",
   "slug": "zanaga-iron-ore-zioc",
-  "announcement_count": 3,
-  "latest_announcement": "2026-11-10T07:00:00",
+  "announcement_count": 4,
+  "latest_announcement": "2026-11-23T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T07:00:00",
+      "category": "AGM/EGM",
+      "headline": "Posting of Annual Report and Notice of AGM",
+      "url": "https://www.investegate.co.uk/announcement/rns/zanaga-iron-ore-co-ltd-di---zioc/posting-of-annual-report-and-notice-of-agm-/9887542",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for the annual report and AGM notice, indicating no immediate material corporate action or financial shock. For a junior explorer like ZIOC, such routine governance updates have negligible short-term price impact compared to exploration results or funding announcements.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
+    },
     {
       "timestamp": "2026-11-10T07:00:00",
       "category": null,
       "headline": "Update on RAM Transaction",
       "url": "https://www.investegate.co.uk/announcement/rns/zanaga-iron-ore-co-ltd-di---zioc/update-on-ram-transaction/9866485",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a micro-cap with limited liquidity and no immediate production timeline, this update likely serves to maintain investor interest rather than signal material operational progress; sector context shows iron ore prices remain volatile but secondary producers face high capex hurdles.",
+      "key_themes": [
+        "exploration",
+        "liquidity_risk"
+      ]
     },
     {
       "timestamp": "2026-11-03T07:00:00",
       "category": null,
       "headline": "Zanaga Completes Bulk Sampling Programme",
       "url": "https://www.investegate.co.uk/announcement/rns/zanaga-iron-ore-co-ltd-di---zioc/zanaga-completes-bulk-sampling-programme/9854651",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Completion of bulk sampling is a critical de-risking milestone for Zanaga's FeMn project, providing essential metallurgical data to support bankable feasibility studies and potential off-take negotiations in the manganese sector.",
+      "key_themes": [
+        "FeMn",
+        "Project Development",
+        "Zambia"
+      ]
     },
     {
       "timestamp": "2026-09-15T07:00:00",
       "category": null,
       "headline": "Zanaga Launches Bulk Sampling",
       "url": "https://www.investegate.co.uk/announcement/rns/zanaga-iron-ore-co-ltd-di---zioc/zanaga-launches-bulk-sampling/9771617",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Bulk sampling is a critical de-risking step for Zanaga's Feasibility Study, directly addressing the market's primary concern regarding ore grade variability and processing recovery rates ahead of the final investment decision.",
+      "key_themes": [
+        "Feasibility Study",
+        "De-risking",
+        "Iron Ore"
+      ]
     }
   ]
 }

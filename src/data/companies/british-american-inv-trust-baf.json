@@ -10,30 +10,43 @@
       "category": "Appointment",
       "headline": "Appointment of Auditor",
       "url": "https://www.investegate.co.uk/announcement/prn/british-american-inv-trust--baf/appointment-of-auditor/9809176",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing regarding statutory audit requirements for an investment trust, carrying no immediate strategic or financial implication for shareholders.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-09-30T12:43:00",
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/prn/british-american-inv-trust--baf/half-year-financial-report/9799298",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a closed-end investment trust, BAF's half-year results are critical for assessing net asset value (NAV) performance and dividend sustainability in the current high-interest-rate environment, directly influencing the discount/premium to NAV.",
+      "key_themes": [
+        "Investment Trust",
+        "Dividend Policy",
+        "NAV Performance"
+      ]
     },
     {
       "timestamp": "2026-06-12T12:33:00",
       "category": "Appointment",
       "headline": "Resignation of Auditor",
       "url": "https://www.investegate.co.uk/announcement/prn/british-american-inv-trust--baf/resignation-of-auditor/9616441",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Auditor resignations in investment trusts are typically administrative or related to fee disputes rather than financial distress, especially given BAF's stable dividend history and lack of recent audit qualifications.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     }
   ]
 }

@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/prn/pensana--pre/issue-of-equity/9879741",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,26 +21,35 @@
       "category": "AGM/EGM",
       "headline": "Results of Annual General Meeting - 13 November 2026",
       "url": "https://www.investegate.co.uk/announcement/prn/pensana--pre/results-of-annual-general-meeting-13-novemb-/9875332",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for a pre-revenue biotech firm typically confirm standard governance matters rather than signaling strategic shifts, reflecting the sector's reliance on clinical milestones over corporate actions.",
+      "key_themes": [
+        "Corporate Governance",
+        "Biotech"
+      ]
     },
     {
       "timestamp": "2026-11-13T11:00:00",
       "category": "AGM/EGM",
       "headline": "Annual General Meeting - Chairman's Presentation",
       "url": "https://www.investegate.co.uk/announcement/prn/pensana--pre/annual-general-meeting-chairman-s-presentat-/9874661",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for Pensana's AGM; while the Chairman's presentation may offer minor commentary on the firm's deep-tech AI strategy, it carries no immediate financial impact or material corporate action compared to transformative events like M&A or capital raises.",
+      "key_themes": [
+        "Corporate Governance",
+        "Deep Tech"
+      ]
     },
     {
       "timestamp": "2026-11-11T10:42:00",
       "category": null,
       "headline": "Issue of Equity - Updated number of shares to be issued",
       "url": "https://www.investegate.co.uk/announcement/prn/pensana--pre/issue-of-equity-updated-number-of-shares-to-/9869994",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,16 +60,21 @@
       "category": null,
       "headline": "Publication of Annual Report 2026",
       "url": "https://www.investegate.co.uk/announcement/prn/pensana--pre/publication-of-annual-report-2026/9839840",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine publication of the annual report for a pre-revenue biotech; while it provides essential governance and financial health data, it lacks the transformative catalysts (like clinical readouts or funding) required to drive immediate valuation shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Biotech Reporting"
+      ]
     },
     {
       "timestamp": "2026-07-22T14:57:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/prn/pensana--pre/holding-s-in-company/9682568",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

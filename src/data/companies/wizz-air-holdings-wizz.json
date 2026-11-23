@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/holding-s-in-company/9867542",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,21 @@
       "category": null,
       "headline": "Wizz Air Share Capital",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/wizz-air-share-capital/9854717",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the company's share capital structure, likely following routine allotments or option exercises, which carries no immediate pricing implication for WIZZ.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-10-26T10:00:00",
       "category": "Results",
       "headline": "Notice of F27 Half Year Results Date",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/notice-of-f27-half-year-results-date/9841355",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As Wizz Air navigates the post-pandemic recovery with aggressive fleet expansion into Eastern Europe, this interim report is critical for validating demand resilience and unit cost discipline against rising fuel and leasing pressures.",
@@ -44,36 +50,49 @@
       "category": null,
       "headline": "Wizz Air Omnibus Plan award grants",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/wizz-air-omnibus-plan-award-grants/9804792",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement confirms the administrative completion of a share plan award, likely related to executive remuneration or employee incentives rather than active market capital management. Such routine equity-settled transactions have negligible immediate impact on Wizz Air's liquidity, balance sheet, or strategic trajectory compared to core operational metrics like load factors and unit costs.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Remuneration"
+      ]
     },
     {
       "timestamp": "2026-10-02T07:01:00",
       "category": null,
       "headline": "Wizz Air Share Capital",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/wizz-air-share-capital/9803183",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This RNS is a standard administrative filing confirming the company's share capital structure, likely following routine allotments or option exercises, and carries no immediate fundamental implication for Wizz Air's operational outlook or valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-10-02T07:00:00",
       "category": null,
       "headline": "September 2026 Traffic and CO2 Emission Statistics",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/september-2026-traffic-and-co2-emission-statistics/9803009",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Traffic updates are standard operational metrics that provide incremental visibility into demand elasticity but rarely drive immediate price discovery without accompanying financial guidance. In the current high-cost aviation environment, this data serves primarily as a sentiment check on load factors rather than a catalyst for valuation re-rating.",
+      "key_themes": [
+        "Operational Update",
+        "Aviation Demand"
+      ]
     },
     {
       "timestamp": "2026-09-30T12:23:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/holding-s-in-company/9799252",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -84,6 +103,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/holding-s-in-company/9777319",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -94,16 +114,21 @@
       "category": null,
       "headline": "Wizz Air Share Capital",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/wizz-air-share-capital/9750648",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This RNS is a standard administrative filing confirming the company's share capital structure, likely following routine allotments or conversions, which carries no immediate fundamental weight for valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-25T09:04:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/director-pdmr-shareholding/9738712",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR disclosure typical of Wizz Air's high-velocity share dealing culture; without volume context, it signals no immediate strategic shift in a sector currently navigating fuel volatility and capacity discipline.",
@@ -117,6 +142,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/director-pdmr-shareholding/9737095",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Wizz Air's valuation or operational trajectory, especially given the airline sector's current focus on fuel costs and capacity expansion rather than insider trading signals.",
@@ -130,6 +156,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/director-pdmr-shareholding/9722358",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on Wizz Air's equity valuation, especially given the airline sector's current focus on fuel costs and demand elasticity rather than individual insider transactions.",
@@ -143,56 +170,77 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/result-of-agm/9707018",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of routine shareholder votes, which carries no immediate financial or strategic weight for Wizz Air's operations or valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-08-04T08:06:00",
       "category": null,
       "headline": "Wizz Air Share Capital",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/wizz-air-share-capital/9703245",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the company's share capital structure, likely following routine allotments or conversions, which carries no immediate pricing implication for WIZZ.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-04T07:00:00",
       "category": null,
       "headline": "July 2026 Traffic and CO2 Emission Statistics",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/july-2026-traffic-and-co2-emission-statistics/9702434",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine operational reporting with no material financial guidance or strategic shifts; traffic data is standard for airline monitoring but lacks the catalysts required to move valuation significantly in the near term.",
+      "key_themes": [
+        "Operational Update",
+        "Airline Sector"
+      ]
     },
     {
       "timestamp": "2026-07-29T13:48:00",
       "category": null,
       "headline": "Application for Listing Notice",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/application-for-listing-notice/9694143",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the listing of new shares, likely related to the completion of the previously announced capital raise or option exercises; it carries no intrinsic trading signal beyond confirming liquidity mechanics.",
+      "key_themes": [
+        "Administrative",
+        "Capital Structure"
+      ]
     },
     {
       "timestamp": "2026-07-28T11:46:00",
       "category": null,
       "headline": "Wizz Air Board Committee Updates",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/wizz-air-board-committee-updates-/9691445",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard corporate governance update regarding board committee composition, lacking any material financial or strategic catalysts for Wizz Air's current operational outlook.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-07-21T10:32:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/director-pdmr-shareholding/9679712",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on Wizz Air's valuation or operational trajectory, especially given the airline sector's current focus on fuel hedging and capacity expansion rather than insider trading signals.",
@@ -206,6 +254,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/director-pdmr-shareholding/9679671",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate market impact; however, in the volatile aviation sector, sustained insider buying could signal confidence in Wizz Air's cost leadership and fleet expansion strategy amidst fuel price fluctuations.",
@@ -219,16 +268,21 @@
       "category": null,
       "headline": "Wizz Air Leadership Team Update",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/wizz-air-leadership-team-update-/9679462",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Leadership changes in the highly competitive low-cost carrier sector signal potential strategic pivots amid intense margin pressure from fuel costs and geopolitical instability; investors will scrutinize whether this brings fresh operational discipline or reflects internal friction.",
+      "key_themes": [
+        "Corporate Governance",
+        "Aviation Sector"
+      ]
     },
     {
       "timestamp": "2026-07-15T11:47:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/director-pdmr-shareholding/9670443",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on Wizz Air's valuation or operational trajectory, especially given the airline sector's current focus on capacity expansion and fuel cost dynamics rather than insider trading signals.",
@@ -242,6 +296,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/director-pdmr-shareholding/9668627",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR disclosure typical of Wizz Air's high-velocity trading environment; without volume context, this lacks the signal strength to influence valuation given current sector headwinds regarding fuel costs and capacity discipline.",
@@ -255,16 +310,21 @@
       "category": "Appointment",
       "headline": "Appointment of Chief Technical Officer",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/appointment-of-chief-technical-officer/9668559",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The appointment of a CTO signals Wizz's pivot toward digital transformation and operational efficiency to counter rising fuel costs and maintenance pressures, aligning with the broader aviation sector's push for tech-driven cost control.",
+      "key_themes": [
+        "Digital Transformation",
+        "Operational Efficiency"
+      ]
     },
     {
       "timestamp": "2026-07-14T07:00:00",
       "category": "Results",
       "headline": "Notice of F27 First Quarter Results Date",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/notice-of-f27-first-quarter-results-date/9666681",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a high-beta carrier in the European leisure travel sector, Wizz Air's Q1 results will serve as a critical barometer for consumer demand resilience amid persistent inflationary pressures and geopolitical instability. The market will scrutinize load factors and unit cost trends to gauge whether the airline can maintain its aggressive expansion trajectory without eroding margins.",
@@ -279,6 +339,7 @@
       "category": "Director Dealing",
       "headline": "Replacement: Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/replacement-director-pdmr-shareholding/9666244",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory filing for a PDMR shareholding change, likely reflecting routine tax obligations or minor portfolio adjustments rather than a strategic signal. In the current volatile aviation sector, such administrative disclosures lack the weight to influence investor sentiment without accompanying commentary on insider conviction.",
@@ -292,16 +353,21 @@
       "category": "AGM/EGM",
       "headline": "Notice of 2026 Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/notice-of-2026-annual-general-meeting/9663827",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice for Wizz Air's 2026 AGM, requiring no immediate market reaction as it does not disclose new strategic initiatives or financial data ahead of the event.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-07-07T15:39:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/director-pdmr-shareholding/9656844",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine disclosure of individual director transactions lacks the scale or strategic weight to influence Wizz Air's valuation trajectory amidst current aviation sector volatility and fuel cost pressures.",
@@ -315,6 +381,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/director-pdmr-shareholding/9656842",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine PDMR disclosures are standard regulatory requirements with negligible immediate market impact; however, in the capital-intensive aviation sector, any net selling by insiders during high fuel price or interest rate environments warrants monitoring for sentiment shifts.",
@@ -328,26 +395,35 @@
       "category": null,
       "headline": "Wizz Air Share Capital",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/wizz-air-share-capital/9648464",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This RNS is a standard administrative filing confirming the composition of Wizz Air's share capital, likely following routine share issuance or buyback activity, rather than signaling any strategic shift or material corporate action.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-22T17:25:00",
       "category": null,
       "headline": "Wizz Air Omnibus Plan award grants",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/wizz-air-omnibus-plan-award-grants/9630549",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement confirms the administrative completion of a share plan award, likely related to executive remuneration or employee incentives rather than a strategic capital event. Such routine equity compensation exercises have negligible immediate impact on Wizz Air's balance sheet or operational outlook compared to fleet orders or route expansions.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Compensation"
+      ]
     },
     {
       "timestamp": "2026-06-19T08:24:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/director-pdmr-shareholding/9627533",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate price impact, though in the volatile aviation sector, any insider buying could signal confidence in the post-pandemic recovery trajectory.",
@@ -362,16 +438,21 @@
       "category": null,
       "headline": "Wizz Air Omnibus Plan award grants",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/wizz-air-omnibus-plan-award-grants/9623624",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement confirms the administrative completion of a share plan award, likely tied to existing executive compensation structures rather than new strategic initiatives. Such routine equity administration events have negligible immediate impact on Wizz Air's operational outlook or valuation compared to fleet expansion plans or yield metrics.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Compensation"
+      ]
     },
     {
       "timestamp": "2026-06-17T08:27:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/director-pdmr-shareholding/9622849",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Wizz Air's valuation or strategic trajectory, especially given the airline's current focus on fleet expansion and route network optimization rather than insider trading signals.",
@@ -385,6 +466,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/director-pdmr-shareholding/9616715",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Wizz Air's operational outlook or valuation, especially given the airline's current focus on fleet expansion and route network optimization rather than insider trading signals.",
@@ -398,16 +480,21 @@
       "category": "Appointment",
       "headline": "Board Update",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/board-update-/9616303",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board updates in the highly volatile airline sector typically signal operational continuity rather than strategic shifts; without details on new appointments or governance changes, this lacks the catalyst potential for significant price movement.",
+      "key_themes": [
+        "Corporate Governance",
+        "Airline Sector"
+      ]
     },
     {
       "timestamp": "2026-06-03T16:18:00",
       "category": null,
       "headline": "BLOCK LISTING SIX MONTHLY RETURN",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/block-listing-six-monthly-return/9600479",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -418,10 +505,14 @@
       "category": null,
       "headline": "Wizz Air Share Capital",
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/wizz-air-share-capital/9596154",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This RNS is a standard administrative filing confirming the company's share capital structure, likely following routine corporate actions or regulatory updates, rather than signaling any new strategic direction or financial performance.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     }
   ]
 }

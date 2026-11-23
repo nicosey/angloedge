@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/transaction-in-own-shares/9887106",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,16 +21,21 @@
       "category": null,
       "headline": "Tender Offer for a Top 5 Portfolio Holding",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/tender-offer-for-a-top-5-portfolio-holding/9886781",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Tender offers for top holdings are standard liquidity management tools for investment trusts, typically executed at a slight discount to NAV to facilitate orderly exits without triggering broad market selling pressure.",
+      "key_themes": [
+        "liquidity_management",
+        "portfolio_rebalancing"
+      ]
     },
     {
       "timestamp": "2026-11-19T15:32:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/holding-s-in-company/9884950",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,26 +46,36 @@
       "category": "Appointment",
       "headline": "Appointment of James Will - Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/appointment-of-james-will-non-executive-director/9882520",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard governance update for an investment trust; while board composition affects long-term oversight, it lacks the immediate catalystic weight of M&A or earnings surprises typical of higher-impact events.",
+      "key_themes": [
+        "Governance",
+        "Investment Trusts"
+      ]
     },
     {
       "timestamp": "2026-11-18T15:05:00",
       "category": null,
       "headline": "Result of Tender Offer and Tender Price",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/result-of-tender-offer-and-tender-price/9882415",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms the mechanics of a standard tender offer for AJOT shares, likely reflecting routine portfolio rebalancing or liquidity management rather than a strategic shift; such administrative updates are common in investment trusts but carry no material implication for long-term valuation.",
+      "key_themes": [
+        "investment trust",
+        "capital management",
+        "administrative"
+      ]
     },
     {
       "timestamp": "2026-11-17T17:40:00",
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/transaction-in-own-shares/9880389",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,26 +86,35 @@
       "category": null,
       "headline": "Monthly Update - October 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/monthly-update-october-2026/9870674",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine monthly NAV updates for closed-end funds are standard administrative disclosures with negligible market-moving potential unless they signal a significant discount widening or premium compression.",
+      "key_themes": [
+        "NAV Update",
+        "Closed-End Fund"
+      ]
     },
     {
       "timestamp": "2026-11-10T11:55:00",
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/result-of-general-meeting/9867954",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of an AGM, which typically involves routine matters such as director reappointments and auditor ratification rather than transformative strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-11-02T14:01:00",
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/total-voting-rights/9853881",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -100,6 +125,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/transaction-in-own-shares/9851506",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -110,26 +136,36 @@
       "category": null,
       "headline": "Tender Offer for a Top 10 Portfolio Holding",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/tender-offer-for-a-top-10-portfolio-holding-/9848223",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Tendering a top 10 holding signals active portfolio management to optimize NAV per share or realize gains, reflecting the fund's agility in a volatile market; however, without details on the counterparty or premium, it remains a standard operational move rather than a strategic pivot.",
+      "key_themes": [
+        "NAV Management",
+        "Active Disposition"
+      ]
     },
     {
       "timestamp": "2026-10-19T07:00:00",
       "category": null,
       "headline": "Tender Offer and Notice of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/tender-offer-and-notice-of-general-meeting/9828284",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This tender offer serves as a critical mechanism for AJOT to manage its discount/premium dynamics and NAV per share, reflecting the ongoing pressure on UK investment trusts to maintain liquidity and shareholder value in a high-rate environment.",
+      "key_themes": [
+        "NAV management",
+        "Investment Trusts",
+        "Shareholder returns"
+      ]
     },
     {
       "timestamp": "2026-10-15T07:00:00",
       "category": null,
       "headline": "Kepler Trust Intelligence: New Research",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/kepler-trust-intelligence-new-research/9823648",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -140,6 +176,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/transaction-in-own-shares/9819004",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -150,6 +187,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/transaction-in-own-shares/9809809",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -160,6 +198,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/total-voting-rights/9802355",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -170,6 +209,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/transaction-in-own-shares/9800017",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -180,6 +220,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/transaction-in-own-shares/9794894",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -190,6 +231,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/transaction-in-own-shares/9792468",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -200,6 +242,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/holding-s-in-company/9792117",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -210,6 +253,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/transaction-in-own-shares/9790163",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -220,6 +264,7 @@
       "category": null,
       "headline": "Transaction in Own Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/transaction-in-own-shares/9787806",
+      "routine_type": "Transaction in Own Shares",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -230,6 +275,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/director-pdmr-shareholding/9783061",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory requirements for investment trusts and rarely signal immediate strategic shifts or material price movement without accompanying volume context.",
@@ -243,6 +289,7 @@
       "category": null,
       "headline": "Compliance with Market Abuse Regulation",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/compliance-with-market-abuse-regulation/9766443",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -253,46 +300,64 @@
       "category": null,
       "headline": "Tender Offer for Largest Portfolio Holding",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/tender-offer-for-largest-portfolio-holding/9764000",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "Executing a tender offer for the largest holding signals active portfolio management and potential realization of gains in a volatile market, directly impacting NAV per share and liquidity profiles.",
+      "key_themes": [
+        "NAV Management",
+        "Portfolio Rebalancing"
+      ]
     },
     {
       "timestamp": "2026-08-12T16:26:00",
       "category": null,
       "headline": "Monthly Update - July 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/monthly-update-july-2026-/9718817",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine monthly NAV updates for closed-end funds are standard administrative disclosures with negligible market-moving potential unless they signal a significant discount widening or premium compression.",
+      "key_themes": [
+        "NAV Update",
+        "Closed-End Fund"
+      ]
     },
     {
       "timestamp": "2026-08-04T08:16:00",
       "category": null,
       "headline": "Agreement to sell AVI to Pacific Asset Management",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/agreement-to-sell-avi-to-pacific-asset-management/9703354",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "This represents a fundamental structural shift for AJOT, transitioning from an active investment trust model to a passive ETF structure under Pacific Asset Management, signaling a broader industry trend of consolidation and cost-efficiency in the UK small/mid-cap space.",
+      "key_themes": [
+        "Investment Trust Closure",
+        "ETF Conversion",
+        "Active to Passive"
+      ]
     },
     {
       "timestamp": "2026-07-10T11:14:00",
       "category": null,
       "headline": "Monthly Update - June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/monthly-update-june-2026-/9663398",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine monthly updates for closed-end investment trusts are standard operational disclosures with negligible market-moving potential, serving primarily to track NAV performance rather than signal strategic shifts.",
+      "key_themes": [
+        "closed-end-fund",
+        "routine-disclosure"
+      ]
     },
     {
       "timestamp": "2026-06-25T09:08:00",
       "category": null,
       "headline": "QuotedData's In The HotSeat Special",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/quoteddata-s-in-the-hotseat-special/9636508",
+      "routine_type": "Third-party Research",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -303,6 +368,7 @@
       "category": null,
       "headline": "Director Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/director-declaration/9623781",
+      "routine_type": "Director Declaration",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -313,30 +379,42 @@
       "category": null,
       "headline": "Investment Manager Increases Holding",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/investment-manager-increases-holding/9621645",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This reflects standard fiduciary activity by the investment manager rather than a market-wide signal; while it confirms internal confidence in the portfolio's Japanese assets, it lacks the transformative weight of M&A or major capital restructuring.",
+      "key_themes": [
+        "Investment Manager Activity",
+        "Confidence Signal"
+      ]
     },
     {
       "timestamp": "2026-06-09T16:19:00",
       "category": "Appointment",
       "headline": "Appointment of Senior Independent Director",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/appointment-of-senior-independent-director-/9609777",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard governance update for an investment trust, ensuring board independence without signaling immediate strategic shifts or financial distress in the current volatile Japanese equity environment.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Composition"
+      ]
     },
     {
       "timestamp": "2026-05-27T16:22:00",
       "category": "Appointment",
       "headline": "Appointment of Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/rns/avi-japan-opportunity-trust--ajot/appointment-of-non-executive-director/9588358",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine board composition update for a closed-end fund; while governance stability is positive, it lacks the strategic catalysts required to move valuation multiples in the current UK investment trust sector.",
+      "key_themes": [
+        "Governance",
+        "Closed-End Fund"
+      ]
     }
   ]
 }

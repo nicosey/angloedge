@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Assignment of Auckland Leases to Inclusion",
       "url": "https://www.investegate.co.uk/announcement/rns/living-reit-plc--live/assignment-of-auckland-leases-to-inclusion/9874568",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Administrative restructuring of lease assignments for a single NZ asset has negligible impact on LIVE's UK-focused portfolio and overall valuation.",
+      "key_themes": [
+        "administrative",
+        "portfolio_management"
+      ]
     },
     {
       "timestamp": "2026-10-13T07:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/living-reit-plc--live/director-pdmr-shareholding/9819166",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard administrative filings with negligible immediate impact on share price dynamics; without context on deal size or direction (buy/sell), this is classified as minor noise rather than a strategic signal.",
@@ -33,6 +38,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/living-reit-plc--live/director-pdmr-shareholding/9790290",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of individual director transactions which lacks the materiality to influence institutional positioning or share price dynamics in the current UK REIT sector.",
@@ -46,16 +52,22 @@
       "category": "Dividend",
       "headline": "Dividend Declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/living-reit-plc--live/dividend-declaration/9775261",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a REIT, the dividend declaration is the primary mechanism for returning capital to shareholders, directly impacting yield attractiveness in a high-interest-rate environment; however, without specific yield or payout ratio data, this remains a routine compliance event rather than a strategic shift.",
+      "key_themes": [
+        "REIT Yield",
+        "Capital Return",
+        "Income Investing"
+      ]
     },
     {
       "timestamp": "2026-09-03T11:26:00",
       "category": "Results",
       "headline": "Notice of Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/living-reit-plc--live/notice-of-interim-results/9754277",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a REIT, the release of interim results is critical for validating dividend sustainability amidst rising UK interest rates and commercial property valuation pressures; this update will likely dictate near-term investor sentiment on yield security.",
@@ -70,6 +82,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/living-reit-plc--live/holding-s-in-company/9741949",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -80,36 +93,49 @@
       "category": "Acquisition",
       "headline": "Correction: Update on Strategic Acquisition",
       "url": "https://www.investegate.co.uk/announcement/rns/living-reit-plc--live/correction-update-on-strategic-acquisition-/9715780",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "A correction to a strategic acquisition update typically signals administrative refinement or minor data adjustment rather than a fundamental shift in deal terms, limiting immediate market reaction despite the sector's current focus on active portfolio management.",
+      "key_themes": [
+        "Corporate Action",
+        "Administrative Update"
+      ]
     },
     {
       "timestamp": "2026-07-15T12:00:00",
       "category": "Acquisition",
       "headline": "Update on Strategic Acquisition",
       "url": "https://www.investegate.co.uk/announcement/rns/living-reit-plc--live/update-on-strategic-acquisition/9670489",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Without the specific asset details in this update headline, the market reaction will be muted; UK REITs are currently sensitive to yield compression and refinancing risks, making any acquisition materiality critical for valuation.",
+      "key_themes": [
+        "UK Real Estate",
+        "Strategic Growth"
+      ]
     },
     {
       "timestamp": "2026-07-08T11:46:00",
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/living-reit-plc--live/result-of-general-meeting/9658839",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a standard post-meeting result announcement for a REIT, this confirms routine shareholder approvals rather than signaling strategic shifts or material capital events.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-06-23T07:00:00",
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/living-reit-plc--live/director-pdmr-shareholding/9630734",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on share price dynamics unless accompanied by unusual volume or context; without specific transaction details in the headline, this remains an administrative update rather than a strategic signal.",

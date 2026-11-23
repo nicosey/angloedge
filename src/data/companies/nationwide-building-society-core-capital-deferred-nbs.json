@@ -10,16 +10,21 @@
       "category": null,
       "headline": "Publication of a Supplement",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-a-supplement/9884432",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing to update the prospectus for an existing equity-linked note series, indicating no new strategic direction or capital raising activity.",
+      "key_themes": [
+        "Administrative",
+        "Structured Products"
+      ]
     },
     {
       "timestamp": "2026-11-10T13:30:00",
       "category": null,
       "headline": "Notice to Bondholders",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/notice-to-bondholders/9868105",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -30,6 +35,7 @@
       "category": null,
       "headline": "Notice to Bondholders",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/notice-to-bondholders/9843671",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,6 +46,7 @@
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/admission-to-trading/9825684",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +57,7 @@
       "category": null,
       "headline": "Publication of Final Terms",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-final-terms/9820954",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +68,7 @@
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/admission-to-trading/9797116",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -70,16 +79,21 @@
       "category": null,
       "headline": "Publication of Offering Circular",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-offering-circular/9794566",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing for the issuance of additional Core Capital Deferred Shares to meet Basel III capital requirements, reflecting routine funding management rather than strategic transformation or distress.",
+      "key_themes": [
+        "Capital Raising",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-09-28T11:22:00",
       "category": "Results",
       "headline": "Tender Offer - Results Announcement",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/tender-offer-results-announcement/9794231",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative closure of a capital instrument tender offer rather than a fundamental business update; while it confirms the reduction of Tier 1 capital obligations, it lacks the transformative catalysts required for significant price action in the UK financial sector.",
@@ -93,6 +107,7 @@
       "category": null,
       "headline": "Publication of Final Terms",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-final-terms/9793931",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -103,16 +118,21 @@
       "category": null,
       "headline": "Tender Offer - Maximum Acceptance Amount",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/tender-offer-maximum-acceptance-amount/9785212",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative tender offer for the Nationwide Building Society Core Capital Deferred Shares, reflecting routine capital management rather than strategic transformation. While it provides liquidity to holders, it has negligible impact on the broader UK banking sector or equity valuation dynamics.",
+      "key_themes": [
+        "Capital Management",
+        "Administrative Action"
+      ]
     },
     {
       "timestamp": "2026-09-22T09:30:00",
       "category": null,
       "headline": "Notice to Bondholders",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/notice-to-bondholders/9784477",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -123,36 +143,49 @@
       "category": null,
       "headline": "Notice to Holders",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/notice-to-holders/9781909",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice regarding the minimum holding requirement for Nationwide's Core Capital Deferred Shares, indicating no material corporate action or financial performance shift.",
+      "key_themes": [
+        "Administrative",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-09-21T08:33:00",
       "category": null,
       "headline": "Tender Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/tender-offer/9781760",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard capital management exercise for a UK building society, allowing it to reduce its regulatory capital base by repurchasing shares from willing holders without the volatility of an open market buyback. It signals no fundamental change in strategy or financial health, merely routine balance sheet optimization common among peer institutions like Halifax or Yorkshire Building Society.",
+      "key_themes": [
+        "Capital Management",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-09-18T09:38:00",
       "category": null,
       "headline": "Admission of Covered Bonds to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/admission-of-covered-bonds-to-trading/9779660",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard listing procedure for covered bonds issued by the Nationwide Building Society, which are debt instruments rather than equity; it has no direct impact on the share price or capital structure of the parent entity.",
+      "key_themes": [
+        "debt_issuance",
+        "administrative"
+      ]
     },
     {
       "timestamp": "2026-09-17T16:14:00",
       "category": null,
       "headline": "Publication of Final Terms",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-final-terms-/9778313",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -163,6 +196,7 @@
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/admission-to-trading/9773473",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -173,6 +207,7 @@
       "category": null,
       "headline": "Final Terms",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/final-terms/9768537",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -183,46 +218,64 @@
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/directorate-change/9749183",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative update regarding the board composition of a non-listed subsidiary entity within the Nationwide Building Society group, carrying no direct market-moving implications for the parent organization's equity or debt instruments.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-21T15:32:00",
       "category": null,
       "headline": "Notification Admission to trading of Covered Bonds",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/notification-admission-to-trading-of-covered-bonds/9735017",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notification regarding the trading status of Covered Bonds, which are debt instruments rather than equity; it has no direct impact on Nationwide's share price or capital position.",
+      "key_themes": [
+        "administrative",
+        "debt_issuance"
+      ]
     },
     {
       "timestamp": "2026-08-20T16:15:00",
       "category": null,
       "headline": "Notification Admission to trading of Covered Bonds",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/notification-admission-to-trading-of-covered-bonds/9732841",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notification regarding the trading status of covered bonds, which are debt instruments rather than equity; it has no direct impact on Nationwide's share price or capital position.",
+      "key_themes": [
+        "administrative",
+        "debt_markets"
+      ]
     },
     {
       "timestamp": "2026-08-19T16:00:00",
       "category": null,
       "headline": "Notification Admission to trading of Covered Bonds",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/notification-admission-to-trading-of-covered-bonds/9730555",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory notification confirming the listing of covered bonds, which are secured debt instruments issued by UK building societies to fund mortgages; it has no direct impact on the equity value of Nationwide Building Society as it remains a private entity.",
+      "key_themes": [
+        "covered bonds",
+        "debt issuance",
+        "regulatory filing"
+      ]
     },
     {
       "timestamp": "2026-08-19T14:45:00",
       "category": null,
       "headline": "Publication of Final Terms",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-final-terms-/9730420",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -233,6 +286,7 @@
       "category": null,
       "headline": "Publication of Final Terms",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-final-terms/9729863",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -243,6 +297,7 @@
       "category": "Results",
       "headline": "Results RNS - Re-sale of CCDS",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/results-rns-re-sale-of-ccds-/9728122",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This announcement concerns the resale of existing CCDS instruments by a shareholder rather than a corporate capital raise or operational result, representing a routine secondary market transaction with no direct impact on Nationwide's balance sheet or strategic direction.",
@@ -256,6 +311,7 @@
       "category": null,
       "headline": "Publication of Final Terms",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-final-terms-/9727689",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -266,56 +322,79 @@
       "category": null,
       "headline": "Proposed re-sale of Core Capital Deferred Shares",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/proposed-re-sale-of-core-capital-deferred-shares/9725117",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard secondary market transaction by the issuer to satisfy employee share scheme obligations, not a primary capital raise or strategic shift. It has negligible dilution impact and no bearing on Nationwide's core banking fundamentals or regulatory capital position.",
+      "key_themes": [
+        "secondary offering",
+        "employee incentives",
+        "low impact"
+      ]
     },
     {
       "timestamp": "2026-08-04T09:39:00",
       "category": null,
       "headline": "Redemption of Securities",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/redemption-of-securities/9703537",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This redemption represents a standard capital management action for the Core Capital Deferred Shares (CCDS), which are perpetual instruments with no fixed maturity. While it reduces the equity base slightly, it is a routine administrative event for Nationwide's hybrid capital structure rather than a strategic shift or liquidity crisis signal.",
+      "key_themes": [
+        "capital_management",
+        "hybrid_securities",
+        "routine_administrative"
+      ]
     },
     {
       "timestamp": "2026-07-31T11:50:00",
       "category": null,
       "headline": "Virgin Money UK PLC Change of Name",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/virgin-money-uk-plc-change-of-name/9698677",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a purely administrative rebranding event with zero fundamental impact on Nationwide's capital position or lending strategy, reflecting the ongoing consolidation in the UK mortgage market where Virgin Money has been absorbed into the Lloyds Banking Group.",
+      "key_themes": [
+        "administrative",
+        "rebranding"
+      ]
     },
     {
       "timestamp": "2026-07-21T13:41:00",
       "category": null,
       "headline": "Publication of Supplement",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-supplement-/9680202",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing updating the prospectus for an existing Core Capital Deferred Share scheme, likely reflecting minor regulatory or operational changes rather than strategic shifts. Such supplements are routine in UK banking capital management and carry no immediate market-moving implications.",
+      "key_themes": [
+        "Capital Management",
+        "Regulatory Filing"
+      ]
     },
     {
       "timestamp": "2026-07-15T15:15:00",
       "category": "AGM/EGM",
       "headline": "Results of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/results-of-agm-/9670912",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard procedural disclosure confirming the outcome of an Annual General Meeting for a non-listed building society entity, carrying no immediate market-moving implications or strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-07-14T13:38:00",
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/admission-to-trading/9668380",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -326,6 +405,7 @@
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/admission-to-trading/9668359",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -336,6 +416,7 @@
       "category": null,
       "headline": "Publication of Final Terms",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-final-terms/9661788",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -346,6 +427,7 @@
       "category": null,
       "headline": "Publication of Final Terms",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-final-terms/9661783",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -356,16 +438,21 @@
       "category": null,
       "headline": "Notice of Result of Bondholder Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/notice-of-result-of-bondholder-meeting-/9656418",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a procedural administrative update regarding the outcome of a bondholder meeting for existing debt instruments, not an equity event; it carries no direct implication for the share price or strategic direction of Nationwide Building Society.",
+      "key_themes": [
+        "administrative",
+        "debt_management"
+      ]
     },
     {
       "timestamp": "2026-06-30T13:04:00",
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/admission-to-trading/9644818",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -376,6 +463,7 @@
       "category": null,
       "headline": "Publication of Final Terms",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-final-terms/9639790",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -386,6 +474,7 @@
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/admission-to-trading/9637217",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -396,6 +485,7 @@
       "category": null,
       "headline": "Publication of Final Terms",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-final-terms/9632389",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -406,6 +496,7 @@
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/admission-to-trading/9632235",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -416,16 +507,21 @@
       "category": null,
       "headline": "Notice to Covered Bondholders",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/notice-to-covered-bondholders/9618909",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice regarding the issuance of covered bonds, a routine funding mechanism for UK building societies to secure low-cost wholesale finance; it carries no immediate pricing or strategic implication for equity holders.",
+      "key_themes": [
+        "funding",
+        "administrative"
+      ]
     },
     {
       "timestamp": "2026-06-15T12:40:00",
       "category": null,
       "headline": "Publication of a Supplementary Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-a-supplementary-prospectus/9618824",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -436,36 +532,50 @@
       "category": null,
       "headline": "Publication of a Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-a-prospectus/9616573",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard regulatory filing for the prospectus governing the Nationwide Core Capital Deferred Shares, reflecting routine capital structure maintenance rather than a transformative event. While essential for investor transparency regarding the hybrid nature of these instruments, it carries no immediate pricing or strategic implication beyond existing market expectations.",
+      "key_themes": [
+        "Capital Structure",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-06-12T11:31:00",
       "category": null,
       "headline": "Publication of Registration Document",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-registration-document-/9616287",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing for the UK's largest mutual lender, serving as a procedural prerequisite for capital issuance rather than a market-moving event in itself; it reflects routine compliance within the stable, albeit low-growth, UK banking sector.",
+      "key_themes": [
+        "Regulatory Compliance",
+        "Mutual Sector",
+        "Capital Markets"
+      ]
     },
     {
       "timestamp": "2026-06-12T11:24:00",
       "category": null,
       "headline": "Publication of a Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-a-prospectus/9616267",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard regulatory filing to update the prospectus for Nationwide's CCDS notes, likely reflecting routine market conditions or minor administrative updates rather than a strategic shift in capital structure.",
+      "key_themes": [
+        "Regulatory Compliance",
+        "Capital Instruments"
+      ]
     },
     {
       "timestamp": "2026-06-09T11:15:00",
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/admission-to-trading/9609253",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -476,6 +586,7 @@
       "category": null,
       "headline": "NOTICE TO NOTEHOLDERS",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/notice-to-noteholders/9606968",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -486,6 +597,7 @@
       "category": null,
       "headline": "Publication of Final Terms",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-final-terms/9604969",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,

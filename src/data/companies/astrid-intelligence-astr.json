@@ -10,26 +10,37 @@
       "category": null,
       "headline": "Subnet 127 update: Zils and OTC token sale",
       "url": "https://www.investegate.co.uk/announcement/rns/astrid-intelligence-plc--astr/subnet-127-update-zils-and-otc-token-sale/9857933",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The announcement of a token sale via Zils and OTC channels signals a pivot toward crypto-native fundraising, which may dilute existing shareholders while providing liquidity in a volatile sector; this reflects the broader trend of AI firms leveraging blockchain infrastructure for capital efficiency.",
+      "key_themes": [
+        "tokenization",
+        "capital_raise",
+        "blockchain_integration"
+      ]
     },
     {
       "timestamp": "2026-10-01T12:12:00",
       "category": null,
       "headline": "Green Compute Partnership and Operational Update",
       "url": "https://www.investegate.co.uk/announcement/rns/astrid-intelligence-plc--astr/green-compute-partnership-and-operational-update/9802115",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The pivot to green compute aligns with the UK's net-zero infrastructure push and growing AI energy demands, offering a strategic diversification from pure software play; however, execution risk remains high given Astrid's small-cap status and the capital intensity of hardware partnerships.",
+      "key_themes": [
+        "Green Tech",
+        "AI Infrastructure",
+        "Strategic Partnership"
+      ]
     },
     {
       "timestamp": "2026-06-18T12:35:00",
       "category": "Director Dealing",
       "headline": "Corrective announcement - Directors' Dealing",
       "url": "https://www.investegate.co.uk/announcement/rns/astrid-intelligence-plc--astr/corrective-announcement-directors-dealing-/9625893",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a routine administrative correction to a previous director dealing notification, likely involving a minor share transaction or clerical error. Such filings have negligible fundamental impact on Astrid Intelligence's valuation or strategic direction in the AI sector.",
@@ -43,10 +54,14 @@
       "category": "Director Dealing",
       "headline": "Director’s Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/astrid-intelligence-plc--astr/director-s-dealings/9624153",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealings in the AI infrastructure space typically signal internal alignment rather than strategic shifts; without volume or price context, this lacks the materiality to influence valuation multiples for ASTR.",
+      "key_themes": [
+        "Corporate Governance",
+        "Insider Activity"
+      ]
     }
   ]
 }

@@ -10,6 +10,7 @@
       "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/power-metal-resources--pow/tr-1-notification-of-major-holdings/9821006",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,26 +21,35 @@
       "category": null,
       "headline": "Tati Gold  – Commencement of On-Site Operations",
       "url": "https://www.investegate.co.uk/announcement/rns/power-metal-resources--pow/tati-gold-commencement-of-on-site-operations-/9744327",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "Marks a critical execution milestone for Tati Gold, transitioning from exploration to production which validates the project's technical feasibility and de-risks the asset relative to earlier stages. However, as a junior explorer, the immediate financial impact is limited by high capex requirements and operational risks typical of African mining jurisdictions.",
+      "key_themes": [
+        "Project Development",
+        "Operational Milestone"
+      ]
     },
     {
       "timestamp": "2026-06-25T12:20:00",
       "category": "AGM/EGM",
       "headline": "Results of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/power-metal-resources--pow/results-of-annual-general-meeting/9637211",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine AGM results for a junior exploration firm typically involve rubber-stamping governance items with negligible immediate financial impact, reflecting the standard administrative lifecycle of small-cap equity markets.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-15T14:56:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/power-metal-resources--pow/holding-s-in-company/9619045",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +60,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/power-metal-resources--pow/holding-s-in-company/9619038",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -60,6 +71,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/power-metal-resources--pow/holding-s-in-company/9619031",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

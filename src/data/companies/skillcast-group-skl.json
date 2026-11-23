@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Investor Presentation via Investor Meet Company",
       "url": "https://www.investegate.co.uk/announcement/rns/skillcast-group--skl/investor-presentation-via-investor-meet-company/9758633",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Results",
       "headline": "Trading Update and Notice of Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/skillcast-group--skl/trading-update-and-notice-of-interim-results-/9680721",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a small-cap edtech firm navigating post-pandemic normalization, this interim update is critical for validating the sustainability of its B2B subscription model and cash flow generation amid potential macro headwinds.",
@@ -34,26 +36,35 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/skillcast-group--skl/result-of-agm/9632368",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no immediate financial or strategic weight for Skillcast's valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-06-10T14:10:00",
       "category": "Director Dealing",
       "headline": "Director Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/skillcast-group--skl/director-dealings-/9611933",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealings in the corporate learning sector typically reflect individual portfolio management rather than strategic shifts, offering no immediate signal of value creation or distress amidst a competitive EdTech landscape.",
+      "key_themes": [
+        "corporate governance",
+        "minor administrative"
+      ]
     },
     {
       "timestamp": "2026-05-28T10:54:00",
       "category": null,
       "headline": "Grant of share options",
       "url": "https://www.investegate.co.uk/announcement/rns/skillcast-group--skl/grant-of-share-options/9589989",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -64,6 +75,7 @@
       "category": "Dividend",
       "headline": "Notice of AGM and dividend declaration",
       "url": "https://www.investegate.co.uk/announcement/rns/skillcast-group--skl/notice-of-agm-and-dividend-declaration/9588699",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,

@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/medpal-ai-plc--mpal/exercise-of-warrants/9858353",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Trading Update",
       "headline": "October Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/medpal-ai-plc--mpal/october-trading-update-/9856826",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 4,
       "insight": "Routine monthly trading updates for small-cap AIM tech firms like Medpal AI typically offer limited incremental value to institutional investors compared to quarterly financial statements, reflecting standard operational monitoring rather than strategic shifts or material performance deviations.",
@@ -34,36 +36,50 @@
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/medpal-ai-plc--mpal/result-of-general-meeting/9848938",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at Medpal AI's AGM/EGM, which typically involves routine matters like director appointments or fee approvals rather than strategic shifts.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-10-15T07:00:00",
       "category": null,
       "headline": "New Health and Mounjaro",
       "url": "https://www.investegate.co.uk/announcement/rns/medpal-ai-plc--mpal/new-health-and-mounjaro/9823594",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The announcement leverages the high-profile GLP-1 obesity drug narrative to drive speculative interest in a micro-cap AI stock, though without concrete commercial integration details, it remains a marketing play rather than a fundamental shift.",
+      "key_themes": [
+        "GLP-1",
+        "Weight Loss",
+        "AI Healthcare"
+      ]
     },
     {
       "timestamp": "2026-10-09T11:00:00",
       "category": null,
       "headline": "Circular and Notice of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/medpal-ai-plc--mpal/circular-and-notice-of-general-meeting/9815864",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice for a general meeting, likely related to routine corporate governance or minor authorizations rather than transformative capital events. For MPAL, such filings are common but lack the immediate catalyst value of earnings updates or strategic partnerships.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-10-08T07:00:00",
       "category": "Trading Update",
       "headline": "Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/medpal-ai-plc--mpal/trading-update/9812200",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap AI software firm with limited liquidity, any trading update carries disproportionate weight for sentiment; however, without specific financial metrics in the headline, it remains a routine operational disclosure rather than a transformative event.",
@@ -78,16 +94,21 @@
       "category": null,
       "headline": "September Update and Circular to Shareholders",
       "url": "https://www.investegate.co.uk/announcement/rns/medpal-ai-plc--mpal/september-update-and-circular-to-shareholders/9807662",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine monthly operational update for a pre-revenue AI biotech; lacks material catalysts to alter valuation multiples or signal immediate commercial traction.",
+      "key_themes": [
+        "operational_update",
+        "pre_revenue"
+      ]
     },
     {
       "timestamp": "2026-09-21T07:00:00",
       "category": "Trading Update",
       "headline": "Issue of Equity and Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/medpal-ai-plc--mpal/issue-of-equity-and-trading-update/9780789",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "The dual nature of this announcement—capital raising alongside a trading update—is critical for assessing Medpal AI's liquidity runway and execution risk in the competitive UK digital health sector. While equity issuance dilutes existing shareholders, it provides essential capital to sustain operations during the current challenging market environment for growth-stage tech.",
@@ -103,6 +124,7 @@
       "category": null,
       "headline": "Exercise of Warrants",
       "url": "https://www.investegate.co.uk/announcement/rns/medpal-ai-plc--mpal/exercise-of-warrants/9767991",
+      "routine_type": "Employee Share Schemes",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -113,46 +135,65 @@
       "category": "Appointment",
       "headline": "Board Change and Issue of Options",
       "url": "https://www.investegate.co.uk/announcement/rns/medpal-ai-plc--mpal/board-change-and-issue-of-options/9762959",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine administrative updates regarding board composition and equity incentives are standard for AIM-listed growth companies like Medpal AI to retain talent, but lack the transformative catalysts required for significant price action in the current volatile biotech sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Equity Incentives"
+      ]
     },
     {
       "timestamp": "2026-09-04T11:54:00",
       "category": "Acquisition",
       "headline": "Completion of eMARx Acquisition-Issue of Equity",
       "url": "https://www.investegate.co.uk/announcement/rns/medpal-ai-plc--mpal/completion-of-emarx-acquisition-issue-of-equity/9756694",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This acquisition expands Medpal AI's eMARx platform into the US market, a critical growth vector for UK-based digital health firms seeking scale beyond domestic constraints. Dilution from the equity issue is a standard trade-off for accelerating international expansion in the competitive medtech sector.",
+      "key_themes": [
+        "International Expansion",
+        "Equity Dilution",
+        "Digital Health"
+      ]
     },
     {
       "timestamp": "2026-09-01T10:24:00",
       "category": null,
       "headline": "FDA Approval of Mounjaro for Heart Protection",
       "url": "https://www.investegate.co.uk/announcement/rns/medpal-ai-plc--mpal/fda-approval-of-mounjaro-for-heart-protection/9749319",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a material event for Eli Lilly (LLY), not Medpal AI; the headline reflects an external regulatory development unrelated to MPAL's core business of pharmaceutical supply chain technology, indicating zero direct financial impact or strategic alignment.",
+      "key_themes": [
+        "irrelevant_news",
+        "market_noise"
+      ]
     },
     {
       "timestamp": "2026-08-11T10:56:00",
       "category": null,
       "headline": "UK Authorises Eli Lilly's Once Daily GLP-1 Pill",
       "url": "https://www.investegate.co.uk/announcement/rns/medpal-ai-plc--mpal/uk-authorises-eli-lilly-s-once-daily-glp-1-pill/9715779",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This regulatory milestone for Eli Lilly's oral GLP-1 represents a significant competitive threat to Medpal AI's core value proposition of developing non-injectable obesity treatments, potentially compressing future market share and valuation multiples in the niche.",
+      "key_themes": [
+        "Competitive Threat",
+        "GLP-1 Market",
+        "Obesity Drug Delivery"
+      ]
     },
     {
       "timestamp": "2026-08-04T07:00:00",
       "category": "Trading Update",
       "headline": "July Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/medpal-ai-plc--mpal/july-trading-update/9702437",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a micro-cap AI software firm with limited liquidity, any trading update provides rare visibility into revenue velocity and customer acquisition costs, which is critical for validating the 'AI premium' valuation in a sector currently facing intense scrutiny over monetisation timelines.",
@@ -167,6 +208,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/medpal-ai-plc--mpal/total-voting-rights/9702010",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -177,16 +219,22 @@
       "category": "Acquisition",
       "headline": "Acquisition of eMARx",
       "url": "https://www.investegate.co.uk/announcement/rns/medpal-ai-plc--mpal/acquisition-of-emarx/9675774",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This acquisition aligns with Medpal AI's strategy to expand its digital health portfolio by integrating eMARx's medication administration technology, enhancing its value proposition in the UK NHS and care home sectors through improved clinical workflow automation.",
+      "key_themes": [
+        "Digital Health",
+        "Strategic Expansion",
+        "NHS Technology"
+      ]
     },
     {
       "timestamp": "2026-07-03T07:00:00",
       "category": "Placing",
       "headline": "Placing to raise £5m",
       "url": "https://www.investegate.co.uk/announcement/rns/medpal-ai-plc--mpal/placing-to-raise-5m/9650670",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "The £5m placing provides essential liquidity for Medpal AI to accelerate its commercialisation of AI-driven pharmacy automation, a critical move in a sector facing severe staffing shortages and margin pressure. While dilutive, this capital injection supports the strategic pivot from R&D to revenue generation, aligning with recent trends where UK medtech firms are raising cash to bridge the gap between prototype and scale.",
@@ -201,6 +249,7 @@
       "category": "Results",
       "headline": "Approval of First Oral GLP-1 for Weight Loss in UK",
       "url": "https://www.investegate.co.uk/announcement/rns/medpal-ai-plc--mpal/approval-of-first-oral-glp-1-for-weight-loss-in-uk/9614700",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 9,
       "insight": "This regulatory milestone validates Medpal AI's proprietary oral delivery technology in the rapidly expanding GLP-1 market, directly challenging injectable incumbents like Novo Nordisk and Eli Lilly while establishing a high-value commercial precedent for non-invasive obesity treatments.",
@@ -216,20 +265,29 @@
       "category": null,
       "headline": "Launch of new.co.uk Marketing Campaign",
       "url": "https://www.investegate.co.uk/announcement/rns/medpal-ai-plc--mpal/launch-of-new-co-uk-marketing-campaign/9610040",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard commercial marketing announcement with no immediate financial impact on revenue or earnings; such campaigns are routine for growth-stage tech firms and do not signal material operational shifts or valuation catalysts.",
+      "key_themes": [
+        "Marketing",
+        "Commercial Activity"
+      ]
     },
     {
       "timestamp": "2026-05-29T07:00:00",
       "category": "Results",
       "headline": "Half-year Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/medpal-ai-plc--mpal/half-year-financial-report/9590889",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a micro-cap AI software firm with limited liquidity, this interim report provides essential visibility into revenue traction and cash burn rates critical for assessing the likelihood of dilutive capital raising in a volatile tech sector.",
+      "key_themes": [
+        "interim results",
+        "AI sector",
+        "liquidity risk"
+      ]
     }
   ]
 }

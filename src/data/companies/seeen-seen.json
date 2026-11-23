@@ -10,36 +10,49 @@
       "category": null,
       "headline": "Attendance at MelloLondon Investor Conference",
       "url": "https://www.investegate.co.uk/announcement/rns/seeen--seen/attendance-at-mellolondon-investor-conference/9875798",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Attendance at investor conferences is a standard visibility exercise for small-cap tech firms like Seeen, offering no immediate financial catalyst or material change in fundamentals.",
+      "key_themes": [
+        "Investor Relations",
+        "Market Visibility"
+      ]
     },
     {
       "timestamp": "2026-10-01T07:01:00",
       "category": null,
       "headline": "MelloMonday investor webinar",
       "url": "https://www.investegate.co.uk/announcement/rns/seeen--seen/mellomonday-investor-webinar/9800419",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Investor webinars are standard IR maintenance activities that rarely signal material fundamental shifts or immediate catalysts for SEEN's valuation.",
+      "key_themes": [
+        "investor_relations",
+        "routine_communication"
+      ]
     },
     {
       "timestamp": "2026-10-01T07:00:00",
       "category": "Director Dealing",
       "headline": "Directors' dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/seeen--seen/directors-dealings/9800252",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine director dealings in the small-cap tech space typically signal low institutional interest and limited near-term catalysts, reflecting standard liquidity management rather than strategic shifts.",
+      "key_themes": [
+        "low_volatility",
+        "small_cap"
+      ]
     },
     {
       "timestamp": "2026-09-30T07:00:00",
       "category": "Results",
       "headline": "Interim Results for six months ended 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/seeen--seen/interim-results-for-six-months-ended-30-june-2026/9797705",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a pre-revenue AI infrastructure firm, this interim report is critical for validating burn rate efficiency and technical milestones ahead of the anticipated IPO window; any deviation in cash runway or progress against strategic KPIs will heavily influence investor sentiment in the volatile UK tech sector.",
@@ -54,16 +67,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/seeen--seen/result-of-agm/9754865",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no immediate financial or strategic weight for Seeen's valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-08-05T07:00:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/seeen--seen/holding-s-in-company/9704879",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -74,36 +92,49 @@
       "category": null,
       "headline": "Restoration - SEEEN Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/seeen--seen/restoration-seeen-plc/9700555",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Restoration announcements are typically administrative updates regarding the reinstatement of a company's listing status following a period of suspension or delisting risk, rather than fundamental operational changes. For SEEN, this signals regulatory compliance and liquidity restoration but does not inherently alter the underlying business valuation or growth trajectory.",
+      "key_themes": [
+        "Corporate Governance",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-07-23T12:08:00",
       "category": null,
       "headline": "Update on timing of publication of Annual Accounts",
       "url": "https://www.investegate.co.uk/announcement/rns/seeen--seen/update-on-timing-of-publication-of-annual-accounts/9684594",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard administrative update regarding filing timelines rather than a substantive trading or financial disclosure; while delays can sometimes signal underlying audit complexities, without specific warnings on performance or governance issues, the immediate market impact remains negligible.",
+      "key_themes": [
+        "Corporate Governance",
+        "Regulatory Filing"
+      ]
     },
     {
       "timestamp": "2026-07-01T07:30:00",
       "category": null,
       "headline": "Suspension - SEEEN plc",
       "url": "https://www.investegate.co.uk/announcement/rns/seeen--seen/suspension-seeen-plc/9646475",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Suspension of SEEN plc signals severe liquidity crisis or potential insolvency, a critical red flag in the current UK micro-cap sector where delisting risks are elevated for distressed tech firms.",
+      "key_themes": [
+        "Liquidity Crisis",
+        "Delisting Risk"
+      ]
     },
     {
       "timestamp": "2026-06-30T15:18:00",
       "category": "Results",
       "headline": "Delay to Final Results and Temporary Suspension",
       "url": "https://www.investegate.co.uk/announcement/rns/seeen--seen/delay-to-final-results-and-temporary-suspension/9645152",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 8,
       "insight": "The combination of delayed final results and temporary suspension signals severe underlying financial distress or potential irregularities, raising immediate solvency concerns for this micro-cap tech firm amidst a challenging funding environment.",
@@ -118,6 +149,7 @@
       "category": null,
       "headline": "Total Voting Rights",
       "url": "https://www.investegate.co.uk/announcement/rns/seeen--seen/total-voting-rights/9644393",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

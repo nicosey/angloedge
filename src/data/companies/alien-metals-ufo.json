@@ -10,6 +10,7 @@
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/notice-of-agm/9870330",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,66 +21,92 @@
       "category": null,
       "headline": "GreenTech drilling intersects copper near Whundo",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/greentech-drilling-intersects-copper-near-whundo-/9831875",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "While the discovery of copper near Whundo adds a potential secondary commodity stream to Alien Metals' nickel-cobalt focus, it is exploratory in nature and lacks immediate commercial valuation or resource definition. In the current UK AIM mining sector, such drill results are routine exploration updates that rarely drive significant re-rating without defined resources or infrastructure plans.",
+      "key_themes": [
+        "Exploration Update",
+        "Base Metals",
+        "Alien Metals"
+      ]
     },
     {
       "timestamp": "2026-10-09T07:00:00",
       "category": null,
       "headline": "Corporate Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/corporate-presentation/9814573",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Corporate presentations are standard investor relations tools that rarely convey new material information or trigger immediate price action without accompanying financial data or transaction details.",
+      "key_themes": [
+        "Investor Relations",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-10-08T10:49:00",
       "category": null,
       "headline": "Loan Facility Extension & Corporate Update",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/loan-facility-extension-corporate-update-/9813679",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The extension of a loan facility is a standard administrative maintenance of liquidity rather than a transformative event; for a junior explorer like Alien Metals, it signals operational continuity but lacks the strategic weight or capital injection required to move the needle significantly.",
+      "key_themes": [
+        "Liquidity Management",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-10-06T07:01:00",
       "category": null,
       "headline": "GreenTech Completes Munni Munni Heritage Survey",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/greentech-completes-munni-munni-heritage-survey/9807828",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Completion of heritage surveys is a standard regulatory prerequisite for mining projects in Western Australia, indicating procedural progress rather than commercial catalyst; it mitigates future permitting risk but does not alter the asset's fundamental valuation or near-term development timeline.",
+      "key_themes": [
+        "regulatory_compliance",
+        "project_development"
+      ]
     },
     {
       "timestamp": "2026-10-06T07:00:00",
       "category": null,
       "headline": "Regional Geophysics Targets Elizabeth Hill Repeats",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/regional-geophysics-targets-elizabeth-hill-repeats/9807664",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement represents a standard exploration update targeting known mineralised zones at Elizabeth Hill, lacking the transformative catalysts required for significant price appreciation in the current speculative mining sector.",
+      "key_themes": [
+        "Exploration Update",
+        "Nickel-Copper-PGE"
+      ]
     },
     {
       "timestamp": "2026-10-02T11:58:00",
       "category": null,
       "headline": "Investor Webinar",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/investor-webinar/9804597",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Investor webinars are standard investor relations activities for junior explorers like Alien Metals to maintain visibility in the critical lithium sector, but they carry no immediate financial or operational weight compared to drilling results or resource updates.",
+      "key_themes": [
+        "investor_relations",
+        "lithium_sector"
+      ]
     },
     {
       "timestamp": "2026-09-30T14:26:00",
       "category": "Results",
       "headline": "Results for the Six Months Ended 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/results-for-the-six-months-ended-30-june-2026/9799542",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a junior explorer, this interim report likely focuses on exploration progress rather than financial performance, reflecting the sector's reliance on geological data over immediate revenue generation.",
@@ -93,176 +120,252 @@
       "category": null,
       "headline": "Diamond Drilling to Commence at Elizabeth Hill",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/diamond-drilling-to-commence-at-elizabeth-hill-/9795247",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The commencement of diamond drilling at Elizabeth Hill marks a critical transition from exploration to resource definition for Alien Metals, directly impacting the valuation of its nickel-copper-sulfide assets in Western Australia's East Pilbara region. While routine for junior miners, this phase is pivotal for de-risking the project and attracting institutional interest amid the current supply chain focus on critical minerals.",
+      "key_themes": [
+        "Exploration Update",
+        "Nickel",
+        "Western Australia"
+      ]
     },
     {
       "timestamp": "2026-09-22T07:00:00",
       "category": null,
       "headline": "New Priority Silver Target Adjacent Elizabeth Hill",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/new-priority-silver-target-adjacent-elizabeth-hill/9783274",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Highlights exploration potential adjacent to a known producing asset, which is standard for junior miners but lacks immediate revenue impact; market reaction will depend on the scale of the silver anomaly relative to Alien Metals' existing gold-focused portfolio.",
+      "key_themes": [
+        "Exploration",
+        "Silver",
+        "Elizabeth Hill"
+      ]
     },
     {
       "timestamp": "2026-09-14T07:00:00",
       "category": null,
       "headline": "GreenTech Intersects High-Grade Copper at Whundo",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/greentech-intersects-high-grade-copper-at-whundo/9769147",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "High-grade copper intersections at Whundo validate the project's potential as a critical mineral asset in a supply-constrained market, though as an exploration-stage entity, this remains a technical milestone rather than an immediate financial catalyst.",
+      "key_themes": [
+        "Critical Minerals",
+        "Exploration Update"
+      ]
     },
     {
       "timestamp": "2026-09-01T07:00:00",
       "category": null,
       "headline": "West Coast Silver A$6 million placement",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/west-coast-silver-a-6-million-placement/9747540",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The A$6 million placement provides essential liquidity for West Coast Silver's exploration and development activities in a capital-intensive junior mining sector, mitigating immediate dilution risks while supporting project advancement.",
+      "key_themes": [
+        "Capital Raise",
+        "Junior Mining",
+        "Dilution"
+      ]
     },
     {
       "timestamp": "2026-08-27T07:00:00",
       "category": null,
       "headline": "Elizabeth Hill Diamond Drilling Confirms Silver",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/elizabeth-hill-diamond-drilling-confirms-silver-/9742136",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard exploration update confirming silver presence within the Elizabeth Hill project; while it validates the asset's potential, it lacks the high-grade intercepts or resource definition required to materially alter valuation multiples in the current junior mining sector.",
+      "key_themes": [
+        "Exploration Update",
+        "Silver",
+        "Diamond Drilling"
+      ]
     },
     {
       "timestamp": "2026-08-17T07:00:00",
       "category": null,
       "headline": "12-Month Programme to Advance Georgina IOCG Target",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/12-month-programme-to-advance-georgina-iocg-target/9723850",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This represents a standard exploration update for a junior miner, confirming continued capital deployment on the Georgina IOCG target rather than any immediate commercial breakthrough or financing event.",
+      "key_themes": [
+        "Exploration Update",
+        "IOCG Sector"
+      ]
     },
     {
       "timestamp": "2026-08-12T07:00:00",
       "category": null,
       "headline": "GreenTech Begins Munni Munni Heritage Survey",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/greentech-begins-munni-munni-heritage-survey/9716735",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Heritage surveys are a standard regulatory prerequisite for mining projects in Australia, indicating procedural progress rather than a commercial catalyst; while it mitigates future permitting risks, it does not immediately alter the asset's valuation or funding requirements.",
+      "key_themes": [
+        "regulatory_compliance",
+        "project_development",
+        "australian_mining"
+      ]
     },
     {
       "timestamp": "2026-08-06T07:00:00",
       "category": "Appointment",
       "headline": "WCE Appointments and Alien Directorate Change",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/wce-appointments-and-alien-directorate-change/9707315",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine executive changes in a junior explorer typically signal internal restructuring rather than immediate value creation; without details on the appointees' track record or specific project milestones, this is unlikely to move the stock significantly.",
+      "key_themes": [
+        "Corporate Governance",
+        "Management Change"
+      ]
     },
     {
       "timestamp": "2026-08-03T07:01:00",
       "category": null,
       "headline": "Corporate and Strategic Update",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/corporate-and-strategic-update/9699912",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "As a junior exploration entity with no production history, this update likely contains routine corporate housekeeping or minor operational milestones that lack immediate financial materiality for UK equity markets.",
+      "key_themes": [
+        "Corporate Governance",
+        "Exploration Update"
+      ]
     },
     {
       "timestamp": "2026-08-03T07:00:00",
       "category": null,
       "headline": "GreenTech commences drill program",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/greentech-commences-drill-program/9699767",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The commencement of drilling is a standard operational milestone for junior explorers like Alien Metals, signaling progress but lacking the transformative financial impact required for higher scoring; value realization remains contingent on assay results rather than this administrative step.",
+      "key_themes": [
+        "Exploration Update",
+        "Junior Mining"
+      ]
     },
     {
       "timestamp": "2026-07-28T07:00:00",
       "category": null,
       "headline": "GreenTech Metals Quarterly Activities Report",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/greentech-metals-quarterly-activities-report/9689927",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Quarterly activity reports for junior explorers like Alien Metals are typically low-impact updates confirming ongoing exploration rather than delivering immediate value drivers; without assay results or resource upgrades, the market views these as routine administrative disclosures.",
+      "key_themes": [
+        "exploration_update",
+        "low_impact"
+      ]
     },
     {
       "timestamp": "2026-07-13T07:00:00",
       "category": null,
       "headline": "Geochemical Review Confirms Munni Munni Targets",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/geochemical-review-confirms-munni-munni-targets/9664239",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This geochemical review serves as a low-impact technical update confirming prior exploration work at Munni Munni, lacking the immediate catalyst of assay results or resource definition required to move the stock significantly.",
+      "key_themes": [
+        "Exploration Update",
+        "Mineral Discovery"
+      ]
     },
     {
       "timestamp": "2026-07-07T07:00:00",
       "category": "Acquisition",
       "headline": "Acquisition of Georgina Basin Copper-Gold Project",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/acquisition-of-georgina-basin-copper-gold-project/9654888",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This acquisition diversifies Alien Metals' portfolio into the prolific Georgina Basin, a key Australian copper-gold jurisdiction, signaling a strategic pivot to scale assets in high-potential regions amidst a broader sector focus on critical minerals.",
+      "key_themes": [
+        "Asset Diversification",
+        "Australian Mining",
+        "Copper-Gold"
+      ]
     },
     {
       "timestamp": "2026-07-06T07:00:00",
       "category": "Appointment",
       "headline": "GreenTech Appoints Chief Geologist",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/greentech-appoints-chief-geologist/9653027",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard operational hire for an exploration-stage junior, lacking the transformative capital or M&A activity required to move the needle; in the current UK mining sector, such appointments are routine governance steps rather than value drivers.",
+      "key_themes": [
+        "Corporate Governance",
+        "Exploration Stage"
+      ]
     },
     {
       "timestamp": "2026-07-03T07:00:00",
       "category": null,
       "headline": "Munni Munni and Whundo Drill Update",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/munni-munni-and-whundo-drill-update/9650666",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Drill updates for junior explorers like Alien Metals are routine data points that rarely move the share price without a defined resource estimate; this falls under minor operational reporting rather than transformative news.",
+      "key_themes": [
+        "Exploration Update",
+        "Junior Mining"
+      ]
     },
     {
       "timestamp": "2026-06-18T11:07:00",
       "category": null,
       "headline": "Elizabeth Hill District Exploration Model Update",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/elizabeth-hill-district-exploration-model-update/9625663",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Exploration model updates for junior miners like Alien Metals are routine technical disclosures that rarely move share prices without accompanying assay results or resource upgrades; this falls under minor administrative updates typical of the speculative exploration sector.",
+      "key_themes": [
+        "exploration",
+        "technical_update"
+      ]
     },
     {
       "timestamp": "2026-06-09T07:01:00",
       "category": null,
       "headline": "Elizabeth Hill Silver Mineralisation Extended",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/elizabeth-hill-silver-mineralisation-extended/9607903",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "While extension of silver mineralisation at Elizabeth Hill is positive for the long-term resource base, it remains a standard exploration update lacking immediate catalysts like drilling results or resource estimates; in the current junior mining sector, such incremental geological data rarely moves share price without accompanying economic viability studies.",
+      "key_themes": [
+        "Exploration Update",
+        "Silver",
+        "Resource Extension"
+      ]
     },
     {
       "timestamp": "2026-06-09T07:00:00",
       "category": "Results",
       "headline": "Results for the Year Ended 31 December 2025",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/results-for-the-year-ended-31-december-2025/9607745",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a junior explorer, the release of annual results is routine administrative disclosure rather than a market-moving event, lacking the transformative M&A or capital raise activity required for higher scoring.",
@@ -276,6 +379,7 @@
       "category": null,
       "headline": "Exercise of Warrants, Issue of Equity and TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/exercise-of-warrants-issue-of-equity-and-tvr/9598057",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -286,6 +390,7 @@
       "category": null,
       "headline": "Exercise of Warrants, Issue of Equity and TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/alien-metals-limited-npv-di---ufo/exercise-of-warrants-issue-of-equity-and-tvr/9590081",
+      "routine_type": "Total Voting Rights",
       "enriched": false,
       "impact_score": null,
       "insight": null,

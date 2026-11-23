@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/cml-microsystems--cml/holding-s-in-company/9854184",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Results",
       "headline": "Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/cml-microsystems--cml/notice-of-results/9828278",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a standard administrative notice confirming the publication date of results rather than disclosing financial performance itself; it carries no immediate pricing implication for CML Microsystems.",
@@ -33,6 +35,7 @@
       "category": "Director Dealing",
       "headline": "Replacement: Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/cml-microsystems--cml/replacement-director-pdmr-shareholding/9802125",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "This is a standard regulatory filing for a change in PDMR shareholding, likely reflecting routine portfolio rebalancing or tax obligations rather than a strategic signal. In the absence of volume data or context regarding the direction of the trade (buy vs sell), it carries negligible immediate market impact.",
@@ -46,6 +49,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/cml-microsystems--cml/director-pdmr-shareholding/9799600",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing disclosures typically carry negligible market impact unless they signal a coordinated exit by multiple PDMRs; without volume context, this is standard administrative compliance rather than a strategic indicator.",
@@ -59,16 +63,21 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/cml-microsystems--cml/result-of-agm/9716108",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-AGM confirmation of shareholder resolutions with no substantive commercial content, typical for CML Microsystems' current operational phase.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-07-10T14:55:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/cml-microsystems--cml/holding-s-in-company/9663803",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -79,10 +88,14 @@
       "category": "AGM/EGM",
       "headline": "Posting of Annual Report & Notice of AGM 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/cml-microsystems--cml/posting-of-annual-report-notice-of-agm-2026/9654754",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for the upcoming AGM, indicating no immediate material corporate actions or financial disclosures beyond routine governance compliance.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     }
   ]
 }

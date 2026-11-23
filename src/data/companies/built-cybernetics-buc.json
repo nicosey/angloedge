@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/built-cybernetics-plc--buc/director-pdmr-shareholding/9879340",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements for small-cap tech firms like Built Cybernetics typically signal minimal immediate market impact unless accompanied by significant volume or insider cluster activity; without transaction details, this remains an administrative disclosure.",
@@ -23,6 +24,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/built-cybernetics-plc--buc/holding-s-in-company/9873062",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -33,6 +35,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/built-cybernetics-plc--buc/holding-s-in-company/9865973",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -43,6 +46,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/built-cybernetics-plc--buc/holding-s-in-company/9864903",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -53,6 +57,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/built-cybernetics-plc--buc/holding-s-in-company/9863256",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -63,66 +68,92 @@
       "category": "Appointment",
       "headline": "Completion of transaction and appointment of NED",
       "url": "https://www.investegate.co.uk/announcement/rns/built-cybernetics-plc--buc/completion-of-transaction-and-appointment-of-ned/9857903",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine governance update for a micro-cap tech firm; while strengthening the board is positive, it lacks the transformative catalyst required to move the stock price in the current high-interest-rate environment.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap"
+      ]
     },
     {
       "timestamp": "2026-11-02T15:26:00",
       "category": "AGM/EGM",
       "headline": "Result of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/built-cybernetics-plc--buc/result-of-general-meeting/9854117",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine AGM outcomes for a micro-cap tech firm typically involve standard shareholder ratification with minimal market-moving substance, reflecting the company's continued focus on niche cybersecurity operations rather than strategic restructuring or capital expansion.",
+      "key_themes": [
+        "Corporate Governance",
+        "Micro-cap Tech"
+      ]
     },
     {
       "timestamp": "2026-10-13T16:12:00",
       "category": null,
       "headline": "Publication of Circular and Notice of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/built-cybernetics-plc--buc/publication-of-circular-and-notice-of-gm/9821045",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard procedural announcement for a General Meeting, likely related to the circular mentioned in the headline; without details on the agenda (e.g., capital raise or director appointment), it carries no immediate fundamental weight for Built Cybernetics.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-10-13T07:30:00",
       "category": null,
       "headline": "Capital Access Window - Built Cybernetics Plc",
       "url": "https://www.investegate.co.uk/announcement/rns/built-cybernetics-plc--buc/capital-access-window-built-cybernetics-plc/9819799",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The 'Capital Access Window' headline is standard boilerplate for AIM-listed micro-caps to signal ongoing fundraising capabilities rather than announcing a specific transaction; without details on size or pricing, it lacks immediate market-moving substance.",
+      "key_themes": [
+        "fundraising",
+        "liquidity"
+      ]
     },
     {
       "timestamp": "2026-10-13T07:00:00",
       "category": "Placing",
       "headline": "Result of Retail Offer and Restoration of Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/built-cybernetics-plc--buc/result-of-retail-offer-and-restoration-of-trading-/9819148",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 4,
+      "insight": "The restoration of trading following a retail offer typically signals the resolution of a suspension due to share price volatility or administrative delays rather than fundamental corporate change; without details on the placing size or new capital raised, this is primarily an administrative reset for a micro-cap tech firm.",
+      "key_themes": [
+        "Micro-cap",
+        "Administrative Reset",
+        "Cybersecurity Sector"
+      ]
     },
     {
       "timestamp": "2026-10-08T18:15:00",
       "category": "Placing",
       "headline": "WRAP Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/built-cybernetics-plc--buc/wrap-retail-offer/9814418",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 4,
+      "insight": "A WRAP Retail Offer typically facilitates a small-scale equity raise for working capital rather than transformative growth, indicating limited immediate upside potential for the micro-cap cyber security sector.",
+      "key_themes": [
+        "capital_raise",
+        "working_capital"
+      ]
     },
     {
       "timestamp": "2026-10-08T18:14:00",
       "category": "Placing",
       "headline": "Result of Placing and Subscription",
       "url": "https://www.investegate.co.uk/announcement/rns/built-cybernetics-plc--buc/result-of-placing-and-subscription/9814417",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "This capital raise signals a critical need for liquidity in the competitive UK cybersecurity sector, where cash burn is high and consolidation is accelerating; the success of this placing will determine Built Cybernetics' runway to achieve scale or face potential distress.",
@@ -137,30 +168,43 @@
       "category": "Acquisition",
       "headline": "Acquisition and Fundraise",
       "url": "https://www.investegate.co.uk/announcement/rns/built-cybernetics-plc--buc/acquisition-and-fundraise/9813046",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "The dual announcement of an acquisition alongside a fundraise signals aggressive expansion into the high-growth cybersecurity sector, likely to enhance technical capabilities but introducing dilution risk and integration challenges for a small-cap entity.",
+      "key_themes": [
+        "Cybersecurity Expansion",
+        "Capital Raise",
+        "Dilution Risk"
+      ]
     },
     {
       "timestamp": "2026-09-28T07:30:00",
       "category": null,
       "headline": "Capital Access Window - Built Cybernetics PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/built-cybernetics-plc--buc/capital-access-window-built-cybernetics-plc/9793474",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This appears to be a generic administrative filing regarding investor relations access rather than a substantive corporate action, offering no immediate insight into capital raising or strategic shifts.",
+      "key_themes": [
+        "Administrative",
+        "Investor Relations"
+      ]
     },
     {
       "timestamp": "2026-09-11T07:00:00",
       "category": null,
       "headline": "Partial disposal of Aukett + Heese Frankfurt GmbH",
       "url": "https://www.investegate.co.uk/announcement/rns/built-cybernetics-plc--buc/partial-disposal-of-aukett-heese-frankfurt-gmbh/9766664",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This partial disposal of a German subsidiary likely represents portfolio rationalization to reduce overheads or mitigate currency risk rather than a core strategic pivot, reflecting the ongoing pressure on UK engineering firms to streamline operations amid high interest rates.",
+      "key_themes": [
+        "portfolio_rationalization",
+        "cost_reduction"
+      ]
     }
   ]
 }

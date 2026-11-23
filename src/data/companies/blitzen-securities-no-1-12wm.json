@@ -10,26 +10,35 @@
       "category": null,
       "headline": "Cancellation - BLITZEN SECURITIES NO.1 PLC",
       "url": "https://www.investegate.co.uk/announcement/rns/blitzen-securities-no-1-plc--12wm/cancellation-blitzen-securities-no-1-plc/9729348",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Cancellation typically denotes the removal of a previously issued share class or instrument from trading, often following redemption or conversion; for BLITZEN SECURITIES NO.1 PLC, this is an administrative housekeeping event with no direct impact on operational performance or equity valuation.",
+      "key_themes": [
+        "Corporate Action",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-17T11:48:00",
       "category": null,
       "headline": "Notice for Noteholders",
       "url": "https://www.investegate.co.uk/announcement/rns/blitzen-securities-no-1-plc--12wm/notice-for-noteholders/9725390",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice for noteholders, likely confirming the issuance of coupons or maturity details rather than conveying material financial distress or strategic shifts.",
+      "key_themes": [
+        "Administrative",
+        "Debt"
+      ]
     },
     {
       "timestamp": "2026-07-31T13:14:00",
       "category": null,
       "headline": "Notice to Noteholders",
       "url": "https://www.investegate.co.uk/announcement/rns/blitzen-securities-no-1-plc--12wm/notice-to-noteholders/9698864",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,

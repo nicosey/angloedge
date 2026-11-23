@@ -10,36 +10,50 @@
       "category": null,
       "headline": "Q3 and 9 month Production Report",
       "url": "https://www.investegate.co.uk/announcement/rns/hochschild-mining--hoc/q3-and-9-month-production-report/9832838",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Routine operational update for a junior miner where production volumes are secondary to commodity price sensitivity and cost inflation; lacks the strategic catalysts required to move the stock significantly without accompanying guidance changes.",
+      "key_themes": [
+        "Operational Update",
+        "Junior Miner"
+      ]
     },
     {
       "timestamp": "2026-09-09T16:39:00",
       "category": "Dividend",
       "headline": "CORRECTION - Interim Dividend Conversion Rate",
       "url": "https://www.investegate.co.uk/announcement/rns/hochschild-mining--hoc/correction-interim-dividend-conversion-rate/9764060",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative correction to the FX conversion rate for an interim dividend, likely reflecting minor exchange rate fluctuations rather than a change in total payout value. Such notices are routine for UK-listed miners with USD-denominated earnings and carry no strategic or fundamental weight.",
+      "key_themes": [
+        "Administrative",
+        "FX Adjustment",
+        "Corporate Action"
+      ]
     },
     {
       "timestamp": "2026-09-09T16:14:00",
       "category": "Dividend",
       "headline": "Interim Dividend Conversion Rate",
       "url": "https://www.investegate.co.uk/announcement/rns/hochschild-mining--hoc/interim-dividend-conversion-rate/9764040",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement is a mechanical administrative update regarding the currency denomination of the dividend payment rather than a change in payout policy or amount, reflecting standard operational procedures for an ADR-listed entity.",
+      "key_themes": [
+        "Corporate Action",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-08-28T13:08:00",
       "category": null,
       "headline": "Notice of Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/hochschild-mining--hoc/notice-of-investor-presentation-/9746118",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -50,6 +64,7 @@
       "category": "Results",
       "headline": "Interim Results",
       "url": "https://www.investegate.co.uk/announcement/rns/hochschild-mining--hoc/interim-results/9739908",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "Interim results provide critical visibility into Hochschild's operational resilience amidst volatile silver and gold prices, directly impacting investor sentiment on the company's ability to sustain dividends and fund its strategic growth projects in Peru.",
@@ -64,16 +79,22 @@
       "category": null,
       "headline": "Production Report for 6 months ended 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/hochschild-mining--hoc/production-report-for-6-months-ended-30-june-2026/9680678",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "HOC's production update for the first half of 2026 provides critical visibility on operational resilience amidst ongoing cost inflation and geopolitical risks in Peru; sustained output levels are vital to support debt servicing and dividend policy given the company's leveraged balance sheet.",
+      "key_themes": [
+        "Operational Performance",
+        "Commodity Production",
+        "Cost Management"
+      ]
     },
     {
       "timestamp": "2026-06-29T11:05:00",
       "category": null,
       "headline": "Report on Payments to Governments",
       "url": "https://www.investegate.co.uk/announcement/rns/hochschild-mining--hoc/report-on-payments-to-governments/9641838",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -84,6 +105,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/hochschild-mining--hoc/holding-s-in-company/9635426",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,

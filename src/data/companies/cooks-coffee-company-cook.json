@@ -10,6 +10,7 @@
       "category": "Trading Update",
       "headline": "Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/cooks-coffee-company-limited--cook/trading-update-/9866455",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a high-beta consumer discretionary stock, COOK's trading update is critical for gauging the resilience of the premium coffee chain model against persistent cost-of-living pressures and wage inflation in the UK hospitality sector.",
@@ -24,26 +25,35 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/cooks-coffee-company-limited--cook/result-of-agm/9796625",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting confirmation of shareholder resolutions for Cooks Coffee Company Limited, likely covering routine matters such as director re-elections and auditor appointments following the company's recent return to profitability and strategic pivot. While governance updates are necessary for market confidence, they carry no immediate pricing impact compared to operational or capital allocation news.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-09-14T07:00:00",
       "category": "Appointment",
       "headline": "Appointment of Group Marketing Director",
       "url": "https://www.investegate.co.uk/announcement/rns/cooks-coffee-company-limited--cook/appointment-of-group-marketing-director/9769150",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard operational appointment within the high-turnover hospitality sector; while key hires signal strategic focus on brand revitalization, it lacks the transformative weight of M&A or executive succession required to move the stock price significantly.",
+      "key_themes": [
+        "Corporate Governance",
+        "Operational Management"
+      ]
     },
     {
       "timestamp": "2026-08-20T15:27:00",
       "category": "AGM/EGM",
       "headline": "Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/cooks-coffee-company-limited--cook/notice-of-agm-/9732805",
+      "routine_type": "Meeting Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -54,20 +64,28 @@
       "category": null,
       "headline": "Period For Nomination Of Directors",
       "url": "https://www.investegate.co.uk/announcement/rns/cooks-coffee-company-limited--cook/period-for-nomination-of-directors/9693442",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard governance filing required by the UK Corporate Governance Code for annual shareholder approval of the board composition; it carries no immediate financial implication but signals routine continuity rather than strategic upheaval.",
+      "key_themes": [
+        "Corporate Governance",
+        "Board Renewal"
+      ]
     },
     {
       "timestamp": "2026-07-27T07:00:00",
       "category": null,
       "headline": "Publication of ESG Newsletter",
       "url": "https://www.investegate.co.uk/announcement/rns/cooks-coffee-company-limited--cook/publication-of-esg-newsletter/9687636",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine ESG disclosure with no immediate financial or operational impact on COOK's near-term trading; reflects standard governance compliance rather than a catalyst for valuation change.",
+      "key_themes": [
+        "ESG",
+        "Corporate Governance"
+      ]
     }
   ]
 }

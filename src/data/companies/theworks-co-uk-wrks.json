@@ -10,6 +10,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/theworks-co-uk--wrks/director-pdmr-shareholding/9809787",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on WRKS's valuation or operational trajectory, reflecting normal insider activity rather than a strategic shift in the competitive discount retail sector.",
@@ -23,56 +24,77 @@
       "category": null,
       "headline": "Change of Name",
       "url": "https://www.investegate.co.uk/announcement/rns/theworks-co-uk--wrks/change-of-name/9761460",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "A corporate name change is an administrative update with no immediate financial or operational impact on The Works' core discount retail business, though it may signal a rebranding effort to align with its digital-first strategy.",
+      "key_themes": [
+        "Corporate Governance",
+        "Brand Strategy"
+      ]
     },
     {
       "timestamp": "2026-09-07T15:48:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/theworks-co-uk--wrks/result-of-agm/9759573",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard post-meeting confirmation of shareholder approvals for routine governance matters, offering no new strategic direction or financial data to influence valuation.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-09-07T07:00:00",
       "category": "AGM/EGM",
       "headline": "AGM Trading Update",
       "url": "https://www.investegate.co.uk/announcement/rns/theworks-co-uk--wrks/agm-trading-update-/9757559",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a routine AGM update for a high-street retailer facing structural headwinds from online competition and cost inflation, this announcement lacks the transformative catalysts required to move the stock significantly.",
+      "key_themes": [
+        "Retail Sector",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-09-01T14:00:00",
       "category": null,
       "headline": "ISS and Glass Lewis voting recommendations",
       "url": "https://www.investegate.co.uk/announcement/rns/theworks-co-uk--wrks/iss-and-glass-lewis-voting-recommendations/9749859",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative disclosure regarding proxy advisory recommendations for an upcoming shareholder vote, likely related to director remuneration or ordinary business resolutions. It carries no fundamental impact on The Works' financial performance or strategic direction.",
+      "key_themes": [
+        "corporate_governance",
+        "shareholder_relations"
+      ]
     },
     {
       "timestamp": "2026-08-13T07:00:00",
       "category": "AGM/EGM",
       "headline": "Publication of Annual Report and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/theworks-co-uk--wrks/publication-of-annual-report-and-notice-of-agm/9719099",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing for The Works' Annual General Meeting, serving as a routine governance checkpoint rather than a catalyst for immediate share price movement.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-08-12T14:06:00",
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/theworks-co-uk--wrks/holding-s-in-company/9718543",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -83,6 +105,7 @@
       "category": "Results",
       "headline": "Notice of Results and Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/theworks-co-uk--wrks/notice-of-results-and-investor-presentation/9657217",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a high-growth value retailer facing intense margin pressure from inflation and competitor discounting, this results release is critical for validating the efficacy of its cost-cutting measures and strategic pivot towards digital channels.",

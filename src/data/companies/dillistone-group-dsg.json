@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/rns/dillistone-group--dsg/holding-s-in-company/9867435",
+      "routine_type": "Holding(s) in Company",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,6 +21,7 @@
       "category": "Director Dealing",
       "headline": "Director/PDMR Shareholding",
       "url": "https://www.investegate.co.uk/announcement/rns/dillistone-group--dsg/director-pdmr-shareholding/9863570",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Standard regulatory disclosure of insider shareholding changes which provides minimal new information for valuation; without context on the direction (buy/sell) or volume relative to free float, this is routine administrative noise rather than a signal of strategic intent.",
@@ -33,26 +35,35 @@
       "category": null,
       "headline": "Result of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/dillistone-group--dsg/result-of-gm/9841880",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "The headline 'Result of GM' in an 'Other' category typically denotes a minor administrative update, such as the outcome of a general meeting for routine shareholder approval or a small-scale capital reduction, rather than a material strategic shift. Without evidence of significant M&A or earnings guidance changes, this falls squarely into the administrative bucket with negligible immediate price impact.",
+      "key_themes": [
+        "Corporate Governance",
+        "Shareholder Approval"
+      ]
     },
     {
       "timestamp": "2026-10-07T13:45:00",
       "category": null,
       "headline": "Update on Change of Strategy & Notice of GM",
       "url": "https://www.investegate.co.uk/announcement/rns/dillistone-group--dsg/update-on-change-of-strategy-notice-of-gm/9811725",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "Strategic pivots in the UK SME space often signal underlying operational distress or a desperate attempt to re-rate; investors should scrutinize the specific nature of the new strategy for viability versus mere narrative shifting.",
+      "key_themes": [
+        "Corporate Strategy",
+        "Governance"
+      ]
     },
     {
       "timestamp": "2026-09-30T14:30:00",
       "category": "Results",
       "headline": "Interim Results & Investor Presentation",
       "url": "https://www.investegate.co.uk/announcement/rns/dillistone-group--dsg/interim-results-investor-presentation/9799554",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a niche specialist recruitment firm in the UK public sector, DSG's interim results provide critical visibility into the health of government contracting spend and wage inflation pressures; any deviation from consensus will signal broader trends in the professional services sector.",
@@ -67,6 +78,7 @@
       "category": "Results",
       "headline": "Changes to Board & Strategy and Notice of Results",
       "url": "https://www.investegate.co.uk/announcement/rns/dillistone-group--dsg/changes-to-board-strategy-and-notice-of-results/9792070",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "The combination of board changes and strategy updates signals a potential pivot in governance or operational focus for this small-cap firm, which warrants scrutiny given the sector's sensitivity to leadership continuity.",
@@ -80,10 +92,14 @@
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/dillistone-group--dsg/result-of-agm/9635014",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, typical for small-cap firms like Dillistone Group which rarely trigger market-moving events through routine governance updates.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     }
   ]
 }

@@ -10,6 +10,7 @@
       "category": null,
       "headline": "Publication of Final Terms",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/publication-of-final-terms/9879918",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -20,46 +21,63 @@
       "category": null,
       "headline": "New Zealand Banking Group Disclosure Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/new-zealand-banking-group-disclosure-statement/9867493",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure for a non-UK listed entity, carrying zero direct materiality for Westpac's UK equity valuation despite the ticker anomaly; it reflects routine compliance rather than strategic action.",
+      "key_themes": [
+        "Regulatory Compliance",
+        "Ticker Mismatch"
+      ]
     },
     {
       "timestamp": "2026-11-04T13:51:00",
       "category": null,
       "headline": "Publication of a Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/publication-of-a-prospectus/9858601",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement concerns Westpac Banking Corporation (ASX: WBC), an Australian financial institution, which has no direct listing or operational presence in the UK equity market; therefore, it holds zero relevance for UK investors and is classified as administrative noise.",
+      "key_themes": [
+        "irrelevant_jurisdiction",
+        "administrative"
+      ]
     },
     {
       "timestamp": "2026-11-04T13:42:00",
       "category": null,
       "headline": "Publication of a Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/publication-of-a-prospectus/9858587",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement concerns Westpac Banking Corporation, an Australian entity listed on the ASX (50AS), not a UK equity; therefore it has zero direct impact on the UK market and is likely a data ingestion error for this specific query context.",
+      "key_themes": [
+        "Cross-border listing",
+        "Administrative filing"
+      ]
     },
     {
       "timestamp": "2026-11-04T10:18:00",
       "category": "AGM/EGM",
       "headline": "Westpac 2026 AGM email to shareholders",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/westpac-2026-agm-email-to-shareholders-/9858173",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notification for the Annual General Meeting of an Australian-listed entity, carrying no direct pricing impact on UK markets given Westpac's primary listing in Sydney and its status as a non-UK domiciled bank.",
+      "key_themes": [
+        "Corporate Governance",
+        "AGM"
+      ]
     },
     {
       "timestamp": "2026-11-02T13:25:00",
       "category": "Share Buyback",
       "headline": "Update – Notification of buy-back",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/update-notification-of-buy-back-/9853820",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 3,
       "insight": "Westpac is a UK-listed holding company for the Australian Westpac Banking Corporation; this RNS reflects routine capital management by the parent entity rather than a strategic shift in the UK subsidiary's operations or asset base.",
@@ -73,76 +91,105 @@
       "category": null,
       "headline": "Appendix 4G and Corporate Governance Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/appendix-4g-and-corporate-governance-statement-/9853817",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing for an Australian-listed entity reporting to the UK market; Appendix 4G details half-year financial results which are routine disclosures rather than transformative events.",
+      "key_themes": [
+        "Regulatory Compliance",
+        "Financial Reporting"
+      ]
     },
     {
       "timestamp": "2026-11-02T13:15:00",
       "category": null,
       "headline": "2026 Risk Factors",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/2026-risk-factors-/9853807",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing updating risk disclosures for the 2026 financial year rather than a material event driver; while relevant for long-term ESG and operational resilience monitoring, it lacks immediate price-sensitive catalysts typical of major M&A or profit warnings.",
+      "key_themes": [
+        "Risk Disclosure",
+        "Regulatory Compliance"
+      ]
     },
     {
       "timestamp": "2026-11-02T13:09:00",
       "category": "AGM/EGM",
       "headline": "Westpac 2026 AGM Notice of Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/westpac-2026-agm-notice-of-meeting/9853798",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative notice for the Annual General Meeting of an Australian-listed entity, carrying no direct material impact on UK equity valuation or strategy.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Administration"
+      ]
     },
     {
       "timestamp": "2026-11-02T13:04:00",
       "category": null,
       "headline": "Westpac New Zealand Disclosure Statement",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/westpac-new-zealand-disclosure-statement/9853787",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory filing for Westpac's New Zealand subsidiary, likely detailing capital adequacy or governance disclosures required by the Reserve Bank of New Zealand rather than a material event impacting the parent company's UK-listed equity.",
+      "key_themes": [
+        "regulatory_compliance",
+        "nz_subsidiary"
+      ]
     },
     {
       "timestamp": "2026-11-02T11:49:00",
       "category": null,
       "headline": "Pillar 3 Report as at 30 September 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/pillar-3-report-as-at-30-september-2026-/9853545",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure for an ASX-listed entity with no material price-sensitive information; it serves primarily to satisfy transparency requirements rather than signal strategic shifts or financial distress.",
+      "key_themes": [
+        "Regulatory Compliance",
+        "Capital Adequacy"
+      ]
     },
     {
       "timestamp": "2026-11-02T11:42:00",
       "category": null,
       "headline": "Westpac 2026 Sustainability Report",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/westpac-2026-sustainability-report-/9853510",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard annual sustainability disclosure with no immediate financial or operational impact on Westpac's equity valuation, reflecting routine ESG reporting rather than material corporate action.",
+      "key_themes": [
+        "ESG Reporting",
+        "Corporate Governance"
+      ]
     },
     {
       "timestamp": "2026-11-02T11:42:00",
       "category": null,
       "headline": "Westpac 2026 Pres. and Investor Discussion Pack",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/westpac-2026-pres-and-investor-discussion-pack-/9853508",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard investor relations document for an ASX-listed entity with no direct listing on the London Stock Exchange; it carries zero immediate pricing impact for UK investors and serves only as informational material regarding Australian banking sector strategy.",
+      "key_themes": [
+        "Investor Relations",
+        "Australian Banking"
+      ]
     },
     {
       "timestamp": "2026-11-02T11:38:00",
       "category": "Results",
       "headline": "Westpac 2026 Full Year Results email to sharehold.",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/westpac-2026-full-year-results-email-to-sharehold-/9853490",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a non-UK listed entity (ASX: WBC), this announcement has zero direct impact on the UK equity market; for UK investors, it serves as a critical macro indicator for global banking sentiment and AUD/USD currency flows rather than a company-specific event.",
@@ -156,16 +203,21 @@
       "category": null,
       "headline": "Westpac 2026 Full Year Result Media Release",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/westpac-2026-full-year-result-media-release/9853454",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard annual results release for an Australian-listed entity with no direct UK listing; the headline references '2026' which appears to be a typographical error for FY24/25 given current market timelines, rendering the data irrelevant for immediate UK equity valuation.",
+      "key_themes": [
+        "Australian Banking",
+        "Annual Results"
+      ]
     },
     {
       "timestamp": "2026-11-02T11:23:00",
       "category": "Results",
       "headline": "Westpac 2026 Full Year Financial Results Ann.",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/westpac-2026-full-year-financial-results-ann-/9853443",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 6,
       "insight": "As a major global bank with significant UK retail exposure via its subsidiary (formerly Bankwest in Australia but often confused with UK entities like Metro Bank or Virgin Money in local context, though Westpac is primarily ASX-listed), this full-year result will be scrutinized for net interest margin trends and credit impairment provisions amidst the current high-rate environment. The impact on UK markets is indirect but notable for cross-border investors and sector sentiment regarding Australian banking stability.",
@@ -180,26 +232,36 @@
       "category": null,
       "headline": "Westpac 2026 Group Annual Report and Appendix 4E",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/westpac-2026-group-annual-report-and-appendix-4e-/9853428",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This is a standard annual reporting event for Westpac, providing essential data on capital adequacy and dividend policy rather than transformative news; in the current UK-equity context of high interest rates, investor focus will be on net interest margin sustainability and credit loss provisions.",
+      "key_themes": [
+        "Annual Results",
+        "Dividend Policy",
+        "Banking Sector"
+      ]
     },
     {
       "timestamp": "2026-11-02T11:11:00",
       "category": "Dividend",
       "headline": "Appendix 3A.1 - Not. of dividend / distribution",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/appendix-3a-1-not-of-dividend-distribution-/9853402",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard statutory notification of an interim dividend for an Australian-listed entity, carrying zero direct impact on UK equity markets due to jurisdictional and sectoral separation.",
+      "key_themes": [
+        "Australia",
+        "Routine Disclosure"
+      ]
     },
     {
       "timestamp": "2026-10-19T12:04:00",
       "category": "Results",
       "headline": "ITEMS IMPACTING FULL YEAR 2026 RESULTS",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/items-impacting-full-year-2026-results/9829876",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "As a non-UK listed entity (ASX: WBC), this RNS is likely a compliance filing for UK investors rather than a primary disclosure; however, Westpac's full-year results are critical indicators of Australian banking health, particularly regarding net interest margin pressure and credit loss provisions in a high-rate environment.",
@@ -214,6 +276,7 @@
       "category": null,
       "headline": "Publication of a Supplementary Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/publication-of-a-supplementary-prospectus/9713799",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -224,6 +287,7 @@
       "category": null,
       "headline": "Publication of a Supplementary Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/publication-of-a-supplementary-prospectus/9713791",
+      "routine_type": "Debt Notices",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -234,56 +298,79 @@
       "category": null,
       "headline": "Pillar 3 Report as at 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/pillar-3-report-as-at-30-june-2026/9713121",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard regulatory disclosure for an ASX-listed entity with no immediate price-sensitive implications; while the date (2026) appears to be a typo or forward-looking placeholder, Pillar 3 reports are routine transparency filings rather than strategic catalysts.",
+      "key_themes": [
+        "Regulatory Compliance",
+        "Banking Sector"
+      ]
     },
     {
       "timestamp": "2026-08-10T10:20:00",
       "category": null,
       "headline": "Westpac Q3 2026 Investor Discussion Pack",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/westpac-q3-2026-investor-discussion-pack/9713118",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a non-UK listed entity (ASX: WBC), this announcement has zero direct market impact on UK equities; however, it signals global banking sector sentiment and interest rate trajectory expectations for Q3 2026, which may indirectly influence UK peer valuation multiples.",
+      "key_themes": [
+        "Global Banking",
+        "Interest Rates",
+        "Non-UK Listed"
+      ]
     },
     {
       "timestamp": "2026-08-10T10:17:00",
       "category": null,
       "headline": "Westpac Third Quarter 2026 Update",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/westpac-third-quarter-2026-update-/9713116",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "As a non-UK listed entity (ASX: WBC), this update has zero direct impact on the UK equity portfolio; however, it serves as a critical macro indicator for global banking sentiment and interest rate trajectory expectations in the APAC region.",
+      "key_themes": [
+        "Global Banking",
+        "Interest Rates",
+        "APAC Markets"
+      ]
     },
     {
       "timestamp": "2026-08-03T11:00:00",
       "category": null,
       "headline": "Westpac completes sale of RAMS mortgage portfolio",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/westpac-completes-sale-of-rams-mortgage-portfolio/9701177",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This transaction represents a non-core asset divestment typical of routine portfolio optimization rather than a strategic pivot; while it improves capital efficiency, it lacks the transformative scale or earnings impact required to move the stock price significantly.",
+      "key_themes": [
+        "Asset Divestment",
+        "Capital Management"
+      ]
     },
     {
       "timestamp": "2026-07-01T09:34:00",
       "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/directorate-change/9646993",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine administrative update for an Australian-listed entity with no direct UK listing; lacks material strategic implication for UK equity markets.",
+      "key_themes": [
+        "Corporate Governance",
+        "Administrative"
+      ]
     },
     {
       "timestamp": "2026-06-30T10:43:00",
       "category": null,
       "headline": "Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/admission-to-trading/9644471",
+      "routine_type": "Block Listing / Admission",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -294,16 +381,21 @@
       "category": "Appointment",
       "headline": "Appointment of Chief Information Officer",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/appointment-of-chief-information-officer/9634058",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "Routine executive appointment with negligible immediate market impact; CIO roles are standard governance requirements rather than value-driving events in the current UK banking sector.",
+      "key_themes": [
+        "Corporate Governance",
+        "Executive Appointment"
+      ]
     },
     {
       "timestamp": "2026-06-23T10:20:00",
       "category": null,
       "headline": "Admission to Trading, Publication of Final Terms",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-banking-corporation--50as/admission-to-trading-publication-of-final-terms-/9632125",
+      "routine_type": "Final Terms",
       "enriched": false,
       "impact_score": null,
       "insight": null,

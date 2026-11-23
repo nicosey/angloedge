@@ -10,26 +10,35 @@
       "category": null,
       "headline": "Response to announcement by Thalassa Holdings Ltd",
       "url": "https://www.investegate.co.uk/announcement/rns/newmark-security-plc--nwt/response-to-announcement-by-thalassa-holdings-ltd-/9877762",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "As a 'Response to announcement' category filing for a micro-cap security, this likely contains routine regulatory correspondence or minor clarification rather than material corporate action, posing negligible immediate price impact.",
+      "key_themes": [
+        "regulatory_compliance",
+        "micro_cap"
+      ]
     },
     {
       "timestamp": "2026-11-11T13:19:00",
       "category": "AGM/EGM",
       "headline": "Result of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/newmark-security-plc--nwt/result-of-agm/9870401",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no immediate financial or strategic weight for Newmark Security PLC.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-10-30T11:30:00",
       "category": null,
       "headline": "Investor Presentation via Investor Meet Company",
       "url": "https://www.investegate.co.uk/announcement/rns/newmark-security-plc--nwt/investor-presentation-via-investor-meet-company/9850868",
+      "routine_type": "Administrative",
       "enriched": false,
       "impact_score": null,
       "insight": null,
@@ -40,16 +49,21 @@
       "category": "AGM/EGM",
       "headline": "Posting of Annual Report and Notice of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/newmark-security-plc--nwt/posting-of-annual-report-and-notice-of-agm/9832870",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This is a standard administrative filing required for UK PLCs to convene the Annual General Meeting, carrying no intrinsic trading signal or material corporate action.",
+      "key_themes": [
+        "Corporate Governance",
+        "Routine Filing"
+      ]
     },
     {
       "timestamp": "2026-10-08T07:00:00",
       "category": "Results",
       "headline": "Year ended 30 April 2026 results timetable",
       "url": "https://www.investegate.co.uk/announcement/rns/newmark-security-plc--nwt/year-ended-30-april-2026-results-timetable/9812281",
+      "routine_type": null,
       "enriched": true,
       "impact_score": 5,
       "insight": "This is a purely administrative timetable announcement for the upcoming full-year results release, offering no new financial data or strategic direction. In the current UK market environment, such notices are routine and carry zero immediate pricing impact until the actual figures are published.",
@@ -63,10 +77,14 @@
       "category": null,
       "headline": "Investor Event – Mello London",
       "url": "https://www.investegate.co.uk/announcement/rns/newmark-security-plc--nwt/investor-event-mello-london/9597632",
-      "enriched": false,
-      "impact_score": null,
-      "insight": null,
-      "key_themes": null
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This is a standard investor relations event likely aimed at boosting visibility for a small-cap security firm; without details on material contract wins or financial metrics, it lacks the transformative catalyst required for significant price action.",
+      "key_themes": [
+        "Investor Relations",
+        "Small Cap"
+      ]
     }
   ]
 }
