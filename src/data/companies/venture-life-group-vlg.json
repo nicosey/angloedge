@@ -37,16 +37,13 @@
     },
     {
       "timestamp": "2026-10-23T14:16:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/venture-life-group--vlg/tr-1-notification-of-major-holdings/9839490",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "Director dealings in the micro-cap biotech sector are often driven by liquidity needs rather than fundamental conviction; without disclosed volume or price data, this TR-1 filing lacks the signal strength to influence valuation.",
-      "key_themes": [
-        "micro-cap volatility",
-        "liquidity risk"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-10-23T11:00:00",
@@ -106,16 +103,13 @@
     },
     {
       "timestamp": "2026-09-29T14:35:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/venture-life-group--vlg/tr-1-notification-of-major-holdings/9797038",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory filing for major shareholding notifications under the FCA's Disclosure Guidance and Transparency Rules (DTR 5), common in small-cap equity markets to ensure transparency rather than signaling immediate strategic shifts.",
-      "key_themes": [
-        "Regulatory Compliance",
-        "Shareholder Transparency"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-09-29T07:00:00",
@@ -311,7 +305,7 @@
     },
     {
       "timestamp": "2026-06-03T07:00:00",
-      "category": null,
+      "category": "Acquisition",
       "headline": "Acquisition of FemiClear and CUROXEN",
       "url": "https://www.investegate.co.uk/announcement/rns/venture-life-group--vlg/acquisition-of-femiclear-and-curoxen/9598392",
       "enriched": false,

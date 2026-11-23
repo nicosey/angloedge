@@ -7,16 +7,13 @@
   "announcements": [
     {
       "timestamp": "2026-11-02T15:00:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/gateley-holdings---gtly/tr-1-notification-of-major-holdings-/9854025",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory filing for major shareholding notifications under DTR 5, lacking the transformative catalysts required for significant price movement. While it confirms insider ownership levels, it provides no new strategic direction or financial data to alter the investment thesis.",
-      "key_themes": [
-        "Regulatory Compliance",
-        "Insider Ownership"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-10-22T10:10:00",
@@ -110,7 +107,7 @@
     },
     {
       "timestamp": "2026-07-21T07:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/gateley-holdings---gtly/board-changes/9678472",
       "enriched": false,

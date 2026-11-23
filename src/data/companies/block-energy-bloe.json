@@ -7,20 +7,17 @@
   "announcements": [
     {
       "timestamp": "2026-11-10T09:05:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR1 - Holding(s) in Company",
       "url": "https://www.investegate.co.uk/announcement/mfn/block-energy--bloe/tr1-holding-s-in-company/9867439",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine TR1 filing for Block Energy indicates standard compliance with UK Corporate Governance Code rather than a significant signal of insider sentiment; without disclosed volume or direction (buy/sell), it lacks the weight to influence valuation in the current E&P sector.",
-      "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-10-13T07:00:00",
-      "category": null,
+      "category": "Acquisition",
       "headline": "Project IV 3D Seismic Acquisition Completed",
       "url": "https://www.investegate.co.uk/announcement/rns/block-energy--bloe/project-iv-3d-seismic-acquisition-completed/9819160",
       "enriched": false,
@@ -60,16 +57,13 @@
     },
     {
       "timestamp": "2026-06-30T12:09:00",
-      "category": "Results",
+      "category": "AGM/EGM",
       "headline": "Results of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/block-energy--bloe/results-of-annual-general-meeting/9644699",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the AGM; it carries no new financial data or strategic shifts for Block Energy's exploration activities.",
-      "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-06-25T07:00:00",

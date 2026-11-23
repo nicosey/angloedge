@@ -7,16 +7,13 @@
   "announcements": [
     {
       "timestamp": "2026-11-18T11:06:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1: Standard form for notification of holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/xps-pensions-group--xps/tr-1-standard-form-for-notification-of-holdings/9881787",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory filing for director holdings with no immediate price-sensitive content; in the pension advisory sector, such notifications are routine and lack the transformative catalysts required for significant market movement.",
-      "key_themes": [
-        "regulatory compliance",
-        "corporate governance"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-11-13T14:43:00",
@@ -163,7 +160,7 @@
     },
     {
       "timestamp": "2026-06-26T07:00:00",
-      "category": null,
+      "category": "Acquisition",
       "headline": "Acquisition of the trade and assets of APR",
       "url": "https://www.investegate.co.uk/announcement/rns/xps-pensions-group--xps/acquisition-of-the-trade-and-assets-of-apr/9637909",
       "enriched": false,

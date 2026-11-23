@@ -180,7 +180,7 @@
     },
     {
       "timestamp": "2026-09-01T10:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/directorate-change/9749183",
       "enriched": false,
@@ -303,16 +303,13 @@
     },
     {
       "timestamp": "2026-07-15T15:15:00",
-      "category": "Results",
+      "category": "AGM/EGM",
       "headline": "Results of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/results-of-agm-/9670912",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement confirms the routine ratification of accounts and director re-elections at the AGM, which is standard governance procedure for a mutual building society with no material capital raising or strategic shifts.",
-      "key_themes": [
-        "Corporate Governance",
-        "Routine Administration"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-07-14T13:38:00",

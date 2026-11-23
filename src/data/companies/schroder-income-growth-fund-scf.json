@@ -90,16 +90,13 @@
     },
     {
       "timestamp": "2026-11-12T14:10:00",
-      "category": "Results",
+      "category": null,
       "headline": "Results analysis from Kepler Trust Intelligence",
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-income-growth-fund--scf/results-analysis-from-kepler-trust-intelligence/9873033",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This is an external research note from Kepler Trust Intelligence rather than a primary company announcement, indicating no immediate material corporate action or financial data release from Schroder Income Growth Fund itself.",
-      "key_themes": [
-        "third-party_analysis",
-        "no_material_event"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-11-11T17:31:00",
@@ -123,7 +120,7 @@
     },
     {
       "timestamp": "2026-11-10T17:06:00",
-      "category": null,
+      "category": "Results",
       "headline": "Annual Financial Report on NSM",
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-income-growth-fund--scf/annual-financial-report-on-nsm-/9868472",
       "enriched": false,

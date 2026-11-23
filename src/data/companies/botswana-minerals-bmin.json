@@ -17,16 +17,13 @@
     },
     {
       "timestamp": "2026-10-27T10:32:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/botswana-minerals-plc--bmin/tr-1-notification-of-major-holdings/9843616",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of director shareholding changes, which provides no new fundamental data on Botswana Minerals' exploration progress or financial health. While insider activity can signal confidence, without context on the volume or direction of trades, it remains an administrative update with negligible immediate market impact.",
-      "key_themes": [
-        "insider_activity",
-        "regulatory_compliance"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-09-04T07:00:00",
@@ -50,7 +47,7 @@
     },
     {
       "timestamp": "2026-06-29T11:10:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Director Resignation",
       "url": "https://www.investegate.co.uk/announcement/rns/botswana-minerals-plc--bmin/director-resignation/9641852",
       "enriched": false,
@@ -60,7 +57,7 @@
     },
     {
       "timestamp": "2026-06-05T07:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Appointment of Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/rns/botswana-minerals-plc--bmin/appointment-of-non-executive-director-/9603076",
       "enriched": false,

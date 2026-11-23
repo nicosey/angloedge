@@ -30,16 +30,13 @@
     },
     {
       "timestamp": "2026-07-03T07:00:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/ironveld--iron/tr-1-notification-of-major-holdings-/9650689",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of major shareholdings rather than a transactional event; without accompanying buying/selling data, it offers no immediate signal on insider sentiment or capital flow.",
-      "key_themes": [
-        "regulatory_compliance",
-        "shareholder_structure"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     }
   ]
 }

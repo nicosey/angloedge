@@ -170,7 +170,7 @@
     },
     {
       "timestamp": "2026-08-13T07:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Appointment of Joint Broker",
       "url": "https://www.investegate.co.uk/announcement/rns/iwg--iwg/appointment-of-joint-broker/9719087",
       "enriched": false,
@@ -241,17 +241,13 @@
     },
     {
       "timestamp": "2026-06-17T07:16:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1:Standard form-notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/iwg--iwg/tr-1-standard-form-notification-of-major-holdings/9622591",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory filing for major shareholding changes, likely reflecting routine index rebalancing or passive fund adjustments rather than active strategic positioning by insiders. In the flexible workspace sector, such disclosures lack the signal strength of earnings updates or M&A activity, offering minimal immediate directional insight for equity valuation.",
-      "key_themes": [
-        "regulatory_compliance",
-        "passive_flow",
-        "low_signal"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-06-17T07:01:00",

@@ -7,7 +7,7 @@
   "announcements": [
     {
       "timestamp": "2026-11-16T07:00:00",
-      "category": null,
+      "category": "Acquisition",
       "headline": "Acquisition of Entrepreneurs on Fire Podcast",
       "url": "https://www.investegate.co.uk/announcement/rns/pathos-communications-plc--news/acquisition-of-entrepreneurs-on-fire-podcast-/9875785",
       "enriched": false,
@@ -47,7 +47,7 @@
     },
     {
       "timestamp": "2026-10-14T07:00:00",
-      "category": null,
+      "category": "Director Dealing",
       "headline": "Director Dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/pathos-communications-plc--news/director-dealings/9821345",
       "enriched": false,
@@ -130,16 +130,13 @@
     },
     {
       "timestamp": "2026-06-01T18:03:00",
-      "category": "Results",
+      "category": "AGM/EGM",
       "headline": "Results of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/pathos-communications-plc--news/results-of-agm-/9595827",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a routine administrative filing confirming the outcome of the Annual General Meeting, which typically involves rubber-stamping management decisions rather than signaling strategic shifts or financial performance.",
-      "key_themes": [
-        "Corporate Governance",
-        "AGM"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-05-29T07:00:00",

@@ -8,7 +8,7 @@
     {
       "timestamp": "2026-09-30T15:30:00",
       "category": "Results",
-      "headline": "Interim Results for the 6 months to 30 June 2...",
+      "headline": "Interim Results for the 6 months to 30 June 2026",
       "url": "https://www.investegate.co.uk/announcement/prn/nomad-compute-plc--nmd/interim-results-for-the-6-months-to-30-june-2-/9799747",
       "enriched": true,
       "impact_score": 6,
@@ -20,7 +20,7 @@
     },
     {
       "timestamp": "2026-09-18T12:15:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/prn/nomad-compute-plc--nmd/directorate-change/9780148",
       "enriched": false,
@@ -30,7 +30,7 @@
     },
     {
       "timestamp": "2026-09-07T16:05:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Directorate Change",
       "url": "https://www.investegate.co.uk/announcement/rns/nomad-compute-plc--nmd/directorate-change/9759593",
       "enriched": false,
@@ -53,16 +53,13 @@
     },
     {
       "timestamp": "2026-06-05T14:54:00",
-      "category": "Results",
+      "category": "AGM/EGM",
       "headline": "Results of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/nomad-compute-plc--nmd/results-of-general-meeting-/9604965",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a routine administrative filing confirming the outcome of a shareholder vote, which typically carries no intrinsic valuation impact unless it involves a contentious capital raise or governance change. In the absence of details regarding the agenda items, the market will likely treat this as neutral noise amidst broader macro volatility.",
-      "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     }
   ]
 }

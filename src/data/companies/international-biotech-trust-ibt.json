@@ -17,16 +17,13 @@
     },
     {
       "timestamp": "2026-11-04T10:40:00",
-      "category": "Results",
+      "category": null,
       "headline": "Results analysis from Kepler Trust Intelligence",
       "url": "https://www.investegate.co.uk/announcement/rns/international-biotech-trust--ibt/results-analysis-from-kepler-trust-intelligence/9858191",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a third-party analytical commentary rather than a primary corporate disclosure, indicating no new material information from IBT itself; such reports typically reflect existing market consensus on the biotech sector's volatility or the trust's discount/premium dynamics.",
-      "key_themes": [
-        "Third-party analysis",
-        "Market sentiment"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-11-03T17:27:00",
@@ -40,7 +37,7 @@
     },
     {
       "timestamp": "2026-10-19T14:38:00",
-      "category": null,
+      "category": "Acquisition",
       "headline": "Portfolio company Silence acquired by Merck KGaA",
       "url": "https://www.investegate.co.uk/announcement/rns/international-biotech-trust--ibt/portfolio-company-silence-acquired-by-merck-kgaa/9830133",
       "enriched": false,
@@ -120,7 +117,7 @@
     },
     {
       "timestamp": "2026-07-07T11:34:00",
-      "category": null,
+      "category": "Acquisition",
       "headline": "Portfolio company Crinetics acquired by Vertex",
       "url": "https://www.investegate.co.uk/announcement/rns/international-biotech-trust--ibt/portfolio-company-crinetics-acquired-by-vertex/9656344",
       "enriched": false,
@@ -140,7 +137,7 @@
     },
     {
       "timestamp": "2026-06-09T13:11:00",
-      "category": null,
+      "category": "Acquisition",
       "headline": "GSK to acquire IBT portfolio company Nuvalent",
       "url": "https://www.investegate.co.uk/announcement/rns/international-biotech-trust--ibt/gsk-to-acquire-ibt-portfolio-company-nuvalent/9609522",
       "enriched": false,

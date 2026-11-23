@@ -7,7 +7,7 @@
   "announcements": [
     {
       "timestamp": "2026-11-13T14:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Appointment of Nominated Adviser and Sole Broker",
       "url": "https://www.investegate.co.uk/announcement/rns/proservice-building-services-marketplace-plc--pro/appointment-of-nominated-adviser-and-sole-broker-/9875128",
       "enriched": false,
@@ -17,16 +17,13 @@
     },
     {
       "timestamp": "2026-09-30T12:34:00",
-      "category": "Results",
+      "category": "AGM/EGM",
       "headline": "Results of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/proservice-building-services-marketplace-plc--pro/results-of-annual-general-meeting-/9799270",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as auditor reappointment and director remuneration rather than strategic shifts or material financial data.",
-      "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-09-08T07:00:00",

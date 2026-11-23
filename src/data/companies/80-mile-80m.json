@@ -47,7 +47,7 @@
     },
     {
       "timestamp": "2026-11-10T09:00:00",
-      "category": null,
+      "category": "Acquisition",
       "headline": "Extension of PUSU Deadline",
       "url": "https://www.investegate.co.uk/announcement/rns/80-mile--80m/extension-of-pusu-deadline-/9867415",
       "enriched": false,
@@ -97,7 +97,7 @@
     },
     {
       "timestamp": "2026-10-22T09:43:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Director Resignation from Greenland Energy Company",
       "url": "https://www.investegate.co.uk/announcement/rns/80-mile--80m/director-resignation-from-greenland-energy-company/9836348",
       "enriched": false,
@@ -147,7 +147,7 @@
     },
     {
       "timestamp": "2026-10-06T07:00:00",
-      "category": null,
+      "category": "Acquisition",
       "headline": "Extension of PUSU Deadline",
       "url": "https://www.investegate.co.uk/announcement/rns/80-mile--80m/extension-of-pusu-deadline/9807644",
       "enriched": false,
@@ -187,16 +187,13 @@
     },
     {
       "timestamp": "2026-09-29T17:36:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1: Standard form notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/80-mile--80m/tr-1-standard-form-notification-of-major-holdings/9797366",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory filing for major shareholding disclosure rather than a transactional event; without accompanying deal specifics or significant insider trading volume, it carries minimal immediate market impact.",
-      "key_themes": [
-        "regulatory_compliance",
-        "shareholding_disclosure"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-09-29T12:15:00",
@@ -354,16 +351,13 @@
     },
     {
       "timestamp": "2026-07-29T11:08:00",
-      "category": "Results",
+      "category": "AGM/EGM",
       "headline": "Results of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/80-mile--80m/results-of-general-meeting/9693728",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a standard administrative filing confirming the outcome of shareholder approval for routine corporate governance matters, carrying no intrinsic valuation impact or strategic shift for the company.",
-      "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-07-27T07:00:00",
@@ -425,16 +419,13 @@
     },
     {
       "timestamp": "2026-06-29T13:04:00",
-      "category": "Results",
+      "category": "AGM/EGM",
       "headline": "Results of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/80-mile--80m/results-of-annual-general-meeting/9642328",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the AGM; it carries no intrinsic financial data or strategic shift for 80 Mile.",
-      "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-06-26T08:30:00",
@@ -458,16 +449,13 @@
     },
     {
       "timestamp": "2026-06-03T07:00:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/80-mile--80m/tr-1-notification-of-major-holdings/9598423",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory filing for major shareholding notifications, which is routine administrative disclosure rather than a signal of strategic intent or material corporate action.",
-      "key_themes": [
-        "regulatory_compliance",
-        "transparency"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-05-28T07:00:00",

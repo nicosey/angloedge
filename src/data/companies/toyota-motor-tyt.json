@@ -7,7 +7,7 @@
   "announcements": [
     {
       "timestamp": "2026-11-05T08:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Tender Offer for Own Shares and Share Retirement",
       "url": "https://www.investegate.co.uk/announcement/rns/toyota-motor-corp---tyt/tender-offer-for-own-shares-and-share-retirement/9860090",
       "enriched": false,
@@ -174,16 +174,13 @@
     },
     {
       "timestamp": "2026-06-18T08:00:00",
-      "category": "Results",
+      "category": "AGM/EGM",
       "headline": "Voting Results of General Shareholders' Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/toyota-motor-corp---tyt/voting-results-of-general-shareholders-meeting-/9625024",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a standard administrative filing confirming the ratification of routine resolutions at Toyota's AGM, such as director appointments and auditor remuneration. It carries no material financial implication for equity valuation or strategic direction.",
-      "key_themes": [
-        "Corporate Governance",
-        "AGM"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-06-18T08:00:00",

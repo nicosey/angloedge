@@ -34,7 +34,7 @@
     },
     {
       "timestamp": "2026-11-09T07:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Appointment of Chief Financial Officer",
       "url": "https://www.investegate.co.uk/announcement/rns/potter-moore-plc--pam/appointment-of-chief-financial-officer/9863969",
       "enriched": false,
@@ -64,16 +64,13 @@
     },
     {
       "timestamp": "2026-08-20T16:59:00",
-      "category": "Results",
+      "category": "AGM/EGM",
       "headline": "Results of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/potter-moore-plc--pam/results-of-agm/9732895",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting; it carries no new financial data or strategic shifts for Potter & Moore's orthotic and prosthetic business.",
-      "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-08-20T07:00:00",
@@ -87,7 +84,7 @@
     },
     {
       "timestamp": "2026-07-22T07:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "CFO Resignation",
       "url": "https://www.investegate.co.uk/announcement/rns/potter-moore-plc--pam/cfo-resignation-/9680695",
       "enriched": false,

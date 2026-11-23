@@ -17,7 +17,7 @@
     },
     {
       "timestamp": "2026-10-29T07:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Board Changes and Corporate Update",
       "url": "https://www.investegate.co.uk/announcement/rns/union-jack-oil--ujo/board-changes-and-corporate-update/9846908",
       "enriched": false,
@@ -47,7 +47,7 @@
     },
     {
       "timestamp": "2026-09-08T07:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Appointment of Joint Broker",
       "url": "https://www.investegate.co.uk/announcement/rns/union-jack-oil--ujo/appointment-of-joint-broker/9759934",
       "enriched": false,
@@ -67,7 +67,7 @@
     },
     {
       "timestamp": "2026-08-24T11:15:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Result of Requisitioned GM & Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/union-jack-oil--ujo/result-of-requisitioned-gm-board-changes/9736743",
       "enriched": false,
@@ -77,7 +77,7 @@
     },
     {
       "timestamp": "2026-07-31T14:26:00",
-      "category": null,
+      "category": "Director Dealing",
       "headline": "Director Dealings Disclosure",
       "url": "https://www.investegate.co.uk/announcement/rns/union-jack-oil--ujo/director-dealings-disclosure/9699081",
       "enriched": false,
@@ -117,16 +117,13 @@
     },
     {
       "timestamp": "2026-06-30T14:05:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1:form for notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/union-jack-oil--ujo/tr-1-form-for-notification-of-major-holdings-/9644916",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory filing for major shareholding notifications rather than a substantive corporate event; while it confirms significant insider ownership which can signal alignment with shareholders, it lacks the transformative catalysts required for immediate price movement in the volatile E&P sector.",
-      "key_themes": [
-        "Regulatory Compliance",
-        "Insider Ownership"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-06-26T11:27:00",
@@ -180,7 +177,7 @@
     },
     {
       "timestamp": "2026-06-15T07:00:00",
-      "category": null,
+      "category": "Acquisition",
       "headline": "Statement Regarding Possible Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/union-jack-oil--ujo/statement-regarding-possible-offer/9617109",
       "enriched": false,
@@ -190,7 +187,7 @@
     },
     {
       "timestamp": "2026-06-03T07:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Director Resignation",
       "url": "https://www.investegate.co.uk/announcement/rns/union-jack-oil--ujo/director-resignation-/9598402",
       "enriched": false,

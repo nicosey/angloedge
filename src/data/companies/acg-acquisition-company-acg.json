@@ -7,17 +7,13 @@
   "announcements": [
     {
       "timestamp": "2026-11-18T18:13:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/acg-acquisition-company-limited-cls-a-npv-di---acg/tr-1-notification-of-major-holdings/9882796",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory filing for an SPAC tracking major holdings, indicating no immediate strategic shift or capital event. Such notifications are routine administrative requirements with negligible impact on share price or corporate trajectory.",
-      "key_themes": [
-        "SPAC",
-        "Regulatory Compliance",
-        "Minor"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-11-11T07:00:00",
@@ -41,7 +37,7 @@
     },
     {
       "timestamp": "2026-11-03T17:47:00",
-      "category": null,
+      "category": "Acquisition",
       "headline": "ACG to Acquire Blue Moon Norway (Replacement)",
       "url": "https://www.investegate.co.uk/announcement/rns/acg-acquisition-company-limited-cls-a-npv-di---acg/acg-to-acquire-blue-moon-norway-replacement-/9856700",
       "enriched": false,
@@ -107,7 +103,7 @@
     },
     {
       "timestamp": "2026-09-07T07:00:00",
-      "category": null,
+      "category": "Acquisition",
       "headline": "ACG to Acquire Licence to Extend Gold Production",
       "url": "https://www.investegate.co.uk/announcement/rns/acg-acquisition-company-limited-cls-a-npv-di---acg/acg-to-acquire-licence-to-extend-gold-production/9757566",
       "enriched": false,

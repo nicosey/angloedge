@@ -7,20 +7,17 @@
   "announcements": [
     {
       "timestamp": "2026-11-03T07:00:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/tr-1-notification-of-major-holdings/9854514",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of major shareholding changes rather than a substantive corporate event; without details on the direction (buy/sell) or volume, it offers no immediate signal for Afentra's valuation or strategy.",
-      "key_themes": [
-        "regulatory_compliance",
-        "shareholder_structure"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-10-29T12:00:00",
-      "category": null,
+      "category": "Acquisition",
       "headline": "Etu Acquisition Update",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/etu-acquisition-update/9848591",
       "enriched": false,
@@ -43,7 +40,7 @@
     },
     {
       "timestamp": "2026-10-06T14:23:00",
-      "category": null,
+      "category": "Acquisition",
       "headline": "Etu Acquisition Update",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/etu-acquisition-update-/9809496",
       "enriched": false,
@@ -53,7 +50,7 @@
     },
     {
       "timestamp": "2026-08-04T07:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Directorate Change",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/directorate-change-/9702448",
       "enriched": false,
@@ -99,16 +96,13 @@
     },
     {
       "timestamp": "2026-06-30T10:50:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/tr-1-notification-of-major-holdings-/9644482",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory filing for major shareholding changes rather than a substantive corporate event; without details on the direction (buy/sell) or magnitude, it signals no immediate strategic shift in Afentra's capital structure or control.",
-      "key_themes": [
-        "regulatory_compliance",
-        "ownership_structure"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-06-25T12:35:00",
@@ -139,16 +133,13 @@
     },
     {
       "timestamp": "2026-06-10T14:13:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/tr-1-notification-of-major-holdings-/9611935",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "Standard regulatory disclosure of director shareholdings for a small-cap infrastructure firm; lacks the transformative catalysts or insider sentiment signals required to move the stock significantly.",
-      "key_themes": [
-        "Corporate Governance",
-        "Small Cap"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-06-09T07:00:00",
@@ -162,7 +153,7 @@
     },
     {
       "timestamp": "2026-06-09T07:00:00",
-      "category": null,
+      "category": "Placing",
       "headline": "Result of Oversubscribed WRAP Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/result-of-oversubscribed-wrap-retail-offer-/9607747",
       "enriched": false,
@@ -172,7 +163,7 @@
     },
     {
       "timestamp": "2026-06-04T12:57:00",
-      "category": null,
+      "category": "Placing",
       "headline": "Fundraising Update Interview",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/fundraising-update-interview-/9602320",
       "enriched": false,
@@ -196,7 +187,7 @@
     },
     {
       "timestamp": "2026-06-04T07:00:00",
-      "category": null,
+      "category": "Placing",
       "headline": "WRAP Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/wrap-retail-offer/9600698",
       "enriched": false,
@@ -206,7 +197,7 @@
     },
     {
       "timestamp": "2026-06-03T18:13:00",
-      "category": null,
+      "category": "Placing",
       "headline": "Proposed Equity Fundraising",
       "url": "https://www.investegate.co.uk/announcement/rns/afentra--aet/proposed-equity-fundraising-/9600569",
       "enriched": false,

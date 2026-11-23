@@ -43,16 +43,13 @@
     },
     {
       "timestamp": "2026-10-30T10:09:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1: notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/mortgage-advice-bureau-holdings---mab1/tr-1-notification-of-major-holdings/9850518",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory filing for major shareholding notifications under the FCA's Disclosure Guidance and Transparency Rules (DTR), common in smaller cap financial services firms where director holdings are closely monitored but do not inherently signal strategic shifts or material price-moving events.",
-      "key_themes": [
-        "regulatory compliance",
-        "insider transparency"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-10-20T12:23:00",
@@ -95,7 +92,7 @@
     },
     {
       "timestamp": "2026-09-29T17:58:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/mortgage-advice-bureau-holdings---mab1/board-changes-/9797378",
       "enriched": false,
@@ -214,7 +211,7 @@
     },
     {
       "timestamp": "2026-06-29T09:30:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Appointment of Group CFO Designate & Board Changes",
       "url": "https://www.investegate.co.uk/announcement/rns/mortgage-advice-bureau-holdings---mab1/appointment-of-group-cfo-designate-board-changes/9641666",
       "enriched": false,
@@ -263,7 +260,7 @@
     },
     {
       "timestamp": "2026-06-01T14:53:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/mortgage-advice-bureau-holdings---mab1/directorate-change/9595507",
       "enriched": false,

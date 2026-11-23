@@ -83,7 +83,7 @@
     },
     {
       "timestamp": "2026-10-20T07:00:00",
-      "category": null,
+      "category": "Placing",
       "headline": "Result of Fundraise, Restoration of Trading & TVR",
       "url": "https://www.investegate.co.uk/announcement/rns/ondine-biomedical-inc-npv-cdi---obi/result-of-fundraise-restoration-of-trading-tvr/9830670",
       "enriched": false,
@@ -93,7 +93,7 @@
     },
     {
       "timestamp": "2026-10-19T16:18:00",
-      "category": null,
+      "category": "Placing",
       "headline": "Proposed c.£10m (C$18.88m) Fundraise",
       "url": "https://www.investegate.co.uk/announcement/rns/ondine-biomedical-inc-npv-cdi---obi/proposed-c-10m-c-18-88m-fundraise/9830307",
       "enriched": false,
@@ -231,16 +231,13 @@
     },
     {
       "timestamp": "2026-06-30T18:15:00",
-      "category": "Results",
+      "category": "AGM/EGM",
       "headline": "Result of AGM and voting results",
       "url": "https://www.investegate.co.uk/announcement/rns/ondine-biomedical-inc-npv-cdi---obi/result-of-agm-and-voting-results-/9645448",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which carries no immediate financial or strategic weight for equity valuation.",
-      "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-06-30T07:00:00",

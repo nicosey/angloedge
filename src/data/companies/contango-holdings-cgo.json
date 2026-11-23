@@ -37,7 +37,7 @@
     },
     {
       "timestamp": "2026-11-06T10:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/contango-holdings--cgo/directorate-change/9862827",
       "enriched": false,
@@ -57,7 +57,7 @@
     },
     {
       "timestamp": "2026-09-30T12:00:00",
-      "category": null,
+      "category": "Results",
       "headline": "Annual Financial Report",
       "url": "https://www.investegate.co.uk/announcement/rns/contango-holdings--cgo/annual-financial-report/9799171",
       "enriched": false,
@@ -107,16 +107,13 @@
     },
     {
       "timestamp": "2026-07-29T13:01:00",
-      "category": "Results",
+      "category": "AGM/EGM",
       "headline": "Results of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/contango-holdings--cgo/results-of-general-meeting-/9694083",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes rather than a substantive operational update; without details on specific resolutions (e.g., mandate renewals), it carries negligible immediate pricing impact for Contango's gold mining operations.",
-      "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-07-08T07:55:00",

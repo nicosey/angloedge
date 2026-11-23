@@ -7,7 +7,7 @@
   "announcements": [
     {
       "timestamp": "2026-11-12T07:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Strategic Update and Directorate Change",
       "url": "https://www.investegate.co.uk/announcement/rns/ingenta--ing/strategic-update-and-directorate-change/9871472",
       "enriched": false,
@@ -27,16 +27,13 @@
     },
     {
       "timestamp": "2026-08-12T10:54:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/ingenta--ing/tr-1-notification-of-major-holdings/9718087",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of major shareholding changes rather than a corporate action or strategic shift; for Ingenta, such filings are routine administrative updates with no immediate implication for valuation or control dynamics.",
-      "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-06-25T14:56:00",

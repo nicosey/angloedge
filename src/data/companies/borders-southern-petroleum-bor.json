@@ -7,7 +7,7 @@
   "announcements": [
     {
       "timestamp": "2026-10-12T07:00:00",
-      "category": null,
+      "category": "Placing",
       "headline": "£2 million Fundraising",
       "url": "https://www.investegate.co.uk/announcement/rns/borders-southern-petroleum--bor/-2-million-fundraising/9816836",
       "enriched": false,
@@ -130,16 +130,13 @@
     },
     {
       "timestamp": "2026-06-25T11:47:00",
-      "category": "Results",
+      "category": "AGM/EGM",
       "headline": "Results of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/borders-southern-petroleum--bor/results-of-agm/9637132",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine shareholder approvals rather than substantive strategic shifts or financial disclosures.",
-      "key_themes": [
-        "Corporate Governance",
-        "AGM"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-06-17T09:21:00",

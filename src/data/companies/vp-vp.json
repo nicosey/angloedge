@@ -79,7 +79,7 @@
     },
     {
       "timestamp": "2026-08-21T08:30:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./directorate-change/9733988",
       "enriched": false,
@@ -102,7 +102,7 @@
     },
     {
       "timestamp": "2026-07-30T12:29:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Directorate Change",
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./directorate-change/9696410",
       "enriched": false,
@@ -112,16 +112,13 @@
     },
     {
       "timestamp": "2026-07-23T15:00:00",
-      "category": "Results",
+      "category": "AGM/EGM",
       "headline": "Results of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./results-of-annual-general-meeting/9684880",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the AGM; it carries no new financial data or strategic shifts and is typical routine governance for VP.",
-      "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-07-21T15:36:00",

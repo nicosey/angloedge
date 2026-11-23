@@ -17,16 +17,13 @@
     },
     {
       "timestamp": "2026-09-30T14:11:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1 Notification",
       "url": "https://www.investegate.co.uk/announcement/rns/schroders--sdr/tr-1-notification/9799510",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard TR-1 notification for a director dealing, which carries minimal immediate market impact compared to substantive corporate actions. While Schroders' stock is sensitive to AUM flows and fee compression trends in the asset management sector, routine insider transactions do not signal strategic shifts or material financial changes.",
-      "key_themes": [
-        "insider_activity",
-        "routine_disclosure"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-09-30T12:31:00",
@@ -558,16 +555,13 @@
     },
     {
       "timestamp": "2026-07-27T17:29:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/schroders--sdr/tr-1-notification-of-major-holdings/9689765",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of existing major shareholdings rather than a new transaction, indicating no immediate change in control or insider sentiment. In the asset management sector, such filings are routine administrative updates that do not signal strategic shifts or material market-moving events.",
-      "key_themes": [
-        "Regulatory Compliance",
-        "No Material Change"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-07-27T07:00:00",

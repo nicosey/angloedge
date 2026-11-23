@@ -7,16 +7,13 @@
   "announcements": [
     {
       "timestamp": "2026-11-05T09:00:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/cloudbreak-discovery--cdl/tr-1-notification-of-major-holdings/9860238",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory filing for major shareholding notifications rather than a transactional event; while it confirms significant insider ownership which can signal alignment with shareholders, it lacks the immediate catalystic weight of M&A or capital raising.",
-      "key_themes": [
-        "regulatory_compliance",
-        "insider_ownership"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-10-30T07:00:00",
@@ -30,16 +27,13 @@
     },
     {
       "timestamp": "2026-10-12T11:30:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/cloudbreak-discovery--cdl/tr-1-notification-of-major-holdings/9818193",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard TR-1 notification of major holdings rather than a direct dealing event, indicating routine regulatory compliance for significant shareholders in the speculative exploration sector where Cloudbreak operates.",
-      "key_themes": [
-        "Regulatory Compliance",
-        "Shareholder Structure"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-06-05T12:00:00",

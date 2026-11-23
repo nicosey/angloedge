@@ -17,7 +17,7 @@
     },
     {
       "timestamp": "2026-11-17T07:00:00",
-      "category": null,
+      "category": "Placing",
       "headline": "Update on Proposed Fundraising",
       "url": "https://www.investegate.co.uk/announcement/rns/pulsar-group--puls/update-on-proposed-fundraising/9878240",
       "enriched": false,
@@ -83,16 +83,13 @@
     },
     {
       "timestamp": "2026-07-14T17:36:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1: Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/pulsar-group--puls/tr-1-notification-of-major-holdings-/9668783",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of major shareholdings rather than a transactional event, indicating no immediate change in control or strategic direction for the engineering services firm.",
-      "key_themes": [
-        "regulatory_compliance",
-        "ownership_structure"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-05-28T15:30:00",

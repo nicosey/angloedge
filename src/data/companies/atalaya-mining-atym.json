@@ -7,16 +7,13 @@
   "announcements": [
     {
       "timestamp": "2026-11-20T18:23:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1 Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/atalaya-mining--atym/tr-1-notification-of-major-holdings/9887353",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard TR-1 notification of major holdings rather than a direct director dealing event, indicating routine regulatory compliance for significant shareholders in the mining sector. While it confirms ownership thresholds, it lacks the immediate price-moving catalysts associated with transformative corporate actions or insider trading signals.",
-      "key_themes": [
-        "Regulatory Compliance",
-        "Shareholder Structure"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-11-20T12:18:00",
@@ -30,7 +27,7 @@
     },
     {
       "timestamp": "2026-11-11T12:04:00",
-      "category": null,
+      "category": "Acquisition",
       "headline": "Atalaya Acquires Tharsis Mining",
       "url": "https://www.investegate.co.uk/announcement/rns/atalaya-mining--atym/atalaya-acquires-tharsis-mining-/9870287",
       "enriched": false,
@@ -73,16 +70,13 @@
     },
     {
       "timestamp": "2026-08-17T07:00:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1",
       "url": "https://www.investegate.co.uk/announcement/rns/atalaya-mining--atym/tr-1/9723837",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine director dealing disclosures typically carry minimal market impact unless involving significant insider buying during a downturn; without volume or price context, this is standard administrative compliance rather than a signal of strategic shift.",
-      "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-08-12T07:00:00",

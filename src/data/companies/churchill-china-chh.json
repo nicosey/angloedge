@@ -7,7 +7,7 @@
   "announcements": [
     {
       "timestamp": "2026-11-18T09:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Directorate Change",
       "url": "https://www.investegate.co.uk/announcement/rns/churchill-china--chh/directorate-change-/9881572",
       "enriched": false,
@@ -17,7 +17,7 @@
     },
     {
       "timestamp": "2026-11-13T07:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "CFO Appointment",
       "url": "https://www.investegate.co.uk/announcement/rns/churchill-china--chh/cfo-appointment-/9873593",
       "enriched": false,
@@ -84,7 +84,7 @@
     },
     {
       "timestamp": "2026-08-21T09:30:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/churchill-china--chh/directorate-change/9734193",
       "enriched": false,
@@ -128,16 +128,13 @@
     },
     {
       "timestamp": "2026-05-29T17:35:00",
-      "category": "Results",
+      "category": "AGM/EGM",
       "headline": "Results of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/churchill-china--chh/results-of-agm/9593008",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as dividend approval and director re-election rather than strategic shifts or financial performance updates.",
-      "key_themes": [
-        "Corporate Governance",
-        "AGM"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     }
   ]
 }

@@ -67,7 +67,7 @@
     },
     {
       "timestamp": "2026-09-02T10:49:00",
-      "category": null,
+      "category": "Acquisition",
       "headline": "Prima Energy acquires 28.3% in Jadestone Energy",
       "url": "https://www.investegate.co.uk/announcement/rns/jadestone-energy--jse/prima-energy-acquires-28-3-in-jadestone-energy/9751761",
       "enriched": false,
@@ -159,16 +159,13 @@
     },
     {
       "timestamp": "2026-06-11T11:06:00",
-      "category": "Results",
+      "category": "AGM/EGM",
       "headline": "Results of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/jadestone-energy--jse/results-of-annual-general-meeting/9613876",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a standard procedural filing confirming shareholder approval for routine governance matters, carrying no new strategic direction or financial data. In the current UK E&P sector, investors are prioritizing capital discipline and dividend sustainability over administrative updates, rendering this announcement market-neutral.",
-      "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     }
   ]
 }

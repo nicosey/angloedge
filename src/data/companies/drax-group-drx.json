@@ -77,7 +77,7 @@
     },
     {
       "timestamp": "2026-09-08T09:31:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/drax-group--drx/directorate-change/9760901",
       "enriched": false,
@@ -174,7 +174,7 @@
     },
     {
       "timestamp": "2026-07-30T10:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Directorate change",
       "url": "https://www.investegate.co.uk/announcement/rns/drax-group--drx/directorate-change/9695905",
       "enriched": false,
@@ -184,16 +184,13 @@
     },
     {
       "timestamp": "2026-07-24T13:58:00",
-      "category": "Results",
+      "category": "AGM/EGM",
       "headline": "Results of Court & General Meetings",
       "url": "https://www.investegate.co.uk/announcement/rns/drax-group--drx/results-of-court-general-meetings/9687102",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a standard administrative filing confirming the approval of annual accounts and director re-elections, carrying no new financial data or strategic shifts for Drax's biomass transition.",
-      "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-07-22T10:00:00",

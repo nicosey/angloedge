@@ -7,16 +7,13 @@
   "announcements": [
     {
       "timestamp": "2026-11-20T11:59:00",
-      "category": "Results",
+      "category": null,
       "headline": "Results analysis from Kepler Trust Intelligence",
       "url": "https://www.investegate.co.uk/announcement/rns/rockwood-strategic--rkw/results-analysis-from-kepler-trust-intelligence/9886785",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "As a third-party analysis report rather than primary corporate disclosure, this RNS carries no direct financial impact on Rockwood Strategic's valuation or operational guidance.",
-      "key_themes": [
-        "analyst commentary",
-        "market sentiment"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-11-18T07:05:00",
@@ -129,16 +126,13 @@
     },
     {
       "timestamp": "2026-06-18T09:46:00",
-      "category": "Results",
+      "category": null,
       "headline": "Results analysis from Kepler Trust Intelligence",
       "url": "https://www.investegate.co.uk/announcement/rns/rockwood-strategic--rkw/results-analysis-from-kepler-trust-intelligence/9625405",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This is an external analyst commentary rather than a primary company announcement, indicating no immediate material corporate action or financial data release from Rockwood Strategic itself.",
-      "key_themes": [
-        "analyst_report",
-        "no_material_event"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     }
   ]
 }

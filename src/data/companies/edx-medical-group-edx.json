@@ -7,7 +7,7 @@
   "announcements": [
     {
       "timestamp": "2026-11-17T07:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Appointment of CEO and board changes",
       "url": "https://www.investegate.co.uk/announcement/rns/edx-medical-group-plc--edx/appointment-of-ceo-and-board-changes/9878207",
       "enriched": false,
@@ -53,7 +53,7 @@
     },
     {
       "timestamp": "2026-11-05T13:45:00",
-      "category": null,
+      "category": "Director Dealing",
       "headline": "Director dealings",
       "url": "https://www.investegate.co.uk/announcement/rns/edx-medical-group-plc--edx/director-dealings/9860964",
       "enriched": false,
@@ -73,7 +73,7 @@
     },
     {
       "timestamp": "2026-10-30T07:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Leading industry figure appointed chair",
       "url": "https://www.investegate.co.uk/announcement/rns/edx-medical-group-plc--edx/leading-industry-figure-appointed-chair/9849238",
       "enriched": false,
@@ -156,7 +156,7 @@
     },
     {
       "timestamp": "2026-08-24T07:00:00",
-      "category": null,
+      "category": "Placing",
       "headline": "Equity Fundraising of £2.7 million",
       "url": "https://www.investegate.co.uk/announcement/rns/edx-medical-group-plc--edx/equity-fundraising-of-2-7-million/9735251",
       "enriched": false,
@@ -196,16 +196,13 @@
     },
     {
       "timestamp": "2026-06-26T14:30:00",
-      "category": "Results",
+      "category": "AGM/EGM",
       "headline": "Results of General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/edx-medical-group-plc--edx/results-of-general-meeting-/9639864",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes, likely related to routine governance or minor capital matters rather than strategic shifts. In the current UK market environment, such announcements are common for small-cap medtech firms but carry no immediate valuation impact without accompanying trading updates.",
-      "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-06-05T07:00:00",

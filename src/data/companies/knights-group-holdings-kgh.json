@@ -40,7 +40,7 @@
     },
     {
       "timestamp": "2026-10-07T07:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Appointment of Joint Corporate Broker",
       "url": "https://www.investegate.co.uk/announcement/rns/knights-group-holdings--kgh/appointment-of-joint-corporate-broker/9810119",
       "enriched": false,
@@ -50,20 +50,17 @@
     },
     {
       "timestamp": "2026-09-29T12:36:00",
-      "category": "Results",
+      "category": "AGM/EGM",
       "headline": "Results of AGM",
       "url": "https://www.investegate.co.uk/announcement/rns/knights-group-holdings--kgh/results-of-agm-/9796833",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting rather than a financial performance update or strategic shift. For Knights Group, market attention remains focused on its core business execution and margin trends in the automotive retail sector, not routine shareholder ratification.",
-      "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-09-25T10:25:00",
-      "category": null,
+      "category": "Acquisition",
       "headline": "Completion of acquisition of THP Solicitors",
       "url": "https://www.investegate.co.uk/announcement/rns/knights-group-holdings--kgh/completion-of-acquisition-of-thp-solicitors/9791655",
       "enriched": false,
@@ -96,7 +93,7 @@
     },
     {
       "timestamp": "2026-08-21T07:00:00",
-      "category": null,
+      "category": "Acquisition",
       "headline": "Acquisition of Moore Barlow LLP",
       "url": "https://www.investegate.co.uk/announcement/rns/knights-group-holdings--kgh/acquisition-of-moore-barlow-llp/9733047",
       "enriched": false,

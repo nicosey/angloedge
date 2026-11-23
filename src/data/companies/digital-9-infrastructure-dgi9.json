@@ -31,16 +31,13 @@
     },
     {
       "timestamp": "2026-07-07T15:34:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1 Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/digital-9-infrastructure-npv--dgi9/tr-1-notification-of-major-holdings/9656839",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of insider shareholding changes rather than a strategic corporate action; while it confirms ongoing monitoring by directors, it lacks the transformative signal required for significant price movement in the current infrastructure sector.",
-      "key_themes": [
-        "Regulatory Compliance",
-        "Insider Activity"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-06-09T14:21:00",
@@ -54,16 +51,13 @@
     },
     {
       "timestamp": "2026-06-02T16:16:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1 Notification of Major Holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/digital-9-infrastructure-npv--dgi9/tr-1-notification-of-major-holdings/9598112",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of a director's shareholding change, which is routine administrative activity for closed-end investment trusts like DGI9 and carries no intrinsic signal regarding the fund's underlying asset performance or strategic direction.",
-      "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     }
   ]
 }

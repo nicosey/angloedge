@@ -110,7 +110,7 @@
     },
     {
       "timestamp": "2026-10-02T07:00:00",
-      "category": null,
+      "category": "Acquisition",
       "headline": "Update on Recommended Cash Acquisition by Genel",
       "url": "https://www.investegate.co.uk/announcement/rns/capricorn-energy--cne/update-on-recommended-cash-acquisition-by-genel/9803017",
       "enriched": false,
@@ -239,17 +239,13 @@
     },
     {
       "timestamp": "2026-08-18T16:00:00",
-      "category": "Results",
+      "category": "AGM/EGM",
       "headline": "Results of Court Meeting and General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/capricorn-energy--cne/results-of-court-meeting-and-general-meeting/9728243",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement confirms the successful completion of a debt restructuring scheme of arrangement, a critical administrative step following the earlier court approval that removes immediate liquidity risk but does not alter the underlying operational or commodity price dynamics.",
-      "key_themes": [
-        "debt_restructuring",
-        "liquidity_management",
-        "corporate_governance"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-08-11T16:04:00",
@@ -423,7 +419,7 @@
     },
     {
       "timestamp": "2026-07-02T07:24:00",
-      "category": null,
+      "category": "Acquisition",
       "headline": "Recommended cash acquisition of Capricorn by Genel",
       "url": "https://www.investegate.co.uk/announcement/rns/capricorn-energy--cne/recommended-cash-acquisition-of-capricorn-by-genel/9649180",
       "enriched": false,

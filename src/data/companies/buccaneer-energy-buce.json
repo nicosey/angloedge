@@ -30,7 +30,7 @@
     },
     {
       "timestamp": "2026-11-12T07:02:00",
-      "category": null,
+      "category": "Placing",
       "headline": "WRAP Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/buccaneer-energy-plc--buce/wrap-retail-offer-/9871490",
       "enriched": false,
@@ -40,7 +40,7 @@
     },
     {
       "timestamp": "2026-11-12T07:01:00",
-      "category": null,
+      "category": "Placing",
       "headline": "Fundraise and Proposed WRAP Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/buccaneer-energy-plc--buce/fundraise-and-proposed-wrap-retail-offer-/9871466",
       "enriched": false,
@@ -140,16 +140,13 @@
     },
     {
       "timestamp": "2026-06-30T09:43:00",
-      "category": "Results",
+      "category": "AGM/EGM",
       "headline": "Results of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/buccaneer-energy-plc--buce/results-of-annual-general-meeting/9644302",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the Annual General Meeting, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital allocation changes.",
-      "key_themes": [
-        "Corporate Governance",
-        "AGM"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-06-24T07:00:00",

@@ -7,7 +7,7 @@
   "announcements": [
     {
       "timestamp": "2026-11-19T07:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Board Update",
       "url": "https://www.investegate.co.uk/announcement/rns/b-hodl-plc--hodl/board-update/9882991",
       "enriched": false,
@@ -130,29 +130,23 @@
     },
     {
       "timestamp": "2026-09-02T12:13:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/b-hodl-plc--hodl/tr-1-notification-of-major-holdings/9752118",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory filing for major shareholding notifications under the FCA's Disclosure Guidance and Transparency Rules (DTR 5), rather than a substantive corporate event or strategic shift.",
-      "key_themes": [
-        "Regulatory Compliance",
-        "Shareholder Transparency"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-08-26T16:31:00",
-      "category": "Director Dealing",
+      "category": null,
       "headline": "TR-1: Notification of major holdings",
       "url": "https://www.investegate.co.uk/announcement/rns/b-hodl-plc--hodl/tr-1-notification-of-major-holdings/9741946",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of major shareholding changes rather than a corporate action; while it signals insider activity, it lacks the transformative weight of M&A or earnings guidance.",
-      "key_themes": [
-        "regulatory compliance",
-        "insider ownership"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-08-21T07:00:00",

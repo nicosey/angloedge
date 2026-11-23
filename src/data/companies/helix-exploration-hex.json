@@ -57,7 +57,7 @@
     },
     {
       "timestamp": "2026-08-12T07:05:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Appointment of Non-Executive Director",
       "url": "https://www.investegate.co.uk/announcement/rns/helix-exploration--hex/appointment-of-non-executive-director/9716997",
       "enriched": false,
@@ -67,7 +67,7 @@
     },
     {
       "timestamp": "2026-07-27T07:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Directorate Change - Appointment of CFO",
       "url": "https://www.investegate.co.uk/announcement/rns/helix-exploration--hex/directorate-change-appointment-of-cfo/9687646",
       "enriched": false,
@@ -117,7 +117,7 @@
     },
     {
       "timestamp": "2026-07-13T07:00:00",
-      "category": null,
+      "category": "Acquisition",
       "headline": "Completion of Acquisition of Keyes Helium Complex",
       "url": "https://www.investegate.co.uk/announcement/rns/helix-exploration--hex/completion-of-acquisition-of-keyes-helium-complex-/9664203",
       "enriched": false,
@@ -127,7 +127,7 @@
     },
     {
       "timestamp": "2026-07-03T11:47:00",
-      "category": null,
+      "category": "Placing",
       "headline": "Result of Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/helix-exploration--hex/result-of-retail-offer/9652297",
       "enriched": false,
@@ -150,7 +150,7 @@
     },
     {
       "timestamp": "2026-07-02T18:37:00",
-      "category": null,
+      "category": "Placing",
       "headline": "Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/helix-exploration--hex/retail-offer/9650573",
       "enriched": false,
@@ -160,17 +160,13 @@
     },
     {
       "timestamp": "2026-07-02T18:37:00",
-      "category": "Placing",
+      "category": "Acquisition",
       "headline": "Acquisition, Placing & Retail Offer",
       "url": "https://www.investegate.co.uk/announcement/rns/helix-exploration--hex/acquisition-placing-retail-offer/9650572",
-      "enriched": true,
-      "impact_score": 6,
-      "insight": "The combination of a placing and retail offer signals an urgent need for liquidity to fund the acquisition, typical for small-cap explorers seeking scale but diluting existing shareholders. In the current capital-constrained junior mining sector, this highlights the high cost of growth via equity issuance rather than organic cash flow.",
-      "key_themes": [
-        "Capital Raise",
-        "Acquisition",
-        "Dilution"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-06-02T07:00:00",

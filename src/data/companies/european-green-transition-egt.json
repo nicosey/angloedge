@@ -17,7 +17,7 @@
     },
     {
       "timestamp": "2026-11-04T07:00:00",
-      "category": null,
+      "category": "Appointment",
       "headline": "Appointment of Nominated Adviser and Broker",
       "url": "https://www.investegate.co.uk/announcement/rns/european-green-transition--egt/appointment-of-nominated-adviser-and-broker-/9856976",
       "enriched": false,
@@ -73,16 +73,13 @@
     },
     {
       "timestamp": "2026-06-29T12:21:00",
-      "category": "Results",
+      "category": "AGM/EGM",
       "headline": "Results of Annual General Meeting",
       "url": "https://www.investegate.co.uk/announcement/rns/european-green-transition--egt/results-of-annual-general-meeting/9642184",
-      "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes, which typically carries no immediate financial implication for EGT's valuation or operational trajectory.",
-      "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-06-05T07:00:00",
