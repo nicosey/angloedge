@@ -2,9 +2,20 @@
   "name": "JPMorgan US Smaller Co. Inv Tst",
   "ticker": "JUSC",
   "slug": "jpmorgan-us-smaller-co-inv-tst-jusc",
-  "announcement_count": 94,
-  "latest_announcement": "2026-11-23T11:34:00",
+  "announcement_count": 95,
+  "latest_announcement": "2026-11-23T17:17:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T17:17:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-us-smaller-co-inv-tst--jusc/transaction-in-own-shares/9889715",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T11:34:00",
       "category": null,
@@ -220,11 +231,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in closed-end investment trusts like JUSC typically reflect personal portfolio rebalancing rather than corporate strategy shifts, offering minimal signal for the underlying US small-cap equity performance.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine changes in shareholding by persons discharging managerial responsibilities. Such disclosures are standard regulatory requirements and generally carry low immediate impact on shareholder value unless they signal significant insider sentiment shifts.",
       "key_themes": [
-        "closed-end fund",
-        "insider activity",
-        "low impact"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -887,11 +897,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-us-smaller-co-inv-tst--jusc/directorate-change-appointment-of-director/9632629",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine board-level personnel change with negligible immediate impact on the fund's investment strategy or NAV; typical for closed-end funds to manage governance without signaling strategic shifts.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the board composition, which is a standard governance update. It signifies a routine alteration to the company's leadership structure without implying immediate strategic or financial consequences.",
       "key_themes": [
         "Governance",
-        "Corporate Action"
+        "Board Change"
       ]
     },
     {

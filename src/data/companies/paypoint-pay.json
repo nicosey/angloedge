@@ -2,9 +2,34 @@
   "name": "PayPoint",
   "ticker": "PAY",
   "slug": "paypoint-pay",
-  "announcement_count": 45,
-  "latest_announcement": "2026-11-23T16:21:00",
+  "announcement_count": 47,
+  "latest_announcement": "2026-11-24T16:24:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T16:24:00",
+      "category": "Director Dealing",
+      "headline": "PayPoint plc : Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/gnw/paypoint--pay/paypoint-plc-director-pdmr-shareholding/9891909",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with responsibility for managing the company. Such disclosures are standard governance requirements and generally carry low immediate impact on shareholder value.",
+      "key_themes": [
+        "Governance",
+        "Director Dealing"
+      ]
+    },
+    {
+      "timestamp": "2026-11-24T09:18:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/paypoint--pay/transaction-in-own-shares/9891004",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T16:21:00",
       "category": "Director Dealing",
@@ -13,10 +38,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in the payment infrastructure sector typically signal internal alignment rather than strategic shifts, offering negligible immediate catalyst for share price movement compared to broader macro liquidity trends.",
+      "insight": "This announcement typically signifies routine compliance reporting of share transactions by individuals with senior management responsibilities. It provides transparency into insider activity but generally lacks the weight to drive significant shareholder value changes on its own.",
       "key_themes": [
-        "Corporate Governance",
-        "Low Impact"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -82,10 +107,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in the payment infrastructure sector typically signal low immediate volatility unless accompanied by block trades or insider cluster activity; without volume context, this remains an administrative disclosure with negligible price impact.",
+      "insight": "This announcement discloses transactions by directors or persons discharging managerial responsibilities, which is a standard regulatory requirement for transparency. It provides limited insight into future company performance but confirms insider activity levels.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -157,10 +182,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on share price dynamics; PayPoint's value is primarily driven by utility contract renewals and interest rate environments rather than individual insider transactions.",
+      "insight": "This announcement discloses transactions by directors or persons discharging managerial responsibilities, which is a routine regulatory filing. It provides limited insight into future performance but may signal insider sentiment regarding the company's prospects.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_materiality"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -182,10 +207,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in the payment infrastructure sector typically signal internal confidence but lack the materiality to drive immediate share price volatility compared to operational updates.",
+      "insight": "This announcement relates to director shareholdings, which typically indicates routine regulatory disclosure of insider transactions rather than a significant corporate event. Shareholders should view this as standard governance reporting with limited immediate impact on company value.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -282,10 +307,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in the payment infrastructure sector typically signal internal confidence rather than strategic shifts, especially given PayPoint's stable cash flow model and lack of recent volatility.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine changes in shareholding by individuals with senior management responsibilities. Such filings are standard regulatory requirements and generally carry low immediate significance for shareholder value unless accompanied by other material disclosures.",
       "key_themes": [
-        "Corporate Governance",
-        "Minor Administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -379,10 +404,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in the payment infrastructure sector typically signal internal confidence or liquidity management rather than strategic shifts, offering negligible immediate catalyst for share price movement compared to broader macro trends affecting transaction volumes.",
+      "insight": "This announcement relates to director shareholding transactions, which are routine regulatory disclosures indicating insider activity rather than strategic corporate developments. Such filings generally have minimal direct impact on shareholder value unless they signal a significant change in management confidence.",
       "key_themes": [
-        "Corporate Governance",
-        "Minor Administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -392,11 +417,11 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/paypoint--pay/result-of-2026-agm/9694096",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine AGM results typically confirm shareholder approval of standard governance items with negligible immediate financial impact, reflecting the low volatility and administrative nature of PayPoint's current operational phase.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or auditor appointments. It signifies standard corporate governance compliance rather than a material change in the company's strategic direction or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -418,10 +443,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in the payment infrastructure sector typically signal internal confidence rather than strategic shifts, offering negligible immediate catalyst for share price movement compared to broader macro liquidity trends.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities rather than significant corporate events. Such filings generally have limited immediate impact on shareholder value unless they signal a broader strategic shift or unusual concentration of ownership.",
       "key_themes": [
-        "corporate governance",
-        "minor administrative"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -490,10 +515,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in the payment infrastructure sector typically signal internal confidence or liquidity management rather than strategic shifts, offering negligible immediate catalyst for share price movement compared to broader macro drivers.",
+      "insight": "This announcement discloses transactions by a person discharging managerial responsibilities, which is a standard regulatory requirement for insider dealing transparency. It provides information on individual shareholding changes but does not inherently signal a strategic shift or material financial event for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -503,12 +528,11 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/paypoint--pay/paypoint-completes-acquisition-of-aperidata-/9634105",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This acquisition strategically positions PayPoint to monetize Open Banking data flows, aligning with the broader fintech shift toward API-driven revenue models and reducing reliance on traditional cash-in/cash-out fees.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a material acquisition that expands the company's capabilities in a strategic area, potentially driving future growth and competitive positioning for shareholders.",
       "key_themes": [
-        "Open Banking",
-        "Fintech Infrastructure",
-        "Strategic Expansion"
+        "M&A",
+        "Strategic expansion"
       ]
     },
     {

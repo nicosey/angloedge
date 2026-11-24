@@ -40,11 +40,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/samsung-electronics-co-ltd-att---smsd/transaction-with-affiliate-company/9850162",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard affiliate transaction typical of Samsung's corporate structure, likely involving intercompany logistics or IP licensing rather than a material market-moving event for the UK-listed entity.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a transaction between the company and an affiliate, which typically involves related-party dealings that require shareholder disclosure for transparency. Without details on the nature or value of the transaction, it is generally considered a routine governance matter rather than a material event.",
       "key_themes": [
-        "Corporate Governance",
-        "Intercompany Transaction"
+        "Related Party Transaction",
+        "Governance"
       ]
     },
     {
@@ -54,8 +54,8 @@
       "url": "https://www.investegate.co.uk/announcement/rns/samsung-electronics-co-ltd-att---smsd/charitable-contribution/9848209",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Charitable contributions are non-operational expenses with negligible financial impact on Samsung Electronics' valuation or UK-listed SMSD performance, reflecting standard corporate governance rather than strategic market movement.",
+      "impact_score": 1,
+      "insight": "This announcement signifies a charitable contribution by the company, which is generally considered an administrative or corporate social responsibility activity with no direct financial impact on shareholders.",
       "key_themes": [
         "Corporate Social Responsibility",
         "Administrative"
@@ -68,11 +68,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/samsung-electronics-co-ltd-att---smsd/decision-on-share-disposition/9848197",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard disclosure of share disposition by an associated company, likely reflecting routine portfolio management or tax compliance rather than a strategic divestment signal. Such announcements are common for major foreign entities holding UK-listed stakes and typically have negligible impact on SMSD's liquidity or valuation.",
+      "impact_score": 7,
+      "insight": "This announcement indicates a formal decision regarding the reduction of shareholding by an external entity, which may signal a change in investor sentiment or strategic alignment. Shareholders should monitor for potential implications on share liquidity and future price direction resulting from this disposition.",
       "key_themes": [
-        "Shareholder Activity",
-        "Administrative Disclosure"
+        "Share Disposition",
+        "Investor Relations"
       ]
     },
     {
@@ -82,11 +82,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/samsung-electronics-co-ltd-att---smsd/transactions-with-affiliate-company/9848097",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard disclosure of intercompany transactions with an affiliate, typical for multinational supply chains in the semiconductor sector and devoid of material financial impact on SMSD's standalone performance.",
+      "impact_score": 3,
+      "insight": "This announcement indicates routine transactions between the company and its affiliate, which typically involve standard intercompany arrangements rather than significant strategic shifts. Shareholders should expect minimal immediate impact on valuation unless further details reveal material terms.",
       "key_themes": [
-        "Corporate Governance",
-        "Related Party Transactions"
+        "Related Party Transactions",
+        "Corporate Governance"
       ]
     },
     {
@@ -152,11 +152,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/samsung-electronics-co-ltd-att---smsd/transactions-with-affiliate-company/9695817",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard disclosure of intercompany transactions with an affiliate, typical for multinational supply chains in the semiconductor sector and devoid of material financial impact on SMSD's standalone performance.",
+      "impact_score": 3,
+      "insight": "This announcement indicates routine related-party transactions which typically require shareholder awareness for governance purposes but usually lack immediate financial significance without further details.",
       "key_themes": [
-        "Corporate Governance",
-        "Intercompany Transactions"
+        "Related Party Transaction",
+        "Governance"
       ]
     },
     {
@@ -167,10 +167,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine quarterly dividend declaration for a non-UK listed entity; limited direct impact on SMSD's UK ADR liquidity or valuation given the company's stable cash flow profile and lack of strategic shifts.",
+      "insight": "This announcement signifies a scheduled dividend payment for the specified quarter. It generally indicates ongoing shareholder returns but does not provide specific details on yield or changes in policy.",
       "key_themes": [
         "Dividend",
-        "Cash Flow"
+        "Shareholder return"
       ]
     },
     {
@@ -180,10 +180,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/samsung-electronics-co-ltd-att---smsd/charitable-contribution/9695814",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard corporate social responsibility disclosure with zero material financial impact on Samsung Electronics' valuation or UK-listed SMSD ADRs. Such announcements are routine administrative filings that do not influence equity fundamentals or trading dynamics.",
+      "impact_score": 1,
+      "insight": "This announcement signifies a charitable contribution, which is typically an administrative or public relations matter with negligible financial impact on shareholder value.",
       "key_themes": [
-        "CSR",
+        "Corporate Social Responsibility",
         "Administrative"
       ]
     },
@@ -194,12 +194,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/samsung-electronics-co-ltd-att---smsd/2026-2q-earnings-release/9695794",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a non-listed entity, this RNS serves primarily as an informational update for the UK-listed SMSD ADR rather than a direct market mover; however, strong semiconductor demand trends in Q2 2026 could signal positive momentum for global memory chip valuations.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled release of financial results for the specified period, providing shareholders with performance data that is not yet detailed in the headline.",
       "key_themes": [
-        "Semiconductor",
-        "ADR Update",
-        "Global Tech"
+        "Results"
       ]
     },
     {
@@ -209,11 +207,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/samsung-electronics-co-ltd-att---smsd/response-to-rumors-or-media-reports-undetermined-/9683994",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard boilerplate denial typical for Samsung Electronics, which trades primarily on KRX; the lack of specific detail suggests no material UK-listed entity impact or imminent corporate action.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that the company is addressing market speculation but has not provided specific details regarding the rumors. Shareholders should await further clarification to understand the potential implications for the business.",
       "key_themes": [
-        "Rumor Control",
-        "Low Relevance"
+        "Rumors",
+        "Media Reports",
+        "Governance"
       ]
     },
     {
@@ -309,11 +308,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/samsung-electronics-co-ltd-att---smsd/future-business-management-plan/9641729",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Samsung Electronics is a non-UK listed entity; this RNS is likely an administrative filing or translation of a Korean disclosure with no direct trading impact on the SMSD ADR or underlying UK-listed vehicles.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a strategic review or long-term planning update, which typically provides shareholders with insight into future direction and potential value drivers.",
       "key_themes": [
-        "Administrative",
-        "Non-UK Listed"
+        "Strategy",
+        "Corporate Governance"
       ]
     },
     {
@@ -323,11 +322,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/samsung-electronics-co-ltd-att---smsd/sustainability-report-2026-/9638924",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "As an ADR for a non-UK listed entity, this sustainability report has negligible direct impact on SMSD's liquidity or valuation mechanics in the UK market; ESG disclosures are increasingly standardised and rarely drive immediate price action for large-cap tech firms without accompanying financial guidance.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a scheduled publication of corporate governance and environmental reporting, which is standard practice for listed entities but does not indicate immediate financial or strategic changes.",
       "key_themes": [
-        "ESG Reporting",
-        "ADR Update"
+        "Governance",
+        "Sustainability"
       ]
     },
     {
@@ -337,11 +336,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/samsung-electronics-co-ltd-att---smsd/response-to-rumors-or-media-reports-undetermined/9636491",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory boilerplate response indicating no actionable corporate activity; for an ADR like SMSD, such denials are routine noise with zero fundamental impact on valuation or trading strategy.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that the company is addressing market speculation or media reports, which typically serves to clarify facts or dispel rumors rather than disclose substantive operational changes. For shareholders, this suggests a need to monitor for potential volatility driven by misinformation, but implies no immediate fundamental shift in the business.",
       "key_themes": [
         "Rumor Control",
-        "ADR"
+        "Market Communication"
       ]
     },
     {

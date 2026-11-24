@@ -2,9 +2,20 @@
   "name": "Cirata",
   "ticker": "CRTA",
   "slug": "cirata-crta",
-  "announcement_count": 14,
-  "latest_announcement": "2026-09-24T09:51:00",
+  "announcement_count": 15,
+  "latest_announcement": "2026-11-24T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T07:00:00",
+      "category": null,
+      "headline": "Investor Presentation via Investor Meet Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/cirata--crta/investor-presentation-via-investor-meet-company/9889954",
+      "routine_type": "Administrative",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-09-24T09:51:00",
       "category": null,
@@ -93,11 +104,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/cirata--crta/q2fy26-trading-update/9686901",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "As a micro-cap with negligible liquidity and no significant market presence, this routine update has minimal price impact potential compared to broader market drivers.",
+      "impact_score": 5,
+      "insight": "This announcement provides a periodic update on the company's operational performance for the specified period. The headline does not indicate whether the results are positive or negative, so it represents standard information flow rather than a material event.",
       "key_themes": [
-        "micro-cap",
-        "routine disclosure"
+        "Trading Update",
+        "Performance"
       ]
     },
     {
@@ -118,12 +129,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/cirata--crta/result-of-retail-offer/9642178",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "The conclusion of the retail offer phase is a standard procedural step for AIM listings, indicating no immediate dilution event beyond what was already priced in; however, it confirms the final investor base composition rather than signaling new strategic capital or M&A activity.",
+      "impact_score": 7,
+      "insight": "This announcement provides the outcome of a retail capital raising effort, which is significant for existing shareholders as it indicates whether new equity has been issued and potentially diluted their holdings.",
       "key_themes": [
-        "AIM Listing",
-        "Capital Raising",
-        "Procedural"
+        "Capital raise",
+        "Equity financing",
+        "Shareholder dilution"
       ]
     },
     {
@@ -133,11 +144,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/cirata--crta/result-of-placing-and-subscription/9637910",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "As a pre-revenue biotech, this capital raise is essential for runway extension rather than transformative growth, reflecting the broader challenge of funding clinical development in a high-interest-rate environment.",
+      "impact_score": 7,
+      "insight": "This announcement confirms the outcome of a capital raising activity, which typically involves issuing new shares and may lead to dilution for existing shareholders.",
       "key_themes": [
-        "Capital Raise",
-        "Biotech Funding"
+        "Capital raise",
+        "Placing",
+        "Shareholder dilution"
       ]
     },
     {
@@ -147,11 +159,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/cirata--crta/launch-of-retail-offer-/9637747",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The launch of a retail offer alongside the placing indicates an attempt to broaden the shareholder base and improve liquidity for this micro-cap tech stock, though it carries dilution risks that may pressure the share price in the short term.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a capital raise through a retail placing, which typically involves issuing new shares and may lead to dilution of existing shareholders' stakes.",
       "key_themes": [
-        "Retail Access",
-        "Liquidity Expansion",
+        "Capital raise",
+        "Placing",
         "Dilution"
       ]
     },

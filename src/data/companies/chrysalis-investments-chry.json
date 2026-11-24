@@ -38,11 +38,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/chrysalis-investments-limited-npv--chry/director-resignations/9799805",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Director resignations in investment trusts often signal internal governance friction or a lack of confidence in the current strategy, potentially impacting investor sentiment and fund stability.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the board composition, which may affect governance oversight but does not inherently indicate strategic shifts or financial performance changes without further detail.",
       "key_themes": [
         "Governance",
-        "Investment Trusts"
+        "Board Change"
       ]
     },
     {
@@ -52,11 +52,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/chrysalis-investments-limited-npv--chry/announcement-of-compulsory-capital-redemption/9797747",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Compulsory capital redemption is a standard administrative mechanism for investment trusts to manage share count without active market purchases, typically triggered by specific trust provisions rather than strategic shifts; it signals no immediate change in underlying asset value or management strategy.",
+      "impact_score": 9,
+      "insight": "A compulsory capital redemption typically signals that a shareholder holding a significant stake has been forced to sell their shares, often due to regulatory breaches or failure to meet listing requirements. This event frequently precedes a change in control, a takeover bid, or the suspension of the company's shares from trading.",
       "key_themes": [
-        "administrative",
-        "investment_trust_mechanics"
+        "Corporate Action",
+        "Regulatory Compliance",
+        "Shareholder Change"
       ]
     },
     {
@@ -78,11 +79,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 8,
-      "insight": "The sale of a Klarna stake represents a significant de-risking event for Chrysalis, converting illiquid private equity exposure into tangible liquidity in a volatile market environment. This action signals a strategic pivot towards capital preservation and potential distribution or reinvestment, contrasting with the typical long-hold strategy of such investment trusts.",
+      "insight": "The headline indicates a material disposal of a significant investment stake combined with a compulsory redemption, which typically represents a major strategic shift and potential liquidity event for shareholders. This type of announcement often signals the unwinding of a key asset or the restructuring of the company's capital base.",
       "key_themes": [
-        "Private Equity Exit",
-        "Liquidity Management",
-        "Portfolio Rebalancing"
+        "Asset disposal",
+        "Capital return",
+        "Strategic change"
       ]
     },
     {

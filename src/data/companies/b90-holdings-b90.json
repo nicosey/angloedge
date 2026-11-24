@@ -2,9 +2,23 @@
   "name": "B90 Holdings NPV",
   "ticker": "B90",
   "slug": "b90-holdings-b90",
-  "announcement_count": 8,
-  "latest_announcement": "2026-10-05T07:00:00",
+  "announcement_count": 9,
+  "latest_announcement": "2026-11-24T11:15:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T11:15:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/b90-holdings-npv--b90/director-pdmr-shareholding/9891296",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that confirm insider activity but do not inherently signal a change in corporate strategy or financial performance.",
+      "key_themes": [
+        "Governance",
+        "Director dealings"
+      ]
+    },
     {
       "timestamp": "2026-10-05T07:00:00",
       "category": null,
@@ -27,10 +41,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "The announcement is a marketing teaser for an upcoming event rather than substantive financial data or corporate action, offering no immediate valuation impact or strategic clarity for B90 Holdings.",
+      "insight": "The headline suggests a marketing announcement or press release regarding AI automation capabilities rather than a substantive corporate event affecting shareholder value.",
       "key_themes": [
         "Marketing",
-        "AI"
+        "Technology"
       ]
     },
     {
@@ -41,10 +55,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory filing for individual director transactions which typically carries negligible signal value unless aggregated across the board; without volume or price context, it remains a routine administrative disclosure rather than a strategic indicator.",
+      "insight": "This announcement confirms that a director has engaged in share dealing activity, which is a routine regulatory disclosure. It provides limited insight into future company performance or strategic direction without further details on the nature of the transaction.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {

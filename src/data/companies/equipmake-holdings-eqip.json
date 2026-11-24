@@ -68,10 +68,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures typically carry negligible market impact unless involving substantial block trades or insider trading allegations; without volume or price context, this is standard administrative compliance rather than a signal of strategic shift.",
+      "insight": "This announcement indicates that a director has engaged in a transaction involving the company's shares. Such filings are routine regulatory disclosures and typically carry limited immediate impact on shareholder value unless accompanied by further context regarding the nature or size of the dealing.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Director Dealing",
+        "Governance"
       ]
     },
     {
@@ -82,10 +82,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in the industrial decarbonisation sector typically signal internal monitoring rather than strategic shifts; without volume or price context, this lacks the transformative weight of M&A or capital raises.",
+      "insight": "This announcement discloses transactions by directors, which is a routine regulatory filing. It provides limited insight into future performance but may signal insider sentiment regarding the company's prospects.",
       "key_themes": [
-        "Corporate Governance",
-        "Minor Administrative"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -96,10 +96,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "The combination of a trading update with directorate changes signals potential strategic realignment or governance restructuring, which is common in UK small-caps navigating post-IPO volatility or sector consolidation pressures.",
+      "insight": "This announcement combines a trading update with changes to the board of directors, signaling both operational performance disclosure and governance adjustments that may influence investor confidence.",
       "key_themes": [
+        "Trading Update",
         "Governance",
-        "Strategic Shift"
+        "Board Changes"
       ]
     }
   ]

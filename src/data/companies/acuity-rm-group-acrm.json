@@ -2,9 +2,23 @@
   "name": "Acuity RM Group",
   "ticker": "ACRM",
   "slug": "acuity-rm-group-acrm",
-  "announcement_count": 15,
-  "latest_announcement": "2026-11-10T09:10:00",
+  "announcement_count": 16,
+  "latest_announcement": "2026-11-24T12:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T12:00:00",
+      "category": null,
+      "headline": "Share Subscription",
+      "url": "https://www.investegate.co.uk/announcement/prn/acuity-rm-group--acrm/share-subscription/9891434",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "A share subscription announcement typically signifies a capital raise, which can be material for shareholders depending on the size and terms of the issuance. This action often indicates the company is seeking additional funding to support its operations or strategic initiatives.",
+      "key_themes": [
+        "Capital raise",
+        "Equity financing"
+      ]
+    },
     {
       "timestamp": "2026-11-10T09:10:00",
       "category": null,
@@ -93,11 +107,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/acuity-rm-group--acrm/contract-renewal-and-expansion/9697133",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Contract renewals are standard operational maintenance for Acuity's RM business model, indicating client retention rather than organic growth acceleration; without disclosed revenue uplifts or new logo acquisitions, this lacks the catalyst potential to drive significant multiple expansion.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a contract renewal and expansion, which generally signifies continued business activity and potential revenue stability for shareholders.",
       "key_themes": [
-        "client_retention",
-        "operational_routine"
+        "Contract",
+        "Business Update"
       ]
     },
     {
@@ -107,11 +121,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/acuity-rm-group--acrm/result-of-annual-general-meeting/9694335",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine AGM results typically confirm shareholder approval of standard governance matters with negligible immediate financial impact, reflecting the low volatility characteristic of small-cap property management firms like Acuity RM.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a scheduled Annual General Meeting, which is a routine governance event for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder meeting"
       ]
     },
     {
@@ -173,12 +187,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/acuity-rm-group--acrm/final-results-2025-investor-presentation-via-/9642667",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a niche asset manager in the UK residential buy-to-let sector, ACRM's final results provide critical visibility into rental yield compression and regulatory headwinds; however, without specific EPS or dividend data in the headline, it remains a standard reporting event rather than a market-moving catalyst.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled annual results, providing shareholders with a comprehensive overview of the company's financial performance and strategic outlook for the period.",
       "key_themes": [
-        "Asset Management",
-        "UK Residential Lettings",
-        "Regulatory Impact"
+        "Results",
+        "Investor Relations"
       ]
     },
     {

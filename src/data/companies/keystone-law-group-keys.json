@@ -2,9 +2,20 @@
   "name": "Keystone Law Group",
   "ticker": "KEYS",
   "slug": "keystone-law-group-keys",
-  "announcement_count": 12,
-  "latest_announcement": "2026-11-17T13:00:00",
+  "announcement_count": 13,
+  "latest_announcement": "2026-11-24T14:40:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T14:40:00",
+      "category": null,
+      "headline": "Holdings in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/keystone-law-group--keys/holdings-in-company/9891732",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-17T13:00:00",
       "category": "Director Dealing",
@@ -85,10 +96,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard administrative disclosure regarding the vesting of Long-Term Incentive Plan awards, indicating no immediate change in control or strategic direction. While it confirms executive alignment with long-term goals, it lacks the materiality to influence short-term valuation or sentiment for Keystone Law.",
+      "insight": "This announcement indicates that a Person Discharging Managerial Responsibilities is exercising long-term incentive plan awards, which typically involves the purchase of shares or the vesting of rights. Such events are standard governance disclosures regarding executive compensation and do not inherently signal changes in company strategy or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Executive Compensation"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {

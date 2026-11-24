@@ -2,9 +2,20 @@
   "name": "Wizz Air Holdings",
   "ticker": "WIZZ",
   "slug": "wizz-air-holdings-wizz",
-  "announcement_count": 37,
-  "latest_announcement": "2026-11-10T10:19:00",
+  "announcement_count": 38,
+  "latest_announcement": "2026-11-24T13:59:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T13:59:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/holding-s-in-company/9891684",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-10T10:19:00",
       "category": null,
@@ -37,12 +48,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/notice-of-f27-half-year-results-date/9841355",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As Wizz Air navigates the post-pandemic recovery with aggressive fleet expansion into Eastern Europe, this interim report is critical for validating demand resilience and unit cost discipline against rising fuel and leasing pressures.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the scheduling of a half-year results release, which is a routine regulatory event rather than a substantive corporate action. It provides shareholders with a date for future financial disclosure but does not itself convey performance data or strategic changes.",
       "key_themes": [
-        "Interim Results",
-        "Aviation Recovery",
-        "Cost Management"
+        "Results",
+        "Corporate Action"
       ]
     },
     {
@@ -131,10 +141,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine PDMR disclosure typical of Wizz Air's high-velocity share dealing culture; without volume context, it signals no immediate strategic shift in a sector currently navigating fuel volatility and capacity discipline.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has engaged in share transactions, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in the company's strategic direction or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Low Impact"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -145,10 +155,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Wizz Air's valuation or operational trajectory, especially given the airline sector's current focus on fuel costs and capacity expansion rather than insider trading signals.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has engaged in share transactions. Such disclosures are routine regulatory requirements and generally signify standard insider activity rather than significant corporate developments.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_materiality"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -214,11 +224,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/application-for-listing-notice/9694143",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the listing of new shares, likely related to the completion of the previously announced capital raise or option exercises; it carries no intrinsic trading signal beyond confirming liquidity mechanics.",
+      "impact_score": 7,
+      "insight": "An application for listing notice typically signifies a significant corporate action such as a new share issuance, a major capital raise, or a change in listing status, which can materially affect shareholder equity and dilution.",
       "key_themes": [
-        "Administrative",
-        "Capital Structure"
+        "Capital markets",
+        "Listing status"
       ]
     },
     {
@@ -228,11 +238,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/wizz-air-board-committee-updates-/9691445",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard corporate governance update regarding board committee composition, lacking any material financial or strategic catalysts for Wizz Air's current operational outlook.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a board-level update regarding a committee, which typically signifies governance activity or internal oversight changes. Such updates generally have a moderate impact as they relate to corporate structure rather than immediate financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Governance",
+        "Board Update"
       ]
     },
     {
@@ -411,11 +421,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/wizz-air-omnibus-plan-award-grants/9630549",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement confirms the administrative completion of a share plan award, likely related to executive remuneration or employee incentives rather than a strategic capital event. Such routine equity compensation exercises have negligible immediate impact on Wizz Air's balance sheet or operational outlook compared to fleet orders or route expansions.",
+      "impact_score": 5,
+      "insight": "This announcement indicates that a formal plan has been awarded under an omnibus arrangement, which typically signifies a significant corporate restructuring or capital management action. Shareholders should anticipate potential changes to the company's share structure or governance framework as part of this process.",
       "key_themes": [
-        "Corporate Governance",
-        "Executive Compensation"
+        "Corporate Action",
+        "Restructuring",
+        "Governance"
       ]
     },
     {

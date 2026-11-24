@@ -2,9 +2,23 @@
   "name": "Trifast",
   "ticker": "TRI",
   "slug": "trifast-tri",
-  "announcement_count": 17,
-  "latest_announcement": "2026-11-19T12:38:00",
+  "announcement_count": 18,
+  "latest_announcement": "2026-11-24T11:53:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T11:53:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/director-pdmr-shareholding/9891409",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in corporate strategy or financial performance.",
+      "key_themes": [
+        "Governance",
+        "Director Dealing"
+      ]
+    },
     {
       "timestamp": "2026-11-19T12:38:00",
       "category": null,
@@ -90,11 +104,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/capital-reduction-circular-and-notice-of-gm/9792376",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Capital reductions in the UK are typically executed to return excess cash to shareholders or clean up the balance sheet by writing off accumulated losses, often signaling a mature, cash-generative business rather than aggressive growth. For Trifast, this suggests a focus on capital efficiency and potentially enhancing EPS, though it lacks the transformative upside of M&A.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a formal corporate action involving the reduction of share capital, requiring shareholder approval at a general meeting. Such actions typically adjust the company's balance sheet structure without necessarily altering its operational strategy.",
       "key_themes": [
-        "Capital Return",
-        "Balance Sheet Optimization"
+        "Capital Reduction",
+        "Governance",
+        "Shareholder Meeting"
       ]
     },
     {
@@ -118,11 +133,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/confirmation-of-final-dividend-timetable/9744061",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative update confirming the payment schedule for an already-declared dividend, offering no new strategic direction or financial data to alter market sentiment.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the schedule for a final dividend payment, which is a standard administrative update regarding shareholder returns. It does not provide information on the dividend amount or financial performance, limiting its immediate significance to investors.",
       "key_themes": [
-        "Corporate Action",
-        "Routine Disclosure"
+        "Dividend",
+        "Corporate Action"
       ]
     },
     {

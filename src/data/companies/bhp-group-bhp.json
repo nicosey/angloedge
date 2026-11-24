@@ -80,11 +80,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/bhp-group-limited-npv-di---bhp/dividend-currency-exchange-rate-south-african-rand/9744312",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative disclosure regarding the FX rate used for dividend conversion to South African Rand, carrying no fundamental impact on BHP's valuation or cash flow generation.",
+      "impact_score": 3,
+      "insight": "This announcement relates to the currency exchange rate applied to a dividend payment, which is an administrative detail affecting the final amount received by shareholders in different currencies.",
       "key_themes": [
         "Dividend",
-        "FX Administration"
+        "Currency"
       ]
     },
     {
@@ -95,10 +95,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of individual director transactions with no material implication for BHP's strategic direction or valuation, as PDMR dealings are routine and do not reflect aggregate insider sentiment.",
+      "insight": "This announcement relates to director dealings, which typically signifies routine compliance reporting of share transactions by persons discharging managerial responsibilities. Such disclosures generally have minimal immediate impact on shareholder value unless they indicate significant insider sentiment shifts.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -134,10 +134,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of individual director transactions, which carries negligible fundamental weight for BHP's valuation compared to its commodity price exposure and operational output.",
+      "insight": "This announcement relates to director dealings, which typically signifies routine compliance filings rather than significant strategic shifts. Shareholders should view this as standard governance disclosure with limited immediate financial impact.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {

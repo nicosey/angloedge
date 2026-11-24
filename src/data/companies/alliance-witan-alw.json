@@ -2,9 +2,20 @@
   "name": "Alliance Witan",
   "ticker": "ALW",
   "slug": "alliance-witan-alw",
-  "announcement_count": 60,
-  "latest_announcement": "2026-11-19T17:05:00",
+  "announcement_count": 61,
+  "latest_announcement": "2026-11-23T17:20:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T17:20:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/alliance-witan--alw/transaction-in-own-shares/9889721",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-19T17:05:00",
       "category": null,
@@ -111,11 +122,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/alliance-witan--alw/dividend-declaration/9848248",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a closed-end fund, dividend declarations are the primary mechanism for investor returns; this announcement confirms income continuity but lacks the transformative catalysts required for higher scoring.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a standard dividend declaration, which is typically classified as a minor corporate action with limited immediate impact on share price volatility compared to strategic or financial results.",
       "key_themes": [
-        "Income Distribution",
-        "Closed-End Fund"
+        "Dividend",
+        "Shareholder return"
       ]
     },
     {
@@ -436,12 +447,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/alliance-witan--alw/dividend-declaration/9697098",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a closed-end fund, this declaration signals management's confidence in the underlying portfolio's ability to generate distributable income despite current UK equity volatility, reinforcing its appeal to yield-seeking institutional investors.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a standard dividend declaration, which is typically considered a routine corporate action rather than a transformative event for shareholders.",
       "key_themes": [
-        "closed-end fund",
-        "income distribution",
-        "shareholder yield"
+        "Dividend",
+        "Shareholder return"
       ]
     },
     {

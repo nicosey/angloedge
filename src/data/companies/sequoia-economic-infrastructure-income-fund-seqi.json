@@ -2,9 +2,23 @@
   "name": "Sequoia Economic Infrastructure Income Fund Limited",
   "ticker": "SEQI",
   "slug": "sequoia-economic-infrastructure-income-fund-seqi",
-  "announcement_count": 14,
-  "latest_announcement": "2026-11-20T07:00:00",
+  "announcement_count": 15,
+  "latest_announcement": "2026-11-24T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T07:00:00",
+      "category": "Results",
+      "headline": "Notice of Results",
+      "url": "https://www.investegate.co.uk/announcement/rns/sequoia-economic-infrastructure-income-fund-limited--seqi/notice-of-results/9889933",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement indicates that scheduled financial results are being released, which is a routine event for shareholders to assess performance. The headline does not specify the direction or magnitude of the results.",
+      "key_themes": [
+        "Results",
+        "Financial Reporting"
+      ]
+    },
     {
       "timestamp": "2026-11-20T07:00:00",
       "category": null,
@@ -34,11 +48,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/sequoia-economic-infrastructure-income-fund-limited--seqi/purchase-of-shares-re-investment-adviser-fees/9835430",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative transaction where the fund acquires shares to cover investment adviser fees, a routine operational mechanism for closed-end funds that avoids cash outflows but slightly dilutes existing holdings.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a routine transaction related to the payment of investment adviser fees through share purchases, which is an administrative matter for the fund. It does not suggest any strategic change or material financial impact on shareholders.",
       "key_themes": [
-        "administrative",
-        "fee_payment_in_kind"
+        "Governance",
+        "Administrative"
       ]
     },
     {
@@ -85,10 +99,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of insider shareholding changes, which provides transparency but lacks the transformative catalysts required for significant price movement in the closed-end fund sector.",
+      "insight": "This announcement discloses shareholdings of Persons Discharging Managerial Responsibilities and Principal Compliance Advisers, which is a standard regulatory requirement for transparency. It provides information on insider ownership levels but does not indicate any immediate strategic changes or material financial events.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -99,10 +113,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory requirements for closed-end funds like SEQI and typically carry negligible market impact unless the volume is exceptional or signals a clear shift in insider sentiment.",
+      "insight": "This announcement signifies a standard disclosure of shareholding changes by a person discharging managerial responsibilities, which is routine regulatory housekeeping. It provides transparency regarding insider ownership but does not inherently signal a change in the company's strategic direction or financial performance.",
       "key_themes": [
-        "regulatory compliance",
-        "minor administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -112,11 +126,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/sequoia-economic-infrastructure-income-fund-limited--seqi/result-of-agm/9691572",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of routine shareholder votes for an investment trust, carrying no new strategic direction or financial data.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of the Annual General Meeting, indicating that shareholder resolutions were put to a vote. It signifies standard governance proceedings rather than any material change in the company's strategic or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Investment Trust"
+        "Governance",
+        "Shareholder Meeting"
       ]
     },
     {

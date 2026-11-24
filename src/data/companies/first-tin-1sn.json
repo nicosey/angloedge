@@ -2,9 +2,20 @@
   "name": "First Tin",
   "ticker": "1SN",
   "slug": "first-tin-1sn",
-  "announcement_count": 12,
-  "latest_announcement": "2026-11-06T10:31:00",
+  "announcement_count": 13,
+  "latest_announcement": "2026-11-24T15:59:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T15:59:00",
+      "category": null,
+      "headline": "TR-1 Notification of Major Holdings",
+      "url": "https://www.investegate.co.uk/announcement/rns/first-tin--1sn/tr-1-notification-of-major-holdings/9891897",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-06T10:31:00",
       "category": "Acquisition",
@@ -38,10 +49,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "Development approval is a critical de-risking milestone for First Tin's Taronga project in Australia, significantly advancing the path to bankable feasibility and potential financing, though it does not guarantee immediate production or capital commitment.",
+      "insight": "This update likely provides progress on a regulatory milestone for a development project, which is typically a critical step in advancing exploration or mining assets. Shareholders should monitor such announcements to gauge the timeline and feasibility of future operational stages.",
       "key_themes": [
-        "Project Development",
-        "Regulatory Approval"
+        "Regulatory",
+        "Development Update"
       ]
     },
     {

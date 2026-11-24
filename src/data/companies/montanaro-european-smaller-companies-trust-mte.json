@@ -2,9 +2,20 @@
   "name": "Montanaro European Smaller Companies Trust",
   "ticker": "MTE",
   "slug": "montanaro-european-smaller-companies-trust-mte",
-  "announcement_count": 94,
-  "latest_announcement": "2026-11-23T15:09:00",
+  "announcement_count": 95,
+  "latest_announcement": "2026-11-23T17:13:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T17:13:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/montanaro-european-smaller-companies-trust--mte/transaction-in-own-shares/9889709",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T15:09:00",
       "category": "Results",
@@ -12,12 +23,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/montanaro-european-smaller-companies-trust--mte/correction-results-of-tender-offer/9889539",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This correction to the tender offer results likely clarifies the discount narrowing mechanism for MTE investors, a critical metric in the current UK investment trust sector where premium compression is prevalent. While routine administratively, precise tender data signals management's commitment to capital return and can influence short-term NAV arbitrage opportunities.",
+      "impact_score": 5,
+      "insight": "This correction to a tender offer results announcement indicates an administrative adjustment to previously disclosed information regarding shareholder exit options. It signals that the process is active but requires clarification, which may cause temporary uncertainty for participants awaiting final confirmation.",
       "key_themes": [
-        "investment_trust",
-        "capital_return",
-        "discount_management"
+        "Capital return",
+        "Correction",
+        "Governance"
       ]
     },
     {
@@ -663,11 +674,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/montanaro-european-smaller-companies-trust--mte/completion-of-tender-offer/9691359",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Completion of a tender offer provides immediate liquidity and price support for shareholders, reflecting the investment trust's strategy to manage its discount/premium dynamics in a volatile European small-cap environment.",
+      "impact_score": 8,
+      "insight": "The completion of a tender offer typically signifies a formal capital return mechanism or a change in shareholding structure, which can materially affect shareholder value and liquidity. This event often indicates that the company has executed a significant financial transaction to adjust its equity base.",
       "key_themes": [
-        "capital management",
-        "shareholder return"
+        "Capital return",
+        "Shareholder action"
       ]
     },
     {

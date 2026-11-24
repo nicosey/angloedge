@@ -57,9 +57,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "As a junior exploration entity, GEO's annual results are inherently low-impact unless they reveal a major resource upgrade or funding crisis; without specific data indicating a breakthrough, this is treated as routine disclosure for a speculative asset.",
+      "insight": "This announcement signifies the release of scheduled annual financial results for the company. It provides shareholders with a comprehensive view of the firm's performance over the past year, though the headline does not indicate whether the outcome was positive or negative.",
       "key_themes": [
-        "Junior Explorer",
+        "Results",
         "Annual Report"
       ]
     },
@@ -96,10 +96,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard investor relations activity featuring the CEO rather than a material corporate action or financial update; such interviews rarely drive immediate price discovery in the junior exploration space without accompanying assay results or funding announcements.",
+      "insight": "This appears to be a media interview or promotional piece rather than a formal regulatory announcement containing binding corporate actions or financial data. It likely serves as marketing material with no immediate bearing on the company's shareholders.",
       "key_themes": [
-        "Investor Relations",
-        "Exploration Update"
+        "Media",
+        "Promotion"
       ]
     },
     {
@@ -153,11 +153,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/geo-exploration-limited--geo/capital-access-window-geo-exploration-limited/9738488",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing for the AIM Capital Access Window, confirming compliance with listing rules rather than announcing a specific transaction; without details on size or purpose, it carries no immediate fundamental weight for valuation.",
+      "impact_score": 7,
+      "insight": "This announcement likely signifies a formal process to access capital markets, which typically involves raising funds through equity or debt. Such actions are significant for shareholders as they can lead to dilution of existing holdings or alter the company's financial structure.",
       "key_themes": [
-        "regulatory_compliance",
-        "capital_markets"
+        "Capital raise",
+        "Fundraising"
       ]
     },
     {
@@ -167,11 +167,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/geo-exploration-limited--geo/capital-access-window-trading-halt/9737695",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "A 'Capital Access Window' halt is a standard administrative procedure to prevent insider trading during confidential fundraising discussions; it signals potential dilution risk but lacks immediate fundamental catalysts for GEO Exploration.",
+      "impact_score": 9,
+      "insight": "A trading halt indicates that shares are suspended from trading, preventing any market activity until further notice. This typically signifies a significant event requiring immediate disclosure or investigation, creating substantial uncertainty for shareholders.",
       "key_themes": [
-        "Administrative Halt",
-        "Fundraising Risk"
+        "Trading Halt",
+        "Suspension"
       ]
     },
     {
@@ -182,10 +182,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard investor relations update featuring an executive interview regarding the Gorge Project, lacking any material financial data, operational milestones, or capital transaction details that would influence valuation.",
+      "insight": "This announcement is a media update regarding an interview, which typically serves as marketing material rather than conveying substantive financial or operational news for shareholders.",
       "key_themes": [
-        "Investor Relations",
-        "Exploration Update"
+        "Media",
+        "Marketing"
       ]
     },
     {
@@ -206,11 +206,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/geo-exploration-limited--geo/gorge-project-positive-initial-field-findings-/9628676",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Early-stage exploration updates for junior miners like GEO typically carry low immediate financial impact as they lack near-term revenue visibility; however, positive field findings can provide short-term speculative momentum in the absence of broader sector catalysts.",
+      "impact_score": 4,
+      "insight": "This announcement indicates initial positive results from field activities at a specific project site. For shareholders, this suggests early-stage exploration progress but lacks details on commercial viability or financial impact.",
       "key_themes": [
         "Exploration",
-        "Junior Mining"
+        "Project Update"
       ]
     }
   ]

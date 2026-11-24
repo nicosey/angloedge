@@ -2,9 +2,23 @@
   "name": "Total Graphite Plc",
   "ticker": "TGR",
   "slug": "total-graphite-tgr",
-  "announcement_count": 10,
-  "latest_announcement": "2026-11-05T15:25:00",
+  "announcement_count": 11,
+  "latest_announcement": "2026-11-24T09:40:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T09:40:00",
+      "category": null,
+      "headline": "Vatomina Optimisation Update",
+      "url": "https://www.investegate.co.uk/announcement/rns/total-graphite-plc--tgr/vatomina-optimisation-update/9891051",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This update likely provides operational progress or performance data regarding a specific initiative, which is relevant for assessing the company's execution capabilities but lacks detail on financial magnitude.",
+      "key_themes": [
+        "Operational Update",
+        "Progress Report"
+      ]
+    },
     {
       "timestamp": "2026-11-05T15:25:00",
       "category": "Director Dealing",
@@ -95,11 +109,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/total-graphite-plc--tgr/operational-update-/9685259",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Operational updates for junior explorers like Total Graphite are typically routine status reports that rarely move the market without accompanying assay results or resource estimates; this is likely a low-impact administrative disclosure.",
+      "impact_score": 5,
+      "insight": "An operational update typically provides shareholders with progress reports on ongoing activities, though the headline does not specify whether the developments are positive or negative.",
       "key_themes": [
-        "exploration",
-        "routine_update"
+        "Operational Update",
+        "Progress Report"
       ]
     },
     {

@@ -2,9 +2,37 @@
   "name": "Huddled Group",
   "ticker": "HUD",
   "slug": "huddled-group-hud",
-  "announcement_count": 21,
-  "latest_announcement": "2026-10-23T07:00:00",
+  "announcement_count": 23,
+  "latest_announcement": "2026-11-24T07:30:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T07:30:00",
+      "category": null,
+      "headline": "Capital Access Window - Huddled Group Plc",
+      "url": "https://www.investegate.co.uk/announcement/rns/huddled-group--hud/capital-access-window-huddled-group-plc/9890731",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "The headline suggests a formal process related to accessing capital, which typically signifies a potential fundraise or financial restructuring that could materially affect shareholder equity and dilution.",
+      "key_themes": [
+        "Capital raise",
+        "Financial restructuring"
+      ]
+    },
+    {
+      "timestamp": "2026-11-24T07:05:00",
+      "category": null,
+      "headline": "RetailBook Offer",
+      "url": "https://www.investegate.co.uk/announcement/rns/huddled-group--hud/retailbook-offer/9890211",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "The term 'Offer' in the headline typically signifies a firm proposal for the acquisition of the company, which represents a transformative event for shareholders. This type of announcement generally indicates a potential change of control or exit opportunity.",
+      "key_themes": [
+        "M&A",
+        "Takeover"
+      ]
+    },
     {
       "timestamp": "2026-10-23T07:00:00",
       "category": "Acquisition",
@@ -12,12 +40,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/huddled-group--hud/acquisition-of-aeww-ltd/9837607",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This acquisition signals Huddled Group's aggressive expansion into the digital marketing technology space, aiming to diversify revenue streams beyond its core recruitment business and capture higher-margin SaaS-like recurring income.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a material acquisition, which typically indicates strategic expansion or diversification for the acquiring entity. Shareholders should anticipate potential changes to the company's asset base and future operational scope.",
       "key_themes": [
         "M&A",
-        "Digital Transformation",
-        "Revenue Diversification"
+        "Strategic Expansion"
       ]
     },
     {
@@ -52,12 +79,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/huddled-group--hud/live-commerce-strategy-accelerated-with-tiktok-jv/9735287",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This JV signals a strategic pivot to capture high-growth social commerce traffic, aligning with broader UK retail digitization trends; however, the operational impact on Huddled's core logistics model remains unquantified and execution risk is significant.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a strategic partnership aimed at accelerating the company's live commerce capabilities through a joint venture. Shareholders should view this as a potential growth initiative, though the specific financial terms and operational details remain undisclosed.",
       "key_themes": [
-        "Live Commerce",
         "Strategic Partnership",
-        "Digital Transformation"
+        "Joint Venture",
+        "Business Development"
       ]
     },
     {
@@ -137,11 +164,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/huddled-group--hud/issue-of-share-options/9683008",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Share option issuances are standard equity incentive mechanisms for tech firms like Huddled Group to retain talent, carrying negligible immediate dilution or cash impact compared to transformative events.",
+      "impact_score": 3,
+      "insight": "The issuance of share options typically serves as a mechanism to align management interests with shareholder value through long-term incentives. This type of announcement generally signifies standard governance practices rather than immediate financial or strategic shifts.",
       "key_themes": [
-        "equity_incentives",
-        "talent_retention"
+        "Governance",
+        "Incentives"
       ]
     },
     {
@@ -210,12 +237,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/huddled-group--hud/retailbook-offer/9643304",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The acquisition of RetailBook represents a strategic pivot for Huddled Group into the high-growth e-commerce enablement space, leveraging its existing retail data assets to capture value in the digital transformation of physical retail. This move signals aggressive expansion beyond core analytics, potentially enhancing revenue diversification and long-term valuation multiples amidst the sector's shift toward omnichannel solutions.",
+      "impact_score": 8,
+      "insight": "The headline indicates a formal offer process, which typically signifies a potential change in control or strategic direction for the company. This level of corporate action generally carries significant implications for shareholder value and future ownership structure.",
       "key_themes": [
-        "M&A",
-        "Digital Transformation",
-        "Retail Tech"
+        "Offer",
+        "Corporate Action"
       ]
     },
     {
@@ -225,12 +251,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/huddled-group--hud/share-subscription-and-retail-offer-/9643049",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This dual-track capital raise signals a critical need for liquidity in the competitive UK digital health sector, likely to fund growth or bridge cash flow gaps amid rising interest rates. The inclusion of a retail offer suggests an attempt to broaden the shareholder base and provide price support, though it often indicates limited institutional appetite at current valuations.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a capital raise through a placing and retail offer, which typically involves issuing new shares and may lead to dilution of existing shareholders' stakes.",
       "key_themes": [
-        "Capital Raise",
-        "Liquidity Management",
-        "Digital Health"
+        "Capital raise",
+        "Share issue"
       ]
     },
     {

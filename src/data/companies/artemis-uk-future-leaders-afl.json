@@ -2,9 +2,20 @@
   "name": "Artemis UK Future Leaders plc",
   "ticker": "AFL",
   "slug": "artemis-uk-future-leaders-afl",
-  "announcement_count": 88,
-  "latest_announcement": "2026-11-20T09:36:00",
+  "announcement_count": 89,
+  "latest_announcement": "2026-11-24T12:50:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T12:50:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/prn/artemis-uk-future-leaders-plc--afl/transaction-in-own-shares/9891564",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T09:36:00",
       "category": null,
@@ -480,11 +491,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/artemis-uk-future-leaders-plc--afl/purchase-of-shares-by-the-portfolio-manager/9740866",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory disclosure of portfolio manager personal trading, which has negligible impact on the fund's NAV or investment strategy compared to institutional flows.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that the portfolio manager has purchased shares in the company, which is a form of insider dealing disclosure. Such transactions generally signal personal confidence in the investment but do not inherently alter the company's operational or financial standing.",
       "key_themes": [
-        "director dealing",
-        "regulatory compliance"
+        "Director dealings",
+        "Insider activity"
       ]
     },
     {
@@ -794,11 +805,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/artemis-uk-future-leaders-plc--afl/purchase-of-shares-by-the-portfolio-manager/9642757",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory disclosure of portfolio manager activity rather than a corporate action or material company event; while it signals internal conviction, it has negligible direct impact on the fund's NAV or share price.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that the portfolio manager has bought shares in the company, which may signal internal confidence but typically carries limited immediate financial impact for general shareholders. Such transactions are routine insider dealings rather than strategic corporate events.",
       "key_themes": [
-        "Insider Activity",
-        "Regulatory Compliance"
+        "Director dealings",
+        "Insider activity"
       ]
     },
     {

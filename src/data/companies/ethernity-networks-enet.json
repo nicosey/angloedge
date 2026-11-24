@@ -2,9 +2,20 @@
   "name": "Ethernity Networks Ltd",
   "ticker": "ENET",
   "slug": "ethernity-networks-enet",
-  "announcement_count": 4,
-  "latest_announcement": "2026-11-20T08:00:00",
+  "announcement_count": 5,
+  "latest_announcement": "2026-11-24T11:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T11:00:00",
+      "category": null,
+      "headline": "Exercise of Warrants",
+      "url": "https://www.investegate.co.uk/announcement/rns/ethernity-networks-ltd--enet/exercise-of-warrants-/9891241",
+      "routine_type": "Employee Share Schemes",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T08:00:00",
       "category": null,
@@ -27,12 +38,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ethernity-networks-ltd--enet/half-year-financial-report/9794498",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a small-cap AIM tech firm, ENET's interim results are critical for validating its growth narrative against rising interest rates and cybersecurity sector consolidation trends; any deviation in revenue or cash burn will significantly impact liquidity expectations.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled release of financial performance data for the half-year period. Shareholders will gain visibility into the company's operational results and financial position during this timeframe.",
       "key_themes": [
-        "interim results",
-        "cybersecurity",
-        "AIM small-cap"
+        "Results",
+        "Financial Reporting"
       ]
     },
     {
@@ -57,11 +67,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ethernity-networks-ltd--enet/results-for-the-year-ended-31-december-2025/9645428",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a small-cap tech firm in the competitive cybersecurity and network security sector, annual results are critical for validating growth trajectories to institutional investors; however, without specific financial data indicating a major pivot or warning, this remains a standard reporting event rather than a market-moving catalyst.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled annual results for the reporting period ending in December 2025. It provides shareholders with a comprehensive overview of the company's financial performance and operational progress over the full year.",
       "key_themes": [
-        "Annual Results",
-        "Small Cap Tech"
+        "Results",
+        "Annual Report"
       ]
     }
   ]

@@ -2,9 +2,20 @@
   "name": "Capita",
   "ticker": "CPI",
   "slug": "capita-cpi",
-  "announcement_count": 32,
-  "latest_announcement": "2026-11-10T07:06:00",
+  "announcement_count": 33,
+  "latest_announcement": "2026-11-24T13:59:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T13:59:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/mfn/capita--cpi/holding-s-in-company/9891682",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-10T07:06:00",
       "category": null,
@@ -303,11 +314,11 @@
       "url": "https://www.investegate.co.uk/announcement/mfn/capita--cpi/notification-of-transactions-by-a-person-clos-/9632869",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory disclosure of minor insider dealing activity by a director's associate, common in the BPO sector where executive shareholdings are often managed for liquidity or tax purposes without signaling strategic shifts.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that a person closely associated with a director has executed a transaction, which is a standard regulatory disclosure for insider dealing. It signifies routine compliance with market abuse regulations rather than a material corporate event.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Governance",
+        "Director dealings"
       ]
     },
     {

@@ -2,9 +2,20 @@
   "name": "BARCLAYS BANK PLC",
   "ticker": "33JE",
   "slug": "barclays-bank-33je",
-  "announcement_count": 7,
-  "latest_announcement": "2026-11-20T17:18:00",
+  "announcement_count": 8,
+  "latest_announcement": "2026-11-24T11:01:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T11:01:00",
+      "category": null,
+      "headline": "Final Terms",
+      "url": "https://www.investegate.co.uk/announcement/rns/barclays-bank-plc--33je/final-terms/9891246",
+      "routine_type": "Final Terms",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T17:18:00",
       "category": null,
@@ -37,11 +48,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/barclays-bank-plc--33je/q3-2026-pillar-3-report-/9835305",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Pillar 3 reports are mandatory regulatory disclosures detailing capital adequacy ratios rather than operational performance updates; for Barclays, this confirms compliance with PRA requirements but offers no new strategic alpha or earnings guidance.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled regulatory disclosure of capital adequacy metrics required for listed financial institutions. It provides shareholders with transparency into the firm's compliance with Basel III standards but does not indicate any immediate change in strategic direction or financial performance.",
       "key_themes": [
         "Regulatory Compliance",
-        "Capital Adequacy"
+        "Capital Adequacy",
+        "Quarterly Reporting"
       ]
     },
     {
@@ -65,11 +77,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/barclays-bank-plc--33je/half-year-financial-report-/9689975",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a major UK lender, Barclays' half-year results provide critical real-time data on consumer credit health and net interest margin resilience amid the current high-rate environment, directly influencing sector sentiment for rivals like Lloyds and NatWest.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled release of half-year financial results, which provides shareholders with essential data on the company's performance and financial position for the period.",
       "key_themes": [
-        "Interim Results",
-        "Banking Sector"
+        "Results"
       ]
     },
     {

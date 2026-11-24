@@ -45,11 +45,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/team--team/result-of-agm/9699471",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital allocation changes.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or auditor appointments. It signifies standard corporate governance procedures rather than any material change to the company's strategic direction or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Shareholder approval",
+        "Corporate actions"
       ]
     },
     {
@@ -60,10 +61,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Team's valuation or operational trajectory in the competitive UK recruitment sector.",
+      "insight": "This announcement indicates that a director has engaged in share dealing activity, which is a routine regulatory disclosure. It generally signifies standard compliance rather than providing specific insight into the company's future performance or strategic direction.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_materiality"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -74,10 +75,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Team's valuation or operational trajectory.",
+      "insight": "This announcement signifies standard regulatory compliance regarding insider transactions by a director. It generally indicates routine activity rather than a significant strategic shift or material event for shareholders.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_impact"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -88,10 +89,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory filings with negligible immediate price impact unless the volume is exceptionally large or signals a clear shift in insider sentiment; without specific transaction details, this remains an administrative update.",
+      "insight": "This announcement signifies routine insider trading activity by a director, which is standard regulatory disclosure. It generally has limited immediate impact on shareholder value unless it signals a significant change in management confidence.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_impact"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -102,10 +103,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Settlement of NEBA deferred consideration is a standard post-acquisition cash outflow with no immediate impact on operational performance or future earnings power. While it reduces net cash reserves, this is a routine administrative event typical in M&A integration cycles rather than a strategic shift.",
+      "insight": "This announcement signifies the finalization of a financial obligation related to a past transaction, which typically involves cash outflows and reduces contingent liabilities. It generally represents routine settlement activity rather than a strategic shift or material event for shareholders.",
       "key_themes": [
-        "M&A Integration",
-        "Cash Flow"
+        "Settlement",
+        "Contingent liability",
+        "Corporate action"
       ]
     },
     {
@@ -115,11 +117,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/team--team/appointment-of-non-executive-director/9684989",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine governance update for a small-cap tech firm; without details on the appointee's background, this lacks immediate strategic weight or market-moving catalyst potential.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the board composition, which is a standard governance update. It indicates an expansion of the non-executive team but does not inherently suggest a strategic shift or significant operational impact.",
       "key_themes": [
         "Governance",
-        "Small Cap"
+        "Board Change"
       ]
     },
     {
@@ -207,12 +209,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/team--team/completion-of-epic-book-acquisition/9645423",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This acquisition consolidates Team's position in the UK digital identity market by adding EPIC Book's user base and technology, reinforcing its moat against competitors like Onfido and Jumio in a sector driven by stringent KYC/AML regulatory demands.",
+      "impact_score": 7,
+      "insight": "This announcement signifies the completion of a material acquisition, which typically represents a strategic expansion or diversification for the company. Shareholders should consider the potential long-term value creation or integration risks associated with this corporate development.",
       "key_themes": [
-        "Digital Identity",
-        "Market Consolidation",
-        "KYC/AML"
+        "M&A",
+        "Corporate Development"
       ]
     }
   ]

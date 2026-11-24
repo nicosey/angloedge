@@ -2,9 +2,20 @@
   "name": "NewRiver REIT",
   "ticker": "NRR",
   "slug": "newriver-reit-nrr",
-  "announcement_count": 13,
-  "latest_announcement": "2026-11-23T10:53:00",
+  "announcement_count": 14,
+  "latest_announcement": "2026-11-24T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T07:00:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/holding-s-in-company/9889917",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T10:53:00",
       "category": null,
@@ -98,11 +109,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/appointments-to-the-board/9694415",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine board appointments are standard governance updates for NewRiver REIT, lacking the immediate catalysts of M&A or significant capital raises that typically drive UK equity volatility.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the board composition, which is a standard governance update. Such appointments can influence strategic direction but typically do not immediately impact financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -112,11 +123,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/annual-report-and-accounts-and-agm-2026/9637763",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine AGM filing serves as a standard governance checkpoint for NewRiver REIT; while critical for shareholder approval of director remuneration and auditor appointment, it lacks the transformative catalysts or material financial disclosures required to drive immediate share price volatility.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of the annual financial results and the convening of the Annual General Meeting, which are standard scheduled events for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Results",
+        "Governance"
       ]
     },
     {
@@ -126,11 +137,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/scrip-dividend-reference-price-/9637441",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative notice defining the reference price for the scrip dividend option, lacking any substantive strategic shift or financial data that would alter valuation models.",
+      "impact_score": 3,
+      "insight": "This announcement provides the reference price used to calculate the value of shares issued under a scrip dividend option. It allows shareholders to determine the equity dilution or cash alternative associated with their dividend choice.",
       "key_themes": [
-        "Corporate Action",
-        "Administrative"
+        "Dividend",
+        "Scrip Dividend"
       ]
     },
     {

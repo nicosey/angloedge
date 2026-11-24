@@ -2,9 +2,53 @@
   "name": "Emmerson NPV",
   "ticker": "EML",
   "slug": "emmerson-eml",
-  "announcement_count": 5,
-  "latest_announcement": "2026-11-19T07:30:00",
+  "announcement_count": 8,
+  "latest_announcement": "2026-11-24T16:09:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T16:09:00",
+      "category": "Placing",
+      "headline": "Result of Placing and Subscription",
+      "url": "https://www.investegate.co.uk/announcement/rns/emmerson-npv--eml/result-of-placing-and-subscription-/9891902",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "This announcement confirms the completion of a placing and subscription, indicating that new capital has been raised for the company. This typically results in share dilution for existing shareholders but provides the firm with additional liquidity.",
+      "key_themes": [
+        "Capital raise",
+        "Placing",
+        "Dilution"
+      ]
+    },
+    {
+      "timestamp": "2026-11-24T07:01:00",
+      "category": "Placing",
+      "headline": "WRAP Retail Offer",
+      "url": "https://www.investegate.co.uk/announcement/rns/emmerson-npv--eml/wrap-retail-offer-/9890077",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "This announcement signifies a capital raise through a placing of shares to investors. It indicates an immediate dilution of existing shareholdings and potential pressure on the stock price.",
+      "key_themes": [
+        "Capital raise",
+        "Placing",
+        "Dilution"
+      ]
+    },
+    {
+      "timestamp": "2026-11-24T07:00:00",
+      "category": "Placing",
+      "headline": "Proposed Placing and Subscription",
+      "url": "https://www.investegate.co.uk/announcement/rns/emmerson-npv--eml/proposed-placing-and-subscription-/9889893",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "This announcement signifies a capital raise through a placing and subscription, which typically results in share dilution for existing shareholders while providing the company with new funds.",
+      "key_themes": [
+        "Capital raise",
+        "Share dilution"
+      ]
+    },
     {
       "timestamp": "2026-11-19T07:30:00",
       "category": null,
@@ -55,10 +99,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "As a SPAC with limited operational history, final results are largely administrative confirmations of liquidation or extension terms rather than indicators of fundamental business performance, offering minimal alpha for equity investors.",
+      "insight": "This announcement signifies the publication of final results for the company, which is a scheduled regulatory filing providing shareholders with an update on financial performance.",
       "key_themes": [
-        "SPAC",
-        "Administrative"
+        "Results"
       ]
     },
     {

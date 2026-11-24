@@ -79,10 +79,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on HWG's valuation or strategy, reflecting typical insider activity rather than a signal of significant corporate change.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has engaged in a transaction involving the company's shares. Such filings are routine regulatory disclosures required to ensure transparency regarding insider trading activities.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -92,11 +92,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/notice-of-best-and-final-offer-closing/9842174",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a procedural closure notice for an ongoing offer process rather than a substantive corporate event; the market impact will depend entirely on the terms of the best and final offer revealed subsequently, not this administrative update.",
+      "impact_score": 8,
+      "insight": "This announcement signifies the conclusion of a formal sale process or potential takeover bid, which is a significant corporate event for shareholders. It indicates that a decision regarding the future ownership or strategic direction of the company is imminent.",
       "key_themes": [
+        "M&A",
         "Corporate Action",
-        "Process Update"
+        "Governance"
       ]
     },
     {
@@ -357,10 +358,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 1,
-      "insight": "The headline 'Harworth Group' under category 'Other' without a specific descriptive title suggests an administrative filing, such as a share capital update or regulatory notification, rather than a material strategic development. In the absence of keywords indicating M&A, dividends, or trading updates, this is classified as routine administrative noise with negligible immediate market impact.",
+      "insight": "The headline provides only the company name without any descriptive content, indicating this is likely an administrative housekeeping announcement or a placeholder with no immediate financial significance for shareholders.",
       "key_themes": [
-        "Administrative",
-        "Low Impact"
+        "Administrative"
       ]
     },
     {
@@ -392,12 +392,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/offer-declared-unconditional-/9797392",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This declaration confirms the successful conclusion of the takeover bid by Land Securities (LAND), effectively ending HWG's independent status and resolving long-standing valuation discounts in the UK land development sector.",
+      "impact_score": 9,
+      "insight": "This announcement signifies that a takeover bid has been declared unconditional, meaning the offer is now binding and shareholders are likely to receive the specified consideration for their shares. This represents a definitive conclusion to a potential acquisition process.",
       "key_themes": [
         "M&A",
-        "Land Securities",
-        "UK Real Estate"
+        "Takeover"
       ]
     },
     {
@@ -418,11 +417,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/acceptance-level-update-/9792927",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative update regarding the progress of an existing share buyback programme, indicating no new material developments in strategy or financial performance.",
+      "impact_score": 3,
+      "insight": "This announcement likely updates shareholders on the status of a previously disclosed transaction or process, indicating procedural progress rather than a new material development.",
       "key_themes": [
         "Corporate Action",
-        "Capital Return"
+        "Process Update"
       ]
     },
     {
@@ -443,12 +442,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/recommended-increased-best-and-final-offer-/9790397",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 8,
-      "insight": "A recommended increased BAFO in the UK land development sector signals strong institutional demand for Harworth's brownfield regeneration assets and validates the premium valuation of its planning-led pipeline, often preceding a swift deal closure at an attractive multiple.",
+      "impact_score": 9,
+      "insight": "A recommended increased best and final offer typically signifies a decisive step towards a takeover or acquisition, often implying that the board supports the deal and shareholders are likely to receive a premium. This type of announcement is highly significant as it usually precedes a binding agreement or shareholder vote.",
       "key_themes": [
-        "M&A Premium",
-        "Land Valuation",
-        "Strategic Sale"
+        "M&A",
+        "Takeover"
       ]
     },
     {
@@ -458,11 +456,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/announcement-update-on-day-28-acceptance-level/9787957",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This update confirms the completion of a standard tender offer phase, likely for share consolidation or minor capital management, which is routine administrative activity with negligible fundamental impact on Harworth's property portfolio valuation or long-term strategy.",
+      "impact_score": 5,
+      "insight": "This update signifies progress in a takeover bid process, indicating whether sufficient shareholder support has been secured to finalize the transaction. It provides critical information regarding the certainty and timing of the potential change in control for investors.",
       "key_themes": [
-        "Corporate Action",
-        "Shareholder Returns"
+        "Takeover",
+        "Shareholder vote",
+        "Corporate action"
       ]
     },
     {
@@ -641,11 +640,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/statement-regarding-publication-of-offer-document/9741547",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard procedural RNS confirming the release of an offer document, likely related to a rights issue or placing; without details on size or pricing, it represents routine capital management rather than a transformative strategic shift.",
+      "impact_score": 8,
+      "insight": "The publication of an offer document typically signifies a formal takeover bid or significant corporate transaction, which is a material event for shareholders. This type of announcement often leads to substantial changes in share price and ownership structure.",
       "key_themes": [
-        "Corporate Action",
-        "Capital Raise"
+        "M&A",
+        "Corporate action"
       ]
     },
     {
@@ -655,12 +654,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/harworth-group--hwg/offer-document-and-investor-presentation-/9739896",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "The release of an Offer Document typically signals a formal bid for the company, likely from a private equity firm or strategic buyer seeking to take HWG private given its undervalued land bank relative to peers. This creates immediate arbitrage potential and forces a re-rating of the UK residential development sector's asset values.",
+      "impact_score": 7,
+      "insight": "The release of an offer document and investor presentation typically signifies a formal transaction process, such as a takeover bid or significant corporate action, which is highly material for shareholders.",
       "key_themes": [
-        "M&A",
-        "Takeover Bid",
-        "UK Property"
+        "Corporate action",
+        "Offer document"
       ]
     },
     {

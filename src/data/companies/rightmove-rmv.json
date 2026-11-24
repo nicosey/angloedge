@@ -2,9 +2,20 @@
   "name": "Rightmove",
   "ticker": "RMV",
   "slug": "rightmove-rmv",
-  "announcement_count": 91,
-  "latest_announcement": "2026-11-23T10:24:00",
+  "announcement_count": 92,
+  "latest_announcement": "2026-11-24T10:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T10:00:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/prn/rightmove--rmv/holding-s-in-company/9891118",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T10:24:00",
       "category": null,
@@ -618,12 +629,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/rightmove--rmv/statement-re-share-buyback-programme/9697385",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Rightmove's share buyback signals management confidence in the property market's stabilization and provides a supportive floor for the share price amidst sector volatility, though it does not alter the fundamental growth trajectory of the UK's leading property portal.",
+      "impact_score": 4,
+      "insight": "This announcement confirms the existence of a share buyback programme, which generally signifies that the company is returning capital to shareholders. It indicates a potential reduction in share count but does not specify the scale or timing of any repurchases.",
       "key_themes": [
-        "capital return",
-        "property sector recovery",
-        "shareholder yield"
+        "Share Buyback",
+        "Capital Return"
       ]
     },
     {

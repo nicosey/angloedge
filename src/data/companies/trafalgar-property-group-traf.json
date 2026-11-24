@@ -27,11 +27,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "Suspension of trading on AIM for a property group is a severe red flag indicating potential liquidity crises, regulatory scrutiny, or imminent insolvency proceedings, mirroring the collapse patterns seen in recent UK real estate sector distress.",
+      "insight": "Suspension of trading halts liquidity and prevents shareholders from buying or selling shares until further notice. This action typically signals significant uncertainty regarding the company's status or pending regulatory matters.",
       "key_themes": [
-        "Liquidity Risk",
-        "Regulatory Scrutiny",
-        "Sector Distress"
+        "Suspension",
+        "Liquidity Risk"
       ]
     },
     {
@@ -41,11 +40,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/trafalgar-property-group--traf/result-of-agm/9839728",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine AGM results for a small-cap property group typically confirm standard shareholder approvals with no material strategic shifts or capital events, reflecting the sector's ongoing liquidity constraints and lack of transformative activity.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or remuneration reports. It signifies standard corporate governance activity rather than any material change to the company's strategic direction or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Small Cap"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -84,12 +83,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/trafalgar-property-group--traf/change-of-name-to-trafalgar-minerals-plc/9683033",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This name change signals a strategic pivot from property to minerals, likely reflecting the collapse of the core real estate asset base and a desperate attempt to rebrand for speculative capital in the mining sector.",
+      "impact_score": 4,
+      "insight": "This announcement signifies a formal change in the company's legal identity, which is typically an administrative update requiring shareholder awareness but not necessarily indicating an immediate strategic shift. Shareholders should monitor subsequent filings to understand if this name change accompanies a broader rebranding or business model transformation.",
       "key_themes": [
-        "Strategic Pivot",
-        "Asset Restructuring",
-        "Speculative Rebranding"
+        "Governance",
+        "Corporate Action"
       ]
     }
   ]

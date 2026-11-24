@@ -35,10 +35,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures for a small-cap investment trust typically signal negligible immediate market impact unless the volume is exceptional; without specific transaction values, this remains an administrative filing rather than a strategic indicator.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine changes in shareholding by individuals with managerial responsibilities. Such disclosures are standard governance requirements and generally carry low immediate financial impact for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Small Cap"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -118,10 +118,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of individual director transactions rather than a corporate action; without volume or price context, it holds no immediate signal for the share price.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into the company's operational performance but may signal individual confidence or lack thereof depending on the nature of the deal.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Director Dealing",
+        "Governance"
       ]
     },
     {
@@ -131,12 +131,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/the-schiehallion-fund-limited-npv--mntn/update-on-nav-and-anthropic-valuation/9787301",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This update addresses the critical valuation gap between NPV's NAV and its share price by clarifying the treatment of its Anthropic stake, a key driver for AI-focused investment trusts amid sector volatility.",
+      "impact_score": 5,
+      "insight": "This update likely provides shareholders with new information regarding the fund's net asset value and the valuation of a specific holding, which is critical for determining the investment's current worth. Such announcements are standard for investment trusts to ensure transparency but do not inherently indicate a change in strategy or performance direction.",
       "key_themes": [
-        "AI Valuation",
-        "NAV Discount",
-        "Private Equity Marking"
+        "NAV Update",
+        "Valuation"
       ]
     },
     {
@@ -194,10 +193,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of insider trading activity rather than a corporate event; while director transactions can signal confidence or lack thereof, they rarely drive immediate price action in the absence of accompanying strategic announcements.",
+      "insight": "This announcement relates to director dealings, which is typically considered a minor corporate governance update for shareholders. It does not indicate any significant strategic shift or financial event.",
       "key_themes": [
-        "insider_activity",
-        "regulatory_compliance"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {

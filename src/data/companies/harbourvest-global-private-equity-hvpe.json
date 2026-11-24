@@ -2,9 +2,23 @@
   "name": "HarbourVest Global Private Equity Limited A Shs",
   "ticker": "HVPE",
   "slug": "harbourvest-global-private-equity-hvpe",
-  "announcement_count": 32,
-  "latest_announcement": "2026-11-23T15:16:00",
+  "announcement_count": 33,
+  "latest_announcement": "2026-11-23T18:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T18:00:00",
+      "category": null,
+      "headline": "HarbourVest Global Private Equity",
+      "url": "https://www.investegate.co.uk/announcement/rns/harbourvest-global-private-equity-limited-a-shs--hvpe/harbourvest-global-private-equity/9889746",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 1,
+      "insight": "The headline consists solely of the company name without any descriptive text, indicating an administrative filing or housekeeping announcement rather than a substantive corporate event.",
+      "key_themes": [
+        "Administrative",
+        "Housekeeping"
+      ]
+    },
     {
       "timestamp": "2026-11-23T15:16:00",
       "category": null,
@@ -12,11 +26,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/harbourvest-global-private-equity-limited-a-shs--hvpe/tender-price/9889544",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement likely details the pricing mechanism for a tender offer, a routine administrative step in capital management that lacks immediate transformative catalysts compared to major M&A or earnings surprises.",
+      "impact_score": 8,
+      "insight": "This announcement likely details the specific price at which shareholders can sell their shares in a tender offer, representing a significant liquidity event and potential exit opportunity. The disclosure of the tender price is a critical component of any formal buyback or acquisition process, directly affecting shareholder value.",
       "key_themes": [
-        "capital return",
-        "administrative"
+        "Tender Offer",
+        "Shareholder Return",
+        "Capital Action"
       ]
     },
     {
@@ -120,12 +135,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/harbourvest-global-private-equity-limited-a-shs--hvpe/launch-of-tender-offer-and-publication-of-circular/9835428",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This tender offer provides a liquidity exit mechanism for HVPE shareholders at a discount to NAV, reflecting the persistent private equity valuation gap and investor demand for capital recycling in the current high-rate environment.",
+      "impact_score": 8,
+      "insight": "This announcement signifies a formal tender offer process, providing shareholders with an opportunity to sell their holdings at a specified price. It represents a significant liquidity event and potential exit route for investors in the company.",
       "key_themes": [
-        "liquidity event",
-        "NAV discount",
-        "capital return"
+        "Tender Offer",
+        "Shareholder Return",
+        "Capital Action"
       ]
     },
     {

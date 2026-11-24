@@ -2,9 +2,23 @@
   "name": "Black Sea Property Plc",
   "ticker": "BSP",
   "slug": "black-sea-property-bsp",
-  "announcement_count": 3,
-  "latest_announcement": "2026-11-06T15:06:00",
+  "announcement_count": 4,
+  "latest_announcement": "2026-11-24T15:32:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T15:32:00",
+      "category": "AGM/EGM",
+      "headline": "Results of AGM",
+      "url": "https://www.investegate.co.uk/announcement/rns/black-sea-property-plc--bsp/results-of-agm-/9891887",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director re-elections or remuneration reports. It signifies standard corporate governance activity rather than a material change in the company's strategic or financial position.",
+      "key_themes": [
+        "Governance",
+        "Shareholder approval"
+      ]
+    },
     {
       "timestamp": "2026-11-06T15:06:00",
       "category": "AGM/EGM",
@@ -23,11 +37,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/black-sea-property-plc--bsp/board-changes-/9698181",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Board changes in UK property firms often signal underlying governance friction or strategic realignment during periods of high interest rates and refinancing pressure; without details on the appointee's track record, this remains a neutral administrative update rather than a value driver.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the company's board composition, which is a standard governance update. Such changes typically reflect routine personnel adjustments rather than immediate strategic shifts or financial impacts.",
       "key_themes": [
         "Governance",
-        "UK Real Estate"
+        "Board Change"
       ]
     },
     {
@@ -38,11 +52,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "As a micro-cap with negligible liquidity and market capitalisation, BSP's annual report is unlikely to move the broader property sector or attract institutional interest, reflecting typical administrative disclosure for this tier of the UK equity market.",
+      "insight": "This announcement signifies the release of scheduled annual financial results, which provides shareholders with a comprehensive review of the company's performance and financial position over the past year. The headline does not indicate whether the results are positive or negative, so the specific impact on share price remains undetermined.",
       "key_themes": [
-        "micro-cap",
-        "annual results",
-        "low liquidity"
+        "Results",
+        "Financial Reporting"
       ]
     }
   ]

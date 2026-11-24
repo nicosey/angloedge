@@ -2,9 +2,23 @@
   "name": "Computacenter",
   "ticker": "CCC",
   "slug": "computacenter-ccc",
-  "announcement_count": 11,
-  "latest_announcement": "2026-11-05T16:00:00",
+  "announcement_count": 12,
+  "latest_announcement": "2026-11-24T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T07:00:00",
+      "category": null,
+      "headline": "Capital Markets Event – 24 November 2026",
+      "url": "https://www.investegate.co.uk/announcement/rns/computacenter--ccc/capital-markets-event-24-november-2026/9889944",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled event where management will likely present financial performance or strategic updates to investors. The specific direction of the news is not indicated by the headline alone.",
+      "key_themes": [
+        "Investor Relations",
+        "Capital Markets Event"
+      ]
+    },
     {
       "timestamp": "2026-11-05T16:00:00",
       "category": "Director Dealing",
@@ -41,10 +55,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in the IT infrastructure sector typically signal internal alignment rather than strategic shifts, offering negligible immediate catalyst for share price movement compared to broader macro trends affecting CCC's core business.",
+      "insight": "This announcement relates to director share dealings, which typically have a low direct impact on shareholder value unless they signal significant insider sentiment shifts. Such filings are routine regulatory disclosures rather than indicators of major corporate events.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -55,10 +69,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in the IT infrastructure sector typically signal internal alignment rather than strategic shifts, especially given Computacenter's stable cash flow profile and lack of immediate M&A speculation.",
+      "insight": "This announcement relates to director share dealings, which is typically a low-impact event for shareholders unless it signals significant insider sentiment shifts. It generally signifies routine compliance with disclosure regulations regarding individual executive transactions.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -68,11 +82,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/computacenter--ccc/appointment-interim-remuneration-committee-chair/9838706",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard governance update regarding interim committee leadership, carrying no direct financial or strategic weight for Computacenter's IT distribution business.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in board committee leadership, which is a standard governance update. Such appointments typically have limited immediate financial impact but signal ongoing oversight of executive pay structures.",
       "key_themes": [
-        "Corporate Governance",
-        "Board Administration"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -137,10 +151,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Computacenter's valuation or liquidity; the market focuses instead on broader IT services sector margins and cloud migration trends rather than individual insider transactions.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It generally signifies standard compliance with insider dealing regulations rather than a specific strategic shift by the company.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {

@@ -2,9 +2,37 @@
   "name": "Bw Lpg Ltd",
   "ticker": "0QIX",
   "slug": "bw-lpg-0qix",
-  "announcement_count": 11,
-  "latest_announcement": "2026-11-13T07:15:00",
+  "announcement_count": 13,
+  "latest_announcement": "2026-11-24T06:01:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T06:01:00",
+      "category": null,
+      "headline": "BW LPG Limited – Key information relating to ...",
+      "url": "https://www.investegate.co.uk/announcement/mfn/bw-lpg-ltd--0qix/bw-lpg-limited-key-information-relating-to-/9889791",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement likely provides scheduled results or a trading update, but the headline does not specify the direction of performance. Shareholders should await the full text to understand the financial implications.",
+      "key_themes": [
+        "Results",
+        "Trading Update"
+      ]
+    },
+    {
+      "timestamp": "2026-11-24T06:00:00",
+      "category": "Results",
+      "headline": "BW LPG Limited – Financial Results for Q3 202...",
+      "url": "https://www.investegate.co.uk/announcement/mfn/bw-lpg-ltd--0qix/bw-lpg-limited-financial-results-for-q3-202-/9889788",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled financial results for a specific quarter. It provides shareholders with standard performance data but does not indicate the direction or magnitude of the outcome from the headline alone.",
+      "key_themes": [
+        "Results",
+        "Financial Reporting"
+      ]
+    },
     {
       "timestamp": "2026-11-13T07:15:00",
       "category": null,
@@ -56,12 +84,11 @@
       "url": "https://www.investegate.co.uk/announcement/mfn/bw-lpg-ltd--0qix/bw-lpg-limited-key-information-relating-to-/9744280",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Confirms cash dividend distribution for Q2 2026, reflecting BW LPG's strong free cash flow generation amidst the ongoing tanker freight rate environment; while routine, it signals sustained shareholder returns in a capital-intensive shipping sector.",
+      "impact_score": 3,
+      "insight": "This announcement provides logistical details regarding a scheduled cash dividend payment. It signifies routine income distribution to shareholders without indicating changes in financial performance or corporate strategy.",
       "key_themes": [
         "Dividend",
-        "Cash Flow",
-        "Shipping"
+        "Shareholder Return"
       ]
     },
     {
@@ -71,12 +98,10 @@
       "url": "https://www.investegate.co.uk/announcement/mfn/bw-lpg-ltd--0qix/bw-lpg-limited-financial-results-for-q2-202-/9744277",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a major player in the VLCC tanker market, BW LPG's Q2 results provide critical real-time data on freight rate resilience amid fluctuating global oil demand and OPEC+ supply constraints. The outcome will directly influence sentiment regarding the sector's ability to sustain elevated earnings despite potential headwinds from alternative energy adoption and geopolitical shifts.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled release of financial results for the specified period, which is a routine event providing standard performance data to shareholders.",
       "key_themes": [
-        "Maritime Logistics",
-        "Freight Rates",
-        "Energy Transport"
+        "Results"
       ]
     },
     {

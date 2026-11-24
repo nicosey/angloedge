@@ -2,9 +2,23 @@
   "name": "Helvetia Holding Ag",
   "ticker": "0ACB",
   "slug": "helvetia-holding-0acb",
-  "announcement_count": 11,
-  "latest_announcement": "2026-11-20T08:00:00",
+  "announcement_count": 12,
+  "latest_announcement": "2026-11-24T05:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T05:00:00",
+      "category": null,
+      "headline": "One in four burglaries occurs between the clo...",
+      "url": "https://www.investegate.co.uk/announcement/eqs/helvetia-holding-ag--0acb/one-in-four-burglaries-occurs-between-the-clo-/9889789",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 1,
+      "insight": "This headline appears to be a general statistic unrelated to the company, indicating it is likely administrative housekeeping or external press material with no bearing on the company's shareholders.",
+      "key_themes": [
+        "Press release",
+        "General information"
+      ]
+    },
     {
       "timestamp": "2026-11-20T08:00:00",
       "category": "Results",
@@ -40,11 +54,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/helvetia-holding-ag--0acb/familiar-uncanny-urban-two-new-exhibitions-/9846788",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement concerns corporate social responsibility activities unrelated to Helvetia's core insurance underwriting or investment performance, offering no material impact on financial metrics or valuation.",
+      "impact_score": 1,
+      "insight": "This announcement appears to be a press release regarding cultural exhibitions, which constitutes marketing material with no direct bearing on the company's financial performance or shareholder value.",
       "key_themes": [
-        "CSR",
-        "Brand Awareness"
+        "Marketing",
+        "Corporate Social Responsibility"
       ]
     },
     {
@@ -68,11 +82,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/helvetia-holding-ag--0acb/helvetia-baloise-successfully-places-a-chf-27-/9785519",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement concerns Helvetia Baloise, a Swiss entity, not the UK-listed Helvetia Holding AG (0ACB), rendering it irrelevant to the subject company's valuation or operations.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a capital raising activity through debt issuance, which is generally routine for established entities and typically has limited direct impact on equity value compared to operational results or strategic shifts. Shareholders should note the increase in leverage but recognize that subordinated bonds are a standard financing tool with no immediate implication for share price direction.",
       "key_themes": [
-        "irrelevant_entity",
-        "no_impact"
+        "Capital raise",
+        "Debt issuance"
       ]
     },
     {
@@ -83,10 +97,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This product launch targets the UK gig economy but represents a marginal operational update rather than a material financial catalyst for Helvetia's Swiss-listed parent, with limited immediate impact on valuation or strategic direction.",
+      "insight": "This announcement signifies a product launch, which typically represents routine operational activity rather than a material financial event for shareholders. Without details on revenue impact or strategic transformation, it is classified as standard corporate communication.",
       "key_themes": [
         "Product Launch",
-        "Gig Economy"
+        "Corporate Update"
       ]
     },
     {
@@ -152,11 +166,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/helvetia-holding-ag--0acb/helvetia-launches-a-consolidated-range-of-ser-/9642825",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard product launch announcement with negligible immediate financial impact on Helvetia's core insurance underwriting model; it reflects routine commercial activity rather than a structural shift in profitability or risk profile.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a product or service expansion, which generally signifies strategic growth efforts but lacks specific financial metrics to assess immediate shareholder value. Without details on revenue impact or costs, it is classified as a standard operational update rather than a material financial event.",
       "key_themes": [
         "Product Launch",
-        "Commercial Update"
+        "Strategic Expansion"
       ]
     }
   ]

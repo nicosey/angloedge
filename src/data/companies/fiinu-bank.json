@@ -2,9 +2,37 @@
   "name": "Fiinu",
   "ticker": "BANK",
   "slug": "fiinu-bank",
-  "announcement_count": 11,
-  "latest_announcement": "2026-10-01T07:00:00",
+  "announcement_count": 13,
+  "latest_announcement": "2026-11-24T11:57:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T11:57:00",
+      "category": null,
+      "headline": "First Everfex Settlement Agreement signed",
+      "url": "https://www.investegate.co.uk/announcement/rns/fiinu--bank/first-everfex-settlement-agreement-signed-/9891417",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement signifies the resolution of a legal matter through a settlement agreement, which typically removes uncertainty regarding potential liabilities or ongoing disputes for shareholders.",
+      "key_themes": [
+        "Legal Settlement",
+        "Risk Mitigation"
+      ]
+    },
+    {
+      "timestamp": "2026-11-24T07:00:00",
+      "category": null,
+      "headline": "Operations update, 1st proposed Everfex settlement",
+      "url": "https://www.investegate.co.uk/announcement/rns/fiinu--bank/operations-update-1st-proposed-everfex-settlement/9889898",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled operational update regarding a proposed settlement, which may provide clarity on ongoing liabilities or strategic progress for shareholders.",
+      "key_themes": [
+        "Operations update",
+        "Settlement"
+      ]
+    },
     {
       "timestamp": "2026-10-01T07:00:00",
       "category": null,
@@ -111,11 +139,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/fiinu--bank/receipt-of-requisition-notice/9694732",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "A requisition notice signals potential shareholder activism or a contest for board control, introducing governance uncertainty rather than immediate operational change. While it may pressure management to improve efficiency or consider strategic alternatives, the outcome is binary and speculative, limiting near-term valuation impact.",
+      "impact_score": 9,
+      "insight": "A requisition notice indicates that shareholders have formally demanded an extraordinary general meeting, typically to challenge management or propose significant governance changes. This signals a potential internal conflict or activist campaign that could lead to a change in control or strategic direction.",
       "key_themes": [
-        "corporate governance",
-        "shareholder activism"
+        "Governance",
+        "Activist",
+        "Shareholder Action"
       ]
     },
     {
@@ -126,10 +155,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "As a routine AGM result for a small-cap bank, this announcement carries minimal immediate financial impact, though it serves as a critical governance checkpoint for shareholder approval of director remuneration and auditor reappointment in the current regulatory climate.",
+      "insight": "This announcement confirms the outcome of a scheduled Annual General Meeting, which typically involves routine shareholder approvals such as director reappointments or auditor appointments. It signifies standard corporate governance activity rather than any material change to the company's financial position or strategic direction.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder approval",
+        "AGM"
       ]
     },
     {
@@ -153,11 +183,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/fiinu--bank/posting-of-annual-report-accounts-agm-notice/9642787",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing for annual results and shareholder meeting logistics, carrying no inherent price-sensitive information or strategic shift beyond routine corporate governance.",
+      "impact_score": 3,
+      "insight": "This announcement signifies the publication of annual financial results and the convening of a general meeting, which are routine governance events for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Annual Report"
+        "Results",
+        "Governance"
       ]
     }
   ]

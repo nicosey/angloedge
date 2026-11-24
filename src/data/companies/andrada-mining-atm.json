@@ -2,9 +2,23 @@
   "name": "Andrada Mining Limited NPV",
   "ticker": "ATM",
   "slug": "andrada-mining-atm",
-  "announcement_count": 12,
-  "latest_announcement": "2026-11-02T07:00:00",
+  "announcement_count": 13,
+  "latest_announcement": "2026-11-24T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T07:00:00",
+      "category": "Results",
+      "headline": "Final Stage 1 Drill Results from Lithium Ridge",
+      "url": "https://www.investegate.co.uk/announcement/rns/andrada-mining-limited-npv--atm/final-stage-1-drill-results-from-lithium-ridge-/9889979",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement provides final results from a specific exploration phase, which is critical for validating resource potential but does not indicate commercial viability or financial performance. Shareholders should view this as operational data that may influence future valuation but lacks the immediacy of a major corporate event.",
+      "key_themes": [
+        "Exploration Results",
+        "Operational Update"
+      ]
+    },
     {
       "timestamp": "2026-11-02T07:00:00",
       "category": null,
@@ -81,11 +95,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/andrada-mining-limited-npv--atm/operational-performance-for-period-ended-31-aug-26/9792680",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard operational update for an exploration-stage junior miner, likely reflecting routine drilling progress rather than material commercial milestones; such announcements rarely move the share price unless they reveal a major resource expansion or funding crisis.",
+      "impact_score": 5,
+      "insight": "This announcement provides a scheduled operational update for the period ended 31 August 2026. The headline does not indicate the direction or magnitude of performance, so it generally signifies routine progress reporting to shareholders.",
       "key_themes": [
-        "Exploration Update",
-        "Junior Mining"
+        "Operational Update",
+        "Performance Report"
       ]
     },
     {
@@ -95,11 +109,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/andrada-mining-limited-npv--atm/board-changes/9744636",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine board changes in junior mining firms are typically administrative with negligible immediate price impact unless linked to a strategic pivot; without details on the appointee's track record or specific mandate, this remains a low-conviction event for equity valuation.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the company's board composition, which is a standard governance event that may influence strategic direction but does not inherently indicate immediate financial impact or operational changes.",
       "key_themes": [
-        "corporate_governance",
-        "junior_miners"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -109,12 +123,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/andrada-mining-limited-npv--atm/financial-results-for-year-ended-28-feb-2026/9744370",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a junior explorer with no production history, Andrada's results are primarily a measure of capital preservation and exploration progress rather than operational performance; the market will scrutinize cash burn rates against the prevailing risk-off sentiment in small-cap mining equities.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled annual financial results for the period ended 28 Feb 2026. The headline does not indicate the direction or magnitude of the performance, so it represents a standard reporting event rather than a specific catalyst.",
       "key_themes": [
-        "Exploration Update",
-        "Cash Burn",
-        "Junior Mining"
+        "Results"
       ]
     },
     {
@@ -124,12 +136,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/andrada-mining-limited-npv--atm/lithium-ridge-drill-results/9739906",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Drill results serve as the critical de-risking mechanism for Andrada's Lithium Ridge project, directly influencing valuation multiples in a sector where exploration success is the primary catalyst; however, without assay data confirming high-grade lithium oxide (Li2O) intercepts comparable to peer developments like Core Lithium or Pilbara Minerals, the market impact remains speculative rather than transformative.",
+      "impact_score": 5,
+      "insight": "This announcement provides drill results which are critical for evaluating the resource potential of the Lithium Ridge project. The specific financial impact remains unclear without details on assay values or geological continuity.",
       "key_themes": [
         "Exploration",
-        "Lithium",
-        "De-risking"
+        "Drill Results"
       ]
     },
     {

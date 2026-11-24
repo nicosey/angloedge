@@ -2,9 +2,23 @@
   "name": "JPMorgan Asia Growth & Income",
   "ticker": "JAGI",
   "slug": "jpmorgan-asia-growth-income-jagi",
-  "announcement_count": 41,
-  "latest_announcement": "2026-11-23T11:34:00",
+  "announcement_count": 42,
+  "latest_announcement": "2026-11-24T15:31:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T15:31:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-asia-growth-income--jagi/director-pdmr-shareholding/9891886",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement signifies a routine disclosure of shareholding changes by a person with senior management responsibilities, which is standard regulatory practice for transparency.",
+      "key_themes": [
+        "Governance",
+        "Director Dealing"
+      ]
+    },
     {
       "timestamp": "2026-11-23T11:34:00",
       "category": null,
@@ -67,11 +81,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-asia-growth-income--jagi/investor-webinar-30th-october-2026-10-00-a-m-bst/9844645",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard investor relations event with no immediate price-sensitive information or capital action; it serves primarily to maintain dialogue with the fund's shareholder base rather than signal strategic shifts.",
+      "impact_score": 1,
+      "insight": "This announcement is an invitation to a webinar, which constitutes marketing material with no immediate bearing on the company's financial position or shareholder value.",
       "key_themes": [
         "Investor Relations",
-        "Fund Management"
+        "Marketing"
       ]
     },
     {
@@ -229,10 +243,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures for a closed-end investment trust typically carry negligible market impact, as individual transactions rarely signal significant shifts in the fund's underlying strategy or NAV trajectory.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine changes in shareholding by individuals with managerial responsibilities. Such disclosures are standard governance requirements and generally carry low immediate impact on shareholder value unless they signal a significant shift in insider sentiment.",
       "key_themes": [
-        "Closed-End Fund",
-        "Minor/Administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {

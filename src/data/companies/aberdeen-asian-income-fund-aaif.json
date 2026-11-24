@@ -90,10 +90,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure for a change in the board composition of an investment trust, carrying no immediate financial implication for shareholders beyond potential governance shifts.",
+      "insight": "This announcement relates to changes in the shareholding of a Person Discharging Managerial Responsibilities, which is typically a routine governance disclosure. It generally signifies standard regulatory compliance regarding insider transactions rather than a material event for shareholders.",
       "key_themes": [
         "Governance",
-        "Investment Trust"
+        "Director Dealing"
       ]
     },
     {
@@ -104,10 +104,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine disclosure of individual director transactions in a closed-end fund carries negligible market impact, as these do not reflect institutional sentiment or underlying NAV performance.",
+      "insight": "This announcement discloses share dealings by a person discharging managerial responsibilities, which is a routine regulatory filing. It provides limited insight into future performance but confirms internal transparency regarding director holdings.",
       "key_themes": [
-        "Corporate Governance",
-        "Minor/Administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -118,10 +118,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures in closed-end funds typically reflect personal portfolio rebalancing rather than strategic shifts, offering negligible signal for the underlying asset performance or fund governance.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into the company's operational performance but confirms internal shareholding movements.",
       "key_themes": [
-        "Closed-End Fund",
-        "Insider Activity"
+        "Director Dealing",
+        "Governance"
       ]
     },
     {
@@ -132,10 +132,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of individual director transactions with no material impact on the fund's NAV or strategy; such routine filings are common in closed-end funds and do not signal insider sentiment shifts.",
+      "insight": "This announcement discloses shareholding changes by a person discharging managerial responsibilities, which is a standard regulatory requirement for transparency. It provides limited insight into future performance or strategy without further context on the nature of the transaction.",
       "key_themes": [
-        "regulatory_compliance",
-        "closed_end_fund"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -332,12 +332,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/aberdeen-asian-income-fund-limited--aaif/doc-re-half-yearly-report/9741198",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a closed-end fund (CEF), this interim report is critical for assessing NAV performance relative to the premium/discount dynamics that drive AAIF's valuation. The market will scrutinize whether the Asian income strategy can maintain yield and capital preservation amidst current geopolitical volatility in the region.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled half-yearly results, which will provide shareholders with an update on the fund's performance and financial position for the period.",
       "key_themes": [
-        "Closed-End Fund",
-        "NAV Performance",
-        "Premium/Discount Analysis"
+        "Results",
+        "Performance Update"
       ]
     },
     {

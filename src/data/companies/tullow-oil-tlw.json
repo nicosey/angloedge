@@ -2,9 +2,24 @@
   "name": "Tullow Oil",
   "ticker": "TLW",
   "slug": "tullow-oil-tlw",
-  "announcement_count": 14,
-  "latest_announcement": "2026-10-26T15:15:00",
+  "announcement_count": 15,
+  "latest_announcement": "2026-11-23T18:18:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T18:18:00",
+      "category": null,
+      "headline": "Ghana tax settlement agreement",
+      "url": "https://www.investegate.co.uk/announcement/rns/tullow-oil--tlw/ghana-tax-settlement-agreement-/9889759",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement signifies a resolution to tax matters in Ghana, which generally reduces regulatory uncertainty and potential future liabilities for shareholders. It represents a governance milestone that clarifies the company's fiscal position in that jurisdiction without specifying financial terms.",
+      "key_themes": [
+        "Governance",
+        "Regulatory Resolution",
+        "Tax"
+      ]
+    },
     {
       "timestamp": "2026-10-26T15:15:00",
       "category": null,
@@ -24,10 +39,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "This update addresses critical fiscal uncertainty in Ghana, a key jurisdiction for Tullow's upstream assets; resolution reduces tail risk regarding potential tax liabilities and stabilizes the long-term investment case for the Jubilee field.",
+      "insight": "This update signifies a development in a legal dispute regarding taxation, which introduces uncertainty regarding potential financial liabilities or cash flow impacts for shareholders. The outcome of such arbitration can materially affect net assets and future profitability.",
       "key_themes": [
-        "Fiscal Stability",
-        "Upstream Risk Mitigation"
+        "Legal",
+        "Taxation",
+        "Governance"
       ]
     },
     {
@@ -37,11 +53,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/tullow-oil--tlw/replacement-2026-half-year-results/9793960",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a replacement announcement for Tullow Oil's 2026 Half Year Results, this signals a procedural correction rather than a fundamental shift in strategy; however, given the company's history of volatility and recent restructuring efforts, any deviation in upstream production or cost guidance will be scrutinized heavily by investors seeking stability in the mid-tier E&P sector.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled release of half-year financial results, which provides shareholders with an update on the company's performance for the first six months of the year. The specific direction or magnitude of the results is not disclosed in the headline.",
       "key_themes": [
-        "Corporate Governance",
-        "Interim Reporting"
+        "Results",
+        "Financial reporting"
       ]
     },
     {
@@ -91,10 +107,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "This repayment reduces Tullow's debt burden in a high-interest-rate environment, improving liquidity but offering limited immediate upside given the company's ongoing restructuring and reliance on oil price volatility rather than organic growth.",
+      "insight": "This announcement signifies a reduction in debt obligations through the repayment of senior notes, which may improve the company's balance sheet and liquidity position. The specific financial impact on equity value depends on the terms of the repayment and the broader context of the company's overall capital structure.",
       "key_themes": [
-        "Debt Reduction",
-        "Liquidity Management"
+        "Debt repayment",
+        "Capital management"
       ]
     },
     {

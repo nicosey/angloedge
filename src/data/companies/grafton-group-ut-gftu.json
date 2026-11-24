@@ -2,9 +2,23 @@
   "name": "Grafton Group Ut (CDI)",
   "ticker": "GFTU",
   "slug": "grafton-group-ut-gftu",
-  "announcement_count": 17,
-  "latest_announcement": "2026-10-15T07:00:00",
+  "announcement_count": 18,
+  "latest_announcement": "2026-11-24T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T07:00:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/grafton-group-ut-cdi---gftu/director-pdmr-shareholding/9889913",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement indicates a change in the shareholding of a person discharging managerial responsibilities, which is a routine disclosure under market abuse regulations. It signifies standard regulatory compliance rather than providing specific insight into the company's operational performance or strategic direction.",
+      "key_themes": [
+        "Governance",
+        "Director Dealing"
+      ]
+    },
     {
       "timestamp": "2026-10-15T07:00:00",
       "category": null,
@@ -37,11 +51,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/grafton-group-ut-cdi---gftu/completion-of-share-buyback-programme/9790309",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Completion of a buyback programme signals management confidence in the UK construction sector's recovery and provides immediate EPS accretion, though it reflects limited organic growth opportunities rather than transformative strategic shifts.",
+      "impact_score": 4,
+      "insight": "This announcement confirms the conclusion of a share buyback programme, which typically signifies that the company has completed its planned repurchase of equity. For shareholders, this indicates the end of a capital return mechanism but provides no new information on future strategy or financial performance.",
       "key_themes": [
-        "capital allocation",
-        "construction sector recovery"
+        "Share Buyback",
+        "Capital Return",
+        "Corporate Action"
       ]
     },
     {
@@ -193,11 +208,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/grafton-group-ut-cdi---gftu/share-buyback-programme/9643039",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine share buybacks in the UK construction supply chain sector are typically minor capital allocation decisions aimed at modest EPS accretion rather than transformative strategic shifts, reflecting limited organic growth opportunities amidst high interest rates.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a formal initiation of a share buyback programme, which generally signifies management's confidence in the company's valuation and a commitment to returning capital to shareholders.",
       "key_themes": [
-        "capital return",
-        "construction sector"
+        "Capital return",
+        "Shareholder value"
       ]
     },
     {

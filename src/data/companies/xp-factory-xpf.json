@@ -2,9 +2,20 @@
   "name": "XP Factory",
   "ticker": "XPF",
   "slug": "xp-factory-xpf",
-  "announcement_count": 9,
-  "latest_announcement": "2026-11-09T15:45:00",
+  "announcement_count": 10,
+  "latest_announcement": "2026-11-23T17:31:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T17:31:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/xp-factory--xpf/holding-s-in-company/9889732",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-09T15:45:00",
       "category": null,
@@ -48,11 +59,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/xp-factory--xpf/results-of-annual-general-meeting-/9797386",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine AGM results for XP Factory typically involve rubber-stamping board reappointments and auditor fees with no material strategic shifts or capital allocation changes.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a scheduled annual general meeting, which typically involves routine governance matters such as director reappointments and auditor approvals. It signifies standard shareholder engagement rather than any material change to the company's strategic or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Governance",
+        "Shareholder Meeting"
       ]
     },
     {
@@ -62,12 +73,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/xp-factory--xpf/disposal-of-boom-battle-bar-/9794248",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The disposal of Boom Battle Bar signals a strategic pivot away from volatile social gaming assets toward core profitability, aligning with XP Factory's broader restructuring efforts to streamline operations and reduce exposure to the high-churn mobile gaming sector.",
+      "impact_score": 7,
+      "insight": "The disposal of a business unit represents a material strategic action that may significantly alter the company's operational footprint and future revenue streams. Shareholders should anticipate potential changes to the firm's financial profile and strategic direction as a result of this divestment.",
       "key_themes": [
-        "Strategic Restructuring",
-        "Asset Divestment",
-        "Gaming Sector Volatility"
+        "M&A",
+        "Strategic Review",
+        "Divestment"
       ]
     },
     {

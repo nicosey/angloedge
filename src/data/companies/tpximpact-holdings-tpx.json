@@ -2,9 +2,56 @@
   "name": "TPXimpact Holdings",
   "ticker": "TPX",
   "slug": "tpximpact-holdings-tpx",
-  "announcement_count": 21,
-  "latest_announcement": "2026-11-23T15:31:00",
+  "announcement_count": 25,
+  "latest_announcement": "2026-11-24T15:53:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T15:53:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Dealing",
+      "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/director-pdmr-dealing/9891894",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has engaged in a transaction involving the company's shares. Such dealings are routine regulatory disclosures that provide transparency into insider activity but do not inherently signal a change in corporate strategy or financial performance.",
+      "key_themes": [
+        "Governance",
+        "Director Dealing"
+      ]
+    },
+    {
+      "timestamp": "2026-11-24T15:50:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/holding-s-in-company/9891893",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-24T13:58:00",
+      "category": null,
+      "headline": "Notification of Major Holdings",
+      "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/notification-of-major-holdings/9891679",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-24T13:28:00",
+      "category": null,
+      "headline": "Exercise of Options & Total Voting Rights",
+      "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/exercise-of-options-total-voting-rights/9891642",
+      "routine_type": "Total Voting Rights",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T15:31:00",
       "category": null,
@@ -118,10 +165,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard administrative notice confirming the release of results rather than the results themselves; without data on revenue growth, margin compression, or dividend changes, it holds no immediate pricing power for TPXimpact's industrial packaging sector.",
+      "insight": "This announcement signifies that the company is releasing its financial results, a scheduled event whose direction and magnitude are not indicated by the headline alone.",
       "key_themes": [
-        "administrative",
-        "results_release"
+        "Results"
       ]
     },
     {
@@ -182,10 +228,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard equity incentive plan implementation aimed at staff retention in a competitive tech recruitment market; lacks immediate financial impact or strategic pivot signals compared to transformative corporate actions.",
+      "insight": "This announcement relates to a Share Incentive Plan, which typically signifies governance measures designed to align employee interests with shareholders. It generally indicates administrative housekeeping or retention strategies rather than immediate financial impact.",
       "key_themes": [
-        "Corporate Governance",
-        "HR Strategy"
+        "Governance",
+        "Employee incentives"
       ]
     },
     {

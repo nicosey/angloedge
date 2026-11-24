@@ -23,11 +23,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/investment-company--inv/result-of-agm/9851331",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard post-meeting confirmation of shareholder votes with no substantive corporate action or strategic shift implied, rendering it immaterial for valuation purposes.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director re-elections or auditor appointments. It signifies standard corporate governance compliance rather than a material change in the company's strategic direction or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -183,12 +183,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/investment-company--inv/confirmation-of-capital-reduction/9689227",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Capital reductions in investment companies typically signal a structural shift to unlock trapped NAV or facilitate a return of capital, often preceding a special dividend or share buyback; this is a notable corporate governance move that can enhance yield but may indicate limited organic growth opportunities.",
+      "impact_score": 4,
+      "insight": "A capital reduction typically involves returning cash to shareholders or adjusting the share register, which can be a neutral or positive governance event depending on the specific terms. Without further details, it is classified as a small capital action rather than a transformative financial event.",
       "key_themes": [
-        "NAV Unlock",
-        "Capital Return",
-        "Investment Company Structure"
+        "Capital return",
+        "Governance",
+        "Shareholder value"
       ]
     },
     {
@@ -198,12 +198,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/investment-company--inv/result-of-retail-offer-/9685249",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "Retail offer results are standard administrative disclosures for investment companies; without details on oversubscription levels or discount closure mechanics, the market impact is negligible compared to institutional placing outcomes.",
+      "impact_score": 5,
+      "insight": "This announcement provides the outcome of a retail capital raising initiative, indicating whether the company successfully secured additional equity funding from private investors. It signifies a completed administrative step in a fundraising process, confirming the status of the offer without detailing the financial terms or strategic implications.",
       "key_themes": [
-        "administrative",
-        "retail_demand",
-        "investment_company"
+        "Capital raise",
+        "Equity financing",
+        "Corporate action"
       ]
     },
     {

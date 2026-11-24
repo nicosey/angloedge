@@ -2,9 +2,20 @@
   "name": "Tavistock Investments",
   "ticker": "TAVI",
   "slug": "tavistock-investments-tavi",
-  "announcement_count": 11,
-  "latest_announcement": "2026-11-20T15:34:00",
+  "announcement_count": 12,
+  "latest_announcement": "2026-11-24T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T07:00:00",
+      "category": null,
+      "headline": "Introduction of New Long Term Incentive Plan",
+      "url": "https://www.investegate.co.uk/announcement/rns/tavistock-investments--tavi/introduction-of-new-long-term-incentive-plan/9889946",
+      "routine_type": "Employee Share Schemes",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T15:34:00",
       "category": "Director Dealing",
@@ -118,12 +129,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/tavistock-investments--tavi/acquisition-of-plus-group/9689929",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 9,
-      "insight": "This acquisition marks a pivotal strategic pivot for Tavistock from its traditional private equity roots into the high-growth UK tech infrastructure sector, leveraging Plus Group's data centre assets to capitalize on the surging demand for AI and cloud computing capacity.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a material acquisition for Tavistock Investments, which typically indicates strategic expansion or portfolio diversification. Shareholders should anticipate potential changes to the firm's asset base and future performance metrics as a result of this deal.",
       "key_themes": [
-        "Strategic Pivot",
-        "Tech Infrastructure",
-        "AI Enabler"
+        "Acquisition",
+        "Strategic expansion"
       ]
     },
     {
@@ -133,11 +143,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/tavistock-investments--tavi/settlement-of-litigation/9682357",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Litigation settlement typically removes a known overhang on the balance sheet, but for Tavistock Investments, this is likely a routine resolution of historical holdings rather than a transformative event. The impact is limited by the fund's size and the non-recurring nature of such legal outcomes.",
+      "impact_score": 6,
+      "insight": "The settlement of litigation typically removes a significant legal overhang and potential financial liability, which can reduce uncertainty for shareholders. However, without details on the terms or costs, the precise financial impact remains unclear.",
       "key_themes": [
-        "Legal Resolution",
-        "Balance Sheet Clarity"
+        "Litigation",
+        "Legal Resolution"
       ]
     },
     {

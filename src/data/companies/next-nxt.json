@@ -2,9 +2,23 @@
   "name": "Next",
   "ticker": "NXT",
   "slug": "next-nxt",
-  "announcement_count": 7,
-  "latest_announcement": "2026-11-23T11:00:00",
+  "announcement_count": 8,
+  "latest_announcement": "2026-11-24T15:57:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T15:57:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/next--nxt/director-pdmr-shareholding/9891896",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement relates to director dealings, which typically signifies routine compliance reporting rather than a significant strategic shift. Shareholders should view this as standard governance disclosure with limited immediate financial impact.",
+      "key_themes": [
+        "Governance",
+        "Director Dealing"
+      ]
+    },
     {
       "timestamp": "2026-11-23T11:00:00",
       "category": null,
@@ -12,11 +26,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/next--nxt/third-party-data-incident/9889007",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "While Next's robust balance sheet likely insulates it from immediate financial damage, this incident highlights the persistent operational risks in retail data security and may trigger short-term reputational scrutiny amidst heightened consumer privacy awareness.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a data security incident involving third-party systems, which typically signals potential operational disruption, regulatory scrutiny, and reputational risk for shareholders.",
       "key_themes": [
-        "cybersecurity",
-        "operational risk"
+        "Cybersecurity",
+        "Governance",
+        "Operational Risk"
       ]
     },
     {
@@ -83,10 +98,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in UK retail rarely signal immediate strategic shifts compared to broader macro pressures on consumer spending; without volume or price context, this is standard administrative noise rather than a market-moving event.",
+      "insight": "This announcement relates to director dealings, which typically signifies routine compliance filings rather than significant strategic shifts. Such disclosures generally have minimal immediate impact on shareholder value unless they indicate unusual trading patterns by key insiders.",
       "key_themes": [
-        "Retail Sector",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {

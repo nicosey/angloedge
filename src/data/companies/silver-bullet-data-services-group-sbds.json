@@ -53,11 +53,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "The explicit mention of 'Suspension' alongside a replacement results announcement is a severe red flag in UK equity markets, typically indicating imminent regulatory scrutiny, potential fraud exposure, or critical liquidity failure rather than standard reporting delays.",
+      "insight": "The headline explicitly indicates a suspension of shares, which is a high-impact event that halts trading and creates significant uncertainty for shareholders regarding liquidity and future valuation.",
       "key_themes": [
         "Suspension",
-        "Regulatory Risk",
-        "Corporate Governance"
+        "Results"
       ]
     },
     {
@@ -67,11 +66,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/silver-bullet-data-services-group--sbds/accounting-reference-date-accounts-suspension/9642790",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Administrative updates regarding accounting reference dates are standard compliance filings with negligible immediate market impact; however, the inclusion of 'Suspension' in the headline warrants caution as it may indicate a temporary halt in trading pending further disclosure or regulatory review.",
+      "impact_score": 9,
+      "insight": "The headline explicitly states that shares are being suspended, which is a severe event for shareholders as it halts trading and creates significant uncertainty regarding the company's status. This type of announcement typically signals a critical regulatory or financial issue requiring immediate attention.",
       "key_themes": [
-        "Corporate Governance",
-        "Regulatory Compliance"
+        "Suspension",
+        "Governance",
+        "Accounts"
       ]
     },
     {
@@ -81,11 +81,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/silver-bullet-data-services-group--sbds/result-of-general-meeting/9637303",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine AGM results typically confirm shareholder ratification of standard governance matters without altering the fundamental investment thesis or capital structure.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which is a standard governance event for shareholders. It typically involves voting on routine matters such as director appointments or administrative approvals rather than significant strategic changes.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder Vote"
       ]
     },
     {

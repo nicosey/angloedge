@@ -2,9 +2,20 @@
   "name": "Macfarlane Group",
   "ticker": "MACF",
   "slug": "macfarlane-group-macf",
-  "announcement_count": 5,
-  "latest_announcement": "2026-11-04T12:02:00",
+  "announcement_count": 6,
+  "latest_announcement": "2026-11-24T12:25:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T12:25:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/mfn/macfarlane-group--macf/holding-s-in-company/9891531",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-04T12:02:00",
       "category": null,
@@ -59,12 +70,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/macfarlane-group--macf/defined-benefit-pension-scheme-buy-in/9643041",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "A pension scheme buy-in is a financial engineering step that transfers investment risk to an insurer but leaves liability risk with the company; it signals no immediate cash outflow or strategic shift for Macfarlane Group, which operates in the industrial distribution sector where such administrative updates are common and value-neutral.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a significant step in managing pension liabilities, which typically reduces long-term financial risk and volatility for shareholders. It signifies a governance action regarding employee benefits without implying immediate changes to operational strategy or capital structure.",
       "key_themes": [
-        "pension",
-        "risk management",
-        "corporate governance"
+        "Governance",
+        "Pension",
+        "Liability Management"
       ]
     }
   ]

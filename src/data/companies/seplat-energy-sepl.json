@@ -55,11 +55,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/corporate-announcement/9846910",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "The 'Other' category with a generic headline typically indicates routine corporate governance filings such as director changes or minor share capital updates, which lack the materiality to drive immediate price action in Seplat's volatile upstream sector.",
+      "impact_score": 1,
+      "insight": "The headline 'Corporate Announcement' is generic and provides no specific details regarding the nature of the disclosure. Without further information, this type of announcement typically signifies administrative housekeeping or routine updates with minimal immediate impact on shareholders.",
       "key_themes": [
         "Corporate Governance",
-        "Routine Filing"
+        "Administrative"
       ]
     },
     {
@@ -69,12 +69,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/unaudited-q3-results-ended-30th-september-2026/9846891",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a pure-play upstream E&P in Nigeria's volatile regulatory environment, Q3 results provide critical visibility on production resilience and cash flow generation amidst global oil price fluctuations.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled release of quarterly financial results for shareholders to assess recent operational performance. The headline does not indicate whether the results represent an improvement or decline relative to expectations.",
       "key_themes": [
-        "upstream_production",
-        "nigeria_risk",
-        "cash_flow"
+        "Results"
       ]
     },
     {
@@ -106,11 +104,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/notification-of-transactions-ltip-/9737369",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory disclosure of executive share transactions under the Long Term Incentive Plan, reflecting routine compensation mechanics rather than strategic shifts or insider sentiment signals.",
+      "impact_score": 3,
+      "insight": "This notification indicates that individuals subject to long-term incentive plan rules have engaged in share transactions, which is a standard governance disclosure. It provides transparency regarding insider activity but does not inherently signal a change in the company's strategic direction or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Executive Compensation"
+        "Governance",
+        "Insider Dealing",
+        "LTIP"
       ]
     },
     {
@@ -135,11 +134,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/corporate-announcement/9694950",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "The 'Other' category with a generic headline typically denotes routine administrative filings such as share capital changes or minor regulatory updates, lacking the materiality to drive immediate price action in Seplat's volatile upstream sector.",
+      "impact_score": 1,
+      "insight": "The headline 'Corporate Announcement' is generic and provides no specific details regarding the nature of the disclosure. Without further information, this type of announcement typically signifies administrative housekeeping or routine updates with minimal immediate impact on shareholder value.",
       "key_themes": [
-        "administrative",
-        "low-impact"
+        "Corporate Governance",
+        "Administrative"
       ]
     },
     {
@@ -149,11 +148,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/board-announcement/9694919",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Without the specific text of the announcement, this is classified as administrative; typically, 'Board Announcements' in this category involve routine governance updates or minor director dealings that lack immediate fundamental impact on Seplat's upstream production or downstream refining margins.",
+      "impact_score": 5,
+      "insight": "A board announcement typically signifies a governance-related event such as a change in senior management or board composition. Without further detail, it generally indicates a structural update rather than an immediate financial impact.",
       "key_themes": [
-        "governance",
-        "routine"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -163,12 +162,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/seplat-energy-di---sepl/unaudited-results-for-six-months-ended-30-06-2026/9694859",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a key proxy for Nigerian upstream exposure, Seplat's interim results are critical for assessing resilience against Naira devaluation and production volatility in the face of global energy price fluctuations.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled half-yearly results release for the company. The headline does not specify whether the financial performance was positive or negative, so it represents a standard periodic update rather than a material event.",
       "key_themes": [
-        "upstream_production",
-        "FX_risk",
-        "Nigeria_equities"
+        "Results"
       ]
     },
     {

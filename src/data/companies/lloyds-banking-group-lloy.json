@@ -2,9 +2,20 @@
   "name": "Lloyds Banking Group",
   "ticker": "LLOY",
   "slug": "lloyds-banking-group-lloy",
-  "announcement_count": 117,
-  "latest_announcement": "2026-11-20T18:06:00",
+  "announcement_count": 118,
+  "latest_announcement": "2026-11-24T15:39:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T15:39:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/lloyds-banking-group--lloy/holding-s-in-company/9891889",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T18:06:00",
       "category": null,
@@ -189,11 +200,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/lloyds-banking-group--lloy/eqs-news-2026-q3-interim-management-statemen-/9847166",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a major UK lender, Lloyds' Q3 interim statement provides critical real-time data on net interest margin resilience and credit quality amidst the current high-rate environment, directly influencing investor sentiment on dividend sustainability and capital return capacity.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled interim management statement, which provides shareholders with an update on the company's operational progress and financial position for the specified period. The headline does not indicate any specific direction or magnitude of performance, so it represents routine disclosure rather than a material event.",
       "key_themes": [
-        "Interim Results",
-        "UK Banking Sector"
+        "Results",
+        "Interim Statement"
       ]
     },
     {
@@ -203,11 +214,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/lloyds-banking-group--lloy/2026-q3-interim-management-statement/9846888",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a major UK lender, Lloyds' Q3 interim update provides critical visibility on net interest margin resilience and credit cost normalization amidst the current high-rate environment, directly influencing dividend sustainability expectations for income-focused institutional investors.",
+      "impact_score": 5,
+      "insight": "This announcement provides a scheduled interim update on the company's operational performance for the specified period. It offers shareholders visibility into recent business activity without indicating the direction of financial results.",
       "key_themes": [
-        "Interim Results",
-        "UK Banking Sector"
+        "Results",
+        "Interim Update"
       ]
     },
     {
@@ -228,11 +239,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/lloyds-banking-group--lloy/board-change/9836547",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine board changes are standard governance maintenance for Lloyds and do not signal strategic shifts or value creation; the market typically prices these in immediately with no material impact on valuation multiples.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the composition of the board of directors. Such changes are routine governance updates that generally have limited immediate financial impact unless they involve the departure or appointment of key executive leadership.",
       "key_themes": [
-        "Corporate Governance",
-        "Leadership Stability"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -242,11 +253,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/lloyds-banking-group--lloy/board-change/9836457",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine board changes at Lloyds are standard governance maintenance with negligible immediate financial impact, especially given the bank's stable capital position and ongoing dividend policy.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the board composition, which is a standard governance event. While it may indicate strategic shifts or succession planning, the headline does not provide sufficient detail to assess the specific impact on shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "Leadership Continuity"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -256,11 +267,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/lloyds-banking-group--lloy/notification-of-redemption/9836311",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative notification regarding the redemption of non-cancellable perpetual capital instruments (likely AT1s), reflecting routine liability management rather than strategic shifts in core banking operations.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a redemption event, which typically involves the repayment of capital to investors. It generally represents a routine capital management action rather than a strategic shift or financial distress.",
       "key_themes": [
-        "Capital Management",
-        "Administrative"
+        "Capital return",
+        "Redemption"
       ]
     },
     {
@@ -339,12 +350,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/lloyds-banking-group--lloy/completion-of-1-75bn-share-buyback-programme/9791070",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The completion of this £1.75bn buyback signals strong capital generation and management's confidence in Lloyds' balance sheet strength following the earlier tranche, reinforcing its status as a key dividend payer in the UK banking sector amidst rising interest rates.",
+      "impact_score": 4,
+      "insight": "This announcement signifies the conclusion of a capital return initiative to shareholders. It indicates that funds have been utilized to repurchase shares, which may support the share price by reducing the number of outstanding shares.",
       "key_themes": [
-        "capital return",
-        "shareholder yield",
-        "banking sector"
+        "Capital return",
+        "Share buyback"
       ]
     },
     {
@@ -355,10 +365,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard administrative filings with negligible immediate impact on LLOY's valuation or liquidity, reflecting individual portfolio management rather than institutional sentiment shifts.",
+      "insight": "This announcement relates to director dealings, which typically have a low direct impact on shareholder value unless they signal significant changes in insider sentiment. Such disclosures are routine regulatory requirements rather than indicators of major corporate events.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -369,10 +379,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in major UK banks are typically low-impact administrative events rather than signals of strategic shift, especially given the current regulatory focus on executive pay and retention within the Lloyds/HBOS group.",
+      "insight": "This announcement relates to director dealings, which typically have a low immediate impact on shareholder value unless they signal significant insider sentiment shifts. It serves as a routine disclosure of individual executive transactions rather than a strategic corporate event.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -491,10 +501,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on LLOY's valuation or liquidity. While insider activity can signal confidence, these filings lack the materiality to drive short-term price action in the current banking sector context.",
+      "insight": "This announcement indicates that a person discharging managerial responsibilities has engaged in share transactions, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in the company's strategic direction or financial performance.",
       "key_themes": [
-        "regulatory compliance",
-        "insider activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -504,11 +514,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/lloyds-banking-group--lloy/board-change/9743337",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine board changes are standard governance maintenance for Lloyds and do not signal strategic shifts or value creation; the market typically ignores such administrative updates unless they involve the CEO or CFO.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled board change, which is a standard governance event. It generally indicates routine corporate administration rather than an immediate strategic shift or material financial impact for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -519,10 +529,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard administrative update regarding the listing status of existing covered bond issuances rather than a new capital raise or strategic pivot; it confirms regulatory compliance but offers no incremental value to equity holders.",
+      "insight": "This announcement signifies a standard regulatory step to list debt instruments for trading, which is routine administrative housekeeping for established financial institutions. It does not indicate a change in equity value or strategic direction for shareholders.",
       "key_themes": [
-        "covered bonds",
-        "administrative"
+        "Debt issuance",
+        "Administrative"
       ]
     },
     {
@@ -637,12 +647,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/lloyds-banking-group--lloy/commencement-of-h2-share-buyback-programme/9697386",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This marks the start of Lloyds' second-half capital return programme, reflecting strong CET1 ratios and regulatory approval for shareholder returns in a sector where banks are prioritizing dividends and buybacks over aggressive lending expansion.",
+      "impact_score": 4,
+      "insight": "This announcement signifies a commitment to returning capital to shareholders through share repurchases, which can support the stock price and earnings per share. It reflects management's confidence in the company's financial position without indicating specific transaction details.",
       "key_themes": [
-        "capital allocation",
-        "shareholder returns",
-        "UK banking sector"
+        "Capital return",
+        "Shareholder value"
       ]
     },
     {
@@ -663,11 +672,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/lloyds-banking-group--lloy/notice-of-push-down-election/9696812",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard tax efficiency measure for UK banks to simplify the holding structure of their insurance subsidiary (Lloyds Bank Insurance Services), having no impact on operational strategy or financial performance.",
+      "impact_score": 3,
+      "insight": "A push down election is a technical accounting procedure that consolidates subsidiary financials into the parent entity without altering the underlying business operations or shareholder value. This type of announcement generally signifies routine administrative housekeeping rather than a strategic shift.",
       "key_themes": [
-        "Corporate Governance",
-        "Tax Optimization"
+        "Accounting",
+        "Governance"
       ]
     },
     {
@@ -677,12 +686,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/lloyds-banking-group--lloy/2026-half-year-results/9696397",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As the UK's largest retail lender, LLOY's half-year results serve as a critical barometer for consumer credit health and net interest margin resilience amid persistent inflation pressures. The market will scrutinize impairment charges against loan books to gauge exposure to cost-of-living stress, setting the tone for the broader banking sector's profitability outlook.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled half-year results release, which provides shareholders with an update on the company's financial performance and operational progress for the period. The specific direction or magnitude of the results is not indicated in the headline.",
       "key_themes": [
-        "Retail Banking",
-        "Credit Quality",
-        "NIM Pressure"
+        "Results"
       ]
     },
     {
@@ -692,11 +699,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/lloyds-banking-group--lloy/2026-half-year-results/9696396",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a major UK bank, Lloyds' half-year results are critical for gauging consumer credit health and net interest margin resilience amid persistent inflation pressures, though they remain within the realm of routine regulatory disclosure rather than transformative corporate action.",
+      "impact_score": 5,
+      "insight": "This scheduled half-year results announcement provides shareholders with an update on the company's financial performance for the first six months of the year. The headline does not indicate any specific direction or magnitude of results.",
       "key_themes": [
-        "interim results",
-        "banking sector performance"
+        "Results"
       ]
     },
     {
@@ -706,12 +712,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/lloyds-banking-group--lloy/2026-half-year-results/9696395",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a major UK retail lender, Lloyds' half-year results provide critical visibility on net interest margin resilience and credit quality amid persistent inflation pressures; any deviation in expected loan loss provisions will significantly influence sector-wide sentiment regarding the cost of living crisis impact on consumer balance sheets.",
+      "impact_score": 5,
+      "insight": "This scheduled half-year results announcement provides shareholders with a periodic update on financial performance, though the headline does not indicate the direction or magnitude of the results.",
       "key_themes": [
-        "Retail Banking",
-        "Interest Rate Sensitivity",
-        "Credit Quality"
+        "Results"
       ]
     },
     {
@@ -721,12 +725,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/lloyds-banking-group--lloy/2026-half-year-results/9696393",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a major UK retail lender, Lloyds' half-year results will be scrutinized for net interest margin resilience amid potential rate cuts and credit cost normalization, serving as a key barometer for the broader banking sector's profitability trajectory.",
+      "impact_score": 5,
+      "insight": "This scheduled half-year results announcement provides shareholders with a periodic update on the company's financial performance and operational progress for the first six months of the year. The specific direction or magnitude of the results is not indicated in the headline.",
       "key_themes": [
-        "interim results",
-        "banking sector",
-        "interest rates"
+        "Results"
       ]
     },
     {
@@ -736,12 +738,10 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/lloyds-banking-group--lloy/eqs-news-2026-half-year-results/9695498",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a major UK lender, Lloyds' half-year results are critical for gauging consumer credit health and net interest margin resilience amid persistent inflation pressures; any deviation in impairment charges or dividend guidance will significantly influence the broader financial sector's valuation.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled half-year results release, which provides shareholders with an update on the company's financial performance and operational progress for the period. The headline does not indicate any specific direction or magnitude of results.",
       "key_themes": [
-        "Interim Results",
-        "Banking Sector",
-        "Net Interest Margin"
+        "Results"
       ]
     },
     {
@@ -1008,10 +1008,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in major UK banks are typically low-impact administrative events rather than signals of strategic shift, especially given the current regulatory focus on remuneration and share-based compensation structures.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that confirm compliance with insider dealing rules rather than signaling specific strategic changes.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -1032,11 +1032,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/lloyds-banking-group--lloy/notification-of-redemption/9636880",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative notification regarding the redemption of existing preference shares, a routine capital management action for Lloyds that does not signal strategic shifts or material financial distress.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a redemption event, which typically involves the repurchase of securities and may result in a return of capital or dilution adjustment for existing shareholders.",
       "key_themes": [
-        "Capital Management",
-        "Administrative"
+        "Capital management",
+        "Redemption"
       ]
     },
     {

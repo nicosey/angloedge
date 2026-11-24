@@ -2,9 +2,42 @@
   "name": "HSBC Holdings",
   "ticker": "HSBA",
   "slug": "hsbc-holdings-hsba",
-  "announcement_count": 127,
-  "latest_announcement": "2026-11-20T18:01:00",
+  "announcement_count": 130,
+  "latest_announcement": "2026-11-24T10:03:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T10:03:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/holding-s-in-company/9891120",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-24T09:04:00",
+      "category": null,
+      "headline": "TR1 Notification of major interest in shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/tr1-notification-of-major-interest-in-shares/9890960",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-23T18:08:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/transaction-in-own-shares/9889750",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T18:01:00",
       "category": null,
@@ -468,10 +501,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings are standard administrative disclosures with negligible fundamental impact on HSBC's valuation or strategic trajectory, reflecting normal liquidity management rather than significant insider sentiment shifts.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. Such filings provide transparency regarding insider transactions but typically do not signal significant strategic changes or material financial events for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -503,11 +536,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/publication-of-base-prospectus-supplement/9846335",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing required to update the base prospectus for ongoing debt issuance programs; it carries no intrinsic trading signal or strategic shift for HSBC's equity value.",
+      "impact_score": 4,
+      "insight": "This announcement indicates the publication of a base prospectus supplement, which is a procedural step in the preparation for a potential capital raise or debt issuance. It signals that the company may be preparing to access financial markets, though no specific terms or amounts are disclosed.",
       "key_themes": [
-        "regulatory_compliance",
-        "debt_issuance"
+        "Capital markets",
+        "Prospectus",
+        "Financing"
       ]
     },
     {
@@ -517,11 +551,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/hsbc-holdings-plc-share-buy-back/9846062",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This routine share buyback signals management's confidence in HSBC's capital position and commitment to returning cash to shareholders, aligning with broader UK banking sector trends of prioritizing shareholder returns amid stable regulatory environments.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a share buy-back, which generally signifies that the company is returning capital to shareholders by repurchasing its own stock. This action can support the share price and increase earnings per share, though it does not imply a change in business strategy or performance.",
       "key_themes": [
-        "capital allocation",
-        "shareholder return"
+        "Share buyback",
+        "Capital return"
       ]
     },
     {
@@ -542,11 +576,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/hsbc-holdings-plc-3q26-earnings-zoom-meeting/9842390",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a major global bank, HSBC's Q3 results are critical for gauging net interest margin resilience and credit quality in a high-rate environment; however, the 'Zoom Meeting' format suggests an earnings call rather than a formal RNS filing, indicating routine quarterly reporting rather than a transformative event.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a scheduled results presentation for the third quarter of 2026. It signifies that financial performance data will be disclosed to shareholders, though the headline does not reveal the direction or magnitude of the results.",
       "key_themes": [
-        "Quarterly Results",
-        "Banking Sector"
+        "Results",
+        "Earnings"
       ]
     },
     {
@@ -639,12 +673,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/transaction-in-own-shares-conclusion-of-buy-back/9794786",
       "routine_type": "Transaction in Own Shares",
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The conclusion of the HSBA buyback tranche signals disciplined capital management in a high-interest-rate environment, reinforcing shareholder returns while maintaining regulatory capital buffers essential for UK banking stability.",
+      "impact_score": 3,
+      "insight": "This announcement signifies the completion of a share buyback program, which is a standard capital management action. It generally indicates that the company has finished repurchasing shares under a previously authorized mandate.",
       "key_themes": [
-        "capital allocation",
-        "shareholder return",
-        "banking sector"
+        "Share Buyback",
+        "Capital Return"
       ]
     },
     {
@@ -655,10 +688,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on HSBC's valuation or strategic trajectory, reflecting individual portfolio management rather than institutional sentiment shifts.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has transacted in the company's shares. Such filings are routine regulatory disclosures that confirm compliance with insider dealing rules rather than signaling specific strategic changes.",
       "key_themes": [
-        "regulatory compliance",
-        "minor administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -679,11 +712,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/changes-to-board-and-committee-composition/9791495",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine governance adjustments typical for a mature banking institution; without details on the specific roles or individuals involved, this lacks the catalyst potential to drive immediate valuation re-rating compared to strategic capital allocation moves.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a routine change in board composition, which typically has limited immediate financial impact but may signal shifts in governance oversight. Shareholders should monitor subsequent filings for details on specific appointments or departures.",
       "key_themes": [
-        "Corporate Governance",
-        "Board Composition"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -693,11 +726,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/overseas-regulatory-announcement-grant-of-options/9789235",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative disclosure regarding executive compensation grants with no immediate financial or strategic implication for HSBA's valuation or operations.",
+      "impact_score": 3,
+      "insight": "This announcement typically signifies the grant of share options to individuals, often directors or senior employees, which is a standard governance and remuneration matter. It generally has a neutral to low direct financial impact on shareholders unless it indicates significant changes in executive compensation structures.",
       "key_themes": [
-        "Corporate Governance",
-        "Executive Remuneration"
+        "Governance",
+        "Remuneration"
       ]
     },
     {
@@ -729,12 +762,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/senior-notes-issuance-and-admission-to-trading/9785344",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This issuance reflects standard liability management to optimize funding costs and extend maturity profiles in a higher-for-longer rate environment, rather than signaling distress or aggressive expansion. While routine for global systemically important banks, it underscores HSBC's continued reliance on wholesale markets to support its balance sheet amid tightening liquidity conditions.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a capital raising activity through the issuance of senior notes, which typically affects the company's debt profile and cost of funding. Shareholders should note that this is a financing event rather than an operational or strategic shift.",
       "key_themes": [
-        "Capital Management",
-        "Funding Strategy",
-        "Banking Sector"
+        "Capital raise",
+        "Debt issuance"
       ]
     },
     {
@@ -955,11 +987,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/issuance-of-senior-notes-and-admission-to-trading/9745862",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine debt issuance typical for global systemically important banks to manage liquidity coverage ratios and funding costs; lacks the transformative M&A or earnings surprise required to move HSBA's valuation multiple significantly.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a capital raising activity through debt issuance, which typically impacts shareholder value by altering the company's leverage profile and cost of capital. The admission to trading indicates the new securities will be available for market exchange, affecting liquidity dynamics.",
       "key_themes": [
-        "Capital Management",
-        "Debt Issuance"
+        "Capital raise",
+        "Debt issuance",
+        "Admission to trading"
       ]
     },
     {
@@ -981,10 +1014,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory disclosure of individual director transactions which carries negligible signal for HSBC's broader equity valuation compared to aggregate insider net buying/selling trends.",
+      "insight": "This announcement signifies standard regulatory compliance regarding insider trading disclosures by persons discharging managerial responsibilities. It provides transparency into individual executive transactions but does not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -1005,12 +1038,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/publication-of-drawdown-prospectus/9737422",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory filing required for the issuance of Additional Tier 1 (AT1) bonds, reflecting routine capital management rather than distress or transformative strategy. While AT1 issuance is common among UK banks to meet Basel III requirements, it signals no immediate change in HSBC's operational outlook or equity value.",
+      "impact_score": 7,
+      "insight": "This announcement indicates a potential capital raise or funding activity, which may dilute existing shareholdings or alter the company's financial structure. Shareholders should anticipate changes to equity stakes or leverage ratios pending further details.",
       "key_themes": [
-        "Capital Management",
-        "Regulatory Compliance",
-        "AT1 Bonds"
+        "Capital raise",
+        "Funding",
+        "Corporate action"
       ]
     },
     {
@@ -1288,11 +1321,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/changes-in-composition-of-the-board-committees/9695798",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine governance update reflecting standard board refreshment practices common across major UK banks; lacks immediate catalyst for valuation re-rating or significant strategic shift.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a routine adjustment to the internal governance structure of the board committees. It indicates administrative housekeeping regarding committee membership rather than a strategic shift or material operational change.",
       "key_themes": [
-        "Corporate Governance",
-        "Board Composition"
+        "Governance",
+        "Board Changes"
       ]
     },
     {
@@ -1302,12 +1335,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/hsbc-to-sell-sgp-h-l-insurance-business-to-allianz/9685256",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This divestment aligns with HSBC's ongoing strategy to streamline its global footprint and focus on core wealth management markets, following similar exits in other non-core regions. While it removes a smaller, potentially lower-margin asset from the balance sheet, the financial impact is likely marginal given the scale of HSBC's overall operations.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a material disposal of a business unit, which typically allows the company to refocus its strategic priorities and potentially return capital or reduce debt. Shareholders should consider how this divestment impacts the overall portfolio composition and future earnings profile.",
       "key_themes": [
-        "Strategic Divestment",
-        "Wealth Management",
-        "Portfolio Optimization"
+        "Divestment",
+        "Strategic Review"
       ]
     },
     {
@@ -1317,11 +1349,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/overseas-regulatory-announcement-board-meeting/9684124",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming a board meeting has occurred, which is routine for global banks like HSBC and carries no immediate market-moving information regarding strategy or financials.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that the board of directors is convening a meeting, which is a standard governance procedure. It does not disclose any specific decisions, outcomes, or material changes to shareholders at this stage.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Board Meeting"
       ]
     },
     {
@@ -1390,10 +1422,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine disclosure of individual director transactions carries negligible market impact for a systemically important bank like HSBC, as these are standard regulatory filings rather than signals of strategic shifts or insider sentiment.",
+      "insight": "This announcement indicates that individuals with senior management responsibilities have executed transactions in the company's shares, which is a routine regulatory disclosure. It provides transparency into insider trading activity but does not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Regulatory Compliance",
-        "Low Volatility"
+        "Governance",
+        "Director dealings"
       ]
     },
     {

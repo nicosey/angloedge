@@ -2,9 +2,48 @@
   "name": "Jpmorgan Uk Small Cap Growth & Income",
   "ticker": "JUGI",
   "slug": "jpmorgan-uk-small-cap-growth-income-jugi",
-  "announcement_count": 84,
-  "latest_announcement": "2026-11-23T11:34:00",
+  "announcement_count": 87,
+  "latest_announcement": "2026-11-23T17:56:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T17:56:00",
+      "category": null,
+      "headline": "Result of Meeting",
+      "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-uk-small-cap-growth-income--jugi/result-of-meeting/9889745",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement typically signifies that a meeting has concluded, which may involve routine governance matters or minor updates. Without further details in the headline, it represents low immediate financial significance for shareholders.",
+      "key_themes": [
+        "Governance",
+        "Meeting results"
+      ]
+    },
+    {
+      "timestamp": "2026-11-23T17:51:00",
+      "category": "AGM/EGM",
+      "headline": "Result of AGM",
+      "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-uk-small-cap-growth-income--jugi/result-of-agm/9889744",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or auditor appointments. It signifies standard governance compliance rather than any material change to the fund's strategy or value.",
+      "key_themes": [
+        "Governance",
+        "AGM Results"
+      ]
+    },
+    {
+      "timestamp": "2026-11-23T17:24:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-uk-small-cap-growth-income--jugi/transaction-in-own-shares/9889725",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T11:34:00",
       "category": null,
@@ -133,11 +172,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-uk-small-cap-growth-income--jugi/publication-of-circular/9846930",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing for an investment trust, likely detailing the agenda for an upcoming Annual General Meeting or proxy voting instructions rather than a material corporate event.",
+      "impact_score": 3,
+      "insight": "A circular publication typically signifies a formal communication to shareholders regarding routine matters such as meeting notices, dividend details, or administrative updates. Without specific details in the headline, this is generally considered low-impact housekeeping.",
       "key_themes": [
-        "Corporate Governance",
-        "Investment Trust"
+        "Governance",
+        "Shareholder Communication"
       ]
     },
     {

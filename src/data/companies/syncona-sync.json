@@ -2,9 +2,20 @@
   "name": "Syncona Limited NPV",
   "ticker": "SYNC",
   "slug": "syncona-sync",
-  "announcement_count": 19,
-  "latest_announcement": "2026-11-06T07:00:00",
+  "announcement_count": 20,
+  "latest_announcement": "2026-11-24T10:30:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T10:30:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/syncona-limited-npv--sync/holding-s-in-company/9891198",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-06T07:00:00",
       "category": null,
@@ -52,11 +63,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/syncona-limited-npv--sync/siml-announces-changes-to-leadership-team-/9795289",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Leadership changes at Syncona's portfolio company SIML are likely routine operational adjustments rather than a signal of distress, given Syncona's diversified biotech holdings and history of stable governance; however, it warrants monitoring for any strategic shift in SIML's drug development pipeline.",
+      "impact_score": 6,
+      "insight": "This announcement indicates a change in the leadership team, which typically signifies a board-level adjustment that may influence future strategic direction and governance.",
       "key_themes": [
-        "Portfolio Management",
-        "Corporate Governance"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -209,10 +220,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Syncona's valuation or strategy, reflecting standard portfolio management rather than significant insider sentiment shifts.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine changes in shareholding by individuals with senior management responsibilities. Such disclosures are standard regulatory requirements and generally have limited immediate impact on shareholder value unless they signal a significant shift in insider sentiment.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {

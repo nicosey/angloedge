@@ -2,9 +2,20 @@
   "name": "Mode Global Holdings",
   "ticker": "MODE",
   "slug": "mode-global-holdings-mode",
-  "announcement_count": 27,
-  "latest_announcement": "2026-11-18T15:06:00",
+  "announcement_count": 28,
+  "latest_announcement": "2026-11-24T10:45:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T10:45:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/mode-global-holdings--mode/holding-s-in-company/9891218",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-18T15:06:00",
       "category": null,
@@ -78,12 +89,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/mode-global-holdings--mode/unaudited-interim-results-to-30-june-2026/9799117",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a micro-cap tech firm with historically volatile earnings, this interim update is critical for assessing the viability of its pivot to AI-driven recruitment solutions amid tightening liquidity conditions.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled interim financial reporting period for shareholders. The headline does not indicate the direction of performance or any specific corporate actions.",
       "key_themes": [
-        "interim results",
-        "micro-cap volatility",
-        "AI sector pivot"
+        "Results"
       ]
     },
     {
@@ -228,11 +237,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/mode-global-holdings--mode/admission-to-trading-of-sub-divided-shares-update/9736848",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative update regarding the mechanics of a share sub-division, likely intended to improve liquidity or meet minimum price requirements rather than signal fundamental value change. Such actions are routine for micro-cap tech firms and carry no intrinsic strategic weight beyond structural adjustment.",
+      "impact_score": 3,
+      "insight": "This update likely concerns a minor structural change to the share capital, such as a split or consolidation, which typically has no immediate impact on the total value of a shareholder's holding.",
       "key_themes": [
-        "Corporate Action",
-        "Liquidity Management"
+        "Capital structure",
+        "Administrative"
       ]
     },
     {
@@ -325,12 +334,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/mode-global-holdings--mode/annual-financial-report-to-31-december-2025-/9644613",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a small-cap tech firm, Mode Global's annual results are critical for validating its pivot to profitability and assessing the sustainability of its SaaS revenue growth amid rising interest rates. The market will scrutinize cash burn reduction and customer acquisition costs to determine if the company can achieve scale without dilutive capital raises.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled annual results for the company. The specific financial performance or strategic implications for shareholders cannot be determined from the headline alone.",
       "key_themes": [
-        "annual_results",
-        "profitability_pathway",
-        "small_cap_tech"
+        "Results"
       ]
     }
   ]

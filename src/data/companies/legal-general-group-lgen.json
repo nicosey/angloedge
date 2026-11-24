@@ -2,9 +2,20 @@
   "name": "Legal & General Group",
   "ticker": "LGEN",
   "slug": "legal-general-group-lgen",
-  "announcement_count": 61,
-  "latest_announcement": "2026-11-18T09:00:00",
+  "announcement_count": 62,
+  "latest_announcement": "2026-11-23T18:15:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T18:15:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/legal-general-group--lgen/transaction-in-own-shares/9889756",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-18T09:00:00",
       "category": "Appointment",
@@ -218,10 +229,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on LGEN's valuation or strategic direction, reflecting normal insider activity rather than a signal of corporate transformation.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine compliance reporting of share transactions by key individuals. Such disclosures generally have minimal immediate impact on shareholder value unless they signal a significant change in insider sentiment.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -232,10 +243,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard administrative filings with negligible immediate market impact for a large-cap insurer like LGEN, reflecting normal liquidity management rather than strategic shifts.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that confirm compliance with insider dealing rules rather than signaling specific strategic changes.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -416,11 +427,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/legal-general-group--lgen/directorate-change/9695773",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine administrative updates to the board composition are standard for LGEN's governance cycle and carry no immediate financial or strategic weight compared to core asset management performance.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the board composition, which is a standard governance event that may influence strategic oversight but typically carries limited immediate financial impact compared to major corporate actions.",
       "key_themes": [
-        "Corporate Governance",
-        "Board Composition"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -579,12 +590,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/legal-general-group--lgen/tender-offer/9644115",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This tender offer likely represents a targeted capital return mechanism to manage the share register efficiently without the broad market impact of an open-market buyback, signalling management's confidence in intrinsic value while optimizing capital allocation amidst rising interest rates.",
+      "impact_score": 8,
+      "insight": "A tender offer headline typically signifies a formal sale process or a potential acquisition bid, which represents a significant strategic event for shareholders. This type of announcement often leads to substantial changes in ownership structure or corporate control.",
       "key_themes": [
-        "capital return",
-        "shareholder yield",
-        "buyback"
+        "M&A",
+        "Corporate action"
       ]
     },
     {
@@ -606,10 +616,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on LGEN's valuation or strategic direction, reflecting typical insider activity rather than a signal of fundamental change.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a standard governance disclosure. It provides limited insight into future performance but confirms insider trading activity.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {

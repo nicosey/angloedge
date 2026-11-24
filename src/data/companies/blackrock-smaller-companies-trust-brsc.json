@@ -2,9 +2,20 @@
   "name": "BlackRock Smaller Companies Trust",
   "ticker": "BRSC",
   "slug": "blackrock-smaller-companies-trust-brsc",
-  "announcement_count": 124,
-  "latest_announcement": "2026-11-23T15:07:00",
+  "announcement_count": 125,
+  "latest_announcement": "2026-11-23T17:23:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T17:23:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/prn/blackrock-smaller-companies-trust--brsc/transaction-in-own-shares/9889724",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T15:07:00",
       "category": null,
@@ -12,11 +23,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-smaller-companies-trust--brsc/portfolio-update/9889536",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine portfolio updates for investment trusts typically have negligible immediate price impact as they reflect past decisions rather than new catalysts; however, shifts in sector weighting may signal subtle changes in the manager's risk appetite or outlook on smaller-cap liquidity.",
+      "impact_score": 5,
+      "insight": "A portfolio update typically provides shareholders with information on the fund's current holdings and performance relative to its benchmark, aiding in investment monitoring. It does not indicate a change in strategy or significant financial event but serves as a routine disclosure of management activity.",
       "key_themes": [
-        "portfolio_rebalancing",
-        "investment_trust"
+        "Portfolio Update",
+        "Performance Reporting"
       ]
     },
     {
@@ -252,12 +263,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-smaller-companies-trust--brsc/half-year-financial-report/9837035",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a standard half-year financial report for an investment trust, this is routine disclosure rather than a transformative event; however, it provides critical data on net asset value performance and discount movements which are key drivers for BRSC's share price relative to its peer group in the smaller-cap equity sector.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled half-year financial results, which provide shareholders with an update on the company's performance and financial position for the period.",
       "key_themes": [
-        "interim results",
-        "investment trust",
-        "NAV performance"
+        "Results",
+        "Financial Reporting"
       ]
     },
     {
@@ -512,11 +522,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-smaller-companies-trust--brsc/portfolio-update/9789911",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine portfolio updates for investment trusts typically have negligible immediate price impact as they reflect past decisions rather than new catalysts; however, shifts in sector weightings may signal subtle strategic pivots worth monitoring against broader small-cap liquidity trends.",
+      "impact_score": 5,
+      "insight": "This announcement provides a scheduled update on the portfolio composition, which is routine for investment trusts but offers insight into current asset allocation without indicating specific performance outcomes.",
       "key_themes": [
-        "Portfolio Composition",
-        "Investment Strategy"
+        "Portfolio Update",
+        "Investment Trust"
       ]
     },
     {
@@ -678,11 +688,12 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-smaller-companies-trust--brsc/correction-portfolio-update/9741410",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a procedural correction to a previous portfolio update rather than a substantive financial disclosure, indicating no change in investment thesis or NAV impact.",
+      "impact_score": 3,
+      "insight": "This correction indicates a minor administrative adjustment to a previously issued portfolio update, suggesting no change in fundamental business operations or strategic direction. Shareholders should refer to the corrected document for accurate details regarding the fund's holdings.",
       "key_themes": [
         "Administrative",
-        "Correction"
+        "Correction",
+        "Portfolio Update"
       ]
     },
     {
@@ -692,11 +703,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-smaller-companies-trust--brsc/portfolio-update/9739685",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Portfolio updates are standard informational disclosures for investment trusts that rarely trigger immediate price action unless they signal a drastic strategic pivot, which is uncommon for established managers like BlackRock.",
+      "impact_score": 5,
+      "insight": "A portfolio update typically provides shareholders with information on the fund's current holdings and performance relative to its benchmark, aiding in investment monitoring. It does not indicate a change in strategy or significant financial event.",
       "key_themes": [
-        "Investment Trust",
-        "Routine Disclosure"
+        "Portfolio Update",
+        "Performance"
       ]
     },
     {
@@ -1053,8 +1064,8 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-smaller-companies-trust--brsc/portfolio-update/9636895",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine portfolio updates for investment trusts are standard disclosure events that rarely trigger immediate price action unless they signal a drastic shift in strategy or significant premium/discount volatility.",
+      "impact_score": 5,
+      "insight": "This announcement provides a scheduled update on the portfolio composition, which is routine for investment trusts but offers insight into current asset allocation without specifying performance or changes.",
       "key_themes": [
         "Portfolio Update",
         "Investment Trust"
@@ -1078,12 +1089,12 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-smaller-companies-trust--brsc/completion-of-tender-offer/9632935",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Completion of the tender offer confirms the execution of a capital return mechanism, likely supporting NAV per share stability in a volatile small-cap environment; this aligns with recent industry trends where investment trusts utilize tenders to manage discount widening and provide liquidity without permanent dilution.",
+      "impact_score": 8,
+      "insight": "The completion of a tender offer typically signifies that a significant portion of shares have been acquired, often leading to delisting or a change in control for investment trusts. This event generally results in the return of capital to participating shareholders and may alter the future structure of the entity.",
       "key_themes": [
-        "capital return",
-        "NAV support",
-        "investment trust mechanics"
+        "Capital return",
+        "Delisting",
+        "Corporate action"
       ]
     },
     {
@@ -1093,11 +1104,12 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-smaller-companies-trust--brsc/correction-tender-price/9632777",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Administrative correction of a tender offer price is standard operational housekeeping for investment trusts, ensuring regulatory compliance without altering the fundamental valuation or strategic outlook of BRSC.",
+      "impact_score": 5,
+      "insight": "This correction indicates a formal adjustment to the price at which shares will be tendered back to the company, directly affecting the financial terms for participating shareholders. It signifies that the transaction mechanics are being finalized or amended, requiring shareholder attention to the updated valuation.",
       "key_themes": [
-        "administrative",
-        "corporate_action"
+        "Capital return",
+        "Corporate action",
+        "Correction"
       ]
     },
     {

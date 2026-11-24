@@ -2,9 +2,20 @@
   "name": "Future",
   "ticker": "FUTR",
   "slug": "future-futr",
-  "announcement_count": 29,
-  "latest_announcement": "2026-11-13T13:04:00",
+  "announcement_count": 30,
+  "latest_announcement": "2026-11-24T07:17:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T07:17:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/future--futr/holding-s-in-company/9890715",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-13T13:04:00",
       "category": null,
@@ -235,11 +246,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/future--futr/appointment-of-financial-advisers-and-brokers/9697126",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine administrative update for a distressed retailer; hiring financial advisers signals potential restructuring or insolvency proceedings rather than organic growth, reflecting the ongoing challenges in the UK high street sector.",
+      "impact_score": 5,
+      "insight": "This appointment typically signifies that the company is preparing for a significant corporate transaction, such as a sale, merger, or capital raise, which requires specialized financial and brokerage support. Shareholders should anticipate potential strategic developments or changes in ownership structure.",
       "key_themes": [
-        "Corporate Restructuring",
-        "Retail Distress"
+        "Corporate Finance",
+        "M&A",
+        "Governance"
       ]
     },
     {

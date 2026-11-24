@@ -2,9 +2,20 @@
   "name": "easyJet",
   "ticker": "EZJ",
   "slug": "easyjet-ezj",
-  "announcement_count": 89,
-  "latest_announcement": "2026-11-19T10:30:00",
+  "announcement_count": 90,
+  "latest_announcement": "2026-11-24T09:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T09:00:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/mfn/easyjet--ezj/holding-s-in-company/9890909",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-19T10:30:00",
       "category": null,
@@ -775,11 +786,11 @@
       "url": "https://www.investegate.co.uk/announcement/mfn/easyjet--ezj/offer-update/9737593",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "As an 'Offer Update' for easyJet, this likely pertains to the ongoing merger negotiations with IAG or a routine capital management action rather than a transformative event; without details of a deal termination or major strategic pivot, the market impact remains limited to short-term sentiment adjustments within the competitive European aviation sector.",
+      "impact_score": 7,
+      "insight": "An offer update typically signifies progress in a potential transaction or formal sale process, which is a material event for shareholders as it may lead to a change in control or strategic direction.",
       "key_themes": [
-        "Corporate Action",
-        "Aviation Sector"
+        "M&A",
+        "Corporate Action"
       ]
     },
     {
@@ -881,10 +892,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in the aviation sector are typically low-impact unless they signal a coordinated exodus or massive insider buying during distress; without volume context, this is standard administrative disclosure.",
+      "insight": "This announcement relates to director shareholding dealings, which typically indicates routine transactions by individuals with managerial responsibilities. Such disclosures are standard governance requirements and generally carry low immediate impact on shareholder value unless they signal significant insider sentiment shifts.",
       "key_themes": [
-        "corporate_governance",
-        "low_impact"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -934,12 +945,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9636862",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 9,
-      "insight": "A potential acquisition of easyJet represents a transformative consolidation event in the European aviation sector, likely triggering a premium bid war given its strong balance sheet and market position amidst industry capacity constraints.",
+      "impact_score": 7,
+      "insight": "This headline indicates a potential takeover bid for the company, which typically triggers significant share price volatility and requires shareholder consideration of the offer terms. Such events represent a major strategic shift that could result in the company being delisted or fundamentally restructured.",
       "key_themes": [
         "M&A",
-        "Aviation Consolidation",
-        "Strategic Shift"
+        "Takeover",
+        "Corporate Action"
       ]
     },
     {
@@ -949,12 +960,11 @@
       "url": "https://www.investegate.co.uk/announcement/mfn/easyjet--ezj/rejection-of-possible-offer-for-easyjet/9629417",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 8,
-      "insight": "The rejection of a takeover bid preserves easyJet's independence but eliminates an immediate liquidity premium for shareholders, reinforcing the market's view that the airline sector remains structurally challenged by high costs and volatile demand despite recent capacity discipline.",
+      "impact_score": 7,
+      "insight": "This announcement signifies that a potential takeover bid has been declined, which typically preserves current management control but may impact short-term share price momentum. Shareholders should monitor for any subsequent strategic shifts or alternative approaches.",
       "key_themes": [
         "M&A",
-        "Strategic Independence",
-        "Shareholder Value"
+        "Corporate Action"
       ]
     },
     {
@@ -964,12 +974,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 9,
-      "insight": "A potential acquisition represents a paradigm shift for easyJet's scale and competitive positioning against legacy carriers, echoing the high-stakes M&A activity seen in the European aviation sector with recent Lufthansa-KLM developments.",
+      "impact_score": 7,
+      "insight": "This headline indicates a potential takeover bid for the company, which typically triggers significant share price volatility and requires shareholder consideration of the offer terms. It signifies a formal sale process that could lead to a change in control or strategic direction.",
       "key_themes": [
         "M&A",
-        "Strategic Transformation",
-        "Market Consolidation"
+        "Takeover",
+        "Corporate Action"
       ]
     },
     {

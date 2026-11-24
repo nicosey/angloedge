@@ -2,9 +2,23 @@
   "name": "Hargreaves Services",
   "ticker": "HSP",
   "slug": "hargreaves-services-hsp",
-  "announcement_count": 19,
-  "latest_announcement": "2026-11-12T10:30:00",
+  "announcement_count": 20,
+  "latest_announcement": "2026-11-23T17:20:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T17:20:00",
+      "category": "Director Dealing",
+      "headline": "PDMR Dealing, Exercise of Options and TVR",
+      "url": "https://www.investegate.co.uk/announcement/rns/hargreaves-services--hsp/pdmr-dealing-exercise-of-options-and-tvr/9889720",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement indicates that persons discharging managerial responsibilities have engaged in transactions involving the exercise of options and trading of shares. Such dealings are routine governance disclosures that provide transparency into insider activity but do not inherently signal a change in corporate strategy or financial performance.",
+      "key_themes": [
+        "Director Dealing",
+        "Governance"
+      ]
+    },
     {
       "timestamp": "2026-11-12T10:30:00",
       "category": null,
@@ -120,11 +134,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hargreaves-services--hsp/result-of-agm/9846263",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard post-meeting confirmation of shareholder votes for routine business, offering no new strategic direction or financial data to influence valuation.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or auditor appointments. It signifies standard corporate governance compliance rather than any material change to the company's strategic direction or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Disclosure"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -134,12 +148,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hargreaves-services--hsp/agm-statement-and-notice-of-interim-results/9844630",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a high-beta play on UK upstream oil & gas activity, HSP's interim results are critical for gauging the sustainability of current rig utilization rates and day-rate pressures amidst global supply chain normalization.",
+      "impact_score": 5,
+      "insight": "This announcement indicates that interim financial results are being released alongside an AGM statement, signaling a scheduled reporting event for shareholders. The specific direction or magnitude of the results is not disclosed in the headline.",
       "key_themes": [
-        "Oilfield Services",
-        "Interim Results",
-        "UK Energy Sector"
+        "Results",
+        "Governance"
       ]
     },
     {
@@ -150,11 +163,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "Securing a major contract with the UK Deposit Return Scheme (DRS) provides Hargreaves Services with a significant, long-term revenue stream in the waste management sector, capitalizing on the imminent regulatory shift towards extended producer responsibility and circular economy mandates.",
+      "insight": "This announcement signifies a new commercial partnership that may provide future revenue streams, though the absence of financial details in the headline prevents assessment of its immediate materiality.",
       "key_themes": [
-        "Circular Economy",
-        "Regulatory Tailwinds",
-        "Waste Management"
+        "Contract",
+        "Partnership"
       ]
     },
     {
@@ -179,12 +191,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hargreaves-services--hsp/preferred-bidder-for-uk-deposit-return-scheme/9798815",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Securing preferred bidder status for the UK Deposit Return Scheme (DRS) positions Hargreaves Services as a key infrastructure provider in the emerging circular economy, offering long-term recurring revenue potential despite the regulatory timeline extending to 2027.",
+      "impact_score": 5,
+      "insight": "Being named a preferred bidder for a major national scheme suggests potential future revenue streams but does not guarantee a contract. Shareholders should monitor subsequent announcements for confirmation of any formal agreement or financial terms.",
       "key_themes": [
-        "Circular Economy",
-        "Regulatory Infrastructure",
-        "ESG"
+        "Contract award",
+        "Regulatory compliance"
       ]
     },
     {
@@ -245,10 +256,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on HSP's valuation or operational trajectory, reflecting normal insider activity rather than a strategic shift in the competitive oilfield services sector.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that provide transparency but typically carry limited immediate investment significance compared to strategic corporate actions.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_impact"
+        "Governance",
+        "Director Dealing"
       ]
     }
   ]

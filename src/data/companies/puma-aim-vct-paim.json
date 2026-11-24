@@ -2,9 +2,23 @@
   "name": "Puma AIM VCT Plc",
   "ticker": "PAIM",
   "slug": "puma-aim-vct-paim",
-  "announcement_count": 13,
-  "latest_announcement": "2026-10-14T10:34:00",
+  "announcement_count": 14,
+  "latest_announcement": "2026-11-24T09:24:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T09:24:00",
+      "category": null,
+      "headline": "Portfolio Update",
+      "url": "https://www.investegate.co.uk/announcement/rns/puma-aim-vct-plc--paim/portfolio-update/9891008",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement provides a scheduled update on the performance of the investment portfolio, which is central to the entity's value proposition for shareholders.",
+      "key_themes": [
+        "Portfolio Update",
+        "Performance Review"
+      ]
+    },
     {
       "timestamp": "2026-10-14T10:34:00",
       "category": "Results",
@@ -27,11 +41,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/puma-aim-vct-plc--paim/publication-of-a-prospectus/9792131",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing for an AIM-listed VCT to update its prospectus, likely reflecting routine changes in share capital or regulatory requirements rather than a strategic shift or material transaction.",
+      "impact_score": 7,
+      "insight": "The publication of a prospectus typically signifies that the company is preparing to raise capital from investors or list its securities on a public exchange. This action generally leads to share dilution and requires shareholder approval for the issuance of new shares.",
       "key_themes": [
-        "Regulatory Compliance",
-        "VCT Administration"
+        "Capital raise",
+        "Regulatory filing"
       ]
     },
     {
@@ -111,11 +125,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/puma-aim-vct-plc--paim/result-of-agm/9694145",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of an Annual General Meeting for a closed-end investment trust, carrying no material financial or strategic implications for the share price.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or fee increases. It signifies standard corporate governance activity with no immediate material financial implications for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Meeting Results"
       ]
     },
     {

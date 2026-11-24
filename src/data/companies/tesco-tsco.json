@@ -2,9 +2,20 @@
   "name": "Tesco",
   "ticker": "TSCO",
   "slug": "tesco-tsco",
-  "announcement_count": 43,
-  "latest_announcement": "2026-11-19T17:20:00",
+  "announcement_count": 44,
+  "latest_announcement": "2026-11-23T17:34:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T17:34:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/tesco--tsco/transaction-in-own-shares/9889734",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-19T17:20:00",
       "category": null,
@@ -48,12 +59,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/tesco--tsco/tesco-to-sell-czech-republic-slovakia-businesses/9850030",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This divestment aligns with Tesco's strategy to streamline its international portfolio and focus on core UK profitability, following similar exits in other non-core markets. While it reduces geopolitical risk exposure, the financial impact is likely neutral-to-positive as proceeds are expected to be used for debt reduction or shareholder returns rather than transformative growth.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a material disposal of international operations, which typically involves strategic portfolio adjustment and potential capital return or debt reduction for shareholders.",
       "key_themes": [
-        "Portfolio Optimization",
-        "International Divestment",
-        "Capital Allocation"
+        "Divestment",
+        "Strategic Review"
       ]
     },
     {
@@ -63,11 +73,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/tesco--tsco/tesco-to-sell-czech-republic-slovakia-businesses/9850019",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This divestment aligns with Tesco's strategy to focus on its core UK profitability while reducing exposure to lower-growth Central European markets; it likely represents a modest one-off gain rather than a fundamental shift in the group's long-term growth trajectory.",
+      "impact_score": 8,
+      "insight": "This announcement signifies a material disposal of international operations, which typically involves strategic portfolio simplification and potential capital return to shareholders. Shareholders should anticipate changes to the group's geographic exposure and future earnings profile.",
       "key_themes": [
         "Divestment",
-        "Strategic Refocus"
+        "Strategic Review",
+        "Capital Allocation"
       ]
     },
     {
@@ -111,10 +122,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on TSCO's valuation or liquidity, reflecting normal insider activity rather than a strategic shift in the competitive UK grocery sector.",
+      "insight": "This announcement indicates that a person discharging managerial responsibilities has engaged in share transactions. Such disclosures are routine regulatory requirements and generally have minimal direct impact on shareholder value.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_volatility"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -238,10 +249,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on TSCO's valuation or liquidity, reflecting normal insider activity rather than a strategic shift in the competitive UK grocery sector.",
+      "insight": "This announcement indicates that a person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. Such filings provide transparency regarding individual holdings but typically do not signal significant strategic changes or material financial events for shareholders.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_volatility"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -412,10 +423,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings typically signal negligible immediate market impact compared to broader macroeconomic pressures on UK consumer discretionary spending; without volume specifics, this remains an administrative filing rather than a strategic indicator.",
+      "insight": "This announcement relates to director shareholding transactions, which are routine regulatory disclosures indicating standard insider trading activity rather than significant corporate events.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -425,12 +436,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/tesco--tsco/continuation-of-share-buyback-programme/9630757",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This continuation signals management's confidence in Tesco's cash generation and commitment to returning capital, aligning with broader UK retail trends of prioritizing shareholder returns over aggressive expansion amid high interest rates.",
+      "impact_score": 4,
+      "insight": "This announcement indicates the ongoing execution of a capital return program, which typically signals management confidence in cash generation and provides incremental support to share price through reduced equity supply. The continuation nature suggests routine policy implementation rather than a sudden strategic shift or material change in value.",
       "key_themes": [
-        "capital allocation",
-        "shareholder yield",
-        "retail sector stability"
+        "Capital Return",
+        "Shareholder Value",
+        "Corporate Action"
       ]
     },
     {

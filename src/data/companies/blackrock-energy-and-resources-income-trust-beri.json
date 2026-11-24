@@ -2,9 +2,20 @@
   "name": "BlackRock Energy and Resources Income Trust",
   "ticker": "BERI",
   "slug": "blackrock-energy-and-resources-income-trust-beri",
-  "announcement_count": 49,
-  "latest_announcement": "2026-11-20T15:29:00",
+  "announcement_count": 50,
+  "latest_announcement": "2026-11-23T17:09:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T17:09:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/prn/blackrock-energy-and-resources-income-trust--beri/transaction-in-own-shares/9889704",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T15:29:00",
       "category": null,
@@ -172,11 +183,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-energy-and-resources-income-trust--beri/portfolio-update/9785062",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Portfolio updates for closed-end investment trusts are typically informational rather than transformative, serving to clarify NAV movements or strategy execution without triggering immediate price discovery events.",
+      "impact_score": 5,
+      "insight": "A portfolio update typically provides shareholders with information on the current state of the investment fund's holdings without indicating a specific directional change in performance or strategy.",
       "key_themes": [
-        "NAV transparency",
-        "passive disclosure"
+        "Portfolio Update",
+        "Fund Management"
       ]
     },
     {
@@ -287,12 +298,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-energy-and-resources-income-trust--beri/half-year-financial-report/9684037",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a closed-end fund in the energy sector, BERI's interim results are critical for assessing NAV performance and distribution sustainability amidst volatile oil and gas prices; any deviation from consensus on dividend coverage or discount widening will directly impact income-focused investors.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled half-year financial report, which provides shareholders with essential updates on the company's operational and financial performance for the period.",
       "key_themes": [
-        "Closed-End Fund",
-        "Energy Sector",
-        "Dividend Sustainability"
+        "Results",
+        "Financial Reporting"
       ]
     },
     {

@@ -12,11 +12,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/irish-continental-group-units-comp-cdi---icgc/cancellation-irish-continental-group-plc/9888421",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Cancellation of units typically reflects administrative housekeeping following a completed corporate action or settlement process rather than a strategic shift in the ferry operator's operations.",
+      "impact_score": 9,
+      "insight": "The cancellation of shares typically signifies that the company has been acquired or delisted following a takeover, meaning existing shareholders will cease to hold equity in the entity. This represents a fundamental change in ownership structure and the end of public trading for the company.",
       "key_themes": [
-        "Administrative",
-        "Corporate Action"
+        "Delisting",
+        "Takeover",
+        "Corporate action"
       ]
     },
     {
@@ -26,11 +27,12 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/irish-continental-group-units-comp-cdi---icgc/delisting-and-cancellation-of-trading-in-icg-/9888415",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This administrative delisting from the Irish market is a standard procedural step for cross-listed companies to consolidate liquidity on their primary UK listing, carrying no fundamental operational impact.",
+      "impact_score": 9,
+      "insight": "This announcement signifies the removal of the company's shares from a stock exchange, which typically ends liquidity for public shareholders and may necessitate a formal offer or buyout process to exit their holdings.",
       "key_themes": [
-        "Corporate Action",
-        "Liquidity Consolidation"
+        "Delisting",
+        "Liquidity risk",
+        "Corporate action"
       ]
     },
     {
@@ -1166,11 +1168,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/irish-continental-group-units-comp-cdi---icgc/form-36-5a-icg-plc-/9788803",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing confirming the number of shares held by directors, indicating no immediate change in insider sentiment or significant corporate action.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a filing of a substantial shareholding notification, indicating that an investor has reached or altered a significant ownership threshold in the company. It alerts shareholders to changes in the register of major interests without implying any immediate change in control or strategic direction.",
       "key_themes": [
-        "Insider Holdings",
-        "Regulatory Compliance"
+        "Substantial Shareholding",
+        "Regulatory Filing"
       ]
     },
     {
@@ -1570,10 +1572,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Administrative delay in the scheme of arrangement process for Irish Continental Group suggests potential negotiation friction or logistical hurdles rather than fundamental value destruction, though it prolongs uncertainty for shareholders awaiting a strategic exit.",
+      "insight": "This announcement indicates that scheduled shareholder meetings regarding a scheme of arrangement have been postponed to a later date. For shareholders, this signifies a delay in the voting process and potential timeline for any proposed corporate action.",
       "key_themes": [
-        "Corporate Action",
-        "M&A Delay"
+        "Governance",
+        "M&A",
+        "Shareholder Meeting"
       ]
     },
     {
@@ -1595,11 +1598,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a procedural administrative update regarding the timeline of the scheme of arrangement rather than a fundamental change in deal terms or valuation; it reflects standard negotiation pacing in UK-Irish cross-border M&A and does not alter the strategic thesis for Irish Continental Group.",
+      "insight": "This announcement indicates a procedural delay in the scheduling of shareholder meetings required for a scheme of arrangement. It signifies administrative housekeeping regarding governance timelines rather than a change in the underlying transaction or strategic direction.",
       "key_themes": [
+        "Governance",
         "M&A",
-        "Corporate Action",
-        "Procedural"
+        "Administrative"
       ]
     },
     {
@@ -2666,11 +2669,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "This represents a definitive exit event for shareholders in the ferry and port infrastructure sector, likely triggering a premium valuation relative to current trading levels amid ongoing consolidation trends in European transport logistics.",
+      "insight": "A recommended cash offer typically signifies a premium valuation for shareholders and suggests an imminent change in control or exit opportunity. This type of announcement generally leads to significant share price movement as the market prices in the likelihood of deal completion.",
       "key_themes": [
         "M&A",
-        "Premium Offer",
-        "Sector Consolidation"
+        "Takeover"
       ]
     }
   ]

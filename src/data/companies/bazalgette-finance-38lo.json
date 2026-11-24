@@ -2,9 +2,22 @@
   "name": "BAZALGETTE FINANCE PLC",
   "ticker": "38LO",
   "slug": "bazalgette-finance-38lo",
-  "announcement_count": 4,
-  "latest_announcement": "2026-10-08T10:56:00",
+  "announcement_count": 5,
+  "latest_announcement": "2026-11-24T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T07:00:00",
+      "category": "Results",
+      "headline": "Half-year Financial Report",
+      "url": "https://www.investegate.co.uk/announcement/rns/bazalgette-finance-plc--38lo/half-year-financial-report-/9889934",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled half-year financial report, which provides shareholders with an update on the company's performance and financial position for the first six months of the fiscal year. The headline does not indicate the direction or magnitude of the results, so it represents a standard periodic disclosure rather than a material event.",
+      "key_themes": [
+        "Results"
+      ]
+    },
     {
       "timestamp": "2026-10-08T10:56:00",
       "category": null,
@@ -34,12 +47,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/bazalgette-finance-plc--38lo/publication-of-a-prospectus-and-project-update/9792083",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The dual release of a prospectus and project update signals a critical capital raising phase essential for funding the company's infrastructure development pipeline, reflecting the sector's reliance on external financing to bridge the gap between project viability and operational cash flow.",
+      "impact_score": 8,
+      "insight": "The publication of a prospectus typically signifies a significant capital raising activity or listing process, which is a major corporate event for shareholders. The accompanying project update suggests strategic developments that may materially affect the company's future trajectory.",
       "key_themes": [
-        "capital_raise",
-        "infrastructure_finance",
-        "project_update"
+        "Capital raise",
+        "Strategic update",
+        "Prospectus"
       ]
     },
     {

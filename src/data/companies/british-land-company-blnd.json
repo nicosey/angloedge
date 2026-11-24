@@ -2,9 +2,23 @@
   "name": "British Land Company",
   "ticker": "BLND",
   "slug": "british-land-company-blnd",
-  "announcement_count": 46,
-  "latest_announcement": "2026-11-18T12:28:00",
+  "announcement_count": 47,
+  "latest_announcement": "2026-11-24T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T07:00:00",
+      "category": null,
+      "headline": "Issue of Debt",
+      "url": "https://www.investegate.co.uk/announcement/rns/british-land-company--blnd/issue-of-debt/9889892",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 4,
+      "insight": "This announcement indicates a capital raising activity which may lead to dilution of existing shareholdings. The specific financial implications and terms are not detailed in the headline.",
+      "key_themes": [
+        "Capital raise",
+        "Debt issuance"
+      ]
+    },
     {
       "timestamp": "2026-11-18T12:28:00",
       "category": "Director Dealing",
@@ -141,10 +155,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on BLND's valuation or strategy, reflecting typical insider activity rather than a signal of fundamental change in the UK property sector.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that confirm compliance with insider dealing rules rather than signaling specific strategic changes.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Director Dealing",
+        "Governance"
       ]
     },
     {
@@ -235,10 +249,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on British Land's valuation or strategy, reflecting normal portfolio management rather than significant insider sentiment shifts.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that confirm insider activity but do not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -396,9 +410,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings typically signal negligible immediate market impact compared to fundamental valuation drivers in the UK REIT sector; focus remains on rental reversion and interest rate sensitivity rather than individual insider transactions.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that confirm insider activity but do not inherently signal a specific strategic shift or financial outcome.",
       "key_themes": [
-        "UK Commercial Real Estate",
+        "Governance",
         "Insider Activity"
       ]
     },
@@ -410,10 +424,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in UK REITs are typically low-impact administrative events unless they signal a coordinated shift in insider sentiment; without volume or price context, this does not suggest strategic realignment.",
+      "insight": "This announcement relates to director shareholdings, which typically signifies routine regulatory disclosure of insider transactions rather than a strategic corporate event. Such filings provide transparency regarding individual executive activity but generally carry low immediate impact on shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {

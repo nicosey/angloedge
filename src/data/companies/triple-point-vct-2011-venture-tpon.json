@@ -2,9 +2,20 @@
   "name": "Triple Point VCT 2011 Venture",
   "ticker": "TPON",
   "slug": "triple-point-vct-2011-venture-tpon",
-  "announcement_count": 12,
-  "latest_announcement": "2026-11-19T16:06:00",
+  "announcement_count": 13,
+  "latest_announcement": "2026-11-24T12:25:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T12:25:00",
+      "category": null,
+      "headline": "Issue of Equity and Total Voting Rights",
+      "url": "https://www.investegate.co.uk/announcement/rns/triple-point-vct-2011-venture--tpon/issue-of-equity-and-total-voting-rights/9891532",
+      "routine_type": "Total Voting Rights",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-19T16:06:00",
       "category": null,
@@ -34,11 +45,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/triple-point-vct-2011-venture--tpon/dividend-declaration/9786805",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a VCT, dividend declarations are the primary mechanism for delivering tax-efficient returns to retail investors, making this a routine but critical income event rather than a transformative corporate action.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a dividend declaration, which is typically classified as a minor corporate action for shareholders. It indicates that income is being distributed but does not provide specific details on the amount or terms.",
       "key_themes": [
-        "VCT Income",
-        "Dividend Declaration"
+        "Dividend",
+        "Income"
       ]
     },
     {
@@ -96,11 +107,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/triple-point-vct-2011-venture--tpon/result-of-agm/9698796",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine AGM results for a VCT typically involve standard shareholder approvals with no material strategic shifts or capital events, reflecting the stable but low-growth nature of closed-end investment trusts in the current UK market.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director re-elections or fee ratifications. It signifies standard governance activity rather than any material change to the company's strategic direction or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "VCT"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -151,11 +162,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/triple-point-vct-2011-venture--tpon/final-results-for-the-year-ended-28-february-2026/9642298",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a VCT, the primary metric is dividend yield stability rather than capital growth; this final results announcement confirms the fund's ability to maintain its tax-advantaged income stream for shareholders amidst current high-interest-rate pressures on alternative investments.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the publication of the final annual results for the specified financial year, which is a standard regulatory requirement for listed companies. Shareholders will use this filing to assess the entity's performance and distribution policy over the period ended on the stated date.",
       "key_themes": [
-        "VCT Dividends",
-        "Alternative Asset Management"
+        "Results",
+        "Annual Report"
       ]
     }
   ]

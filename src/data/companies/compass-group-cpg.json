@@ -2,9 +2,38 @@
   "name": "Compass Group",
   "ticker": "CPG",
   "slug": "compass-group-cpg",
-  "announcement_count": 4,
-  "latest_announcement": "2026-11-23T11:30:00",
+  "announcement_count": 6,
+  "latest_announcement": "2026-11-24T07:30:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T07:30:00",
+      "category": "Share Buyback",
+      "headline": "Share Buyback",
+      "url": "https://www.investegate.co.uk/announcement/rns/compass-group--cpg/share-buyback/9890734",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 4,
+      "insight": "This announcement signifies a return of capital to shareholders, which typically supports the share price by reducing the number of outstanding shares. The specific financial impact or strategic rationale remains undefined in the headline.",
+      "key_themes": [
+        "Share Buyback",
+        "Capital Return"
+      ]
+    },
+    {
+      "timestamp": "2026-11-24T07:01:00",
+      "category": null,
+      "headline": "Shareholder consultation on US listing",
+      "url": "https://www.investegate.co.uk/announcement/rns/compass-group--cpg/shareholder-consultation-on-us-listing/9890084",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "This announcement indicates a potential strategic shift involving a secondary listing in the United States, which could enhance global investor access and liquidity. Shareholders should anticipate possible changes to the company's capital structure or shareholder base as part of this consultation process.",
+      "key_themes": [
+        "Capital markets",
+        "Strategic review",
+        "Governance"
+      ]
+    },
     {
       "timestamp": "2026-11-23T11:30:00",
       "category": null,
@@ -23,11 +52,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/compass-group--cpg/directorate-change/9839479",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine board-level personnel adjustments in the global contract catering sector typically carry negligible immediate financial impact, as Compass Group's operational resilience is driven by long-term contractual backlogs rather than executive succession volatility.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the board composition, which is a standard governance event that may influence strategic oversight but typically carries limited immediate financial impact unless linked to executive leadership changes.",
       "key_themes": [
-        "Corporate Governance",
-        "Leadership Stability"
+        "Governance",
+        "Board change"
       ]
     },
     {

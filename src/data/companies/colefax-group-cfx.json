@@ -57,10 +57,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory disclosure for a micro-cap with negligible liquidity; without volume or price context, this provides no actionable signal on insider conviction relative to the company's illiquid status.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine compliance reporting rather than significant strategic shifts. Shareholders should view this as standard governance disclosure without immediate implications for valuation or strategy.",
       "key_themes": [
-        "micro-cap",
-        "regulatory-compliance"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -104,10 +104,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures typically carry negligible market impact unless involving substantial block trades or insider trading allegations; without volume or price context, this remains an administrative filing with no immediate strategic implication for Colefax Group.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine changes in shareholding by individuals with managerial responsibilities. Such disclosures are standard regulatory requirements and generally carry low immediate impact on shareholder value unless they signal a significant shift in insider sentiment.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -117,11 +117,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/colefax-group--cfx/re-tender-offer-updated-timetable/9836135",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a procedural update to an existing tender offer timetable rather than a fundamental change in strategy or valuation; such administrative notices are standard for maintaining regulatory compliance and liquidity windows without altering the underlying investment thesis.",
+      "impact_score": 8,
+      "insight": "An updated timetable for a tender offer indicates an active formal process that could lead to a change in control or liquidity event for shareholders. This stage of the process suggests significant progress and potential near-term resolution.",
       "key_themes": [
-        "Corporate Action",
-        "Administrative Update"
+        "Tender Offer",
+        "M&A",
+        "Corporate Action"
       ]
     },
     {
@@ -131,11 +132,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/colefax-group--cfx/result-of-agm-and-gm/9790158",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Standard administrative filing confirming shareholder approval for routine governance matters; lacks the materiality to influence valuation or sentiment in the current UK equity landscape.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or mandate renewals. It signifies standard corporate governance activity with no immediate financial implications for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder approval",
+        "Corporate action"
       ]
     },
     {
@@ -156,11 +158,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/colefax-group--cfx/preliminary-results-/9697100",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a niche luxury furniture retailer with limited liquidity, this results announcement serves as a critical barometer for high-end consumer sentiment in the UK; any deviation from consensus on like-for-like sales or margin expansion will likely trigger disproportionate volatility given the stock's small-cap status.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of preliminary financial results for the company. It provides shareholders with an initial overview of the firm's recent performance without disclosing specific figures or trends.",
       "key_themes": [
-        "Consumer Discretionary",
-        "Small Cap Volatility"
+        "Results"
       ]
     },
     {

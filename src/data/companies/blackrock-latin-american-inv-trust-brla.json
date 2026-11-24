@@ -49,11 +49,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-latin-american-inv-trust--brla/dividend-exchange-rate-set/9846634",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative update regarding the GBP/USD exchange rate used to calculate the dividend payout for an investment trust focused on Latin American equities; it has no bearing on underlying asset performance or strategic direction.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the exchange rate used to calculate dividend payments, which is a standard administrative procedure for investors receiving distributions in different currencies.",
       "key_themes": [
-        "administrative",
-        "FX_rate"
+        "Dividend",
+        "Administrative"
       ]
     },
     {
@@ -64,10 +64,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures in closed-end investment trusts typically carry minimal market impact unless they signal a significant shift in insider sentiment; without volume or price context, this remains an administrative filing rather than a strategic indicator.",
+      "insight": "This announcement signifies standard regulatory disclosure of shareholding changes by a person discharging managerial responsibilities. It provides transparency regarding insider activity but does not inherently indicate a significant strategic shift or material financial event for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -125,11 +125,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-latin-american-inv-trust--brla/portfolio-update/9790029",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Portfolio updates for closed-end investment trusts are typically informational rather than transformative, serving to clarify manager positioning without altering the underlying asset base or triggering immediate price discovery events.",
+      "impact_score": 5,
+      "insight": "This announcement provides a scheduled update on the portfolio composition, which is routine for investment trusts but essential for shareholders to monitor asset allocation and performance drivers.",
       "key_themes": [
-        "Investment Trust",
-        "Portfolio Disclosure"
+        "Portfolio Update",
+        "Investment Trust"
       ]
     },
     {
@@ -161,11 +161,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-latin-american-inv-trust--brla/portfolio-update/9743408",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Portfolio updates are standard informational disclosures for investment trusts that rarely trigger immediate price action unless they signal a drastic shift in strategy; without specific details on significant rebalancing or performance attribution, this remains a routine administrative update.",
+      "impact_score": 5,
+      "insight": "This announcement typically provides shareholders with an update on the fund's investment performance and portfolio composition. It offers insight into the manager's current strategy but does not indicate a significant change in corporate structure or financial position.",
       "key_themes": [
-        "Investment Trust",
-        "Routine Disclosure"
+        "Portfolio Update",
+        "Investment Performance"
       ]
     },
     {

@@ -2,9 +2,37 @@
   "name": "PCI-PAL",
   "ticker": "PCIP",
   "slug": "pci-pal-pcip",
-  "announcement_count": 8,
-  "latest_announcement": "2026-11-18T07:00:00",
+  "announcement_count": 10,
+  "latest_announcement": "2026-11-24T11:25:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T11:25:00",
+      "category": "Results",
+      "headline": "Annual Financial Report & Notice of AGM",
+      "url": "https://www.investegate.co.uk/announcement/rns/pci-pal--pcip/annual-financial-report-notice-of-agm/9891329",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled annual financial results and the convening of a general meeting for shareholder consideration. The specific financial performance or strategic outcomes are not disclosed in the headline.",
+      "key_themes": [
+        "Results",
+        "Governance"
+      ]
+    },
+    {
+      "timestamp": "2026-11-24T07:01:00",
+      "category": "Appointment",
+      "headline": "Appointment of CFO",
+      "url": "https://www.investegate.co.uk/announcement/rns/pci-pal--pcip/appointment-of-cfo/9890088",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This announcement signifies a change in senior executive leadership, which may influence the company's financial strategy and governance. Shareholders should monitor subsequent disclosures for details on the new CFO's background and any strategic implications.",
+      "key_themes": [
+        "Governance",
+        "Management Change"
+      ]
+    },
     {
       "timestamp": "2026-11-18T07:00:00",
       "category": "Results",
@@ -54,12 +82,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/pci-pal--pcip/confirmation-of-reseller-partnership-with-bt/9783276",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Securing a reseller partnership with BT provides PCI-Pal with immediate access to a massive enterprise customer base, significantly de-risking its go-to-market strategy and validating its cybersecurity proposition in the competitive UK SME sector.",
+      "impact_score": 5,
+      "insight": "This announcement confirms a commercial partnership which may provide access to new distribution channels or revenue streams for the company. The specific financial impact remains undefined as the headline does not disclose contract value or duration.",
       "key_themes": [
-        "channel_partnership",
-        "cybersecurity",
-        "distribution"
+        "Partnership",
+        "Commercial"
       ]
     },
     {
@@ -98,10 +125,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director share purchases in the UK equity market are typically low-conviction signals that rarely drive immediate price action without accompanying volume or sector-wide catalysts.",
+      "insight": "This announcement indicates that a director has purchased shares in the company, which may signal internal confidence in the business. Such dealings are routine governance disclosures and do not inherently imply significant operational changes or financial outcomes.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Director Dealing",
+        "Governance"
       ]
     },
     {
@@ -111,12 +138,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/pci-pal--pcip/new-strategic-partnership-with-nice-confirmed/9694735",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This partnership validates PCI-Pal's AI-driven compliance technology within the UK healthcare sector, addressing a critical pain point for NHS trusts and private providers amid rising regulatory scrutiny. While not transformative, it signals commercial traction and potential revenue diversification beyond legacy hardware sales.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a new strategic partnership, which typically indicates business development activity but lacks specific financial or operational details to assess immediate shareholder value. The absence of quantified terms or scope in the headline suggests this is an initial confirmation rather than a material transaction.",
       "key_themes": [
-        "Healthcare IT",
-        "AI Compliance",
-        "Strategic Partnership"
+        "Partnership",
+        "Strategic Development"
       ]
     }
   ]

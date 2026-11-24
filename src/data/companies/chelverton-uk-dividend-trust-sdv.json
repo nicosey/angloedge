@@ -24,10 +24,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements for investment trusts like SDV typically carry minimal market impact unless the volume is substantial or signals a specific shift in insider sentiment; without transaction details, this remains an administrative disclosure.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into the company's operational performance but confirms insider transparency.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Director dealings",
+        "Governance"
       ]
     },
     {
@@ -38,11 +38,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures in closed-end investment trusts like SDV typically reflect personal portfolio management rather than corporate strategy, offering negligible signal for share price direction amidst the broader sector's focus on NAV discounts and dividend sustainability.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "closed-end fund",
-        "insider activity",
-        "low impact"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -95,11 +94,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "As a standard annual report for an investment trust, this confirms baseline NAV and dividend data without signaling transformative strategic shifts or significant capital events, reflecting routine governance rather than market-moving news.",
+      "insight": "This announcement signifies the publication of the company's annual financial report, providing shareholders with a comprehensive review of performance and position over the past year. As the headline does not specify the direction of results or any special dividends, it represents a standard scheduled disclosure rather than an event-driven catalyst.",
       "key_themes": [
-        "Annual Report",
-        "Investment Trust",
-        "Routine Disclosure"
+        "Results",
+        "Annual Report"
       ]
     },
     {

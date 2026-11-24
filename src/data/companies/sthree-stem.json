@@ -2,9 +2,23 @@
   "name": "SThree",
   "ticker": "STEM",
   "slug": "sthree-stem",
-  "announcement_count": 47,
-  "latest_announcement": "2026-11-23T15:16:00",
+  "announcement_count": 48,
+  "latest_announcement": "2026-11-24T12:34:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T12:34:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/sthree--stem/director-pdmr-shareholding/9891548",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement signifies routine regulatory compliance regarding insider share transactions by persons discharging managerial responsibilities. It provides transparency into individual director activity but does not inherently signal a strategic shift or material corporate event.",
+      "key_themes": [
+        "Governance",
+        "Director Dealing"
+      ]
+    },
     {
       "timestamp": "2026-11-23T15:16:00",
       "category": null,
@@ -141,12 +155,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/sthree--stem/fy26-pbt-profit-forecast/9790003",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "A full-year PBT forecast provides critical visibility on the margin trajectory of SThree's technology recruitment platform amidst a volatile UK labour market, serving as a key sentiment indicator for the specialist staffing sector.",
+      "impact_score": 5,
+      "insight": "This headline indicates a forecast for pre-tax profit, which is a scheduled financial update. The direction of the forecast is not specified in the text provided.",
       "key_themes": [
-        "profit_forecast",
-        "recruitment_sector",
-        "FY26_guidance"
+        "Results",
+        "Profit Forecast"
       ]
     },
     {

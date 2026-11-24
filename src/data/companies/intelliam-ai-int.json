@@ -2,9 +2,31 @@
   "name": "IntelliAM AI Plc",
   "ticker": "INT",
   "slug": "intelliam-ai-int",
-  "announcement_count": 17,
-  "latest_announcement": "2026-11-20T07:05:00",
+  "announcement_count": 19,
+  "latest_announcement": "2026-11-24T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T07:00:00",
+      "category": null,
+      "headline": "TR1 Gresham 2",
+      "url": "https://www.investegate.co.uk/announcement/rns/intelliam-ai-plc--int/tr1-gresham-2/9889939",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-24T07:00:00",
+      "category": null,
+      "headline": "TR1",
+      "url": "https://www.investegate.co.uk/announcement/rns/intelliam-ai-plc--int/tr1/9889924",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T07:05:00",
       "category": null,
@@ -70,12 +92,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/intelliam-ai-plc--int/result-of-placing-retail-offer/9844611",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This capital raise signals a critical need for liquidity in the competitive UK AI infrastructure space, likely to fund R&D or commercial scaling amid high cash burn rates typical of pre-profit tech firms.",
+      "impact_score": 7,
+      "insight": "This announcement confirms the outcome of a capital raising activity involving both institutional placing and retail offer components. It signifies that the company has successfully secured new equity funding, which typically dilutes existing shareholdings but provides fresh capital.",
       "key_themes": [
-        "capital_raise",
-        "ai_infrastructure",
-        "liquidity"
+        "Capital raise",
+        "Placing",
+        "Retail Offer"
       ]
     },
     {
@@ -85,11 +107,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/intelliam-ai-plc--int/schedule-one-intelliam-ai-plc/9836909",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Schedule One announcements are standard administrative filings under the UK Listing Rules detailing share capital movements, typically carrying no immediate commercial significance or market-moving catalyst.",
+      "impact_score": 1,
+      "insight": "This announcement appears to be a standard administrative filing or schedule submission with no immediate financial or strategic implications for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Regulatory Compliance"
+        "Administrative",
+        "Governance"
       ]
     },
     {
@@ -99,12 +121,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/intelliam-ai-plc--int/retail-offer-for-up-to-0-5-million/9836303",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "A £0.5m retail placing is a micro-cap fundraising event typical for pre-revenue AI firms seeking runway rather than transformative growth capital; it signals liquidity pressure or dilution without strategic partnership value.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a small-scale capital raise through a retail offer, which typically results in minor share dilution for existing shareholders. The limited size suggests it is a routine funding activity rather than a transformative event.",
       "key_themes": [
-        "dilution",
-        "micro-cap financing",
-        "AI sector"
+        "Capital raise",
+        "Share dilution",
+        "Retail offering"
       ]
     },
     {
@@ -114,12 +136,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/intelliam-ai-plc--int/fundraising-of-6-3m-move-to-aim-and-notice-of-gm/9836256",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The £6.3m placing provides essential runway for IntelliAM to execute its AIM listing strategy, a critical milestone for visibility in the competitive AI diagnostics sector, though dilution remains a key consideration for existing shareholders.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a significant capital raise and a strategic move to the AIM market, which typically involves increased regulatory scrutiny and liquidity but also potential dilution for existing shareholders.",
       "key_themes": [
-        "AIM Listing",
-        "Capital Raise",
-        "AI Diagnostics"
+        "Capital raise",
+        "Market admission",
+        "Corporate governance"
       ]
     },
     {
@@ -129,11 +151,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/intelliam-ai-plc--int/new-purchase-order/9783246",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "While a new purchase order validates IntelliAM's commercial traction in the AI-driven radiology sector, RNS disclosures of individual orders are typically immaterial to market cap unless they signal a major contract win or strategic partnership.",
+      "impact_score": 5,
+      "insight": "This announcement indicates the receipt of a new purchase order, which typically signifies commercial activity and potential revenue generation for the company. The specific financial impact or significance to shareholders cannot be determined from the headline alone as no value or context is provided.",
       "key_themes": [
-        "commercial_validation",
-        "revenue_growth"
+        "Commercial",
+        "Revenue"
       ]
     },
     {
@@ -183,10 +205,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "As a micro-cap AI stock with limited commercial traction, standard annual reports typically offer minimal alpha for institutional investors and are often overshadowed by speculative narrative shifts rather than fundamental metrics.",
+      "insight": "This announcement signifies the release of scheduled annual financial results, which provide shareholders with a comprehensive overview of the company's performance and financial position over the past year.",
       "key_themes": [
-        "AI Sector",
-        "Micro-cap Reporting"
+        "Results",
+        "Annual Report"
       ]
     },
     {
@@ -196,11 +218,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/intelliam-ai-plc--int/new-purchase-orders-from-mars-uk-/9680701",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "While securing a contract with Mars UK validates IntelliAM's AI capabilities in the food processing sector, RNS announcements of new orders for small-cap tech firms typically represent incremental revenue rather than transformative growth, lacking the scale to significantly alter valuation multiples.",
+      "impact_score": 5,
+      "insight": "The receipt of new purchase orders from a named client indicates commercial activity and potential revenue generation, though the absence of financial details prevents an assessment of materiality. This type of announcement generally signifies ongoing business operations but lacks the specificity required to gauge significant shareholder value impact.",
       "key_themes": [
-        "Commercial Validation",
-        "Food Tech"
+        "Commercial",
+        "Revenue"
       ]
     },
     {

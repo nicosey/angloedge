@@ -2,9 +2,23 @@
   "name": "Eurocell",
   "ticker": "ECEL",
   "slug": "eurocell-ecel",
-  "announcement_count": 15,
-  "latest_announcement": "2026-10-28T13:30:00",
+  "announcement_count": 16,
+  "latest_announcement": "2026-11-24T15:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T15:00:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/eurocell--ecel/director-pdmr-shareholding/9891781",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement relates to director shareholding dealings, which typically signifies routine compliance reporting rather than a significant strategic shift. Shareholders should view this as standard governance activity with limited immediate impact on the company's operational outlook.",
+      "key_themes": [
+        "Governance",
+        "Director Dealing"
+      ]
+    },
     {
       "timestamp": "2026-10-28T13:30:00",
       "category": null,
@@ -74,10 +88,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements typically carry negligible fundamental weight for Eurocell, a market leader in plastic windows and doors, unless the volume is exceptional or signals a shift in insider sentiment during volatile periods.",
+      "insight": "This announcement relates to director shareholding dealings, which typically signifies routine insider transactions rather than a significant corporate event. Shareholders should view this as standard governance disclosure with limited immediate impact on the company's operational outlook.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {

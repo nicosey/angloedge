@@ -2,9 +2,20 @@
   "name": "JPMorgan Japanese Inv Trust",
   "ticker": "JFJ",
   "slug": "jpmorgan-japanese-inv-trust-jfj",
-  "announcement_count": 92,
-  "latest_announcement": "2026-11-23T11:35:00",
+  "announcement_count": 93,
+  "latest_announcement": "2026-11-23T17:13:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T17:13:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-japanese-inv-trust--jfj/transaction-in-own-shares/9889708",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T11:35:00",
       "category": null,
@@ -419,11 +430,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-japanese-inv-trust--jfj/investor-webinar-30th-sep-2026-9-00-a-m-bst/9794134",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard investor relations event with no immediate price-sensitive information or strategic shift; such webinars are routine engagement tools for closed-end funds and do not alter the underlying asset valuation or management strategy.",
+      "impact_score": 1,
+      "insight": "This announcement is an invitation to a webinar, which serves as a marketing or informational event rather than a substantive corporate action. It has no direct bearing on the company's financial position or shareholder value.",
       "key_themes": [
         "Investor Relations",
-        "Routine Communication"
+        "Marketing"
       ]
     },
     {

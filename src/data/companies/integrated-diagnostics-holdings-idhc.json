@@ -142,10 +142,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements in the diagnostics sector typically reflect personal portfolio management rather than significant corporate strategy shifts, offering limited immediate signal for equity valuation.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with responsibility for managing the company rather than significant strategic shifts. Such disclosures are standard governance requirements and generally carry low immediate impact on shareholder value unless they signal a broader trend of buying or selling.",
       "key_themes": [
-        "Corporate Governance",
-        "Minor Administrative"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -156,11 +156,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "A mandatory final cash offer typically signals a successful hostile takeover bid, likely from a larger competitor seeking to consolidate the UK diagnostics market; this represents a definitive exit event for shareholders and a strategic shift in sector ownership.",
+      "insight": "A mandatory final cash offer typically signifies a binding obligation for shareholders to sell their holdings at a specified price, often leading to delisting or a change in control. This represents a definitive exit event for existing investors.",
       "key_themes": [
-        "Mandatory Cash Offer",
+        "M&A",
         "Takeover",
-        "IDHC"
+        "Shareholder action"
       ]
     },
     {
@@ -182,11 +182,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "A mandatory final cash offer signifies a completed acquisition of IDHC, likely by a larger healthcare or diagnostics entity, representing a definitive liquidity event for shareholders and a strategic consolidation in the UK diagnostics sector.",
+      "insight": "A mandatory final cash offer typically signifies that a controlling stake has been acquired, triggering a requirement to buy out remaining minority shareholders at a specified price. This usually leads to the delisting of the company's shares and provides an exit opportunity for existing investors.",
       "key_themes": [
-        "Mandatory Offer",
-        "Acquisition",
-        "Liquidity Event"
+        "M&A",
+        "Takeover",
+        "Delisting"
       ]
     }
   ]

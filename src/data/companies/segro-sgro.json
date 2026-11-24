@@ -2,9 +2,20 @@
   "name": "SEGRO",
   "ticker": "SGRO",
   "slug": "segro-sgro",
-  "announcement_count": 55,
-  "latest_announcement": "2026-11-05T16:00:00",
+  "announcement_count": 56,
+  "latest_announcement": "2026-11-24T10:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T10:00:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/segro--sgro/holding-s-in-company/9891114",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-05T16:00:00",
       "category": null,
@@ -100,11 +111,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/segro--sgro/results-of-court-and-general-meetings/9794390",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the ratification of routine resolutions at SEGRO's AGM/EGM, typical for UK REITs and devoid of material strategic shifts or capital allocation changes.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcomes of shareholder votes held at general meetings, which is a standard governance procedure. It provides transparency on how shareholders have exercised their voting rights but does not indicate any immediate financial or strategic change.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder Vote"
       ]
     },
     {
@@ -238,12 +249,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/segro--sgro/statement-re-possible-combination-/9681856",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 9,
-      "insight": "A possible combination for SEGRO represents a structural shift in the UK industrial REIT landscape, potentially creating a dominant logistics platform with enhanced scale and diversification, similar to the strategic consolidation seen in other mature real estate sectors.",
+      "impact_score": 8,
+      "insight": "This headline indicates a potential corporate transaction that could significantly alter the company's structure or ownership. Shareholders should anticipate possible changes to their investment profile pending further details.",
       "key_themes": [
         "M&A",
-        "Sector Consolidation",
-        "Strategic Transformation"
+        "Strategic Review"
       ]
     },
     {
@@ -487,11 +497,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/segro--sgro/statement-regarding-possible-offer/9644653",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This is a standard 'put up or shut down' RNS confirming SEGRO's consideration of an offer for another entity (likely in the logistics sector), rather than a completed transformative deal; while it signals strategic expansion intent, the lack of finalized terms limits immediate valuation impact compared to a binding agreement.",
+      "impact_score": 8,
+      "insight": "This headline indicates a potential takeover bid or formal sale process, which typically triggers significant shareholder interest regarding valuation and control. Such announcements often lead to substantial price volatility as the market assesses the likelihood and terms of a possible offer.",
       "key_themes": [
-        "M&A Activity",
-        "Logistics Sector Consolidation"
+        "M&A",
+        "Corporate Action"
       ]
     },
     {
@@ -513,10 +523,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard administrative filing for an investor presentation, which provides no new material information or financial data to alter the investment thesis. While SEGRO's logistics sector fundamentals remain robust, this specific announcement lacks the transformative catalysts required for immediate price movement.",
+      "insight": "This announcement signifies a scheduled communication event where management shares strategic updates or performance metrics with the market. It generally provides context for valuation but does not inherently indicate a material financial change or corporate action.",
       "key_themes": [
         "Investor Relations",
-        "Administrative"
+        "Corporate Communication"
       ]
     },
     {
@@ -537,12 +547,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/segro--sgro/statement-regarding-possible-offer/9634142",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This RNS signals potential strategic expansion in the logistics real estate sector, likely targeting high-growth assets to maintain SEGRO's market leadership against competitors like Prologis and Landsec.",
+      "impact_score": 7,
+      "insight": "This headline indicates a potential takeover bid or sale process, which represents a significant strategic event for shareholders that could lead to a change in control or substantial value realization.",
       "key_themes": [
         "M&A",
-        "Logistics Real Estate",
-        "Strategic Growth"
+        "Corporate Action"
       ]
     },
     {
@@ -563,12 +572,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/segro--sgro/statement-re-possible-combination/9633059",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 9,
-      "insight": "A potential combination in the UK industrial REIT sector signals a major consolidation wave, likely driven by the need for scale to compete with global peers and manage rising capital costs, following precedents like the Prologis-Logistics growth trends.",
+      "impact_score": 8,
+      "insight": "This headline indicates a potential corporate restructuring event that could significantly alter the company's ownership or strategic direction. Shareholders should anticipate possible volatility and await further details regarding the nature and terms of the combination.",
       "key_themes": [
         "M&A",
-        "Sector Consolidation",
-        "Industrial REIT"
+        "Corporate Action"
       ]
     },
     {
@@ -590,11 +598,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This €650m issuance by the SELP JV (SEGRO's German logistics joint venture) reflects standard balance sheet management for a capital-intensive REIT rather than a transformative corporate event. While it secures funding at attractive rates in the current debt market, it does not alter SEGRO's core UK strategy or immediate earnings profile.",
+      "insight": "This announcement indicates that a joint venture involving the company has issued unsecured bonds, which is a financing activity typically managed at the vehicle level rather than directly impacting the parent company's core operations or balance sheet.",
       "key_themes": [
-        "Debt Issuance",
-        "Joint Venture",
-        "Capital Structure"
+        "Financing",
+        "Joint Venture"
       ]
     },
     {

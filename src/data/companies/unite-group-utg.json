@@ -2,9 +2,20 @@
   "name": "Unite Group",
   "ticker": "UTG",
   "slug": "unite-group-utg",
-  "announcement_count": 30,
-  "latest_announcement": "2026-11-18T07:00:00",
+  "announcement_count": 31,
+  "latest_announcement": "2026-11-24T13:19:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T13:19:00",
+      "category": null,
+      "headline": "Publication of Pricing Supplement",
+      "url": "https://www.investegate.co.uk/announcement/rns/unite-group--utg/publication-of-pricing-supplement/9891631",
+      "routine_type": "Final Terms",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-18T07:00:00",
       "category": null,
@@ -148,10 +159,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/unite-group--utg/emtn-programme-supplementary-admission-particulars/9741048",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative update to the UK EMTN programme, facilitating future debt issuance rather than signaling immediate capital raising or strategic shifts. Such filings are routine for listed issuers maintaining liquidity facilities and carry no direct market-moving implications.",
+      "impact_score": 4,
+      "insight": "This announcement relates to the supplementary admission of a debt issuance programme, which is an administrative step in raising capital rather than a direct equity event. It generally signifies ongoing funding activities but does not imply immediate changes to share value or control.",
       "key_themes": [
-        "Corporate Finance",
+        "Capital raise",
+        "Debt financing",
         "Administrative"
       ]
     },
@@ -206,12 +218,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/unite-group--utg/interim-results-for-six-months-ended-30-june-2026/9689926",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a high-growth student accommodation REIT, Unite Group's interim results are critical for assessing rent growth momentum and occupancy resilience in the face of rising interest rates and potential regulatory scrutiny on private student housing.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled interim results release for the specified six-month period. It provides shareholders with an update on the company's financial performance and operational progress during this timeframe.",
       "key_themes": [
-        "Student Accommodation",
-        "REIT Performance",
-        "Interest Rate Sensitivity"
+        "Results",
+        "Financial Reporting"
       ]
     },
     {
@@ -270,10 +281,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Director dealings are standard regulatory disclosures with negligible immediate market impact unless involving significant insider trading signals; for Unite Group, this routine filing lacks the transformative catalysts required to move the student accommodation REIT's valuation.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into the company's operational performance but may signal individual confidence or lack thereof depending on the nature of the deal.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Disclosure"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -294,11 +305,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/unite-group--utg/board-update-/9630877",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine board updates for UK REITs typically signal administrative continuity rather than strategic shifts; without details on specific appointments or governance changes, this lacks the catalyst potential to drive immediate valuation re-rating in the current high-rate environment.",
+      "impact_score": 5,
+      "insight": "A board update typically signifies a change in leadership or governance structure, which can influence strategic direction but is generally considered a standard corporate event rather than a transformative financial shift.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Governance",
+        "Board Change"
       ]
     },
     {

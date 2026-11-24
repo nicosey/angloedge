@@ -2,9 +2,20 @@
   "name": "Bankers Inv Trust",
   "ticker": "BNKR",
   "slug": "bankers-inv-trust-bnkr",
-  "announcement_count": 99,
-  "latest_announcement": "2026-11-20T17:24:00",
+  "announcement_count": 100,
+  "latest_announcement": "2026-11-23T17:50:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T17:50:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/bankers-inv-trust--bnkr/transaction-in-own-shares/9889743",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T17:24:00",
       "category": null,
@@ -478,10 +489,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures for a closed-end investment trust typically carry negligible market impact unless the volume is substantial or signals a specific strategic shift, which is rare in this sector.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has engaged in share transactions, which is a standard regulatory disclosure. It provides limited insight into future performance but signals insider activity that investors may monitor for sentiment cues.",
       "key_themes": [
-        "Corporate Governance",
-        "Closed-End Trust"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {

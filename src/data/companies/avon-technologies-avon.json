@@ -2,9 +2,23 @@
   "name": "Avon Technologies plc",
   "ticker": "AVON",
   "slug": "avon-technologies-avon",
-  "announcement_count": 19,
-  "latest_announcement": "2026-11-12T12:45:00",
+  "announcement_count": 20,
+  "latest_announcement": "2026-11-24T09:52:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T09:52:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/avon-technologies-plc--avon/director-pdmr-shareholding/9891109",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into the company's operational performance but may signal individual confidence or lack thereof to shareholders.",
+      "key_themes": [
+        "Governance",
+        "Director Dealing"
+      ]
+    },
     {
       "timestamp": "2026-11-12T12:45:00",
       "category": "Director Dealing",
@@ -172,10 +186,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This delivery order confirms the execution of a previously announced transaction rather than signaling new strategic momentum; in the current UK equity market, such administrative confirmations are typically priced in and lack the catalyst power for significant re-rating.",
+      "insight": "This announcement indicates a routine operational transaction involving payment processing infrastructure. It likely represents standard administrative activity with minimal direct impact on shareholder value.",
       "key_themes": [
-        "Transaction Execution",
-        "Administrative Update"
+        "Operational",
+        "Administrative"
       ]
     },
     {
@@ -213,11 +227,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/avon-technologies-plc--avon/ng-ihps-delivery-orders/9638170",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "The headline 'NG IHPS Delivery Orders' suggests a routine supply chain update for Avon Technologies, likely related to their industrial heating or power solutions division rather than core strategic shifts. Without details on contract value or margin impact, this is classified as minor administrative news with negligible immediate market implication.",
+      "impact_score": 1,
+      "insight": "The headline references 'NG IHPS Delivery Orders', which appears to be an administrative notice regarding a specific order type rather than a corporate action affecting Avon Technologies plc. Without explicit confirmation of the company's involvement or materiality, this is likely routine housekeeping with no direct bearing on shareholders.",
       "key_themes": [
-        "Supply Chain",
-        "Operational Update"
+        "Administrative",
+        "Ordering"
       ]
     },
     {

@@ -2,9 +2,20 @@
   "name": "F&C Investment Trust",
   "ticker": "FCIT",
   "slug": "f-c-investment-trust-fcit",
-  "announcement_count": 57,
-  "latest_announcement": "2026-11-20T17:01:00",
+  "announcement_count": 58,
+  "latest_announcement": "2026-11-23T17:19:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T17:19:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/f-c-investment-trust--fcit/transaction-in-own-shares/9889718",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T17:01:00",
       "category": null,
@@ -150,11 +161,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/f-c-investment-trust--fcit/dividend-declaration-third-interim-2026/9848963",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The declaration of a third interim dividend for the 2026 period signals strong underlying cash flow generation and management's commitment to income distribution, which is critical for maintaining investor confidence in the closed-end fund sector amidst rising interest rate volatility.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a scheduled distribution of profits to shareholders, which is a routine corporate action for investment trusts. The specific financial impact and shareholder reaction depend on details not provided in the headline.",
       "key_themes": [
-        "Income Distribution",
-        "Closed-End Fund"
+        "Dividend",
+        "Shareholder Return"
       ]
     },
     {
@@ -603,11 +614,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/f-c-investment-trust--fcit/dividend-declaration-replacement/9634614",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "The 'REPLACEMENT' tag indicates a correction of a previous administrative error rather than a new financial event, rendering the substantive impact neutral to investors.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a correction to a previously issued dividend declaration, suggesting an administrative adjustment rather than a change in financial performance. It signifies that the company is maintaining its commitment to shareholder returns while rectifying prior documentation.",
       "key_themes": [
-        "Administrative Correction",
-        "Dividend"
+        "Dividend",
+        "Administrative"
       ]
     },
     {
@@ -617,12 +628,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/f-c-investment-trust--fcit/dividend-declaration/9633066",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a closed-end fund, FCIT's dividend declaration is a critical indicator of its ability to maintain income yields amidst rising interest rates and volatile equity markets; consistent payouts signal management's confidence in underlying asset quality and discount control.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a standard dividend declaration, which is a routine corporate action providing income to shareholders without indicating major strategic shifts or financial distress.",
       "key_themes": [
-        "closed-end fund",
-        "income generation",
-        "shareholder yield"
+        "Dividend",
+        "Shareholder Return"
       ]
     },
     {

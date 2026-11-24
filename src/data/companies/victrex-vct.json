@@ -2,9 +2,23 @@
   "name": "Victrex plc",
   "ticker": "VCT",
   "slug": "victrex-vct",
-  "announcement_count": 18,
-  "latest_announcement": "2026-11-19T09:27:00",
+  "announcement_count": 19,
+  "latest_announcement": "2026-11-24T08:53:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T08:53:00",
+      "category": "Appointment",
+      "headline": "Directorate change",
+      "url": "https://www.investegate.co.uk/announcement/rns/victrex-plc--vct/directorate-change/9890899",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the board composition, which is a standard governance update. While it may indicate a shift in leadership or expertise, the specific nature and implications for shareholders remain undefined by the headline.",
+      "key_themes": [
+        "Governance",
+        "Board Change"
+      ]
+    },
     {
       "timestamp": "2026-11-19T09:27:00",
       "category": "Results",
@@ -87,12 +101,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/victrex-plc--vct/capital-markets-event/9787992",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Capital Markets Events are typically used by high-quality compounders like Victrex to reset investor narratives regarding long-term growth and margins rather than signaling immediate distress; this suggests management is proactively addressing valuation gaps or defending against activist pressure in the specialty chemicals sector.",
+      "impact_score": 7,
+      "insight": "A Capital Markets Event typically signifies a formal presentation to investors regarding strategy, financial performance, or capital structure, often indicating a potential strategic review or significant corporate action.",
       "key_themes": [
         "Investor Relations",
-        "Strategic Communication",
-        "Specialty Chemicals"
+        "Strategic Update"
       ]
     },
     {
@@ -161,11 +174,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/victrex-plc--vct/directorate-change/9685276",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine administrative updates regarding board composition typically carry negligible immediate financial impact for Victrex, as the company's valuation is primarily driven by PEEK polymer demand cycles and margin expansion rather than governance shifts.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the board composition, which is a standard governance event that may signal strategic shifts but lacks specific details on the nature or significance of the appointment. Shareholders should monitor subsequent filings for context regarding the new director's role and potential impact on leadership stability.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Governance",
+        "Board change"
       ]
     },
     {

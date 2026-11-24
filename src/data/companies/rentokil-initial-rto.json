@@ -2,9 +2,20 @@
   "name": "Rentokil Initial",
   "ticker": "RTO",
   "slug": "rentokil-initial-rto",
-  "announcement_count": 12,
-  "latest_announcement": "2026-11-19T14:30:00",
+  "announcement_count": 13,
+  "latest_announcement": "2026-11-24T14:21:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T14:21:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/rentokil-initial--rto/transaction-in-own-shares/9891705",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-19T14:30:00",
       "category": "Director Dealing",
@@ -40,12 +51,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/rentokil-initial--rto/commencement-of-share-buyback-programme/9842380",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This buyback signals management's confidence in RTO's post-restructuring cash flow generation and commitment to returning capital, aligning with broader UK industrials' focus on shareholder returns amid high interest rates. While positive for EPS accretion, the strategic impact is limited compared to organic growth drivers in the competitive commercial cleaning sector.",
+      "impact_score": 4,
+      "insight": "This announcement signifies a potential return of capital to shareholders through share repurchases, which may support the share price by reducing the number of outstanding shares. The specific financial impact remains undefined without further details on the scale or funding of the programme.",
       "key_themes": [
-        "capital allocation",
-        "shareholder return",
-        "cash flow generation"
+        "Capital return",
+        "Shareholder value"
       ]
     },
     {
@@ -56,10 +66,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings typically signal low immediate market impact unless accompanied by unusual volume or timing relative to earnings; in the competitive UK facilities management sector, such disclosures are standard governance requirements rather than strategic signals.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -69,11 +79,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/rentokil-initial--rto/directorate-change/9835268",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine board-level personnel changes in the integrated facilities management sector typically signal governance continuity rather than strategic disruption, with limited immediate impact on RTO's operational execution or valuation multiples.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the board composition, which is a standard governance event that may influence strategic oversight but does not inherently indicate a shift in business performance or strategy.",
       "key_themes": [
-        "Corporate Governance",
-        "Leadership Stability"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -106,10 +116,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine interim dividend declaration reflects standard capital allocation rather than strategic shift; in the current high-interest-rate environment for UK commercial services, this signals maintenance of shareholder returns but lacks transformative growth indicators.",
+      "insight": "This announcement signifies a scheduled interim dividend payment, which provides income to shareholders but typically carries limited strategic weight compared to major corporate actions.",
       "key_themes": [
-        "capital_allocation",
-        "dividend_policy"
+        "Dividend",
+        "Shareholder return"
       ]
     },
     {

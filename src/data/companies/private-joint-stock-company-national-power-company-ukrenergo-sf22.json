@@ -83,11 +83,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/private-joint-stock-company-national-power-company-ukrenergo--sf22/notice-of-meeting/9746414",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative notice for a shareholder meeting of a non-UK listed entity with negligible liquidity on the London market; it carries no immediate price-sensitive information or strategic shift.",
+      "impact_score": 3,
+      "insight": "A notice of meeting typically signals that shareholders are required to vote on specific corporate matters, such as governance changes or capital actions. The actual significance depends entirely on the agenda items which are not disclosed in the headline.",
       "key_themes": [
-        "Corporate Governance",
-        "Low Liquidity"
+        "Governance",
+        "Shareholder Meeting"
       ]
     },
     {
@@ -97,11 +97,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/private-joint-stock-company-national-power-company-ukrenergo--sf22/consent-solicitation-and-tender-offer/9746317",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard corporate action for a non-UK listed entity with no direct trading presence on the London Stock Exchange; it holds zero relevance for UK equity investors and carries no market-moving implications.",
+      "impact_score": 8,
+      "insight": "This announcement indicates a formal process involving shareholder consent and tender offers, which typically signifies a significant corporate action such as a takeover bid, major restructuring, or capital change. Such events are material to shareholders as they may result in the exit of current holdings or substantial changes to the company's ownership structure.",
       "key_themes": [
-        "Corporate Action",
-        "Irrelevant"
+        "Corporate action",
+        "Shareholder consent",
+        "Tender offer"
       ]
     }
   ]

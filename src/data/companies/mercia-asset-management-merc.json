@@ -2,9 +2,20 @@
   "name": "Mercia Asset Management",
   "ticker": "MERC",
   "slug": "mercia-asset-management-merc",
-  "announcement_count": 15,
-  "latest_announcement": "2026-11-19T07:00:00",
+  "announcement_count": 16,
+  "latest_announcement": "2026-11-24T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T07:00:00",
+      "category": null,
+      "headline": "Investor Presentation",
+      "url": "https://www.investegate.co.uk/announcement/rns/mercia-asset-management--merc/investor-presentation/9889935",
+      "routine_type": "Administrative",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-19T07:00:00",
       "category": null,
@@ -92,11 +103,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/mercia-asset-management--merc/result-of-agm/9789367",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard post-meeting confirmation of shareholder approvals for routine governance matters, offering no new strategic direction or financial data to influence valuation.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of the Annual General Meeting, which is a standard governance procedure for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Disclosure"
+        "Governance",
+        "AGM"
       ]
     },
     {
@@ -164,12 +175,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/mercia-asset-management--merc/new-metro-bank-facilities/9683034",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The expansion of credit facilities with Metro Bank signals Mercia's intent to accelerate its buyout fund deployment in a competitive market, validating the firm's active investment strategy despite broader macroeconomic headwinds affecting private equity valuations.",
+      "impact_score": 3,
+      "insight": "This announcement indicates the establishment of new financial facilities, which typically signifies routine working capital management or refinancing activities rather than a transformative corporate event. Shareholders should view this as standard operational housekeeping with no immediate implication for share price direction.",
       "key_themes": [
-        "Private Equity",
-        "Capital Deployment",
-        "Liquidity"
+        "Financing",
+        "Corporate Actions"
       ]
     },
     {
@@ -179,12 +189,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/mercia-asset-management--merc/significant-new-investment-into-warwick-acoustics/9635573",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This investment highlights Mercia's active deployment of capital into the high-growth UK tech sector, reinforcing its strategy to capture value in deep-tech hardware and AI infrastructure amidst a broader market shift towards domestic innovation.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a new investment activity by the company, which may signal portfolio expansion but lacks specific details on financial impact or strategic rationale for shareholders.",
       "key_themes": [
-        "UK Tech",
-        "Portfolio Expansion",
-        "Deep Tech"
+        "Investment",
+        "Portfolio Activity"
       ]
     },
     {

@@ -2,9 +2,31 @@
   "name": "Intertek Group",
   "ticker": "ITRK",
   "slug": "intertek-group-itrk",
-  "announcement_count": 59,
-  "latest_announcement": "2026-11-20T10:46:00",
+  "announcement_count": 61,
+  "latest_announcement": "2026-11-24T16:12:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T16:12:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/intertek-group--itrk/holding-s-in-company/9891904",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-24T09:46:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/intertek-group--itrk/holding-s-in-company/9891107",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T10:46:00",
       "category": null,
@@ -345,12 +367,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/intertek-group--itrk/publ-of-offering-memorandum-other-documents/9787611",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement signals a capital raise, likely for debt reduction or organic growth, which is routine for Intertek's asset-light model but introduces dilution risk; it lacks the transformative nature of M&A or strategic pivots.",
+      "impact_score": 7,
+      "insight": "The publication of an offering memorandum typically signifies a capital raising activity, such as a new share issue or debt issuance, which can dilute existing shareholders or alter the company's financial structure. This type of announcement generally indicates a significant corporate finance event that may impact share price and ownership percentages.",
       "key_themes": [
-        "capital_raise",
-        "dilution_risk",
-        "corporate_action"
+        "Capital raise",
+        "Fundraising",
+        "Corporate action"
       ]
     },
     {
@@ -534,12 +556,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/intertek-group--itrk/update-on-bidco-financing-arrangements/9699282",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This update signals progress in the privatisation process led by Permira, reducing execution risk for the deal but offering no new fundamental value creation for public shareholders. It reflects the standard financing diligence phase of a leveraged buyout rather than a strategic shift in Intertek's operational trajectory.",
+      "impact_score": 7,
+      "insight": "This announcement indicates a potential change in ownership or significant capital restructuring involving a 'Bidco', which typically signals a possible offer or formal sale process for the company.",
       "key_themes": [
-        "Privatisation",
-        "LBO Financing",
-        "Permira"
+        "M&A",
+        "Corporate action"
       ]
     },
     {

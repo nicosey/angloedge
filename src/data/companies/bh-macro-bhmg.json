@@ -2,9 +2,20 @@
   "name": "BH Macro Ltd. GBP Shares",
   "ticker": "BHMG",
   "slug": "bh-macro-bhmg",
-  "announcement_count": 143,
-  "latest_announcement": "2026-11-23T10:13:00",
+  "announcement_count": 144,
+  "latest_announcement": "2026-11-24T09:23:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T09:23:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/prn/bh-macro-ltd-gbp-shares--bhmg/transaction-in-own-shares/9891007",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T10:13:00",
       "category": null,
@@ -255,11 +266,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/bh-macro-ltd-gbp-shares--bhmg/investor-statement-september-2026/9848225",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Investor statements are typically non-price-sensitive communications aimed at managing shareholder expectations rather than disclosing material financial data; without specific details on performance or strategy in the headline, this is likely routine housekeeping with negligible immediate market impact.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled periodic update to shareholders regarding the company's performance or position for the specified period. It provides transparency into operational progress but does not indicate any immediate material change in strategy or financial standing.",
       "key_themes": [
-        "investor relations",
-        "routine disclosure"
+        "Investor Update",
+        "Performance Review"
       ]
     },
     {
@@ -485,10 +496,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard regulatory filing required by the UK Corporate Governance Code for AIM-listed companies, ensuring compliance with transparency rules rather than signaling any material operational change or strategic shift.",
+      "insight": "This announcement generally signifies routine administrative compliance regarding transparency obligations rather than a substantive corporate event. It does not indicate any immediate financial impact or strategic change for shareholders.",
       "key_themes": [
-        "Regulatory Compliance",
-        "Corporate Governance"
+        "Governance",
+        "Administrative"
       ]
     },
     {
@@ -738,11 +749,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/bh-macro-ltd-gbp-shares--bhmg/appointment-of-joint-corporate-broker/9743385",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Appointing a joint corporate broker is a standard administrative step for liquidity management rather than a value-creating catalyst; in the current UK micro-cap environment, this signals a need for improved market access but lacks the transformative potential of M&A or significant capital raises.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the firm's financial advisory representation, which is a standard governance matter. It generally indicates an update to the company's corporate structure rather than a material operational or financial event.",
       "key_themes": [
-        "Corporate Governance",
-        "Liquidity"
+        "Governance",
+        "Corporate Services"
       ]
     },
     {
@@ -995,11 +1006,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/bh-macro-ltd-gbp-shares--bhmg/investor-statement/9694276",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Investor statements are typically non-binding communications aimed at managing sentiment rather than executing capital events; without details on specific share purchases or strategic shifts, the market impact is negligible compared to formal RNS filings.",
+      "impact_score": 5,
+      "insight": "An investor statement typically signifies that a significant shareholder is communicating their position or intentions to the market, which may influence governance or strategic direction. The specific nature and magnitude of any potential impact remain undefined by the headline alone.",
       "key_themes": [
-        "investor relations",
-        "market sentiment"
+        "Governance",
+        "Shareholder Activity"
       ]
     },
     {
@@ -1293,11 +1304,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/bh-macro-ltd-gbp-shares--bhmg/launch-of-new-private-fund-managed-by-brevan-/9642658",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement is an administrative update regarding a new product launch by the asset manager rather than a material event for BH Macro's own financial performance or valuation. It highlights Brevan Howard's continued expansion in private markets but offers no immediate catalyst for share price movement.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a new business initiative by the company, which may signal strategic expansion but lacks specific financial details to assess immediate shareholder value. Without further information on fees, capacity, or performance, it is classified as a standard operational update.",
       "key_themes": [
-        "Asset Management",
-        "Administrative"
+        "New product",
+        "Business development"
       ]
     },
     {

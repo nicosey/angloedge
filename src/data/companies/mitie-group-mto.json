@@ -2,9 +2,20 @@
   "name": "Mitie Group",
   "ticker": "MTO",
   "slug": "mitie-group-mto",
-  "announcement_count": 76,
-  "latest_announcement": "2026-11-20T13:00:00",
+  "announcement_count": 77,
+  "latest_announcement": "2026-11-24T12:30:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T12:30:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/mitie-group--mto/holding-s-in-company/9891539",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T13:00:00",
       "category": null,
@@ -235,11 +246,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/mitie-group--mto/update-on-regulatory-conditions/9836104",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Regulatory condition updates in the outsourced services sector typically involve minor compliance adjustments rather than fundamental business shifts; without details on material financial impact or operational disruption, this remains an administrative filing with negligible immediate market implication.",
+      "impact_score": 5,
+      "insight": "This announcement likely provides an update on compliance with regulatory requirements, which is significant for governance but lacks specific details on financial or operational impact in the headline.",
       "key_themes": [
-        "compliance",
-        "regulatory"
+        "Regulatory",
+        "Governance",
+        "Compliance"
       ]
     },
     {
@@ -378,10 +390,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard administrative filings with negligible immediate impact on Mitie's valuation or operational trajectory, reflecting no significant shift in insider sentiment regarding the company's restructuring efforts.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that provide transparency into insider trading activity but do not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -533,10 +545,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in the outsourced services sector typically reflect personal portfolio management rather than strategic shifts, offering limited signal on Mitie's operational outlook amidst ongoing margin pressures.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that provide transparency into insider trading activity but typically do not signal immediate strategic changes.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -546,11 +558,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/mitie-group--mto/offer-update/9746440",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Without the specific details of the update, this is likely a procedural clarification or minor adjustment to an existing offer, typical for Mitie's capital management activities rather than a strategic pivot.",
+      "impact_score": 7,
+      "insight": "An 'Offer update' typically signifies a development in a potential takeover bid or formal sale process, which is a material event for shareholders as it may lead to a change in control or a premium on the share price.",
       "key_themes": [
-        "Corporate Action",
-        "Capital Management"
+        "M&A",
+        "Corporate action"
       ]
     },
     {
@@ -810,10 +822,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in the outsourced services sector typically reflect personal portfolio management rather than strategic shifts, especially given Mitie's ongoing integration challenges and margin pressures.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into future performance but confirms compliance with insider dealing regulations.",
       "key_themes": [
-        "Corporate Governance",
-        "Minor Administrative"
+        "Director Dealing",
+        "Governance"
       ]
     },
     {

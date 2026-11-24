@@ -2,9 +2,20 @@
   "name": "Shell",
   "ticker": "SHEL",
   "slug": "shell-shel",
-  "announcement_count": 123,
-  "latest_announcement": "2026-11-23T14:19:00",
+  "announcement_count": 124,
+  "latest_announcement": "2026-11-24T10:35:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T10:35:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/gnw/shell--shel/transaction-in-own-shares/9891207",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T14:19:00",
       "category": null,
@@ -238,11 +249,11 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/shell--shel/shell-plc-2027-interim-dividend-timetable/9847175",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative notice confirming the payment schedule for the interim dividend, lacking any new strategic guidance or capital allocation shifts that would alter Shell's valuation profile.",
+      "impact_score": 3,
+      "insight": "This announcement provides the administrative timetable for an interim dividend payment. It signifies the scheduling of a routine distribution to shareholders without disclosing specific financial terms or amounts.",
       "key_themes": [
-        "Corporate Action",
-        "Dividend Payout"
+        "Dividend",
+        "Corporate action"
       ]
     },
     {
@@ -252,12 +263,11 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/shell--shel/shell-announces-commencement-of-a-share-buyba-/9847163",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This programme signals management's confidence in Shell's free cash flow generation amidst the energy transition, aligning with broader sector trends of majors prioritizing shareholder returns over aggressive growth to defend valuations against activist pressure.",
+      "impact_score": 4,
+      "insight": "This announcement signifies a commitment to returning capital to shareholders through share repurchases, which can support the stock price and earnings per share. The specific financial impact remains undefined based solely on this headline.",
       "key_themes": [
-        "capital allocation",
-        "shareholder return",
-        "energy sector strategy"
+        "Capital return",
+        "Shareholder value"
       ]
     },
     {
@@ -267,12 +277,11 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/shell--shel/shell-plc-third-quarter-2026-interim-dividend/9847164",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This interim dividend confirms Shell's continued commitment to shareholder returns despite the cyclical nature of upstream cash flows in 2026, reinforcing its position as a reliable income generator relative to peers like BP and TotalEnergies.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a scheduled distribution of profits to shareholders, which is a routine corporate action. It confirms the continuation of the dividend policy but does not indicate any change in the amount or terms.",
       "key_themes": [
-        "Shareholder Returns",
-        "Cash Flow Stability",
-        "Energy Sector Income"
+        "Dividend",
+        "Shareholder return"
       ]
     },
     {
@@ -282,12 +291,11 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/shell--shel/shell-plc-publishes-third-quarter-2026-press-/9847165",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a major integrated energy producer, Shell's Q3 results are critical for gauging the impact of sustained high oil prices and refining margins on downstream profitability, setting the tone for full-year guidance amidst ongoing global energy transition pressures.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled release of quarterly performance data, which is critical for shareholders to assess financial health and operational progress. The specific direction or magnitude of the results remains unknown from the headline alone.",
       "key_themes": [
-        "earnings",
-        "energy sector",
-        "quarterly results"
+        "Results",
+        "Quarterly Update"
       ]
     },
     {
@@ -532,10 +540,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in Shell are standard operational noise with negligible price impact, reflecting typical liquidity management rather than strategic signaling amidst current energy market volatility.",
+      "insight": "This announcement indicates that a person discharging managerial responsibilities has engaged in share transactions, which is a routine regulatory disclosure. It provides limited insight into future performance but confirms insider activity for transparency purposes.",
       "key_themes": [
-        "Corporate Governance",
-        "Market Neutrality"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -790,10 +798,9 @@
       "url": "https://www.investegate.co.uk/announcement/rns/shell--shel/shell/9746549",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "The headline 'Shell' under category 'Other' without specific details typically indicates a routine administrative filing, such as a notification of shareholding changes or minor corporate governance update, which has negligible immediate impact on valuation.",
+      "impact_score": 1,
+      "insight": "The headline provides no substantive information beyond the company name, indicating this is likely an administrative filing or a placeholder entry. Consequently, it offers no insight into shareholder value or corporate developments.",
       "key_themes": [
-        "Corporate Governance",
         "Administrative"
       ]
     },
@@ -1063,11 +1070,11 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/shell--shel/directorate-change/9696460",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine board-level personnel adjustments are standard governance mechanics for FTSE 100 majors like Shell and carry negligible direct financial or strategic weight compared to operational or capital allocation decisions.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the board composition, which is a standard governance event. While significant for oversight, it typically does not imply immediate strategic shifts or financial impacts without further details.",
       "key_themes": [
-        "Corporate Governance",
-        "Board Composition"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -1077,12 +1084,11 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/shell--shel/shell-announces-commencement-of-a-share-buyba-/9694971",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This programme signals management's confidence in Shell's free cash flow generation and commitment to returning capital amidst the energy transition, aligning with peer strategies like BP and TotalEnergies to support share prices through volatile oil markets.",
+      "impact_score": 4,
+      "insight": "This announcement signifies a commitment to returning capital to shareholders through share repurchases, which can support the stock price and earnings per share. The specific scale and financial impact remain undefined in the headline.",
       "key_themes": [
-        "capital allocation",
-        "shareholder returns",
-        "energy sector"
+        "Capital return",
+        "Shareholder value"
       ]
     },
     {
@@ -1092,12 +1098,11 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/shell--shel/shell-plc-second-quarter-2026-interim-dividen-/9694969",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The declaration of an interim dividend confirms Shell's commitment to shareholder returns despite the cyclical nature of upstream cash flows in 2026. This routine capital allocation reinforces its position as a reliable income generator within the energy sector, though it lacks the transformative catalyst required for higher market re-rating.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a scheduled distribution of profits to shareholders, indicating ongoing capital return policies. It confirms the continuation of dividend payments without providing details on the specific amount or changes in policy.",
       "key_themes": [
-        "shareholder yield",
-        "capital allocation",
-        "upstream cash flow"
+        "Dividend",
+        "Capital Return"
       ]
     },
     {
@@ -1108,11 +1113,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This Q2 2026 earnings release is a critical inflection point for Shell's strategy to balance shareholder returns with energy transition capex; market focus will be on upstream production resilience and downstream refining margins amidst volatile global demand.",
+      "insight": "This announcement signifies a scheduled release of quarterly performance data, which is critical for shareholders to assess ongoing operational progress and financial health. The specific direction or magnitude of the results remains unknown from the headline alone.",
       "key_themes": [
-        "quarterly results",
-        "upstream performance",
-        "capital allocation"
+        "Results",
+        "Quarterly Update"
       ]
     },
     {
@@ -1239,11 +1243,11 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/shell--shel/voting-rights-and-capital/9645300",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing updating the register of voting rights following routine share issuance or buyback activity, lacking any signal for strategic shifts or material capital allocation changes typical of high-impact events.",
+      "impact_score": 3,
+      "insight": "This announcement typically signifies a routine update regarding the number of voting rights held by major shareholders or changes to the company's share capital structure. It generally reflects standard regulatory compliance rather than a material strategic shift.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Structure"
+        "Governance",
+        "Capital"
       ]
     },
     {

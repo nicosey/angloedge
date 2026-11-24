@@ -2,9 +2,37 @@
   "name": "LEVERAGE SHARES PUBLIC LIMITED COMPANY",
   "ticker": "STAE",
   "slug": "leverage-shares-stae",
-  "announcement_count": 3,
-  "latest_announcement": "2026-07-09T12:34:00",
+  "announcement_count": 5,
+  "latest_announcement": "2026-11-24T08:30:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T08:30:00",
+      "category": null,
+      "headline": "Replacement Intraday Rebalance Notice - -3x EWT",
+      "url": "https://www.investegate.co.uk/announcement/rns/leverage-shares-public-limited-company--stae/replacement-intraday-rebalance-notice-3x-ewt/9890874",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This notice indicates a routine operational adjustment to the intraday rebalancing schedule of an exchange-traded product. It signifies administrative housekeeping rather than a material change in strategy or financial performance.",
+      "key_themes": [
+        "Operational Update",
+        "Administrative"
+      ]
+    },
+    {
+      "timestamp": "2026-11-23T18:13:00",
+      "category": null,
+      "headline": "Intraday Rebalance Notice - -3x EWT",
+      "url": "https://www.investegate.co.uk/announcement/rns/leverage-shares-public-limited-company--stae/intraday-rebalance-notice-3x-ewt/9889755",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This notice indicates a routine operational adjustment to the fund's leverage ratio rather than a strategic corporate event. It signifies standard management activity for an exchange-traded product without implying changes to the underlying company's value or governance.",
+      "key_themes": [
+        "Operational",
+        "Fund Management"
+      ]
+    },
     {
       "timestamp": "2026-07-09T12:34:00",
       "category": "Results",
@@ -26,10 +54,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/leverage-shares-public-limited-company--stae/notice-of-adjourned-meeting-3x-short-taiwan-etp/9631547",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative notice regarding the scheduling of a shareholder meeting for an ETP issuer, indicating no immediate material change to the underlying asset's performance or the fund's structure.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that a meeting related to the -3x Short Taiwan ETP has been postponed, which is an administrative procedural update. It does not convey substantive changes to the fund's strategy or performance for shareholders.",
       "key_themes": [
-        "Corporate Governance",
+        "Governance",
         "Administrative"
       ]
     },

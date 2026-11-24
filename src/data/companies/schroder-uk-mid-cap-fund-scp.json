@@ -2,9 +2,20 @@
   "name": "Schroder UK Mid Cap Fund",
   "ticker": "SCP",
   "slug": "schroder-uk-mid-cap-fund-scp",
-  "announcement_count": 59,
-  "latest_announcement": "2026-11-20T17:34:00",
+  "announcement_count": 60,
+  "latest_announcement": "2026-11-23T17:22:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T17:22:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/schroder-uk-mid-cap-fund--scp/transaction-in-own-shares/9889723",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T17:34:00",
       "category": null,
@@ -112,10 +123,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard regulatory compliance filing confirming adherence to Market Abuse Regulation (MAR) obligations, likely regarding insider lists or market soundings, rather than a substantive corporate event. It carries no immediate pricing implication for the fund's underlying assets or NAV.",
+      "insight": "This announcement signifies routine regulatory compliance rather than a material corporate event, indicating no immediate change to the company's operational or financial standing for shareholders.",
       "key_themes": [
-        "Regulatory Compliance",
-        "Administrative"
+        "Compliance",
+        "Governance"
       ]
     },
     {
@@ -125,11 +136,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-uk-mid-cap-fund--scp/portfolio-update/9841504",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "As a periodic portfolio update for an investment trust rather than a corporate earnings release, this announcement provides no new material information regarding financial performance or strategic shifts, reflecting standard transparency practices rather than market-moving events.",
+      "impact_score": 5,
+      "insight": "This announcement provides a scheduled update on the fund's portfolio composition, which is routine for investment trusts but offers insight into current holdings and strategy without indicating immediate financial performance or strategic shifts.",
       "key_themes": [
-        "transparency",
-        "routine"
+        "Portfolio Update",
+        "Investment Trust"
       ]
     },
     {
@@ -315,11 +326,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-uk-mid-cap-fund--scp/portfolio-update/9746534",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Portfolio updates are informational disclosures that do not alter the fund's NAV or trigger immediate trading signals; they serve primarily for transparency rather than indicating a shift in investment thesis or risk profile.",
+      "impact_score": 5,
+      "insight": "This announcement likely provides a scheduled update on the fund's portfolio performance or holdings, which is standard periodic reporting for investment funds. It offers shareholders insight into current asset allocation and strategy without indicating any immediate material change to the fund's structure or value.",
       "key_themes": [
-        "transparency",
-        "routine_disclosure"
+        "Portfolio Update",
+        "Performance Reporting"
       ]
     },
     {
@@ -486,12 +497,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-uk-mid-cap-fund--scp/dividend-declaration/9640664",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This declaration confirms the fund's ongoing commitment to income generation within a challenging UK mid-cap environment, reflecting manager confidence in underlying portfolio cash flows despite broader market volatility.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a scheduled distribution of profits to shareholders, which is a routine corporate action for investment funds. It confirms the payment of income but does not indicate any change in strategy or performance.",
       "key_themes": [
-        "income",
-        "asset_management",
-        "uk_equity"
+        "Dividend",
+        "Income"
       ]
     },
     {

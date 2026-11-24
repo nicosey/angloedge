@@ -2,9 +2,20 @@
   "name": "Midwich Group",
   "ticker": "MIDW",
   "slug": "midwich-group-midw",
-  "announcement_count": 10,
-  "latest_announcement": "2026-11-23T14:13:00",
+  "announcement_count": 11,
+  "latest_announcement": "2026-11-24T12:27:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T12:27:00",
+      "category": null,
+      "headline": "Holdings in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/midwich-group--midw/holdings-in-company/9891535",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T14:13:00",
       "category": null,
@@ -35,10 +46,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard administrative disclosures with negligible immediate impact on Midwich's valuation or operational trajectory in the competitive IT distribution sector.",
+      "insight": "This announcement relates to director share dealings, which generally signifies routine insider activity rather than a significant corporate event. Shareholders should note that such disclosures are standard governance requirements and do not inherently indicate a change in the company's strategic direction or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Minor Administrative"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {

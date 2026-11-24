@@ -2,9 +2,23 @@
   "name": "IQE",
   "ticker": "IQE",
   "slug": "iqe-iqe",
-  "announcement_count": 25,
-  "latest_announcement": "2026-11-11T07:00:00",
+  "announcement_count": 26,
+  "latest_announcement": "2026-11-24T12:40:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T12:40:00",
+      "category": "Director Dealing",
+      "headline": "IQE plc: Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/iqe--iqe/iqe-plc-director-pdmr-shareholding/9891556",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement discloses transactions by a person discharging managerial responsibilities, which is a routine regulatory filing. It provides limited insight into future performance but may signal insider sentiment regarding the company's prospects.",
+      "key_themes": [
+        "Governance",
+        "Director Dealings"
+      ]
+    },
     {
       "timestamp": "2026-11-11T07:00:00",
       "category": null,
@@ -68,10 +82,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in the semiconductor equipment sector typically signal internal alignment rather than strategic shifts, especially given IQE's historical volatility and reliance on foundry capex cycles.",
+      "insight": "This announcement discloses transactions by directors or persons discharging managerial responsibilities, which is a standard governance update. It provides limited insight into future performance but confirms insider activity levels.",
       "key_themes": [
-        "corporate governance",
-        "semiconductor supply chain"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -168,11 +182,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/iqe--iqe/results-of-annual-general-meeting/9645208",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine AGM results typically confirm shareholder approval of standard governance matters without introducing new strategic direction or capital allocation changes, reflecting the low volatility and administrative nature of this corporate action.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a scheduled Annual General Meeting, which typically involves routine shareholder approvals such as director reappointments and auditor appointments. It signifies standard corporate governance compliance rather than any material change to the company's financial position or strategic direction.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {

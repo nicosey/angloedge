@@ -2,9 +2,20 @@
   "name": "Palace Capital",
   "ticker": "PCA",
   "slug": "palace-capital-pca",
-  "announcement_count": 15,
-  "latest_announcement": "2026-10-12T17:04:00",
+  "announcement_count": 16,
+  "latest_announcement": "2026-11-24T10:56:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T10:56:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/palace-capital--pca/holding-s-in-company/9891237",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-10-12T17:04:00",
       "category": null,
@@ -35,10 +46,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine PDMR dealings for a small-cap investment trust typically signal negligible market impact unless volume is exceptional; without specific transaction values, this remains an administrative disclosure with no strategic implication.",
+      "insight": "This announcement confirms that a person discharging managerial responsibilities has executed a transaction in the company's shares. Such filings are routine regulatory disclosures that provide transparency into insider trading activity but do not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Minor",
-        "Administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -118,11 +129,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/palace-capital--pca/launch-of-buyback-programme/9643044",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine capital return mechanism for a small-cap investment trust; lacks the scale or strategic pivot required to move valuation metrics significantly in the current high-rate environment.",
+      "impact_score": 4,
+      "insight": "This announcement signifies a potential return of capital to shareholders through share repurchases, which may support the share price but typically has limited immediate strategic impact compared to major corporate actions.",
       "key_themes": [
-        "capital allocation",
-        "small-cap"
+        "Share Buyback",
+        "Capital Return"
       ]
     },
     {
@@ -132,11 +143,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/palace-capital--pca/results-of-general-meeting/9642677",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the AGM/EGM, which typically ratifies routine matters such as director reappointments or fee approvals rather than signaling strategic shifts.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves shareholder votes on routine governance matters or specific proposals. It serves as a formal record of decisions made by the company's owners.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder Vote"
       ]
     },
     {
@@ -146,11 +157,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/palace-capital--pca/voting-intentions-at-future-general-meetings/9634980",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative disclosure regarding shareholder voting protocols for Palace Capital, lacking any material financial data or strategic shifts that would influence valuation.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that the company is providing guidance on how it intends to vote at upcoming shareholder meetings, which is a standard governance disclosure. It does not suggest any immediate material change in strategy or corporate control.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Governance",
+        "Shareholder Rights"
       ]
     },
     {

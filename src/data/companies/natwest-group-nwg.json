@@ -2,9 +2,23 @@
   "name": "NATWEST GROUP",
   "ticker": "NWG",
   "slug": "natwest-group-nwg",
-  "announcement_count": 53,
-  "latest_announcement": "2026-11-23T14:00:00",
+  "announcement_count": 54,
+  "latest_announcement": "2026-11-24T16:03:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T16:03:00",
+      "category": "Dividend",
+      "headline": "Dividend Declaration",
+      "url": "https://www.investegate.co.uk/announcement/rns/natwest-group--nwg/dividend-declaration/9891901",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement signifies a formal declaration of dividends by the company, which typically indicates ongoing shareholder returns. It generally confirms that profits are being distributed to investors rather than retained for growth or debt reduction.",
+      "key_themes": [
+        "Dividend",
+        "Shareholder return"
+      ]
+    },
     {
       "timestamp": "2026-11-23T14:00:00",
       "category": "Director Dealing",
@@ -13,10 +27,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in major UK banks are typically low-impact administrative events rather than signals of strategic shift; without volume or price context, this lacks the weight to influence NWG's valuation trajectory.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that provide transparency into insider trading activity but typically do not signal significant strategic changes on their own.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -88,10 +102,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine PDMR disclosures are standard regulatory requirements with negligible immediate market impact; however, in the current UK banking sector context of high interest rates and potential dividend reinstatement, any net buying by senior executives could signal internal confidence in NWG's capital position.",
+      "insight": "This announcement relates to director shareholdings, which typically signifies routine compliance reporting rather than a significant strategic shift. It generally has limited immediate impact on shareholder value unless it indicates unusual trading patterns by key executives.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -112,11 +126,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/natwest-group--nwg/natwest-group-q3-2026-interim-management-statement/9849208",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a major UK banking index constituent, NWG's interim update provides critical visibility into net interest margin resilience and credit cost normalization amidst the current high-rate environment, directly influencing sector-wide valuation multiples.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled interim performance update for shareholders, providing visibility into recent operational progress without indicating the direction of results.",
       "key_themes": [
-        "interim results",
-        "UK banking sector"
+        "Results",
+        "Interim Update"
       ]
     },
     {
@@ -188,10 +202,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in UK banking typically reflect personal liquidity management rather than strategic conviction shifts; without volume context or insider cluster activity, this holds negligible predictive value for NWG's valuation.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine compliance filings rather than significant strategic shifts. Such disclosures generally have minimal immediate impact on shareholder value unless they signal unusual insider sentiment.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -212,11 +226,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/natwest-group--nwg/board-committee-chair-succession/9797186",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard governance update regarding committee leadership rather than executive succession, indicating continuity in oversight without altering the bank's strategic direction or risk profile.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a scheduled change in board committee leadership, which is a routine governance matter. It signifies continuity in oversight rather than a strategic shift or significant operational event.",
       "key_themes": [
-        "Corporate Governance",
-        "Board Composition"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -238,10 +252,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in major UK banks are typically low-impact administrative events rather than signals of strategic shift, especially given the current regulatory scrutiny on executive remuneration and share-based pay structures.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that confirm compliance with insider dealing rules rather than signaling specific strategic changes.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -453,12 +467,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/natwest-group--nwg/natwest-group-plc-interim-results-2026-part-2/9697136",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a major UK lender, NatWest's interim results provide critical visibility on net interest margin resilience amid persistent rate uncertainty and credit cost normalization. The outcome will heavily influence market sentiment regarding the bank's capacity to sustain dividend growth and fund strategic capital returns in a competitive deposit environment.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled interim results release, which provides shareholders with an update on the company's financial performance and operational progress for the period. The specific direction of the results is not indicated in the headline.",
       "key_themes": [
-        "Interim Results",
-        "UK Banking Sector",
-        "Net Interest Margin"
+        "Results"
       ]
     },
     {
@@ -540,11 +552,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/natwest-group--nwg/directorate-change/9642511",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine board-level personnel adjustments are standard operational noise for major UK banks like NatWest, lacking the material financial impact of M&A or earnings warnings.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the board composition, which is a standard governance update. Shareholders should monitor subsequent filings for details on the specific roles and responsibilities of the new directors.",
       "key_themes": [
-        "corporate_governance",
-        "board_composition"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -555,10 +567,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings at NatWest typically reflect individual portfolio management rather than institutional sentiment shifts, offering negligible signal for the broader UK banking sector amidst current interest rate and credit cycle uncertainties.",
+      "insight": "This announcement relates to director shareholdings, which typically signifies routine compliance with insider dealing regulations rather than a significant strategic shift. It generally has minimal immediate impact on shareholder value unless it signals unusual confidence or lack thereof by management.",
       "key_themes": [
-        "Director Dealing",
-        "Low Impact"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {

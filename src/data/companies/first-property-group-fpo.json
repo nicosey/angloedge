@@ -27,9 +27,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure for a director's associate purchase, lacking the transformative weight of executive leadership changes or major capital events typical of higher-impact scores in the UK property sector.",
+      "insight": "This announcement indicates a director has purchased shares through an associate, which is a standard disclosure of insider trading activity. Such dealings provide limited insight into future performance but may signal personal confidence in the company's value.",
       "key_themes": [
-        "Corporate Governance",
+        "Director Dealing",
         "Insider Activity"
       ]
     },
@@ -41,10 +41,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director share purchase by an associate reflects standard personal portfolio management rather than a significant signal of corporate confidence or strategic shift in the current UK property sector.",
+      "insight": "This announcement indicates a director has purchased shares through an associate, which is a standard disclosure of insider trading activity. Such dealings generally signal personal investment decisions rather than specific corporate developments or strategic shifts.",
       "key_themes": [
-        "minor_administrative",
-        "director_dealing"
+        "Director Dealings",
+        "Insider Activity"
       ]
     },
     {
@@ -55,10 +55,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director share purchases in the UK property sector often signal internal confidence but lack the transformative scale of M&A or capital raises; current market focus remains on interest rate sensitivity and refinancing risks rather than individual insider transactions.",
+      "insight": "This announcement indicates a director has purchased shares through an associate, which is a standard disclosure of insider activity. Such dealings generally signal personal investment decisions rather than specific corporate developments or strategic shifts.",
       "key_themes": [
-        "Insider Confidence",
-        "UK Real Estate"
+        "Director Dealings",
+        "Insider Activity"
       ]
     },
     {
@@ -68,11 +68,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/first-property-group--fpo/result-of-agm/9789807",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the Annual General Meeting, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital events.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which is a routine governance event for shareholders. It typically involves the ratification of standard resolutions rather than material corporate changes.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder Meeting"
       ]
     },
     {
@@ -83,10 +83,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of a director's personal transaction rather than a corporate strategic move; in the current UK property sector context, such minor dealings offer no signal of institutional conviction or fundamental shift.",
+      "insight": "This announcement indicates a director has purchased shares through an associate, which is generally viewed as a positive signal of internal confidence in the company's value. Such transactions are routine governance disclosures that typically carry low immediate financial impact for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Director Dealings",
+        "Governance"
       ]
     },
     {
@@ -107,11 +107,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/first-property-group--fpo/preliminary-results/9635418",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a highly leveraged property investment trust, FPO's results are critical for assessing its solvency amidst the UK commercial real estate credit crunch; any deviation in NAV or dividend coverage will trigger immediate repricing due to high gearing risks.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of preliminary financial results, which is a scheduled event providing shareholders with an initial overview of the company's recent performance.",
       "key_themes": [
-        "Commercial Real Estate",
-        "Leverage Risk"
+        "Results"
       ]
     }
   ]

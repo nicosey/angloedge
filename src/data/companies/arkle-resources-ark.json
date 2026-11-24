@@ -39,10 +39,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "CEO interviews serve primarily as investor relations tools to maintain visibility rather than conveying material operational milestones; without accompanying assay results or resource estimates, this announcement lacks the fundamental catalysts required for valuation re-rating in the junior mining sector.",
+      "insight": "This announcement represents a media engagement rather than a formal regulatory filing, typically serving to communicate management perspectives or market views rather than disclosing binding corporate actions or financial data.",
       "key_themes": [
         "Investor Relations",
-        "Market Sentiment"
+        "Market Commentary"
       ]
     },
     {
@@ -107,11 +107,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/arkle-resources-cdi---ark/admission-to-otcid-basic-market-in-united-states/9697123",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Admission to the OTCID Basic Market is a low-liquidity administrative listing with negligible commercial impact for Arkle Resources, reflecting standard compliance rather than strategic growth or capital raising.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a change in the listing status of the company's shares to an over-the-counter market in the United States. For shareholders, this primarily affects the liquidity and accessibility of the stock for US-based investors rather than altering the company's fundamental operations.",
       "key_themes": [
-        "OTC Markets",
-        "Administrative"
+        "Listing Change",
+        "Regulatory"
       ]
     },
     {
@@ -121,11 +121,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/arkle-resources-cdi---ark/result-of-agm/9684851",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director re-election and auditor appointment rather than strategic shifts or capital events.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or auditor appointments. It signifies standard corporate governance compliance rather than any material change to the company's strategic direction or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -135,11 +135,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/arkle-resources-cdi---ark/stonepark-zinc-update-new-zone-discovered/9683933",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The discovery of a new zinc zone at Stonepark validates the asset's potential as a critical supply source for the EV battery market, potentially de-risking the project and enhancing valuation multiples in the current base metals rally.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a potential expansion of the resource base for the project mentioned in the headline, which is generally viewed as positive for exploration-stage companies seeking to demonstrate growth. The discovery of a new zone suggests ongoing exploration success but lacks specific details on scale or economic viability.",
       "key_themes": [
-        "Exploration Success",
-        "Zinc Supply Chain"
+        "Exploration update",
+        "Resource discovery"
       ]
     },
     {
@@ -199,11 +199,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/arkle-resources-cdi---ark/publication-of-annual-report-and-accounts/9641824",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine publication of annual accounts for a junior exploration entity typically carries minimal immediate market impact unless accompanied by significant reserve upgrades or financing announcements.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of the company's annual financial statements, which are essential for shareholders to assess historical performance and governance. The specific direction or magnitude of the results is not indicated by the headline alone.",
       "key_themes": [
-        "Corporate Reporting",
-        "Junior Mining"
+        "Results",
+        "Governance"
       ]
     },
     {
@@ -213,11 +213,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/arkle-resources-cdi---ark/notice-of-investor-webcast/9640593",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative notice for an investor webcast, which lacks the substantive catalysts required to move the share price of a small-cap resource explorer like Arkle Resources.",
+      "impact_score": 3,
+      "insight": "This notice indicates a scheduled communication event for investors, which typically serves to provide updates or answer questions but does not inherently signal material financial changes or strategic shifts.",
       "key_themes": [
         "Investor Relations",
-        "Administrative"
+        "Communication"
       ]
     },
     {
@@ -227,12 +227,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/arkle-resources-cdi---ark/preliminary-results-for-year-ended-31-dec-2025/9630731",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a junior explorer, the release of preliminary results is routine but critical for validating exploration spend against cash burn; without specific reserve upgrades or major discovery announcements, this remains a standard compliance update rather than a value driver.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled annual financial results for the company. The specific direction or magnitude of the performance is not indicated by the headline alone.",
       "key_themes": [
-        "exploration",
-        "cash_burn",
-        "junior_miner"
+        "Results"
       ]
     },
     {

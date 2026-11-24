@@ -2,9 +2,20 @@
   "name": "Gamma Communications",
   "ticker": "GAMA",
   "slug": "gamma-communications-gama",
-  "announcement_count": 66,
-  "latest_announcement": "2026-11-23T10:48:00",
+  "announcement_count": 67,
+  "latest_announcement": "2026-11-24T13:36:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T13:36:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/gamma-communications--gama/holding-s-in-company/9891652",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T10:48:00",
       "category": null,
@@ -499,11 +510,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/gamma-communications--gama/gamma-communications-deadline-for-clarification/9795258",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory compliance deadline for an RNS clarification request, indicating no immediate material news but highlighting ongoing scrutiny of the company's disclosures by the FCA or market participants.",
+      "impact_score": 6,
+      "insight": "This announcement indicates that regulatory authorities require clarification regarding a previous disclosure, suggesting potential governance scrutiny or compliance issues for shareholders.",
       "key_themes": [
-        "regulatory_compliance",
-        "market_transparency"
+        "Governance",
+        "Regulatory Compliance"
       ]
     },
     {
@@ -524,11 +535,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/gamma-communications--gama/publication-of-scheme-document/9790275",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The publication of the Scheme Document marks a critical procedural milestone in Gamma's proposed acquisition by Vodafone, transitioning the deal from proposal to shareholder vote and reducing execution uncertainty for investors.",
+      "impact_score": 8,
+      "insight": "A scheme document publication indicates a formal statutory process is underway, typically involving a takeover bid or significant corporate restructuring that requires shareholder approval. This represents a critical stage in potential M&A activity with high implications for share value and ownership.",
       "key_themes": [
         "M&A",
-        "Telecoms Consolidation"
+        "Corporate action",
+        "Shareholder vote"
       ]
     },
     {
@@ -550,11 +562,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Berry Street's opening position signals potential activist interest in Gamma Communications' capital allocation strategy, a common catalyst for UK mid-cap telecoms firms facing margin pressure and consolidation trends.",
+      "insight": "This announcement indicates that an external entity has disclosed a new shareholding position in the company, which is a standard regulatory filing. It signals potential investor interest but does not inherently imply any immediate change to the company's operations or value.",
       "key_themes": [
-        "activist investor",
-        "capital allocation",
-        "telecoms sector"
+        "Shareholder disclosure",
+        "Governance"
       ]
     },
     {
@@ -713,12 +724,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/gamma-communications--gama/possible-offer-for-gamma-communications-plc/9634257",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 9,
-      "insight": "A possible offer for a mid-cap telecoms infrastructure provider like Gamma Communications signals potential strategic consolidation in the UK connectivity market, often leading to premium valuations and sector re-rating.",
+      "impact_score": 7,
+      "insight": "This headline indicates a potential takeover bid for the company, which typically presents shareholders with a significant decision regarding their investment. Such announcements often lead to substantial share price volatility as the market assesses the likelihood and terms of the offer.",
       "key_themes": [
         "M&A",
-        "Telecoms Infrastructure",
-        "Control Premium"
+        "Takeover"
       ]
     },
     {
@@ -728,12 +738,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/gamma-communications--gama/statement-of-intention-not-to-make-an-offer/9634179",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This confirms the absence of an immediate takeover bid, removing short-term speculative upside for GAMA shares; in the fragmented UK telecoms sector, this delays potential consolidation premiums but leaves the stock exposed to organic growth risks and competitive pricing pressures.",
+      "impact_score": 7,
+      "insight": "This announcement indicates that a potential takeover bid or formal sale process has been abandoned, removing immediate uncertainty regarding a change in control. Shareholders should anticipate continued independent trading without the premium typically associated with an active offer.",
       "key_themes": [
-        "M&A speculation",
-        "Market sentiment",
-        "UK Telecoms"
+        "M&A",
+        "Corporate action"
       ]
     },
     {

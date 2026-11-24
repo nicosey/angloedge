@@ -2,9 +2,47 @@
   "name": "GB Group",
   "ticker": "GBG",
   "slug": "gb-group-gbg",
-  "announcement_count": 36,
-  "latest_announcement": "2026-11-18T16:28:00",
+  "announcement_count": 39,
+  "latest_announcement": "2026-11-24T10:53:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T10:53:00",
+      "category": null,
+      "headline": "TR-1: Notification of major holdings",
+      "url": "https://www.investegate.co.uk/announcement/rns/gb-group--gbg/tr-1-notification-of-major-holdings-/9891233",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-24T07:00:00",
+      "category": null,
+      "headline": "Director change",
+      "url": "https://www.investegate.co.uk/announcement/rns/gb-group--gbg/director-change-/9889969",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the board composition, which is a standard governance event. Without further details on the role or reason for the change, it represents routine administrative activity rather than a material strategic shift.",
+      "key_themes": [
+        "Governance",
+        "Board Change"
+      ]
+    },
+    {
+      "timestamp": "2026-11-24T07:00:00",
+      "category": "Results",
+      "headline": "Half Year Results",
+      "url": "https://www.investegate.co.uk/announcement/rns/gb-group--gbg/half-year-results-/9889931",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled release of half-year financial results, which provides shareholders with an update on the company's performance and financial position for the period.",
+      "key_themes": [
+        "Results"
+      ]
+    },
     {
       "timestamp": "2026-11-18T16:28:00",
       "category": null,
@@ -67,11 +105,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/gb-group--gbg/board-change-/9837616",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine board changes in the B2B data verification sector typically signal incremental governance adjustments rather than strategic pivots, lacking the immediate catalyst for significant re-rating seen in major M&A or leadership crises.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the board composition, which is typically classified as a standard governance update. It generally signifies routine administrative adjustments rather than a transformative event for shareholders.",
       "key_themes": [
         "Governance",
-        "Corporate Action"
+        "Board Change"
       ]
     },
     {
@@ -276,10 +314,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard PDMR notification with no disclosed transaction value or direction, rendering it informationally neutral for immediate price discovery. In the current GBG context of ongoing restructuring and debt reduction, such routine filings lack the strategic weight to influence market sentiment.",
+      "insight": "This announcement signifies a standard regulatory disclosure of transactions by persons discharging managerial responsibilities, which is routine administrative housekeeping. It provides transparency regarding insider trading activity but does not inherently indicate a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -290,10 +328,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine share purchase by GBG typically reflects standard treasury management or minor employee scheme fulfillment rather than a strategic signal; without disclosure of significant volume or insider status, this lacks the weight to influence valuation multiples in the competitive identity verification sector.",
+      "insight": "This announcement typically signifies that a director or substantial shareholder has bought shares in the company, which may indicate confidence in its future prospects. It is generally considered a minor corporate governance event with limited immediate financial impact.",
       "key_themes": [
-        "Corporate Action",
-        "Minor Admin"
+        "Director dealings",
+        "Shareholder activity"
       ]
     },
     {

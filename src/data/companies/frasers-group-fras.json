@@ -2,9 +2,37 @@
   "name": "Frasers Group",
   "ticker": "FRAS",
   "slug": "frasers-group-fras",
-  "announcement_count": 33,
-  "latest_announcement": "2026-11-23T10:12:00",
+  "announcement_count": 35,
+  "latest_announcement": "2026-11-24T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T07:00:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/director-pdmr-shareholding/9889938",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities. Such disclosures are standard governance requirements and generally carry low immediate significance for shareholder value.",
+      "key_themes": [
+        "Governance",
+        "Director Dealings"
+      ]
+    },
+    {
+      "timestamp": "2026-11-24T07:00:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/director-pdmr-shareholding/9889916",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement relates to director shareholdings, which typically indicates routine regulatory disclosure of insider transactions rather than a significant corporate event. Such filings provide transparency regarding insider activity but generally carry low immediate impact on shareholder value.",
+      "key_themes": [
+        "Governance",
+        "Director Dealings"
+      ]
+    },
     {
       "timestamp": "2026-11-23T10:12:00",
       "category": null,
@@ -24,10 +52,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory disclosure of insider transactions which provides minimal alpha given the lack of volume context or price sensitivity; typical for high-float retailers like Frasers where individual director dealings rarely signal strategic shifts.",
+      "insight": "This announcement relates to director shareholdings, which typically signifies routine insider activity rather than a significant corporate event. It generally indicates standard compliance with disclosure regulations regarding PDMR transactions.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_signal"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -224,11 +252,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/frasers-group--fras/update-on-investment-in-hugo-boss/9839834",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This update likely reflects standard portfolio monitoring of a non-core asset rather than a strategic pivot; without details on significant divestment or impairment, the market will view this as low-impact noise against FRAS's core operational performance.",
+      "impact_score": 7,
+      "insight": "This announcement likely details a significant strategic move regarding an investment in HUGO BOSS, which could materially affect the company's portfolio or financial position. Shareholders should anticipate potential implications for valuation or future strategy based on the nature of this update.",
       "key_themes": [
-        "portfolio management",
-        "non-core assets"
+        "Investment",
+        "Strategic Update"
       ]
     },
     {
@@ -411,11 +439,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 8,
-      "insight": "Frasers Group's cash offer for Hugo Boss represents a transformative cross-border M&A move that could fundamentally restructure the global luxury retail landscape, leveraging Frasers' operational efficiency to unlock value in a sector facing significant headwinds.",
+      "insight": "This announcement provides further details regarding a cash offer for another entity, indicating an active acquisition process that may impact the company's strategic direction and capital allocation. Shareholders should monitor this development as it represents a material corporate action involving potential changes to the group's portfolio.",
       "key_themes": [
         "M&A",
-        "Luxury Retail",
-        "Strategic Acquisition"
+        "Corporate Action"
       ]
     },
     {

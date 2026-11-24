@@ -2,9 +2,42 @@
   "name": "Barclays",
   "ticker": "BARC",
   "slug": "barclays-barc",
-  "announcement_count": 419,
-  "latest_announcement": "2026-11-23T11:24:00",
+  "announcement_count": 422,
+  "latest_announcement": "2026-11-24T11:51:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T11:51:00",
+      "category": null,
+      "headline": "Form 38.5 B DCC ENERGY PLC",
+      "url": "https://www.investegate.co.uk/announcement/rns/barclays--barc/form-38-5-b-dcc-energy-plc/9891407",
+      "routine_type": "Form 38.5",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-24T11:51:00",
+      "category": null,
+      "headline": "IrishForm38.5BIRISHRESIDENTIALPROPERTIESREITPLC",
+      "url": "https://www.investegate.co.uk/announcement/rns/barclays--barc/irishform38-5birishresidentialpropertiesreitplc/9891406",
+      "routine_type": "Form 38.5",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-24T08:58:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/barclays--barc/holding-s-in-company/9890903",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T11:24:00",
       "category": null,
@@ -774,12 +807,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/barclays--barc/future-commencement-of-buy-back-programme/9838417",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This announcement signals Barclays' intent to return capital to shareholders, aligning with the broader UK banking sector's shift towards buybacks following regulatory approval of dividend policies. While positive for EPS accretion, the actual market impact will depend on the scale and timing relative to current interest rate expectations.",
+      "impact_score": 4,
+      "insight": "This announcement indicates that a share buyback programme is anticipated, which generally signifies capital return to shareholders but lacks specific details on timing or scale.",
       "key_themes": [
-        "capital return",
-        "shareholder yield",
-        "banking sector"
+        "Share Buyback",
+        "Capital Return"
       ]
     },
     {
@@ -1562,11 +1594,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/barclays--barc/board-committee-change/9790182",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine governance adjustment with no immediate financial or strategic implication for Barclays' core banking operations or capital position.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a routine adjustment to the board's internal structure, which is typical for ongoing corporate governance and does not inherently indicate a change in strategic direction or financial performance.",
       "key_themes": [
         "Governance",
-        "Corporate Action"
+        "Board Change"
       ]
     },
     {
@@ -2763,10 +2795,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible market impact; without specific transaction values indicating significant insider conviction or divestment, these filings do not signal strategic shifts in the UK banking sector.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with responsibility for managing the company rather than significant strategic shifts. Such disclosures are generally considered low-impact administrative housekeeping for shareholders.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_impact"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -2831,12 +2863,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/barclays--barc/commencement-of-share-buy-back-programme/9693118",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This programme signals management's confidence in Barclays' capital position and commitment to returning value amidst a challenging UK banking environment; it aligns with sector-wide trends of major lenders prioritizing shareholder returns through buybacks rather than aggressive dividend hikes.",
+      "impact_score": 4,
+      "insight": "This announcement signifies a commitment to returning capital to shareholders through share repurchases, which can support the stock price and earnings per share. It reflects management's confidence in the company's financial position without indicating specific transaction details.",
       "key_themes": [
-        "capital allocation",
-        "shareholder return",
-        "UK banking sector"
+        "Capital return",
+        "Shareholder value"
       ]
     },
     {
@@ -3476,11 +3507,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/barclays--barc/completion-of-buy-back-programme/9636200",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Completion of a buyback programme signals management's confidence in capital generation and commitment to returning value, but as a routine capital action rather than a transformative event, it offers limited immediate catalyst for share price appreciation compared to earnings surprises.",
+      "impact_score": 4,
+      "insight": "This announcement signifies the conclusion of a share buyback programme, which generally indicates that the company has finished repurchasing its own equity. It provides closure to the capital return activity but does not inherently signal new financial direction or performance metrics.",
       "key_themes": [
-        "capital return",
-        "shareholder yield"
+        "Capital return",
+        "Shareholder value"
       ]
     },
     {
@@ -3491,10 +3522,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "While regulatory capital compliance is critical for Barclays' US operations, standalone stress test results are routine disclosures that rarely move the share price unless they reveal unexpected capital shortfalls or require emergency fundraising.",
+      "insight": "This announcement signifies a scheduled regulatory compliance update regarding stress test outcomes, which is routine for major financial institutions. The headline does not indicate any immediate financial distress or strategic shift that would materially alter shareholder value.",
       "key_themes": [
-        "regulatory_compliance",
-        "capital_adequacy"
+        "Regulatory",
+        "Risk Management",
+        "Compliance"
       ]
     },
     {
@@ -3505,10 +3537,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible impact on Barclays' valuation or strategic trajectory, reflecting individual portfolio management rather than institutional sentiment shifts.",
+      "insight": "This announcement relates to director dealings, which typically have a low direct impact on shareholder value unless they signal significant insider sentiment shifts. Such disclosures are routine regulatory requirements rather than indicators of major corporate strategy changes.",
       "key_themes": [
-        "regulatory compliance",
-        "minor administrative"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {

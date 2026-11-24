@@ -2,9 +2,23 @@
   "name": "TheraCryf Plc",
   "ticker": "TCF",
   "slug": "theracryf-tcf",
-  "announcement_count": 13,
-  "latest_announcement": "2026-11-18T07:33:00",
+  "announcement_count": 14,
+  "latest_announcement": "2026-11-24T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T07:00:00",
+      "category": "Results",
+      "headline": "Notice of Half Year Results",
+      "url": "https://www.investegate.co.uk/announcement/rns/theracryf-plc--tcf/notice-of-half-year-results/9889925",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement indicates that the company is publishing its half-year financial results, which will provide shareholders with an update on recent performance. The headline does not specify whether the results are positive or negative, so it represents a standard scheduled disclosure.",
+      "key_themes": [
+        "Results",
+        "Financial Reporting"
+      ]
+    },
     {
       "timestamp": "2026-11-18T07:33:00",
       "category": null,
@@ -40,11 +54,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/theracryf-plc--tcf/result-of-annual-general-meeting/9837066",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine AGM results typically confirm standard shareholder approvals with minimal market-moving substance; for a micro-cap like TheraCryf, this confirms governance continuity rather than signaling strategic shifts or capital events.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of the Annual General Meeting, which is a routine governance event for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Micro-cap"
+        "Governance",
+        "Meeting results"
       ]
     },
     {
@@ -93,11 +107,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/theracryf-plc--tcf/posting-of-annual-report-and-notice-of-agm/9797737",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing for the annual general meeting, indicating no immediate material corporate action or financial event. For TheraCryf, a small-cap biotech, such notices are routine governance requirements rather than value-driving catalysts.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that the company is convening its Annual General Meeting and making relevant documents available to shareholders. It serves as a standard governance notification rather than conveying specific financial or strategic developments.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "AGM"
       ]
     },
     {

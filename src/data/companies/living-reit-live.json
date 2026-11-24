@@ -2,9 +2,23 @@
   "name": "Living REIT plc",
   "ticker": "LIVE",
   "slug": "living-reit-live",
-  "announcement_count": 10,
-  "latest_announcement": "2026-11-13T10:30:00",
+  "announcement_count": 11,
+  "latest_announcement": "2026-11-24T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T07:00:00",
+      "category": "Appointment",
+      "headline": "Appointment of Non-Executive Director",
+      "url": "https://www.investegate.co.uk/announcement/rns/living-reit-plc--live/appointment-of-non-executive-director/9889907",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the board composition by adding a non-executive director. Such appointments are standard governance updates that may influence oversight but do not inherently indicate immediate strategic or financial shifts.",
+      "key_themes": [
+        "Governance",
+        "Board Change"
+      ]
+    },
     {
       "timestamp": "2026-11-13T10:30:00",
       "category": null,
@@ -41,10 +55,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory disclosure of individual director transactions which lacks the materiality to influence institutional positioning or share price dynamics in the current UK REIT sector.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with significant influence rather than major corporate events. Such disclosures are generally considered low-impact administrative updates for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -138,10 +152,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on share price dynamics unless accompanied by unusual volume or context; without specific transaction details in the headline, this remains an administrative update rather than a strategic signal.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities rather than significant corporate events. Such disclosures are generally considered administrative housekeeping with limited immediate impact on shareholder value.",
       "key_themes": [
-        "Regulatory Compliance",
-        "Corporate Governance"
+        "Governance",
+        "Director Dealing"
       ]
     }
   ]

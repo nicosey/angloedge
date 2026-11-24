@@ -2,9 +2,23 @@
   "name": "Beacon Rise Holdings",
   "ticker": "BRS",
   "slug": "beacon-rise-holdings-brs",
-  "announcement_count": 8,
-  "latest_announcement": "2026-11-23T10:07:00",
+  "announcement_count": 9,
+  "latest_announcement": "2026-11-23T18:08:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-23T18:08:00",
+      "category": null,
+      "headline": "Proposed Delisting and Listing on AIM",
+      "url": "https://www.investegate.co.uk/announcement/rns/beacon-rise-holdings--brs/proposed-delisting-and-listing-on-aim/9889751",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "This announcement signifies a significant change in the company's listing status, involving delisting from its current market and listing on AIM. Such a move typically alters liquidity profiles, investor eligibility, and regulatory obligations for existing shareholders.",
+      "key_themes": [
+        "Listing change",
+        "Corporate action"
+      ]
+    },
     {
       "timestamp": "2026-11-23T10:07:00",
       "category": null,
@@ -12,11 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/beacon-rise-holdings--brs/asa-funding-of-50k-/9888838",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "The £50k ASA funding is a negligible administrative cost for a listed entity, indicating no material financial impact or strategic shift in the current UK equity landscape.",
+      "impact_score": 1,
+      "insight": "This announcement appears to relate to an external organization rather than the company itself, as indicated by the 'Other' category and the phrasing of the headline. It likely represents administrative housekeeping or a press release with no bearing on the company's shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Administrative",
+        "External"
       ]
     },
     {
@@ -51,11 +65,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/beacon-rise-holdings--brs/half-year-financial-report/9797268",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a micro-cap entity with limited liquidity and historical volatility, BRS's interim results are unlikely to move the broader market but remain critical for existing shareholders assessing survival metrics amid rising financing costs.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled release of half-year financial results, which provides shareholders with an update on the company's performance and financial position for the first six months of the fiscal year.",
       "key_themes": [
-        "interim results",
-        "micro-cap volatility"
+        "Results",
+        "Financial reporting"
       ]
     },
     {
@@ -79,11 +93,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/beacon-rise-holdings--brs/doc-re-asa-subscription-investment/9689961",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement reflects a standard equity subscription by an existing shareholder, likely the sponsor, which is routine for AIM-listed investment vehicles and indicates no immediate change in control or strategic direction.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a subscription investment by an associate, which typically signifies capital deployment or strategic alignment but lacks specific details on financial impact. Shareholders should await further disclosure to assess the materiality of this transaction.",
       "key_themes": [
-        "shareholder activity",
-        "AIM administration"
+        "Investment",
+        "Capital allocation"
       ]
     },
     {
@@ -108,10 +122,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "The 'Further re New ASA investment' headline suggests a routine follow-up to an existing position rather than a transformative event; without details on size or direction, it likely represents standard portfolio maintenance or minor adjustment typical of asset management firms.",
+      "insight": "This announcement likely provides an update on a previous disclosure regarding an investment in ASA, but without details on size or terms, its immediate financial significance is unclear. Shareholders should await the full text to determine if this represents a material change in the company's portfolio or strategic position.",
       "key_themes": [
-        "portfolio_update",
-        "asset_management"
+        "Investment update",
+        "Corporate disclosure"
       ]
     }
   ]

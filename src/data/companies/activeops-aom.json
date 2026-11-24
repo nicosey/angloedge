@@ -84,11 +84,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/activeops--aom/result-of-agm/9799448",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director re-elections and auditor appointments rather than strategic shifts or capital actions.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or statutory resolutions. It signifies standard corporate governance activity rather than any material change to the company's strategic direction or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Shareholder approval",
+        "Corporate action"
       ]
     },
     {
@@ -99,10 +100,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing in the small-cap tech sector typically signals minimal immediate market impact unless accompanied by volume anomalies or insider cluster activity; without transaction details, this remains an administrative disclosure with negligible price sensitivity.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has engaged in a transaction involving the company's shares. Such dealings are routine regulatory disclosures and generally do not signal significant strategic changes or material financial impact for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -202,10 +203,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible signal for market sentiment unless involving significant block trades by the CEO or CFO.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual stake changes but typically carries limited immediate impact on the company's operational outlook.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -252,10 +253,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard administrative notice confirming the release of results rather than the results themselves; without data on revenue growth or margin expansion in the cybersecurity sector, it holds no immediate trading value.",
+      "insight": "This announcement indicates that the company is releasing its financial results, a scheduled event whose positive or negative implications for shareholders cannot be determined from the headline alone.",
       "key_themes": [
-        "Administrative",
-        "Results Release"
+        "Results"
       ]
     },
     {

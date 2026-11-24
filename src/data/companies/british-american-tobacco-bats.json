@@ -2,9 +2,37 @@
   "name": "British American Tobacco",
   "ticker": "BATS",
   "slug": "british-american-tobacco-bats",
-  "announcement_count": 80,
-  "latest_announcement": "2026-11-23T12:00:00",
+  "announcement_count": 82,
+  "latest_announcement": "2026-11-24T09:05:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T09:05:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/british-american-tobacco--bats/director-pdmr-shareholding/9890990",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement relates to director dealings, which typically have a low direct impact on shareholder value unless they signal significant insider sentiment shifts. Such filings are routine regulatory disclosures that provide transparency into individual executive transactions rather than corporate strategy.",
+      "key_themes": [
+        "Governance",
+        "Director Dealings"
+      ]
+    },
+    {
+      "timestamp": "2026-11-24T09:00:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/british-american-tobacco--bats/director-pdmr-shareholding/9890906",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement indicates that a person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It generally signifies compliance with regulatory requirements rather than providing specific insight into future performance or strategy.",
+      "key_themes": [
+        "Governance",
+        "Director Dealing"
+      ]
+    },
     {
       "timestamp": "2026-11-23T12:00:00",
       "category": null,
@@ -178,11 +206,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/british-american-tobacco--bats/board-and-committee-changes/9844610",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine governance updates are standard administrative disclosures for FTSE 100 constituents and carry no direct financial implication for BAT's valuation or operational strategy.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the composition of the board or its committees, which is a standard governance update. Such changes typically have a neutral impact on shareholder value unless they involve the departure of key leadership figures.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -342,10 +370,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "Capital Markets Days are pivotal for resetting valuation multiples in the tobacco sector; BAT's focus on 2026 targets signals a critical test of its 'Beyond Tobacco' transition strategy against peers like Imperial Brands who have already delivered similar strategic pivots.",
+      "insight": "This announcement signifies a strategic review or guidance change where management will likely outline long-term plans for capital allocation and growth. It is significant for shareholders as it provides insight into future financial targets and strategic direction.",
       "key_themes": [
-        "Strategic Pivot",
-        "Valuation Reset"
+        "Strategic review",
+        "Capital allocation",
+        "Guidance"
       ]
     },
     {
@@ -503,10 +532,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in BATS are typically low-impact noise given the company's massive float and complex multi-jurisdictional structure; without specific volume or price context indicating a coordinated signal, these filings rarely move the stock.",
+      "insight": "This announcement relates to director shareholdings, which typically involves routine reporting of transactions by individuals with managerial responsibilities. Such disclosures are generally considered low-impact administrative updates for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Low Impact"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -517,10 +546,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible impact on BAT's valuation or strategic trajectory, reflecting individual portfolio management rather than corporate sentiment shifts.",
+      "insight": "This announcement relates to director shareholding disclosures, which are routine regulatory filings indicating standard compliance rather than significant corporate events. It generally signifies adherence to governance rules without implying immediate material impact on shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -723,12 +752,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/british-american-tobacco--bats/share-buyback-programme/9695510",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This action signals management's confidence in underlying cash flow generation amidst the structural decline of combustible tobacco, prioritizing shareholder returns to support valuation multiples. It reflects a broader sector trend where legacy tobacco firms utilize buybacks to offset volume erosion and maintain dividend sustainability.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a corporate action to repurchase shares, which generally signifies capital return to investors but lacks specific details on size or timing. Without further information, it represents a standard financial management decision rather than a transformative event.",
       "key_themes": [
-        "capital allocation",
-        "shareholder yield",
-        "legacy tobacco strategy"
+        "Share Buyback",
+        "Capital Return"
       ]
     },
     {
@@ -830,10 +858,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in BATS are typically low-impact given the company's massive float and institutional dominance; without specific volume or price context indicating a coordinated shift, this is standard administrative disclosure rather than a signal of strategic change.",
+      "insight": "This announcement relates to director dealings, which typically signifies standard compliance reporting of share transactions by individuals with senior management responsibilities. Such disclosures are routine and generally have minimal direct impact on the company's operational outlook or valuation.",
       "key_themes": [
-        "Corporate Governance",
-        "Low Impact"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -843,12 +871,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/british-american-tobacco--bats/share-buyback-programme/9638041",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This announcement reflects BAT's ongoing commitment to returning capital to shareholders amidst a challenging global tobacco environment, signaling confidence in its cash flow generation despite headwinds from regulatory pressures and declining combustible cigarette volumes.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a corporate action to repurchase shares, which generally signifies capital return to shareholders but lacks specific details on size or timing in the headline.",
       "key_themes": [
-        "capital return",
-        "shareholder yield",
-        "cash flow management"
+        "Share Buyback",
+        "Capital Return"
       ]
     },
     {

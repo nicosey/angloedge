@@ -2,9 +2,20 @@
   "name": "Advanced Medical Solutions Group",
   "ticker": "AMS",
   "slug": "advanced-medical-solutions-group-ams",
-  "announcement_count": 66,
-  "latest_announcement": "2026-11-23T14:20:00",
+  "announcement_count": 67,
+  "latest_announcement": "2026-11-24T13:58:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T13:58:00",
+      "category": null,
+      "headline": "Rule 2.9 Announcement",
+      "url": "https://www.investegate.co.uk/announcement/rns/advanced-medical-solutions-group--ams/rule-2-9-announcement/9891680",
+      "routine_type": "Form 8 Disclosure",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T14:20:00",
       "category": null,
@@ -210,12 +221,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/advanced-medical-solutions-group--ams/update-on-bidco-s-financing-arrangements/9835288",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "This update signals the successful closure of financing for the pending acquisition by Advent International, removing a key execution risk and validating the deal's progression toward completion. It confirms the strategic shift from public to private ownership, ending near-term equity volatility while locking in the premium valuation agreed upon.",
+      "impact_score": 8,
+      "insight": "This announcement relates to the financing arrangements of a 'Bidco', which typically indicates an ongoing or potential takeover bid for the company. Shareholders should anticipate significant corporate action, such as a change in control or strategic review, driven by this external offer process.",
       "key_themes": [
         "M&A",
-        "Private Equity",
-        "Deal Execution"
+        "Corporate Action",
+        "Financing"
       ]
     },
     {
@@ -294,12 +305,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/advanced-medical-solutions-group--ams/publication-of-financing-materials/9799446",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The publication of financing materials signals an imminent capital raise, likely to fund M&A in the fragmented medical device distribution space or strengthen the balance sheet ahead of potential acquisitions. This is a standard procedural step for AMS's growth-by-acquisition strategy but introduces dilution risk and execution uncertainty for shareholders.",
+      "impact_score": 7,
+      "insight": "The publication of financing materials typically indicates that the company is initiating a capital raise or seeking debt funding, which can significantly impact shareholder value through dilution or increased leverage.",
       "key_themes": [
-        "Capital Raise",
-        "M&A Activity",
-        "Dilution Risk"
+        "Capital raise",
+        "Financing"
       ]
     },
     {
@@ -650,10 +660,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible signal value for the broader market unless aggregated across multiple PDMRs or accompanied by significant volume relative to float.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director dealings"
       ]
     },
     {

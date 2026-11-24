@@ -54,11 +54,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/helios-underwriting--huw/result-of-tender-offer/9849213",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Tender offers in the insurance sector typically signal capital management or liquidity provision rather than transformative growth; without details on pricing premium or volume, this is likely a routine administrative action with limited immediate market impact.",
+      "impact_score": 7,
+      "insight": "A tender offer result typically signifies a potential change in control or significant capital restructuring, which can materially affect shareholder value and voting rights. This type of announcement often precedes a formal bid or the conclusion of a strategic sale process.",
       "key_themes": [
-        "Capital Management",
-        "Liquidity"
+        "M&A",
+        "Corporate action",
+        "Change of control"
       ]
     },
     {
@@ -68,11 +69,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/helios-underwriting--huw/results-of-general-meeting/9841602",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative disclosure confirming the outcome of shareholder votes at the AGM/EGM; it carries no intrinsic market-moving data regarding Helios Underwriting's financial performance or strategic direction.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which is a standard governance event for shareholders. It typically involves voting on routine matters or specific proposals requiring shareholder approval.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder vote"
       ]
     },
     {
@@ -94,10 +95,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Helios Underwriting's valuation or underwriting capacity.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into the company's operational performance but confirms insider shareholding movements.",
       "key_themes": [
-        "regulatory compliance",
-        "minor administrative"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -108,11 +109,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 8,
-      "insight": "This dual announcement signals a fundamental strategic pivot for Helios Underwriting, likely involving a change in control or significant restructuring of its underwriting capacity. In the current hardening Lloyd's market, such moves often precede capital consolidation or defensive positioning against solvency pressures, marking a transformative event for shareholders.",
+      "insight": "A proposed tender offer combined with a General Meeting notice typically indicates a significant corporate action, such as a takeover bid or major capital restructuring, requiring shareholder approval. This level of activity suggests a potential change in control or substantial strategic shift that is material to investors.",
       "key_themes": [
-        "Corporate Restructuring",
-        "Strategic Pivot",
-        "Lloyd's Market Dynamics"
+        "Takeover",
+        "Shareholder vote",
+        "Corporate action"
       ]
     },
     {

@@ -2,9 +2,23 @@
   "name": "Ondine Biomedical Inc. NPV (CDI)",
   "ticker": "OBI",
   "slug": "ondine-biomedical-obi",
-  "announcement_count": 28,
-  "latest_announcement": "2026-11-17T08:00:00",
+  "announcement_count": 29,
+  "latest_announcement": "2026-11-24T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T07:00:00",
+      "category": null,
+      "headline": "Leeds & Ondine: Finalist for HSJ Partnership Award",
+      "url": "https://www.investegate.co.uk/announcement/rns/ondine-biomedical-inc-npv-cdi---obi/leeds-ondine-finalist-for-hsj-partnership-award/9889948",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 2,
+      "insight": "This announcement appears to be a press release regarding an award finalist status for another organization, which typically constitutes marketing material with no direct financial impact on the company's shareholders.",
+      "key_themes": [
+        "Press Release",
+        "Awards"
+      ]
+    },
     {
       "timestamp": "2026-11-17T08:00:00",
       "category": "Results",
@@ -69,11 +83,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ondine-biomedical-inc-npv-cdi---obi/lantern-safety-results-presented-at-idweek/9844643",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "Presentation at IDWeek serves as a non-binding scientific validation rather than a commercial milestone, offering limited immediate catalyst for share price appreciation compared to regulatory approval or revenue generation.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that safety data was presented at a conference, which is typically an informational update rather than a direct financial event for shareholders. Without details on commercial impact or material findings, the immediate significance to share value is likely limited.",
       "key_themes": [
-        "Clinical Data",
-        "Scientific Validation"
+        "Results",
+        "Conference Presentation"
       ]
     },
     {
@@ -83,12 +97,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ondine-biomedical-inc-npv-cdi---obi/ottawa-heart-institute-reduces-cabg-ssis-by-51-5-/9837640",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The 51.5% reduction in CABG SSIs provides robust clinical validation for Ondine's wound care technology, addressing a critical cost driver in UK NHS cardiac surgery pathways and potentially accelerating procurement adoption amid rising infection control scrutiny.",
+      "impact_score": 1,
+      "insight": "This announcement reports clinical outcomes achieved by an external institution rather than disclosing specific operational or financial developments for the company. Such press releases regarding third-party results generally signify marketing activity with no direct bearing on shareholder value.",
       "key_themes": [
-        "clinical_evidence",
-        "infection_control",
-        "nhs_procurement"
+        "Press release",
+        "Clinical data"
       ]
     },
     {
@@ -142,11 +155,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ondine-biomedical-inc-npv-cdi---obi/capital-access-window-ondine-biomedical-inc-/9798421",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard administrative notice for the London AIM market confirming the launch of a capital raising window; while essential for liquidity and funding, it carries no immediate valuation impact or strategic detail until specific terms are disclosed.",
+      "impact_score": 7,
+      "insight": "This announcement indicates a potential capital raise or funding event, which is significant for shareholders as it may involve dilution of existing equity stakes. The specific terms and impact on valuation remain undefined in the headline.",
       "key_themes": [
-        "Capital Raising",
-        "AIM Administration"
+        "Capital raise",
+        "Funding"
       ]
     },
     {
@@ -156,11 +169,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ondine-biomedical-inc-npv-cdi---obi/capital-access-window/9797744",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative notification regarding the company's ability to access capital markets, common for AIM-listed biotech firms with no immediate transactional details or material financial impact.",
+      "impact_score": 7,
+      "insight": "This headline indicates a potential capital raise or funding event, which typically involves issuing new shares and may lead to dilution for existing shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Capital Markets"
+        "Capital raise",
+        "Funding"
       ]
     },
     {
@@ -170,12 +183,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ondine-biomedical-inc-npv-cdi---obi/ondine-and-mela-advance-nhs-icu-market-access/9795283",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This partnership signals a critical validation of Ondine's technology within the UK's high-stakes ICU sector, potentially unlocking recurring revenue streams and de-risking commercialisation efforts in a market dominated by established incumbents like Getinge and Stryker.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a partnership or collaborative effort aimed at improving market access for the company's products within the NHS intensive care sector. Such developments generally signify progress in commercialization and potential revenue generation, though the specific financial impact remains undefined.",
       "key_themes": [
-        "NHS Market Access",
-        "Commercial Validation",
-        "Healthcare Technology"
+        "Partnership",
+        "Market Access",
+        "Commercial"
       ]
     },
     {
@@ -185,11 +198,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ondine-biomedical-inc-npv-cdi---obi/steriwave-deploys-in-5-southern-ontario-hospitals/9785657",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This deployment validates Steriwave's commercial traction in the Canadian healthcare market but represents a marginal operational milestone for Ondine Biomedical given its current scale and lack of immediate revenue visibility. The move underscores ongoing efforts to diversify geographic exposure beyond the US, yet fails to materially alter the company's fundamental valuation or risk profile.",
+      "impact_score": 2,
+      "insight": "This announcement appears to be a press release regarding the activities of another organization, Steriwave, rather than a direct operational update from Ondine Biomedical Inc. As such, it likely has no immediate bearing on the company's shareholders.",
       "key_themes": [
-        "Commercial Deployment",
-        "Market Expansion"
+        "Press Release",
+        "Corporate Update"
       ]
     },
     {
@@ -266,11 +279,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This represents a standard commercial validation of Steriwave's technology within the NHS rather than a transformative financial event; for a micro-cap like OBI, single-site adoption offers limited immediate revenue impact and is typical of early-stage medtech sales cycles.",
+      "insight": "This announcement indicates a commercial adoption of technology by an end-user, which may signal market validation but lacks specific financial or operational details to assess material impact. Without further information on contract value or exclusivity, the significance for shareholders remains limited and speculative.",
       "key_themes": [
-        "Commercial Validation",
-        "NHS Adoption",
-        "MedTech"
+        "Commercial Update",
+        "Product Adoption"
       ]
     },
     {
@@ -309,11 +321,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ondine-biomedical-inc-npv-cdi---obi/result-of-agm-and-voting-results-/9645448",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no immediate financial or strategic weight for Ondine Biomedical's valuation.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of the Annual General Meeting, indicating that shareholder resolutions have been voted on. It serves as a standard governance update regarding the approval of routine corporate matters.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "AGM Results"
       ]
     },
     {
@@ -324,10 +336,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "The loss of the SSI contract represents a significant revenue headwind for Ondine's UK operations, yet as a US-listed entity with limited recent trading volume, the immediate market reaction is likely muted compared to the operational impact on the subsidiary.",
+      "insight": "This announcement appears to be a press release regarding an external event involving Leeds and Mupirocin with Steriwave, rather than a direct operational update from Ondine Biomedical Inc. As the headline does not explicitly link these entities or describe a material transaction for the company, it likely has no immediate bearing on shareholder value.",
       "key_themes": [
-        "Revenue Risk",
-        "UK Healthcare"
+        "Press Release",
+        "External Event"
       ]
     },
     {
@@ -337,11 +349,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ondine-biomedical-inc-npv-cdi---obi/update-on-us-phase-3-pivotal-study/9628754",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Phase 3 updates for small-cap biotechs like Ondine are binary events with high execution risk; without explicit data readouts or financing details in this headline, the market likely views it as routine procedural noise rather than a value-inflecting catalyst.",
+      "impact_score": 6,
+      "insight": "This update signifies a critical milestone in the clinical development pipeline, which typically carries high risk and potential reward for shareholders of early-stage companies. The outcome of such pivotal studies often determines future funding requirements and valuation trajectories.",
       "key_themes": [
-        "clinical_trial",
-        "biotech_risk"
+        "Clinical trial",
+        "Regulatory approval",
+        "R&D progress"
       ]
     },
     {

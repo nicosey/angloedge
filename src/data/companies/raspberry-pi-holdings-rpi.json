@@ -2,9 +2,23 @@
   "name": "Raspberry PI Holdings (WI)",
   "ticker": "RPI",
   "slug": "raspberry-pi-holdings-rpi",
-  "announcement_count": 9,
-  "latest_announcement": "2026-11-06T14:51:00",
+  "announcement_count": 10,
+  "latest_announcement": "2026-11-24T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-24T07:00:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/raspberry-pi-holdings-wi---rpi/director-pdmr-shareholding/9889923",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures and typically carry low immediate impact on shareholder value unless accompanied by context regarding the size or nature of the transaction.",
+      "key_themes": [
+        "Governance",
+        "Director Dealing"
+      ]
+    },
     {
       "timestamp": "2026-11-06T14:51:00",
       "category": "Appointment",
@@ -41,10 +55,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of personal transactions by a Person Discharging Managerial Responsibilities, which carries minimal intrinsic market signal compared to substantive corporate actions. In the current consumer discretionary environment, such filings are routine administrative events rather than indicators of strategic shifts or insider sentiment.",
+      "insight": "This announcement confirms that a person discharging managerial responsibilities has executed a transaction in the company's shares. Such filings are routine regulatory disclosures and typically carry minimal immediate impact on shareholder value unless accompanied by further context regarding the nature or size of the deal.",
       "key_themes": [
-        "regulatory compliance",
-        "insider activity"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
