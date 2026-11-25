@@ -30,6 +30,7 @@ Briefings are published daily as a digest of the day's UK market developments (e
 
 - [Home](${url('/')}): Latest briefing and UK markets snapshot
 - [Briefings](${url('/briefings/')}): Full archive of briefings
+- [RNS today](${url('/rns/today/')}): The day's highest-impact UK regulatory announcements with AngloEdge impact scores and analysis; plain-text version at ${url('/rns/today.txt')}
 - [Companies](${url('/companies/')}): RNS announcement records for UK-listed companies, one page per company, with AngloEdge impact scores and analysis of significant filings
 - [Services](${url('/services/')}): Custom research, consulting, and advisory services for institutional investors and corporate strategists
 - [About](${url('/about/')}): The team behind AngloEdge and its approach to UK capital markets intelligence

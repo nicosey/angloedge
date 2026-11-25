@@ -2,6 +2,11 @@
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import UKMarketsSnapshot from '../components/UKMarketsSnapshot.astro';
+import { digest } from '../lib/rnsToday';
+import { formatLong } from '../lib/companies';
+
+const rnsTop = digest.items.slice(0, 3);
+const rnsDay = digest.date ? formatLong(new Date(`${digest.date}T12:00:00Z`)) : null;
 
 const briefings = (await getCollection('briefings')).sort(
   (a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime()
@@ -85,6 +90,34 @@ const formatDate = (date: Date) => {
         <div class="mt-10">
           <a href="/briefings/" class="text-sm font-sans font-medium text-navy hover:underline">
             View all briefings →
+          </a>
+        </div>
+      </section>
+    )}
+
+    {rnsTop.length > 0 && (
+      <section id="rns" class="py-16 border-b border-gray-200 scroll-mt-20">
+        <div class="flex flex-wrap items-baseline justify-between gap-2 mb-8">
+          <p class="text-brass font-sans text-xs font-semibold uppercase tracking-widest">Highest-Impact RNS</p>
+          {rnsDay && <time datetime={digest.date} class="text-sm text-gray-500">{rnsDay}</time>}
+        </div>
+        <ol class="space-y-6">
+          {rnsTop.map((item) => (
+            <li class="pb-6 border-b border-gray-100 last:border-0 last:pb-0">
+              <div class="flex flex-wrap items-center gap-x-3 gap-y-1 font-sans text-xs uppercase tracking-wide text-gray-500">
+                {item.slug
+                  ? <a href={`/companies/${item.slug}/`} class="font-semibold text-navy hover:underline">{item.company}</a>
+                  : <span class="font-semibold text-navy">{item.company}</span>}
+                {item.ticker && <span class="font-semibold text-brass">{item.ticker}</span>}
+                <span>{item.score}/10</span>
+              </div>
+              <h3 class="font-serif text-lg font-bold text-navy leading-tight mt-1.5">{item.headline}</h3>
+            </li>
+          ))}
+        </ol>
+        <div class="mt-10">
+          <a href="/rns/today/" class="text-sm font-sans font-medium text-navy hover:underline">
+            See today's RNS with analysis →
           </a>
         </div>
       </section>
