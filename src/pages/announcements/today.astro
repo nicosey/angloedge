@@ -1,7 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import ImpactBar from '../../components/ImpactBar.astro';
-import { digest } from '../../lib/rnsToday';
+import { digest } from '../../lib/announcementsToday';
 import { parseTimestamp, formatLong, formatTime } from '../../lib/companies';
 
 const day = digest.date ? new Date(`${digest.date}T12:00:00Z`) : null;
@@ -9,17 +9,21 @@ const dayLabel = day ? formatLong(day) : null;
 ---
 
 <Base
-  title="Highest-Impact UK RNS Today | AngloEdge"
+  title="Today's Highest-Impact UK Market Announcements | AngloEdge"
   description={dayLabel
-    ? `The highest-impact UK regulatory announcements on ${dayLabel}, scored and explained by AngloEdge.`
-    : 'The day\'s highest-impact UK regulatory announcements, scored and explained by AngloEdge.'}
+    ? `The highest-impact UK regulatory announcements (RNS and other wires) on ${dayLabel}, scored and explained by AngloEdge.`
+    : 'The day\'s highest-impact UK regulatory announcements (RNS and other wires), scored and explained by AngloEdge.'}
 >
   <div class="max-w-4xl mx-auto px-6 py-14">
 
     <div class="mb-10">
-      <p class="text-brass font-sans text-xs font-semibold uppercase tracking-widest mb-3">RNS Announcements</p>
-      <h1 class="font-serif text-4xl font-bold text-navy mb-4">Highest-impact UK RNS today</h1>
-      {dayLabel && <p class="text-gray-600 text-sm"><time datetime={digest.date}>{dayLabel}</time></p>}
+      <p class="text-brass font-sans text-xs font-semibold uppercase tracking-widest mb-3">Market Announcements</p>
+      <h1 class="font-serif text-4xl font-bold text-navy mb-4">Today's highest-impact UK market announcements</h1>
+      {dayLabel && <p class="text-gray-600 text-sm mb-4"><time datetime={digest.date}>{dayLabel}</time></p>}
+      <p class="text-gray-600 text-sm leading-relaxed max-w-prose">
+        The day's most significant regulatory announcements (RNS and other wires) from UK-listed
+        companies, scored for impact and explained by AngloEdge.
+      </p>
     </div>
 
     {digest.items.length === 0 ? (

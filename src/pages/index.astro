@@ -2,7 +2,7 @@
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import UKMarketsSnapshot from '../components/UKMarketsSnapshot.astro';
-import { digest } from '../lib/rnsToday';
+import { digest } from '../lib/announcementsToday';
 import { formatLong } from '../lib/companies';
 
 const rnsTop = digest.items.slice(0, 3);
@@ -98,7 +98,7 @@ const formatDate = (date: Date) => {
     {rnsTop.length > 0 && (
       <section id="rns" class="py-16 border-b border-gray-200 scroll-mt-20">
         <div class="flex flex-wrap items-baseline justify-between gap-2 mb-8">
-          <p class="text-brass font-sans text-xs font-semibold uppercase tracking-widest">Highest-Impact RNS</p>
+          <p class="text-brass font-sans text-xs font-semibold uppercase tracking-widest">Highest-Impact Announcements</p>
           {rnsDay && <time datetime={digest.date} class="text-sm text-gray-500">{rnsDay}</time>}
         </div>
         <ol class="space-y-6">
@@ -116,8 +116,8 @@ const formatDate = (date: Date) => {
           ))}
         </ol>
         <div class="mt-10">
-          <a href="/rns/today/" class="text-sm font-sans font-medium text-navy hover:underline">
-            See today's RNS with analysis →
+          <a href="/announcements/today/" class="text-sm font-sans font-medium text-navy hover:underline">
+            See today's announcements with analysis →
           </a>
         </div>
       </section>

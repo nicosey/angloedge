@@ -1,4 +1,4 @@
-import { digest, POST_DELIMITER } from '../../lib/rnsToday';
+import { digest, POST_DELIMITER } from '../../lib/announcementsToday';
 
 // One post per block, blocks separated by a line holding only "---".
 // Empty on days with nothing to post.
