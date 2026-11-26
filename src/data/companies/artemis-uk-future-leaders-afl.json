@@ -2,9 +2,20 @@
   "name": "Artemis UK Future Leaders plc",
   "ticker": "AFL",
   "slug": "artemis-uk-future-leaders-afl",
-  "announcement_count": 89,
-  "latest_announcement": "2026-11-24T12:50:00",
+  "announcement_count": 90,
+  "latest_announcement": "2026-11-25T10:10:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T10:10:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/prn/artemis-uk-future-leaders-plc--afl/transaction-in-own-shares/9893416",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-24T12:50:00",
       "category": null,
@@ -243,11 +254,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/artemis-uk-future-leaders-plc--afl/dividend-declaration/9813723",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine dividend declarations are standard administrative actions for investment trusts like Artemis UK Future Leaders plc and do not signal strategic shifts or material value creation beyond baseline income distribution.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a distribution of profits to shareholders, which typically provides income but may reduce retained earnings available for future growth.",
       "key_themes": [
-        "income_distribution",
-        "routine_admin"
+        "Dividend",
+        "Shareholder return"
       ]
     },
     {
@@ -434,10 +445,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of portfolio manager activity rather than a corporate action; while it signals internal conviction in the fund's holdings, it has no direct impact on AFL's share price or capital structure.",
+      "insight": "This announcement indicates that the portfolio manager is buying shares in the company, which may signal confidence in its value but lacks details on volume or price. Such insider purchases are generally viewed as a positive governance signal regarding alignment of interests.",
       "key_themes": [
-        "Insider Activity",
-        "Fund Management"
+        "Director dealings",
+        "Insider activity"
       ]
     },
     {
@@ -549,11 +560,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/artemis-uk-future-leaders-plc--afl/purchase-of-shares-by-the-portfolio-manager/9722773",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory disclosure of portfolio manager activity within an investment trust, reflecting internal fund management decisions rather than external corporate developments or market-moving events.",
+      "impact_score": 4,
+      "insight": "This announcement indicates that the portfolio manager has purchased shares in the company, which is a form of insider dealing disclosure. Such transactions generally signal personal confidence in the investment but do not inherently alter the company's operational or financial standing for shareholders.",
       "key_themes": [
-        "Investment Trust",
-        "Regulatory Disclosure"
+        "Director dealings",
+        "Insider activity"
       ]
     },
     {
@@ -853,10 +864,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine portfolio manager transaction indicating standard fiduciary activity rather than a strategic shift in the fund's mandate; lacks the scale or context of a transformative event for the underlying UK equity holdings.",
+      "insight": "This announcement indicates that the portfolio manager has purchased shares in the company, which is a form of insider dealing disclosure. Such transactions generally signal personal confidence in the investment but do not inherently alter the company's operational or financial standing.",
       "key_themes": [
-        "director dealing",
-        "routine administration"
+        "Director dealings",
+        "Insider activity"
       ]
     },
     {
@@ -943,11 +954,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/artemis-uk-future-leaders-plc--afl/result-of-annual-general-meeting/9598094",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of routine shareholder votes, which carries no intrinsic valuation impact for AFL's underlying portfolio or strategy.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of the Annual General Meeting, which typically involves routine shareholder approvals such as director reappointments and auditor mandates. It signifies standard corporate governance compliance rather than any material change to the company's strategic or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Administration"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {

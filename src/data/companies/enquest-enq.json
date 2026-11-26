@@ -24,10 +24,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 1,
-      "insight": "The headline 'Harworth Group' appears to be a data ingestion error or irrelevant metadata attached to an EnQuest filing, as Harworth is a distinct property developer with no strategic overlap with EnQuest's upstream oil and gas operations.",
+      "insight": "The headline references a different entity entirely, indicating this is likely an administrative error or a press release concerning another organization with no bearing on EnQuest.",
       "key_themes": [
-        "data_error",
-        "irrelevant_metadata"
+        "Administrative",
+        "Irrelevant"
       ]
     },
     {
@@ -48,11 +48,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/enquest--enq/satisfaction-of-conditions-precedent/9718164",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Satisfaction of conditions precedent typically finalizes a previously announced transaction, removing execution uncertainty but offering limited new upside for EnQuest's distressed balance sheet. In the current UK E&P sector, such administrative milestones are routine and do not alter the fundamental valuation drivers or liquidity constraints facing the company.",
+      "impact_score": 7,
+      "insight": "This announcement signifies that specific conditions required to proceed with a significant transaction have been met, which is a critical step in processes such as mergers, acquisitions, or major capital raises. It indicates progress toward a potentially transformative event for shareholders.",
       "key_themes": [
-        "Corporate Action",
-        "Execution Risk"
+        "Transaction",
+        "Corporate Action"
       ]
     },
     {
@@ -62,11 +62,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/enquest--enq/results-of-general-meeting-/9716034",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at EnQuest's AGM/EGM, typically covering routine matters like director reappointments or fee approvals rather than strategic shifts. In the current UK E&P sector, such announcements have negligible price impact unless they reveal significant dissent on executive pay or major governance issues.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which is typically a routine governance event for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder vote"
       ]
     },
     {
@@ -92,11 +92,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the successful completion of a pre-emptive capital raise, likely to fund exploration drilling or reduce debt in the current high-interest environment; while it avoids dilution concerns associated with failed rights issues, it signals continued reliance on equity markets for liquidity amidst volatile oil prices.",
+      "insight": "This announcement confirms the result of a pre-emption process, which is a standard governance procedure for raising capital. It signifies that any proposed share issuance has been offered to existing shareholders in accordance with regulatory requirements.",
       "key_themes": [
-        "capital_raise",
-        "liquidity_management",
-        "exploration_funding"
+        "Capital raise",
+        "Governance"
       ]
     },
     {
@@ -107,10 +106,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in the UK oil & gas sector are typically low-impact unless they signal a coordinated exodus or massive insider buying; without volume context, this is standard administrative disclosure with negligible immediate price implication.",
+      "insight": "This announcement relates to director dealings, which typically signifies routine insider trading activity rather than a significant corporate event. Shareholders should note that such filings are standard regulatory requirements and generally carry low immediate investment impact.",
       "key_themes": [
-        "UK Oil & Gas",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -154,11 +153,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 8,
-      "insight": "This acquisition signals a strategic pivot towards high-growth Asian basins, diversifying EnQuest's UK-centric portfolio and potentially unlocking significant reserve upside, though it introduces execution risk in a complex regulatory environment.",
+      "insight": "This announcement signifies a material acquisition that may alter the company's asset base or strategic direction. Shareholders should anticipate potential changes to the firm's operational footprint and future financial performance.",
       "key_themes": [
-        "Geographic Diversification",
-        "Reserve Growth",
-        "Strategic Pivot"
+        "M&A",
+        "Strategic expansion"
       ]
     }
   ]

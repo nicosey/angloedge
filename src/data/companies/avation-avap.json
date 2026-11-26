@@ -2,9 +2,20 @@
   "name": "Avation",
   "ticker": "AVAP",
   "slug": "avation-avap",
-  "announcement_count": 33,
-  "latest_announcement": "2026-11-20T08:56:00",
+  "announcement_count": 34,
+  "latest_announcement": "2026-11-25T09:01:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T09:01:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/avation--avap/holding-s-in-company/9893172",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T08:56:00",
       "category": null,
@@ -13,10 +24,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard investor relations activity with no immediate financial impact; while it may provide visibility into Avation's leasing portfolio performance and capital allocation strategy, it does not signal a material change in fundamentals or valuation.",
+      "insight": "This announcement signifies a scheduled investor relations activity where management will present to analysts, which typically serves to communicate current business updates rather than indicating immediate financial or strategic changes.",
       "key_themes": [
         "Investor Relations",
-        "Aviation Leasing"
+        "Conference"
       ]
     },
     {
@@ -26,11 +37,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/avation--avap/agm-notice/9886245",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative notice for an Annual General Meeting, typical for Avation's routine governance cycle rather than a catalyst for share price movement.",
+      "impact_score": 3,
+      "insight": "This notice indicates a scheduled annual general meeting is being convened, which typically involves routine governance matters such as director elections and auditor appointments.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Administration"
+        "Governance",
+        "Shareholder Meeting"
       ]
     },
     {
@@ -85,10 +96,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard administrative disclosure regarding the grant of warrants to directors, likely tied to existing remuneration structures rather than new strategic financing. Such routine corporate governance filings have negligible immediate impact on Avation's valuation or operational trajectory in the aircraft leasing sector.",
+      "insight": "This announcement relates to director dealings and a warrant grant, which are routine governance matters that typically have minimal direct impact on shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "Executive Compensation"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -109,11 +120,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/avation--avap/dividend-currency-election/9824870",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative notice regarding the currency of dividend payment for Avation's American Depositary Shares (ADSs), likely reflecting routine operational mechanics rather than a change in capital allocation strategy or financial health.",
+      "impact_score": 3,
+      "insight": "This announcement relates to a shareholder election regarding the currency in which a dividend will be paid. It signifies an administrative option for investors rather than a change in the dividend amount or policy itself.",
       "key_themes": [
-        "Corporate Action",
-        "Administrative"
+        "Dividend",
+        "Shareholder rights"
       ]
     },
     {
@@ -124,10 +135,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine operational update for a low-liquidity micro-cap; lacks material catalysts to drive significant price action or alter the investment thesis in the absence of major M&A or earnings surprises.",
+      "insight": "This quarterly update likely provides routine progress information on a specific programme, which is typically of low immediate significance to shareholders unless it signals major strategic shifts or financial changes.",
       "key_themes": [
-        "Corporate Update",
-        "Low Liquidity"
+        "Operational Update",
+        "Programme Progress"
       ]
     },
     {
@@ -137,11 +148,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/avation--avap/agreement/9813584",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "As a low-float micro-cap in the niche aircraft leasing sector, this likely represents routine contractual administration rather than a strategic pivot; without details on deal size or asset class, it lacks the materiality to drive significant valuation re-rating.",
+      "impact_score": 5,
+      "insight": "An agreement announcement typically signifies a new contract or partnership, which may indicate business development activity but lacks specific details on financial impact in the headline.",
       "key_themes": [
-        "Corporate Action",
-        "Aviation Leasing"
+        "Contract",
+        "Partnership"
       ]
     },
     {
@@ -219,11 +230,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "Avation's commentary on Air Baltic's Chapter 11 filing is likely a risk management disclosure rather than a direct financial hit, as Avation typically operates as an aircraft lessor with limited direct exposure to airline insolvency beyond lease termination risks. This falls under routine administrative updates for sector players monitoring counterparty credit in the distressed aviation environment.",
+      "insight": "This announcement appears to be a comment regarding legal proceedings initiated by a third party, which typically carries no direct financial implication for the company's shareholders unless specified otherwise.",
       "key_themes": [
-        "aircraft leasing",
-        "counterparty risk",
-        "insolvency"
+        "Legal",
+        "Comment"
       ]
     },
     {
@@ -269,12 +279,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/avation--avap/delivery-of-first-atr-72-600-aircraft-to-finnair/9729319",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This delivery confirms Avation's execution of its aircraft leasing portfolio expansion strategy, providing tangible revenue visibility in a tight supply environment for regional turboprops. While operationally positive, it represents routine fleet deployment rather than a transformative strategic shift or major financial event.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a milestone in asset delivery for Avation, indicating operational progress in its leasing portfolio. It provides visibility into the execution of existing contracts but does not disclose financial terms or broader strategic implications.",
       "key_themes": [
-        "Fleet Expansion",
-        "Aviation Leasing",
-        "Revenue Visibility"
+        "Operational Update",
+        "Asset Delivery"
       ]
     },
     {
@@ -307,10 +316,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard marketing disclosure for a virtual conference appearance, indicating no immediate material corporate action or financial data release. Such events are routine for micro-cap firms seeking visibility but carry negligible direct impact on valuation.",
+      "insight": "This announcement indicates participation in a virtual investor conference, which is typically a marketing or networking activity with no immediate financial impact on shareholders.",
       "key_themes": [
         "Investor Relations",
-        "Micro-cap"
+        "Marketing"
       ]
     },
     {
@@ -320,11 +329,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/avation--avap/chief-commercial-officer/9707358",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Executive appointments are standard corporate governance updates that rarely move share prices unless tied to a turnaround narrative or crisis; without context on the appointee's pedigree or immediate strategic shift, this is purely administrative.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in senior management, which is a standard board-level event. Such appointments are routine governance updates that do not inherently signal immediate financial or strategic shifts.",
       "key_themes": [
-        "Corporate Governance",
-        "Management Change"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -345,11 +354,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/avation--avap/gmtn-programme-quarterly-update-/9661621",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine quarterly update on the GMTN programme indicates standard debt management activity rather than a strategic pivot; without details on pricing or investor appetite, it lacks the catalyst potential for significant re-rating in the current high-yield environment.",
+      "impact_score": 5,
+      "insight": "This quarterly update provides scheduled progress reporting on a specific programme, indicating routine operational monitoring without disclosing immediate financial direction or strategic shifts.",
       "key_themes": [
-        "debt_management",
-        "routine_update"
+        "Operational Update",
+        "Quarterly Report"
       ]
     },
     {
@@ -371,10 +380,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine treasury share transactions for Avation typically reflect minor capital management rather than strategic shifts; without disclosed volume or price, this lacks the materiality to influence valuation or signal insider sentiment in the aviation leasing sector.",
+      "insight": "This announcement indicates routine treasury share transactions, which are generally administrative capital management actions rather than strategic developments. It signifies standard corporate governance activity without implying immediate changes to shareholder value or company direction.",
       "key_themes": [
-        "Corporate Action",
-        "Capital Management"
+        "Capital Management",
+        "Governance",
+        "Administrative"
       ]
     },
     {

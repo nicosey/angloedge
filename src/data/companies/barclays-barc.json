@@ -2,9 +2,53 @@
   "name": "Barclays",
   "ticker": "BARC",
   "slug": "barclays-barc",
-  "announcement_count": 422,
-  "latest_announcement": "2026-11-24T11:51:00",
+  "announcement_count": 426,
+  "latest_announcement": "2026-11-26T11:59:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T11:59:00",
+      "category": null,
+      "headline": "IrishForm38.5BIRISHRESIDENTIALPROPERTIESREITPLC",
+      "url": "https://www.investegate.co.uk/announcement/rns/barclays--barc/irishform38-5birishresidentialpropertiesreitplc/9895955",
+      "routine_type": "Form 38.5",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-26T11:24:00",
+      "category": null,
+      "headline": "Irish Form 38.5 B DCC ENERGY PLC",
+      "url": "https://www.investegate.co.uk/announcement/rns/barclays--barc/irish-form-38-5-b-dcc-energy-plc/9895861",
+      "routine_type": "Form 38.5",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-25T11:58:00",
+      "category": null,
+      "headline": "IrishForm38.5BIRISHRESIDENTIALPROPERTIESREITPLC",
+      "url": "https://www.investegate.co.uk/announcement/rns/barclays--barc/irishform38-5birishresidentialpropertiesreitplc/9893705",
+      "routine_type": "Form 38.5",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-25T11:55:00",
+      "category": null,
+      "headline": "Irish Form 38.5 B DCC ENERGY PLC",
+      "url": "https://www.investegate.co.uk/announcement/rns/barclays--barc/irish-form-38-5-b-dcc-energy-plc/9893687",
+      "routine_type": "Form 38.5",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-24T11:51:00",
       "category": null,
@@ -452,11 +496,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/barclays--barc/completion-commencement-of-buy-back-programmes/9857700",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Completion of the previous tranche and commencement of a new buyback programme signals management's confidence in capital generation and commitment to returning cash to shareholders, aligning with broader UK banking sector trends of prioritizing shareholder returns amid regulatory capital constraints.",
+      "impact_score": 4,
+      "insight": "This announcement signifies the conclusion of previous share repurchase activities and the initiation of new buy-back programmes, which typically indicates management's confidence in the company's financial position and a commitment to returning capital to shareholders.",
       "key_themes": [
-        "capital allocation",
-        "shareholder return"
+        "Share Buyback",
+        "Capital Return"
       ]
     },
     {
@@ -1196,10 +1240,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This appointment signals a strategic pivot in Barclays' capital markets positioning ahead of potential M&A activity or complex financing needs, reflecting the intensifying competition among top-tier brokers to secure mandates from major UK lenders.",
+      "insight": "This appointment signifies a change in the firm's external advisory relationships, which may influence how the company is presented to the market and potential investors. Such changes are routine governance updates that typically have limited immediate financial impact on shareholders.",
       "key_themes": [
-        "Capital Markets",
-        "Strategic Advisory"
+        "Governance",
+        "Advisory"
       ]
     },
     {
@@ -1719,10 +1763,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in major UK banks are typically low-signal events reflecting personal liquidity management rather than strategic conviction shifts, especially given the current regulatory environment constraining significant insider trading activity.",
+      "insight": "This announcement relates to director share dealings, which typically have a low immediate impact on shareholder value compared to strategic or financial disclosures. It signifies routine compliance activity rather than a significant change in corporate direction or performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -2558,10 +2602,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in major UK banks are standard operational noise with negligible price impact, reflecting individual liquidity needs rather than institutional sentiment shifts.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with personal responsibility for managing the company. Such disclosures are standard governance requirements and generally have limited direct impact on shareholder value compared to strategic or financial events.",
       "key_themes": [
-        "Minor/Administrative",
-        "UK Banking Sector"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -2616,10 +2660,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Barclays' valuation or strategic trajectory compared to broader macroeconomic headwinds in the UK banking sector.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that provide transparency into insider trading activity but typically do not signal immediate strategic changes.",
       "key_themes": [
-        "regulatory compliance",
-        "minor administrative"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -3218,11 +3262,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/barclays--barc/form_38_5_b_20260708_dcc_plc1/9661206",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "The filename indicates a standard regulatory filing (Form 38/5b) related to the Daily Consolidated Register of Interests in Shares, which is a routine administrative disclosure for major shareholders or directors rather than a strategic announcement.",
+      "impact_score": 1,
+      "insight": "The headline appears to be a file submission reference rather than a substantive announcement, suggesting it is likely administrative housekeeping with no immediate bearing on shareholder value.",
       "key_themes": [
-        "Regulatory Compliance",
-        "Shareholding Disclosure"
+        "Administrative",
+        "Filing"
       ]
     },
     {
@@ -4593,15 +4637,11 @@
       "category": null,
       "headline": "Publication of Offering Circular",
       "url": "https://www.investegate.co.uk/announcement/rns/barclays--barc/publication-of-offering-circular/9590632",
-      "routine_type": null,
-      "enriched": true,
-      "impact_score": 6,
-      "insight": "The publication of an Offering Circular signals a pending capital raise, likely to meet Basel III/IV requirements or fund growth, which typically introduces dilution risk for existing shareholders and suggests management's confidence in current valuation levels.",
-      "key_themes": [
-        "Capital Raise",
-        "Dilution Risk",
-        "Regulatory Compliance"
-      ]
+      "routine_type": "Debt Notices",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-05-28T15:23:00",
@@ -4677,10 +4717,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of individual director transactions, which carries negligible market impact compared to institutional flows or macroeconomic data. In the current UK banking sector, investor focus remains on net interest margin pressures and capital return policies rather than minor insider share movements.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with responsibility for managing the company. Such disclosures are standard governance requirements and generally carry limited immediate impact on shareholder value.",
       "key_themes": [
-        "regulatory_compliance",
-        "insider_activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {

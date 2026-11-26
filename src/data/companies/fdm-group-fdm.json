@@ -2,9 +2,23 @@
   "name": "FDM Group (Holdings)",
   "ticker": "FDM",
   "slug": "fdm-group-fdm",
-  "announcement_count": 8,
-  "latest_announcement": "2026-11-11T17:43:00",
+  "announcement_count": 9,
+  "latest_announcement": "2026-11-26T15:02:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T15:02:00",
+      "category": "Appointment",
+      "headline": "Directorate change",
+      "url": "https://www.investegate.co.uk/announcement/rns/fdm-group-holdings---fdm/directorate-change/9896305",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "FDM Group announces a directorate change. This follows recent director transaction notifications and interim results, indicating ongoing governance updates.",
+      "key_themes": [
+        "Governance",
+        "Board Change"
+      ]
+    },
     {
       "timestamp": "2026-11-11T17:43:00",
       "category": null,
@@ -23,12 +37,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/fdm-group-holdings---fdm/notice-of-interim-results/9650226",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a key player in the UK IT recruitment sector, FDM's interim results provide critical visibility into labour market elasticity and margin resilience amid economic uncertainty; any deviation from consensus will likely trigger immediate repricing relative to peers like Hays or Reed.",
+      "impact_score": 5,
+      "insight": "This announcement signifies that the company is releasing its interim financial results, providing shareholders with an update on performance for the first half of the year. The headline does not indicate whether the results are positive or negative, nor does it suggest any immediate strategic changes.",
       "key_themes": [
-        "IT Recruitment",
-        "Interim Results",
-        "Labour Market"
+        "Results",
+        "Financial Reporting"
       ]
     },
     {
@@ -53,11 +66,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard PDMR notification with no disclosed volume or price, rendering it informationally neutral for immediate price action. In the IT services sector, routine director dealings are common and rarely signal significant strategic shifts without accompanying context.",
+      "insight": "This notification confirms a transaction by a person discharging managerial responsibilities, which is a standard regulatory disclosure. It generally signifies routine insider activity rather than a significant strategic shift or material event for shareholders.",
       "key_themes": [
-        "PDMR",
-        "Corporate Governance",
-        "Low Impact"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -67,11 +79,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/fdm-group-holdings---fdm/notification-of-transactions-of-directors/9628317",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory disclosure of individual director transactions rather than a corporate strategy shift; while insider buying can signal confidence, the market impact is negligible without context on volume or price relative to recent trading ranges.",
+      "impact_score": 3,
+      "insight": "This announcement signifies standard regulatory compliance regarding director share transactions, which is routine governance information rather than a material corporate event. It provides transparency into insider trading activity but does not inherently indicate a change in the company's strategic direction or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -81,11 +93,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/fdm-group-holdings---fdm/disclosure-of-psp-performance-condition-targets/9606459",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This RNS clarifies the specific hurdles for Executive Director PSP awards, a standard governance disclosure that confirms alignment with shareholder interests but lacks immediate market-moving catalysts compared to earnings or strategic shifts.",
+      "impact_score": 5,
+      "insight": "This announcement discloses the specific performance targets linked to Performance Share Plan awards, which is a standard governance disclosure required for listed companies. It provides clarity on executive remuneration structures but does not indicate immediate financial or operational changes.",
       "key_themes": [
         "Governance",
-        "Executive Compensation"
+        "Remuneration"
       ]
     },
     {
@@ -107,10 +119,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure regarding director shareholding changes, likely reflecting routine tax obligations or minor portfolio adjustments rather than a strategic signal. In the current UK market, such filings are common administrative events that rarely influence FDM's valuation or sector positioning without accompanying commentary on insider sentiment.",
+      "insight": "This announcement signifies standard regulatory compliance regarding director shareholdings and block listings. It generally indicates routine governance updates rather than significant strategic shifts or financial events for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     }
   ]

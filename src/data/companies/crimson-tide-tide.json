@@ -2,9 +2,22 @@
   "name": "Crimson Tide",
   "ticker": "TIDE",
   "slug": "crimson-tide-tide",
-  "announcement_count": 11,
-  "latest_announcement": "2026-11-19T07:00:00",
+  "announcement_count": 12,
+  "latest_announcement": "2026-11-25T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T07:00:00",
+      "category": "Results",
+      "headline": "Interim Results",
+      "url": "https://www.investegate.co.uk/announcement/rns/crimson-tide--tide/interim-results/9892149",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled interim results release, which provides shareholders with an update on the company's financial performance and operational progress for the period. The specific direction or magnitude of the results is not indicated by the headline alone.",
+      "key_themes": [
+        "Results"
+      ]
+    },
     {
       "timestamp": "2026-11-19T07:00:00",
       "category": "Results",
@@ -13,10 +26,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "As a standard half-year results announcement for a small-cap entity, this is routine disclosure rather than a market-moving event; without specific guidance or M&A details in the headline, it falls into the 'notable but routine' category typical for interim reporting cycles.",
+      "insight": "This announcement signifies the release of scheduled half-year financial results, which provides shareholders with an update on the company's performance for the first six months of the fiscal year. The headline does not indicate whether the results are positive or negative, nor does it suggest any immediate strategic changes.",
       "key_themes": [
-        "Interim Results",
-        "Corporate Disclosure"
+        "Results",
+        "Financial Reporting"
       ]
     },
     {
@@ -63,10 +76,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements typically signal minimal immediate market impact unless accompanied by unusual volume or context; without details on direction (buy/sell) or size, this remains an administrative disclosure with negligible strategic implication for Crimson Tide.",
+      "insight": "This announcement typically signifies routine compliance with regulations requiring directors to disclose their personal share transactions. It generally has limited immediate impact on shareholder value unless the volume or direction of dealing suggests a significant change in insider sentiment.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -118,11 +131,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/crimson-tide--tide/contract-extension-with-cadent/9650664",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Contract extensions with major utility clients like Cadent provide essential revenue visibility and reduce customer acquisition costs, but as a routine commercial update for Crimson Tide, it lacks the transformative catalyst required for significant multiple expansion.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a contract extension, which generally indicates ongoing commercial engagement and revenue continuity for shareholders. The specific financial impact remains undefined as the headline provides no details on value or duration.",
       "key_themes": [
-        "recurring revenue",
-        "utility sector"
+        "Contract",
+        "Commercial"
       ]
     },
     {
@@ -132,11 +145,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/crimson-tide--tide/new-contract-trials-sim-trava-and-dw-baking/9607787",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Contract trials for Sim Trava and DW Baking indicate early-stage commercial validation rather than immediate revenue contribution, reflecting typical low-impact operational updates in the food tech sector.",
+      "impact_score": 5,
+      "insight": "This announcement indicates the commencement of contract trials with named entities, which generally signifies potential future revenue generation but lacks details on scale or duration. Shareholders should monitor subsequent updates for confirmation of commercial success and financial impact.",
       "key_themes": [
-        "commercialisation",
-        "food technology"
+        "Commercial",
+        "Contract",
+        "Partnership"
       ]
     },
     {

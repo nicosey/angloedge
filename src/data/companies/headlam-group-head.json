@@ -12,11 +12,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/headlam-group--head/cancellation-headlam-group-plc/9815355",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Cancellation of an RNS typically indicates the withdrawal of a previously announced transaction or proposal that failed to meet regulatory or shareholder approval thresholds; for Headlam, this suggests a halted strategic initiative rather than organic operational change.",
+      "impact_score": 9,
+      "insight": "A cancellation announcement typically signifies that shares are being removed from the official list of a recognized stock exchange, often due to delisting or the completion of a takeover. This event fundamentally alters the liquidity and tradability of the equity for shareholders.",
       "key_themes": [
-        "Corporate Action",
-        "Strategic Uncertainty"
+        "Delisting",
+        "Corporate Action"
       ]
     },
     {
@@ -27,10 +27,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Ceco Flooring's administration is a contained operational failure within the fragmented flooring distribution sector rather than a systemic risk to Headlam Group; while it may present opportunistic acquisition targets for Headlam's expansion strategy, the direct financial exposure is likely limited.",
+      "insight": "This announcement concerns a third-party entity rather than Headlam Group itself, suggesting it is an administrative disclosure of external events. It generally signifies that the company is monitoring developments in its supply chain or portfolio without implying direct operational impact.",
       "key_themes": [
-        "Sector Consolidation",
-        "Operational Risk"
+        "Third-party news",
+        "Insolvency",
+        "Supply chain"
       ]
     },
     {
@@ -55,11 +56,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "Headlam Group entering administration marks a catastrophic failure for the UK logistics sector, signaling severe liquidity distress and potential total loss for equity holders amidst rising operational costs and competitive pressure.",
+      "insight": "The appointment of an administrator signifies that the company has entered insolvency proceedings, which typically results in a severe loss of value for equity holders and often leads to share suspension.",
       "key_themes": [
-        "Corporate Failure",
-        "Logistics Sector Stress",
-        "Equity Wipeout"
+        "Insolvency",
+        "Administration",
+        "Governance"
       ]
     },
     {
@@ -69,11 +70,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/headlam-group--head/sale-and-leaseback-of-bristol-distribution-centre-/9759853",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This sale-and-leaseback transaction unlocks trapped capital to strengthen the balance sheet and fund organic growth, a standard but effective strategy for asset-heavy logistics firms like Headlam amidst rising interest rates.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a property transaction that may generate cash or reduce debt, but without details on the financial terms, it represents a standard operational move rather than a material strategic shift for shareholders.",
       "key_themes": [
-        "capital_efficiency",
-        "asset_light_strategy"
+        "Asset management",
+        "Capital structure"
       ]
     },
     {
@@ -84,11 +85,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "Appointment of administrators signals imminent insolvency for a major UK logistics provider, triggering severe liquidity crisis and potential supply chain disruption across the e-commerce sector. This mirrors high-profile collapses like Toys 'R' Us, suggesting total loss of equity value and complex creditor negotiations ahead.",
+      "insight": "The appointment of administrators indicates that the company is entering insolvency proceedings, which typically results in a loss of equity value for existing shareholders. The simultaneous suspension of shares prevents trading and reflects the severe financial distress associated with this corporate action.",
       "key_themes": [
         "Insolvency",
-        "Logistics",
-        "Equity Wipeout"
+        "Suspension",
+        "Administration"
       ]
     },
     {
@@ -164,11 +165,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/headlam-group--head/requisitioned-general-meeting-voting-results/9597772",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a standard administrative filing confirming the outcome of a requisitioned meeting, likely related to director remuneration or share capital authorization, rather than a strategic shift or financial performance indicator.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a requisitioned general meeting, which is a procedural update regarding shareholder voting results. It signifies that specific proposals were put to a vote but does not inherently indicate a change in strategic direction or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Relations"
+        "Governance",
+        "Shareholder Vote"
       ]
     },
     {
@@ -178,10 +179,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/headlam-group--head/general-meeting/9595484",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative notice for a shareholder meeting, likely concerning routine matters such as dividend approval or director re-elections rather than transformative corporate action.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that a general meeting of shareholders is being convened, which typically involves voting on specific corporate matters. The actual significance for shareholders depends entirely on the agenda items to be discussed at the meeting.",
       "key_themes": [
-        "Corporate Governance",
+        "Governance",
         "Shareholder Meeting"
       ]
     }

@@ -35,10 +35,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is an administrative update regarding the mechanics of share buyback reporting rather than a substantive capital return announcement; in the current high-interest-rate environment for UK retail, such procedural changes signal no immediate strategic shift or significant cash deployment.",
+      "insight": "This announcement indicates an administrative update to the reporting procedures for a share buyback program rather than a change in the program's terms or execution. It signifies routine compliance activity with no immediate implication for shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative Update"
+        "Governance",
+        "Capital return"
       ]
     },
     {
@@ -86,13 +86,10 @@
       "headline": "Transaction in Own Shares & Buyback Completion",
       "url": "https://www.investegate.co.uk/announcement/rns/shoe-zone--shoe/transaction-in-own-shares-buyback-completion/9842377",
       "routine_type": "Transaction in Own Shares",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement confirms the completion of a share buyback program, indicating that the company has repurchased its own equity. Such actions generally signify capital management or potential support for the share price, though the specific financial impact is not detailed in the headline.",
-      "key_themes": [
-        "Share Buyback",
-        "Capital Management"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-10-19T08:26:00",
@@ -179,10 +176,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine share buybacks are common for Shoe Zone to manage capital structure but lack transformative strategic weight; the market typically views these as neutral-to-slightly-positive signals of management confidence rather than catalysts for significant re-rating.",
+      "insight": "This announcement indicates a share buyback programme, which generally signifies an intention to return capital to shareholders or manage equity dilution. The specific financial impact remains undefined without further details on the scale or terms of the repurchase.",
       "key_themes": [
-        "capital allocation",
-        "shareholder return"
+        "Capital return",
+        "Shareholder value"
       ]
     },
     {
@@ -192,12 +189,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/shoe-zone--shoe/trading-update/9671280",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Shoe Zone's trading update reflects the ongoing pressure on UK high street footfall and consumer discretionary spending, highlighting the critical need for operational efficiency in a challenging retail environment.",
+      "impact_score": 5,
+      "insight": "A trading update provides shareholders with an interim assessment of performance but does not indicate direction without further detail. This type of announcement is routine and typically has a neutral impact until specific financial metrics are revealed.",
       "key_themes": [
-        "Retail",
-        "Consumer Spending",
-        "High Street"
+        "Trading Update",
+        "Performance"
       ]
     }
   ]

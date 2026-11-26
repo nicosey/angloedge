@@ -78,11 +78,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-greater-europe-inv-trust--brge/submission-of-documents/9875186",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the submission of statutory documents to the FCA, likely related to ongoing regulatory compliance or periodic reporting obligations rather than a material corporate event.",
+      "impact_score": 1,
+      "insight": "This announcement typically signifies routine administrative compliance or filing requirements rather than a substantive corporate event. It generally has no immediate bearing on shareholder value or investment decisions.",
       "key_themes": [
-        "Regulatory Compliance",
-        "Administrative"
+        "Administrative",
+        "Compliance"
       ]
     },
     {
@@ -170,10 +170,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures in investment trusts typically carry negligible market impact unless the volume is exceptional or signals a shift in insider sentiment during periods of significant discount volatility.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Minor/Administrative",
-        "Insider Activity"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -183,11 +183,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-greater-europe-inv-trust--brge/disclosure-of-porfolio-holdings/9858504",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing for an investment trust disclosing portfolio holdings; while useful for tracking manager positioning in the Greater Europe region, it carries no immediate price-moving catalyst or strategic shift.",
+      "impact_score": 3,
+      "insight": "This announcement provides transparency into the fund's current asset allocation, which is routine for investment trusts. It allows shareholders to assess the portfolio composition without indicating any immediate strategic change or performance impact.",
       "key_themes": [
         "Portfolio Disclosure",
-        "Investment Trust"
+        "Transparency"
       ]
     },
     {
@@ -541,12 +541,12 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-greater-europe-inv-trust--brge/tender-offer/9782952",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Tender offers in investment trusts provide liquidity to shareholders at a premium to NAV, often signalling management's confidence in the underlying asset value or a desire to manage AUM growth. This is a standard capital management tool for closed-end funds rather than a transformative corporate event.",
+      "impact_score": 8,
+      "insight": "A tender offer typically signifies a formal process for acquiring shares, often indicating a potential change in control or a significant capital return mechanism for investors. This type of announcement generally suggests a material event that could fundamentally alter the company's ownership structure or strategic direction.",
       "key_themes": [
-        "capital management",
-        "investment trust",
-        "shareholder liquidity"
+        "Tender Offer",
+        "Capital Return",
+        "Corporate Action"
       ]
     },
     {
@@ -788,10 +788,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine portfolio updates for closed-end investment trusts typically signal minor asset allocation shifts rather than material value changes; without specific commentary on significant underperformance or major sector rotation, the market impact is negligible compared to NAV discount movements.",
+      "insight": "This announcement provides a routine update on the portfolio composition of the investment trust. It offers shareholders visibility into current holdings but does not indicate any immediate strategic changes or financial events.",
       "key_themes": [
-        "Closed-End Trust",
-        "Portfolio Disclosure"
+        "Portfolio Update",
+        "Investment Trust"
       ]
     },
     {
@@ -1043,11 +1043,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-greater-europe-inv-trust--brge/portfolio-update/9623994",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine portfolio updates for investment trusts are standard disclosures that rarely move share prices unless they signal a drastic shift in strategy or significant premium/discount volatility; without specific transactional details, this is likely informational rather than actionable.",
+      "impact_score": 5,
+      "insight": "This announcement provides a scheduled update on the portfolio composition, which is routine for investment trusts but offers insight into current asset allocation without indicating specific performance outcomes.",
       "key_themes": [
-        "Investment Trust",
-        "Portfolio Disclosure"
+        "Portfolio Update",
+        "Investment Trust"
       ]
     },
     {
@@ -1069,10 +1069,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Edison reports provide independent analyst commentary rather than binding financial data, serving primarily to validate the trust's strategy and NAV discount status amidst a sector focused on active share and fee compression.",
+      "insight": "This announcement indicates that an external research firm has published a report on the company, which typically provides independent analysis or commentary for investors. It does not signify any immediate corporate action, transaction, or change in financial performance.",
       "key_themes": [
-        "analyst_coverage",
-        "investment_trust"
+        "Research",
+        "Analysis"
       ]
     },
     {
@@ -1105,7 +1105,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the submission of regulatory documents, likely related to ongoing compliance or minor corporate governance updates rather than material financial events.",
+      "insight": "This announcement signifies routine administrative compliance rather than a substantive corporate event. It generally indicates that standard regulatory filings have been submitted to the market without implying any immediate change in value or strategy for shareholders.",
       "key_themes": [
         "Administrative",
         "Compliance"

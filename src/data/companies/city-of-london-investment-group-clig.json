@@ -2,9 +2,20 @@
   "name": "City of London Investment Group",
   "ticker": "CLIG",
   "slug": "city-of-london-investment-group-clig",
-  "announcement_count": 15,
-  "latest_announcement": "2026-11-10T12:46:00",
+  "announcement_count": 16,
+  "latest_announcement": "2026-11-25T15:46:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T15:46:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/city-of-london-investment-group--clig/holding-s-in-company-/9894188",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-10T12:46:00",
       "category": "Director Dealing",
@@ -13,10 +24,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard disclosure of individual director transactions which typically carries negligible signal for the broader investment trust market compared to NAV movements or portfolio shifts.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into future performance but confirms compliance with insider dealing regulations.",
       "key_themes": [
-        "Corporate Governance",
-        "Minor Administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -149,11 +160,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/city-of-london-investment-group--clig/appointment-of-corporate-broker/9771622",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine administrative update reflecting standard governance practices for an investment trust; while a new broker may signal future capital raising intentions, the announcement itself lacks immediate financial catalysts or strategic shifts.",
+      "impact_score": 5,
+      "insight": "This appointment signifies a change in the firm's external advisory relationships, which may influence how the investment is presented to the market but does not directly alter its underlying strategy or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Investment Trust"
+        "Governance",
+        "Advisory"
       ]
     },
     {

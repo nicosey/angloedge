@@ -2,9 +2,20 @@
   "name": "Netcall",
   "ticker": "NET",
   "slug": "netcall-net",
-  "announcement_count": 11,
-  "latest_announcement": "2026-11-20T07:42:00",
+  "announcement_count": 12,
+  "latest_announcement": "2026-11-25T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T07:00:00",
+      "category": null,
+      "headline": "Issue of Consideration Shares, Total Voting Rights",
+      "url": "https://www.investegate.co.uk/announcement/rns/netcall--net/issue-of-consideration-shares-total-voting-rights/9892196",
+      "routine_type": "Total Voting Rights",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T07:42:00",
       "category": "AGM/EGM",
@@ -34,11 +45,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/netcall--net/collaboration-with-box-/9861637",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This partnership enhances Netcall's cloud contact centre capabilities within the competitive UK BPO sector, offering incremental value through technology integration rather than fundamental business model disruption.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a new partnership or collaboration, which may indicate strategic expansion or revenue opportunities for shareholders. The specific financial impact or terms of this arrangement are not disclosed in the headline.",
       "key_themes": [
-        "Cloud Integration",
-        "Strategic Partnership"
+        "Partnership",
+        "Strategic alliance"
       ]
     },
     {
@@ -48,12 +59,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/netcall--net/final-results-for-the-year-ended-30-june-2026/9809945",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a niche BPO provider facing secular headwinds from AI automation and cost-of-living pressures on consumer spending, this full-year result is critical for validating the efficacy of their recent strategic pivot. The market will scrutinize margin resilience against rising wage inflation to determine if the turnaround narrative holds water.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the publication of the company's annual financial performance for the specified period. It provides shareholders with essential data to assess the firm's operational results and financial health over the year.",
       "key_themes": [
-        "BPO Sector",
-        "Turnaround Execution",
-        "Margin Pressure"
+        "Results",
+        "Annual Report"
       ]
     },
     {
@@ -88,12 +98,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/netcall--net/fy26-trading-update/9678454",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a high-growth B2B SaaS provider in the competitive UK tech sector, this update signals critical momentum for FY26 revenue and margin expansion, directly influencing valuation multiples amid current market sensitivity to software profitability.",
+      "impact_score": 5,
+      "insight": "This trading update provides new performance data for the full financial year but does not indicate the direction of the results in the headline. Shareholders should await the detailed figures to assess whether the company is meeting expectations.",
       "key_themes": [
-        "revenue_growth",
-        "margin_expansion",
-        "uk_tech_sector"
+        "Results",
+        "Trading Update"
       ]
     },
     {

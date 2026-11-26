@@ -12,11 +12,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-a-supplement/9884432",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing to update the prospectus for an existing equity-linked note series, indicating no new strategic direction or capital raising activity.",
+      "impact_score": 3,
+      "insight": "A supplement to a regulatory announcement typically clarifies or amends previously disclosed information regarding the security, often relating to its terms or status. For shareholders, this generally signifies administrative housekeeping rather than a fundamental change in value or strategy.",
       "key_themes": [
-        "Administrative",
-        "Structured Products"
+        "Regulatory Update",
+        "Administrative"
       ]
     },
     {
@@ -79,15 +79,11 @@
       "category": null,
       "headline": "Publication of Offering Circular",
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-offering-circular/9794566",
-      "routine_type": null,
-      "enriched": true,
-      "impact_score": 7,
-      "insight": "The publication of an offering circular indicates a formal capital raise or new security issuance, which typically involves significant dilution for existing shareholders or changes to the capital structure.",
-      "key_themes": [
-        "Capital raise",
-        "Offering",
-        "Shareholder dilution"
-      ]
+      "routine_type": "Debt Notices",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-09-28T11:22:00",
@@ -147,11 +143,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/notice-to-holders/9781909",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative notice regarding the minimum holding requirement for Nationwide's Core Capital Deferred Shares, indicating no material corporate action or financial performance shift.",
+      "impact_score": 3,
+      "insight": "This notice typically informs holders of a specific class of securities about an upcoming event, such as a payment or corporate action, requiring them to take no further action unless specified.",
       "key_themes": [
-        "Administrative",
-        "Regulatory Compliance"
+        "Corporate Action",
+        "Notice"
       ]
     },
     {
@@ -161,11 +157,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/tender-offer/9781760",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard capital management exercise for a UK building society, allowing it to reduce its regulatory capital base by repurchasing shares from willing holders without the volatility of an open market buyback. It signals no fundamental change in strategy or financial health, merely routine balance sheet optimization common among peer institutions like Halifax or Yorkshire Building Society.",
+      "impact_score": 8,
+      "insight": "A tender offer for a specific class of capital instrument typically indicates a significant capital management action, such as a buyback or redemption, which can materially affect the supply and value of those securities. This type of announcement often signals a strategic decision to reduce leverage or return capital, warranting close attention from holders of the affected instruments.",
       "key_themes": [
-        "Capital Management",
-        "Regulatory Compliance"
+        "Capital management",
+        "Shareholder action",
+        "Redemption"
       ]
     },
     {
@@ -175,11 +172,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/admission-of-covered-bonds-to-trading/9779660",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard listing procedure for covered bonds issued by the Nationwide Building Society, which are debt instruments rather than equity; it has no direct impact on the share price or capital structure of the parent entity.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that covered bonds are being admitted to trading, which is a standard administrative step for debt instruments rather than an event directly impacting equity shareholders. It signifies routine market access for the specified financial instrument without implying changes to the company's strategic direction or financial health.",
       "key_themes": [
-        "debt_issuance",
-        "administrative"
+        "Debt issuance",
+        "Administrative"
       ]
     },
     {
@@ -222,11 +219,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/directorate-change/9749183",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative update regarding the board composition of a non-listed subsidiary entity within the Nationwide Building Society group, carrying no direct market-moving implications for the parent organization's equity or debt instruments.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the board composition, which is a standard governance update. Such changes typically have a neutral to low immediate financial impact unless they involve key leadership roles.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -236,11 +233,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/notification-admission-to-trading-of-covered-bonds/9735017",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative notification regarding the trading status of Covered Bonds, which are debt instruments rather than equity; it has no direct impact on Nationwide's share price or capital position.",
+      "impact_score": 4,
+      "insight": "This announcement signifies the admission to trading of a specific class of covered bonds, which is a routine capital market activity for the issuer. It indicates an expansion of the funding base rather than a direct event impacting ordinary equity shareholders.",
       "key_themes": [
-        "administrative",
-        "debt_issuance"
+        "Capital markets",
+        "Debt issuance",
+        "Administrative"
       ]
     },
     {
@@ -250,11 +248,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/notification-admission-to-trading-of-covered-bonds/9732841",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative notification regarding the trading status of covered bonds, which are debt instruments rather than equity; it has no direct impact on Nationwide's share price or capital position.",
+      "impact_score": 3,
+      "insight": "This announcement signifies the admission to trading of Covered Bonds, which is a capital market activity rather than an equity event. It generally indicates funding operations that do not directly alter existing shareholding structures or immediate shareholder value.",
       "key_themes": [
-        "administrative",
-        "debt_markets"
+        "Capital markets",
+        "Debt issuance"
       ]
     },
     {
@@ -264,12 +262,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/notification-admission-to-trading-of-covered-bonds/9730555",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory notification confirming the listing of covered bonds, which are secured debt instruments issued by UK building societies to fund mortgages; it has no direct impact on the equity value of Nationwide Building Society as it remains a private entity.",
+      "impact_score": 3,
+      "insight": "This announcement signifies the admission to trading of a specific financial instrument, which is an administrative step for investors holding these securities. It does not indicate a change in the core business operations or strategic direction for general shareholders.",
       "key_themes": [
-        "covered bonds",
-        "debt issuance",
-        "regulatory filing"
+        "Capital markets",
+        "Administrative"
       ]
     },
     {
@@ -302,10 +299,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement concerns the resale of existing CCDS instruments by a shareholder rather than a corporate capital raise or operational result, representing a routine secondary market transaction with no direct impact on Nationwide's balance sheet or strategic direction.",
+      "insight": "This announcement signifies the release of financial results for the entity, providing shareholders with performance data. The specific direction of the results is not indicated in the headline.",
       "key_themes": [
-        "secondary_market",
-        "shareholder_liquidity"
+        "Results",
+        "Financial reporting"
       ]
     },
     {
@@ -326,12 +323,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/proposed-re-sale-of-core-capital-deferred-shares/9725117",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard secondary market transaction by the issuer to satisfy employee share scheme obligations, not a primary capital raise or strategic shift. It has negligible dilution impact and no bearing on Nationwide's core banking fundamentals or regulatory capital position.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a proposed transaction involving the resale of existing Core Capital Deferred Shares by current holders rather than a new issuance of capital by the company. It generally signifies a potential change in shareholding structure or liquidity for these specific instruments without implying immediate operational or financial distress.",
       "key_themes": [
-        "secondary offering",
-        "employee incentives",
-        "low impact"
+        "Capital action",
+        "Shareholder transaction"
       ]
     },
     {
@@ -341,12 +337,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/redemption-of-securities/9703537",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This redemption represents a standard capital management action for the Core Capital Deferred Shares (CCDS), which are perpetual instruments with no fixed maturity. While it reduces the equity base slightly, it is a routine administrative event for Nationwide's hybrid capital structure rather than a strategic shift or liquidity crisis signal.",
+      "impact_score": 8,
+      "insight": "The redemption of securities typically involves the buyback of shares at a premium to market value, providing an immediate liquidity event and potential capital gain for participating shareholders. This action represents a significant capital return mechanism that alters the existing share structure.",
       "key_themes": [
-        "capital_management",
-        "hybrid_securities",
-        "routine_administrative"
+        "Capital return",
+        "Shareholder benefit",
+        "Redemption"
       ]
     },
     {
@@ -370,11 +366,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-supplement-/9680202",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing updating the prospectus for an existing Core Capital Deferred Share scheme, likely reflecting minor regulatory or operational changes rather than strategic shifts. Such supplements are routine in UK banking capital management and carry no immediate market-moving implications.",
+      "impact_score": 3,
+      "insight": "A publication of a supplement typically indicates an administrative update to existing documentation rather than a fundamental change in the company's status or strategy. Shareholders should expect minor procedural adjustments without immediate financial implications.",
       "key_themes": [
-        "Capital Management",
-        "Regulatory Filing"
+        "Administrative",
+        "Documentation"
       ]
     },
     {
@@ -384,11 +380,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/results-of-agm-/9670912",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard procedural disclosure confirming the outcome of an Annual General Meeting for a non-listed building society entity, carrying no immediate market-moving implications or strategic shifts.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of the Annual General Meeting, which typically involves routine shareholder approvals such as director reappointments and auditor appointments. It signifies standard corporate governance compliance rather than any material change to the company's strategic or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Disclosure"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -442,11 +438,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/notice-of-result-of-bondholder-meeting-/9656418",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a procedural administrative update regarding the outcome of a bondholder meeting for existing debt instruments, not an equity event; it carries no direct implication for the share price or strategic direction of Nationwide Building Society.",
+      "impact_score": 4,
+      "insight": "This announcement indicates that a meeting of bondholders has concluded, which is relevant to debt holders rather than equity shareholders. It generally signifies routine governance activity regarding the company's capital structure without implying immediate changes to share value.",
       "key_themes": [
-        "administrative",
-        "debt_management"
+        "Governance",
+        "Bondholder Meeting"
       ]
     },
     {
@@ -511,11 +507,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/notice-to-covered-bondholders/9618909",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative notice regarding the issuance of covered bonds, a routine funding mechanism for UK building societies to secure low-cost wholesale finance; it carries no immediate pricing or strategic implication for equity holders.",
+      "impact_score": 4,
+      "insight": "This notice informs holders of Covered Bonds regarding a specific corporate action related to the Core Capital Deferred Shares. It signifies a routine administrative update for debt instrument investors rather than a material event affecting equity shareholders.",
       "key_themes": [
-        "funding",
-        "administrative"
+        "Corporate Action",
+        "Debt Notice",
+        "Administrative"
       ]
     },
     {
@@ -536,11 +533,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-a-prospectus/9616573",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory filing for the prospectus governing the Nationwide Core Capital Deferred Shares, reflecting routine capital structure maintenance rather than a transformative event. While essential for investor transparency regarding the hybrid nature of these instruments, it carries no immediate pricing or strategic implication beyond existing market expectations.",
+      "impact_score": 8,
+      "insight": "The publication of a prospectus typically signifies a significant capital raise or the listing of securities, which can materially affect shareholder equity and dilution. This type of announcement is critical for investors as it outlines the terms and risks associated with new financial instruments.",
       "key_themes": [
-        "Capital Structure",
-        "Regulatory Compliance"
+        "Capital raise",
+        "Prospectus",
+        "Securities"
       ]
     },
     {
@@ -550,12 +548,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-registration-document-/9616287",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing for the UK's largest mutual lender, serving as a procedural prerequisite for capital issuance rather than a market-moving event in itself; it reflects routine compliance within the stable, albeit low-growth, UK banking sector.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a routine regulatory filing of a registration document, which is typically an administrative requirement for securities rather than a substantive corporate event. It does not indicate immediate changes to value or strategy but confirms compliance with listing obligations.",
       "key_themes": [
-        "Regulatory Compliance",
-        "Mutual Sector",
-        "Capital Markets"
+        "Regulatory Filing",
+        "Administrative"
       ]
     },
     {
@@ -565,11 +562,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nationwide-building-society-core-capital-deferred-shs-min-250-ccds---nbs/publication-of-a-prospectus/9616267",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory filing to update the prospectus for Nationwide's CCDS notes, likely reflecting routine market conditions or minor administrative updates rather than a strategic shift in capital structure.",
+      "impact_score": 7,
+      "insight": "The publication of a prospectus typically signifies a significant capital raising activity or the listing of new securities, which can materially affect existing shareholders through dilution or changes in capital structure.",
       "key_themes": [
-        "Regulatory Compliance",
-        "Capital Instruments"
+        "Capital raise",
+        "Prospectus"
       ]
     },
     {

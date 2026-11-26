@@ -2,9 +2,23 @@
   "name": "The Schiehallion Fund Limited NPV",
   "ticker": "MNTN",
   "slug": "the-schiehallion-fund-mntn",
-  "announcement_count": 26,
-  "latest_announcement": "2026-11-06T16:52:00",
+  "announcement_count": 27,
+  "latest_announcement": "2026-11-26T14:57:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T14:57:00",
+      "category": null,
+      "headline": "Edison issues report on The Schiehallion Fund...",
+      "url": "https://www.investegate.co.uk/announcement/eqs/the-schiehallion-fund-limited-npv--mntn/edison-issues-report-on-the-schiehallion-fund-/9896412",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Edison issues a report on The Schiehallion Fund Limited. This follows recent updates on NAV and director shareholdings.",
+      "key_themes": [
+        "Research",
+        "Governance"
+      ]
+    },
     {
       "timestamp": "2026-11-06T16:52:00",
       "category": null,
@@ -104,10 +118,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of individual director transactions rather than a corporate action; without volume or price data indicating significant insider conviction, it holds no immediate predictive value for share price movement.",
+      "insight": "This announcement typically signifies routine compliance reporting of share transactions by directors or persons discharging managerial responsibilities. It provides transparency into insider activity but generally carries limited immediate impact on shareholder value unless the volume or direction is extreme.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -156,10 +170,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/the-schiehallion-fund-limited-npv--mntn/change-of-company-secretary-registered-office-/9759927",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative update regarding corporate governance infrastructure rather than a strategic shift; such changes are routine for investment trusts and carry negligible immediate impact on NPV's valuation or operational trajectory.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a routine administrative update regarding corporate governance structures rather than a strategic shift. Shareholders should view this as standard housekeeping with no immediate implication for financial performance or share value.",
       "key_themes": [
-        "Corporate Governance",
+        "Governance",
         "Administrative"
       ]
     },
@@ -239,11 +253,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/the-schiehallion-fund-limited-npv--mntn/update-on-nav-and-private-company-valuations/9625720",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine NAV updates for closed-end funds like NPV are standard disclosures with limited immediate market impact unless they signal a significant discount widening or premium compression relative to peers.",
+      "impact_score": 5,
+      "insight": "This update provides shareholders with new information regarding the net asset value and the valuation of private holdings, which is critical for assessing the fund's current worth. It signifies a routine disclosure of financial metrics without indicating any immediate strategic changes or material events.",
       "key_themes": [
-        "NAV disclosure",
-        "Closed-end fund"
+        "NAV Update",
+        "Valuation",
+        "Financial Reporting"
       ]
     },
     {
@@ -254,10 +269,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "Updates on private equity valuations like Bending Spoons are critical for NPV investors to gauge unrealized gains and liquidity risk, reflecting the broader sector's struggle with fair value assessments in a volatile tech market.",
+      "insight": "This update likely provides new information regarding the valuation of a significant holding, which is critical for determining the net asset value and share price of the fund. Shareholders should anticipate potential changes to the reported NAV based on this external valuation.",
       "key_themes": [
-        "NAV Update",
-        "Private Equity Valuation"
+        "Valuation",
+        "NAV Update"
       ]
     },
     {
@@ -268,11 +283,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "Updates to SpaceX valuations in closed-end funds like NPV are critical for NAV accuracy given the asset's weight, but without specific percentage changes, it remains a routine valuation adjustment rather than a transformative event.",
+      "insight": "This update likely provides new valuation data for a significant holding, which directly impacts the net asset value and potentially the share price of the fund.",
       "key_themes": [
         "NAV Update",
-        "Private Equity Valuation",
-        "SpaceX"
+        "Asset Valuation"
       ]
     },
     {
@@ -282,11 +296,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/the-schiehallion-fund-limited-npv--mntn/director-appointment/9597198",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine administrative update regarding board composition for a closed-end investment trust; without details on the appointee's specific mandate or track record, this has negligible immediate impact on NPV's valuation or strategy.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the board composition, which is a standard governance event for investment trusts. Shareholders should monitor subsequent filings to understand the specific qualifications and potential strategic influence of the new director.",
       "key_themes": [
-        "Corporate Governance",
-        "Investment Trust"
+        "Governance",
+        "Board Change"
       ]
     },
     {

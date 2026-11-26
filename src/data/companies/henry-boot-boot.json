@@ -2,9 +2,34 @@
   "name": "Henry Boot",
   "ticker": "BOOT",
   "slug": "henry-boot-boot",
-  "announcement_count": 18,
-  "latest_announcement": "2026-11-17T07:00:00",
+  "announcement_count": 20,
+  "latest_announcement": "2026-11-25T14:58:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T14:58:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/henry-boot--boot/holding-s-in-company/9894075",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-25T07:00:00",
+      "category": "Trading Update",
+      "headline": "Trading Statement",
+      "url": "https://www.investegate.co.uk/announcement/rns/henry-boot--boot/trading-statement/9892152",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement is a trading update whose specific financial direction or performance metrics are not disclosed in the headline. Shareholders should anticipate new operational data that may influence future valuation but cannot determine the sentiment from this title alone.",
+      "key_themes": [
+        "Trading Update",
+        "Financial Results"
+      ]
+    },
     {
       "timestamp": "2026-11-17T07:00:00",
       "category": null,
@@ -12,11 +37,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/henry-boot--boot/origin-jv-secures-new-39-000-sq-ft-letting/9878238",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard commercial update for the property development arm rather than a group-level financial event; while it confirms ongoing demand in the industrial/logistics sector, the revenue contribution from a single 39,000 sq ft letting is immaterial to Henry Boot's consolidated results.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a commercial transaction involving a joint venture associated with the company, suggesting ongoing operational activity. However, without specific financial details or confirmation of the entity's consolidation status, the direct material impact on shareholders remains unclear.",
       "key_themes": [
-        "Property Development",
-        "Commercial Letting"
+        "Commercial",
+        "Joint Venture",
+        "Operations"
       ]
     },
     {
@@ -27,10 +53,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures that rarely signal immediate strategic shifts or material value creation in the construction sector.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that confirm compliance with insider dealing rules rather than signaling specific strategic changes.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -40,12 +66,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/henry-boot--boot/planning-secured-for-660-homes-in-hertfordshire/9866501",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This confirms planning permission for a residential development, which is a standard operational milestone rather than a transformative financial event; while it validates the company's pipeline in the Hertfordshire region, it does not immediately translate to significant revenue or earnings impact without construction commencement data.",
+      "impact_score": 5,
+      "insight": "Securing planning permission is a critical milestone for property developers, indicating progress in the pipeline but requiring further execution to realize value. The headline confirms regulatory approval without disclosing financial terms or construction timelines.",
       "key_themes": [
-        "Residential Development",
-        "Planning Permission",
-        "UK Housing Market"
+        "Planning",
+        "Development"
       ]
     },
     {
@@ -56,10 +81,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Henry Boot's valuation or operational trajectory, reflecting normal insider activity rather than a strategic shift in the UK construction sector.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that confirm compliance but generally do not signal significant strategic changes on their own.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -95,11 +120,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "This confirms robust demand within the industrial logistics sector, validating Henry Boot's strategy of developing large-scale units for key tenants like Origin JV. While positive for rental yields and occupancy metrics, it represents routine operational activity rather than a structural shift in valuation or earnings power.",
+      "insight": "This announcement indicates that a joint venture involving the company has secured significant new lettings, suggesting positive operational activity and potential revenue generation for the entity. The specific financial impact on the parent company's shareholders depends on the JV's ownership structure and the materiality of these deals relative to the group's total performance.",
       "key_themes": [
-        "Industrial Logistics",
-        "Letting Activity",
-        "Occupancy Rates"
+        "Operational Update",
+        "Joint Venture",
+        "Commercial Activity"
       ]
     },
     {
@@ -110,10 +135,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures typically carry negligible market impact unless accompanied by unusual volume or timing relative to price movements; without specific transaction details in the headline, this is classified as standard administrative reporting.",
+      "insight": "This announcement relates to director shareholdings, which typically indicates routine regulatory disclosure of insider transactions rather than a significant corporate event. Such filings provide transparency regarding individual directors' positions but generally carry limited immediate impact on the company's operational outlook or valuation.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -162,12 +187,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/henry-boot--boot/henry-boot-secures-golden-valley-phase-1-funding/9664258",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Securing funding for Golden Valley Phase 1 confirms the execution of Henry Boot's major regeneration strategy in Nottingham, mitigating financing risk for a high-profile project that anchors their long-term landbank value. This validates the group's ability to navigate current construction finance constraints while maintaining momentum on strategic urban development assets.",
+      "impact_score": 5,
+      "insight": "Securing funding for a specific phase indicates progress in project execution and validates the commercial viability of the development, which is positive for shareholder confidence. However, without details on the total value or broader financial implications, the immediate material impact remains uncertain.",
       "key_themes": [
-        "Urban Regeneration",
-        "Project Funding",
-        "Landbank Monetisation"
+        "Project Update",
+        "Funding"
       ]
     },
     {
@@ -188,11 +212,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/henry-boot--boot/henry-boot-secures-letting-to-arcadis-/9617253",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard commercial update reflecting normal operational activity rather than a strategic shift; while securing tenants like Arcadis supports rental income stability, it lacks the scale or novelty to materially alter Henry Boot's valuation multiples.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a new commercial agreement for the company, indicating ongoing business activity and revenue generation potential. The specific financial impact remains undefined as the headline provides no details on contract value or duration.",
       "key_themes": [
-        "Commercial Real Estate",
-        "Rental Income"
+        "Contract",
+        "Commercial"
       ]
     },
     {
@@ -202,11 +226,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/henry-boot--boot/appointment-of-new-md-at-stonebridge-homes/9614846",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard executive succession move within the residential development arm, lacking immediate financial materiality or strategic pivot signals typical of high-impact events in the UK housebuilding sector.",
+      "impact_score": 5,
+      "insight": "This appointment of a new managing director represents a board-level personnel change that may signal strategic shifts or continuity within the Stonebridge Homes division. Shareholders should monitor subsequent disclosures for details on leadership stability and operational direction.",
       "key_themes": [
-        "Corporate Governance",
-        "Management Change"
+        "Governance",
+        "Leadership Change"
       ]
     },
     {
@@ -216,12 +240,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/henry-boot--boot/ceo-succession-update/9614708",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 8,
-      "insight": "CEO succession in the UK construction sector is a critical governance event that often triggers immediate re-rating as investors assess the new leader's ability to navigate high interest rates and margin pressure; this carries significant execution risk given the current cyclical headwinds.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a departure of the CEO, which is a significant governance event that may introduce uncertainty regarding future strategic direction and leadership stability for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Leadership Transition",
-        "Construction Sector"
+        "Governance",
+        "CEO Succession"
       ]
     },
     {
@@ -231,12 +254,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/henry-boot--boot/henry-boot-complete-sale-of-416-residential-plots-/9605522",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The disposal of 416 plots represents a significant de-risking move for Henry Boot's residential division, likely accelerating cash flow and reducing exposure to current UK housing market volatility. This aligns with broader industry trends where developers are prioritizing liquidity over volume growth amid high interest rates.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a material disposal of assets, which typically provides immediate liquidity to the company and may indicate a strategic shift in focus. Shareholders should consider the implications for the firm's balance sheet and future operational scope.",
       "key_themes": [
-        "Residential",
-        "Cash Flow",
-        "De-risking"
+        "Asset disposal",
+        "Capital management"
       ]
     },
     {

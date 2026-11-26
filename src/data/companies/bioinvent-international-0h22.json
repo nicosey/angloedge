@@ -2,9 +2,23 @@
   "name": "Bioinvent International AB",
   "ticker": "0H22",
   "slug": "bioinvent-international-0h22",
-  "announcement_count": 8,
-  "latest_announcement": "2026-11-09T10:17:00",
+  "announcement_count": 9,
+  "latest_announcement": "2026-11-26T10:40:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T10:40:00",
+      "category": "Appointment",
+      "headline": "BioInvent appoints Catharina Johansson as new...",
+      "url": "https://www.investegate.co.uk/announcement/mfn/bioinvent-international-ab--0h22/bioinvent-appoints-catharina-johansson-as-new-/9895769",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "BioInvent appoints Catharina Johansson as new leadership following its October rights issue. This board change may influence execution of the capital raise.",
+      "key_themes": [
+        "Governance",
+        "Capital raise"
+      ]
+    },
     {
       "timestamp": "2026-11-09T10:17:00",
       "category": null,
@@ -13,10 +27,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard investor relations activity typical for pre-revenue biotech firms seeking to maintain visibility in a capital-intensive sector; it signals no fundamental change in the company's operational or financial status.",
+      "insight": "This announcement indicates management is engaging in investor relations activities to maintain market visibility, which is a routine operational matter. It does not convey specific financial results, strategic shifts, or material corporate actions that would directly impact shareholder value.",
       "key_themes": [
         "Investor Relations",
-        "Biotech Sector"
+        "Corporate Communications"
       ]
     },
     {
@@ -26,11 +40,12 @@
       "url": "https://www.investegate.co.uk/announcement/mfn/bioinvent-international-ab--0h22/bioinvent-fair-value-adjusted-for-rights-iss-/9863495",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard accounting adjustment to reflect the dilution of existing shares due to the rights issue; it does not indicate operational performance changes or new strategic developments.",
+      "impact_score": 7,
+      "insight": "This announcement indicates a rights issue is underway, requiring existing shareholders to decide whether to subscribe for new shares or sell their entitlements. The disclosure of fair value adjustments suggests potential dilution or pricing implications that could significantly affect the share price and shareholder equity.",
       "key_themes": [
-        "accounting_adjustment",
-        "rights_issue"
+        "Capital raise",
+        "Rights issue",
+        "Shareholder action"
       ]
     },
     {
@@ -108,11 +123,11 @@
       "url": "https://www.investegate.co.uk/announcement/mfn/bioinvent-international-ab--0h22/bioinvent-international-ab-announces-that-its-/9817707",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "The CFO's departure is a standard administrative change with no immediate operational disruption, though the long notice period until 2027 suggests a planned succession strategy rather than an urgent crisis in this small-cap biotech sector.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a scheduled board change involving the Chief Financial Officer, which is typically classified as a standard governance update rather than a critical strategic event. Shareholders should view this as routine executive succession planning without immediate implications for financial performance or company direction.",
       "key_themes": [
-        "Corporate Governance",
-        "Executive Succession"
+        "Governance",
+        "Board Change"
       ]
     }
   ]

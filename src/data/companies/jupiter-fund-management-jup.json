@@ -55,13 +55,10 @@
       "headline": "Transaction in Own Shares/Share Buyback Completion",
       "url": "https://www.investegate.co.uk/announcement/rns/jupiter-fund-management--jup/transaction-in-own-shares-share-buyback-completion/9814139",
       "routine_type": "Transaction in Own Shares",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement confirms the completion of a previously disclosed buyback tranche rather than signaling new capital allocation intent; in the asset management sector, such routine completions are standard housekeeping with negligible immediate impact on valuation or strategic direction.",
-      "key_themes": [
-        "Share Buyback",
-        "Corporate Action"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-10-07T11:06:00",
@@ -115,10 +112,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Jupiter's valuation or strategy, reflecting individual portfolio manager activity rather than corporate directional shifts.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "regulatory compliance",
-        "minor administrative"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -173,10 +170,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on Jupiter's valuation or strategy, reflecting typical insider activity rather than a signal of fundamental change.",
+      "insight": "This announcement signifies standard regulatory disclosure of insider share transactions, which provides transparency into director holdings but typically carries limited immediate financial impact for shareholders.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_impact"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -451,10 +448,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on Jupiter's valuation or strategic direction, reflecting typical insider activity rather than a signal of fundamental change.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into the company's operational performance but may signal individual confidence or lack thereof depending on the nature of the deal.",
       "key_themes": [
-        "regulatory compliance",
-        "insider activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {

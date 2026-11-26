@@ -2,9 +2,20 @@
   "name": "Octopus AIM VCT 2",
   "ticker": "OSEC",
   "slug": "octopus-aim-vct-2-osec",
-  "announcement_count": 10,
-  "latest_announcement": "2026-10-22T16:00:00",
+  "announcement_count": 11,
+  "latest_announcement": "2026-11-26T11:45:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T11:45:00",
+      "category": null,
+      "headline": "Issue of Equity and Total Voting Rights",
+      "url": "https://www.investegate.co.uk/announcement/gnw/octopus-aim-vct-2--osec/issue-of-equity-and-total-voting-rights/9895916",
+      "routine_type": "Total Voting Rights",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-10-22T16:00:00",
       "category": null,
@@ -24,10 +35,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 8,
-      "insight": "Merger discussions for a VCT represent a critical structural event that typically triggers a mandatory premium offer to shareholders, fundamentally altering the investment thesis and liquidity profile of the stock.",
+      "insight": "This announcement signifies a formal strategic review or potential sale process for the entity, which could lead to a change in control or significant restructuring. Shareholders should anticipate potential volatility and future developments regarding the company's ownership or operational structure.",
       "key_themes": [
-        "VCT Restructuring",
-        "M&A Premium"
+        "M&A",
+        "Strategic Review"
       ]
     },
     {
@@ -70,12 +81,11 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/octopus-aim-vct-2--osec/half-yearly-results/9682656",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a closed-end investment trust, this announcement confirms the fund's ongoing operational status and likely dividend distribution, which is critical for income-focused investors but lacks the transformative catalysts required for significant price re-rating in the current high-rate environment.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled half-yearly results release for the investment trust. Shareholders will receive financial performance data and updates on the fund's portfolio during this period.",
       "key_themes": [
-        "VCT",
-        "Interim Results",
-        "Income Trust"
+        "Results",
+        "Financial Reporting"
       ]
     },
     {

@@ -2,9 +2,31 @@
   "name": "AO World",
   "ticker": "AO.",
   "slug": "ao-world-ao",
-  "announcement_count": 15,
-  "latest_announcement": "2026-10-30T15:59:00",
+  "announcement_count": 17,
+  "latest_announcement": "2026-11-25T10:31:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T10:31:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/ao-world--ao./holding-s-in-company/9893469",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-25T10:24:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/ao-world--ao./holding-s-in-company/9893447",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-10-30T15:59:00",
       "category": null,
@@ -24,10 +46,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine PDMR disclosures typically carry minimal market impact unless accompanied by significant volume or unusual timing; without specific trade details in the headline, this is likely standard administrative compliance rather than a signal of strategic intent.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities rather than significant corporate events. Such disclosures are standard governance requirements and generally carry low immediate impact on shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -86,10 +108,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in the competitive UK white goods sector typically signal individual portfolio management rather than strategic shifts, offering limited insight into AO World's broader operational trajectory amidst intense price competition.",
+      "insight": "This announcement relates to director share dealings, which typically have a low immediate impact on shareholder value compared to strategic or financial events. It signifies standard regulatory compliance regarding insider transactions rather than a material change in the company's operations.",
       "key_themes": [
-        "Corporate Governance",
-        "Minor Administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -157,12 +179,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ao-world--ao./final-results-for-the-year-ended-31-march-2026-/9621818",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a high-beta consumer discretionary stock, AO World's annual results serve as a critical barometer for UK household spending power and e-commerce margin resilience amid persistent inflationary pressures on logistics and energy costs.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the publication of annual financial results for the fiscal year ending in March 2026. It provides shareholders with a comprehensive review of the company's performance and financial position over the specified period.",
       "key_themes": [
-        "Consumer Discretionary",
-        "Annual Results",
-        "Retail Margins"
+        "Results",
+        "Annual Report"
       ]
     },
     {
@@ -183,12 +204,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ao-world--ao./ao-breaks-trustpilot-review-record/9598433",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "While positive for brand sentiment in the competitive white goods market, this is a non-financial operational metric with no immediate impact on revenue, margins, or cash flow, reflecting routine marketing activity rather than material financial performance.",
+      "impact_score": 2,
+      "insight": "This announcement appears to be a marketing update regarding customer satisfaction metrics rather than a financial or strategic disclosure. It does not provide information that would directly influence shareholder valuation or corporate governance.",
       "key_themes": [
-        "Brand Equity",
-        "Customer Sentiment",
-        "Non-Financial"
+        "Marketing",
+        "Customer Satisfaction"
       ]
     }
   ]

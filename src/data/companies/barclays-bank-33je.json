@@ -34,11 +34,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/barclays-bank-plc--33je/admission-to-trading-of-transferable-securities-/9873328",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing for the admission of transferable securities, likely related to existing capital instruments or derivatives rather than a new equity raise or M&A event. It carries no immediate fundamental implication for Barclays' valuation or strategic direction.",
+      "impact_score": 3,
+      "insight": "This announcement signifies the formal listing of transferable securities, indicating a capital raising or issuance event that may dilute existing shareholdings. It represents a standard administrative step for new security listings rather than a strategic operational change.",
       "key_themes": [
-        "regulatory_compliance",
-        "capital_markets"
+        "Capital raise",
+        "Listing"
       ]
     },
     {
@@ -61,14 +61,11 @@
       "category": null,
       "headline": "Publication of Base Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/barclays-bank-plc--33je/publication-of-base-prospectus/9706853",
-      "routine_type": null,
-      "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing to update the base prospectus for debt issuance, common in UK banking capital management but devoid of immediate pricing or sizing details that would signal strategic shifts.",
-      "key_themes": [
-        "Capital Management",
-        "Debt Issuance"
-      ]
+      "routine_type": "Debt Notices",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-07-28T07:00:00",
@@ -90,11 +87,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/barclays-bank-plc--33je/admission-to-trading-of-transferable-securities/9624014",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing for the admission of transferable securities, likely related to existing debt issuance or capital instrument listings common in UK banking operations, carrying no immediate strategic or financial impact.",
+      "impact_score": 3,
+      "insight": "This announcement signifies the listing of transferable securities, which typically involves the issuance of new shares or debt instruments. For shareholders, this may indicate a capital raise or financing activity that could dilute existing equity or alter the company's leverage profile.",
       "key_themes": [
-        "administrative",
-        "capital_markets"
+        "Capital raise",
+        "Securities listing"
       ]
     },
     {

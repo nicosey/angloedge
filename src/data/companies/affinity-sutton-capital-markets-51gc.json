@@ -46,14 +46,11 @@
       "category": null,
       "headline": "Publication of supplement to the Offering Circular",
       "url": "https://www.investegate.co.uk/announcement/rns/affinity-sutton-capital-markets-plc--51gc/publication-of-supplement-to-the-offering-circular/9734827",
-      "routine_type": null,
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard administrative update to finalize the Offering Circular for the current capital raise, likely clarifying terms or updating financial data without altering the core transaction structure. Such supplements are routine in UK equity fundraising and do not signal new strategic developments or material changes to investor sentiment.",
-      "key_themes": [
-        "capital_raise",
-        "regulatory_compliance"
-      ]
+      "routine_type": "Debt Notices",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-08-21T08:00:00",
@@ -62,11 +59,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/affinity-sutton-capital-markets-plc--51gc/board-member-announcement/9733857",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine board composition changes in the UK REIT sector are standard governance updates with negligible immediate financial impact unless accompanied by a strategic pivot or leadership vacuum.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the composition of the board of directors. Such governance updates are routine administrative matters that inform shareholders of leadership structure without indicating immediate financial or strategic shifts.",
       "key_themes": [
-        "Corporate Governance",
-        "Board Composition"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -90,12 +87,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/affinity-sutton-capital-markets-plc--51gc/group-annual-report-and-accounts-2025-26/9676912",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a specialist finance house with a closed-end fund structure, the annual report provides critical data on net asset value (NAV) performance and dividend sustainability rather than traditional P&L growth. In the current high-interest-rate environment, this filing is essential for assessing the resilience of its loan book yields against potential credit deterioration in the SME sector.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the publication of the company's scheduled annual financial results for the specified period. Shareholders will gain insight into the group's performance and position over the reporting year.",
       "key_themes": [
-        "Annual Results",
-        "SME Lending",
-        "NAV Performance"
+        "Results",
+        "Governance"
       ]
     }
   ]

@@ -2,9 +2,20 @@
   "name": "Microlise Group",
   "ticker": "SAAS",
   "slug": "microlise-group-saas",
-  "announcement_count": 6,
-  "latest_announcement": "2026-11-17T07:00:00",
+  "announcement_count": 7,
+  "latest_announcement": "2026-11-25T11:57:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T11:57:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/microlise-group--saas/holding-s-in-company/9893700",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-17T07:00:00",
       "category": null,
@@ -12,11 +23,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/microlise-group--saas/publication-of-road-safety-research/9878247",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement serves as a brand-building exercise to reinforce Microlise's ESG credentials rather than driving immediate financial metrics; while road safety is a core value proposition for fleet clients, it lacks the materiality of earnings guidance or strategic M&A.",
+      "impact_score": 2,
+      "insight": "This announcement appears to be a publication of research findings rather than a corporate action, suggesting it is likely informational or marketing-related with no direct financial impact on shareholders.",
       "key_themes": [
-        "ESG",
-        "Brand Positioning"
+        "Research",
+        "Corporate Communications"
       ]
     },
     {
@@ -26,12 +37,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/microlise-group--saas/launch-of-share-buyback-programme/9823643",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This buyback signals management confidence in Microlise's cash generation capabilities within the competitive UK telematics sector, serving as a defensive measure to support the share price amid broader market volatility rather than indicating transformative growth.",
+      "impact_score": 4,
+      "insight": "This announcement signifies a return of capital to shareholders through the repurchase of equity, which can support share price stability and earnings per share metrics. The specific financial impact remains undefined as the headline does not disclose the scale or terms of the programme.",
       "key_themes": [
-        "capital allocation",
-        "shareholder return",
-        "telematics sector"
+        "Share Buyback",
+        "Capital Return",
+        "Corporate Action"
       ]
     },
     {
@@ -42,10 +53,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard administrative notice confirming the publication date of results rather than disclosing financial data itself; without accompanying figures, it carries no immediate market-moving weight for Microlise's fleet management SaaS valuation.",
+      "insight": "This notice signals that the company is scheduled to release its financial results, which will provide shareholders with an update on recent performance and strategic direction. The headline does not indicate whether the results are expected to be positive or negative.",
       "key_themes": [
-        "administrative",
-        "results_announcement"
+        "Results",
+        "Financial Reporting"
       ]
     },
     {

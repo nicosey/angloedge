@@ -12,11 +12,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/senior--snr/cancellation-senior-plc/9815354",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Cancellation of shares typically follows the exercise of options or vesting of RSUs, representing a routine administrative adjustment to share capital rather than a strategic shift or liquidity event.",
+      "impact_score": 9,
+      "insight": "The cancellation of shares typically signifies a corporate action such as delisting following a takeover or merger, which is a transformative event for existing shareholders. This type of announcement generally indicates that the company's equity will cease to trade on the public market.",
       "key_themes": [
-        "Corporate Action",
-        "Share Capital"
+        "Delisting",
+        "Corporate Action"
       ]
     },
     {
@@ -27,10 +27,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on SNR's valuation or strategic direction, reflecting normal liquidity management rather than significant insider sentiment shifts.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides limited insight into future performance but confirms compliance with market abuse regulations regarding insider transactions.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_impact"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -63,10 +63,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate market impact; without context on volume or price relative to current valuation, these events rarely signal strategic shifts in the senior care sector.",
+      "insight": "This announcement signifies standard regulatory compliance regarding insider trading activities by company directors. It provides transparency into individual transactions but does not inherently indicate a change in corporate strategy or financial performance.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -77,10 +77,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate market impact; without context on volume or price relative to current levels, these events rarely signal strategic shifts in the senior care sector.",
+      "insight": "This announcement signifies standard regulatory compliance regarding insider trading activities by company directors. It provides transparency into individual executive transactions but does not inherently indicate a change in corporate strategy or financial performance.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -101,12 +101,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/senior--snr/court-sanction-of-scheme-of-arrangement/9809642",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 9,
-      "insight": "The court sanction finalizes the transformative acquisition of G4S by Abellio, marking a pivotal shift in the UK security and facilities management sector from public to private ownership. This deal resolves long-standing governance issues and positions SNR for potential operational restructuring under new strategic control.",
+      "impact_score": 8,
+      "insight": "A court-sanctioned scheme of arrangement typically signifies a formal restructuring or acquisition process that requires shareholder approval and judicial oversight. This stage indicates the transaction is nearing completion, which can lead to significant changes in share ownership or control for existing investors.",
       "key_themes": [
         "M&A",
-        "Privatization",
-        "Security Sector"
+        "Restructuring",
+        "Corporate Action"
       ]
     },
     {
@@ -127,10 +127,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/senior--snr/changes-in-ftse-uk-index-series/9807549",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative update regarding index composition changes with no direct operational impact on Senior's fundamentals or liquidity.",
+      "impact_score": 1,
+      "insight": "This announcement concerns changes to a stock market index classification rather than specific corporate actions by the company. It generally signifies administrative housekeeping with no direct operational or financial impact on the company itself.",
       "key_themes": [
-        "Index Rebalance",
+        "Index change",
         "Administrative"
       ]
     },
@@ -174,10 +174,9 @@
       "url": "https://www.investegate.co.uk/announcement/rns/senior--snr/senior/9802903",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "The RNS headline 'Senior' without additional context typically indicates a routine administrative filing, such as a change in registered office address or minor corporate secretarial update, rather than material financial news.",
+      "impact_score": 1,
+      "insight": "The headline provides no substantive information regarding corporate activity, financial performance, or strategic developments. It appears to be an administrative placeholder or a data error that does not convey any material news for shareholders.",
       "key_themes": [
-        "Corporate Governance",
         "Administrative"
       ]
     },
@@ -299,10 +298,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on SNR's valuation or strategic trajectory, reflecting normal liquidity management rather than significant insider sentiment shifts.",
+      "insight": "This announcement indicates a change in the shareholding of a person discharging managerial responsibilities, which is a routine regulatory disclosure. It generally signifies standard compliance activity rather than a material event for shareholders.",
       "key_themes": [
-        "regulatory compliance",
-        "minor administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -335,10 +334,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on SNR's valuation or operational trajectory, reflecting typical insider activity rather than strategic shifts.",
+      "insight": "This announcement signifies standard regulatory compliance regarding individual director transactions in the company's shares. It provides transparency into insider trading activity but does not inherently indicate a change in corporate strategy or financial performance.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_volatility"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -349,10 +348,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible signal for institutional investors unless aggregated across the board or indicative of unusual volume relative to salary.",
+      "insight": "This announcement relates to director shareholding transactions, which are routine regulatory disclosures. Such filings generally signify standard compliance activity rather than a significant strategic shift or material event for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -715,10 +714,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on SNR's valuation or strategic direction, reflecting standard liquidity management rather than significant insider sentiment shifts.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities. Such disclosures generally have minimal immediate impact on shareholder value unless they signal a significant change in insider sentiment.",
       "key_themes": [
-        "regulatory compliance",
-        "minor administrative"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -773,10 +772,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on SNR's valuation or strategic direction, reflecting standard liquidity management rather than significant insider sentiment shifts.",
+      "insight": "This announcement signifies routine regulatory disclosure of share transactions by directors or persons discharging managerial responsibilities. It provides transparency into insider activity but generally lacks immediate strategic implications for shareholders.",
       "key_themes": [
-        "regulatory compliance",
-        "minor administrative"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -820,10 +819,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures typically carry minimal market impact unless accompanied by unusual volume or timing relative to price movements; without specific transaction details, this is classified as standard administrative reporting.",
+      "insight": "This announcement signifies routine regulatory compliance regarding insider shareholdings rather than a substantive corporate event. It provides transparency into director ownership but does not inherently indicate a change in strategy or financial performance.",
       "key_themes": [
-        "corporate_governance",
-        "insider_activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -844,11 +843,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/senior--snr/results-of-court-meeting-and-general-meeting/9585971",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard procedural disclosure confirming shareholder approval for the company's restructuring plan, which has already been priced in following the earlier scheme of arrangement results; no new strategic direction or financial data is introduced.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcomes of shareholder votes held during court and general meetings, which is a standard procedural disclosure for corporate governance.",
       "key_themes": [
-        "Corporate Governance",
-        "Restructuring"
+        "Governance",
+        "Shareholder approval"
       ]
     }
   ]

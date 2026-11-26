@@ -12,11 +12,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/tr-property-inv-trust--try/compliance-with-mar/9802640",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing confirming adherence to Market Abuse Regulation, carrying no intrinsic financial value or strategic signal for TR Property Investment Trust.",
+      "impact_score": 1,
+      "insight": "This announcement signifies routine compliance with Market Abuse Regulation requirements, which is standard administrative housekeeping for listed companies and does not indicate any specific corporate event or change in value.",
       "key_themes": [
-        "Regulatory Compliance",
-        "Administrative"
+        "Governance",
+        "Compliance"
       ]
     },
     {
@@ -62,11 +62,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/tr-property-inv-trust--try/agm-broadcast/9649560",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative broadcast for the Annual General Meeting, serving as a procedural update rather than a catalyst for valuation change. In the current UK REIT sector, investor focus remains on dividend sustainability and asset quality rather than routine governance meetings.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that an Annual General Meeting is being broadcast, which is a standard governance procedure for shareholder engagement. It generally signifies routine corporate administration rather than a material event affecting share value.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Engagement"
+        "Governance",
+        "Shareholder meeting"
       ]
     },
     {
@@ -91,10 +91,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures typically carry negligible market impact unless they signal a coordinated shift in insider sentiment; without volume or price context, this remains an administrative filing with no immediate strategic implication for TRY's valuation.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has transacted shares in the company. Such dealings are routine governance disclosures and typically carry low immediate impact unless they signal significant insider sentiment shifts.",
       "key_themes": [
-        "insider_activity",
-        "corporate_governance"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -105,10 +105,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures in the UK REIT sector typically signal standard portfolio management rather than strategic shifts, offering negligible immediate alpha for TRY's share price.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has transacted in the company's shares. Such filings are routine regulatory disclosures that confirm insider activity but do not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Minor Administrative"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -119,10 +119,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures typically carry minimal market impact unless they signal significant insider sentiment shifts; in the current UK property sector, such filings are standard administrative updates rather than strategic catalysts.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that confirm transparency but typically carry limited immediate investment significance unless part of a larger pattern.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director dealings"
       ]
     }
   ]

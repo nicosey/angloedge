@@ -12,12 +12,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/intuitive-investments-group--iig/cancellation-intuitive-investments-group-plc/9722226",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Cancellation of a listing typically signals the company has fallen below minimum share price or market capitalisation requirements, often preceding a delisting or reverse takeover; for IIG, this suggests a loss of public market status and liquidity rather than an operational crisis.",
+      "impact_score": 9,
+      "insight": "A cancellation announcement typically signifies that a company is being wound up, delisted, or has ceased to exist as an independent entity, which usually results in the shares becoming worthless or requiring specific redemption procedures for shareholders.",
       "key_themes": [
+        "Corporate action",
         "Delisting",
-        "Corporate Action",
-        "Liquidity Risk"
+        "Winding up"
       ]
     },
     {
@@ -38,11 +38,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/intuitive-investments-group--iig/scheme-effective/9720566",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "The Scheme Effective status confirms the successful completion of a corporate restructuring or takeover bid, removing execution uncertainty for shareholders. While this finalizes the transaction, it typically marks the end of the speculative phase, often leading to reduced liquidity and volatility as the stock transitions to its new post-deal state.",
+      "impact_score": 9,
+      "insight": "A 'Scheme Effective' headline indicates that a formal scheme of arrangement has been successfully approved and implemented, typically resulting in the acquisition, delisting, or fundamental restructuring of the company. This represents a definitive conclusion to a major corporate event with significant implications for shareholder value and status.",
       "key_themes": [
+        "M&A",
         "Corporate Action",
-        "Transaction Completion"
+        "Delisting"
       ]
     },
     {
@@ -53,11 +54,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "Suspensions of AIM-listed investment trusts like IIG typically signal severe liquidity crises, governance breakdowns, or imminent delisting risks, often preceding a return to private status or insolvency proceedings.",
+      "insight": "A share suspension typically halts trading due to significant uncertainty or pending news, preventing shareholders from exiting their positions until further clarity is provided. This action signals a critical event that may materially affect the company's future status or value.",
       "key_themes": [
-        "AIM",
-        "Governance Risk",
-        "Liquidity Crisis"
+        "Suspension",
+        "Governance"
       ]
     },
     {
@@ -68,11 +68,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 8,
-      "insight": "Court sanction is the critical legal milestone for a scheme of arrangement, effectively guaranteeing the transaction's completion barring unforeseen appeals; this typically triggers immediate re-rating as the deal risk premium evaporates.",
+      "insight": "A court sanction of a scheme typically indicates that a formal restructuring, takeover, or capital reorganization process has reached a critical legal milestone, often preceding an effective date. This suggests significant potential changes to the company's structure or ownership for shareholders.",
       "key_themes": [
-        "Corporate Action",
-        "Deal Completion",
-        "M&A"
+        "Corporate action",
+        "Restructuring",
+        "Governance"
       ]
     },
     {
@@ -83,10 +83,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This RNS confirms the procedural conclusion of shareholder votes for Intuitive Investments Group, likely ratifying a capital raise or restructuring plan essential for its private equity strategy; while critical for governance, it represents a routine administrative step rather than a new market-moving catalyst.",
+      "insight": "This announcement confirms the outcomes of shareholder votes held during court and general meetings, which is a standard governance procedure.",
       "key_themes": [
-        "Corporate Governance",
-        "Capital Raising"
+        "Governance",
+        "Shareholder vote"
       ]
     },
     {
@@ -107,11 +107,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/intuitive-investments-group--iig/publication-and-posting-of-scheme-document/9661777",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement marks a procedural milestone in the ongoing takeover bid by Intuitive Capital, confirming the formal distribution of scheme documents to shareholders rather than signaling new strategic developments or financial performance shifts.",
+      "impact_score": 8,
+      "insight": "The publication of a Scheme Document indicates the initiation of a formal statutory process, typically a takeover bid or scheme of arrangement, which is a significant corporate event for shareholders. This stage requires shareholder approval and carries substantial implications for the future ownership and control of the company.",
       "key_themes": [
+        "M&A",
         "Corporate Action",
-        "Takeover Process"
+        "Governance"
       ]
     },
     {
@@ -132,10 +133,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/intuitive-investments-group--iig/further-extension-of-pusu-deadline/9598424",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This is a procedural extension of the Puttable Unit Shareholder's Option (PUSU) deadline, indicating no immediate liquidity event for shareholders and reflecting standard administrative timelines rather than strategic shifts or value-creating catalysts.",
+      "impact_score": 3,
+      "insight": "This announcement indicates an administrative extension of a deadline for placing shares to underwriters, suggesting ongoing efforts to finalize a capital raise. It reflects procedural progress rather than a fundamental change in the company's strategic direction or financial position.",
       "key_themes": [
-        "PUSU",
+        "Capital raise",
         "Administrative"
       ]
     }

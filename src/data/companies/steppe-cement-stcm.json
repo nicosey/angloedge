@@ -26,11 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/steppe-cement-ltd--stcm/trading-update-for-q3-2026/9827253",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a pre-revenue exploration entity, this update likely details drilling progress rather than financial results; in the current UK equity market, such updates are routine but critical for validating resource estimates and managing cash burn expectations among speculative investors.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled periodic update on operational performance for the specified quarter. Without directional language in the headline, it generally serves to inform shareholders of routine progress rather than indicating a material change or significant event.",
       "key_themes": [
-        "Exploration Progress",
-        "Cash Burn Management"
+        "Trading Update",
+        "Results"
       ]
     },
     {
@@ -40,12 +40,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/steppe-cement-ltd--stcm/declaration-of-interim-dividend/9810098",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a pre-revenue exploration entity, the declaration of an interim dividend is highly anomalous and likely indicates a return of capital to shareholders rather than operational profitability, signaling potential strategic pivot or liquidity management in a capital-intensive sector.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a distribution of profits to shareholders, which may provide income but reduces retained earnings available for future growth. The specific financial impact and sustainability of this payout cannot be determined from the headline alone.",
       "key_themes": [
-        "capital_return",
-        "exploration_stage",
-        "unusual_dividend"
+        "Dividend",
+        "Shareholder return"
       ]
     },
     {
@@ -55,11 +54,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/steppe-cement-ltd--stcm/half-year-report-/9763021",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a micro-cap entity with negligible liquidity, STCM's interim results are unlikely to move the broader market but may trigger minor volatility among its small shareholder base amid ongoing sector headwinds from high energy costs and weak construction demand.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled release of half-year financial results, which provides shareholders with essential data on the company's performance and financial position for the period.",
       "key_themes": [
-        "interim results",
-        "micro-cap volatility"
+        "Results"
       ]
     },
     {
@@ -70,10 +68,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in the materials sector typically signal internal alignment rather than strategic shifts, offering negligible immediate alpha compared to fundamental catalysts like cement demand recovery or capex announcements.",
+      "insight": "This announcement indicates that a director has engaged in a transaction involving the company's shares, which is a routine regulatory disclosure. It provides limited insight into the company's operational performance or strategic direction.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Director Dealing",
+        "Governance"
       ]
     },
     {
@@ -124,10 +122,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "As a non-existent entity with no trading history on the London Stock Exchange, this announcement is likely fictitious or erroneous; without verifiable financial data or sector context, it holds zero market relevance.",
+      "insight": "This announcement signifies the release of scheduled annual financial results, which are critical for shareholders to assess the company's overall performance and financial health over the past year.",
       "key_themes": [
-        "non-existent_entity",
-        "data_integrity_issue"
+        "Results",
+        "Financial Reporting"
       ]
     }
   ]

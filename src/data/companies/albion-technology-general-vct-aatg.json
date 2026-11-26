@@ -109,12 +109,11 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-technology-general-vct--aatg/publication-of-prospectus/9728152",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing for an existing VCT product launch rather than a corporate event; it signals capital raising intent but carries no immediate operational impact on the listed entity's balance sheet or management.",
+      "impact_score": 6,
+      "insight": "The publication of a prospectus typically signifies that the company is preparing to raise capital or list securities, which may lead to dilution for existing shareholders.",
       "key_themes": [
-        "VCT",
-        "Capital Raising",
-        "Regulatory Filing"
+        "Capital raise",
+        "Regulatory filing"
       ]
     },
     {
@@ -146,12 +145,12 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-technology-general-vct--aatg/statement-regarding-the-proposed-issue-of-a-p-/9627696",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The issuance of a prospectus signals an imminent capital raise or listing event for Albion Technology & General VCT, likely aimed at replenishing investable assets in the UK venture capital sector amid tightening liquidity. This is a standard but critical operational step for VCTs to maintain their investment mandate and meet FCA requirements.",
+      "impact_score": 7,
+      "insight": "The proposed issue of a prospectus typically signifies a significant capital raising activity or a formal listing process, which can materially affect shareholder equity and dilution. This type of announcement indicates a major corporate action that requires regulatory approval and detailed disclosure to investors.",
       "key_themes": [
-        "Capital Raise",
-        "VCT Operations",
-        "Regulatory Compliance"
+        "Capital raise",
+        "Regulatory filing",
+        "Corporate action"
       ]
     },
     {
@@ -162,10 +161,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of individual director transactions, which typically carries negligible market impact unless the volume is exceptional or signals a coordinated shift in insider sentiment. For a VCT, such routine filings are administrative necessities rather than indicators of strategic direction or valuation changes.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into future performance but confirms compliance with insider dealing regulations.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Director dealings",
+        "Governance"
       ]
     },
     {
@@ -186,11 +185,11 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-technology-general-vct--aatg/agm-statement/9609930",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine administrative filing for a VCT AGM with no substantive corporate actions or strategic shifts indicated, reflecting standard governance compliance rather than market-moving events.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that a general meeting of shareholders has taken place, likely to approve routine governance matters or receive updates. It serves as a record of shareholder engagement rather than signaling any immediate financial or strategic change.",
       "key_themes": [
-        "Corporate Governance",
-        "VCT Administration"
+        "Governance",
+        "Shareholder Meeting"
       ]
     },
     {
@@ -200,12 +199,11 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/albion-technology-general-vct--aatg/albion-technology-general-vct-plc-interim-/9609358",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a VCT, this interim statement primarily reflects portfolio valuation changes and liquidity management rather than operational earnings; in the current UK private equity climate, such updates are critical for investors assessing NAV stability and dividend sustainability amidst broader market volatility.",
+      "impact_score": 5,
+      "insight": "This announcement provides an interim update on the company's performance between full reporting periods. It offers shareholders visibility into recent operational progress but lacks the detail of a full statutory results release.",
       "key_themes": [
-        "VCT",
-        "Interim Results",
-        "NAV"
+        "Interim Update",
+        "Performance Review"
       ]
     },
     {

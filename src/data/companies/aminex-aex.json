@@ -2,9 +2,20 @@
   "name": "Aminex (CDI)",
   "ticker": "AEX",
   "slug": "aminex-aex",
-  "announcement_count": 12,
-  "latest_announcement": "2026-11-09T14:30:00",
+  "announcement_count": 13,
+  "latest_announcement": "2026-11-25T08:50:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T08:50:00",
+      "category": null,
+      "headline": "Exercise of Options and Total Voting Rights",
+      "url": "https://www.investegate.co.uk/announcement/rns/aminex-cdi---aex/exercise-of-options-and-total-voting-rights/9893154",
+      "routine_type": "Total Voting Rights",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-09T14:30:00",
       "category": null,
@@ -12,11 +23,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/aminex-cdi---aex/ntorya-operations-update/9865781",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Operational updates for upstream exploration firms like Aminex typically carry low immediate financial impact unless they reveal significant resource upgrades or drilling failures; this falls under routine reporting with limited near-term catalyst potential.",
+      "impact_score": 5,
+      "insight": "This announcement provides a general operational update for shareholders, indicating ongoing activity but lacking specific details on financial impact or strategic milestones in the headline.",
       "key_themes": [
-        "upstream",
-        "operational_update"
+        "Operational Update",
+        "Corporate Reporting"
       ]
     },
     {
@@ -26,11 +37,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/aminex-cdi---aex/ntorya-rig-contract-signed-/9856445",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This contract represents a standard operational milestone for Aminex's Ntorya exploration programme rather than a transformative commercial event, reflecting typical upstream E&P activity in the Tanzanian sector without immediate revenue implications.",
+      "impact_score": 5,
+      "insight": "The signing of a rig contract signifies commercial progress and potential revenue generation for shareholders, though the absence of financial details in the headline prevents an assessment of its materiality.",
       "key_themes": [
-        "Upstream Exploration",
-        "Operational Update"
+        "Contract",
+        "Commercial"
       ]
     },
     {
@@ -101,11 +112,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/aminex-cdi---aex/directorate-changes/9778540",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine board-level administrative update for a junior explorer; without context on the appointee's background or specific mandate, this lacks the strategic weight to influence valuation or trading sentiment in the current high-cost exploration environment.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the board composition, which is a standard governance update. Such changes are routine and typically do not signal immediate strategic shifts or material financial impacts for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Junior Exploration"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -126,11 +137,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/aminex-cdi---aex/ruvuma-update/9735018",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Operational updates for junior explorers like Aminex are typically low-impact unless they reveal significant resource upgrades or funding needs; without specific reserve revisions or drilling results in the headline, this is likely routine progress reporting.",
+      "impact_score": 5,
+      "insight": "This update likely provides progress on an ongoing operational project, which is significant for shareholders as it offers visibility into execution and potential future value realization without indicating immediate financial results.",
       "key_themes": [
-        "Exploration Update",
-        "Tanzania Operations"
+        "Operational Update",
+        "Project Progress"
       ]
     },
     {
@@ -140,11 +151,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/aminex-cdi---aex/ruvuma-operations-and-corporate-update/9668352",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Operational updates for junior explorers like Aminex typically lack immediate catalysts unless they reveal significant resource expansion or drilling success; without specific grade or volume data in the headline, this is likely routine corporate housekeeping with limited near-term price impact.",
+      "impact_score": 5,
+      "insight": "This announcement likely provides a scheduled operational update for the Ruvuma segment alongside general corporate news, which is typical for ongoing business reporting. Without specific details on performance or strategy in the headline, it represents standard information flow rather than a material event.",
       "key_themes": [
-        "operational_update",
-        "exploration"
+        "Operational Update",
+        "Corporate News"
       ]
     },
     {

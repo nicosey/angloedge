@@ -12,11 +12,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/agronomics-limited--anic/solar-foods-receive-efsa-positive-opinion-/9873607",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement concerns Solar Foods, a separate entity from Agronomics Limited (ANIC), indicating no direct operational or financial impact on the listed company.",
+      "impact_score": 1,
+      "insight": "The headline references a regulatory opinion for 'Solar Foods', an entity distinct from the named company 'Agronomics Limited'. As this announcement concerns a third party and does not describe any activity or relationship involving the subject company, it has no direct bearing on its shareholders.",
       "key_themes": [
-        "irrelevant_news",
-        "market_noise"
+        "Regulatory",
+        "Third-party news"
       ]
     },
     {
@@ -26,11 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/agronomics-limited--anic/portfolio-update/9868863",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Portfolio updates are standard informational disclosures for investment trusts that rarely move share prices without accompanying NAV changes or dividend announcements; ANIC's status as a niche agri-tech vehicle limits immediate sector-wide precedent impact.",
+      "impact_score": 5,
+      "insight": "A portfolio update generally provides shareholders with a progress report on the company's investments or assets, though the headline does not disclose specific performance metrics or strategic shifts.",
       "key_themes": [
-        "investment trust",
-        "portfolio disclosure"
+        "Portfolio Update",
+        "Investor Relations"
       ]
     },
     {
@@ -55,11 +55,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures for a micro-cap agritech firm typically carry negligible market impact unless accompanied by significant volume or insider trading alerts, reflecting standard liquidity management rather than strategic signaling.",
+      "insight": "This announcement relates to director shareholdings, which typically signifies routine regulatory compliance regarding insider transactions rather than a strategic corporate event.",
       "key_themes": [
-        "micro-cap",
-        "corporate governance",
-        "low volatility"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -83,12 +82,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/agronomics-limited--anic/agronomics-portfolio-company-hydgene-update/9602962",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "As a portfolio company update for a pre-revenue agritech firm, this likely represents routine operational progress rather than a value-inflecting event; HydGene's hydrogen technology remains in the development phase with no immediate revenue visibility to drive ANIC's valuation.",
+      "impact_score": 2,
+      "insight": "This announcement provides an update on a portfolio company, which typically serves as informational rather than indicating immediate financial impact for the parent company's shareholders.",
       "key_themes": [
-        "portfolio_update",
-        "agritech",
-        "hydrogen"
+        "Portfolio Update",
+        "Corporate News"
       ]
     },
     {
@@ -99,10 +97,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "As a venture capital trust holding a minority stake in Bond Pet Foods, this update reflects operational progress of a portfolio company rather than direct corporate action by Agronomics, limiting immediate financial impact on ANIC's NAV.",
+      "insight": "This update concerns a portfolio company rather than the reporting entity itself, suggesting limited direct financial impact for shareholders of the parent. Such announcements typically provide operational progress or status updates on an investment holding.",
       "key_themes": [
         "Portfolio Update",
-        "Consumer Staples"
+        "Investment"
       ]
     }
   ]

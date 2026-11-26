@@ -2,9 +2,20 @@
   "name": "Gaming Realms",
   "ticker": "GMR",
   "slug": "gaming-realms-gmr",
-  "announcement_count": 24,
-  "latest_announcement": "2026-11-20T07:00:00",
+  "announcement_count": 25,
+  "latest_announcement": "2026-11-26T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T07:00:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/gaming-realms--gmr/transaction-in-own-shares/9894499",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T07:00:00",
       "category": "Share Buyback",
@@ -12,11 +23,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/gaming-realms--gmr/update-on-share-buyback-programme/9885209",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This update signals continued capital allocation discipline in a sector where cash preservation is critical; it reflects management's confidence in the company's valuation and commitment to returning value amidst the competitive iGaming landscape.",
+      "impact_score": 3,
+      "insight": "This update likely provides progress details on an existing share buyback programme, which generally signifies capital return to shareholders but requires further disclosure for full assessment.",
       "key_themes": [
-        "capital_return",
-        "shareholder_value"
+        "Share Buyback",
+        "Capital Return"
       ]
     },
     {
@@ -238,11 +249,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/gaming-realms--gmr/result-of-agm/9614536",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no immediate financial or strategic weight for Gaming Realms' core iGaming operations.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or fee ratifications. It signifies standard corporate governance compliance rather than any material change to the company's strategic direction or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -263,11 +274,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/gaming-realms--gmr/adoption-and-grant-of-options/9607528",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard equity incentive administration event with no immediate impact on capital structure or operational strategy; such grants are routine for talent retention in the competitive UK tech sector and do not signal material financial shifts.",
+      "impact_score": 3,
+      "insight": "This announcement signifies the granting of options to directors or employees, which is a standard governance matter related to remuneration and retention. It typically has a neutral to low immediate financial impact on shareholders unless associated with significant performance conditions.",
       "key_themes": [
-        "Corporate Governance",
-        "Employee Incentives"
+        "Governance",
+        "Remuneration"
       ]
     },
     {

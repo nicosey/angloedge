@@ -26,11 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/primary-health-properties--php/director-announcement-/9868278",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Without the specific details of the director's transaction in the prompt, this is classified as a routine administrative disclosure; however, in the context of PHP's recent liquidity challenges and sector-wide rent deferral pressures, any significant insider selling would warrant heightened scrutiny regarding management confidence.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the board composition, which is a standard governance event. It signifies a potential shift in leadership oversight but does not imply immediate financial or strategic consequences.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -126,10 +126,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine PDMR shareholding disclosures are standard regulatory filings with negligible immediate market impact; however, in the current UK REIT sector context of high interest rates and valuation compression, any significant insider buying would signal strong conviction in PHP's resilient income stream.",
+      "insight": "This announcement relates to director shareholdings, which typically signifies routine insider trading activity rather than a significant corporate event. It generally indicates standard governance compliance without implying immediate strategic changes or financial impacts.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -140,10 +140,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard investor relations activity with no new financial data or strategic announcements; retail presentations are routine communication tools that do not alter the fundamental investment thesis or valuation of Primary Health Properties.",
+      "insight": "This announcement signifies a marketing or investor relations activity rather than a substantive corporate event. It provides no information regarding financial performance, strategic changes, or governance issues relevant to shareholders.",
       "key_themes": [
         "Investor Relations",
-        "Corporate Communications"
+        "Marketing"
       ]
     },
     {
@@ -195,12 +195,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/primary-health-properties--php/debt-refinancing/9645702",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Refinancing debt for a REIT like PHP is critical to manage interest rate exposure and extend maturity profiles in a high-rate environment; while routine, it signals active balance sheet management essential for maintaining investment-grade status and refinancing risk mitigation.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a corporate finance activity related to the company's capital structure, which may affect its cost of debt and financial flexibility. The specific implications for shareholders depend on the terms and conditions not disclosed in the headline.",
       "key_themes": [
-        "Debt Management",
-        "Interest Rate Risk",
-        "REIT Sector"
+        "Debt refinancing",
+        "Corporate finance"
       ]
     },
     {
@@ -210,12 +209,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/primary-health-properties--php/notice-of-interim-dividend/9610056",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a core REIT holding in the FTSE 250, PHP's interim dividend announcement is a critical signal of its liquidity position and confidence in the healthcare property sector's resilience amid rising interest rates. While routine for income-focused investors, the yield level relative to peers will be scrutinized for signs of margin compression or strategic pivot towards higher-growth assets.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a scheduled distribution of profits to shareholders, indicating ongoing operational activity. It provides information on income generation but does not suggest any strategic shifts or financial distress.",
       "key_themes": [
-        "REIT",
-        "Income Yield",
-        "Healthcare Property"
+        "Dividend",
+        "Shareholder return"
       ]
     }
   ]

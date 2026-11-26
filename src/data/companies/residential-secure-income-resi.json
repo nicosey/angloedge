@@ -2,9 +2,23 @@
   "name": "Residential Secure Income",
   "ticker": "RESI",
   "slug": "residential-secure-income-resi",
-  "announcement_count": 20,
-  "latest_announcement": "2026-10-13T15:03:00",
+  "announcement_count": 21,
+  "latest_announcement": "2026-11-26T15:16:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T15:16:00",
+      "category": null,
+      "headline": "Sale of Shared Ownership Portfolio",
+      "url": "https://www.investegate.co.uk/announcement/rns/residential-secure-income--resi/sale-of-shared-ownership-portfolio/9896321",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "The sale of the shared ownership portfolio follows the October update, likely finalizing the disposal. This completes a significant asset reduction process for shareholders.",
+      "key_themes": [
+        "Asset disposal",
+        "Capital return"
+      ]
+    },
     {
       "timestamp": "2026-10-13T15:03:00",
       "category": null,
@@ -12,11 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/residential-secure-income--resi/fund-management-fee/9820933",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement details standard operational costs for a REIT, reflecting routine fee structures rather than strategic shifts; such disclosures are common in the UK residential sector and do not signal material financial distress or growth catalysts.",
+      "impact_score": 3,
+      "insight": "This announcement likely details routine operational costs related to fund management, which is standard for investment vehicles. It signifies ongoing administrative activity rather than a strategic shift or material financial event.",
       "key_themes": [
-        "REIT operations",
-        "Administrative disclosure"
+        "Governance",
+        "Operational Update"
       ]
     },
     {
@@ -26,12 +40,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/residential-secure-income--resi/sale-of-shared-ownership-portfolio-update-/9820051",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Divestment of a shared ownership portfolio signals a strategic pivot towards core secure income assets, reducing regulatory complexity and capital intensity in the affordable housing sector.",
+      "impact_score": 5,
+      "insight": "This update likely provides progress on a previously announced transaction involving the disposal of assets, which is relevant for understanding the execution timeline and potential financial impact. Shareholders should monitor this for confirmation of deal completion or any material changes to the terms.",
       "key_themes": [
-        "Portfolio Optimization",
-        "Affordable Housing",
-        "Capital Recycling"
+        "Asset disposal",
+        "Transaction update"
       ]
     },
     {
@@ -122,12 +135,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/residential-secure-income--resi/initial-b-share-scheme-cap-return-prop-inc-distn/9721562",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The announcement of a B Share Scheme Cap Return alongside a property income distribution signals active capital recycling within RESI's residential secure income strategy, likely aimed at optimizing yield or managing leverage in the current high-interest rate environment.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a return of capital to B Share holders and the declaration of an income distribution, which directly affects shareholder returns.",
       "key_themes": [
-        "Capital Recycling",
-        "Yield Optimization",
-        "Residential REIT"
+        "Dividend",
+        "Capital Return"
       ]
     },
     {
@@ -138,11 +150,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This update reflects standard portfolio recycling within the residential secure income sector, likely driven by rising interest rates compressing yields on mature assets rather than fundamental operational shifts. While it confirms active management of the book, it signals limited organic growth potential and reinforces the sector's reliance on continuous capital raising to sustain distributions.",
+      "insight": "This update likely provides information regarding a distribution of capital or income to shareholders resulting from asset disposals. It signifies a return of funds rather than operational performance changes.",
       "key_themes": [
-        "Portfolio Recycling",
-        "Yield Compression",
-        "Capital Management"
+        "Dividend",
+        "Capital Return"
       ]
     },
     {
@@ -185,11 +196,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/residential-secure-income--resi/retirement-disposal-distribution-update/9675769",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This update reflects standard portfolio rebalancing within the residential secure income sector, likely driven by rising interest rates compressing yields and prompting asset disposals to maintain target returns rather than indicating fundamental distress.",
+      "impact_score": 4,
+      "insight": "This update likely provides details regarding a distribution of capital or income to shareholders resulting from the disposal of assets. It signifies a return of funds rather than operational performance changes.",
       "key_themes": [
-        "Portfolio Rebalancing",
-        "Yield Compression"
+        "Dividend",
+        "Asset Disposal",
+        "Capital Return"
       ]
     },
     {
@@ -210,11 +222,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/residential-secure-income--resi/result-of-general-meeting/9659431",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at an AGM/EGM, which typically ratifies routine matters such as director reappointments or fee approvals rather than signaling strategic shifts.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which is a standard governance event for shareholders. It typically signifies that routine resolutions were put to a vote, but without further detail, it does not indicate any material change in value or strategy.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder Vote"
       ]
     },
     {
@@ -224,11 +236,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/residential-secure-income--resi/fund-management-fee/9650516",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative disclosure regarding the calculation of management fees for an investment trust, carrying no material financial impact or strategic shift. Such announcements are routine operational updates that do not alter the fundamental valuation or risk profile of RESI.",
+      "impact_score": 3,
+      "insight": "This announcement likely details standard operational costs related to fund management, which is typical for investment trusts. It generally signifies routine administrative activity rather than a significant strategic shift or financial event.",
       "key_themes": [
-        "administrative",
-        "investment-trust"
+        "Governance",
+        "Operational Update"
       ]
     },
     {
@@ -249,11 +261,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/residential-secure-income--resi/publication-of-circular-general-meeting-notice/9626570",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard procedural filing for the REIT sector to secure shareholder approval for ongoing corporate governance matters, such as dividend payments or director mandates. It carries no intrinsic valuation impact unless the agenda reveals unexpected capital constraints or strategic shifts.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that a general meeting is being convened, requiring shareholders to vote on specific matters outlined in the accompanying circular. The outcome of such votes can influence corporate governance or capital structure but typically carries lower immediate financial impact than major transactions.",
       "key_themes": [
-        "Corporate Governance",
-        "REIT Compliance"
+        "Governance",
+        "Shareholder Vote"
       ]
     }
   ]

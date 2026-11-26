@@ -2,9 +2,20 @@
   "name": "North Atlantic Smaller Companies Inv Trust",
   "ticker": "NAS",
   "slug": "north-atlantic-smaller-companies-inv-trust-nas",
-  "announcement_count": 30,
-  "latest_announcement": "2026-11-20T16:58:00",
+  "announcement_count": 31,
+  "latest_announcement": "2026-11-26T10:48:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T10:48:00",
+      "category": null,
+      "headline": "Transaction in Own Shares and TVR",
+      "url": "https://www.investegate.co.uk/announcement/rns/north-atlantic-smaller-companies-inv-trust--nas/transaction-in-own-shares-and-tvr/9895773",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T16:58:00",
       "category": null,
@@ -136,12 +147,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/north-atlantic-smaller-companies-inv-trust--nas/half-year-report/9780772",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a standard half-year report for an investment trust, this primarily serves as a routine disclosure of NAV performance and portfolio positioning rather than a catalyst for immediate price discovery, though it provides essential context on the discount/premium dynamics in the current UK small-cap environment.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled half-year results, which will provide shareholders with an update on the investment trust's financial performance and portfolio activity for the first six months of the fiscal year.",
       "key_themes": [
-        "investment trust",
-        "interim results",
-        "NAV performance"
+        "Results",
+        "Financial Reporting"
       ]
     },
     {
@@ -239,11 +249,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/north-atlantic-smaller-companies-inv-trust--nas/portfolio-update-medication-packaging-holdco/9654891",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard portfolio disclosure for an investment trust, detailing holdings in the defensive healthcare packaging sector rather than signaling a corporate event or material change in strategy.",
+      "impact_score": 3,
+      "insight": "This announcement likely provides a routine update on the investment portfolio of the trust, specifically regarding its holding in Medication Packaging Holdco. Such updates are typically informational and do not indicate immediate material changes to the company's value or strategy.",
       "key_themes": [
-        "Portfolio Disclosure",
-        "Healthcare Infrastructure"
+        "Portfolio Update",
+        "Investment Holding"
       ]
     },
     {
@@ -297,11 +307,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/north-atlantic-smaller-companies-inv-trust--nas/result-of-agm/9614236",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of an Annual General Meeting, which typically involves routine matters such as director re-election and auditor appointment rather than strategic shifts or capital changes.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of the Annual General Meeting, which typically involves routine governance matters such as director reappointments and auditor ratification. Shareholders should review the results to ensure their interests were represented in standard corporate decisions.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Meeting Results"
       ]
     },
     {

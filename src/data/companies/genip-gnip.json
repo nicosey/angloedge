@@ -12,11 +12,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/genip--gnip/capital-access-window-suspension-of-trading/9880046",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Trading suspension for capital access is a standard administrative procedure to ensure price integrity during corporate actions; while it signals an imminent funding event, the lack of specific details limits immediate strategic interpretation.",
+      "impact_score": 9,
+      "insight": "The suspension of trading indicates a severe disruption to liquidity and suggests significant underlying issues requiring immediate regulatory scrutiny. This status typically signals high uncertainty regarding the company's future viability or corporate governance until trading resumes.",
       "key_themes": [
-        "Capital Raise",
-        "Liquidity Risk"
+        "Suspension",
+        "Liquidity Risk",
+        "Governance"
       ]
     },
     {
@@ -26,11 +27,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/genip--gnip/capital-access-window-genip-plc/9880042",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative notice confirming the availability of a capital raising facility rather than an active transaction; without disclosed size or pricing, it signals no immediate liquidity event or strategic shift for Genip.",
+      "impact_score": 7,
+      "insight": "This headline suggests a formal process regarding capital access, which typically signifies a potential fundraise or significant financial restructuring that could materially affect shareholder value and ownership dilution.",
       "key_themes": [
-        "Capital Raising",
-        "Administrative"
+        "Capital raise",
+        "Financial restructuring"
       ]
     },
     {
@@ -41,11 +42,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "The soft launch of the Invention Evaluator platform represents a product development milestone rather than an immediate revenue driver, reflecting Genip's ongoing pivot from traditional IP management to AI-driven valuation services in a niche but competitive market.",
+      "insight": "This announcement signifies a product launch or platform release, which typically indicates operational progress but lacks specific financial metrics to assess immediate shareholder value. Without details on revenue impact or adoption rates, the materiality of this event for valuation remains unclear.",
       "key_themes": [
         "Product Launch",
-        "AI Integration",
-        "IP Valuation"
+        "Operational Update"
       ]
     },
     {
@@ -55,11 +55,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/genip--gnip/operational-update-investor-webinar/9761830",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Operational updates for Genip are typically incremental rather than transformative, reflecting the company's niche position in the digital identity and verification sector where growth is steady but not explosive.",
+      "impact_score": 5,
+      "insight": "This announcement provides a scheduled operational update and invites investors to a webinar, which typically offers insights into recent performance without disclosing specific financial metrics or directional guidance in the headline.",
       "key_themes": [
-        "operational update",
-        "investor relations"
+        "Operational Update",
+        "Investor Relations"
       ]
     },
     {
@@ -69,11 +69,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/genip--gnip/new-recurring-contract-wins-/9714406",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Contract wins provide tangible evidence of demand for Genip's digital identity solutions, supporting revenue visibility in a competitive fintech landscape, though the lack of financial quantification limits immediate valuation impact.",
+      "impact_score": 5,
+      "insight": "This announcement indicates that the company has secured new business, which typically signals revenue generation and operational activity. Without details on contract size or duration, the financial significance remains unclear.",
       "key_themes": [
-        "revenue_growth",
-        "digital_identity"
+        "Contract wins",
+        "Business development"
       ]
     },
     {

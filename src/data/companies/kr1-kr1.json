@@ -2,9 +2,23 @@
   "name": "KR1 Plc",
   "ticker": "KR1",
   "slug": "kr1-kr1",
-  "announcement_count": 11,
-  "latest_announcement": "2026-11-19T07:00:00",
+  "announcement_count": 12,
+  "latest_announcement": "2026-11-26T12:27:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T12:27:00",
+      "category": "AGM/EGM",
+      "headline": "Result of Annual General Meeting 2026",
+      "url": "https://www.investegate.co.uk/announcement/rns/kr1-plc--kr1/result-of-annual-general-meeting-2026/9895989",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "KR1 Plc reports the outcome of its Annual General Meeting. Shareholders should monitor subsequent filings for details on the recently launched Ethereum and Bittensor infrastructure operations.",
+      "key_themes": [
+        "Governance",
+        "Infrastructure"
+      ]
+    },
     {
       "timestamp": "2026-11-19T07:00:00",
       "category": null,
@@ -12,12 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/kr1-plc--kr1/launch-of-diem-infrastructure-operations/9882985",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Marks KR1's transition from a development-stage asset to an operational income generator, validating the 'build-to-rent' strategy in the UK infrastructure sector. This milestone is critical for attracting yield-seeking institutional capital and reducing execution risk premium.",
+      "impact_score": 5,
+      "insight": "The launch of new operations signifies a strategic milestone that may indicate business expansion or revenue generation potential for shareholders.",
       "key_themes": [
-        "Infrastructure",
-        "Operational Milestone",
-        "Yield Generation"
+        "Operational Launch",
+        "Business Development"
       ]
     },
     {
@@ -56,10 +69,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signals a strategic pivot into crypto infrastructure but lacks immediate revenue visibility or scale to impact KR1's core business fundamentals significantly.",
+      "insight": "This announcement indicates a new operational initiative but lacks specific details regarding financial impact or strategic significance for shareholders. Without further information on scale or expected returns, it represents a standard business development rather than a material event.",
       "key_themes": [
-        "Crypto Infrastructure",
-        "Strategic Diversification"
+        "Operational Update",
+        "Technology Launch"
       ]
     },
     {
@@ -70,10 +83,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard investor relations update with no immediate financial or operational impact on KR1's valuation; such announcements are routine administrative actions aimed at improving communication efficiency rather than signaling strategic shifts.",
+      "insight": "This announcement signifies the release of marketing or informational materials for investors, which is typically administrative housekeeping with no direct financial impact on shareholders.",
       "key_themes": [
         "Investor Relations",
-        "Corporate Communications"
+        "Housekeeping"
       ]
     },
     {
@@ -154,10 +167,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard periodic reporting update for an infrastructure income vehicle, reflecting routine asset performance rather than strategic shifts; such announcements typically have negligible price impact unless they signal significant yield compression or portfolio de-risking.",
+      "insight": "This announcement appears to be a periodic report or update regarding infrastructure income and holdings for April 2026. It likely provides routine performance data rather than signaling a material corporate event or strategic shift.",
       "key_themes": [
-        "Infrastructure Income",
-        "Routine Reporting"
+        "Income Report",
+        "Periodic Update"
       ]
     }
   ]

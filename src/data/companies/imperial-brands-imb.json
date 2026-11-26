@@ -2,9 +2,34 @@
   "name": "Imperial Brands",
   "ticker": "IMB",
   "slug": "imperial-brands-imb",
-  "announcement_count": 110,
-  "latest_announcement": "2026-11-23T10:14:00",
+  "announcement_count": 112,
+  "latest_announcement": "2026-11-26T13:06:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T13:06:00",
+      "category": null,
+      "headline": "Disclosure Table",
+      "url": "https://www.investegate.co.uk/announcement/rns/imperial-brands--imb/disclosure-table/9896117",
+      "routine_type": "Disclosure Table",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-26T12:56:00",
+      "category": "Acquisition",
+      "headline": "Statement re Possible Offer",
+      "url": "https://www.investegate.co.uk/announcement/rns/imperial-brands--imb/statement-re-possible-offer/9896033",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "A possible offer follows the Black Buffalo acquisition. Shareholders should watch for details on this potential transaction.",
+      "key_themes": [
+        "M&A",
+        "Corporate action"
+      ]
+    },
     {
       "timestamp": "2026-11-23T10:14:00",
       "category": null,
@@ -23,12 +48,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/imperial-brands--imb/dividend-declaration/9878518",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Imperial Brands' dividend declaration signals continued commitment to shareholder returns despite the structural decline in traditional combustible tobacco volumes, highlighting a strategic pivot towards cash flow generation and potential M&A or buybacks rather than organic growth.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a formal declaration of a dividend payment to shareholders. It generally indicates that the board has approved a distribution of profits, which may influence investor sentiment regarding income returns.",
       "key_themes": [
-        "Shareholder Yield",
-        "Cash Flow Management",
-        "Tobacco Sector Decline"
+        "Dividend",
+        "Shareholder return"
       ]
     },
     {
@@ -50,10 +74,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine PDMR disclosures typically reflect standard compliance or minor personal liquidity needs rather than strategic conviction shifts; without volume data indicating significant accumulation or divestment by key executives, this holds negligible signal for IMB's valuation trajectory.",
+      "insight": "This announcement relates to director shareholding transactions, which are routine regulatory disclosures indicating standard insider trading activity rather than significant strategic shifts. It generally signifies compliance with market conduct rules and provides transparency into individual executive positions without implying a specific directional bias.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -163,10 +187,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings typically signal negligible immediate market impact compared to strategic corporate actions; in the current IMB context, focus remains on dividend sustainability and transition risks rather than individual insider trades.",
+      "insight": "This announcement relates to director dealings, which typically signifies routine compliance reporting rather than a significant strategic shift. Shareholders should view this as standard governance disclosure with limited immediate financial impact.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -177,11 +201,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "This £750m tranche signals strong free cash flow generation and management's commitment to returning capital in a mature tobacco sector facing structural volume declines, aligning with peers like BAT and JTI prioritizing shareholder returns over growth.",
+      "insight": "This announcement signifies a substantial capital return to shareholders through a significant share buyback program. It indicates management's confidence in the company's financial position and commitment to enhancing shareholder value by reducing the equity base.",
       "key_themes": [
-        "capital return",
-        "cash flow strength",
-        "shareholder yield"
+        "Capital return",
+        "Shareholder value",
+        "Buyback"
       ]
     },
     {
@@ -910,10 +934,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine PDMR disclosures are standard regulatory requirements with negligible immediate market impact; however, in the context of Imperial Brands' ongoing transition from combustible to reduced-risk products, monitoring executive net buying can serve as a subtle sentiment indicator regarding management's confidence in the valuation floor.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into corporate strategy but confirms compliance with insider dealing regulations.",
       "key_themes": [
-        "Corporate Governance",
-        "Executive Sentiment"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -1220,12 +1244,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/imperial-brands--imb/acquisition-of-black-buffalo/9587926",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This acquisition signals a strategic pivot towards harm reduction and alternative nicotine products, aligning with Imperial Brands' broader decarbonisation strategy amidst declining combustible cigarette volumes in the UK market.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a material acquisition that may alter the company's strategic direction or asset base. Shareholders should anticipate potential changes to the firm's operational scope or financial structure as a result of this transaction.",
       "key_themes": [
-        "Harm Reduction",
-        "Product Diversification",
-        "Strategic Pivot"
+        "M&A",
+        "Acquisition",
+        "Strategic expansion"
       ]
     },
     {

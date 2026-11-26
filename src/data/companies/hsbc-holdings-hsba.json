@@ -2,9 +2,20 @@
   "name": "HSBC Holdings",
   "ticker": "HSBA",
   "slug": "hsbc-holdings-hsba",
-  "announcement_count": 130,
-  "latest_announcement": "2026-11-24T10:03:00",
+  "announcement_count": 131,
+  "latest_announcement": "2026-11-25T16:09:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T16:09:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/holding-s-in-company/9894210",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-24T10:03:00",
       "category": null,
@@ -67,12 +78,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/result-of-tender-offer/9886595",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement confirms the completion of a standard capital management action, likely a share buyback or tender offer, which is routine for HSBC's current strategy of returning excess capital to shareholders amid stable regulatory capital ratios. It reflects no fundamental shift in business model or profitability, serving merely as an administrative execution of previously approved shareholder return programs.",
+      "impact_score": 5,
+      "insight": "This announcement indicates the conclusion of a tender offer process, which typically involves capital management actions such as share buybacks or debt redemption. Shareholders should expect details regarding the number of securities accepted and any resulting changes to the company's capital structure.",
       "key_themes": [
-        "capital_return",
-        "shareholder_yield",
-        "routine_administrative"
+        "Capital return",
+        "Shareholder action",
+        "Corporate finance"
       ]
     },
     {
@@ -138,10 +149,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine PDMR transaction disclosures are standard regulatory requirements for HSBC and carry negligible market impact, as they do not indicate a shift in institutional sentiment or corporate strategy compared to the bank's massive AUM and trading volumes.",
+      "insight": "This announcement signifies routine regulatory compliance regarding insider trading disclosures by persons discharging managerial responsibilities. It provides transparency into individual director transactions but does not inherently indicate a strategic shift or material financial impact for shareholders.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_impact"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -173,11 +184,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/tender-offer-new-issue-condition-satisfaction/9875335",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement confirms the successful execution of a pre-announced capital return mechanism, likely related to the recent £10bn share buyback programme, rather than indicating new strategic shifts or financial distress. Such administrative confirmations are standard operational updates for major UK banks managing excess CET1 ratios under PRA guidelines.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that a specific condition for a new issue has been met, which is typically an administrative step in a financing process rather than a standalone strategic event. Shareholders should view this as procedural housekeeping unless further details reveal the scale or purpose of the capital raise.",
       "key_themes": [
-        "capital_return",
-        "administrative_update"
+        "Capital raise",
+        "Corporate action"
       ]
     },
     {
@@ -188,11 +199,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "This issuance reinforces HSBC's CET1 ratio buffer ahead of potential regulatory tightening or dividend growth, reflecting the broader banking sector's focus on capital resilience amid rising interest rate volatility.",
+      "insight": "This announcement signifies the issuance of contingent convertible securities, a capital management action that can dilute existing equity holders upon conversion and alters the firm's leverage profile. It generally indicates a strategic move to strengthen regulatory capital buffers or manage liquidity requirements.",
       "key_themes": [
-        "capital management",
-        "regulatory compliance",
-        "banking sector"
+        "Capital raise",
+        "Regulatory compliance",
+        "Shareholder dilution"
       ]
     },
     {
@@ -291,10 +302,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard administrative disclosures with negligible fundamental impact on HSBC's valuation or strategic trajectory, reflecting individual liquidity needs rather than institutional sentiment shifts.",
+      "insight": "This announcement relates to director shareholdings, which typically indicates routine compliance reporting rather than significant strategic shifts. It generally signifies standard governance activity with limited immediate impact on shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -348,11 +359,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/hsbc-in-the-uk-briefing-for-investors-and-analysts/9863968",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard investor relations briefing document rather than a material corporate action or financial disclosure, indicating no immediate price-sensitive catalyst for HSBA shares.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a scheduled briefing for investors and analysts, which typically provides general updates or context rather than specific financial results or strategic shifts. Shareholders should expect routine communication rather than material corporate actions.",
       "key_themes": [
         "Investor Relations",
-        "Routine Communication"
+        "Briefing"
       ]
     },
     {
@@ -384,11 +395,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/hsbc-increases-max-tender-amount-of-tender-offer/9862705",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This administrative adjustment to the HSBC tender offer mechanics signals continued confidence in its valuation but lacks transformative strategic weight compared to core earnings or regulatory developments.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a modification to an ongoing tender offer process, which typically signals continued engagement in capital management or strategic restructuring. Shareholders should monitor further details regarding the terms and potential outcomes of this financial activity.",
       "key_themes": [
-        "capital return",
-        "shareholder yield"
+        "Capital return",
+        "Tender offer"
       ]
     },
     {
@@ -409,11 +420,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/overseas-regulatory-announcement-grant-of-awards/9860394",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative disclosure regarding executive compensation awards, which has no direct bearing on HSBC's fundamental valuation or immediate share price trajectory.",
+      "impact_score": 3,
+      "insight": "This announcement typically signifies the granting of share awards to individuals, often directors or senior employees, which is a standard governance and remuneration matter. It generally has minimal direct financial impact on the company's operations or valuation compared to strategic or financial results.",
       "key_themes": [
-        "Corporate Governance",
-        "Executive Remuneration"
+        "Remuneration",
+        "Governance"
       ]
     },
     {
@@ -534,15 +545,11 @@
       "category": null,
       "headline": "Publication of Base Prospectus Supplement",
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/publication-of-base-prospectus-supplement/9846335",
-      "routine_type": null,
-      "enriched": true,
-      "impact_score": 4,
-      "insight": "This announcement indicates the publication of a base prospectus supplement, which is a procedural step in the preparation for a potential capital raise or debt issuance. It signals that the company may be preparing to access financial markets, though no specific terms or amounts are disclosed.",
-      "key_themes": [
-        "Capital markets",
-        "Prospectus",
-        "Financing"
-      ]
+      "routine_type": "Debt Notices",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-10-28T11:00:00",
@@ -590,11 +597,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/overseas-regulatory-announcement-board-meeting/9822472",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming a board meeting has taken place, likely to approve routine matters such as dividends or interim reports rather than transformative events. Without specific details on the agenda, it carries no immediate pricing power for HSBA.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that the board of directors is convening for a scheduled meeting, which typically involves routine governance matters rather than immediate strategic shifts or material financial events.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Board Meeting"
       ]
     },
     {
@@ -626,10 +633,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/overseas-regulatory-announcement-grant-of-awards/9817959",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative disclosure regarding executive compensation awards, which has no direct bearing on HSBC's financial performance or strategic direction. Such routine filings are common across the FTSE 100 banking sector and do not signal any material change in shareholder value.",
+      "impact_score": 3,
+      "insight": "This announcement typically signifies routine executive compensation arrangements, which are standard governance matters rather than events that materially alter the company's financial position or strategic direction.",
       "key_themes": [
-        "Corporate Governance",
+        "Governance",
         "Executive Compensation"
       ]
     },
@@ -672,13 +679,10 @@
       "headline": "Transaction in Own Shares- conclusion of buy-back",
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/transaction-in-own-shares-conclusion-of-buy-back/9794786",
       "routine_type": "Transaction in Own Shares",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement signifies the completion of a share buyback program, which is a standard capital management action. It generally indicates that the company has finished repurchasing shares under a previously authorized mandate.",
-      "key_themes": [
-        "Share Buyback",
-        "Capital Return"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-09-28T15:30:00",
@@ -820,11 +824,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/second-interim-dividend-for-2026-exchange-rate/9770891",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The explicit focus on exchange rate mechanics for the 2026 interim dividend highlights HSBC's ongoing management of FX volatility in its international earnings stream, a critical factor for global banks amidst persistent currency fluctuations.",
+      "impact_score": 4,
+      "insight": "This announcement signifies a scheduled dividend payment for the specified year, indicating ongoing shareholder returns. The mention of exchange rates suggests potential currency-related adjustments to the payout value.",
       "key_themes": [
-        "FX Risk Management",
-        "Capital Return Policy"
+        "Dividend",
+        "Shareholder return"
       ]
     },
     {
@@ -846,10 +850,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine debt issuance typical for global systemically important banks to manage liquidity coverage ratios and funding costs; lacks the transformative nature of equity raises or M&A that would significantly alter HSBC's capital structure or market positioning.",
+      "insight": "This announcement signifies a routine capital raising activity through debt issuance, which is standard for maintaining liquidity and funding operations without immediate dilution to existing equity holders.",
       "key_themes": [
-        "capital_management",
-        "funding_strategy"
+        "Capital raise",
+        "Debt financing"
       ]
     },
     {
@@ -859,11 +863,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/issuance-of-senior-unsecured-bonds/9768108",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine debt issuance reflects standard liquidity management rather than strategic transformation; while necessary for funding, it dilutes equity slightly and signals no immediate M&A or major capital return shifts.",
+      "impact_score": 4,
+      "insight": "This announcement signifies a capital raising activity through debt issuance, which typically dilutes equity value slightly or alters the capital structure but does not indicate immediate operational changes. It generally reflects routine funding management rather than a transformative strategic event.",
       "key_themes": [
-        "capital_management",
-        "debt_issuance"
+        "Capital raise",
+        "Debt issuance"
       ]
     },
     {
@@ -873,12 +877,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/group-cfo-succession/9765475",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Succession at the CFO level is a critical governance event for HSBC, signaling continuity in its post-CEO Noel Quinn restructuring phase; while routine compared to CEO changes, it impacts investor confidence in the execution of cost-saving and capital allocation strategies.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a potential departure of a key executive, which is a significant governance event for shareholders. It may indicate strategic shifts or leadership instability within the organization.",
       "key_themes": [
-        "Corporate Governance",
-        "Leadership Transition",
-        "Banking Sector"
+        "Governance",
+        "Executive Change"
       ]
     },
     {
@@ -1097,11 +1100,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/overseas-regulatory-announcement-grant-of-awards/9731981",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative disclosure regarding executive compensation grants, which has no direct bearing on HSBC's fundamental valuation or immediate share price trajectory.",
+      "impact_score": 3,
+      "insight": "This announcement typically signifies routine executive compensation arrangements, which are standard governance matters rather than events that directly alter the company's financial position or strategic direction.",
       "key_themes": [
-        "Corporate Governance",
-        "Executive Remuneration"
+        "Governance",
+        "Executive Compensation"
       ]
     },
     {
@@ -1112,10 +1115,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine debt issuance for liquidity management rather than a transformative capital raise; reflects standard funding practices in the current UK banking environment with no immediate implication for equity valuation.",
+      "insight": "This announcement signifies a routine capital management action where the company raises debt funding. It generally indicates standard treasury operations rather than a transformative event for shareholders.",
       "key_themes": [
-        "capital_management",
-        "debt_issuance"
+        "Capital raise",
+        "Debt issuance"
       ]
     },
     {
@@ -1125,11 +1128,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/issuance-of-senior-unsecured-notes-/9723668",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine debt issuance typical for global systemically important banks to manage liquidity coverage ratios and funding costs; lacks specific pricing or size details to suggest immediate balance sheet stress or aggressive expansion.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a capital raising activity through debt issuance, which typically dilutes equity value slightly or increases leverage but provides liquidity. It is a standard financing action rather than a strategic shift or performance indicator.",
       "key_themes": [
-        "funding",
-        "liquidity"
+        "Capital raise",
+        "Debt issuance",
+        "Financing"
       ]
     },
     {
@@ -1151,10 +1155,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard debt management exercise to refinance maturing notes, reflecting routine capital structure maintenance rather than strategic shifts or credit deterioration in the current high-rate environment.",
+      "insight": "This announcement indicates that scheduled results have been released, but the headline does not disclose the financial direction or performance metrics. Shareholders should review the full document to assess the company's operational and financial health.",
       "key_themes": [
-        "Debt Refinancing",
-        "Capital Management"
+        "Results",
+        "Financial reporting"
       ]
     },
     {
@@ -1219,11 +1223,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/hsbc-tender-offers-increase-of-max-tender-amount/9708967",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard administrative adjustment to the existing share buyback programme, allowing HSBC to repurchase up to £1bn worth of shares; it signals continued capital return discipline but lacks transformative strategic weight.",
+      "impact_score": 6,
+      "insight": "This announcement indicates a modification to the terms of an ongoing tender offer, specifically increasing the maximum amount available for acceptance. For shareholders, this suggests a potential expansion of liquidity or opportunity within the existing transaction framework.",
       "key_themes": [
-        "capital allocation",
-        "share buyback"
+        "Capital return",
+        "Tender offer"
       ]
     },
     {
@@ -1244,12 +1248,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/hsbc-holdings-plc-share-buy-back-/9706234",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This routine capital return action signals management's confidence in HSBC's robust liquidity and earnings power amidst a challenging UK banking environment, aligning with sector-wide trends of prioritizing shareholder returns over aggressive expansion.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a capital return mechanism that may support share price stability by reducing the number of outstanding shares. It generally signifies management's confidence in the company's financial position and commitment to returning value to investors.",
       "key_themes": [
-        "capital allocation",
-        "shareholder yield",
-        "banking sector"
+        "Capital return",
+        "Shareholder value"
       ]
     },
     {
@@ -1268,14 +1271,11 @@
       "category": null,
       "headline": "Publication of base prospectus supplement",
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/publication-of-base-prospectus-supplement/9704155",
-      "routine_type": null,
-      "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing to update the base prospectus for future debt issuance, reflecting routine treasury operations rather than strategic shifts or capital raising events.",
-      "key_themes": [
-        "regulatory_compliance",
-        "routine_administrative"
-      ]
+      "routine_type": "Debt Notices",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-08-04T07:00:00",
@@ -1284,12 +1284,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/hsbc-holdings-interim-results-2026-zoom-meeting/9702473",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Interim results provide critical visibility into HSBC's net interest margin trajectory and wealth management growth amid rising UK rates, serving as a key barometer for the broader banking sector's resilience against credit deterioration.",
+      "impact_score": 5,
+      "insight": "This headline indicates a scheduled release of interim financial results accompanied by an investor presentation. Such announcements provide shareholders with essential updates on the company's operational performance and financial position for the specified period.",
       "key_themes": [
-        "interim_results",
-        "banking_sector",
-        "net_interest_margin"
+        "Results",
+        "Investor Relations"
       ]
     },
     {
@@ -1396,11 +1395,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/overseas-regulatory-announcement-grant-of-awards/9663093",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative disclosure regarding executive compensation grants, which has no immediate impact on HSBC's valuation or operational outlook. Such routine filings are common across the UK banking sector and do not signal any strategic shifts or material financial events.",
+      "impact_score": 3,
+      "insight": "This announcement typically signifies routine executive compensation arrangements, which are standard governance matters rather than events that materially alter shareholder value. It generally indicates administrative housekeeping regarding staff incentives without immediate financial implications.",
       "key_themes": [
-        "Corporate Governance",
-        "Executive Remuneration"
+        "Governance",
+        "Executive Compensation"
       ]
     },
     {
@@ -1490,12 +1489,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/first-interim-dividend-for-2026-exchange-rate/9618852",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement confirms the execution of HSBC's capital return policy for H1 2026, reflecting stable earnings power and regulatory approval to distribute cash to shareholders rather than retain it for balance sheet fortification. It serves as a routine validation of the bank's profitability amidst ongoing global macroeconomic headwinds affecting net interest margins.",
+      "impact_score": 3,
+      "insight": "This announcement signifies the declaration of a scheduled interim dividend payment for the specified period. It indicates that the company is returning capital to shareholders according to its standard distribution schedule.",
       "key_themes": [
-        "Capital Allocation",
-        "Shareholder Yield",
-        "Banking Sector Stability"
+        "Dividend",
+        "Capital return"
       ]
     },
     {
@@ -1550,10 +1548,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard administrative disclosures with negligible immediate impact on HSBA's valuation or strategic direction, reflecting standard liquidity management rather than significant insider sentiment shifts.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into the company's operational performance but confirms compliance with insider dealing regulations.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -1563,11 +1561,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/issuance-of-senior-unsecured-notes/9585994",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine debt issuance typical for global systemically important banks to manage liquidity coverage ratios and funding costs; lacks the transformative nature of equity raises or M&A, reflecting standard balance sheet management rather than strategic shift.",
+      "impact_score": 4,
+      "insight": "This announcement signifies a capital raise through debt issuance, which typically dilutes equity value slightly but provides liquidity without immediate earnings pressure. It generally indicates routine funding activity rather than a transformative strategic shift.",
       "key_themes": [
-        "Capital Management",
-        "Debt Issuance"
+        "Capital raise",
+        "Debt financing"
       ]
     }
   ]

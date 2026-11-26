@@ -12,11 +12,11 @@
       "url": "https://www.investegate.co.uk/announcement/mfn/lifco-ab-publ---0r4p/weekly-edge-case-lifco/9884785",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "The headline 'Weekly Edge Case' suggests a minor operational update or administrative filing rather than a material corporate event, indicating negligible immediate impact on valuation or share price dynamics.",
+      "impact_score": 1,
+      "insight": "The headline indicates a weekly analytical commentary rather than a formal regulatory filing from the company, suggesting it is likely editorial content with no direct impact on shareholder value.",
       "key_themes": [
-        "administrative",
-        "low-impact"
+        "Editorial",
+        "Market Commentary"
       ]
     },
     {
@@ -26,12 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/mfn/lifco-ab-publ---0r4p/lifco-acquires-colortec-in-spain/9884750",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This acquisition aligns with Lifco's established roll-up strategy in the industrial distribution sector, targeting niche growth in Spain to consolidate market share and achieve synergies within their existing portfolio.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a material acquisition, which typically indicates strategic expansion for shareholders. The specific financial impact or integration risks cannot be determined from the headline alone.",
       "key_themes": [
         "M&A",
-        "Industrial Distribution",
-        "International Expansion"
+        "Acquisition"
       ]
     },
     {
@@ -41,12 +40,11 @@
       "url": "https://www.investegate.co.uk/announcement/mfn/lifco-ab-publ---0r4p/lifco-acquires-decorative-products-in-germany/9882085",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This acquisition aligns with Lifco's established 'buy-and-build' strategy in the decorative products sector, leveraging its platform to consolidate fragmented European markets and drive operational synergies.",
+      "impact_score": 7,
+      "insight": "This headline indicates a material acquisition, which typically signifies strategic expansion for shareholders. The specific financial impact or integration risks cannot be determined from the headline alone.",
       "key_themes": [
         "M&A",
-        "Consolidation",
-        "Germany"
+        "Acquisition"
       ]
     },
     {
@@ -70,12 +68,12 @@
       "url": "https://www.investegate.co.uk/announcement/mfn/lifco-ab-publ---0r4p/lifco-issues-bond-loan-of-sek-750-million/9732634",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The SEK 750m bond issuance signals active capital deployment for Lifco's buy-and-build strategy in the industrial distribution sector, likely funding acquisitions or refinancing rather than distress, consistent with their established M&A playbook.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a significant capital raise through debt issuance, which typically impacts shareholder equity by altering the company's leverage profile and interest obligations. The scale of the borrowing suggests a material strategic move or refinancing requirement that warrants close attention from investors.",
       "key_themes": [
-        "capital_allocation",
-        "M&A_funding",
-        "industrial_distribution"
+        "Debt financing",
+        "Capital structure",
+        "Corporate finance"
       ]
     },
     {
@@ -83,14 +81,11 @@
       "category": null,
       "headline": "Lifco updates its MTN program and publishes an updated base prospectus",
       "url": "https://www.investegate.co.uk/announcement/mfn/lifco-ab-publ---0r4p/lifco-updates-its-mtn-program-and-publishes-a-/9688931",
-      "routine_type": null,
-      "enriched": true,
-      "impact_score": 4,
-      "insight": "This announcement indicates an administrative update to the company's medium-term note program and base prospectus, which facilitates future debt financing but does not in itself confirm any new borrowing or strategic shift. Shareholders should view this as a procedural step that maintains financial flexibility without immediate impact on equity value.",
-      "key_themes": [
-        "Capital structure",
-        "Administrative update"
-      ]
+      "routine_type": "Debt Notices",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-07-14T06:30:00",
@@ -99,12 +94,11 @@
       "url": "https://www.investegate.co.uk/announcement/mfn/lifco-ab-publ---0r4p/interim-report-january-june-2026/9666546",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a Swedish industrial holding company with significant UK exposure via its portfolio of niche manufacturing firms, this interim report provides critical visibility into margin resilience amid persistent supply chain inflation and energy cost volatility in the European industrial sector.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled interim results release for the six-month period ending in June. It provides shareholders with an update on the company's financial performance and operational progress during this timeframe.",
       "key_themes": [
-        "Industrial Margins",
-        "UK Exposure",
-        "Interim Results"
+        "Results",
+        "Interim Report"
       ]
     }
   ]

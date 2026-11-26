@@ -2,9 +2,22 @@
   "name": "VP",
   "ticker": "VP.",
   "slug": "vp-vp",
-  "announcement_count": 18,
-  "latest_announcement": "2026-11-03T07:00:00",
+  "announcement_count": 19,
+  "latest_announcement": "2026-11-25T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T07:00:00",
+      "category": "Results",
+      "headline": "Interim Results",
+      "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./interim-results/9892202",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled release of interim financial results, which provides shareholders with an update on the company's performance for the first half of the financial year.",
+      "key_themes": [
+        "Results"
+      ]
+    },
     {
       "timestamp": "2026-11-03T07:00:00",
       "category": null,
@@ -24,9 +37,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard administrative notice confirming the release of results and investor presentations, lacking any immediate transformative catalysts or material guidance shifts.",
+      "insight": "This announcement indicates that scheduled financial results and associated investor presentations are being released, providing shareholders with an opportunity to assess recent performance.",
       "key_themes": [
-        "Corporate Governance",
+        "Results",
         "Investor Relations"
       ]
     },
@@ -49,10 +62,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Director share purchases are standard insider activity that rarely signal immediate fundamental shifts without accompanying volume data or context; in the current UK equity environment, isolated buys are often noise rather than alpha.",
+      "insight": "This announcement indicates a director has purchased shares, which generally signals internal confidence in the company's prospects. Such dealings are routine governance disclosures and typically carry limited immediate financial impact for general shareholders.",
       "key_themes": [
-        "insider_activity",
-        "low_impact"
+        "Director Dealings",
+        "Governance"
       ]
     },
     {
@@ -63,10 +76,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Director share purchases are generally viewed as a positive sentiment signal but rarely drive immediate price action unless the volume is substantial relative to float; in the current UK market environment, such deals often reflect confidence rather than fundamental catalysts.",
+      "insight": "This announcement indicates a director has purchased shares, which generally signals internal confidence in the company's prospects. Such transactions are routine governance disclosures and typically carry limited immediate financial impact for shareholders.",
       "key_themes": [
-        "Insider Buying",
-        "Sentiment Signal"
+        "Director dealings",
+        "Governance"
       ]
     },
     {
@@ -90,11 +103,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./directorate-change/9733988",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Directorate changes are standard corporate governance updates that rarely signal immediate strategic shifts without accompanying commentary on succession or performance; for VP, this is likely an administrative filing with negligible short-term price impact.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the board composition, which is a standard governance event that may influence strategic direction but typically lacks immediate financial impact. Shareholders should monitor subsequent filings for details on the specific roles and responsibilities of the new directors.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -105,10 +118,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine administrative disclosure of executive incentive grants and standard insider trading compliance; lacks material price-sensitive information or strategic shifts relevant to VP's digital health sector positioning.",
+      "insight": "This announcement indicates that senior management has been granted Share Allotment and Savings-Related Option Scheme (SAYE) options and has executed personal trades. Such disclosures are routine governance matters that confirm compliance with insider dealing regulations rather than signaling immediate strategic shifts or financial performance changes.",
       "key_themes": [
-        "Corporate Governance",
-        "Executive Compensation"
+        "Governance",
+        "Director Dealing",
+        "Incentives"
       ]
     },
     {
@@ -190,11 +204,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/vp--vp./annual-report-and-notice-of-annual-general-meeting/9656722",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing for VP Group, serving only to convene the AGM rather than disclose material financial performance or strategic shifts. Such notices are routine governance requirements with negligible immediate impact on share price or valuation.",
+      "impact_score": 3,
+      "insight": "This announcement signifies the convening of a scheduled Annual General Meeting and the publication of the annual report, which are routine governance events for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Governance",
+        "Annual Report",
+        "AGM"
       ]
     },
     {
@@ -205,10 +220,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Investor presentations are standard IR tools that rarely move share prices without accompanying financial data; the market will focus on execution metrics and margin trends rather than the deck itself.",
+      "insight": "An investor presentation is typically a marketing or informational tool used to communicate with the market, often indicating routine engagement rather than a specific corporate action. Without details on financial results or strategic changes, this announcement generally signifies standard shareholder communication efforts.",
       "key_themes": [
         "Investor Relations",
-        "Corporate Communications"
+        "Marketing"
       ]
     },
     {
@@ -230,11 +245,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "As a standard results announcement for a mid-cap property investment trust, this event confirms financial performance and strategy but lacks the transformative catalysts required for a high impact score. The market will focus on net asset value (NAV) stability and dividend coverage amidst the current UK commercial real estate rate environment.",
+      "insight": "This announcement indicates that scheduled financial results and an accompanying investor presentation are being released, providing shareholders with updated performance data.",
       "key_themes": [
         "Results",
-        "Property Sector",
-        "NAV"
+        "Investor Relations"
       ]
     }
   ]

@@ -2,9 +2,20 @@
   "name": "Caledonian Holdings plc",
   "ticker": "CHP",
   "slug": "caledonian-holdings-chp",
-  "announcement_count": 17,
-  "latest_announcement": "2026-11-09T13:13:00",
+  "announcement_count": 18,
+  "latest_announcement": "2026-11-26T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T07:00:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/caledonian-holdings-plc--chp/holding-s-in-company/9894485",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-09T13:13:00",
       "category": null,
@@ -12,12 +23,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/caledonian-holdings-plc--chp/operational-investment-strategic-update-/9865632",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "As a closed-end investment trust with a long-standing focus on UK small-cap value, CHP's operational update likely reflects standard portfolio rebalancing or dividend policy confirmation rather than transformative strategic shifts, typical for the sector's routine governance communications.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a strategic review or update that may reveal significant changes to the company's direction, investments, or operational focus. Such updates are critical for shareholders as they often precede major decisions like asset disposals, acquisitions, or shifts in corporate strategy.",
       "key_themes": [
-        "investment trust",
-        "portfolio management",
-        "UK equity"
+        "Strategic Review",
+        "Operational Update",
+        "Investment Activity"
       ]
     },
     {
@@ -38,11 +49,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/caledonian-holdings-plc--chp/james-mccoll-steps-down-from-board-of-alba-bank-/9853217",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard non-executive director departure with no immediate strategic implication for Caledonian's investment portfolio or governance structure. The market will likely view this as routine administrative noise given the lack of context regarding the reason for leaving or any associated share dealing.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a board change within the company, which typically affects governance structure but may not immediately impact financial performance without further details.",
       "key_themes": [
-        "Corporate Governance",
-        "Board Changes"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -74,11 +85,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/caledonian-holdings-plc--chp/resignation-of-director/9773351",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Director resignations in investment trusts are often administrative or related to term limits rather than distress; without evidence of a CEO exit or governance breakdown, the market impact is typically muted and short-lived.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the board composition, which is a standard governance event. Without further details on the departing director's role or the reason for resignation, the immediate financial impact is limited to potential short-term uncertainty regarding leadership continuity.",
       "key_themes": [
         "Governance",
-        "Investment Trusts"
+        "Board Change"
       ]
     },
     {
@@ -121,11 +132,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/caledonian-holdings-plc--chp/-612-000-fundraising-to-accelerate-aspire-rollout/9719102",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "The £612k raise is immaterial to Caledonian's balance sheet, serving primarily as a procedural mechanism to fund the Aspire platform rollout rather than signaling strategic expansion or distress.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a capital raise intended to fund expansion, which typically dilutes existing shareholders but aims to drive growth. The use of 'accelerate' suggests an active strategic initiative rather than routine maintenance.",
       "key_themes": [
-        "Capital Raising",
-        "Digital Transformation"
+        "Capital raise",
+        "Strategic expansion"
       ]
     },
     {
@@ -190,12 +201,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/caledonian-holdings-plc--chp/new-atm-facility-and-appointment-of-joint-broker/9628366",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The appointment of a joint broker signals an active strategy to enhance liquidity and market visibility for this small-cap investment trust, while the new ATM facility provides immediate, flexible capital raising capabilities without dilutive upfront commitments.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the company's financial infrastructure and advisory relationships, which may affect liquidity access and market visibility. It represents a standard governance update regarding the appointment of key service providers.",
       "key_themes": [
-        "liquidity enhancement",
-        "capital flexibility",
-        "market making"
+        "Governance",
+        "Capital Markets"
       ]
     },
     {

@@ -2,9 +2,20 @@
   "name": "The Pebble Group",
   "ticker": "PEBB",
   "slug": "the-pebble-group-pebb",
-  "announcement_count": 25,
-  "latest_announcement": "2026-11-20T14:28:00",
+  "announcement_count": 26,
+  "latest_announcement": "2026-11-26T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T07:00:00",
+      "category": null,
+      "headline": "Block Admission Return",
+      "url": "https://www.investegate.co.uk/announcement/rns/the-pebble-group--pebb/block-admission-return/9894475",
+      "routine_type": "Block Listing / Admission",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T14:28:00",
       "category": null,
@@ -199,11 +210,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/the-pebble-group--pebb/update-on-share-buyback-programme/9659863",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This update likely reflects standard administrative progress on an existing buyback mandate rather than a material capital allocation shift, typical for small-cap tech firms managing cash flow without immediate M&A activity.",
+      "impact_score": 4,
+      "insight": "This update likely provides progress details on an existing share buyback programme, which generally signifies management's confidence in the company's valuation and commitment to returning capital to shareholders.",
       "key_themes": [
-        "capital_return",
-        "small_cap"
+        "Share Buyback",
+        "Capital Return",
+        "Corporate Action"
       ]
     },
     {

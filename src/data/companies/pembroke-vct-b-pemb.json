@@ -2,9 +2,23 @@
   "name": "Pembroke Vct B",
   "ticker": "PEMB",
   "slug": "pembroke-vct-b-pemb",
-  "announcement_count": 17,
-  "latest_announcement": "2026-11-19T13:00:00",
+  "announcement_count": 18,
+  "latest_announcement": "2026-11-25T15:15:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T15:15:00",
+      "category": "Results",
+      "headline": "Half-year Financial Report",
+      "url": "https://www.investegate.co.uk/announcement/rns/pembroke-vct-b--pemb/half-year-financial-report/9894109",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "Pembroke Vct B released its half-year financial report. This follows recent board changes and a dividend declaration in November.",
+      "key_themes": [
+        "Results",
+        "Governance"
+      ]
+    },
     {
       "timestamp": "2026-11-19T13:00:00",
       "category": null,
@@ -23,11 +37,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/pembroke-vct-b--pemb/board-changes/9880395",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine board changes in a VCT typically reflect standard governance maintenance rather than strategic shifts; without details on the nature of the appointments, this lacks the catalyst potential for significant price movement.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the board composition, which is a standard governance update that may influence oversight but typically carries limited immediate financial impact unless linked to strategic shifts.",
       "key_themes": [
-        "governance",
-        "vct"
+        "Governance",
+        "Board Changes"
       ]
     },
     {
@@ -38,10 +52,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures for a VCT typically carry negligible market impact unless involving significant block trades, which are not indicated here; these filings are standard regulatory compliance rather than strategic signals.",
+      "insight": "This announcement discloses transactions by a person discharging managerial responsibilities, which is a standard regulatory requirement for transparency. It provides information on insider shareholding changes but does not inherently signal a strategic shift or material financial event.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_impact"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -63,11 +77,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine dividend declaration for a VCT; while positive for income-focused retail investors, it lacks the transformative catalysts required to drive significant capital appreciation in the current high-rate environment.",
+      "insight": "This announcement signifies a dividend declaration, which generally indicates that the company is returning capital to its shareholders. The specific terms and financial implications for investors are not detailed in the headline.",
       "key_themes": [
-        "VCT",
         "Dividend",
-        "Income"
+        "Shareholder return"
       ]
     },
     {
@@ -110,11 +123,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/pembroke-vct-b--pemb/result-of-agm/9775662",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of an Annual General Meeting for a Venture Capital Trust, which typically involves routine approvals for director re-election and fee structures rather than strategic shifts or capital raises.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine governance matters such as director elections or auditor appointments rather than significant corporate events.",
       "key_themes": [
-        "Corporate Governance",
-        "VCT"
+        "Governance",
+        "Shareholder Meeting"
       ]
     },
     {
@@ -207,11 +220,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/pembroke-vct-b--pemb/notification-of-admission-of-shares-/9590322",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the listing of new shares, likely related to ongoing capital raising or subscription rights typical for VCTs; it carries no intrinsic valuation impact without details on pricing or volume.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a standard administrative update regarding the listing status of shares, typically indicating routine regulatory compliance rather than a material corporate event.",
       "key_themes": [
-        "VCT",
-        "Administrative"
+        "Administrative",
+        "Listing Update"
       ]
     }
   ]

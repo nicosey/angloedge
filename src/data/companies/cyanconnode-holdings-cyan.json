@@ -23,11 +23,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/cyanconnode-holdings--cyan/scheme-effective/9770657",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "The 'Scheme Effective' status confirms the legal completion of a takeover bid, ending market uncertainty but offering no immediate upside catalyst for remaining shareholders who have already priced in the exit premium. This is a standard administrative milestone in UK M&A transactions, typically resulting in low liquidity and neutral price action as the deal transitions to settlement.",
+      "impact_score": 9,
+      "insight": "A 'Scheme Effective' headline signifies that a formal court-approved scheme of arrangement has been successfully implemented, typically resulting in a change of control or the delisting of shares. This represents a definitive conclusion to a major corporate transaction with significant implications for current shareholders.",
       "key_themes": [
-        "M&A Completion",
-        "Corporate Action"
+        "M&A",
+        "Corporate Action",
+        "Delisting"
       ]
     },
     {
@@ -38,11 +39,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "Suspension of a AIM-listed tech firm like CyanConnode typically signals severe liquidity crises, potential insolvency, or imminent delisting, reflecting the high-risk nature of the UK small-cap tech sector where such events often precede corporate collapse.",
+      "insight": "The suspension of shares indicates that trading in the company's stock has been halted, likely due to uncertainty or pending regulatory requirements. This action prevents shareholders from buying or selling until the suspension is lifted and further information is provided.",
       "key_themes": [
-        "Delisting Risk",
-        "Liquidity Crisis",
-        "AIM Volatility"
+        "Suspension",
+        "Governance"
       ]
     },
     {
@@ -63,11 +63,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/cyanconnode-holdings--cyan/update-on-irrevocable-undertakings/9732278",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Irrevocable undertakings are standard procedural mechanics for securing shareholder approval in corporate actions, indicating no new material information or strategic shift beyond the initial proposal.",
+      "impact_score": 8,
+      "insight": "This announcement indicates a formal process involving irrevocable undertakings, which typically signifies a potential offer, sale, or significant corporate restructuring requiring shareholder support. It suggests a material event that could fundamentally alter the company's ownership or strategic direction.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "M&A",
+        "Corporate Action",
+        "Governance"
       ]
     },
     {
@@ -77,11 +78,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/cyanconnode-holdings--cyan/publication-and-posting-of-the-scheme-document/9713769",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement marks a procedural milestone in an ongoing scheme of arrangement rather than a standalone catalyst; the market impact will be dictated by the underlying deal terms and valuation premium disclosed within the document itself.",
+      "impact_score": 8,
+      "insight": "The publication of a Scheme Document typically indicates the launch of a formal takeover bid or scheme of arrangement, which is a significant corporate event for shareholders. This stage allows shareholders to review the specific terms and conditions of the proposed transaction before voting.",
       "key_themes": [
-        "Corporate Action",
-        "Procedural Update"
+        "M&A",
+        "Takeover",
+        "Scheme of Arrangement"
       ]
     },
     {
@@ -153,11 +155,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/cyanconnode-holdings--cyan/extension-of-pusu-deadline-/9680462",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This is a procedural extension of the Puttable Unsecured Subordinated Notes (PUSU) deadline, indicating no immediate liquidity crisis but highlighting ongoing refinancing dependency; such administrative delays are common in distressed or turnaround scenarios and do not inherently signal value destruction without accompanying financial distress.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a procedural extension of a deadline, likely related to an ongoing transaction or regulatory requirement. It suggests continuity rather than a definitive outcome, representing minor administrative housekeeping for shareholders.",
       "key_themes": [
-        "Refinancing Risk",
-        "Corporate Action"
+        "M&A",
+        "Governance"
       ]
     },
     {
@@ -178,11 +180,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/cyanconnode-holdings--cyan/extension-of-pusu-deadline/9586213",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This is a procedural administrative update regarding the timeline for a Puttable Unsecured Subordinated Note (PUSU) rather than a fundamental change in business strategy or financial health.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a procedural extension of a deadline, likely related to an ongoing transaction or regulatory requirement. It suggests continuity in current processes without implying immediate resolution or significant change in value.",
       "key_themes": [
-        "administrative",
-        "debt_management"
+        "M&A",
+        "Governance"
       ]
     }
   ]

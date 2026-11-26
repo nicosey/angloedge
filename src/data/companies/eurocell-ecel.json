@@ -2,9 +2,23 @@
   "name": "Eurocell",
   "ticker": "ECEL",
   "slug": "eurocell-ecel",
-  "announcement_count": 16,
-  "latest_announcement": "2026-11-24T15:00:00",
+  "announcement_count": 17,
+  "latest_announcement": "2026-11-26T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T07:00:00",
+      "category": "Share Buyback",
+      "headline": "Launch of Share Buyback Programme",
+      "url": "https://www.investegate.co.uk/announcement/rns/eurocell--ecel/launch-of-share-buyback-programme-/9894497",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "Eurocell launches a share buyback programme. This follows recent results notices and director holding updates in June and September.",
+      "key_themes": [
+        "Capital return",
+        "Governance"
+      ]
+    },
     {
       "timestamp": "2026-11-24T15:00:00",
       "category": "Director Dealing",
@@ -38,10 +52,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Eurocell's valuation or operational trajectory.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities rather than significant corporate events. Such disclosures are generally considered low-impact for shareholders as they do not signal a change in strategy or financial performance.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -52,10 +66,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Eurocell's valuation or operational trajectory.",
+      "insight": "This announcement relates to director shareholdings, which typically indicates routine compliance filings rather than significant strategic shifts. Such disclosures generally have minimal immediate impact on shareholder value unless they signal unusual insider trading patterns.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -102,10 +116,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Eurocell's valuation or operational trajectory.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine compliance with insider dealing regulations rather than a significant strategic shift. Shareholders should view this as standard governance disclosure without immediate implications for company value.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -127,10 +141,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Eurocell's valuation or operational trajectory.",
+      "insight": "This announcement relates to director shareholdings, which typically indicates routine compliance reporting of individual transactions rather than a strategic corporate event. It generally signifies standard governance activity with limited immediate impact on the company's operational outlook.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -141,10 +155,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Eurocell's valuation or operational trajectory.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities rather than significant corporate events. Such disclosures are standard governance requirements and generally have minimal immediate impact on shareholder value.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -166,10 +180,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard administrative notice confirming the release of results rather than the results themselves; without data on profitability or guidance in the accompanying report, it carries no immediate market-moving weight for Eurocell's valuation.",
+      "insight": "This announcement indicates that scheduled financial results are being released, but the headline does not disclose the direction of performance or specific figures. Shareholders should anticipate a standard update on the company's financial position without immediate indication of significant positive or negative developments.",
       "key_themes": [
-        "administrative",
-        "results_release"
+        "Results",
+        "Financial reporting"
       ]
     },
     {
@@ -202,10 +216,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Eurocell's valuation or strategic direction, reflecting normal liquidity management rather than significant insider sentiment shifts.",
+      "insight": "This announcement relates to director shareholding transactions, which typically indicate routine insider trading activity rather than significant corporate events. Such disclosures are standard regulatory requirements and generally have minimal direct impact on shareholder value unless they signal a broader strategic shift.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_impact"
+        "Governance",
+        "Director Dealing"
       ]
     }
   ]

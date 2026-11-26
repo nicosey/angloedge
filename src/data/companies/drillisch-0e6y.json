@@ -12,11 +12,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/drillisch-ag--0e6y/eqs-dd-1-1-ag-herr-alessandro-nava-allocat-/9885085",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard executive compensation event involving the exercise of SARs rather than a discretionary market sale, indicating no immediate bearish signal from management regarding share value.",
+      "impact_score": 3,
+      "insight": "This announcement relates to a director dealing involving the exercise of stock appreciation rights, which is a routine insider transaction event. It signifies standard governance activity rather than a material change in the company's strategic or financial position.",
       "key_themes": [
-        "Executive Compensation",
-        "Corporate Governance"
+        "Director dealings",
+        "Governance"
       ]
     },
     {
@@ -26,11 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/drillisch-ag--0e6y/eqs-dd-1-1-ag-herr-alessandro-nava-zuteilu-/9885084",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard executive equity incentive exercise with negligible market impact; SAR settlements are routine compensation mechanics rather than signals of strategic shift or insider sentiment.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a director dealing involving the exercise of stock appreciation rights, which is a routine corporate governance event. It signifies standard executive compensation activity rather than a material change in the company's strategic or financial position.",
       "key_themes": [
-        "Executive Compensation",
-        "Corporate Governance"
+        "Director dealings",
+        "Governance"
       ]
     },
     {
@@ -40,11 +40,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/drillisch-ag--0e6y/eqs-news-today-s-decision-by-the-federal-net-/9884796",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Escalating regulatory friction with the Bundesnetzagentur signals ongoing margin pressure from wholesale access mandates, a persistent headwind for UK alternative mobile operators (MNOs) competing against BT Openreach infrastructure dominance.",
+      "impact_score": 2,
+      "insight": "The headline references a decision by the Federal Network Agency and actions taken by '1&1', neither of which is identified as Drillisch Ag in the provided text. Without explicit confirmation that this regulatory matter concerns Drillisch Ag directly, it appears to be an administrative update or press release regarding external entities with no stated bearing on the company's shareholders.",
       "key_themes": [
-        "Regulatory Risk",
-        "Telecoms Infrastructure"
+        "Regulatory",
+        "Administrative"
       ]
     },
     {
@@ -54,11 +54,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/drillisch-ag--0e6y/eqs-nvr-1-1-ag-release-according-to-article-/9880415",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory notification regarding the distribution of a capital increase by 1&1 AG (Drillisch's parent), not a dividend declaration for Drillisch shareholders; it reflects corporate governance compliance rather than immediate value creation or income generation for the listed entity.",
+      "impact_score": 3,
+      "insight": "This announcement relates to a regulatory release under German law concerning Europe-wide distribution, which typically signifies administrative compliance rather than a direct financial event for the named entity. The headline does not indicate any specific impact on the company's operations or shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "Parent Company Activity"
+        "Regulatory Compliance",
+        "Corporate Governance"
       ]
     },
     {
@@ -68,11 +68,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/drillisch-ag--0e6y/eqs-news-1-1-reports-nine-months-figures-202-/9870995",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As Drillisch is a key competitor in the UK MVNO space, 1&1's nine-month results provide critical visibility into wholesale pricing pressures and churn dynamics within the broader telecoms sector. The data serves as a vital benchmark for assessing margin sustainability among smaller players facing similar infrastructure cost headwinds.",
+      "impact_score": 1,
+      "insight": "This announcement concerns a different entity (1&1) rather than Drillisch Ag, indicating it is irrelevant to the shareholder.",
       "key_themes": [
-        "Telecoms Sector Benchmark",
-        "MVNO Margin Pressure"
+        "Irrelevant Entity",
+        "Administrative"
       ]
     },
     {
@@ -82,11 +82,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/drillisch-ag--0e6y/eqs-dd-1-1-ag-united-internet-ag-acquisiti-/9814319",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "The headline references United Internet AG's acquisitions, which is unrelated to Drillisch AG (0E6Y); this appears to be a mislabeled or irrelevant RNS for the specified ticker, indicating no direct strategic impact on Drillisch.",
+      "impact_score": 1,
+      "insight": "This announcement appears to be a press release concerning United Internet AG rather than Drillisch Ag, indicating it has no direct bearing on the company's shareholders.",
       "key_themes": [
-        "irrelevant_data",
-        "ticker_mismatch"
+        "Press Release",
+        "Corporate News"
       ]
     },
     {
@@ -96,11 +96,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/drillisch-ag--0e6y/eqs-dd-1-1-ag-united-internet-ag-erwerb-vo-/9814318",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement concerns United Internet AG (1&1), not Drillisch AG; therefore, it has zero direct financial impact on Drillisch's valuation or operations despite the ticker association.",
+      "impact_score": 1,
+      "insight": "This announcement appears to be an administrative release regarding a transaction involving United Internet AG, which is not Drillisch Ag. As it concerns another organization, it has no direct bearing on the company's shareholders.",
       "key_themes": [
-        "Irrelevant Entity",
-        "M&A Activity"
+        "Administrative",
+        "Other"
       ]
     },
     {
@@ -110,11 +110,12 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/drillisch-ag--0e6y/eqs-adhoc-1-1-ag-resolves-capital-increase-f-/9807558",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a routine capitalization adjustment within the United Internet group structure, transferring assets to 1&1 AG without affecting Drillisch's independent equity base or operational control.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a material capital restructuring event involving an authorized capital increase and a contribution in kind by a major shareholder. Such actions typically alter the ownership structure and equity base of the company, which is significant for existing shareholders.",
       "key_themes": [
-        "Corporate Restructuring",
-        "Shareholder Action"
+        "Capital raise",
+        "Shareholder action",
+        "Corporate restructuring"
       ]
     },
     {
@@ -124,12 +125,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/drillisch-ag--0e6y/eqs-news-1-1-reports-half-year-results-fore-/9707216",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a key player in the UK's competitive mobile virtual network operator (MVNO) market, Drillisch's interim results provide critical visibility into consumer demand trends and margin pressure amidst rising wholesale costs. The outcome will likely influence sentiment regarding consolidation opportunities or strategic pivots within the fragmented telecoms sector.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of half-year results and the confirmation of long-term forecasts, which provides scheduled financial updates to shareholders regarding the company's performance trajectory.",
       "key_themes": [
-        "Interim Results",
-        "Telecoms Sector",
-        "MVNO Market Dynamics"
+        "Results",
+        "Guidance"
       ]
     },
     {
@@ -139,11 +139,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/drillisch-ag--0e6y/eqs-dd-1-1-ag-herr-sascha-d-avis-allocatio-/9588490",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard executive compensation event involving the exercise of stock appreciation rights, reflecting routine insider activity rather than a strategic shift or market-moving catalyst for Drillisch AG.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a director dealing involving the exercise of stock appreciation rights, which is a routine corporate governance event. It reflects standard executive compensation mechanics rather than a strategic shift or material financial impact for shareholders.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Director dealings",
+        "Governance"
       ]
     },
     {
@@ -153,11 +153,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/drillisch-ag--0e6y/eqs-dd-1-1-ag-herr-sascha-d-avis-zuteilung-/9588489",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard executive equity incentive exercise with negligible market impact; SAR settlements are routine compensation mechanics rather than signals of strategic shift or insider sentiment.",
+      "impact_score": 3,
+      "insight": "This announcement relates to a director dealing involving the exercise of stock appreciation rights by an individual associated with another entity. As it concerns personal executive compensation rather than corporate strategy or financial performance, it has minimal direct impact on shareholders.",
       "key_themes": [
-        "Executive Compensation",
-        "Corporate Governance"
+        "Director dealings",
+        "Executive compensation"
       ]
     }
   ]

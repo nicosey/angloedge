@@ -2,9 +2,20 @@
   "name": "Wizz Air Holdings",
   "ticker": "WIZZ",
   "slug": "wizz-air-holdings-wizz",
-  "announcement_count": 38,
-  "latest_announcement": "2026-11-24T13:59:00",
+  "announcement_count": 39,
+  "latest_announcement": "2026-11-25T14:22:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T14:22:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/holding-s-in-company/9894011",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-24T13:59:00",
       "category": null,
@@ -34,11 +45,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/wizz-air-share-capital/9854717",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the company's share capital structure, likely following routine allotments or option exercises, which carries no immediate pricing implication for WIZZ.",
+      "impact_score": 3,
+      "insight": "This announcement typically signifies a routine update to the company's share capital structure, such as the allotment of new shares or changes in issued share count. It generally represents administrative housekeeping with limited immediate impact on shareholder value unless accompanied by details of a significant fundraise.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Share Capital",
+        "Corporate Action"
       ]
     },
     {
@@ -62,11 +73,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/wizz-air-omnibus-plan-award-grants/9804792",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement confirms the administrative completion of a share plan award, likely related to executive remuneration or employee incentives rather than active market capital management. Such routine equity-settled transactions have negligible immediate impact on Wizz Air's liquidity, balance sheet, or strategic trajectory compared to core operational metrics like load factors and unit costs.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a procedural step in the implementation of an omnibus plan, likely related to share capital adjustments or employee incentive schemes. It represents a routine governance action rather than a material financial event for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Executive Remuneration"
+        "Governance",
+        "Share Capital"
       ]
     },
     {
@@ -76,11 +87,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/wizz-air-share-capital/9803183",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This RNS is a standard administrative filing confirming the company's share capital structure, likely following routine allotments or option exercises, and carries no immediate fundamental implication for Wizz Air's operational outlook or valuation.",
+      "impact_score": 3,
+      "insight": "This announcement typically signifies a routine update regarding the company's share capital structure, such as allotments or cancellations. It generally represents administrative housekeeping rather than a material event for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Capital",
+        "Corporate Action"
       ]
     },
     {
@@ -90,11 +101,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/september-2026-traffic-and-co2-emission-statistics/9803009",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Traffic updates are standard operational metrics that provide incremental visibility into demand elasticity but rarely drive immediate price discovery without accompanying financial guidance. In the current high-cost aviation environment, this data serves primarily as a sentiment check on load factors rather than a catalyst for valuation re-rating.",
+      "impact_score": 5,
+      "insight": "This announcement provides scheduled operational statistics for a future period, which typically serves as a routine update on business performance rather than a significant financial event. Shareholders should expect data on traffic volumes and environmental metrics without immediate implications for valuation or strategy.",
       "key_themes": [
         "Operational Update",
-        "Aviation Demand"
+        "Traffic Statistics",
+        "ESG"
       ]
     },
     {
@@ -126,11 +138,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/wizz-air-share-capital/9750648",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This RNS is a standard administrative filing confirming the company's share capital structure, likely following routine allotments or conversions, which carries no immediate fundamental weight for valuation.",
+      "impact_score": 3,
+      "insight": "This announcement likely concerns routine changes to the company's share capital structure, such as the allotment of new shares or adjustments to issued capital. Such administrative updates typically have a neutral impact on shareholder value unless they indicate a significant dilution event.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Share Capital",
+        "Corporate Action"
       ]
     },
     {
@@ -169,10 +181,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on Wizz Air's equity valuation, especially given the airline sector's current focus on fuel costs and demand elasticity rather than individual insider transactions.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities rather than significant corporate events. Such disclosures generally have limited immediate impact on shareholder value unless they signal a broader trend in insider sentiment.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_materiality"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -182,11 +194,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/result-of-agm/9707018",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of routine shareholder votes, which carries no immediate financial or strategic weight for Wizz Air's operations or valuation.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or auditor appointments. It signifies standard corporate governance compliance rather than any material change to the company's strategic direction or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -196,11 +208,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/wizz-air-share-capital/9703245",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the company's share capital structure, likely following routine allotments or conversions, which carries no immediate pricing implication for WIZZ.",
+      "impact_score": 3,
+      "insight": "This announcement typically signifies a routine update regarding the company's share capital structure, such as changes in issued shares or treasury holdings. It generally represents administrative housekeeping with limited immediate financial implication for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Share Capital",
+        "Corporate Action"
       ]
     },
     {
@@ -210,11 +222,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/july-2026-traffic-and-co2-emission-statistics/9702434",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine operational reporting with no material financial guidance or strategic shifts; traffic data is standard for airline monitoring but lacks the catalysts required to move valuation significantly in the near term.",
+      "impact_score": 5,
+      "insight": "This announcement provides scheduled operational performance data for shareholders to assess traffic trends and environmental compliance metrics. The headline does not indicate the direction of these figures, so it serves as a routine update rather than a signal of immediate financial change.",
       "key_themes": [
         "Operational Update",
-        "Airline Sector"
+        "ESG Reporting"
       ]
     },
     {
@@ -253,10 +265,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on Wizz Air's valuation or operational trajectory, especially given the airline sector's current focus on fuel hedging and capacity expansion rather than insider trading signals.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities rather than significant corporate events. Such filings generally have limited immediate impact on shareholder value compared to strategic or financial disclosures.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_materiality"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -267,10 +279,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate market impact; however, in the volatile aviation sector, sustained insider buying could signal confidence in Wizz Air's cost leadership and fleet expansion strategy amidst fuel price fluctuations.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities rather than significant corporate events. Such disclosures generally have minimal immediate impact on shareholder value compared to strategic or financial updates.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -281,10 +293,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "Leadership changes in the highly competitive low-cost carrier sector signal potential strategic pivots amid intense margin pressure from fuel costs and geopolitical instability; investors will scrutinize whether this brings fresh operational discipline or reflects internal friction.",
+      "insight": "This announcement indicates a change in the company's senior management structure, which is a governance matter that may influence strategic direction but lacks specific details on the nature of the update.",
       "key_themes": [
-        "Corporate Governance",
-        "Aviation Sector"
+        "Governance",
+        "Leadership"
       ]
     },
     {
@@ -295,10 +307,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on Wizz Air's valuation or operational trajectory, especially given the airline sector's current focus on capacity expansion and fuel cost dynamics rather than insider trading signals.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities rather than significant corporate events. Such filings generally have minimal immediate impact on shareholder value unless they signal a broader change in insider sentiment.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_impact"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -309,10 +321,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine PDMR disclosure typical of Wizz Air's high-velocity trading environment; without volume context, this lacks the signal strength to influence valuation given current sector headwinds regarding fuel costs and capacity discipline.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities rather than significant corporate events. Such disclosures generally have a neutral impact on shareholder value unless they signal unusual confidence or lack thereof.",
       "key_themes": [
-        "PDMR Disclosure",
-        "Low Signal"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -323,10 +335,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "The appointment of a CTO signals Wizz's pivot toward digital transformation and operational efficiency to counter rising fuel costs and maintenance pressures, aligning with the broader aviation sector's push for tech-driven cost control.",
+      "insight": "This board change signifies a shift in senior leadership structure, which may influence operational oversight and strategic execution. Shareholders should monitor subsequent disclosures for details on the appointee's background and any associated governance implications.",
       "key_themes": [
-        "Digital Transformation",
-        "Operational Efficiency"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -336,12 +348,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/notice-of-f27-first-quarter-results-date/9666681",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a high-beta carrier in the European leisure travel sector, Wizz Air's Q1 results will serve as a critical barometer for consumer demand resilience amid persistent inflationary pressures and geopolitical instability. The market will scrutinize load factors and unit cost trends to gauge whether the airline can maintain its aggressive expansion trajectory without eroding margins.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the scheduling of a results release, which is a routine corporate event rather than a substantive disclosure. It provides no information on financial performance or strategic direction for shareholders at this stage.",
       "key_themes": [
-        "Q1 Results",
-        "Aviation Sector",
-        "Consumer Demand"
+        "Results",
+        "Corporate Action"
       ]
     },
     {
@@ -352,10 +363,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory filing for a PDMR shareholding change, likely reflecting routine tax obligations or minor portfolio adjustments rather than a strategic signal. In the current volatile aviation sector, such administrative disclosures lack the weight to influence investor sentiment without accompanying commentary on insider conviction.",
+      "insight": "This announcement indicates a change in the shareholding of a person discharging managerial responsibilities, which is a standard regulatory disclosure. It generally signifies routine compliance with insider dealing regulations rather than a material event for shareholders.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -365,11 +376,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/notice-of-2026-annual-general-meeting/9663827",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative notice for Wizz Air's 2026 AGM, requiring no immediate market reaction as it does not disclose new strategic initiatives or financial data ahead of the event.",
+      "impact_score": 3,
+      "insight": "This notice informs shareholders of an upcoming annual general meeting, which is a standard governance event for reviewing company performance and electing directors.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Administration"
+        "Governance",
+        "AGM"
       ]
     },
     {
@@ -380,10 +391,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine disclosure of individual director transactions lacks the scale or strategic weight to influence Wizz Air's valuation trajectory amidst current aviation sector volatility and fuel cost pressures.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that confirm insider activity but do not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Minor Administrative"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -394,10 +405,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine PDMR disclosures are standard regulatory requirements with negligible immediate market impact; however, in the capital-intensive aviation sector, any net selling by insiders during high fuel price or interest rate environments warrants monitoring for sentiment shifts.",
+      "insight": "This announcement relates to director dealings, which typically have a low immediate impact on shareholder value compared to strategic or financial disclosures. Such filings are routine regulatory requirements that confirm insider transactions but do not inherently signal significant corporate changes.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -407,10 +418,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/wizz-air-share-capital/9648464",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This RNS is a standard administrative filing confirming the composition of Wizz Air's share capital, likely following routine share issuance or buyback activity, rather than signaling any strategic shift or material corporate action.",
+      "impact_score": 3,
+      "insight": "This announcement likely concerns routine changes to the company's share capital structure, such as the allotment of new shares or administrative updates. Such filings are standard regulatory housekeeping and typically have minimal direct impact on shareholder value unless accompanied by a specific fundraising or dilution event.",
       "key_themes": [
-        "Corporate Governance",
+        "Capital",
         "Administrative"
       ]
     },
@@ -437,11 +448,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate price impact, though in the volatile aviation sector, any insider buying could signal confidence in the post-pandemic recovery trajectory.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities rather than significant corporate events. Such disclosures are generally considered low-impact administrative updates for shareholders.",
       "key_themes": [
-        "insider activity",
-        "regulatory compliance",
-        "aviation sector"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -451,11 +461,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/wizz-air-omnibus-plan-award-grants/9623624",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement confirms the administrative completion of a share plan award, likely tied to existing executive compensation structures rather than new strategic initiatives. Such routine equity administration events have negligible immediate impact on Wizz Air's operational outlook or valuation compared to fleet expansion plans or yield metrics.",
+      "impact_score": 7,
+      "insight": "This announcement indicates a formal legal process regarding an omnibus plan, which typically signifies significant structural changes or restructuring efforts that could materially affect shareholder value and governance.",
       "key_themes": [
-        "Corporate Governance",
-        "Executive Compensation"
+        "Restructuring",
+        "Governance",
+        "Legal"
       ]
     },
     {
@@ -466,10 +477,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Wizz Air's valuation or strategic trajectory, especially given the airline's current focus on fleet expansion and route network optimization rather than insider trading signals.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities rather than significant corporate events. Such disclosures are standard governance requirements and generally have limited immediate impact on shareholder value.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_impact"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -480,10 +491,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Wizz Air's operational outlook or valuation, especially given the airline's current focus on fleet expansion and route network optimization rather than insider trading signals.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has engaged in share transactions. Such dealings are routine regulatory disclosures that provide transparency into insider activity but do not inherently signal a change in the company's strategic direction or financial performance.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_materiality"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -493,11 +504,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/board-update-/9616303",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine board updates in the highly volatile airline sector typically signal operational continuity rather than strategic shifts; without details on new appointments or governance changes, this lacks the catalyst potential for significant price movement.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a board change, which typically involves the appointment or departure of directors and may indicate shifts in corporate governance or strategic direction. Such updates are standard for shareholder awareness but do not inherently suggest immediate financial or operational transformation.",
       "key_themes": [
-        "Corporate Governance",
-        "Airline Sector"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -518,11 +529,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wizz-air-holdings--wizz/wizz-air-share-capital/9596154",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This RNS is a standard administrative filing confirming the company's share capital structure, likely following routine corporate actions or regulatory updates, rather than signaling any new strategic direction or financial performance.",
+      "impact_score": 3,
+      "insight": "This announcement likely concerns a routine update to the company's share capital structure, such as allotment or cancellation of shares. Such administrative changes typically have minimal immediate impact on shareholder value unless they signal a significant capital raise or dilution event.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Share Capital",
+        "Corporate Action"
       ]
     }
   ]

@@ -34,11 +34,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ct-private-equity-trust--ctpe/change-of-adviser/9819245",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine administrative change typical for closed-end funds; while adviser transitions can signal underlying governance friction, without details on the successor's reputation or fee structure, this remains a low-impact operational update rather than a strategic shift.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the firm managing the investment trust, which is a significant governance event for shareholders as it may affect future strategy and performance. It typically signals a board-level decision that could alter the management of the company's assets.",
       "key_themes": [
         "Governance",
-        "Administrative"
+        "Management Change"
       ]
     },
     {
@@ -205,11 +205,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ct-private-equity-trust--ctpe/sale-of-a-portfolio-of-fund-interests/9648450",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This reflects standard portfolio rebalancing typical for closed-end funds seeking to crystallize gains or adjust exposure, rather than a strategic pivot or distress signal.",
+      "impact_score": 6,
+      "insight": "This announcement indicates a disposal of assets by CT Private Equity Trust, which typically involves realizing value from investments and potentially returning capital to shareholders. The specific financial impact depends on the size and performance of the disposed portfolio relative to the trust's total holdings.",
       "key_themes": [
-        "Portfolio Rebalancing",
-        "Asset Disposition"
+        "Asset disposal",
+        "Portfolio management",
+        "Capital return"
       ]
     },
     {
@@ -244,11 +245,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ct-private-equity-trust--ctpe/investment-update/9628065",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "As a standard investment update for a closed-end fund, this likely details NAV movements or portfolio performance without triggering significant price volatility or structural change, reflecting routine market fluctuations rather than strategic shifts.",
+      "impact_score": 5,
+      "insight": "An investment update typically provides shareholders with information on portfolio performance or fund status, but without specific details in the headline, the direction and magnitude of any impact remain unclear.",
       "key_themes": [
-        "NAV Performance",
-        "Routine Disclosure"
+        "Investment Update",
+        "Performance"
       ]
     },
     {
@@ -259,10 +260,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on share price or valuation, reflecting individual portfolio management rather than strategic shifts in the closed-end fund sector.",
+      "insight": "This announcement indicates a transaction by a director or person discharging managerial responsibilities, which is a routine disclosure of personal shareholding changes. It generally signifies standard regulatory compliance rather than a material event affecting the company's strategic direction or financial performance.",
       "key_themes": [
-        "regulatory compliance",
-        "minor administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -283,12 +284,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ct-private-equity-trust--ctpe/quarterly-results-and-dividend-announcement-/9590056",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a closed-end fund, quarterly results primarily signal dividend sustainability and NAV performance rather than operational growth, reflecting the broader sector trend of income-focused investment vehicles navigating interest rate volatility.",
+      "impact_score": 5,
+      "insight": "This announcement provides scheduled quarterly performance data and dividend information, which is standard for investment trusts but lacks directional indicators in the headline to assess immediate financial impact.",
       "key_themes": [
-        "Closed-End Fund",
-        "Dividend Policy",
-        "NAV Performance"
+        "Results",
+        "Dividend"
       ]
     }
   ]

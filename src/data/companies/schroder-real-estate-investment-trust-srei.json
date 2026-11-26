@@ -2,9 +2,36 @@
   "name": "Schroder Real Estate Investment Trust Ltd",
   "ticker": "SREI",
   "slug": "schroder-real-estate-investment-trust-srei",
-  "announcement_count": 15,
-  "latest_announcement": "2026-09-30T17:34:00",
+  "announcement_count": 17,
+  "latest_announcement": "2026-11-26T07:01:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T07:01:00",
+      "category": "Dividend",
+      "headline": "Dividend Declaration",
+      "url": "https://www.investegate.co.uk/announcement/rns/schroder-real-estate-investment-trust-ltd--srei/dividend-declaration/9894640",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "A dividend declaration follows the half-year financial report from November. Shareholders should monitor future distributions for consistency.",
+      "key_themes": [
+        "Dividend",
+        "Results"
+      ]
+    },
+    {
+      "timestamp": "2026-11-26T07:00:00",
+      "category": "Results",
+      "headline": "Half-year Financial Report",
+      "url": "https://www.investegate.co.uk/announcement/rns/schroder-real-estate-investment-trust-ltd--srei/half-year-financial-report/9894434",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "Half-year Financial Report follows the August dividend declaration and NAV update. Shareholders should review the financial performance details in this filing.",
+      "key_themes": [
+        "Results"
+      ]
+    },
     {
       "timestamp": "2026-09-30T17:34:00",
       "category": null,
@@ -63,10 +90,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of individual director transactions with no material implication for SREIT's valuation or strategy, reflecting routine compliance rather than significant insider sentiment shifts in the current UK REIT sector.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has transacted in the company's shares. Such filings are routine regulatory disclosures that confirm insider activity but do not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -77,10 +104,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on SREI's valuation or strategy, especially given the broader UK REIT sector's ongoing challenges with refinancing and yield compression.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has engaged in share transactions, which is a routine disclosure of personal trading activity. It provides limited insight into the company's operational performance but confirms adherence to insider dealing regulations.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -113,10 +140,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine dividend declarations are standard income-generating mechanics for UK REITs like SREI; without specific yield changes or context on underlying NAV performance, this lacks the transformative catalyst required for significant price action.",
+      "insight": "This announcement signifies a formal declaration of a dividend payment by the company. It generally indicates that the board has approved a distribution of profits to shareholders, subject to standard regulatory procedures.",
       "key_themes": [
-        "income",
-        "routine"
+        "Dividend",
+        "Shareholder return"
       ]
     },
     {
@@ -126,12 +153,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-real-estate-investment-trust-ltd--srei/nav-update-for-the-quarter-to-30-june-2026/9704872",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Quarterly NAV updates are critical for UK REITs to signal asset revaluation trends amid rising interest rates and shifting office demand; this update will clarify whether SREI's portfolio is holding value or facing write-downs in the current commercial property cycle.",
+      "impact_score": 5,
+      "insight": "This announcement provides a scheduled update on the net asset value for the specified quarter, which is essential for shareholders to assess the underlying performance of their investment. The headline does not indicate any specific directional change or material event, suggesting it is a routine reporting requirement.",
       "key_themes": [
-        "NAV",
-        "UK Commercial Real Estate",
-        "Asset Valuation"
+        "NAV update",
+        "Quarterly results"
       ]
     },
     {
@@ -141,11 +167,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-real-estate-investment-trust-ltd--srei/board-changes/9662143",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine board changes in the UK REIT sector typically signal governance continuity rather than strategic shifts; without details on executive departures or new mandates, this is likely administrative maintenance of the existing capital allocation framework.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the board composition, which is a standard governance event that may influence oversight but typically carries moderate immediate impact compared to strategic or financial disclosures.",
       "key_themes": [
         "Governance",
-        "UK REIT"
+        "Board Changes"
       ]
     },
     {
@@ -156,10 +182,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "As a standard annual report filing for a listed REIT, this is routine disclosure rather than a market-moving event; however, it will be closely scrutinized for dividend sustainability and NAV trends amidst the UK commercial property sector's ongoing valuation adjustments.",
+      "insight": "This announcement signifies the publication of annual financial results, which provides shareholders with a comprehensive review of the company's performance and financial position over the past year.",
       "key_themes": [
-        "Annual Results",
-        "REIT Disclosure"
+        "Results",
+        "Financial Reporting"
       ]
     },
     {
@@ -181,10 +207,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard administrative notice confirming the publication date of results rather than disclosing financial data itself; in the current UK REIT sector context, investor focus remains on valuation adjustments and dividend sustainability amidst rising interest rates.",
+      "insight": "This notice indicates that scheduled financial results are imminent, which is a standard regulatory requirement for listed companies. It signals an upcoming event where shareholder value will be assessed based on reported performance, though the headline does not disclose the direction or magnitude of those results.",
       "key_themes": [
-        "administrative",
-        "results_announcement"
+        "Results",
+        "Financial Reporting"
       ]
     },
     {
@@ -194,12 +220,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-real-estate-investment-trust-ltd--srei/dividend-declaration/9595179",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "In the current UK REIT landscape where capital preservation is paramount, this dividend declaration signals management's confidence in cash flow stability despite rising financing costs and property valuation headwinds.",
+      "impact_score": 3,
+      "insight": "This announcement signifies that the board has declared a dividend, which is a routine capital distribution event for shareholders. It confirms the timing of the payment but provides no details on the amount or sustainability.",
       "key_themes": [
-        "UK REIT",
-        "Dividend Policy",
-        "Income Generation"
+        "Dividend",
+        "Capital Distribution"
       ]
     }
   ]

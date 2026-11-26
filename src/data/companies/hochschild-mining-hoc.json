@@ -2,9 +2,20 @@
   "name": "Hochschild Mining",
   "ticker": "HOC",
   "slug": "hochschild-mining-hoc",
-  "announcement_count": 8,
-  "latest_announcement": "2026-10-21T07:00:00",
+  "announcement_count": 9,
+  "latest_announcement": "2026-11-25T14:46:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T14:46:00",
+      "category": null,
+      "headline": "Holding in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/hochschild-mining--hoc/holding-in-company/9894064",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-10-21T07:00:00",
       "category": null,
@@ -12,11 +23,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hochschild-mining--hoc/q3-and-9-month-production-report/9832838",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine operational update for a junior miner where production volumes are secondary to commodity price sensitivity and cost inflation; lacks the strategic catalysts required to move the stock significantly without accompanying guidance changes.",
+      "impact_score": 5,
+      "insight": "This announcement provides operational performance data for a specific period, which is a scheduled update that informs shareholders about production volumes without indicating financial direction or magnitude.",
       "key_themes": [
         "Operational Update",
-        "Junior Miner"
+        "Production Report"
       ]
     },
     {
@@ -26,12 +37,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hochschild-mining--hoc/correction-interim-dividend-conversion-rate/9764060",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative correction to the FX conversion rate for an interim dividend, likely reflecting minor exchange rate fluctuations rather than a change in total payout value. Such notices are routine for UK-listed miners with USD-denominated earnings and carry no strategic or fundamental weight.",
+      "impact_score": 4,
+      "insight": "This correction to an interim dividend conversion rate indicates a technical adjustment to shareholder payouts rather than a change in financial performance. It signifies administrative housekeeping that may affect the final amount received by investors but does not imply a fundamental shift in the company's value.",
       "key_themes": [
-        "Administrative",
-        "FX Adjustment",
-        "Corporate Action"
+        "Dividend",
+        "Correction",
+        "Administrative"
       ]
     },
     {
@@ -41,11 +52,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hochschild-mining--hoc/interim-dividend-conversion-rate/9764040",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement is a mechanical administrative update regarding the currency denomination of the dividend payment rather than a change in payout policy or amount, reflecting standard operational procedures for an ADR-listed entity.",
+      "impact_score": 3,
+      "insight": "This announcement relates to a dividend conversion rate, which is typically an administrative update regarding the mechanics of a payout rather than a change in dividend policy or amount. It signifies routine processing for shareholders without indicating a material shift in financial performance or strategy.",
       "key_themes": [
-        "Corporate Action",
-        "Administrative"
+        "Dividend",
+        "Corporate Action"
       ]
     },
     {

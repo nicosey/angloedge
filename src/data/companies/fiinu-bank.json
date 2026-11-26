@@ -40,11 +40,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/fiinu--bank/everfex-restructuring-filing/9800289",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This filing concerns Everfex, a distinct entity from Fiinu (formerly Bank of London & Montreal), indicating no direct operational or financial impact on the listed bank's core business.",
+      "impact_score": 9,
+      "insight": "A restructuring filing typically signifies severe financial distress, potential insolvency proceedings, or a fundamental change in the company's capital structure, which poses significant risk to shareholder value.",
       "key_themes": [
-        "Corporate Action",
-        "No Direct Impact"
+        "Restructuring",
+        "Insolvency Risk",
+        "Governance"
       ]
     },
     {
@@ -54,11 +55,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/fiinu--bank/result-of-requisitioned-general-meeting/9768361",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of a requisitioned meeting, likely related to director appointments or procedural matters rather than fundamental business strategy. Without details on the specific resolutions passed, it carries no immediate valuation impact for UK banking equities.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a requisitioned general meeting, which is a procedural update regarding shareholder voting results. It signifies that specific proposals were put to a vote but does not indicate any immediate financial or strategic change.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Activism"
+        "Governance",
+        "Shareholder Meeting"
       ]
     },
     {
@@ -68,12 +69,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/fiinu--bank/half-year-results-six-months-ended-30-june-2026/9766672",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a newly listed UK bank, this interim report is critical for validating the post-IPO business model and asset quality in a high-rate environment; investor focus will be on net interest margin sustainability and loan book growth rather than just headline profit.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled half-year results release for the six-month period ending 30 June. It provides shareholders with an opportunity to assess the company's financial performance and operational progress during this interim reporting period.",
       "key_themes": [
-        "Interim Results",
-        "Banking Sector",
-        "Financial Performance"
+        "Results",
+        "Interim Reporting"
       ]
     },
     {
@@ -83,11 +83,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/fiinu--bank/requisitioned-gm-member-statement-fiinu-response/9766170",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "A requisitioned GM signals internal governance friction but rarely dictates immediate financial outcomes for a small-cap fintech; the market typically discounts this noise unless it triggers a leadership change or strategic pivot.",
+      "impact_score": 9,
+      "insight": "The term 'Requisitioned GM' indicates a shareholder-led call for a General Meeting, often signaling significant internal dissent or a demand for urgent governance changes. This level of organized shareholder activism typically suggests serious underlying issues that could materially affect the company's control or strategic direction.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Activism"
+        "Governance",
+        "Shareholder Activism",
+        "Board Relations"
       ]
     },
     {
@@ -97,11 +98,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/fiinu--bank/operational-update/9755151",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "As a non-bank entity likely operating in the fintech or financial services space rather than a traditional UK banking franchise, an 'Operational Update' typically signals routine progress reporting without material financial impact. Without details on significant capital raising, M&A, or profit warnings, this is classified as minor administrative disclosure with negligible immediate market implication.",
+      "impact_score": 5,
+      "insight": "An operational update typically provides shareholders with a progress report on business activities, though the headline does not indicate whether the news is positive or negative.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Disclosure"
+        "Operational Update",
+        "Business Performance"
       ]
     },
     {
@@ -111,11 +112,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/fiinu--bank/further-re-voting-instructions-for-gm-/9729635",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative update regarding voting instructions for the General Meeting, likely related to the ongoing capital raise process. It carries no new fundamental information or strategic shift, reflecting routine governance procedures rather than market-moving events.",
+      "impact_score": 1,
+      "insight": "This announcement appears to be an administrative correction regarding voting instructions for a general meeting, which typically has no material impact on shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Administration"
+        "Governance",
+        "Administrative"
       ]
     },
     {
@@ -125,11 +126,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/fiinu--bank/publication-of-circular-notice-of-requisitioned-gm/9723856",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement signals internal governance friction rather than operational performance, typical of small-cap UK firms where shareholder activism or board disputes trigger requisitioned meetings. While it highlights potential instability, the immediate market impact is likely muted unless specific activist demands are revealed that threaten strategic direction.",
+      "impact_score": 7,
+      "insight": "A requisitioned general meeting indicates that a significant shareholder group is demanding action or information, suggesting potential governance disputes or strategic shifts. This process can lead to material changes in leadership or corporate direction if the shareholders' demands are met.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Activism"
+        "Governance",
+        "Shareholder activism",
+        "General meeting"
       ]
     },
     {
@@ -169,10 +171,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/fiinu--bank/response-to-shareholder-letter/9652941",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "As a non-listed entity, Fiinu's response to shareholder correspondence lacks the material financial disclosure or market-moving catalysts typical of RNS filings for listed UK equities, rendering it administratively minor with negligible immediate price impact.",
+      "impact_score": 4,
+      "insight": "This announcement indicates that the board is engaging directly with shareholder concerns, which may signal underlying governance issues or strategic disagreements requiring management attention.",
       "key_themes": [
-        "Corporate Governance",
+        "Governance",
         "Shareholder Relations"
       ]
     },

@@ -2,9 +2,20 @@
   "name": "Sage Group",
   "ticker": "SGE",
   "slug": "sage-group-sge",
-  "announcement_count": 25,
-  "latest_announcement": "2026-11-10T09:24:00",
+  "announcement_count": 26,
+  "latest_announcement": "2026-11-25T14:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T14:00:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/sage-group--sge/holding-s-in-company/9893972",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-10T09:24:00",
       "category": null,
@@ -12,12 +23,12 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/sage-group--sge/sage-partners-with-adyen-and-mastercard-to-de-/9867476",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This partnership expands Sage's embedded finance capabilities to compete with fintech incumbents like Stripe and Wise, but as a non-binding collaboration it offers limited immediate revenue visibility or margin impact for SGE.",
+      "impact_score": 5,
+      "insight": "This partnership announcement suggests an effort to expand product offerings for small businesses through collaboration with established financial infrastructure providers. While it indicates strategic development, the lack of disclosed financial terms or scale limits its immediate quantifiable impact on shareholder value.",
       "key_themes": [
-        "Embedded Finance",
-        "Strategic Partnership",
-        "SME Banking"
+        "Partnership",
+        "Product Launch",
+        "Strategic Alliance"
       ]
     },
     {
@@ -128,11 +139,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "Sage's €500m bond issuance signals active balance sheet management to fund growth initiatives or refinance debt, reflecting a broader trend of UK tech firms leveraging capital markets for strategic flexibility amid high interest rates.",
+      "insight": "This announcement signifies a capital raise through debt issuance, which typically impacts shareholder value by altering the company's leverage profile and potentially diluting equity if conversion features are present. It indicates active management of the firm's financial structure without specifying the strategic intent or immediate operational impact.",
       "key_themes": [
-        "capital raising",
-        "debt financing",
-        "balance sheet optimization"
+        "Capital raise",
+        "Debt financing",
+        "Corporate finance"
       ]
     },
     {
@@ -142,12 +153,11 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/sage-group--sge/sage-sme-pulse-east-midlands-smes-outpace-th-/9765185",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a marketing-led regional case study with no direct financial guidance or operational impact on Sage's core SaaS revenue streams. While it highlights successful adoption in the East Midlands, it lacks the strategic weight to influence valuation metrics or investor sentiment for the broader UK SME software market.",
+      "impact_score": 1,
+      "insight": "This appears to be a marketing publication or regional survey rather than a substantive regulatory announcement affecting shareholder value.",
       "key_themes": [
-        "Regional Marketing",
-        "SME Adoption",
-        "No Financial Impact"
+        "Marketing",
+        "Regional Analysis"
       ]
     },
     {
@@ -166,14 +176,11 @@
       "category": null,
       "headline": "Publication of a Supplementary Base Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/sage-group--sge/publication-of-a-supplementary-base-prospectus/9746097",
-      "routine_type": null,
-      "enriched": true,
-      "impact_score": 7,
-      "insight": "This announcement indicates the preparation for a capital raise or significant financing activity, which typically involves issuing new shares and may lead to shareholder dilution.",
-      "key_themes": [
-        "Capital raise",
-        "Fundraising"
-      ]
+      "routine_type": "Debt Notices",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-08-28T12:00:00",
@@ -194,10 +201,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings typically signal individual portfolio management rather than corporate strategy shifts; without volume context or unusual timing relative to earnings, this holds negligible predictive power for Sage's valuation.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but typically carries limited immediate implication for the broader shareholder base.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -208,10 +215,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on Sage's valuation or strategic direction, reflecting normal liquidity management rather than significant insider sentiment shifts.",
+      "insight": "This announcement relates to director dealings, which are typically considered low-impact administrative disclosures for shareholders. It signifies standard compliance with insider dealing regulations rather than a material change in corporate strategy or performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -233,10 +240,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in the UK software sector are typically low-impact administrative events unless they signal a coordinated exodus or massive insider buying, neither of which is evident here.",
+      "insight": "This announcement indicates routine compliance reporting regarding shareholdings by directors or persons discharging managerial responsibilities. It generally signifies standard governance transparency rather than a specific strategic event or material change in value.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -280,10 +287,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on Sage's valuation or strategic direction, reflecting normal liquidity management rather than significant insider sentiment shifts.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with responsibility for managing the company. Such filings are standard regulatory requirements and generally carry low immediate significance for shareholder value compared to strategic or financial disclosures.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -305,10 +312,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on Sage's valuation or strategic trajectory, reflecting standard insider compliance rather than significant sentiment shifts.",
+      "insight": "This announcement relates to director shareholdings, which typically indicates routine regulatory compliance regarding insider transactions rather than significant corporate developments. It generally signifies standard governance activity with limited immediate impact on shareholder value.",
       "key_themes": [
-        "regulatory_compliance",
-        "insider_activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {

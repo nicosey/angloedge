@@ -2,9 +2,23 @@
   "name": "Trifast",
   "ticker": "TRI",
   "slug": "trifast-tri",
-  "announcement_count": 18,
-  "latest_announcement": "2026-11-24T11:53:00",
+  "announcement_count": 19,
+  "latest_announcement": "2026-11-25T14:06:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T14:06:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/director-pdmr-shareholding/9893996",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Director shareholding updates follow the capital reduction effective in November. Shareholders should monitor these filings for changes in insider ownership.",
+      "key_themes": [
+        "Governance",
+        "Capital Reduction"
+      ]
+    },
     {
       "timestamp": "2026-11-24T11:53:00",
       "category": "Director Dealing",
@@ -26,11 +40,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/capital-reduction-effective/9884622",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement confirms the legal completion of a capital reduction, likely facilitating a return of excess cash to shareholders or simplifying the share structure; it is an administrative milestone rather than a strategic pivot.",
+      "impact_score": 4,
+      "insight": "This announcement confirms the completion of a capital reduction, which is typically a corporate action that may involve returning cash to shareholders or adjusting the share register. It represents a finalized structural change rather than an immediate trading event.",
       "key_themes": [
-        "capital management",
-        "shareholder returns"
+        "Capital Reduction",
+        "Corporate Action",
+        "Governance"
       ]
     },
     {
@@ -52,10 +67,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements for Trifast typically reflect standard liquidity events rather than strategic shifts, offering no immediate signal of insider conviction or divergence in a sector currently focused on supply chain resilience and automation.",
+      "insight": "This announcement relates to director shareholdings, which typically signifies routine regulatory disclosure of insider transactions rather than a material corporate event. Such filings provide transparency regarding individual director activity but generally carry limited immediate impact on the company's operational outlook or valuation.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -77,10 +92,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements typically signal low immediate market impact unless accompanied by significant volume or unusual timing relative to price action; without specific transaction details in the headline, this remains an administrative disclosure rather than a strategic signal.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -90,11 +105,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/result-of-general-meeting/9822982",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at Trifast's AGM/EGM, typically covering routine matters like director reappointments or fee approvals rather than strategic shifts.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which is a standard governance procedure for shareholders to approve specific corporate actions. The impact depends entirely on the resolutions passed, but the headline itself indicates only the reporting of results rather than the substance of any decision.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -119,11 +134,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/result-of-agm/9761365",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which typically involves routine ratification of director reappointments and auditor appointments without material strategic shifts or capital allocation changes.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder votes on governance matters. It provides transparency on resolutions passed but does not indicate any material change to the company's financial position or strategic direction.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Shareholder vote"
       ]
     },
     {
@@ -181,10 +196,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on share price momentum or valuation metrics for Trifast.",
+      "insight": "This announcement relates to director shareholding transactions, which are routine regulatory disclosures indicating changes in insider ownership. Such filings generally have minimal immediate impact on shareholder value unless they signal significant confidence or lack thereof by management.",
       "key_themes": [
-        "regulatory compliance",
-        "minor administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -194,12 +209,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/final-results/9648414",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a high-beta component of the FTSE 250, Trifast's final results serve as a critical barometer for global manufacturing and automotive supply chain health; any deviation in margin or order book visibility will likely trigger immediate repricing relative to peers like Cooper Standard or GKN.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of the company's final annual results, providing shareholders with essential financial performance data and strategic updates for the period.",
       "key_themes": [
-        "automotive supply chain",
-        "global manufacturing",
-        "FTSE 250 volatility"
+        "Results",
+        "Financial Reporting"
       ]
     },
     {
@@ -220,11 +234,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/change-of-adviser/9612465",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative update regarding the appointment of a new corporate broker, common for small-cap firms seeking better liquidity or market coverage rather than indicating a fundamental shift in strategy.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the professional advisors appointed to assist the company, which typically relates to ongoing corporate governance or potential strategic activities. Shareholders should monitor for subsequent filings that may reveal the specific nature of this engagement.",
       "key_themes": [
-        "Corporate Governance",
-        "Broker Appointment"
+        "Governance",
+        "Advisory"
       ]
     },
     {

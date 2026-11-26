@@ -142,11 +142,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/volex--vlx/scrip-reference-price/9730780",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative disclosure setting the reference price for future share issuance under existing scrip arrangements, carrying no intrinsic valuation signal or strategic shift.",
+      "impact_score": 3,
+      "insight": "This announcement typically indicates that the company is offering shareholders the option to receive new shares instead of cash dividends. It signifies a capital allocation decision regarding dividend distribution methods rather than a change in operational performance.",
       "key_themes": [
-        "Corporate Action",
-        "Administrative"
+        "Dividend",
+        "Capital return"
       ]
     },
     {
@@ -214,11 +214,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/volex--vlx/publication-of-a-prospectus/9677466",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Publication of a prospectus is typically an administrative prerequisite for listing new shares or debt rather than a standalone strategic catalyst; without accompanying details on the raise size or purpose, it signals process over substance in the current volatile electronics manufacturing sector.",
+      "impact_score": 8,
+      "insight": "The publication of a prospectus typically signifies a significant capital raising activity, such as an IPO or secondary offering, which can materially affect shareholder dilution and valuation. This type of announcement often indicates a major strategic shift or funding event for the company.",
       "key_themes": [
-        "Capital Markets",
-        "Administrative"
+        "Capital raise",
+        "Prospectus",
+        "Corporate action"
       ]
     },
     {
@@ -229,10 +230,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard administrative update offering shareholders the option to take new shares instead of cash, common in capital-efficient sectors like manufacturing; it signals no immediate strategic shift or liquidity crisis but allows the company to retain cash for working capital needs.",
+      "insight": "This announcement indicates that shareholders are being offered a choice between receiving cash dividends or additional shares in the company. It signifies a standard capital distribution mechanism rather than a material change in corporate strategy or financial health.",
       "key_themes": [
-        "capital_allocation",
-        "shareholder_choice"
+        "Dividend",
+        "Capital return"
       ]
     },
     {
@@ -242,11 +243,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/volex--vlx/share-buyback-programme-update/9667890",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine share buyback updates are common administrative disclosures for Volex, reflecting standard capital management rather than a strategic pivot; without details on volume or price, the market impact is negligible compared to operational earnings drivers in the electronics manufacturing sector.",
+      "impact_score": 4,
+      "insight": "This update likely confirms the progress of an existing share buyback programme, which generally signals management's confidence in the company's valuation and provides a mechanism for returning capital to shareholders.",
       "key_themes": [
-        "capital allocation",
-        "routine disclosure"
+        "Share Buyback",
+        "Capital Return",
+        "Corporate Action"
       ]
     },
     {
@@ -256,11 +258,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/volex--vlx/acquisition-of-remaining-stake-in-kepler-signaltek/9667884",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This represents a standard consolidation of an existing joint venture rather than transformative growth; while it improves margin visibility by removing minority interest dilution, the incremental financial impact is likely negligible for VLX's broader market cap.",
+      "impact_score": 7,
+      "insight": "Acquiring the remaining stake in a subsidiary typically signifies full consolidation of operations and control, which can enhance strategic alignment and potentially improve financial reporting clarity for shareholders.",
       "key_themes": [
-        "JV Consolidation",
-        "Minority Interest"
+        "M&A",
+        "Consolidation",
+        "Corporate Action"
       ]
     },
     {
@@ -282,10 +285,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on VLX's valuation or operational trajectory, reflecting normal insider activity rather than a strategic shift in the competitive EV connector sector.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has engaged in share dealing activity. Such disclosures are routine regulatory requirements and generally carry low immediate impact unless they signal significant insider sentiment shifts.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Director Dealing",
+        "Governance"
       ]
     },
     {
@@ -309,10 +312,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard administrative notice confirming the publication date of results rather than the results themselves; it carries no immediate pricing impact or strategic signal for Volex's cable manufacturing business.",
+      "insight": "This announcement indicates that the company is scheduled to release its financial results, a routine event whose significance depends on the underlying performance not visible in the headline.",
       "key_themes": [
-        "administrative",
-        "results_announcement"
+        "Results",
+        "Financial reporting"
       ]
     }
   ]

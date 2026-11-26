@@ -13,10 +13,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of individual director transactions which carries no intrinsic signal regarding BHP's strategic direction or financial health. In the absence of aggregate insider buying/selling data or accompanying commentary, such routine filings are market-neutral and do not warrant re-pricing.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine changes in shareholding by individuals with managerial responsibilities. Such disclosures are standard regulatory requirements and generally carry low immediate financial impact for shareholders.",
       "key_themes": [
-        "regulatory_compliance",
-        "insider_activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -27,10 +27,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of individual director transactions which carries no intrinsic signal regarding BHP's strategic direction or financial health. In the absence of aggregate insider buying/selling data or specific deal context, such routine filings are administratively neutral for equity valuation.",
+      "insight": "This announcement relates to director dealings, which typically signifies routine compliance filings regarding individual share transactions rather than significant corporate developments.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -41,10 +41,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory disclosure of individual director transactions which carries negligible signal for BHP's fundamental outlook or share price direction compared to broader commodity cycles.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with responsibility for managing the company rather than significant corporate events. Such disclosures are standard governance requirements and generally have limited direct impact on shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -54,12 +54,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/bhp-group-limited-npv-di---bhp/media-speculation-on-western-australia-iron-ore-/9756530",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard market-sensitivity disclosure regarding WAIO pricing speculation rather than a fundamental operational update; while it highlights the critical link between BHP's fortunes and Chinese steel demand dynamics, it lacks actionable financial data or strategic shifts.",
+      "impact_score": 3,
+      "insight": "This announcement addresses media speculation regarding operations in Western Australia, which may clarify operational status or regulatory compliance for shareholders. It serves to manage market sentiment rather than disclose a definitive material corporate event.",
       "key_themes": [
-        "Market Speculation",
-        "Iron Ore Pricing",
-        "Regulatory Compliance"
+        "Media speculation",
+        "Operational update"
       ]
     },
     {
@@ -119,11 +118,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/bhp-group-limited-npv-di---bhp/2026-us-annual-report-form-20-f-/9727857",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Filing a Form 20-F is a standard regulatory requirement for foreign private issuers in the US and does not constitute a material event; BHP's operational narrative is driven by commodity cycles and project execution rather than this administrative disclosure.",
+      "impact_score": 5,
+      "insight": "This filing represents a scheduled annual regulatory submission required for companies listed in the US, providing standardized financial and operational disclosures to investors. It serves as a routine update rather than a signal of specific strategic changes or immediate financial performance shifts.",
       "key_themes": [
-        "regulatory_compliance",
-        "routine_disclosure"
+        "Regulatory Filing",
+        "Annual Report",
+        "Governance"
       ]
     },
     {
@@ -147,12 +147,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/bhp-group-limited-npv-di---bhp/jansen-project-update/9625349",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The Jansen potash project represents a critical supply-side catalyst for BHP's growth trajectory, directly addressing the structural deficit in global fertiliser markets and providing a high-margin revenue stream to offset volatility in core iron ore and copper segments.",
+      "impact_score": 5,
+      "insight": "This update likely provides progress or status information regarding a specific project, which is relevant for assessing operational execution but lacks details on financial magnitude or strategic shifts.",
       "key_themes": [
-        "Potash",
-        "Supply Expansion",
-        "Agricultural Commodities"
+        "Project Update",
+        "Operational Progress"
       ]
     }
   ]

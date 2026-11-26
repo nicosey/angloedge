@@ -2,9 +2,22 @@
   "name": "Frontier IP Group",
   "ticker": "FIPP",
   "slug": "frontier-ip-group-fipp",
-  "announcement_count": 17,
-  "latest_announcement": "2026-11-10T07:00:00",
+  "announcement_count": 18,
+  "latest_announcement": "2026-11-26T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T07:00:00",
+      "category": "Results",
+      "headline": "Final results for the year ended 30 June 2026",
+      "url": "https://www.investegate.co.uk/announcement/rns/frontier-ip-group--fipp/final-results-for-the-year-ended-30-june-2026/9894461",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "Final results for the year ended 30 June 2026 are now published. Shareholders should review the financial performance and strategic updates contained within.",
+      "key_themes": [
+        "Results"
+      ]
+    },
     {
       "timestamp": "2026-11-10T07:00:00",
       "category": null,
@@ -13,10 +26,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard portfolio update confirming non-dilutive funding for two of Frontier IP's asset holders; while it validates the commercial viability of the underlying technology, the financial impact on FIPP is negligible as grants do not directly translate to immediate royalty revenue or equity value.",
+      "insight": "This announcement indicates that the company has secured funding through a grant, which may provide non-dilutive capital for its operations. The specific financial impact or strategic implications for shareholders remain undefined by the headline.",
       "key_themes": [
-        "Portfolio Update",
-        "Grant Funding"
+        "Grant",
+        "Funding"
       ]
     },
     {
@@ -111,10 +124,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "While the grant validates InSignals' neurotech IP and provides non-dilutive funding, it is a minor administrative update with negligible immediate financial impact on Frontier IP's consolidated results or valuation.",
+      "insight": "This announcement indicates that a third-party entity has received a grant, which is typically an administrative update regarding external funding rather than a direct financial event for the company. It generally signifies no immediate material impact on shareholder value unless the company is explicitly named as the recipient.",
       "key_themes": [
-        "neurotech",
-        "grant_funding"
+        "Grant",
+        "Administrative"
       ]
     },
     {
@@ -182,11 +195,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/frontier-ip-group--fipp/result-of-retail-offer-/9626423",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "The conclusion of the retail offer is a standard procedural step for Frontier IP's capital raising, confirming investor participation but lacking immediate transformative catalysts; the primary market focus remains on the execution of its patent monetisation strategy rather than this administrative milestone.",
+      "impact_score": 6,
+      "insight": "This announcement provides the outcome of a retail share offer, indicating whether new shares have been issued to public investors. It signifies a capital raising activity that may result in share dilution for existing holders.",
       "key_themes": [
-        "Capital Raising",
-        "Patent Monetisation"
+        "Capital raise",
+        "Share issuance",
+        "Retail offering"
       ]
     },
     {
@@ -196,12 +210,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/frontier-ip-group--fipp/result-of-placing-and-subscription-/9621822",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This capital raise is critical for Frontier IP to fund its transition from a passive holding company to an active IP monetisation operator, addressing the persistent discount to NAV that has plagued the stock. The move signals management's intent to accelerate revenue generation through direct licensing and enforcement, a strategy increasingly adopted by peers to unlock trapped value in the intellectual property sector.",
+      "impact_score": 7,
+      "insight": "This announcement confirms the outcome of a placing and subscription, indicating that the company has successfully raised capital from investors. This typically signifies a capital raise event which may dilute existing shareholdings but provides new funding.",
       "key_themes": [
-        "Capital Raise",
-        "Strategic Pivot",
-        "IP Monetisation"
+        "Capital raise",
+        "Placing",
+        "Subscription"
       ]
     },
     {
@@ -211,12 +225,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/frontier-ip-group--fipp/retail-offer-/9621637",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "A retail offer for Frontier IP Group typically indicates a need to raise capital from a broad base of smaller investors, often at a discount to market price, which can lead to short-term dilution. This is common for small-cap tech firms seeking liquidity without institutional commitment, reflecting the challenging fundraising environment for speculative growth stocks.",
+      "impact_score": 7,
+      "insight": "A retail offer typically indicates a capital raise or listing event, which can be dilutive to existing shareholders but may also signal growth or liquidity initiatives.",
       "key_themes": [
-        "capital_raise",
-        "dilution_risk",
-        "small_cap_equity"
+        "Capital raise",
+        "Retail offering"
       ]
     }
   ]

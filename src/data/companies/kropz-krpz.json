@@ -2,9 +2,23 @@
   "name": "Kropz",
   "ticker": "KRPZ",
   "slug": "kropz-krpz",
-  "announcement_count": 9,
-  "latest_announcement": "2026-11-20T16:27:00",
+  "announcement_count": 10,
+  "latest_announcement": "2026-11-26T13:15:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T13:15:00",
+      "category": null,
+      "headline": "Drawdown on Loan Facilities",
+      "url": "https://www.investegate.co.uk/announcement/rns/kropz--krpz/drawdown-on-loan-facilities-/9896126",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "Following suspension in October, Kropz secured new loan facilities in November. This drawdown indicates continued reliance on debt to fund operations while shares remain halted.",
+      "key_themes": [
+        "Debt financing",
+        "Suspension"
+      ]
+    },
     {
       "timestamp": "2026-11-20T16:27:00",
       "category": null,
@@ -12,12 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/kropz--krpz/new-loan-facilities/9887274",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Securing new loan facilities indicates a need for liquidity to fund operations or growth, which is common in the capital-intensive UK tech sector but introduces leverage risk without immediate revenue visibility.",
+      "impact_score": 5,
+      "insight": "This announcement indicates the establishment of new debt financing arrangements, which generally signifies a change in the company's capital structure or liquidity position. The specific financial implications for shareholders remain undefined without further details on the terms or purpose of the facilities.",
       "key_themes": [
-        "liquidity",
-        "debt_financing",
-        "tech_sector"
+        "Debt financing",
+        "Capital structure"
       ]
     },
     {
@@ -42,11 +55,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "Suspension of a micro-cap stock like Kropz typically signals severe governance issues, potential insolvency, or regulatory scrutiny by the FCA, effectively freezing liquidity and destroying shareholder value instantly.",
+      "insight": "The suspension of shares indicates a significant disruption to trading, typically implying serious regulatory concerns or corporate governance issues that prevent normal market activity. This status prevents shareholders from buying or selling the stock until the suspension is lifted and the underlying reasons are resolved.",
       "key_themes": [
-        "Liquidity Risk",
-        "Governance Failure",
-        "Micro-cap Volatility"
+        "Suspension",
+        "Governance",
+        "Trading Halt"
       ]
     },
     {
@@ -70,11 +83,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/kropz--krpz/development-at-the-hinda-phosphate-project/9778130",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Operational updates for junior explorers like Kropz rarely move markets without assay results or resource estimates; this likely reflects routine project management rather than a material catalyst for valuation.",
+      "impact_score": 5,
+      "insight": "This announcement likely signifies a development update regarding an ongoing project, which may provide shareholders with progress information but lacks specific details on financial impact or milestones in the headline.",
       "key_themes": [
-        "Exploration Update",
-        "Junior Mining"
+        "Project Update",
+        "Development"
       ]
     },
     {
@@ -110,11 +123,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "Kropz is leveraging bridge financing to accelerate its aggressive acquisition strategy in the waste management sector, a common tactic for roll-up platforms but one that increases leverage risk if integration targets are missed.",
+      "insight": "This announcement indicates the company is accessing bridge loan facilities, which typically signifies a need for immediate liquidity or funding to support ongoing operations or strategic initiatives. Shareholders should monitor subsequent filings for details on repayment terms and potential dilution risks.",
       "key_themes": [
-        "M&A Financing",
-        "Leverage",
-        "Roll-up Strategy"
+        "Debt financing",
+        "Liquidity",
+        "Capital structure"
       ]
     },
     {
@@ -124,12 +137,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/kropz--krpz/new-loan-facility-and-operational-update/9669019",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Securing new debt financing provides critical liquidity for Kropz's expansion into the high-growth cannabis cultivation sector, mitigating immediate cash burn risks but increasing leverage in a capital-intensive industry.",
+      "impact_score": 7,
+      "insight": "This announcement indicates a significant change in the company's capital structure through a new loan facility, which may alter its financial leverage and liquidity position. The inclusion of an operational update suggests material developments affecting day-to-day business activities or strategic direction.",
       "key_themes": [
-        "liquidity",
-        "cannabis-infrastructure",
-        "debt-financing"
+        "Debt financing",
+        "Operational update"
       ]
     }
   ]

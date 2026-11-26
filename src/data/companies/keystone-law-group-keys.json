@@ -2,9 +2,20 @@
   "name": "Keystone Law Group",
   "ticker": "KEYS",
   "slug": "keystone-law-group-keys",
-  "announcement_count": 13,
-  "latest_announcement": "2026-11-24T14:40:00",
+  "announcement_count": 14,
+  "latest_announcement": "2026-11-26T11:30:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T11:30:00",
+      "category": null,
+      "headline": "Director Declaration",
+      "url": "https://www.investegate.co.uk/announcement/rns/keystone-law-group--keys/director-declaration/9895879",
+      "routine_type": "Director Declaration",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-24T14:40:00",
       "category": null,
@@ -24,10 +35,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements for professional services firms like Keystone Law typically reflect personal liquidity management rather than strategic shifts, offering no material signal on the firm's underlying legal sector performance or valuation.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a strategic shift or material event for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Low Impact"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -49,10 +60,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard administrative notice confirming the publication of results rather than the release of the data itself; without accompanying financial metrics or commentary on the legal sector's fee pressure, it holds no immediate market-moving weight.",
+      "insight": "This announcement indicates that scheduled financial results are being released, which is a standard event for shareholders to assess performance. The headline does not specify whether the results will be positive or negative.",
       "key_themes": [
-        "administrative",
-        "routine"
+        "Results"
       ]
     },
     {
@@ -110,10 +120,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures typically signal low immediate strategic urgency and lack significant market-moving potential compared to major corporate actions or earnings surprises.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine regulatory disclosure. It provides limited insight into future performance but may signal insider sentiment regarding the stock.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Director Dealing",
+        "Governance"
       ]
     },
     {
@@ -123,11 +133,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/keystone-law-group--keys/result-of-agm/9625737",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine AGM results for a niche professional services firm typically confirm standard governance matters without triggering material valuation changes, reflecting the low volatility and administrative nature of this corporate action.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder votes on governance matters. It signifies standard corporate compliance rather than any material change to the company's financial position or strategic direction.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Governance",
+        "Shareholder Meeting"
       ]
     },
     {

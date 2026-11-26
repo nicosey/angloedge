@@ -12,11 +12,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/reckitt-benckiser-group--rkt/-reckitt-focus-on-investor-seminar/9882970",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard investor relations event with no immediate financial or strategic disclosure; in the current defensive consumer staples sector, such seminars serve to reinforce management credibility rather than signal material value changes.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a scheduled investor seminar, which is typically an informational event rather than a substantive corporate action. It generally signifies routine engagement with shareholders without immediate financial or strategic implications.",
       "key_themes": [
         "Investor Relations",
-        "Corporate Communications"
+        "Corporate Events"
       ]
     },
     {
@@ -37,11 +37,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/reckitt-benckiser-group--rkt/completion-of-russia-hygiene-business-divestment/9872401",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Finalizes the exit from a high-growth but geopolitically volatile market, allowing Reckitt to consolidate capital and focus on core Western markets amid rising input costs. This divestment removes execution risk and aligns with broader FMCG trends of retreating from Russia following the Ukraine invasion.",
+      "impact_score": 7,
+      "insight": "This announcement signifies the completion of a material disposal, which typically allows the company to refocus its portfolio and potentially return capital to shareholders or reduce debt. The divestment represents a strategic shift in asset composition that may impact future revenue streams and operational scope.",
       "key_themes": [
-        "Geopolitical Risk Mitigation",
-        "Portfolio Optimization"
+        "Divestment",
+        "Strategic review",
+        "Portfolio management"
       ]
     },
     {
@@ -49,14 +50,11 @@
       "category": null,
       "headline": "EMTN Programme: Admission to Trading",
       "url": "https://www.investegate.co.uk/announcement/rns/reckitt-benckiser-group--rkt/emtn-programme-admission-to-trading/9865260",
-      "routine_type": null,
-      "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative update regarding the listing of debt instruments under an existing EMTN programme, indicating routine treasury management rather than new capital raising or strategic shifts.",
-      "key_themes": [
-        "Corporate Finance",
-        "Administrative"
-      ]
+      "routine_type": "Debt Notices",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-11-05T15:45:00",
@@ -85,15 +83,11 @@
       "category": null,
       "headline": "EMTN Programme: Publication of Base Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/reckitt-benckiser-group--rkt/emtn-programme-publication-of-base-prospectus/9851225",
-      "routine_type": null,
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement signifies the establishment of a framework for future debt issuance, which is an administrative step rather than an immediate financial event. It indicates potential flexibility for capital raising but does not confirm any specific borrowing or use of funds at this time.",
-      "key_themes": [
-        "Debt issuance",
-        "Capital structure",
-        "Administrative"
-      ]
+      "routine_type": "Debt Notices",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-10-27T07:00:00",
@@ -209,11 +203,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/reckitt-benckiser-group--rkt/result-of-tender-offer/9722571",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement reflects a standard capital return mechanism rather than a strategic shift; while it signals management confidence in cash flow generation, it lacks the transformative potential of M&A or major restructuring seen in peer defensive consumer staples firms.",
+      "impact_score": 7,
+      "insight": "This announcement indicates the conclusion of a tender offer process, which typically involves significant capital allocation or a change in shareholding structure. Shareholders should anticipate potential implications for liquidity, control, or future strategic direction resulting from this completed transaction.",
       "key_themes": [
-        "capital allocation",
-        "shareholder returns"
+        "Capital return",
+        "Shareholder action",
+        "Corporate finance"
       ]
     },
     {
@@ -223,12 +218,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/reckitt-benckiser-group--rkt/tender-offer/9705896",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "A tender offer is a standard capital allocation mechanism for cash-rich consumer staples firms like Reckitt, typically used to return excess liquidity to shareholders rather than signal strategic transformation. While it supports EPS accretion and demonstrates financial discipline, it lacks the transformative growth narrative or M&A activity required to move the stock significantly in the current defensive sector environment.",
+      "impact_score": 8,
+      "insight": "A tender offer headline typically signifies a formal sale process or potential acquisition, which represents a significant strategic event for shareholders. This type of announcement often leads to substantial changes in ownership structure or control.",
       "key_themes": [
-        "capital return",
-        "shareholder yield",
-        "consumer staples"
+        "M&A",
+        "Corporate action"
       ]
     },
     {
@@ -238,12 +232,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/reckitt-benckiser-group--rkt/2026-share-buyback-programme-first-tranche/9702463",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This tranche signals continued capital return discipline in a defensive consumer staples sector where cash generation is prioritized over aggressive growth; however, the routine nature limits immediate upside catalysts compared to transformative M&A.",
+      "impact_score": 4,
+      "insight": "This announcement signifies a capital return initiative where the company intends to repurchase its own shares, which can support share price stability and earnings per share. The specific scale and impact on shareholder value remain undefined by the headline.",
       "key_themes": [
-        "capital allocation",
-        "defensive equity",
-        "shareholder yield"
+        "Share Buyback",
+        "Capital Return"
       ]
     },
     {
@@ -289,11 +282,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/reckitt-benckiser-group--rkt/directorate-change/9621549",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine board-level personnel adjustments in a stable consumer staples giant like Reckitt typically carry negligible fundamental impact on valuation or strategy.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the board composition, which is a standard governance event. While it may signal strategic shifts or succession planning, the lack of specific details limits immediate financial interpretation.",
       "key_themes": [
-        "Corporate Governance",
-        "Leadership Stability"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -303,12 +296,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/reckitt-benckiser-group--rkt/completion-of-share-buyback-programme/9619775",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Completion of the buyback signals management's confidence in cash flow generation and commitment to returning capital, a standard tactic for mature consumer staples firms like Reckitt to support EPS in a low-growth environment. While positive for shareholder yield, it lacks the transformative impact of M&A or strategic pivots, reflecting routine capital allocation rather than a fundamental shift in business trajectory.",
+      "impact_score": 4,
+      "insight": "This announcement signifies the conclusion of a share buyback programme, which generally indicates that the company has completed its planned repurchase of equity. For shareholders, this typically implies a reduction in the number of outstanding shares, potentially increasing earnings per share, but confirms no further immediate capital return via this specific mechanism.",
       "key_themes": [
-        "capital return",
-        "consumer staples",
-        "EPS support"
+        "Capital return",
+        "Share buyback",
+        "Corporate action"
       ]
     },
     {
@@ -341,10 +334,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard administrative disclosures with negligible impact on RKT's valuation or strategic trajectory, reflecting individual portfolio management rather than corporate sentiment shifts.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into future performance but confirms compliance with insider dealing regulations.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -355,10 +348,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard administrative disclosures with negligible fundamental impact on Reckitt Benckiser's valuation or strategic trajectory, reflecting standard compliance rather than significant insider sentiment shifts.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It generally signifies standard compliance with market regulations rather than a specific strategic shift or material event for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director dealings"
       ]
     },
     {

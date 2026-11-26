@@ -2,9 +2,20 @@
   "name": "Macfarlane Group",
   "ticker": "MACF",
   "slug": "macfarlane-group-macf",
-  "announcement_count": 6,
-  "latest_announcement": "2026-11-24T12:25:00",
+  "announcement_count": 7,
+  "latest_announcement": "2026-11-25T08:39:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T08:39:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/mfn/macfarlane-group--macf/holding-s-in-company/9893141",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-24T12:25:00",
       "category": null,
@@ -46,10 +57,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the administrative conclusion of a previously disclosed buyback tranche rather than signaling a new strategic initiative; while it demonstrates management's confidence in intrinsic value, the absence of an expanded programme suggests limited immediate capital allocation flexibility or aggressive growth intent.",
+      "insight": "The completion of a share buyback programme signifies that the company has finished repurchasing its own shares, which typically supports the share price by reducing the number of outstanding shares. This is a routine corporate action rather than a transformative event or strategic shift.",
       "key_themes": [
-        "Capital Allocation",
-        "Shareholder Return"
+        "Capital return",
+        "Shareholder value"
       ]
     },
     {

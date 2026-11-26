@@ -2,9 +2,37 @@
   "name": "Polar Capital Holdings",
   "ticker": "POLR",
   "slug": "polar-capital-holdings-polr",
-  "announcement_count": 54,
-  "latest_announcement": "2026-10-23T07:00:00",
+  "announcement_count": 56,
+  "latest_announcement": "2026-11-25T15:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T15:00:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/polar-capital-holdings--polr/director-pdmr-shareholding/9894098",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Polar Capital Holdings filed multiple Director/PDMR Shareholding announcements in July 2026. This follows an earlier filing in June and precedes an AuM update.",
+      "key_themes": [
+        "Governance",
+        "Director dealings"
+      ]
+    },
+    {
+      "timestamp": "2026-11-25T14:47:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/polar-capital-holdings--polr/director-pdmr-shareholding/9894065",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Polar Capital Holdings filed multiple Director/PDMR Shareholding announcements in July. This follows an earlier June investor presentation.",
+      "key_themes": [
+        "Governance",
+        "Director Dealing"
+      ]
+    },
     {
       "timestamp": "2026-10-23T07:00:00",
       "category": null,
@@ -46,10 +74,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements for investment management firms like Polar Capital typically reflect personal portfolio adjustments rather than corporate strategy shifts, offering negligible signal regarding the firm's AUM growth or fee income trajectory.",
+      "insight": "This announcement relates to director shareholding transactions, which are routine regulatory disclosures indicating changes in insider ownership rather than strategic corporate developments. Such filings generally have minimal immediate impact on shareholder value unless they signal a significant shift in insider confidence.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -179,14 +207,10 @@
       "headline": "Transaction in own shares and Buy Back Extension",
       "url": "https://www.investegate.co.uk/announcement/rns/polar-capital-holdings--polr/transaction-in-own-shares-and-buy-back-extension/9675626",
       "routine_type": "Transaction in Own Shares",
-      "enriched": true,
-      "impact_score": 6,
-      "insight": "The extension of the buyback mandate signals management's confidence in POLR's valuation and cash flow generation amidst a challenging global equity market environment, serving as a defensive capital allocation strategy to support the share price rather than indicating transformative growth.",
-      "key_themes": [
-        "capital return",
-        "shareholder yield",
-        "asset management sector"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-07-17T07:00:00",
@@ -196,10 +220,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on POLR's valuation or strategy, reflecting individual portfolio management rather than corporate signal.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has transacted shares in the company. Such dealings are routine governance disclosures and generally carry low immediate significance for shareholders unless part of a larger pattern.",
       "key_themes": [
-        "regulatory compliance",
-        "minor administrative"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -275,12 +299,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/polar-capital-holdings--polr/aum-update/9659732",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "AuM updates are standard operational disclosures for asset managers like Polar Capital, reflecting fee-generating assets under management rather than direct earnings; while critical for long-term revenue visibility, they rarely trigger immediate share price volatility unless accompanied by unexpected outflows or strategic shifts.",
+      "impact_score": 5,
+      "insight": "This announcement provides a scheduled update on assets under management, which is a key performance indicator for investment management firms but does not disclose specific financial results or strategic changes.",
       "key_themes": [
-        "Asset Management",
-        "Fee Income",
-        "Operational Update"
+        "Performance Update",
+        "Operational Disclosure"
       ]
     },
     {
@@ -313,10 +336,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in asset management firms like Polar Capital are typically low-impact administrative events that rarely signal immediate strategic shifts or material changes to the firm's valuation.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such disclosures are routine regulatory requirements and typically have minimal immediate impact on shareholder value unless accompanied by further context regarding the size or nature of the transaction.",
       "key_themes": [
-        "Corporate Governance",
-        "Low Impact"
+        "Director Dealing",
+        "Governance"
       ]
     },
     {

@@ -81,11 +81,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/lendinvest--linv/result-of-agm/9763795",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which typically rubber-stamp routine governance matters without triggering material price movement or strategic shifts.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or statutory resolutions. It signifies standard corporate governance activity rather than a material change in the company's strategic or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -160,10 +160,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on share price dynamics; without volume or direction specifics indicating a significant shift in insider sentiment, this remains an administrative update rather than a strategic signal.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine insider transactions rather than significant corporate events. Such filings are standard governance disclosures and generally carry low immediate impact on shareholder value.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_impact"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -173,13 +173,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/lendinvest--linv/lendinvest-fy26-financial-results/9668975",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a key player in the UK buy-to-let and bridging finance sector, LINV's FY26 results will be scrutinized for margin compression amid rising funding costs and potential credit deterioration in the residential mortgage market. The outcome is critical for assessing the firm's liquidity position and ability to navigate the current high-interest-rate environment without significant capital raising.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled annual financial results for the company. The specific direction or magnitude of the performance is not indicated by the headline alone.",
       "key_themes": [
-        "Lending margins",
-        "Credit risk",
-        "Funding costs",
-        "UK housing market"
+        "Results"
       ]
     },
     {
@@ -189,12 +186,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/lendinvest--linv/delay-in-fy26-audited-financial-statement/9666689",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "In the high-stakes UK property finance sector, delayed audits often signal underlying balance sheet complexities or valuation disputes that may foreshadow a profit warning or capital raise; investors should brace for potential liquidity scrutiny given LINV's recent restructuring efforts.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a delay in the publication of audited financial statements, which is typically an administrative matter rather than a direct indicator of financial performance. Shareholders should monitor subsequent updates for any further delays or explanations regarding the timing.",
       "key_themes": [
-        "Audit Delay",
-        "Property Finance",
-        "Liquidity Risk"
+        "Results",
+        "Governance"
       ]
     }
   ]

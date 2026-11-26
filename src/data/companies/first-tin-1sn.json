@@ -2,9 +2,20 @@
   "name": "First Tin",
   "ticker": "1SN",
   "slug": "first-tin-1sn",
-  "announcement_count": 13,
-  "latest_announcement": "2026-11-24T15:59:00",
+  "announcement_count": 14,
+  "latest_announcement": "2026-11-25T11:24:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T11:24:00",
+      "category": null,
+      "headline": "TR-1 Notification of Major Holdings",
+      "url": "https://www.investegate.co.uk/announcement/rns/first-tin--1sn/tr-1-notification-of-major-holdings-/9893592",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-24T15:59:00",
       "category": null,
@@ -23,11 +34,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/first-tin--1sn/extension-of-pusu-deadline-/9862891",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This administrative extension reflects the protracted timeline typical of UK junior mining M&A due diligence rather than a fundamental shift in asset value; such deadlines are routinely renewed without impacting the underlying strategic thesis.",
+      "impact_score": 3,
+      "insight": "This announcement indicates an extension of a deadline for a specific process, which is typically administrative housekeeping that delays immediate action but does not alter the fundamental status of the company. Shareholders should expect no immediate change in value or strategic direction from this procedural update alone.",
       "key_themes": [
-        "Corporate Action",
-        "Exploration & Mining"
+        "Administrative",
+        "Deadline Extension"
       ]
     },
     {
@@ -84,11 +95,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/first-tin--1sn/statement-regarding-a-possible-offer/9816305",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This announcement signals potential corporate action in the speculative junior mining sector, where takeover premiums are common for asset-rich but cash-poor entities; however, without confirmed terms, it remains a speculative catalyst rather than a definitive value driver.",
+      "impact_score": 7,
+      "insight": "This announcement indicates a potential offer for the company, which may lead to a change in control or significant strategic shift for shareholders.",
       "key_themes": [
-        "M&A speculation",
-        "Junior mining volatility"
+        "M&A",
+        "Corporate action"
       ]
     },
     {
@@ -109,12 +120,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/first-tin--1sn/potential-offer-by-metals-x-pursuant-to-rule-2-4-/9815932",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 9,
-      "insight": "Metals X's potential offer represents a transformative exit for First Tin shareholders, capitalizing on the critical battery metals supercycle and the strategic imperative for downstream integration in the lithium sector.",
+      "impact_score": 8,
+      "insight": "This headline indicates a potential offer by Metals X under Rule 2.4, suggesting a formal sale process or takeover bid that could significantly alter the company's ownership and strategic direction.",
       "key_themes": [
-        "Lithium",
         "M&A",
-        "Battery Metals"
+        "Takeover Bid",
+        "Rule 2.4"
       ]
     },
     {
@@ -125,10 +136,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "The updated Feasibility Study likely de-risks the Taronga project by refining capital expenditure and operational timelines, a critical step for junior miners seeking to attract joint venture partners or debt financing in the current high-interest rate environment.",
+      "insight": "This announcement indicates a significant update to the project's valuation through a feasibility study, which is critical for resource companies to demonstrate commercial viability and secure future funding.",
       "key_themes": [
-        "Project De-risking",
-        "Tin Market"
+        "Feasibility Study",
+        "Asset Valuation"
       ]
     },
     {
@@ -139,10 +150,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "Updated reserves are critical for First Tin's valuation as they directly influence the bankability of the Tantalus project and future financing terms in a sector where resource confidence dictates investor appetite.",
+      "insight": "This announcement signifies a revision to the estimated mineral reserves, which is a critical metric for evaluating the long-term viability and asset value of an exploration company. Shareholders should anticipate potential changes in the perceived worth of the company's assets based on this updated data.",
       "key_themes": [
-        "resource_estimation",
-        "project_financing"
+        "Resource Estimate",
+        "Asset Valuation"
       ]
     },
     {
@@ -163,11 +174,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/first-tin--1sn/response-to-submissions-report/9593407",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory response to the FCA's Submissions Report regarding small-cap disclosure practices, lacking any company-specific operational data or strategic shifts that would alter the investment thesis for First Tin.",
+      "impact_score": 3,
+      "insight": "This announcement likely signifies a routine regulatory response to a previous inquiry, which typically has limited immediate financial impact but confirms ongoing compliance with exchange rules.",
       "key_themes": [
-        "regulatory_compliance",
-        "governance"
+        "Regulatory Compliance",
+        "Governance"
       ]
     }
   ]

@@ -2,9 +2,20 @@
   "name": "Jersey Oil and Gas",
   "ticker": "JOG",
   "slug": "jersey-oil-and-gas-jog",
-  "announcement_count": 10,
-  "latest_announcement": "2026-11-23T15:45:00",
+  "announcement_count": 11,
+  "latest_announcement": "2026-11-25T15:45:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T15:45:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/jersey-oil-and-gas--jog/holding-s-in-company/9894186",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T15:45:00",
       "category": null,
@@ -67,11 +78,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/jersey-oil-and-gas--jog/greater-buchan-area-update/9707341",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Operational updates for mature UKCS assets like Greater Buchan typically signal maintenance or minor production fluctuations rather than transformative growth, reflecting the sector's shift towards cost discipline over expansion.",
+      "impact_score": 5,
+      "insight": "This update likely provides operational progress or status information regarding the Greater Buchan Area, which is relevant to shareholders monitoring asset performance. Without specific financial or strategic details in the headline, it represents a standard operational disclosure rather than a material event.",
       "key_themes": [
-        "UKCS Operations",
-        "Production Update"
+        "Operational Update",
+        "Asset Management"
       ]
     },
     {
@@ -92,11 +103,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/jersey-oil-and-gas--jog/result-of-agm/9609483",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director re-election and auditor appointment rather than strategic shifts or capital allocation changes.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals or governance matters rather than significant corporate events.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Meeting results"
       ]
     },
     {

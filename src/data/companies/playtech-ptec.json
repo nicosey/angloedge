@@ -2,9 +2,23 @@
   "name": "Playtech",
   "ticker": "PTEC",
   "slug": "playtech-ptec",
-  "announcement_count": 6,
-  "latest_announcement": "2026-09-22T13:35:00",
+  "announcement_count": 7,
+  "latest_announcement": "2026-11-26T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T07:00:00",
+      "category": "Director Dealing",
+      "headline": "Director / PDMR Notification",
+      "url": "https://www.investegate.co.uk/announcement/rns/playtech--ptec/director-pdmr-notification/9894484",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Director dealings are reported alongside a bond closing in September. This routine governance update follows recent financial results.",
+      "key_themes": [
+        "Governance",
+        "Capital raise"
+      ]
+    },
     {
       "timestamp": "2026-09-22T13:35:00",
       "category": "Director Dealing",
@@ -40,12 +54,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/playtech--ptec/2026-half-year-results/9764419",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a mature B2B iGaming operator facing secular headwinds from regulatory tightening in Europe and the US, this interim update is critical for validating the efficacy of its cost-cutting measures and margin expansion strategy amidst slowing organic growth.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled half-year financial results for the company. It provides shareholders with an update on the firm's operational performance and financial position for the specified period.",
       "key_themes": [
-        "Interim Results",
-        "iGaming Sector",
-        "Margin Expansion"
+        "Results",
+        "Financial Reporting"
       ]
     },
     {
@@ -55,11 +68,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/playtech--ptec/spectrum-report-validates-black-cube-investigation/9761970",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "The Spectrum Report serves as a defensive validation of the Black Cube investigation, likely mitigating immediate reputational risk but failing to address underlying governance concerns or operational performance issues in the iGaming sector.",
+      "impact_score": 7,
+      "insight": "The validation of an investigation into allegations by a private intelligence firm suggests significant governance scrutiny and potential reputational risk for the company. This type of confirmation typically signals a formal review process that may lead to material changes in leadership or corporate strategy.",
       "key_themes": [
-        "Corporate Governance",
-        "Reputation Management"
+        "Governance",
+        "Investigation",
+        "Reputational Risk"
       ]
     },
     {
@@ -81,10 +95,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing notifications are standard regulatory filings that rarely signal strategic shifts or material market-moving events for Playtech's core gaming operations.",
+      "insight": "This announcement signifies standard regulatory compliance regarding insider dealing notifications by persons discharging managerial responsibilities. It generally indicates routine governance activity rather than a specific strategic event or material change in value for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     }
   ]

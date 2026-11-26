@@ -2,9 +2,23 @@
   "name": "Living REIT plc",
   "ticker": "LIVE",
   "slug": "living-reit-live",
-  "announcement_count": 11,
-  "latest_announcement": "2026-11-24T07:00:00",
+  "announcement_count": 12,
+  "latest_announcement": "2026-11-25T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T07:00:00",
+      "category": "Dividend",
+      "headline": "Dividend Declaration",
+      "url": "https://www.investegate.co.uk/announcement/rns/living-reit-plc--live/dividend-declaration/9892159",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement signifies a formal declaration of a dividend by the company. For shareholders, this typically indicates a distribution of profits and provides information regarding income returns.",
+      "key_themes": [
+        "Dividend",
+        "Shareholder return"
+      ]
+    },
     {
       "timestamp": "2026-11-24T07:00:00",
       "category": "Appointment",
@@ -26,11 +40,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/living-reit-plc--live/assignment-of-auckland-leases-to-inclusion/9874568",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Administrative restructuring of lease assignments for a single NZ asset has negligible impact on LIVE's UK-focused portfolio and overall valuation.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a structural change in the holding of specific assets, likely for tax or administrative efficiency rather than a strategic shift in operations. Shareholders should view this as an internal reorganization with no immediate impact on the company's financial performance or asset value.",
       "key_themes": [
-        "administrative",
-        "portfolio_management"
+        "Corporate restructuring",
+        "Asset management"
       ]
     },
     {
@@ -41,10 +55,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard administrative filings with negligible immediate impact on share price dynamics; without context on deal size or direction (buy/sell), this is classified as minor noise rather than a strategic signal.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities rather than significant corporate events. Such filings generally have limited immediate impact on shareholder value unless they signal a broader change in insider sentiment.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -68,12 +82,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/living-reit-plc--live/dividend-declaration/9775261",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a REIT, the dividend declaration is the primary mechanism for returning capital to shareholders, directly impacting yield attractiveness in a high-interest-rate environment; however, without specific yield or payout ratio data, this remains a routine compliance event rather than a strategic shift.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a dividend declaration, which is typically classified as a minor corporate action with limited immediate strategic impact. It generally indicates the company is returning capital to shareholders but provides no insight into future performance or financial health.",
       "key_themes": [
-        "REIT Yield",
-        "Capital Return",
-        "Income Investing"
+        "Dividend",
+        "Capital Return"
       ]
     },
     {
@@ -83,12 +96,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/living-reit-plc--live/notice-of-interim-results/9754277",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a REIT, the release of interim results is critical for validating dividend sustainability amidst rising UK interest rates and commercial property valuation pressures; this update will likely dictate near-term investor sentiment on yield security.",
+      "impact_score": 5,
+      "insight": "This notice indicates that the company is publishing its interim financial results, which will provide shareholders with an update on recent performance and financial position. The headline does not specify whether the results are expected to be positive or negative.",
       "key_themes": [
-        "REIT",
-        "Dividend Sustainability",
-        "Interest Rate Sensitivity"
+        "Results",
+        "Financial Reporting"
       ]
     },
     {
@@ -109,11 +121,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/living-reit-plc--live/correction-update-on-strategic-acquisition-/9715780",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "A correction to a strategic acquisition update typically signals administrative refinement or minor data adjustment rather than a fundamental shift in deal terms, limiting immediate market reaction despite the sector's current focus on active portfolio management.",
+      "impact_score": 7,
+      "insight": "This correction to a strategic acquisition update suggests significant ongoing M&A activity that may materially alter the company's asset base or future direction. Shareholders should anticipate potential volatility as details of this transformative deal are clarified.",
       "key_themes": [
-        "Corporate Action",
-        "Administrative Update"
+        "M&A",
+        "Strategic Update",
+        "Correction"
       ]
     },
     {
@@ -123,11 +136,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/living-reit-plc--live/update-on-strategic-acquisition/9670489",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Without the specific asset details in this update headline, the market reaction will be muted; UK REITs are currently sensitive to yield compression and refinancing risks, making any acquisition materiality critical for valuation.",
+      "impact_score": 7,
+      "insight": "This update likely provides details on a significant strategic acquisition, which could materially alter the company's asset base and future growth trajectory for shareholders.",
       "key_themes": [
-        "UK Real Estate",
-        "Strategic Growth"
+        "M&A",
+        "Strategic Update"
       ]
     },
     {
@@ -137,11 +150,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/living-reit-plc--live/result-of-general-meeting/9658839",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "As a standard post-meeting result announcement for a REIT, this confirms routine shareholder approvals rather than signaling strategic shifts or material capital events.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically signifies routine shareholder voting results. It generally has limited immediate financial impact unless specific major resolutions were passed.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder vote"
       ]
     },
     {

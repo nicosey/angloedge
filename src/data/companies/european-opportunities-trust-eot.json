@@ -73,11 +73,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/european-opportunities-trust--eot/portfolio-update/9650332",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Portfolio updates are standard informational disclosures for investment trusts that rarely trigger immediate price action unless they signal a drastic shift in strategy or significant valuation changes not yet priced in.",
+      "impact_score": 5,
+      "insight": "This announcement provides a scheduled update on the portfolio composition or performance, which is routine for investment trusts but lacks specific directional indicators in the headline.",
       "key_themes": [
-        "investment trust",
-        "portfolio disclosure"
+        "Portfolio Update",
+        "Investment Trust"
       ]
     },
     {
@@ -87,11 +87,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/european-opportunities-trust--eot/publication-of-circular/9648457",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard administrative filing for an Investment Trust, typically containing details of the Annual General Meeting or proxy voting instructions rather than material corporate action.",
+      "impact_score": 5,
+      "insight": "A circular publication typically signifies that shareholders are being asked to vote on a specific proposal, such as a change in investment policy or board composition. This indicates a governance event requiring shareholder attention but does not imply immediate financial value creation or loss.",
       "key_themes": [
-        "Corporate Governance",
-        "Investment Trust"
+        "Governance",
+        "Shareholder Vote"
       ]
     },
     {
@@ -112,11 +112,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/european-opportunities-trust--eot/portfolio-update/9599957",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Portfolio updates are standard informational disclosures for investment trusts that rarely drive immediate price action unless they signal a drastic shift in strategy; without specific details on significant position changes, this remains a routine administrative update.",
+      "impact_score": 5,
+      "insight": "A portfolio update provides shareholders with information on the current state of investments but does not indicate a specific directional change or financial outcome.",
       "key_themes": [
-        "Investment Trust",
-        "Routine Disclosure"
+        "Portfolio Update",
+        "Investment Performance"
       ]
     },
     {
@@ -137,12 +137,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/european-opportunities-trust--eot/result-of-strategic-review/9590946",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Strategic reviews for closed-end funds often signal potential NAV discounts to market price, raising the spectre of a premium/discount management action such as a tender offer or share buyback; this is a common precursor to value-unlocking measures in the current UK investment trust landscape.",
+      "impact_score": 7,
+      "insight": "This announcement indicates that a strategic review has been concluded, which typically signals significant potential changes to the company's direction or ownership structure for shareholders.",
       "key_themes": [
-        "Investment Trust",
         "Strategic Review",
-        "Premium/Discount Management"
+        "Governance"
       ]
     }
   ]

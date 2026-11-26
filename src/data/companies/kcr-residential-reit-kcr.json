@@ -2,9 +2,23 @@
   "name": "KCR Residential Reit",
   "ticker": "KCR",
   "slug": "kcr-residential-reit-kcr",
-  "announcement_count": 3,
-  "latest_announcement": "2026-11-04T10:48:00",
+  "announcement_count": 4,
+  "latest_announcement": "2026-11-26T12:12:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T12:12:00",
+      "category": "AGM/EGM",
+      "headline": "Result of AGM",
+      "url": "https://www.investegate.co.uk/announcement/rns/kcr-residential-reit--kcr/result-of-agm/9895972",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Shareholders receive the outcome of the Annual General Meeting. This follows the October final results announcement.",
+      "key_themes": [
+        "Governance",
+        "Results"
+      ]
+    },
     {
       "timestamp": "2026-11-04T10:48:00",
       "category": "AGM/EGM",
@@ -37,10 +51,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/kcr-residential-reit--kcr/change-of-broker/9800288",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine administrative change with negligible immediate financial impact; reflects standard operational maintenance rather than strategic shift or liquidity concern in the current UK REIT sector.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a routine administrative change in the firm handling the company's investor relations or market-making activities. It generally indicates operational housekeeping rather than a material shift in strategy or financial performance.",
       "key_themes": [
-        "Corporate Governance",
+        "Governance",
         "Administrative"
       ]
     }

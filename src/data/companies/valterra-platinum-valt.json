@@ -26,11 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/valterra-platinum-limited--valt/interest-payment-notification/9874878",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine interest payment notifications are standard administrative disclosures for closed-ended investment trusts like Valterra Platinum, indicating no material change in capital structure or solvency risk amidst the current high-yield debt environment.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a routine distribution of funds to shareholders, typically indicating that the company is generating sufficient cash flow to meet its payment obligations.",
       "key_themes": [
-        "administrative",
-        "closed-ended-fund"
+        "Dividend",
+        "Income"
       ]
     },
     {
@@ -40,11 +40,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/valterra-platinum-limited--valt/disposal-of-beneficial-interests-in-the-company/9865601",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Disposals of beneficial interests by shareholders in closed-end investment trusts like Valterra Platinum are routine liquidity events that rarely signal distress or strategic shift, reflecting standard portfolio rebalancing rather than fundamental company performance.",
+      "impact_score": 7,
+      "insight": "This headline indicates a formal sale process or potential offer for the company, which typically represents a significant strategic event for shareholders. Such announcements often signal a change in control or substantial restructuring of ownership.",
       "key_themes": [
-        "Shareholder activity",
-        "Closed-end fund"
+        "M&A",
+        "Corporate Action"
       ]
     },
     {
@@ -93,11 +93,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/valterra-platinum-limited--valt/interest-payment-on-the-val001-val002-and-val003-/9721100",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard operational disclosure confirming the servicing of debt obligations for VALT's structured investment vehicles (VAL001-003), indicating no immediate liquidity distress or covenant breach but offering no new strategic value to shareholders.",
+      "impact_score": 3,
+      "insight": "This announcement signifies the payment of interest on specific instruments, indicating a routine financial obligation being met by the company. It confirms the servicing of debt or preferred share liabilities without suggesting any change in financial health or strategic direction.",
       "key_themes": [
-        "Debt Servicing",
-        "Structured Finance"
+        "Interest Payment",
+        "Financial Obligation"
       ]
     },
     {
@@ -163,11 +163,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/valterra-platinum-limited--valt/production-report-for-the-second-quarter-2026/9674343",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "As a pre-revenue exploration company, quarterly production reports are inherently routine with zero immediate financial impact on valuation; the market focus remains on drill results and resource definition rather than operational output.",
+      "impact_score": 5,
+      "insight": "This announcement provides a scheduled operational update for the second quarter of 2026, which is relevant to shareholders monitoring the company's ongoing performance and activity levels. The specific direction or magnitude of any changes is not disclosed in the headline.",
       "key_themes": [
-        "Exploration Update",
-        "Pre-Revenue"
+        "Operational Update",
+        "Quarterly Report"
       ]
     },
     {
@@ -177,12 +177,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/valterra-platinum-limited--valt/trading-statement-six-months-ended-30-june-2026/9673825",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a closed-end fund, VALT's interim update is critical for assessing NAV performance relative to its premium/discount dynamics in the current high-yield UK equity environment; any deviation from peer benchmarks will directly impact arbitrage opportunities and investor sentiment.",
+      "impact_score": 5,
+      "insight": "This trading update provides a periodic assessment of performance for the six-month period ending in June 2026. As the headline does not specify the direction or magnitude of results, it represents a standard scheduled disclosure without immediate indication of material positive or negative impact.",
       "key_themes": [
-        "NAV Performance",
-        "Closed-End Fund Premium/Discount",
-        "UK Equity Market"
+        "Results",
+        "Trading Update"
       ]
     },
     {
@@ -192,12 +191,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/valterra-platinum-limited--valt/notice-of-acquisition-of-beneficial-interests-/9652408",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 9,
-      "insight": "This announcement signals a significant shift in control for Valterra Platinum, likely involving the acquisition of a substantial block by an activist investor or strategic partner, which often precedes board changes or strategic realignment in small-cap UK equities.",
+      "impact_score": 7,
+      "insight": "This announcement indicates that Valterra Platinum Limited is acquiring beneficial interests, which typically signifies a strategic expansion or consolidation of assets. Shareholders should monitor subsequent filings for details on the scale and financial implications of this acquisition.",
       "key_themes": [
-        "Change of Control",
-        "Activist Potential",
-        "Governance"
+        "Acquisition",
+        "Strategic Expansion"
       ]
     }
   ]

@@ -2,9 +2,23 @@
   "name": "Quadrise",
   "ticker": "QED",
   "slug": "quadrise-qed",
-  "announcement_count": 13,
-  "latest_announcement": "2026-11-23T17:46:00",
+  "announcement_count": 14,
+  "latest_announcement": "2026-11-26T12:06:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T12:06:00",
+      "category": null,
+      "headline": "Valkor update",
+      "url": "https://www.investegate.co.uk/announcement/rns/quadrise--qed/valkor-update/9895965",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "Following the October update and November funding receipt, this payment update signals progress in the Valkor transaction. Shareholders should monitor for final sanction or completion details.",
+      "key_themes": [
+        "Corporate action",
+        "Funding"
+      ]
+    },
     {
       "timestamp": "2026-11-23T17:46:00",
       "category": null,
@@ -26,11 +40,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/quadrise--qed/valkor-funds-receipt/9875794",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement confirms the receipt of funds from Valkor, likely settling a prior receivable or investment return rather than indicating new operational revenue or strategic expansion. As a routine cash flow update for a small-cap infrastructure firm, it lacks the transformative catalysts required to materially alter valuation multiples.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a receipt of funds from an entity named Valkor, which may relate to financing, settlement, or operational activity. Without further details on the nature or size of the transaction, it is classified as a routine financial update.",
       "key_themes": [
-        "cash_flow",
-        "administrative"
+        "Funding",
+        "Corporate Action"
       ]
     },
     {
@@ -41,10 +55,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "As a passive update from Nouryon regarding Quadrise's equity stake, this lacks immediate catalysts for QED's valuation; without disclosed material changes in Nouryon's performance or strategic direction, the impact on Quadrise's underlying asset value remains negligible.",
+      "insight": "This appears to be a press release or update regarding another organization, Nouryon, which has no direct bearing on Quadrise's shareholders.",
       "key_themes": [
-        "Passive Investment",
-        "Corporate Update"
+        "Press Release",
+        "External Update"
       ]
     },
     {
@@ -54,11 +68,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/quadrise--qed/valkor-update/9851915",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "As a low-float micro-cap in the niche waste-to-energy sector, Valkor updates are typically operational rather than transformative; without specific material financial data or major contract wins, this is likely routine corporate housekeeping with negligible immediate price impact.",
+      "impact_score": 5,
+      "insight": "This update likely provides a progress report or operational status regarding the entity named in the headline, which is relevant to shareholders assessing current performance. Without further detail, it represents a standard informational release rather than a material corporate action.",
       "key_themes": [
-        "operational_update",
-        "micro_cap"
+        "Operational Update",
+        "Corporate Communication"
       ]
     },
     {
@@ -68,11 +82,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/quadrise--qed/valkor-update/9823644",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Valkor is a non-core asset divestment for Quadrise, likely providing modest cash flow but lacking the transformative scale of core infrastructure deals; this reflects routine portfolio optimization rather than strategic pivot.",
+      "impact_score": 5,
+      "insight": "This update likely provides a progress report or operational status regarding the entity named in the headline, which is significant for shareholders seeking visibility into the company's current standing. Without specific details on performance or financials, it represents a standard informational disclosure rather than a material event.",
       "key_themes": [
-        "Asset Divestment",
-        "Portfolio Optimization"
+        "Operational Update",
+        "Corporate Communication"
       ]
     },
     {
@@ -96,11 +110,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/quadrise--qed/valkor-update/9773968",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "As a minor operational update for a small-cap infrastructure firm with limited analyst coverage, this announcement lacks the materiality to shift valuation multiples or trigger significant institutional rebalancing.",
+      "impact_score": 5,
+      "insight": "This update likely provides a progress report or operational status regarding the 'Valkor' initiative, which is significant for shareholders as it clarifies the development stage of a key asset without disclosing specific financial outcomes.",
       "key_themes": [
-        "operational_update",
-        "small_cap"
+        "Operational Update",
+        "Asset Development"
       ]
     },
     {
@@ -111,10 +125,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard administrative notice for an upcoming full-year results release rather than the results themselves; without accompanying financial data or guidance, it carries no immediate pricing impact.",
+      "insight": "This announcement signifies that the company is releasing its annual financial performance data, which is a scheduled event providing shareholders with essential information on profitability and operational results.",
       "key_themes": [
-        "Corporate Action",
-        "Results Announcement"
+        "Results",
+        "Financial Reporting"
       ]
     },
     {
@@ -139,10 +153,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 4,
-      "insight": "This announcement confirms the closure of the retail tranche for a placing that has already occurred, indicating no new capital is being raised at this moment and removing immediate dilution uncertainty. As a routine administrative update following the initial institutional placement, it carries negligible short-term price impact unless the final share count significantly alters the expected over-subscription dynamics.",
+      "insight": "This announcement provides the outcome of a retail share offer, indicating whether shares were successfully allocated to public investors. It serves as an administrative update on the completion of this specific fundraising channel rather than signaling a major strategic shift or material financial event.",
       "key_themes": [
-        "Capital Raising",
-        "Administrative Update"
+        "Capital raise",
+        "Shareholder update"
       ]
     },
     {
@@ -163,12 +177,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/quadrise--qed/retail-offer-to-raise-up-to-1-2-million/9657467",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "A £1.2m retail placing is a micro-cap capital raise with negligible dilution impact, primarily serving as a minor liquidity top-up rather than a transformative funding event for Quadrise's infrastructure asset management model.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a small-scale capital raise through a retail offer, which typically has minimal dilution impact compared to institutional placements. Shareholders should note the administrative nature of this funding event without assuming strategic implications.",
       "key_themes": [
-        "micro-cap",
-        "retail fundraising",
-        "minor dilution"
+        "Capital raise",
+        "Retail offering"
       ]
     },
     {
@@ -178,12 +191,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/quadrise--qed/results-of-placing-and-subscription-/9657224",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This capital raise signals Quadrise's aggressive expansion into the UK energy efficiency market via its subsidiary Energy Savings Trust, leveraging current government decarbonisation mandates to drive growth despite near-term dilution.",
+      "impact_score": 5,
+      "insight": "This announcement indicates that the company is raising capital through a placing and subscription, which typically involves issuing new shares. This action generally signifies a need for funding but also implies potential dilution of existing shareholders' ownership stakes.",
       "key_themes": [
-        "Capital Raise",
-        "Energy Transition",
-        "Growth Strategy"
+        "Capital raise",
+        "Equity financing"
       ]
     }
   ]

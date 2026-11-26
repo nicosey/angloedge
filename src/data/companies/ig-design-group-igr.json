@@ -2,9 +2,23 @@
   "name": "IG Design Group",
   "ticker": "IGR",
   "slug": "ig-design-group-igr",
-  "announcement_count": 40,
-  "latest_announcement": "2026-11-18T16:56:00",
+  "announcement_count": 41,
+  "latest_announcement": "2026-11-25T15:42:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T15:42:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/ig-design-group--igr/director-pdmr-shareholding/9894184",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Director shareholding updates follow recent LTIP awards and buybacks, indicating ongoing executive equity management.",
+      "key_themes": [
+        "Governance",
+        "Executive Compensation"
+      ]
+    },
     {
       "timestamp": "2026-11-18T16:56:00",
       "category": null,
@@ -139,13 +153,10 @@
       "headline": "Transaction in Own Shares and Buyback Completion",
       "url": "https://www.investegate.co.uk/announcement/rns/ig-design-group--igr/transaction-in-own-shares-and-buyback-completion/9790180",
       "routine_type": "Transaction in Own Shares",
-      "enriched": true,
-      "impact_score": 4,
-      "insight": "This announcement confirms the completion of a share buyback program, indicating that the company has repurchased its own equity from the market. Such actions generally signify capital management and potential support for the share price by reducing the number of outstanding shares.",
-      "key_themes": [
-        "Share Buyback",
-        "Capital Management"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-09-23T14:08:00",
@@ -290,10 +301,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "In the competitive UK leisure and entertainment sector, securing a dedicated CFO is critical for executing margin-focused strategies and navigating post-pandemic consumer spending shifts, signaling a move towards financial discipline rather than aggressive expansion.",
+      "insight": "This announcement signifies a change in senior management structure, which may influence financial oversight and strategic direction. Shareholders should monitor subsequent disclosures for details on the new appointee's background and any immediate operational implications.",
       "key_themes": [
-        "Leadership Change",
-        "Operational Efficiency"
+        "Governance",
+        "Management Change"
       ]
     },
     {
@@ -414,10 +425,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements for IG Design Group typically reflect standard compliance disclosures rather than significant strategic shifts or insider sentiment changes, offering minimal immediate alpha for equity investors.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with responsibility for managing the company rather than significant corporate events.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -428,10 +439,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements for IG Design Group typically reflect standard compliance disclosures rather than significant strategic shifts, offering limited immediate alpha in the current discretionary retail sector.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with responsibility for managing the company rather than significant corporate events. Such disclosures are standard governance requirements and generally carry low immediate impact on shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -441,10 +452,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ig-design-group--igr/grant-of-ltip-award-/9620721",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative grant under the existing LTIP framework, typical for retaining senior talent in the competitive fintech and trading platform sector rather than signaling a strategic shift or financial distress.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a routine grant of long-term incentives to employees or directors, which is a standard governance practice. It generally indicates alignment of interests but does not inherently signal significant financial or strategic change for shareholders.",
       "key_themes": [
-        "Corporate Governance",
+        "Governance",
         "Executive Compensation"
       ]
     },
@@ -455,11 +466,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ig-design-group--igr/share-buyback-programme/9619750",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine share buyback indicating management's confidence in valuation but lacking the transformative scale of major M&A or strategic pivots; typical for mature UK consumer discretionary firms managing capital allocation.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a formal initiation of a share buyback programme, which generally signifies management's confidence in the company's valuation and a commitment to returning capital to shareholders. The specific financial impact remains undefined without further details on the size or duration of the scheme.",
       "key_themes": [
-        "capital allocation",
-        "shareholder return"
+        "Share Buyback",
+        "Capital Return",
+        "Corporate Action"
       ]
     },
     {
@@ -469,12 +481,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ig-design-group--igr/full-year-results-/9619514",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a high-beta proxy for UK consumer discretionary spending, IGR's full-year results provide critical real-time data on the resilience of the retail sector amid persistent inflationary pressures and shifting consumer sentiment.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled full year results, which provides shareholders with essential financial performance data for the period. The headline does not indicate whether the results are positive or negative, nor does it suggest any immediate strategic changes or corporate actions.",
       "key_themes": [
-        "Consumer Discretionary",
-        "Retail Sector Health",
-        "Consumer Spending Trends"
+        "Results",
+        "Financial Reporting"
       ]
     }
   ]

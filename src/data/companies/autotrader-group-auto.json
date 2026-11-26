@@ -2,9 +2,20 @@
   "name": "Autotrader Group plc",
   "ticker": "AUTO",
   "slug": "autotrader-group-auto",
-  "announcement_count": 41,
-  "latest_announcement": "2026-11-23T10:04:00",
+  "announcement_count": 42,
+  "latest_announcement": "2026-11-25T16:05:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T16:05:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/autotrader-group-plc--auto/holding-s-in-company/9894206",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T10:04:00",
       "category": null,
@@ -258,10 +269,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings typically signal low immediate market impact unless volume is exceptional; in the current digital advertising sector context, such disclosures are standard governance updates rather than strategic signals.",
+      "insight": "This announcement relates to director shareholdings, which is typically a routine regulatory disclosure regarding insider transactions. It generally signifies standard compliance activity rather than a significant strategic shift or material event for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -283,10 +294,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Autotrader's valuation or market sentiment.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine compliance filings regarding shareholdings by persons discharging managerial responsibilities. Such disclosures generally have a neutral impact on shareholder value unless they signal significant changes in insider confidence.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -296,11 +307,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/autotrader-group-plc--auto/result-of-agm/9672971",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of routine shareholder votes at the Annual General Meeting, which typically involves re-electing directors and approving remuneration rather than announcing strategic shifts or capital changes.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or auditor appointments. It signifies standard corporate governance compliance rather than any material change to the company's strategic direction or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -449,10 +460,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures typically carry minimal immediate market impact unless they signal a coordinated shift in insider sentiment, which is not evident here given the standard nature of the filing.",
+      "insight": "This announcement relates to director dealings, which generally signifies routine insider activity rather than a strategic shift. It provides limited insight into the company's future performance or governance changes.",
       "key_themes": [
-        "insider activity",
-        "corporate governance"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {

@@ -13,10 +13,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard disclosure of the Property Advisor's shareholding activity, likely reflecting routine portfolio management rather than a strategic signal; without volume context or price premium, it holds negligible weight for valuation.",
+      "insight": "This announcement indicates that a property advisor has purchased shares in the company, which is typically classified as director or insider dealing. Such transactions provide limited insight into future performance but confirm current ownership levels of key advisors.",
       "key_themes": [
-        "Insider Activity",
-        "Corporate Governance"
+        "Director dealings",
+        "Insider activity"
       ]
     },
     {
@@ -26,11 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/phoenix-spree-deutschland-limited-shs-npv--psdl/new-directorship-notification/9778306",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing for a new non-executive director appointment, common in small-cap governance but lacking immediate financial or strategic catalysts.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the board composition, which is a standard governance update. It signifies that a new individual has been appointed to the directorship, affecting the company's leadership structure.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -40,11 +40,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/phoenix-spree-deutschland-limited-shs-npv--psdl/new-directorship-notification/9761560",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine regulatory filing for a micro-cap vehicle with negligible liquidity; director changes in such SPAC-like structures rarely signal strategic shifts without accompanying asset acquisition announcements.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the board composition, which is a standard governance update. It indicates a shift in the company's leadership structure but does not inherently suggest immediate strategic or financial implications for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Micro-cap"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -68,11 +68,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/phoenix-spree-deutschland-limited-shs-npv--psdl/completion-of-compulsory-redemption/9645713",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Compulsory redemption of shares with NPV is a standard administrative mechanism to maintain listing compliance by reducing the share count when the market value falls below the minimum threshold; it has no fundamental impact on the company's operations or valuation.",
+      "impact_score": 9,
+      "insight": "A compulsory redemption typically forces all remaining shareholders to sell their shares at a fixed price, effectively ending their ownership and often preceding a delisting. This represents a definitive exit event for investors rather than a standard operational update.",
       "key_themes": [
-        "listing_compliance",
-        "administrative_action"
+        "Capital return",
+        "Delisting",
+        "Corporate action"
       ]
     },
     {

@@ -2,9 +2,31 @@
   "name": "Melrose Industries",
   "ticker": "MRO",
   "slug": "melrose-industries-mro",
-  "announcement_count": 19,
-  "latest_announcement": "2026-11-18T07:00:00",
+  "announcement_count": 21,
+  "latest_announcement": "2026-11-25T16:08:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T16:08:00",
+      "category": null,
+      "headline": "TR-1: Standard Form-Notification of Major Holdings",
+      "url": "https://www.investegate.co.uk/announcement/rns/melrose-industries--mro/tr-1-standard-form-notification-of-major-holdings/9894209",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-25T16:05:00",
+      "category": null,
+      "headline": "TR-1: Standard Form-Notification of Major Holdings",
+      "url": "https://www.investegate.co.uk/announcement/rns/melrose-industries--mro/tr-1-standard-form-notification-of-major-holdings/9894207",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-18T07:00:00",
       "category": "Trading Update",
@@ -12,11 +34,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/melrose-industries--mro/trading-update-guidance-for-full-year-unchanged-/9880533",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "Unchanged guidance confirms Melrose's disciplined capital allocation strategy amid volatile industrial markets, reinforcing investor confidence in its buyback program rather than signaling growth acceleration.",
+      "impact_score": 5,
+      "insight": "This announcement confirms that the company's full-year outlook remains consistent with previous expectations, providing stability but no new catalysts for shareholder value.",
       "key_themes": [
-        "Capital Allocation",
-        "Industrial Sector Stability"
+        "Trading Update",
+        "Guidance"
       ]
     },
     {
@@ -26,11 +48,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/melrose-industries--mro/update-on-gkn-aerospace-s-garden-grove-facility/9820118",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This update likely addresses operational challenges or cost pressures at a key US manufacturing site, reflecting the broader integration complexities Melrose faces in its aerospace portfolio following the GKN acquisition.",
+      "impact_score": 4,
+      "insight": "This update likely provides operational details regarding a specific facility, which may influence investor sentiment but lacks immediate financial magnitude indicators. Shareholders should monitor for subsequent disclosures detailing any material impact on group performance.",
       "key_themes": [
-        "Operational Execution",
-        "Aerospace Integration"
+        "Operational Update",
+        "Facility Management"
       ]
     },
     {
@@ -116,10 +138,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory filing for PDMR transactions, which typically carries low intrinsic market impact unless accompanied by unusual volume or context not present here. Without details on the specific nature (buy/sell) or magnitude of the deals, it remains an administrative disclosure rather than a strategic signal.",
+      "insight": "This announcement signifies standard regulatory compliance regarding transactions by persons discharging managerial responsibilities. It provides transparency into insider trading activity but does not inherently indicate a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Regulatory Compliance",
-        "Corporate Governance"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -141,10 +163,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of Personal Dealing by Persons Discharging Managerial Responsibilities, lacking the strategic weight of M&A or capital raises. While director activity can signal sentiment, routine notifications are administrative in nature and do not alter the fundamental investment thesis for Melrose's asset-heavy portfolio.",
+      "insight": "This announcement signifies standard regulatory compliance regarding transactions by persons discharging managerial responsibilities. It provides transparency into insider trading activity but does not inherently indicate a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Regulatory Compliance",
-        "Insider Activity"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -221,10 +243,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard PDMR notification with no immediate strategic implications for Melrose's turnaround strategy or capital allocation. Such routine filings are common for diversified conglomerates and do not signal a shift in management sentiment or corporate direction.",
+      "insight": "This announcement signifies that a person discharging managerial responsibilities has engaged in a transaction involving the company's shares. Such disclosures are routine regulatory requirements and typically have minimal direct impact on shareholder value unless accompanied by further context regarding the volume or nature of the dealing.",
       "key_themes": [
-        "Corporate Governance",
-        "Regulatory Compliance"
+        "Director Dealing",
+        "Governance"
       ]
     },
     {
@@ -234,11 +256,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/melrose-industries--mro/update-on-garden-grove-facility-in-california-/9587356",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Operational updates on a single US facility typically signal execution risks or cost pressures rather than strategic shifts, reflecting Melrose's ongoing integration challenges in its aerospace and industrial segments without altering the broader group valuation.",
+      "impact_score": 5,
+      "insight": "This update likely provides operational progress or status regarding a specific facility, which may influence investor sentiment but lacks details on financial magnitude or strategic direction.",
       "key_themes": [
-        "operational_execution",
-        "aerospace_integration"
+        "Operational Update",
+        "Facility Status"
       ]
     }
   ]

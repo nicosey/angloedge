@@ -2,9 +2,20 @@
   "name": "The Beauty Tech Group PLC",
   "ticker": "TBTG",
   "slug": "the-beauty-tech-group-tbtg",
-  "announcement_count": 18,
-  "latest_announcement": "2026-11-23T11:31:00",
+  "announcement_count": 19,
+  "latest_announcement": "2026-11-26T10:30:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T10:30:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/the-beauty-tech-group-plc--tbtg/transaction-in-own-shares/9895750",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T11:31:00",
       "category": null,
@@ -79,10 +90,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard administrative authorization for a rolling buyback, common in UK micro-caps to provide liquidity flexibility rather than signaling immediate undervaluation; without disclosed volume or price parameters, it lacks the transformative weight of a targeted recapitalization.",
+      "insight": "This announcement indicates a potential return of capital to shareholders through share repurchases, which may support the share price but typically has limited immediate financial impact compared to major corporate actions.",
       "key_themes": [
-        "Corporate Governance",
-        "Liquidity Management"
+        "Share Buyback",
+        "Capital Return"
       ]
     },
     {
@@ -103,12 +114,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/the-beauty-tech-group-plc--tbtg/sale-of-ordinary-shares-in-the-beauty-tech-group/9814564",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine director share dealings in the micro-cap beauty tech sector typically signal personal liquidity needs rather than strategic shifts, offering no fundamental catalyst for valuation re-rating amidst current market volatility.",
+      "impact_score": 4,
+      "insight": "This announcement signifies a transaction involving the sale of ordinary shares by an existing shareholder, which typically indicates a change in ownership structure rather than corporate strategy. Shareholders should monitor subsequent disclosures to determine if the seller is a director or substantial holder, as this may signal confidence levels or liquidity needs.",
       "key_themes": [
-        "director_dealing",
-        "micro_cap",
-        "liquidity"
+        "Shareholder transaction",
+        "Ownership change"
       ]
     },
     {
@@ -118,12 +128,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/the-beauty-tech-group-plc--tbtg/result-of-share-buyback-via-rabb-tvr/9800285",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This RNS confirms the execution of a minor share buyback via RABB, a routine capital management action that signals no immediate strategic shift or significant liquidity event in the competitive beauty tech sector.",
+      "impact_score": 4,
+      "insight": "This announcement provides the outcome of a share buyback executed via a Recognised Auction Bid Book, indicating a capital return mechanism. It signifies a minor capital action with limited immediate strategic implication for shareholders.",
       "key_themes": [
         "Share Buyback",
         "Capital Return",
-        "Routine Administration"
+        "Corporate Action"
       ]
     },
     {
@@ -147,11 +157,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/the-beauty-tech-group-plc--tbtg/intention-to-launch-share-buyback-programme/9776315",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "While share buybacks signal management confidence in TBTG's valuation, the absence of disclosed funding sources or volume limits suggests a minor capital allocation move rather than a transformative strategic shift for this micro-cap tech stock.",
+      "impact_score": 4,
+      "insight": "This announcement indicates an intention to repurchase shares, which is a capital return mechanism that may support the share price by reducing the number of outstanding shares. The actual financial impact depends on factors such as funding and volume not disclosed in the headline.",
       "key_themes": [
-        "capital return",
-        "micro-cap liquidity"
+        "Share Buyback",
+        "Capital Return"
       ]
     },
     {
@@ -223,11 +233,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/the-beauty-tech-group-plc--tbtg/upgrade-to-fy-expectations-and-h1-trading-update/9654879",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The upgrade to FY expectations signals improved operational momentum in the competitive beauty tech sector, likely driven by successful omnichannel integration or product innovation, though it remains a routine trading update rather than a structural shift.",
+      "impact_score": 7,
+      "insight": "This announcement indicates a positive revision to full-year financial expectations alongside an update on first-half performance, suggesting improved operational momentum. Such guidance upgrades are typically significant for investors as they alter the anticipated future cash flows and valuation of the business.",
       "key_themes": [
+        "Guidance Upgrade",
         "Trading Update",
-        "Sector Growth"
+        "Financial Performance"
       ]
     }
   ]

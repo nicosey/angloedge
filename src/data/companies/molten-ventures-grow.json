@@ -2,9 +2,20 @@
   "name": "Molten Ventures",
   "ticker": "GROW",
   "slug": "molten-ventures-grow",
-  "announcement_count": 51,
-  "latest_announcement": "2026-10-29T17:50:00",
+  "announcement_count": 52,
+  "latest_announcement": "2026-11-25T13:10:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T13:10:00",
+      "category": null,
+      "headline": "Results analysis from Kepler Trust Intelligence",
+      "url": "https://www.investegate.co.uk/announcement/rns/molten-ventures--grow/results-analysis-from-kepler-trust-intelligence/9893910",
+      "routine_type": "Third-party Research",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-10-29T17:50:00",
       "category": null,
@@ -22,14 +33,10 @@
       "headline": "Extension of share repurchase programme and transaction in own shares",
       "url": "https://www.investegate.co.uk/announcement/eqs/molten-ventures--grow/extension-of-share-repurchase-programme-and-t-/9840845",
       "routine_type": "Transaction in Own Shares",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement indicates an administrative extension of a share repurchase programme, which is a standard corporate action rather than a significant strategic shift. It generally signifies ongoing capital management but lacks specific details on size or timing that would impact shareholder value immediately.",
-      "key_themes": [
-        "Share Buyback",
-        "Capital Management",
-        "Corporate Action"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-10-01T17:53:00",
@@ -367,11 +374,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/molten-ventures--grow/result-of-agm/9682400",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of an Annual General Meeting, which typically involves routine matters such as director re-elections and auditor appointments rather than strategic shifts or capital raises.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director re-elections or statutory resolutions. It signifies standard corporate governance activity rather than a material change in the company's strategic or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -393,10 +400,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory disclosure of insider shareholding changes which provides limited immediate alpha without volume context; in the volatile AIM growth space, such filings are routine administrative updates rather than signals of strategic shift.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities rather than significant corporate events. Such filings generally have limited immediate impact on shareholder value unless they signal a broader change in insider sentiment.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -451,10 +458,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements for Molten Ventures typically involve small, non-significant transactions that do not signal a strategic shift or material change in insider sentiment. Without details on the direction or volume of the trade, this is classified as administrative noise with negligible immediate market impact.",
+      "insight": "This announcement relates to director dealings, which generally signifies routine insider share transactions rather than a significant corporate event. Shareholders should view this as standard governance disclosure with limited immediate impact on the company's operational outlook.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -486,11 +493,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/molten-ventures--grow/sustainability-report/9620567",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Sustainability reports are standard compliance disclosures for AIM-listed growth companies and do not convey immediate financial materiality or operational shifts compared to earnings updates.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a routine disclosure of non-financial performance metrics, which generally serves to inform shareholders about environmental, social, and governance practices rather than immediate financial outcomes.",
       "key_themes": [
-        "ESG",
-        "Corporate Governance"
+        "Sustainability",
+        "Governance",
+        "ESG"
       ]
     },
     {
@@ -522,12 +530,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/molten-ventures--grow/30-million-euro-investment-in-isar-aerospace/9610301",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This €30m investment signals strong institutional validation of Molten's thesis in the commercial space sector, providing critical liquidity to support its portfolio company Isar Aerospace's development without immediate dilution. It highlights the growing capital intensity of European launch providers and reinforces Molten's position as a key enabler in the UK/EU space ecosystem.",
+      "impact_score": 1,
+      "insight": "This headline describes an investment by a third party in another entity, which is an event external to Molten Ventures and does not directly impact its shareholders.",
       "key_themes": [
-        "Space Economy",
-        "Venture Capital",
-        "Strategic Investment"
+        "External Event",
+        "Investment"
       ]
     },
     {
@@ -549,10 +556,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "As a standard annual report filing for an AIM-listed venture capital firm, this is primarily administrative with no immediate catalyst for price discovery; investor focus will remain on the underlying portfolio performance rather than the corporate governance update.",
+      "insight": "This announcement signifies the release of scheduled annual financial results and the convening of a general meeting for shareholders. The specific direction of performance or outcomes is not indicated by the headline alone.",
       "key_themes": [
-        "Corporate Governance",
-        "AIM Reporting"
+        "Results",
+        "Governance"
       ]
     },
     {
@@ -562,13 +569,10 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/molten-ventures--grow/final-results-for-the-year-ended-31-march-202-/9608559",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a high-beta AIM growth stock, Molten Ventures' annual results are critical for validating its pivot from a pure-play tech investor to a diversified holding company with real estate and private equity assets. The market will scrutinize the valuation of its unlisted portfolio and the sustainability of its dividend policy amidst rising interest rates affecting its property holdings.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of the final annual results for the company, which is a standard scheduled event providing shareholders with comprehensive financial and operational data for the reporting period.",
       "key_themes": [
-        "AIM Growth",
-        "Portfolio Valuation",
-        "Dividend Policy",
-        "Asset Diversification"
+        "Results"
       ]
     },
     {
@@ -578,11 +582,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/molten-ventures--grow/release-of-monthly-portfolio-update-newsletter-/9606213",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine monthly portfolio updates are standard administrative disclosures for venture capital trusts like Molten Ventures, offering no new material information to drive immediate price action or signal strategic shifts.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a routine periodic update to shareholders regarding portfolio performance, which is standard operational communication for investment vehicles. It provides transparency but does not indicate any material change in strategy or financial position.",
       "key_themes": [
-        "Administrative",
-        "VCT"
+        "Portfolio Update",
+        "Shareholder Communication"
       ]
     },
     {

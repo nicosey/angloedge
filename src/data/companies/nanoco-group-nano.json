@@ -2,9 +2,36 @@
   "name": "Nanoco Group",
   "ticker": "NANO",
   "slug": "nanoco-group-nano",
-  "announcement_count": 10,
-  "latest_announcement": "2026-11-19T07:00:00",
+  "announcement_count": 12,
+  "latest_announcement": "2026-11-25T07:01:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T07:01:00",
+      "category": null,
+      "headline": "Annual Reports and Accounts",
+      "url": "https://www.investegate.co.uk/announcement/rns/nanoco-group--nano/annual-reports-and-accounts/9892334",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement signifies the publication of the company's annual financial statements, which provide shareholders with a comprehensive review of performance and position over the past year. The specific direction or magnitude of the results is not indicated by the headline alone.",
+      "key_themes": [
+        "Results",
+        "Governance"
+      ]
+    },
+    {
+      "timestamp": "2026-11-25T07:00:00",
+      "category": "Results",
+      "headline": "Final Results",
+      "url": "https://www.investegate.co.uk/announcement/rns/nanoco-group--nano/final-results/9892165",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement signifies the publication of the company's final results for the reporting period, which is a scheduled regulatory filing. It provides shareholders with the audited financial performance and position but does not indicate the direction or magnitude of the outcome.",
+      "key_themes": [
+        "Results"
+      ]
+    },
     {
       "timestamp": "2026-11-19T07:00:00",
       "category": "Results",
@@ -13,10 +40,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard administrative notice confirming the release date of results rather than the results themselves; without accompanying financial data or commentary, it carries no immediate market-moving weight for Nanoco's nanomaterials valuation.",
+      "insight": "This announcement indicates that scheduled financial results are being released, which is a routine event for shareholders. The headline does not specify the direction or magnitude of the financial performance.",
       "key_themes": [
-        "administrative",
-        "results_announcement"
+        "Results"
       ]
     },
     {
@@ -26,12 +52,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nanoco-group--nano/full-year-trading-update/9728506",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a small-cap nanomaterials player with high volatility, any full-year update carries significant weight for liquidity and sentiment; however, without specific guidance on commercialization milestones or revenue beats, it remains a routine operational check rather than a transformative catalyst.",
+      "impact_score": 5,
+      "insight": "This announcement provides a scheduled update on the company's operational performance for the full year. The headline does not indicate the direction of the results, so it represents standard information disclosure rather than a specific positive or negative catalyst.",
       "key_themes": [
-        "nanomaterials",
-        "commercialization",
-        "small-cap volatility"
+        "Results",
+        "Trading Update"
       ]
     },
     {
@@ -42,10 +67,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of insider shareholdings and deferred bonus options rather than an active trading event, indicating no immediate change in control or significant insider sentiment shift.",
+      "insight": "This announcement relates to director dealings and deferred bonus options, which typically signifies standard governance disclosures rather than significant strategic shifts. Shareholders should view this as routine regulatory compliance regarding insider transactions.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Transparency"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -84,11 +109,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nanoco-group--nano/adjournment-of-general-meeting/9627810",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Administrative postponement of a general meeting typically signals minor logistical delays or procedural adjustments rather than substantive corporate distress or strategic shifts in the advanced materials sector.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that a scheduled general meeting has been postponed, which is typically an administrative procedural update. It does not convey new strategic information or financial implications for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Administration"
+        "Governance",
+        "Administrative"
       ]
     },
     {
@@ -99,10 +124,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Adjourning a General Meeting typically signals significant shareholder opposition to the proposed agenda, often related to dilutive capital raises or executive remuneration packages, creating short-term uncertainty for Nanoco's funding strategy.",
+      "insight": "This announcement indicates a procedural delay in convening a general meeting, which is typically an administrative matter rather than a substantive corporate event. It suggests that shareholder decisions are being postponed without providing insight into the underlying reasons or potential outcomes.",
       "key_themes": [
-        "governance",
-        "shareholder dissent"
+        "Governance",
+        "Shareholder Meeting"
       ]
     },
     {
@@ -112,11 +137,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nanoco-group--nano/glass-lewis-recommendation/9607768",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Glass Lewis recommendations are influential for institutional governance but rarely drive immediate price action unless they signal a significant shareholder revolt or block a specific deal; in the absence of accompanying news, this is primarily a procedural update for compliance-focused funds.",
+      "impact_score": 6,
+      "insight": "This announcement indicates that Glass Lewis has issued a recommendation regarding the company, which typically relates to governance matters such as executive remuneration or shareholder proposals. Such recommendations can influence institutional voting behavior and signal potential friction between management and major shareholders.",
       "key_themes": [
-        "corporate_governance",
-        "institutional_investor_relations"
+        "Governance",
+        "Shareholder Relations"
       ]
     },
     {
@@ -137,12 +162,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nanoco-group--nano/intention-to-delist-from-london-stock-exchange/9586506",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 9,
-      "insight": "Delisting from the LSE represents a fundamental structural shift for Nanoco, likely signaling a move to a private structure or alternative listing to pursue high-risk, capital-intensive nanomaterial strategies without public market scrutiny. This mirrors precedents in deep-tech sectors where prolonged profitability is elusive, forcing a retreat from traditional equity markets to preserve strategic flexibility.",
+      "impact_score": 8,
+      "insight": "This announcement signifies a potential exit from the primary public market, which typically triggers a formal offer to shareholders and fundamentally alters liquidity and investment accessibility. It represents a significant strategic shift that may lead to a change in control or delisting.",
       "key_themes": [
         "Delisting",
-        "Private Equity Transition",
-        "Nanotechnology Sector"
+        "Corporate action",
+        "Liquidity"
       ]
     }
   ]

@@ -298,11 +298,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-european-discovery-trust--jedt/investor-webinar-16th-october-2026/9823650",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard investor relations event for a closed-end fund, offering no new material information regarding NAV performance, gearing levels, or strategic shifts compared to routine quarterly reporting.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a scheduled investor engagement event, which is typically informational in nature rather than a substantive corporate action. It signifies routine communication between management and shareholders without implying immediate financial or strategic changes.",
       "key_themes": [
         "Investor Relations",
-        "Closed-End Fund"
+        "Communication"
       ]
     },
     {
@@ -379,10 +379,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard investor relations event with no immediate price-sensitive information; such webinars are routine engagement tools for closed-end funds to discuss NAV discounts and strategy rather than indicators of fundamental shifts.",
+      "insight": "This announcement signifies a scheduled investor engagement event, which is typically informational in nature. It does not indicate any immediate financial impact, strategic change, or corporate action for shareholders.",
       "key_themes": [
         "Investor Relations",
-        "Closed-End Fund"
+        "Communication"
       ]
     },
     {
@@ -954,8 +954,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine dividend declaration for a closed-end investment trust; while consistent payouts support income-focused investor sentiment, this administrative action lacks the transformative catalysts required to drive significant share price re-rating in the current high-yield environment.",
-      "key_themes": []
+      "insight": "This announcement signifies a formal declaration of a dividend payment by the investment trust. It indicates that income will be distributed to shareholders according to the trust's established policy and record date.",
+      "key_themes": [
+        "Dividend",
+        "Income Distribution"
+      ]
     },
     {
       "timestamp": "2026-06-19T07:00:00",
@@ -965,10 +968,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "As a closed-end fund, final results primarily reflect NAV performance and discount movements rather than operational earnings, making this a routine update for income-focused investors monitoring relative performance against the European peer group.",
+      "insight": "This announcement signifies the publication of final results for the period, which is a standard regulatory requirement for listed entities. It provides shareholders with essential financial data and performance metrics to assess the entity's recent operational outcomes.",
       "key_themes": [
-        "NAV Performance",
-        "Closed-End Fund"
+        "Results",
+        "Financial Reporting"
       ]
     },
     {

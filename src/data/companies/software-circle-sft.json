@@ -2,9 +2,22 @@
   "name": "Software Circle",
   "ticker": "SFT",
   "slug": "software-circle-sft",
-  "announcement_count": 6,
-  "latest_announcement": "2026-10-15T16:17:00",
+  "announcement_count": 7,
+  "latest_announcement": "2026-11-25T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T07:00:00",
+      "category": "Results",
+      "headline": "Interim Results",
+      "url": "https://www.investegate.co.uk/announcement/rns/software-circle--sft/interim-results/9892145",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled interim results release, which provides shareholders with an update on the company's financial performance and operational progress for the first half of the year. The specific direction or magnitude of the results is not indicated in the headline.",
+      "key_themes": [
+        "Results"
+      ]
+    },
     {
       "timestamp": "2026-10-15T16:17:00",
       "category": null,
@@ -12,11 +25,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/software-circle--sft/share-premium-cancellation-effective/9825717",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative capital reduction to align the share premium account with nominal value, eliminating future issuance costs for new shares; it carries no intrinsic valuation impact but reflects routine corporate housekeeping common in small-cap tech firms.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a routine corporate governance action where share premium is cancelled, typically to adjust the capital structure without altering the nominal value of shares. It generally represents administrative housekeeping with no immediate financial impact on shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative Action"
+        "Corporate Action",
+        "Governance",
+        "Capital Structure"
       ]
     },
     {
@@ -37,11 +51,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/software-circle--sft/result-of-agm-and-board-appointment/9752374",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine governance update typical for small-cap software firms; without details on the specific board appointment's strategic background or remuneration terms, this lacks immediate catalyst potential for share price movement.",
+      "impact_score": 5,
+      "insight": "This announcement confirms the outcome of the Annual General Meeting and indicates a change in the board composition. Such updates are standard governance events that inform shareholders about meeting resolutions and new director appointments.",
       "key_themes": [
-        "Corporate Governance",
-        "Board Composition"
+        "Governance",
+        "Board Appointment",
+        "AGM Results"
       ]
     },
     {
@@ -51,11 +66,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/software-circle--sft/board-appointment-/9750411",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine board appointments in the UK SME software sector are typically administrative unless linked to a specific turnaround strategy or M&A activity; without details on the appointee's background, this lacks immediate market-moving catalysts.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the company's board composition, which may influence governance and strategic direction but lacks specific details regarding the appointee's role or background. Shareholders should monitor subsequent filings for information on how this appointment affects leadership structure.",
       "key_themes": [
-        "Corporate Governance",
-        "SME Administration"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -65,11 +80,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/software-circle--sft/agm-notice-proposed-share-premium-cancellation/9711244",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Share premium cancellation is a standard accounting mechanism to eliminate historical capital surpluses, often preceding a return of capital or simply cleaning up the balance sheet; it carries no intrinsic value creation for Software Circle given its niche market position and lack of recent transformative catalysts.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a proposed capital reduction via share premium cancellation, which is typically an administrative housekeeping measure to adjust the balance sheet without affecting shareholder equity value. It signifies a routine governance action rather than a strategic shift or material financial event.",
       "key_themes": [
-        "Corporate Governance",
-        "Balance Sheet Restructuring"
+        "Capital structure",
+        "Governance"
       ]
     },
     {

@@ -2,9 +2,20 @@
   "name": "Aurrigo International",
   "ticker": "AURR",
   "slug": "aurrigo-international-aurr",
-  "announcement_count": 11,
-  "latest_announcement": "2026-11-11T13:32:00",
+  "announcement_count": 12,
+  "latest_announcement": "2026-11-25T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T07:00:00",
+      "category": null,
+      "headline": "Block Listing Interim Review",
+      "url": "https://www.investegate.co.uk/announcement/rns/aurrigo-international--aurr/block-listing-interim-review/9892182",
+      "routine_type": "Block Listing / Admission",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-11T13:32:00",
       "category": "Director Dealing",
@@ -13,10 +24,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine grant of share options and PDMR dealing indicates standard executive compensation alignment rather than a strategic shift; in the current UK micro-cap tech sector, such administrative disclosures rarely move price without accompanying material business updates.",
+      "insight": "This announcement indicates that a person discharging managerial responsibilities has engaged in share dealing and that new share options have been granted, which are routine governance disclosures. Such filings provide transparency regarding insider activity but typically do not signal immediate fundamental changes to the business.",
       "key_themes": [
-        "Corporate Governance",
-        "Executive Compensation"
+        "Governance",
+        "Director Dealing",
+        "Incentives"
       ]
     },
     {
@@ -27,10 +39,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This pilot validates Aurrigo's autonomous technology in a live logistics environment, serving as a crucial proof-of-concept for the broader port automation sector but lacking immediate revenue impact or scale to drive significant valuation re-rating.",
+      "insight": "This announcement indicates a trial phase for autonomous technology, which suggests operational development but lacks specific details on commercial impact or scale. Shareholders should view this as an early-stage operational update rather than a material financial event.",
       "key_themes": [
-        "Autonomous Technology",
-        "Port Logistics"
+        "Operational Update",
+        "Technology Trial"
       ]
     },
     {
@@ -75,10 +87,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/aurrigo-international--aurr/notice-of-results-and-investor-presentation/9778557",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This announcement signals the release of full-year results for Aurrigo International, a critical inflection point for this small-cap IT services firm as it seeks to validate its turnaround strategy and profitability metrics amidst a competitive UK tech sector. The inclusion of an investor presentation suggests management intends to actively manage market sentiment and clarify strategic direction following recent volatility.",
+      "impact_score": 5,
+      "insight": "This announcement indicates that scheduled financial results and an accompanying investor presentation are forthcoming, though the headline does not disclose the performance direction or magnitude.",
       "key_themes": [
-        "Full Year Results",
+        "Results",
         "Investor Relations"
       ]
     },
@@ -89,12 +101,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/aurrigo-international--aurr/aurrigo-awarded-1-43m-uk-government-grant/9711940",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This grant provides non-dilutive capital that validates Aurrigo's AI-driven fraud detection technology within the UK public sector, reducing immediate cash burn while signaling strong government confidence in their platform compared to competitors lacking such endorsements.",
+      "impact_score": 4,
+      "insight": "This announcement indicates the receipt of a government grant, which may provide non-dilutive funding to support operations. The financial significance for shareholders depends on the specific terms and usage of the funds not disclosed in the headline.",
       "key_themes": [
-        "government_contract",
-        "ai_fintech",
-        "cash_flow_support"
+        "Government Grant",
+        "Funding"
       ]
     },
     {
@@ -105,10 +116,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard investor relations activity with no immediate financial or strategic impact; Aurrigo's focus on digital transformation in the UK energy sector remains long-term and unquantified by this announcement.",
+      "insight": "This announcement signifies a marketing or investor relations initiative rather than a substantive corporate event. It provides no information regarding financial performance, strategic changes, or governance matters that would directly impact shareholder value.",
       "key_themes": [
         "Investor Relations",
-        "Corporate Communications"
+        "Marketing"
       ]
     },
     {
@@ -132,11 +143,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/aurrigo-international--aurr/re-election-of-non-executive-director/9600857",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard corporate governance update with no immediate financial or strategic implications for Aurrigo's valuation or operations.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a routine board governance update regarding the continuity of non-executive leadership. It generally indicates standard corporate maintenance rather than any immediate strategic shift or material financial event for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Board Continuity"
+        "Governance",
+        "Board Change"
       ]
     },
     {

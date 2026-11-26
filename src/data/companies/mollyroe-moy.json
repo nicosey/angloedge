@@ -12,11 +12,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/mollyroe-plc--moy/cascade-launches-global-filmmaking-competition-/9822786",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement appears to be a press release for an unrelated entity ('Cascade') mistakenly filed under Mollyroe plc's RNS feed, indicating an administrative error rather than a strategic development for MOY.",
+      "impact_score": 1,
+      "insight": "The headline references a third-party entity ('Cascade') rather than the company itself, indicating this is likely an unrelated press release or administrative notice with no direct financial impact on Mollyroe plc.",
       "key_themes": [
-        "Administrative Error",
-        "Irrelevant Content"
+        "Press Release",
+        "Corporate Communications"
       ]
     },
     {
@@ -26,11 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/mollyroe-plc--moy/board-changes/9820906",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine board changes in the absence of a CEO departure or major strategic pivot typically signal administrative continuity rather than immediate value creation or risk.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the company's board composition, which may indicate shifts in governance or strategic direction but lacks specific details on the nature of the changes. Shareholders should monitor subsequent filings to understand the implications for leadership and oversight.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -40,11 +40,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/mollyroe-plc--moy/result-of-general-meeting/9816339",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine AGM/EGM results typically confirm shareholder approval for standard administrative matters rather than signaling strategic shifts or material financial events.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which is typically a routine governance event for shareholders. It does not indicate any immediate financial or strategic change to the company.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder vote"
       ]
     },
     {
@@ -68,11 +68,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/mollyroe-plc--moy/correction-proposed-acquisition-of-cascade-/9775998",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a correction to a previous announcement, this filing likely clarifies terms or timelines rather than altering the fundamental strategic thesis, limiting immediate market reaction unless material financials are revised.",
+      "impact_score": 7,
+      "insight": "A correction to a proposed acquisition headline suggests potential adjustments to the terms, timeline, or validity of a material transaction, which may introduce uncertainty for shareholders regarding the deal's completion.",
       "key_themes": [
-        "Corporate Governance",
-        "M&A Process"
+        "M&A",
+        "Correction"
       ]
     },
     {
@@ -82,12 +82,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/mollyroe-plc--moy/proposed-acquisition-of-cascade-holding-limit-/9773645",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 9,
-      "insight": "This represents a significant inorganic growth strategy for Mollyroe, likely expanding its asset base or market share in the energy infrastructure sector; such acquisitions often signal management's confidence in future cash flows and potential accretive earnings.",
+      "impact_score": 7,
+      "insight": "This headline indicates a potential material acquisition which could alter the company's strategic direction or asset base. Shareholders should await further details to assess the financial implications and rationale behind the proposed deal.",
       "key_themes": [
         "M&A",
-        "Strategic Expansion",
-        "Energy Infrastructure"
+        "Strategic expansion"
       ]
     },
     {
@@ -97,11 +96,10 @@
       "url": "https://www.investegate.co.uk/announcement/prn/mollyroe-plc--moy/consolidated-financial-statements-for-the-yea-/9627869",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard statutory filing of annual accounts required by the FCA, carrying no new market-moving information beyond what was likely already priced in via prior trading updates or consensus estimates.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the publication of annual financial results, which is a scheduled event providing shareholders with essential data on the company's performance and financial position for the period.",
       "key_themes": [
-        "regulatory_compliance",
-        "routine_disclosure"
+        "Results"
       ]
     }
   ]

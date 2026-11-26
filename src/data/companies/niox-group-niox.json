@@ -35,10 +35,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of insider share transactions with no immediate price-sensitive implications for Niox Group's valuation or operational trajectory.",
+      "insight": "This announcement indicates routine updates regarding director shareholdings and potentially related party transactions, which are standard governance disclosures. Such filings generally signify compliance with regulatory requirements rather than immediate material changes to the company's value.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director Dealing",
+        "Related Party Transaction"
       ]
     },
     {
@@ -48,11 +49,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/niox-group--niox/result-of-general-meeting/9834574",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the Annual General Meeting, which typically involves routine matters such as director reappointments and auditor mandates rather than strategic shifts or capital events.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which is a standard governance procedure for shareholders to vote on proposed resolutions. It provides transparency on corporate decisions but typically does not indicate significant financial or strategic changes unless specific major items were voted upon.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder Vote"
       ]
     },
     {
@@ -103,10 +104,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements typically carry minimal market impact unless they signal a significant change in insider sentiment or involve substantial volume, which is not indicated here.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides limited insight into future performance but confirms compliance with market abuse regulations regarding insider transactions.",
       "key_themes": [
-        "insider_activity",
-        "low_impact"
+        "Governance",
+        "Director Dealing"
       ]
     }
   ]

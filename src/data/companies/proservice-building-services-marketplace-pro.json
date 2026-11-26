@@ -2,9 +2,23 @@
   "name": "ProService Building Services Marketplace plc",
   "ticker": "PRO",
   "slug": "proservice-building-services-marketplace-pro",
-  "announcement_count": 8,
-  "latest_announcement": "2026-11-13T14:00:00",
+  "announcement_count": 9,
+  "latest_announcement": "2026-11-26T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T07:00:00",
+      "category": "Trading Update",
+      "headline": "Trading Update",
+      "url": "https://www.investegate.co.uk/announcement/rns/proservice-building-services-marketplace-plc--pro/trading-update/9894454",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "ProService Building Services Marketplace plc issued a trading update. This follows its completion of a pure-play marketplace transformation in September.",
+      "key_themes": [
+        "Trading Update",
+        "Transformation"
+      ]
+    },
     {
       "timestamp": "2026-11-13T14:00:00",
       "category": "Appointment",
@@ -12,12 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/proservice-building-services-marketplace-plc--pro/appointment-of-nominated-adviser-and-sole-broker-/9875128",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "ProService's appointment of a sole broker signals a critical pivot to enhance liquidity and market visibility for this AIM-listed building services marketplace, addressing the chronic illiquidity that often hampers valuation in the fragmented construction tech sector.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the firm's financial advisory infrastructure, which is typically classified as a board-level governance update. It indicates that the company has engaged specific external advisors to facilitate its ongoing regulatory obligations or future corporate actions.",
       "key_themes": [
-        "AIM Liquidity",
-        "Broker Appointment",
-        "Market Access"
+        "Governance",
+        "Advisory appointment"
       ]
     },
     {
@@ -41,11 +54,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/proservice-building-services-marketplace-plc--pro/pure-play-marketplace-transformation-complete/9759855",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Completion of the marketplace transformation signals a strategic pivot to a scalable asset-light model, potentially improving margins but introducing execution risk in a competitive UK construction tech sector.",
+      "impact_score": 7,
+      "insight": "The completion of a 'pure-play marketplace transformation' signifies a major strategic shift that may alter the company's risk profile and valuation metrics for shareholders. This type of structural change often precedes significant operational or financial realignment, warranting close scrutiny of the underlying details.",
       "key_themes": [
-        "business_model_change",
-        "strategic_pivot"
+        "Strategic Transformation",
+        "Corporate Restructuring"
       ]
     },
     {
@@ -84,10 +97,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "Refinancing for a small-cap construction services firm typically signals improved liquidity or lower borrowing costs, mitigating immediate solvency risks in a high-interest-rate environment; however, without details on the facility size or covenants, it remains a routine financial housekeeping move rather than a strategic pivot.",
+      "insight": "This announcement signifies the successful conclusion of a refinancing process, which typically alters the company's capital structure and debt obligations. Shareholders should anticipate potential changes in financial covenants or interest costs associated with the new financing arrangements.",
       "key_themes": [
-        "capital_structure",
-        "liquidity_management"
+        "Refinancing",
+        "Capital Structure"
       ]
     },
     {
@@ -112,11 +125,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/proservice-building-services-marketplace-plc--pro/confirmation-of-aim-rule-26-website/9603091",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory compliance filing confirming adherence to AIM Rule 26 regarding website information, carrying no intrinsic financial or strategic weight for the market.",
+      "impact_score": 1,
+      "insight": "This announcement signifies routine compliance with AIM regulatory requirements regarding website disclosures. It represents administrative housekeeping with no immediate financial or strategic implications for shareholders.",
       "key_themes": [
-        "Regulatory Compliance",
-        "Administrative"
+        "Governance",
+        "Compliance"
       ]
     }
   ]

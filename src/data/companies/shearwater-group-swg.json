@@ -2,9 +2,23 @@
   "name": "Shearwater Group",
   "ticker": "SWG",
   "slug": "shearwater-group-swg",
-  "announcement_count": 6,
-  "latest_announcement": "2026-11-03T13:43:00",
+  "announcement_count": 7,
+  "latest_announcement": "2026-11-26T12:49:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T12:49:00",
+      "category": "AGM/EGM",
+      "headline": "Result of AGM",
+      "url": "https://www.investegate.co.uk/announcement/rns/shearwater-group--swg/result-of-agm/9896021",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Shareholders should note the AGM outcome follows the October general meeting results. This indicates routine governance proceedings rather than a strategic shift.",
+      "key_themes": [
+        "Governance",
+        "AGM"
+      ]
+    },
     {
       "timestamp": "2026-11-03T13:43:00",
       "category": "AGM/EGM",
@@ -23,12 +37,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/shearwater-group--swg/notice-of-results-and-investor-presentation-/9823639",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a small-cap infrastructure asset manager, SWG's results are critical for assessing the resilience of its yield-generating portfolio amidst rising interest rates and construction cost inflation; this update will likely drive short-term volatility as investors scrutinize fund valuations and dividend sustainability.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled release of financial results accompanied by an investor presentation, which provides shareholders with standard performance updates and strategic commentary.",
       "key_themes": [
-        "Infrastructure",
-        "Yield",
-        "Small Cap"
+        "Results",
+        "Investor Relations"
       ]
     },
     {
@@ -39,10 +52,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the AGM/EGM; while it validates governance compliance, it carries no immediate pricing impact or strategic shift for Shearwater Group.",
+      "insight": "This announcement confirms the outcome of a general meeting, which is a standard governance event. It provides shareholders with information on whether proposed resolutions were approved or rejected.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder vote"
       ]
     },
     {
@@ -63,12 +76,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/shearwater-group--swg/expanded-growth-opportunity-on-g-cloud-15/9707357",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "G-Cloud 15 represents a critical procurement window for UK public sector IT services, directly addressing the government's push for digital transformation and cost efficiency. For Shearwater, this expands their addressable market within the competitive cloud infrastructure space, though execution risk remains tied to their ability to secure specific framework agreements against larger incumbents.",
+      "impact_score": 5,
+      "insight": "This announcement indicates the company has secured a position on a government procurement framework, which typically signifies new commercial opportunities for future contract wins. The specific financial impact or volume of business is not disclosed in the headline.",
       "key_themes": [
-        "UK Public Sector Procurement",
-        "Cloud Infrastructure",
-        "Government IT Services"
+        "Contract",
+        "Growth"
       ]
     },
     {
@@ -78,11 +90,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/shearwater-group--swg/board-update-/9648435",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Board updates for small-cap engineering firms like Shearwater are typically administrative or minor personnel changes that rarely signal immediate strategic shifts or material financial impact.",
+      "impact_score": 5,
+      "insight": "A board update typically signifies a routine communication regarding governance or general corporate matters rather than a specific strategic event. Without further details, it represents a standard disclosure of information to shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Small Cap"
+        "Governance",
+        "Board update"
       ]
     }
   ]

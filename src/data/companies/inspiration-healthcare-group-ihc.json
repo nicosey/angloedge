@@ -13,10 +13,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard administrative disclosure regarding conference attendance with no material financial or strategic implications for Inspiration Healthcare Group's valuation or operations.",
+      "insight": "This announcement indicates attendance at an external investor event, which is generally considered administrative or marketing activity with no immediate financial impact on shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Investor Relations"
+        "Investor Relations",
+        "Conference"
       ]
     },
     {
@@ -27,10 +27,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard administrative notice confirming the release of results rather than the results themselves, offering no immediate trading signal or fundamental shift in valuation.",
+      "insight": "This announcement signifies that the company is publishing its financial results, a scheduled event whose direction and magnitude are not indicated by the headline alone.",
       "key_themes": [
-        "administrative",
-        "results_release"
+        "Results"
       ]
     },
     {
@@ -40,11 +39,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/inspiration-healthcare-group--ihc/grant-of-awards-under-long-term-incentive-plan-/9709652",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative disclosure regarding executive compensation alignment under the LTIP, common in UK healthcare services firms like IHC to retain key talent during sector consolidation. It carries no immediate financial or strategic weight for shareholders.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a standard governance action where equity incentives are granted to personnel, typically having minimal immediate financial impact on existing shareholders. It reflects routine internal compensation structures rather than strategic or operational developments.",
       "key_themes": [
-        "Corporate Governance",
-        "Executive Remuneration"
+        "Governance",
+        "Executive Compensation"
       ]
     },
     {
@@ -68,11 +67,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/inspiration-healthcare-group--ihc/withdrawal-of-agm-resolutions-10-and-11/9675798",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Withdrawal of resolutions typically signals a failure to secure necessary shareholder support for executive remuneration or governance changes, highlighting potential board-shareholder friction but lacking immediate financial impact.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that specific resolutions proposed for an Annual General Meeting have been withdrawn, which is a routine procedural update. It suggests a change in the meeting's agenda but does not inherently signal a material shift in the company's strategic direction or financial position.",
       "key_themes": [
-        "corporate_governance",
-        "shareholder_relations"
+        "Governance",
+        "Shareholder Meeting"
       ]
     },
     {
@@ -97,10 +96,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard administrative notice confirming the release date of results rather than the results themselves, offering no immediate trading signal or strategic shift for the healthcare REIT sector.",
+      "insight": "This announcement indicates that scheduled financial results are being released, but the headline does not disclose the performance direction or magnitude, limiting immediate insight for shareholders.",
       "key_themes": [
-        "administrative",
-        "results_announcement"
+        "Results"
       ]
     }
   ]

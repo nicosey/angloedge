@@ -12,11 +12,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-securities-nz-limited--94wf/update-of-programme-for-issuance-of-debt-instrum-/9877347",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative update regarding the issuance framework for debt instruments, indicating routine liquidity management rather than any strategic shift or material financial event.",
+      "impact_score": 3,
+      "insight": "This update relates to the ongoing programme for issuing debt instruments, which is a routine financing activity rather than a specific transactional event. Shareholders should view this as standard administrative housekeeping regarding capital management.",
       "key_themes": [
-        "Debt Issuance",
-        "Corporate Finance"
+        "Debt issuance",
+        "Capital raise"
       ]
     },
     {
@@ -24,14 +24,11 @@
       "category": null,
       "headline": "Update of Global Covered Bond Programme",
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-securities-nz-limited--94wf/update-of-global-covered-bond-programme/9877346",
-      "routine_type": null,
-      "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative update regarding the issuance framework for Westpac New Zealand's covered bonds, indicating routine debt management rather than any strategic shift or material financial event.",
-      "key_themes": [
-        "Debt Issuance",
-        "Administrative Update"
-      ]
+      "routine_type": "Debt Notices",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-11-10T07:00:00",
@@ -40,11 +37,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/westpac-securities-nz-limited--94wf/wnzcbl-annual-report-for-year-ended-30-sep-2026-/9866454",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard annual report filing for a New Zealand subsidiary of Westpac Banking Corporation, carrying negligible direct impact on UK equity markets due to the entity's offshore jurisdiction and lack of listed status.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the publication of annual results for the year ended 30 September 2026. It provides shareholders with a scheduled update on the entity's performance over the specified period.",
       "key_themes": [
-        "regulatory_filing",
-        "subsidiary_report"
+        "Results",
+        "Annual Report"
       ]
     },
     {
@@ -55,10 +52,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard annual report filing for a non-UK listed entity (Westpac Securities NZ Limited), resulting in zero direct impact on UK equity markets due to lack of listing and jurisdictional separation.",
+      "insight": "This announcement signifies the release of scheduled annual financial results, which are critical for shareholders to assess the entity's overall performance and financial health over the past year.",
       "key_themes": [
-        "NZ Market",
-        "Administrative Filing"
+        "Results",
+        "Financial Reporting"
       ]
     }
   ]

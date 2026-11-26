@@ -23,12 +23,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/fidelity-special-values--fsv/dividend-declaration/9880786",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine dividend declaration for a closed-end fund carries minimal market-moving weight compared to open-ended peers; investor focus remains on the persistent discount to NAV and underlying portfolio performance rather than the payout itself.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a standard dividend declaration, which typically indicates ongoing shareholder returns but does not inherently suggest significant strategic shifts or financial distress without further details.",
       "key_themes": [
-        "closed-end_fund",
-        "dividend_policy",
-        "nav_discount"
+        "Dividend",
+        "Shareholder Returns"
       ]
     },
     {
@@ -93,11 +92,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/fidelity-special-values--fsv/portfolio-update/9749661",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "As a standard periodic disclosure for an open-ended investment company, this update provides transparency on portfolio composition but lacks the material corporate actions or financial surprises required to move the share price significantly.",
+      "impact_score": 5,
+      "insight": "This announcement provides a scheduled update on the portfolio composition or performance of the fund, which is routine for investment trusts. It offers shareholders insight into current holdings and strategy without indicating any immediate material change or event.",
       "key_themes": [
-        "portfolio_transparency",
-        "routine_disclosure"
+        "Portfolio Update",
+        "Performance Review"
       ]
     },
     {
@@ -130,10 +129,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of individual director transactions with no material implication for FSV's investment strategy or NAV performance. Such routine filings are common in the asset management sector and do not signal insider sentiment shifts regarding the fund's underlying holdings.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Regulatory Compliance"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -220,11 +219,12 @@
       "url": "https://www.investegate.co.uk/announcement/prn/fidelity-special-values--fsv/portfolio-update/9599738",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "As a standard portfolio update for an open-ended investment company (OEIC), this RNS provides transparency on holdings but lacks the binding contractual obligations or transformative events that drive immediate price discovery in closed-end vehicles.",
+      "impact_score": 5,
+      "insight": "This announcement typically signifies a scheduled update on the fund's performance or portfolio composition, providing shareholders with information on investment decisions and strategy execution without indicating immediate financial direction.",
       "key_themes": [
-        "transparency",
-        "passive-update"
+        "Portfolio Update",
+        "Fund Performance",
+        "Investment Strategy"
       ]
     },
     {

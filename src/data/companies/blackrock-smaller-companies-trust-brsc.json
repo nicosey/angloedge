@@ -114,11 +114,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-smaller-companies-trust--brsc/submission-of-document/9865863",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing for the submission of documents to the London Stock Exchange, typically accompanying other announcements such as NAV updates or dividend declarations rather than constituting a standalone material event.",
+      "impact_score": 1,
+      "insight": "This announcement indicates routine administrative housekeeping rather than any substantive corporate event. It signifies that a document has been filed but provides no information regarding the company's performance, strategy, or financial position.",
       "key_themes": [
-        "regulatory_compliance",
-        "administrative"
+        "Administrative",
+        "Compliance"
       ]
     },
     {
@@ -172,11 +172,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-smaller-companies-trust--brsc/portfolio-update/9853249",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine portfolio updates for investment trusts are standard disclosures that rarely move share prices unless they signal a drastic shift in strategy or significant underperformance relative to the benchmark.",
+      "impact_score": 5,
+      "insight": "This announcement typically provides shareholders with a review of the fund's investment portfolio and performance, offering insight into the manager's strategy and current holdings without necessarily indicating a change in financial direction.",
       "key_themes": [
-        "investment-trust",
-        "portfolio-disclosure"
+        "Portfolio Update",
+        "Performance Review"
       ]
     },
     {
@@ -376,11 +376,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-smaller-companies-trust--brsc/result-of-gm/9816009",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "The headline 'Result of GM' typically denotes the outcome of a General Meeting regarding routine governance matters such as director re-elections or mandate renewals rather than substantive corporate events. In the context of an investment trust like BRSC, absent specific details on a significant capital raise or strategic pivot, this is classified as administrative with minimal immediate price impact.",
+      "impact_score": 5,
+      "insight": "This announcement likely communicates the outcome of a general meeting for shareholders. It signifies the resolution of governance matters but does not indicate any immediate financial or strategic change.",
       "key_themes": [
-        "Corporate Governance",
-        "Investment Trust"
+        "Governance",
+        "Shareholder Meeting"
       ]
     },
     {
@@ -592,10 +592,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory requirements for investment trusts and typically carry negligible market impact unless the volume is exceptionally large relative to float.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -627,11 +627,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-smaller-companies-trust--brsc/publication-of-circular-and-notice-of-general-/9766202",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing for an Investment Trust General Meeting, typically covering routine matters such as fee approvals and mandate renewals rather than transformative strategic shifts.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that a general meeting is being convened and relevant documentation is being distributed to shareholders. It signifies a standard governance event where shareholder approval or input may be required, but does not imply any immediate financial impact or strategic change.",
       "key_themes": [
-        "Corporate Governance",
-        "Investment Trusts"
+        "Governance",
+        "Shareholder Meeting"
       ]
     },
     {
@@ -642,10 +642,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate impact on share price dynamics or fund strategy, reflecting typical insider activity rather than a strategic shift.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a standard regulatory disclosure. It provides transparency into insider activity but does not inherently signal a change in strategy or financial performance.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -838,11 +838,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-smaller-companies-trust--brsc/disclosure-of-porfolio-holdings/9702224",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine disclosure of portfolio holdings is standard regulatory compliance for investment trusts with no immediate price-sensitive implications or strategic shifts.",
+      "impact_score": 3,
+      "insight": "This announcement signifies routine portfolio transparency, allowing shareholders to review current asset allocations without indicating any immediate strategic shift or financial performance change.",
       "key_themes": [
-        "transparency",
-        "regulatory_compliance"
+        "Portfolio Disclosure",
+        "Transparency"
       ]
     },
     {
@@ -951,11 +951,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-smaller-companies-trust--brsc/dividend-declaration/9680467",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine dividend declarations are standard operational events for closed-end funds like BRSC and do not signal strategic shifts or material financial changes; the market impact is neutral as this reflects ongoing income distribution rather than new value creation.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a formal declaration of a dividend payment by the investment trust. It generally indicates that the board has approved a distribution of profits to shareholders, subject to standard regulatory processes.",
       "key_themes": [
-        "Income Distribution",
-        "Closed-End Fund"
+        "Dividend",
+        "Income"
       ]
     },
     {
@@ -1152,11 +1152,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-smaller-companies-trust--brsc/share-sub-division/9627794",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Share subdivision is a purely administrative action with no fundamental impact on the company's valuation or investment thesis; it typically aims to improve liquidity by lowering the nominal share price, similar to recent precedents in the UK investment trust sector.",
+      "impact_score": 3,
+      "insight": "A share sub-division is a mechanical adjustment that increases the number of shares held by each shareholder while proportionally reducing the price per share, leaving the total investment value unchanged. This type of announcement generally signifies administrative housekeeping rather than a change in the company's fundamental value or strategy.",
       "key_themes": [
-        "administrative",
-        "liquidity"
+        "Capital structure",
+        "Administrative"
       ]
     },
     {
@@ -1188,11 +1188,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-smaller-companies-trust--brsc/result-of-agm/9624023",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, typically involving routine approvals such as director re-election and auditor appointment without substantive strategic shifts.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of the Annual General Meeting, which typically involves routine shareholder approvals such as director reappointments and auditor appointments. It signifies standard corporate governance compliance rather than a material change in the company's strategic or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "AGM Results"
       ]
     },
     {
@@ -1202,11 +1202,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-smaller-companies-trust--brsc/change-in-portfolio-management-arrangements/9623014",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine administrative update regarding portfolio management arrangements for a closed-end fund; lacks immediate catalysts for share price volatility but signals standard operational governance.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the management structure of the investment trust, which may affect investment strategy or performance oversight. Shareholders should monitor for further details regarding the specific nature and implications of this managerial shift.",
       "key_themes": [
         "Governance",
-        "Fund Administration"
+        "Management Change"
       ]
     },
     {
@@ -1228,11 +1228,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures typically carry minimal market impact unless they signal significant insider conviction or divergence; without volume or price context, this remains an administrative filing with no immediate strategic implication for BRSC's valuation.",
+      "insight": "This announcement signifies routine director shareholding activity, which provides transparency regarding insider ownership but typically carries limited immediate financial impact for shareholders.",
       "key_themes": [
-        "insider_activity",
-        "governance",
-        "low_impact"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -1242,11 +1241,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-smaller-companies-trust--brsc/tender-price/9621393",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement relates to the standard monthly calculation of the tender offer price for a closed-end investment trust, which is an administrative function rather than a strategic event.",
+      "impact_score": 5,
+      "insight": "This announcement likely concerns the pricing mechanism for a tender offer or share buyback program, which directly affects shareholder liquidity and valuation. It signifies a routine capital management action rather than a strategic shift or financial distress.",
       "key_themes": [
-        "administrative",
-        "closed-end-fund"
+        "Capital return",
+        "Shareholder value"
       ]
     },
     {
@@ -1344,12 +1343,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-smaller-companies-trust--brsc/tender-pool-update/9605170",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Tender pool updates are standard operational disclosures for investment trusts, indicating routine liquidity management rather than strategic shifts or material financial events.",
+      "impact_score": 3,
+      "insight": "This update likely pertains to routine operational details regarding a tender offer pool, which typically involves minor administrative adjustments rather than significant strategic shifts. Shareholders should expect limited immediate financial impact from this type of periodic reporting.",
       "key_themes": [
-        "Investment Trust",
-        "Liquidity Management",
-        "Routine Disclosure"
+        "Corporate Action",
+        "Operational Update"
       ]
     },
     {

@@ -2,9 +2,20 @@
   "name": "Oxford Instruments",
   "ticker": "OXIG",
   "slug": "oxford-instruments-oxig",
-  "announcement_count": 47,
-  "latest_announcement": "2026-11-19T08:46:00",
+  "announcement_count": 48,
+  "latest_announcement": "2026-11-26T10:30:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T10:30:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/prn/oxford-instruments--oxig/transaction-in-own-shares/9895752",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-19T08:46:00",
       "category": null,
@@ -178,10 +189,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Oxford Instruments' valuation or strategic trajectory in the high-tech instrumentation sector.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides limited insight into future performance but confirms compliance with market abuse regulations regarding insider transactions.",
       "key_themes": [
-        "Corporate Governance",
-        "Market Noise"
+        "Director Dealing",
+        "Governance"
       ]
     },
     {
@@ -280,10 +291,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements for Oxford Instruments typically reflect individual portfolio management rather than corporate strategy shifts, offering no material signal on the company's high-margin scientific instrument demand or broader tech sector trends.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has engaged in share transactions. Such disclosures are routine regulatory requirements and typically carry minimal immediate impact on shareholder value unless accompanied by context regarding the scale or nature of the dealing.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -294,10 +305,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in OXIG typically reflect personal portfolio management rather than strategic shifts, given the company's stable position in high-end scientific instrumentation and lack of immediate catalysts for major valuation re-rating.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has engaged in share dealing activity. Such disclosures are routine regulatory requirements and generally carry low immediate impact unless they signal significant insider sentiment shifts.",
       "key_themes": [
-        "Corporate Governance",
-        "Minor Event"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -503,12 +514,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-instruments--oxig/preliminary-results/9607756",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a high-beta bellwether for the global semiconductor capital equipment cycle, Oxford Instruments' results provide critical leading indicators for the broader tech hardware sector, particularly regarding foundry capex trends and cryogenic demand.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled preliminary financial results, which is a routine event for shareholders. The headline does not disclose the direction or magnitude of the performance, so it represents standard information disclosure rather than a specific catalyst.",
       "key_themes": [
-        "Semiconductor Capex",
-        "Cryogenics",
-        "Tech Hardware Cycle"
+        "Results"
       ]
     },
     {

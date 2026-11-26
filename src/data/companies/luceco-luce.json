@@ -2,9 +2,23 @@
   "name": "Luceco",
   "ticker": "LUCE",
   "slug": "luceco-luce",
-  "announcement_count": 9,
-  "latest_announcement": "2026-11-09T17:09:00",
+  "announcement_count": 10,
+  "latest_announcement": "2026-11-25T16:21:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T16:21:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/luceco--luce/director-pdmr-shareholding/9894218",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Director shareholding updates follow the CEO appointment in August. Shareholders should monitor these filings for changes in insider ownership during the leadership transition.",
+      "key_themes": [
+        "Governance",
+        "Leadership"
+      ]
+    },
     {
       "timestamp": "2026-11-09T17:09:00",
       "category": "Director Dealing",
@@ -13,10 +27,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Luceco's valuation or operational trajectory, reflecting typical insider activity rather than strategic shifts.",
+      "insight": "This announcement indicates that a person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides limited insight into future performance but confirms compliance with transparency regulations.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Director Dealing",
+        "Governance"
       ]
     },
     {
@@ -40,11 +54,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/luceco--luce/appointment-of-dr-thorsten-m-ller-as-ceo/9711919",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 8,
-      "insight": "A CEO appointment is a high-impact governance event for Luceco, signaling potential strategic shifts in the competitive UK electrical wholesale sector where margin pressure and consolidation are key themes.",
+      "impact_score": 7,
+      "insight": "The appointment of a new CEO represents a significant change in leadership that may signal a shift in strategic direction or operational oversight for the company. This type of executive transition is material to shareholders as it directly impacts governance and future performance expectations.",
       "key_themes": [
         "Leadership Change",
-        "Strategic Direction"
+        "Governance"
       ]
     },
     {
@@ -55,10 +69,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Luceco's valuation or operational trajectory, reflecting normal insider activity rather than strategic shifts.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine compliance filings rather than significant corporate events. Shareholders should view this as standard governance disclosure with limited immediate financial impact.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -68,11 +82,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/luceco--luce/appointment-of-non-executive-director/9624148",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine governance update typical for AIM-listed SMEs; without details on the appointee's background or specific mandate, this lacks immediate strategic weight compared to operational or financial disclosures.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the board composition by adding a non-executive director, which is a standard governance update. It generally indicates an intention to strengthen board oversight or expertise without implying immediate strategic shifts.",
       "key_themes": [
         "Governance",
-        "Board Composition"
+        "Board Change"
       ]
     },
     {
@@ -83,11 +97,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 8,
-      "insight": "CEO departures in the UK SME market often trigger immediate valuation discounts due to execution risk and leadership uncertainty; for Luceco, this creates a critical juncture regarding strategic continuity in the competitive electrical wholesale sector.",
+      "insight": "The departure of a Chief Executive Officer represents a significant governance change that may introduce leadership uncertainty or signal a strategic shift for the company.",
       "key_themes": [
-        "Leadership Change",
-        "Execution Risk",
-        "SME Governance"
+        "Governance",
+        "Leadership Change"
       ]
     },
     {
@@ -109,10 +122,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements for Luceco typically reflect standard compliance filings rather than significant insider sentiment shifts, offering limited predictive value for the stock's near-term trajectory in the competitive electrical wholesale sector.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into the company's operational performance but may signal individual confidence or lack thereof depending on the nature of the deal.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -123,10 +136,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on share price or corporate strategy, reflecting normal liquidity management rather than significant insider sentiment shifts.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine governance disclosure. It provides limited insight into future performance but signals insider activity that shareholders may monitor for sentiment clues.",
       "key_themes": [
-        "regulatory compliance",
-        "minor administrative"
+        "Governance",
+        "Director Dealing"
       ]
     }
   ]

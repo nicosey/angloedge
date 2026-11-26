@@ -2,9 +2,23 @@
   "name": "SHAWBROOK GROUP PLC",
   "ticker": "SHAW",
   "slug": "shawbrook-group-shaw",
-  "announcement_count": 3,
-  "latest_announcement": "2026-11-13T16:14:00",
+  "announcement_count": 4,
+  "latest_announcement": "2026-11-26T15:04:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T15:04:00",
+      "category": null,
+      "headline": "Residential Mortgage-Backed Securities November 26",
+      "url": "https://www.investegate.co.uk/announcement/rns/shawbrook-group-plc--shaw/residential-mortgage-backed-securities-november-26/9896307",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "SHAWBROOK GROUP PLC issued a residential mortgage-backed securities announcement. This follows recent interim results and director shareholding updates.",
+      "key_themes": [
+        "Securities",
+        "Governance"
+      ]
+    },
     {
       "timestamp": "2026-11-13T16:14:00",
       "category": "Director Dealing",
@@ -13,10 +27,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures typically carry minimal immediate market impact unless the volume is exceptional or signals a clear shift in insider sentiment; without specific transaction details indicating significant buying or selling, this remains an administrative update.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into future performance but confirms insider shareholding movements.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -26,12 +40,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/shawbrook-group-plc--shaw/interim-report-for-the-period-ended-30-june-2026/9704867",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a key player in the UK consumer finance sector, Shawbrook's interim results provide critical visibility into credit quality and net interest margins amid persistent inflationary pressures. The report will likely highlight the tension between rising funding costs and the need to maintain loan growth in a tightening economic environment.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled interim results release for the reporting period ending in June 2026. It provides shareholders with an update on the company's financial performance and operational progress for the first half of the year.",
       "key_themes": [
-        "Interim Results",
-        "Consumer Finance",
-        "Credit Quality"
+        "Results",
+        "Interim Report"
       ]
     },
     {
@@ -41,11 +54,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/shawbrook-group-plc--shaw/appointment-of-independent-non-executive-director/9659420",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine governance update typical for UK mid-cap financials; without details on the appointee's background or specific mandate, this lacks immediate strategic weight compared to earnings or capital allocation news.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the board composition by adding an independent non-executive director. Such appointments are standard governance updates that generally have a neutral to mildly positive impact on shareholder confidence without altering immediate financial prospects.",
       "key_themes": [
         "Governance",
-        "Board Composition"
+        "Board Change"
       ]
     }
   ]

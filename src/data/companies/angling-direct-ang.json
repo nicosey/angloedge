@@ -2,9 +2,45 @@
   "name": "Angling Direct",
   "ticker": "ANG",
   "slug": "angling-direct-ang",
-  "announcement_count": 19,
-  "latest_announcement": "2026-11-23T17:09:00",
+  "announcement_count": 22,
+  "latest_announcement": "2026-11-26T07:31:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T07:31:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/angling-direct--ang/holding-s-in-company/9895272",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-26T07:24:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/angling-direct--ang/holding-s-in-company/9895263",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-25T12:08:00",
+      "category": "Director Dealing",
+      "headline": "PDMR Dealing and Total Voting Rights",
+      "url": "https://www.investegate.co.uk/announcement/rns/angling-direct--ang/pdmr-dealing-and-total-voting-rights/9893727",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "PDMR Dealing and Total Voting Rights details are reported. Shareholders should monitor future filings for significant changes in director holdings.",
+      "key_themes": [
+        "Governance",
+        "Director dealings"
+      ]
+    },
     {
       "timestamp": "2026-11-23T17:09:00",
       "category": null,
@@ -34,11 +70,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/angling-direct--ang/result-of-general-meeting/9877270",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at Angling Direct's AGM/EGM, carrying no new strategic direction or financial data that would alter valuation models.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which is typically a routine governance event for shareholders. It signifies that shareholder votes have been concluded but does not indicate any material change to the company's financial position or strategic direction.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -213,11 +249,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/angling-direct--ang/result-of-agm/9625762",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director re-election and auditor appointment rather than strategic shifts or capital allocation changes.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director re-elections or auditor appointments. It signifies standard corporate governance activity rather than any material change to the company's strategic direction or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Shareholder approval"
       ]
     }
   ]

@@ -2,9 +2,20 @@
   "name": "Beeks Financial Cloud Group",
   "ticker": "BKS",
   "slug": "beeks-financial-cloud-group-bks",
-  "announcement_count": 6,
-  "latest_announcement": "2026-11-16T11:02:00",
+  "announcement_count": 7,
+  "latest_announcement": "2026-11-25T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T07:00:00",
+      "category": "AGM/EGM",
+      "headline": "Notice of Annual General Meeting",
+      "url": "https://www.investegate.co.uk/announcement/rns/beeks-financial-cloud-group--bks/notice-of-annual-general-meeting/9892197",
+      "routine_type": "Meeting Notices",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-16T11:02:00",
       "category": null,
@@ -23,11 +34,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/beeks-financial-cloud-group--bks/board-change/9861485",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine board-level personnel changes in the fintech/cloud infrastructure sector typically signal operational continuity rather than strategic pivots, lacking the immediate catalyst for significant valuation re-rating seen in major M&A or leadership crises.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the company's board composition, which is typically classified as a standard governance update. Shareholders should monitor subsequent filings for details regarding the specific roles and responsibilities of any new appointees.",
       "key_themes": [
-        "Corporate Governance",
-        "Fintech Sector"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -37,12 +48,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/beeks-financial-cloud-group--bks/beeks-sees-positive-q1-momentum-/9828421",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Positive Q1 momentum for Beeks Financial Cloud Group suggests resilience in the fintech infrastructure sector despite broader macro headwinds, reinforcing its position as a key enabler for financial institutions undergoing digital transformation.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled trading update where management reports positive momentum in the first quarter, though the specific financial direction is not detailed in the headline.",
       "key_themes": [
-        "Fintech Infrastructure",
-        "Trading Update",
-        "Digital Transformation"
+        "Trading update",
+        "Results"
       ]
     },
     {
@@ -52,11 +62,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/beeks-financial-cloud-group--bks/notice-of-results-and-investor-presentation/9810776",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This announcement signals the release of interim results for Beeks Financial Cloud Group, a critical juncture for this high-growth fintech infrastructure provider as it demonstrates scalability and path to profitability to skeptical markets. The inclusion of an investor presentation suggests management is actively managing narrative around valuation multiples in a sector currently sensitive to interest rate impacts on growth stocks.",
+      "impact_score": 5,
+      "insight": "This announcement indicates that scheduled financial results and an accompanying investor presentation are forthcoming. It signifies a routine update cycle for shareholders without disclosing specific performance metrics or strategic shifts in the headline.",
       "key_themes": [
-        "Interim Results",
-        "Fintech Infrastructure",
+        "Results",
         "Investor Relations"
       ]
     },
@@ -81,12 +90,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/beeks-financial-cloud-group--bks/third-market-edge-intelligence-contract-win/9617107",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This win reinforces Beeks' strategy of leveraging its proprietary Market Edge Intelligence® platform to secure recurring revenue in the competitive UK equity research market, though it remains a standard commercial update rather than a transformative event.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a new commercial agreement for the company, which may indicate business growth but lacks specific details regarding financial impact or scale.",
       "key_themes": [
-        "recurring revenue",
-        "product adoption",
-        "market expansion"
+        "Contract win",
+        "Commercial update"
       ]
     }
   ]

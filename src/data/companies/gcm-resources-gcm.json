@@ -2,9 +2,23 @@
   "name": "GCM Resources",
   "ticker": "GCM",
   "slug": "gcm-resources-gcm",
-  "announcement_count": 6,
-  "latest_announcement": "2026-11-11T13:05:00",
+  "announcement_count": 7,
+  "latest_announcement": "2026-11-26T12:45:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T12:45:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/gcm-resources--gcm/director-pdmr-shareholding/9896016",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Director/PDMR Shareholding follows earlier warrants exercise and legal updates. This indicates routine insider activity rather than a strategic shift.",
+      "key_themes": [
+        "Governance",
+        "Insider Dealing"
+      ]
+    },
     {
       "timestamp": "2026-11-11T13:05:00",
       "category": null,
@@ -12,11 +26,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/gcm-resources--gcm/further-update-on-receipt-of-letter-before-claim/9870388",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard legal procedural update regarding potential litigation costs rather than an operational milestone; for GCM Resources, the primary risk is the dilution of shareholder value through legal expenditure or settlement payments in the absence of immediate revenue generation.",
+      "impact_score": 6,
+      "insight": "This update signifies ongoing legal proceedings where a claim has been initiated against the company, which may result in financial liability or reputational risk. Shareholders should monitor future disclosures for details on the claim's merits and potential settlement terms.",
       "key_themes": [
-        "Legal Risk",
-        "Litigation Costs"
+        "Legal",
+        "Litigation",
+        "Risk"
       ]
     },
     {
@@ -26,11 +41,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/gcm-resources--gcm/update-on-receipt-of-letter-before-claim/9856595",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard pre-litigation step in the mining sector's ongoing struggle with regulatory compliance and environmental liabilities, indicating potential future costs but lacking immediate financial quantification or strategic shift.",
+      "impact_score": 6,
+      "insight": "This announcement indicates the initiation of legal proceedings against the company, which introduces litigation risk and potential financial liability for shareholders. The outcome is uncertain, but such claims can significantly impact reputation and future operations.",
       "key_themes": [
-        "Legal Risk",
-        "Regulatory Compliance"
+        "Litigation",
+        "Legal Risk"
       ]
     },
     {
@@ -83,11 +98,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/gcm-resources--gcm/statement-regarding-government-commentary-/9724862",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Government commentary on critical minerals supply chains reinforces the strategic premium for UK-listed miners like GCM but offers no immediate financial catalyst or order flow, reflecting broader geopolitical tailwinds rather than company-specific operational progress.",
+      "impact_score": 3,
+      "insight": "This announcement likely addresses external commentary regarding the company, which may influence market sentiment but does not inherently indicate a change in operational performance or corporate structure.",
       "key_themes": [
-        "critical minerals",
-        "geopolitics"
+        "Governance",
+        "Public Relations"
       ]
     }
   ]

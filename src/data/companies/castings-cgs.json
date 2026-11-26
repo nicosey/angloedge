@@ -23,11 +23,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/castings--cgs/result-of-agm/9732944",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as dividend approval and director re-election rather than strategic shifts or material corporate actions.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director re-elections or auditor appointments. It signifies standard corporate governance activity rather than a material change in the company's strategic or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -63,10 +63,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements in the industrial manufacturing sector typically signal standard portfolio management rather than strategic shifts, offering negligible immediate price impact for Castings.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities rather than significant corporate events. Such disclosures are generally considered administrative housekeeping with limited immediate impact on shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "Minor Admin"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -77,10 +77,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard administrative notice confirming the publication date of results rather than the results themselves, offering no immediate trading signal or fundamental shift for the UK small-cap industrial sector.",
+      "insight": "This announcement indicates that the company is publishing its financial results, a scheduled event that provides shareholders with an update on performance but does not specify the direction or magnitude of the outcome.",
       "key_themes": [
-        "administrative",
-        "routine"
+        "Results"
       ]
     }
   ]

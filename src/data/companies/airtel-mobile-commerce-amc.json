@@ -46,10 +46,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard administrative notice confirming the publication of results rather than the results themselves; without disclosed figures, it carries no immediate pricing impact for AMC.",
+      "insight": "This announcement indicates that scheduled financial results are forthcoming, but the headline provides no information regarding the direction or magnitude of the performance.",
       "key_themes": [
-        "administrative",
-        "results_announcement"
+        "Results",
+        "Financial Reporting"
       ]
     },
     {
@@ -70,11 +70,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/airtel-mobile-commerce-n-v---amc/admission-to-trading-on-the-london-stock-exchange/9821344",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Admission to trading is a procedural milestone rather than a value-driving event; without accompanying details on the raise size or valuation, it remains an administrative update with no immediate fundamental impact.",
+      "impact_score": 7,
+      "insight": "This announcement signifies the admission of shares to trading on a major exchange, which typically involves a significant capital raise and enhances liquidity for existing shareholders.",
       "key_themes": [
-        "IPO",
-        "Market Access"
+        "Admission",
+        "Capital raise"
       ]
     },
     {
@@ -95,11 +95,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/amur-minerals-corporation-npv--amc/airtel-money-announcement-of-final-offer-details/9814566",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement concerns a payment service provider (Airtel Money) rather than Amur Minerals' core copper-cobalt mining operations in Zambia, indicating zero direct operational or financial impact on AMC's valuation or production strategy.",
+      "impact_score": 1,
+      "insight": "The headline references 'Airtel Money', an entity not present in the company name Amur Minerals Corporation, suggesting this is a press release or announcement concerning a third party with no bearing on the company's shareholders.",
       "key_themes": [
-        "irrelevant",
-        "data_mismatch"
+        "Third-party announcement",
+        "Marketing material"
       ]
     }
   ]

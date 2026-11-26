@@ -2,9 +2,24 @@
   "name": "Time To ACT Plc",
   "ticker": "TTA",
   "slug": "time-to-act-tta",
-  "announcement_count": 11,
-  "latest_announcement": "2026-10-30T07:00:00",
+  "announcement_count": 12,
+  "latest_announcement": "2026-11-25T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T07:00:00",
+      "category": "Appointment",
+      "headline": "Appointment of Corporate Adviser and Broker",
+      "url": "https://www.investegate.co.uk/announcement/rns/time-to-act-plc--tta/appointment-of-corporate-adviser-and-broker-/9892158",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This appointment signifies a change in the company's external advisory relationships, which may indicate a shift in strategic direction or preparation for future corporate actions. It represents a standard governance update regarding the management of shareholder relations and financial advice.",
+      "key_themes": [
+        "Governance",
+        "Advisory",
+        "Corporate Actions"
+      ]
+    },
     {
       "timestamp": "2026-10-30T07:00:00",
       "category": "Director Dealing",
@@ -51,11 +66,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/time-to-act-plc--tta/significant-diffusion-alloys-order-/9800253",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This order validates TTA's niche positioning in high-performance metallurgy but likely represents a modest revenue contribution relative to the company's small cap size; investors will scrutinize whether this signals sustained demand recovery in the industrial alloys sector or remains an isolated transaction.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a new commercial contract or partnership, which typically indicates revenue generation potential for shareholders. The specific financial magnitude and strategic importance remain undefined by the headline alone.",
       "key_themes": [
-        "Industrial Demand",
-        "Revenue Growth"
+        "Contract",
+        "Commercial"
       ]
     },
     {
@@ -92,12 +107,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/time-to-act-plc--tta/restructuring-of-convertible-loan-agreement-/9771590",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Restructuring convertible debt signals potential liquidity pressure or a need to extend maturity timelines, which is common in the small-cap biotech sector where cash burn rates often outpace revenue generation; this mitigates immediate default risk but may dilute existing shareholders upon conversion.",
+      "impact_score": 7,
+      "insight": "This announcement indicates a restructuring of convertible loan agreements, which typically involves renegotiating debt terms to improve liquidity or alter capital structure. Such changes can significantly impact shareholder value by affecting dilution risks and the company's financial stability.",
       "key_themes": [
-        "liquidity management",
-        "debt restructuring",
-        "dilution risk"
+        "Debt restructuring",
+        "Capital management",
+        "Financial health"
       ]
     },
     {
@@ -119,10 +134,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard investor relations event designed to maintain retail engagement rather than signal material corporate developments or financial performance shifts.",
+      "insight": "This announcement appears to be a marketing event or investor relations activity rather than a substantive corporate action affecting shareholder value. It does not indicate any change in financial performance, governance, or strategic direction.",
       "key_themes": [
         "Investor Relations",
-        "Retail Engagement"
+        "Marketing"
       ]
     },
     {
@@ -133,10 +148,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine issuance of share options to PDMRs is standard compensation practice for small-cap growth firms like TTA, signaling no immediate strategic shift or insider sentiment change rather than a transformative event.",
+      "insight": "This announcement indicates that a person discharging managerial responsibilities has been notified of new share options, which is a standard governance disclosure. It generally signifies routine equity incentive administration rather than a material change in the company's strategic direction or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Executive Compensation"
+        "Governance",
+        "Director Dealing",
+        "Equity Incentives"
       ]
     },
     {

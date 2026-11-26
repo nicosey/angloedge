@@ -13,10 +13,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on share price dynamics; without context of significant volume or unusual timing relative to earnings, these events rarely signal strategic shifts in the current UK equity landscape.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but typically carries limited immediate significance for the broader shareholder base compared to strategic corporate actions.",
       "key_themes": [
-        "Corporate Governance",
-        "Regulatory Compliance"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -26,11 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/duke-royalty-limited--duke/response-re-share-price-operational-update/9832836",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Share price response announcements are standard regulatory disclosures triggered by volatility rather than fundamental shifts, offering no new operational data or strategic direction for Duke Royalty's royalty portfolio.",
+      "impact_score": 5,
+      "insight": "This announcement provides an operational update alongside a response to share price activity, indicating management is addressing investor sentiment and providing progress updates without revealing specific financial outcomes or strategic shifts in the headline.",
       "key_themes": [
-        "Regulatory Compliance",
-        "Market Volatility"
+        "Operational Update",
+        "Share Price Response"
       ]
     },
     {
@@ -40,11 +40,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/duke-royalty-limited--duke/interim-dividend-and-dividend-declaration-/9778150",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a royalty-focused entity, DUKE's dividend declaration signals robust cash flow generation from its underlying asset base, reinforcing its appeal to income-oriented investors in the current high-yield environment.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a distribution of profits to shareholders, which typically signals financial stability but requires further details to assess magnitude. The specific terms and amounts are not disclosed in the headline.",
       "key_themes": [
-        "income_generation",
-        "cash_flow_strength"
+        "Dividend",
+        "Shareholder return"
       ]
     },
     {
@@ -69,10 +69,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This RNS reflects standard administrative disclosures regarding share awards and routine director dealings rather than a material corporate event. For Duke Royalty, such filings are typical governance updates that do not signal immediate strategic shifts or significant capital movements.",
+      "insight": "This announcement covers routine director share transactions and equity issuances, which are standard governance disclosures. While the equity issue may slightly dilute existing holdings, these events typically have minimal immediate impact on shareholder value compared to strategic corporate actions.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Disclosure"
+        "Director Dealings",
+        "Equity Issue",
+        "Governance"
       ]
     },
     {
@@ -82,11 +83,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/duke-royalty-limited--duke/annual-report-notice-of-annual-general-meeting/9648446",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine administrative filing for a small-cap royalty company with limited liquidity; AGM notices are standard governance events that rarely drive immediate price action unless accompanied by special resolutions on capital changes.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that the company is convening its Annual General Meeting and publishing its annual report, which are routine governance events for listed entities. Shareholders will receive standard updates on corporate affairs but no material financial or strategic changes are implied by the headline.",
       "key_themes": [
-        "Corporate Governance",
-        "Small Cap"
+        "Governance",
+        "Annual Report",
+        "AGM"
       ]
     },
     {
@@ -96,11 +98,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/duke-royalty-limited--duke/interim-dividend-and-dividend-declaration-/9624390",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a royalty-focused entity, declaring an interim dividend signals robust cash flow generation from its underlying asset base, reinforcing its appeal to income-oriented investors in the current high-yield environment.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a distribution of profits to shareholders, which may provide income but typically results in a corresponding reduction in the company's net asset value.",
       "key_themes": [
-        "Income Generation",
-        "Cash Flow Stability"
+        "Dividend",
+        "Capital return"
       ]
     },
     {
@@ -110,12 +112,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/duke-royalty-limited--duke/notice-of-results-investor-presentation/9588700",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a royalty and streaming company, DUKE's results are highly sensitive to underlying metal price volatility and production guidance from partners like Kinross; this update is critical for assessing the sustainability of its high-margin cash flow generation in the current gold market environment.",
+      "impact_score": 5,
+      "insight": "This announcement indicates that scheduled financial results and an accompanying investor presentation are being released, providing shareholders with updated performance data.",
       "key_themes": [
-        "royalty valuation",
-        "gold price sensitivity",
-        "cash flow visibility"
+        "Results",
+        "Investor Relations"
       ]
     }
   ]

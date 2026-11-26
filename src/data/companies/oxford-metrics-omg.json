@@ -2,9 +2,20 @@
   "name": "Oxford Metrics",
   "ticker": "OMG",
   "slug": "oxford-metrics-omg",
-  "announcement_count": 25,
-  "latest_announcement": "2026-11-18T07:00:00",
+  "announcement_count": 26,
+  "latest_announcement": "2026-11-25T11:45:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T11:45:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/oxford-metrics--omg/transaction-in-own-shares/9893666",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-18T07:00:00",
       "category": null,
@@ -23,11 +34,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-metrics--omg/issue-of-consideration-shares/9873027",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard administrative issuance of shares to satisfy consideration for the previously announced acquisition of Metaswitch Networks, rather than a new capital-raising event or strategic pivot.",
+      "impact_score": 4,
+      "insight": "This announcement signifies the issuance of shares as consideration, which typically indicates a transaction such as an acquisition or settlement. Shareholders should note that this may result in dilution of existing equity stakes.",
       "key_themes": [
-        "M&A Execution",
-        "Corporate Action"
+        "Capital raise",
+        "M&A"
       ]
     },
     {
@@ -71,10 +82,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard PDMR notification with no disclosed volume or price suggests routine administrative compliance rather than a significant signal of insider sentiment or strategic shift.",
+      "insight": "This announcement confirms that a person discharging managerial responsibilities has executed a transaction in the company's shares. Such filings are routine regulatory disclosures that provide transparency but do not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -96,10 +107,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard PDMR notification with no disclosed volume or price data, rendering it administratively neutral for immediate valuation purposes.",
+      "insight": "This announcement confirms that a person discharging managerial responsibilities has executed a transaction in the company's shares. Such filings are routine regulatory disclosures that provide transparency into insider trading activity but do not inherently signal a change in corporate strategy or performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -110,10 +121,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard PDMR notification with no disclosed volume or price details; without evidence of significant net buying or selling, this is routine administrative disclosure typical for Oxford Metrics' small-cap liquidity profile.",
+      "insight": "This notification confirms that a person discharging managerial responsibilities has executed a transaction in the company's shares. Such disclosures are routine regulatory requirements and typically have minimal direct impact on shareholder value unless they signal significant insider sentiment shifts.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -124,10 +135,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine PDMR notification lacking volume context suggests no immediate signal of significant insider conviction or divergence; in the absence of accompanying trading updates, this is standard compliance noise rather than a strategic indicator.",
+      "insight": "This announcement indicates that a person discharging managerial responsibilities has executed a transaction in the company's shares. Such filings are routine regulatory disclosures that provide transparency into insider trading activity but do not inherently signal a change in corporate strategy or performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -138,10 +149,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory notification of personal transactions by a PDMR, which carries no intrinsic signal regarding the company's operational health or strategic direction without context on the deal size and nature (buy/sell). In the absence of disclosed volume or price data indicating significant insider conviction shifts, this remains an administrative filing with negligible immediate market impact.",
+      "insight": "This announcement indicates that individuals with senior management responsibilities have engaged in transactions involving the company's shares. Such disclosures are routine regulatory requirements and typically carry low immediate financial impact for general shareholders.",
       "key_themes": [
-        "regulatory_compliance",
-        "insider_activity"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -151,12 +162,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-metrics--omg/confirmation-of-ceo-appointment/9815799",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The appointment of a new CEO at Oxford Metrics signals a potential strategic pivot for the niche scientific imaging firm, which has faced margin pressure and growth challenges in its core microscopy segment. This leadership change is critical as investors assess whether the incoming executive can successfully diversify revenue streams beyond cyclical academic spending.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a change in senior leadership, which is a key governance event that may influence future strategic direction and investor confidence.",
       "key_themes": [
-        "Leadership Change",
-        "Strategic Pivot",
-        "Scientific Instruments"
+        "Governance",
+        "Leadership Change"
       ]
     },
     {
@@ -166,11 +176,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-metrics--omg/share-buyback-programme/9814740",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine share buybacks are standard capital allocation for cash-rich small-caps like Oxford Metrics to support EPS growth; without a disclosed tranche size or premium, this lacks the transformative signal of major M&A or significant strategic shifts.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a formal intention to repurchase shares, which generally signifies management's confidence in the company's valuation and a commitment to returning capital or managing dilution. The specific financial impact on shareholders depends on the scale and terms of the buyback, which are not disclosed in the headline.",
       "key_themes": [
-        "capital return",
-        "EPS accretion"
+        "Share Buyback",
+        "Capital Return",
+        "Governance"
       ]
     },
     {
@@ -180,12 +191,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-metrics--omg/acquisition-of-move-ai-assets/9814687",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This acquisition signals a strategic pivot from pure software licensing to an asset-light AI services model, aligning with the broader industry shift toward integrated data and analytics solutions. While it diversifies revenue streams, the market will scrutinize the integration risks and potential dilution associated with funding this expansion.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a material acquisition that may alter the company's asset base or strategic direction. Shareholders should assess the potential impact of integrating these new assets on future performance.",
       "key_themes": [
-        "AI Strategy",
-        "M&A",
-        "Business Model Pivot"
+        "Acquisition",
+        "Strategic expansion"
       ]
     },
     {
@@ -195,11 +205,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-metrics--omg/trading-update-and-strategic-update/9814524",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Oxford Metrics' update highlights the successful commercialization of its AI-driven analytics platform, signaling a pivotal shift from R&D to revenue generation in the competitive geospatial intelligence sector.",
+      "impact_score": 7,
+      "insight": "This announcement indicates a strategic review or shift in direction alongside financial performance updates, which can significantly alter shareholder expectations regarding future growth and value. The inclusion of 'Strategic Update' suggests potential changes to the company's operational focus or long-term plans.",
       "key_themes": [
-        "AI Commercialization",
-        "Revenue Growth"
+        "Strategic Review",
+        "Trading Update"
       ]
     },
     {
@@ -210,11 +220,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 8,
-      "insight": "A CEO appointment at a small-cap tech firm like Oxford Metrics is a high-stakes governance event that signals a potential strategic pivot or operational overhaul in the competitive AI and data analytics sector, directly influencing investor confidence in future growth trajectories.",
+      "insight": "The appointment of a new CEO represents a significant change in leadership that may signal strategic shifts or operational changes for the company. This type of event is typically viewed as material by shareholders due to its potential impact on future direction and performance.",
       "key_themes": [
-        "Leadership Change",
-        "Strategic Direction",
-        "Small Cap Governance"
+        "Governance",
+        "Leadership Change"
       ]
     },
     {
@@ -272,10 +281,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements for Oxford Metrics typically reflect minor personal portfolio adjustments rather than strategic shifts, given the company's niche position in the high-growth but volatile AI imaging sector.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has engaged in share transactions. Such disclosures are routine regulatory requirements and generally have minimal immediate impact on shareholder value unless they signal significant insider sentiment shifts.",
       "key_themes": [
-        "insider_activity",
-        "routine_disclosure"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -285,11 +294,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-metrics--omg/investor-event-and-strategy-update/9622059",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Oxford Metrics is leveraging its position in the AI-driven biotech data analytics space to clarify its commercial strategy and growth trajectory, a critical move for maintaining investor confidence in a sector sensitive to R&D spend cycles.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a strategic review or update, which typically indicates significant changes to the company's direction or operations that could materially affect shareholder value.",
       "key_themes": [
-        "AI in Life Sciences",
-        "Strategic Communication"
+        "Strategy",
+        "Investor Relations"
       ]
     },
     {
@@ -299,12 +308,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/oxford-metrics--omg/unaudited-interim-results/9621823",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a high-beta small-cap in the AI infrastructure supply chain, Oxford Metrics' interim results serve as a critical sentiment barometer for the niche optical sensing sector, though the lack of transformative M&A or guidance shifts limits immediate market re-pricing.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled release of interim financial performance data for shareholders. The specific direction or magnitude of the results is not indicated by the headline alone.",
       "key_themes": [
-        "Interim Results",
-        "AI Infrastructure",
-        "Small Cap Volatility"
+        "Results"
       ]
     },
     {
@@ -326,9 +333,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard administrative notice confirming the release of results and an associated investor event, lacking the specific catalysts required for immediate price movement or strategic reassessment.",
+      "insight": "This announcement indicates that scheduled financial results are being released alongside an investor event, though the headline does not specify whether the performance is positive or negative. Such events typically allow shareholders to assess the company's recent operational and financial direction.",
       "key_themes": [
-        "Corporate Governance",
+        "Results",
         "Investor Relations"
       ]
     }

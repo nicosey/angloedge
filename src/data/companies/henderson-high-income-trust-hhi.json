@@ -2,9 +2,23 @@
   "name": "Henderson High Income Trust",
   "ticker": "HHI",
   "slug": "henderson-high-income-trust-hhi",
-  "announcement_count": 15,
-  "latest_announcement": "2026-11-20T13:11:00",
+  "announcement_count": 16,
+  "latest_announcement": "2026-11-26T13:42:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T13:42:00",
+      "category": "Appointment",
+      "headline": "Directorate change",
+      "url": "https://www.investegate.co.uk/announcement/rns/henderson-high-income-trust--hhi/directorate-change/9896174",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "Henderson High Income Trust has announced a directorate change. This board-level appointment follows recent portfolio and dividend updates.",
+      "key_themes": [
+        "Governance",
+        "Board Change"
+      ]
+    },
     {
       "timestamp": "2026-11-20T13:11:00",
       "category": null,
@@ -23,12 +37,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/henderson-high-income-trust--hhi/dividend-declaration/9877668",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a closed-end fund, the dividend declaration is the primary metric for investor yield and sentiment; stability here signals management's confidence in underlying asset performance despite broader UK equity volatility.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a formal declaration of dividends, which is a routine corporate action for investment trusts that informs shareholders of upcoming income distributions. It typically carries low immediate impact unless it signals a significant change in the company's financial health or payout policy.",
       "key_themes": [
-        "yield",
-        "closed-end-fund",
-        "income-generation"
+        "Dividend",
+        "Income"
       ]
     },
     {
@@ -50,10 +63,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures typically carry minimal market impact unless they signal a coordinated shift in insider sentiment; without volume or price context, this remains an administrative filing with no immediate strategic implication for HHI's valuation.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into the company's operational performance but may signal individual confidence or lack thereof depending on the nature of the deal.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -74,11 +87,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/henderson-high-income-trust--hhi/portfolio-update/9807395",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Portfolio updates are standard operational disclosures for investment trusts that rarely move share prices unless they signal a drastic shift in strategy or significant performance deviation from peer benchmarks.",
+      "impact_score": 5,
+      "insight": "This announcement typically provides shareholders with a review of the investment portfolio's performance and strategy, which is standard for investment trusts but lacks specific directional indicators in the headline.",
       "key_themes": [
-        "investment trust",
-        "portfolio disclosure"
+        "Portfolio Update",
+        "Performance Review"
       ]
     },
     {
@@ -99,12 +112,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/henderson-high-income-trust--hhi/half-year-update/9775888",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a closed-end fund, this update primarily signals NAV performance relative to the discount/premium dynamics that drive HHI's valuation; in the current high-yield environment, any deviation from peer discounts or changes in leverage strategy will be closely scrutinised by income-focused investors.",
+      "impact_score": 5,
+      "insight": "This announcement provides a periodic performance review for shareholders, though the headline does not indicate whether the results are positive or negative.",
       "key_themes": [
-        "NAV Performance",
-        "Discount/Premium Dynamics",
-        "Income Trust"
+        "Results",
+        "Performance Update"
       ]
     },
     {
@@ -147,12 +159,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/henderson-high-income-trust--hhi/dividend-declaration/9654510",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a closed-end fund, the dividend declaration is the primary metric for investor returns, directly impacting yield attractiveness relative to rising gilt yields and peer discount/premium dynamics.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a standard dividend declaration, which is a routine corporate action for income-focused trusts. It confirms the distribution of profits to shareholders but does not indicate any strategic change or material financial event.",
       "key_themes": [
-        "yield",
-        "closed-end-fund",
-        "income"
+        "Dividend",
+        "Income"
       ]
     },
     {
@@ -162,11 +173,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/henderson-high-income-trust--hhi/portfolio-update/9650302",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine portfolio updates for closed-end funds typically offer limited alpha-generating signals compared to NAV discount movements or dividend policy changes; this is standard disclosure rather than a catalyst for re-rating.",
+      "impact_score": 5,
+      "insight": "This announcement typically provides shareholders with an update on the investment portfolio's performance and strategy. It serves as a periodic review rather than a material corporate action or financial result.",
       "key_themes": [
-        "Closed-End Fund",
-        "Portfolio Disclosure"
+        "Portfolio Update",
+        "Investment Review"
       ]
     },
     {

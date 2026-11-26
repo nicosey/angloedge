@@ -2,9 +2,37 @@
   "name": "Genedrive",
   "ticker": "GDR",
   "slug": "genedrive-gdr",
-  "announcement_count": 12,
-  "latest_announcement": "2026-10-12T07:00:00",
+  "announcement_count": 14,
+  "latest_announcement": "2026-11-25T12:16:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T12:16:00",
+      "category": "AGM/EGM",
+      "headline": "Annual Report and Accounts and date of AGM",
+      "url": "https://www.investegate.co.uk/announcement/rns/genedrive--gdr/annual-report-and-accounts-and-date-of-agm-/9893736",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Shareholders should note the AGM date following the November capital raise. This routine governance filing confirms meeting logistics for existing investors.",
+      "key_themes": [
+        "Governance",
+        "AGM"
+      ]
+    },
+    {
+      "timestamp": "2026-11-25T07:00:00",
+      "category": null,
+      "headline": "Direct Subscription to raise up to £1.23 million",
+      "url": "https://www.investegate.co.uk/announcement/rns/genedrive--gdr/direct-subscription-to-raise-up-to-1-23-million/9892190",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 6,
+      "insight": "This announcement signifies a capital raise through a direct subscription, which typically results in share dilution for existing shareholders. The specific financial impact and terms of the issuance are not detailed in the headline.",
+      "key_themes": [
+        "Capital raise",
+        "Dilution"
+      ]
+    },
     {
       "timestamp": "2026-10-12T07:00:00",
       "category": null,
@@ -13,10 +41,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "NIHR endorsement validates Genedrive's technology but represents a non-commercial PR milestone rather than immediate revenue generation; without concurrent NHS procurement contracts or commercial partnerships, the financial impact remains limited compared to direct sales updates.",
+      "insight": "This announcement indicates external recognition of the company's technology by a national health research body, which may serve as a validation of its capabilities but does not confirm commercial contracts or financial impact.",
       "key_themes": [
-        "Regulatory Validation",
-        "Public Sector Partnership"
+        "Validation",
+        "Partnership"
       ]
     },
     {
@@ -26,12 +54,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/genedrive--gdr/welsh-hospitals-extend-routine-mt-rnr1-testing/9764379",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement confirms the operational success of Genedrive's MT-RNR1 test in a major NHS region, validating its clinical utility and reimbursement pathway rather than signaling immediate revenue transformation. While it reinforces market confidence in the company's diagnostic platform amid growing interest in pharmacogenomics, it remains a routine commercial update without material financial impact.",
+      "impact_score": 2,
+      "insight": "This announcement concerns a policy change by Welsh hospitals rather than a direct operational update from Genedrive. Without explicit confirmation of a commercial contract or revenue impact in the headline, it serves as general industry news with no immediate bearing on shareholder value.",
       "key_themes": [
-        "NHS Adoption",
-        "Pharmacogenomics",
-        "Commercial Validation"
+        "Industry Update",
+        "Regulatory"
       ]
     },
     {
@@ -41,11 +68,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/genedrive--gdr/sharesoc-investor-presentation-reminder/9752918",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative reminder for an investor relations event hosted by ShareSoc, indicating no material corporate action or financial disclosure. Such events are routine engagement tools with negligible immediate impact on Genedrive's valuation or share price dynamics.",
+      "impact_score": 1,
+      "insight": "This announcement is an administrative reminder for a presentation by ShareSoc, which is an external organization rather than the company itself. It constitutes housekeeping or marketing material with no direct bearing on Genedrive's operational or financial status.",
       "key_themes": [
-        "Investor Relations",
-        "Administrative"
+        "Governance",
+        "Investor Relations"
       ]
     },
     {
@@ -55,11 +82,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/genedrive--gdr/board-appointments/9733060",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine board appointments for a micro-cap biotech like Genedrive signal administrative continuity rather than strategic pivot; without context on the appointees' track record in clinical development or regulatory affairs, this lacks the transformative catalyst required to move the stock.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the company's board composition, which is a standard governance update. While it may signal strategic shifts or new expertise, the headline provides no details on the individuals involved or their potential impact on shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "Micro-cap Biotech"
+        "Governance",
+        "Board change"
       ]
     },
     {
@@ -69,11 +96,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/genedrive--gdr/sharesoc-investor-presentation/9719092",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard compliance filing for an investor relations presentation by ShareSoc, lacking any material corporate action or financial data that would influence Genedrive's valuation.",
+      "impact_score": 1,
+      "insight": "This announcement appears to be a presentation by an external investor advocacy group rather than a corporate disclosure from the company itself. It likely contains no material information regarding the company's financial performance, strategy, or governance.",
       "key_themes": [
         "Investor Relations",
-        "Corporate Governance"
+        "External Communication"
       ]
     },
     {
@@ -83,11 +110,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/genedrive--gdr/completion-of-paloh-uk-patient-recruitment/9714394",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Completion of patient recruitment for PALOH-UK is a standard operational milestone in the clinical trial lifecycle, confirming execution progress but lacking immediate commercial catalysts. For Genedrive, this reduces near-term binary risk regarding trial timelines but does not yet signal revenue generation or regulatory approval.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a milestone in the development timeline for the named entity, indicating progress in clinical trials which is critical for biotech valuation. It suggests operational advancement but provides no information on financial impact or commercial outcomes.",
       "key_themes": [
         "Clinical Trials",
-        "Operational Update"
+        "Operational Progress"
       ]
     },
     {
@@ -97,11 +124,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/genedrive--gdr/mt-rnr1-test-implemented-in-the-netherlands/9702462",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This represents a standard commercial milestone in the Netherlands rather than a transformative regulatory approval; while it validates Genedrive's platform utility for hereditary cancer screening, it lacks the immediate revenue scale or UK NICE endorsement required to significantly alter the company's valuation trajectory.",
+      "impact_score": 2,
+      "insight": "This announcement appears to be a press release regarding an external event in the Netherlands rather than a material corporate action by the company itself. It likely represents marketing or partnership news with no immediate bearing on shareholder value.",
       "key_themes": [
-        "Commercial Expansion",
-        "Hereditary Cancer Screening"
+        "Partnership",
+        "International Expansion"
       ]
     },
     {
@@ -111,11 +138,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/genedrive--gdr/board-appointment/9666668",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine board appointment for a micro-cap biotech with limited commercial traction; lacks the transformative catalyst required to alter valuation multiples or signal immediate strategic pivot in the competitive UK life sciences sector.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the board composition, which is a standard governance event. Without further details on the appointee's background or role, it generally indicates routine administrative updates rather than immediate strategic shifts.",
       "key_themes": [
-        "Corporate Governance",
-        "Micro-cap Biotech"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -126,10 +153,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a low-impact regulatory mention rather than a company-specific catalyst; while it signals long-term NHS interest in pharmacogenomics, it does not indicate immediate revenue or contract wins for Genedrive.",
+      "insight": "This headline describes a statement by a government minister regarding pharmacogenetic testing rather than a specific corporate action by Genedrive. Consequently, it represents general industry commentary or marketing material with no direct bearing on the company's immediate financial position.",
       "key_themes": [
-        "regulatory_environment",
-        "pharmacogenomics"
+        "Regulatory",
+        "Industry Commentary"
       ]
     },
     {
@@ -139,11 +166,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/genedrive--gdr/board-change-/9645681",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine board changes in micro-cap biotech firms like Genedrive are common governance updates with negligible immediate financial impact, though they may signal internal restructuring ahead of potential funding rounds or clinical milestones.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the composition of the board of directors, which is a standard governance event. Such changes generally signify routine administrative updates rather than immediate strategic shifts or material financial impacts for shareholders.",
       "key_themes": [
-        "governance",
-        "micro-cap"
+        "Governance",
+        "Board change"
       ]
     },
     {
@@ -154,10 +181,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "Transitioning to BAU confirms operational stability but offers no immediate revenue acceleration or margin expansion catalysts for Genedrive's growth narrative.",
+      "insight": "This announcement concerns a transition to BAU by Manchester NHS Trust, which is an external entity rather than Genedrive itself. As it describes administrative housekeeping or operational status of another organization, it has no direct bearing on Genedrive's shareholders.",
       "key_themes": [
-        "Operational Update",
-        "NHS Procurement"
+        "Administrative",
+        "Operational Update"
       ]
     },
     {
@@ -168,11 +195,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard administrative receipt of R&D tax credits, providing marginal cash flow relief but no fundamental change to Genedrive's valuation or commercial trajectory in the competitive diagnostics sector.",
+      "insight": "This announcement indicates the receipt of a tax credit related to research and development activities, which typically provides a cash inflow but is generally considered an administrative or financial housekeeping matter rather than a strategic event.",
       "key_themes": [
-        "cash_flow",
-        "tax_credit",
-        "administrative"
+        "Tax",
+        "Cash flow",
+        "R&D"
       ]
     }
   ]

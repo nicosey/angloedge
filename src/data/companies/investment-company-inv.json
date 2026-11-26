@@ -70,11 +70,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/investment-company--inv/publication-of-september-2026-factsheet/9808824",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine publication of a monthly factsheet is an administrative disclosure with no material impact on valuation or strategy, typical for standard investment company reporting cycles.",
+      "impact_score": 3,
+      "insight": "This announcement signifies the release of periodic performance data to shareholders. It provides routine updates on the fund's status without indicating any immediate strategic changes or financial distress.",
       "key_themes": [
-        "Administrative",
-        "Reporting"
+        "Performance update",
+        "Investor relations"
       ]
     },
     {
@@ -213,12 +213,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/investment-company--inv/launch-of-retail-offer/9669250",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The launch of a retail offer for an investment company typically signals a strategic pivot to broaden the shareholder base and enhance liquidity, often preceding a potential premium valuation or structural change like a merger or split. In the current UK IC market, this aligns with the trend of managers seeking to stabilize NAV discounts through direct retail engagement rather than relying solely on institutional flows.",
+      "impact_score": 7,
+      "insight": "The launch of a retail offer typically signifies a capital raise, which can dilute existing shareholdings but may provide necessary funding for the company. This type of announcement is material to shareholders as it affects ownership percentages and future financial structure.",
       "key_themes": [
-        "capital_structure",
-        "retail_distribution",
-        "investment_company"
+        "Capital raise",
+        "Equity financing",
+        "Shareholder dilution"
       ]
     },
     {
@@ -228,11 +228,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/investment-company--inv/calculation-of-the-tender-price-and-issue-price/9668979",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative disclosure required for the mechanics of an ongoing tender offer, lacking any new strategic direction or material financial data that would alter investor sentiment.",
+      "impact_score": 5,
+      "insight": "This announcement provides essential pricing mechanics for a tender offer or share issuance, which directly determines the financial terms available to shareholders participating in the transaction.",
       "key_themes": [
-        "Corporate Action",
-        "Administrative"
+        "Capital raise",
+        "Shareholder action"
       ]
     },
     {
@@ -243,10 +243,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "The dual action of a tender offer and new equity issuance suggests active capital structure management to optimize the discount/premium dynamics typical of investment trusts, likely aimed at enhancing NAV per share or funding specific strategic shifts rather than indicating distress.",
+      "insight": "This announcement signifies the conclusion of a tender offer and a concurrent capital issuance, which typically results in changes to the shareholder register and share count. The specific financial implications for existing holders depend on the terms of the offer and the pricing of the new issue.",
       "key_themes": [
-        "capital management",
-        "NAV accretion"
+        "Capital raise",
+        "Tender offer",
+        "Shareholder action"
       ]
     },
     {
@@ -256,12 +257,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/investment-company--inv/placing-and-offer-for-subscription/9600728",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As an Investment Company, a placing and offer for subscription typically signals a strategic capital raise to fund new acquisitions or expand the portfolio, which is a standard growth mechanism in the sector but requires scrutiny of the discount/premium dynamics and the identity of the placing agent.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a capital raising activity through a placing and offer for subscription, which typically involves issuing new shares to raise funds. Such actions can lead to dilution of existing shareholdings while potentially providing the company with necessary liquidity or strategic resources.",
       "key_themes": [
-        "Capital Raise",
-        "Investment Company",
-        "Portfolio Expansion"
+        "Capital raise",
+        "Share dilution",
+        "Fundraising"
       ]
     }
   ]

@@ -2,9 +2,20 @@
   "name": "Jet2",
   "ticker": "JET2",
   "slug": "jet2-jet2",
-  "announcement_count": 17,
-  "latest_announcement": "2026-11-23T07:00:00",
+  "announcement_count": 18,
+  "latest_announcement": "2026-11-26T08:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T08:00:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/jet2--jet2/transaction-in-own-shares/9895292",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T07:00:00",
       "category": null,
@@ -23,11 +34,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/jet2--jet2/update-on-move-to-the-main-market/9866465",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory transition from the AIM to the Main Market, reflecting Jet2's growth and improved liquidity profile rather than a fundamental shift in business strategy or financial performance.",
+      "impact_score": 4,
+      "insight": "This announcement signifies a procedural update regarding the company's listing status on the stock exchange. It represents a standard administrative action that typically has minimal immediate financial impact on shareholder value.",
       "key_themes": [
-        "Regulatory Compliance",
-        "Market Listing"
+        "Corporate governance",
+        "Listing update"
       ]
     },
     {
@@ -114,11 +125,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/jet2--jet2/result-of-agm/9754691",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard post-AGM confirmation of shareholder resolutions with no new strategic directives or capital allocation changes, reflecting routine corporate governance rather than market-moving events.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or auditor appointments. It signifies standard corporate governance activity rather than a material change in the company's strategic or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Disclosure"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -176,10 +187,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory disclosure of individual director transactions which typically has negligible immediate impact on Jet2's valuation compared to broader consumer sentiment and fuel cost trends.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine compliance filings rather than significant corporate events. It generally signifies standard governance activity with limited immediate impact on shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -190,11 +201,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "This £250m buyback signals strong free cash flow generation and management confidence in Jet2's resilience against macro headwinds, distinguishing it from peers facing capacity constraints or higher financing costs.",
+      "insight": "This announcement signifies a commitment to returning capital to shareholders through a share buyback programme. Such actions typically indicate management confidence in the company's financial position and can support the share price by reducing the number of shares in circulation.",
       "key_themes": [
-        "capital return",
-        "cash flow strength",
-        "consumer discretionary"
+        "Share Buyback",
+        "Capital Return",
+        "Corporate Action"
       ]
     },
     {
@@ -204,12 +215,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/jet2--jet2/final-results/9657191",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Final results for a leisure travel operator are critical given the current high-interest-rate environment squeezing consumer discretionary spending and fuel costs; any deviation in guidance will signal demand elasticity shifts within the UK package holiday sector.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled final results for the company. The headline does not indicate whether the outcome is positive or negative, so it represents a standard reporting event rather than a specific directional catalyst.",
       "key_themes": [
-        "Consumer Discretionary",
-        "Leisure Travel",
-        "Interest Rate Sensitivity"
+        "Results"
       ]
     }
   ]

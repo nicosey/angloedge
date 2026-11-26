@@ -2,9 +2,23 @@
   "name": "Pathos Communications plc",
   "ticker": "NEWS",
   "slug": "pathos-communications-news",
-  "announcement_count": 14,
-  "latest_announcement": "2026-11-16T07:00:00",
+  "announcement_count": 15,
+  "latest_announcement": "2026-11-25T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T07:00:00",
+      "category": "Appointment",
+      "headline": "Appointment of Oberon Capital as Joint Broker",
+      "url": "https://www.investegate.co.uk/announcement/rns/pathos-communications-plc--news/appointment-of-oberon-capital-as-joint-broker/9892198",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the company's financial advisory arrangements, which may affect how the business is presented to the market and its ability to raise capital or pursue transactions. Such changes are routine governance updates that typically have limited immediate impact on shareholder value unless accompanied by specific strategic initiatives.",
+      "key_themes": [
+        "Governance",
+        "Corporate Finance"
+      ]
+    },
     {
       "timestamp": "2026-11-16T07:00:00",
       "category": "Acquisition",
@@ -13,10 +27,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "This acquisition aligns with Pathos' strategy to expand its digital media portfolio but represents a minor operational addition rather than a transformative shift in scale or revenue base.",
+      "insight": "This announcement signifies a strategic acquisition that may expand the company's content portfolio or audience reach. Shareholders should monitor subsequent disclosures for details on financial terms and integration plans to assess the potential value creation.",
       "key_themes": [
-        "Digital Media",
-        "Portfolio Expansion"
+        "Acquisition",
+        "Strategic expansion",
+        "Content growth"
       ]
     },
     {
@@ -26,11 +41,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/pathos-communications-plc--news/presenting-at-the-munich-capital-market-conference/9869858",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard investor relations activity with no immediate financial or strategic disclosure; while Munich offers access to continental capital, it does not alter the company's fundamental valuation or operational outlook.",
+      "impact_score": 3,
+      "insight": "This announcement indicates management is engaging in investor relations activities to communicate with the market, which generally serves to maintain visibility rather than signal immediate financial or strategic changes. It does not disclose specific operational updates, financial results, or corporate actions that would directly alter shareholder value.",
       "key_themes": [
         "Investor Relations",
-        "Capital Markets"
+        "Conference Presentation"
       ]
     },
     {
@@ -55,10 +70,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard PR accolade with no direct financial implication for Pathos Communications' valuation or operational performance. In the competitive UK media and comms sector, such awards serve primarily as brand-building exercises rather than indicators of material earnings growth.",
+      "insight": "This announcement represents a marketing accolade rather than a material financial event, indicating brand recognition but offering no direct insight into the company's operational performance or shareholder value.",
       "key_themes": [
-        "Corporate Communications",
-        "Brand Recognition"
+        "Marketing",
+        "Awards"
       ]
     },
     {
@@ -69,10 +84,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible signal for Pathos Communications' valuation compared to broader ad-tech market volatility and client retention metrics.",
+      "insight": "This announcement indicates that directors have engaged in transactions involving the company's shares, which is a routine regulatory disclosure. It generally signifies standard insider dealing compliance rather than a material event affecting shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "Low Impact"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -83,10 +98,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "Sponsorship of a trade event is a standard marketing expense with negligible financial impact on Pathos Communications' balance sheet or earnings, reflecting routine operational activity rather than strategic transformation.",
+      "insight": "This announcement appears to be a marketing or sponsorship disclosure with no immediate financial or strategic implications for shareholders.",
       "key_themes": [
-        "Corporate Communications",
-        "Marketing Expenditure"
+        "Marketing",
+        "Sponsorship"
       ]
     },
     {
@@ -96,11 +111,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/pathos-communications-plc--news/presentation-at-the-international-investment-forum/9805363",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard investor relations activity with no immediate financial or strategic catalysts; such presentations are routine for small-cap media firms and rarely move share price without accompanying material news.",
+      "impact_score": 3,
+      "insight": "This announcement indicates management is engaging in investor relations activities to communicate with the market. It generally signifies an effort to maintain visibility and dialogue with potential investors rather than a material corporate event.",
       "key_themes": [
-        "investor_relations",
-        "small_cap"
+        "Investor Relations",
+        "Corporate Communications"
       ]
     },
     {
@@ -110,11 +125,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/pathos-communications-plc--news/pathos-ft-s-fastest-growing-uk-marketing-company/9803049",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard corporate press release leveraging third-party recognition rather than disclosing material financial data or strategic shifts; while it signals market momentum, it lacks the substantive catalysts required for immediate price action.",
+      "impact_score": 2,
+      "insight": "This announcement appears to be a marketing press release rather than a substantive regulatory filing, offering no specific financial or operational details relevant to shareholder value.",
       "key_themes": [
-        "Corporate Communications",
-        "Brand Recognition"
+        "Marketing",
+        "Press Release"
       ]
     },
     {
@@ -124,11 +139,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/pathos-communications-plc--news/notice-of-interim-results-investor-presentation-/9752221",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a micro-cap with historically low liquidity, interim results serve as the primary catalyst for price discovery; however, without accompanying guidance or M&A speculation, this remains a routine compliance event rather than a transformative market mover.",
+      "impact_score": 5,
+      "insight": "This announcement indicates that the company is releasing its interim financial results and will provide an investor presentation, which typically offers shareholders insight into recent operational performance.",
       "key_themes": [
-        "Interim Results",
-        "Micro-cap Liquidity"
+        "Results",
+        "Investor Relations"
       ]
     },
     {
@@ -138,11 +153,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/pathos-communications-plc--news/record-trading-month-in-july-2026/9707355",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "A single-month trading update for a micro-cap publisher lacks the materiality to alter long-term valuation models; without context on revenue run-rate or margin expansion, this is likely routine operational noise rather than a signal of structural growth.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a scheduled trading update for the period ending in July 2026. Without specific performance metrics or directional guidance in the headline, it represents a routine operational disclosure rather than a material event.",
       "key_themes": [
         "Trading Update",
-        "Micro-cap Volatility"
+        "Operational Performance"
       ]
     },
     {
@@ -166,11 +181,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/pathos-communications-plc--news/pathos-ranks-25th-in-2025-emea-technology-fast-500/9600733",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This ranking serves as a positive brand-building exercise for Pathos Communications but lacks immediate financial quantification or material operational impact typical of higher-impact news.",
+      "impact_score": 2,
+      "insight": "This announcement is a marketing accolade that highlights industry recognition but does not provide specific financial data or operational details relevant to shareholder value. Such press releases generally serve to enhance brand visibility rather than indicate immediate commercial or financial developments.",
       "key_themes": [
-        "Brand Recognition",
-        "Growth Validation"
+        "Marketing",
+        "Industry Recognition"
       ]
     },
     {
@@ -180,11 +195,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/pathos-communications-plc--news/results-of-agm-/9595827",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the Annual General Meeting; it carries no intrinsic financial impact or strategic shift for Pathos Communications.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or statutory resolutions. It signifies standard corporate governance activity rather than a material change in the company's strategic or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -194,11 +209,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/pathos-communications-plc--news/pathos-to-attend-mellolondon-investor-conference/9590951",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard investor relations activity with no immediate financial or strategic catalysts; Pathos Communications operates in the niche advertising technology sector where visibility at conferences like MelloLondon is routine rather than transformative.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that the company is participating in an investor conference, which is a standard method for engaging with the market and raising visibility. It generally signifies routine investor relations activity rather than a material corporate event.",
       "key_themes": [
         "Investor Relations",
-        "Market Visibility"
+        "Conference"
       ]
     }
   ]

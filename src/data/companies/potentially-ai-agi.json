@@ -2,9 +2,23 @@
   "name": "Potentially AI Plc",
   "ticker": "AGI",
   "slug": "potentially-ai-agi",
-  "announcement_count": 19,
-  "latest_announcement": "2026-11-18T07:00:00",
+  "announcement_count": 20,
+  "latest_announcement": "2026-11-25T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T07:00:00",
+      "category": null,
+      "headline": "Interview with Lord Dominic Johnson",
+      "url": "https://www.investegate.co.uk/announcement/rns/potentially-ai-plc--agi/interview-with-lord-dominic-johnson/9892208",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement indicates a scheduled engagement or interview with a notable figure, which typically serves to raise awareness or discuss governance and strategy without immediate financial implications. It does not suggest any material change in the company's operational status or value.",
+      "key_themes": [
+        "Governance",
+        "Investor Relations"
+      ]
+    },
     {
       "timestamp": "2026-11-18T07:00:00",
       "category": null,
@@ -12,11 +26,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/potentially-ai-plc--agi/workspace-closed-beta-non-board-director/9880597",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "The announcement of a workspace closed beta is a standard operational milestone for AI infrastructure firms, offering limited near-term revenue visibility or valuation catalysts compared to commercial contracts. The non-board director appointment suggests routine governance expansion rather than strategic leadership shifts, resulting in minimal immediate market impact.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a product development milestone via a closed beta launch alongside a change in board composition. The combination suggests operational progress coupled with potential governance or strategic shifts within the leadership team.",
       "key_themes": [
-        "AI Infrastructure",
-        "Corporate Governance"
+        "Product Launch",
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -38,11 +53,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Beta releases for pre-revenue AI firms are standard marketing tactics to maintain retail interest rather than indicators of commercial viability; without revenue traction or enterprise contracts, this remains a speculative narrative play typical of the current UK AIM tech sector.",
+      "insight": "This announcement signifies a product development milestone involving a beta phase and public demonstration, which may provide early indicators of technical progress but lacks specific financial or operational metrics for shareholders.",
       "key_themes": [
-        "AI Hype",
-        "Product Development",
-        "Retail Speculation"
+        "Product Update",
+        "Beta Launch"
       ]
     },
     {
@@ -52,11 +66,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/potentially-ai-plc--agi/community-partnership-launch-operational-update-/9859152",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement reflects standard operational maintenance rather than a material catalyst for valuation; without disclosed financial metrics or strategic pivots, it lacks the transformative weight required to move the stock significantly.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a strategic partnership and operational progress, which may indicate business development but lacks specific financial or contractual details to assess immediate materiality.",
       "key_themes": [
-        "Operational Update",
-        "Corporate Governance"
+        "Partnership",
+        "Operational Update"
       ]
     },
     {
@@ -130,11 +144,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/potentially-ai-plc--agi/consumer-app-early-access-waitlist-reaches-25-000/9709676",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "A 25,000-person waitlist provides early validation of product-market fit but lacks the revenue visibility required for material valuation impact in the current AI valuation climate.",
+      "impact_score": 2,
+      "insight": "This announcement appears to be a marketing update regarding user interest in an early access phase, which typically carries limited immediate financial significance for shareholders.",
       "key_themes": [
-        "product-validation",
-        "early-stage-growth"
+        "Marketing",
+        "Product Launch"
       ]
     },
     {
@@ -145,10 +159,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard customer acquisition tactic for an early-stage AI software firm, indicating zero immediate revenue impact and highlighting the competitive pressure to lower barriers to entry in the crowded generative AI market.",
+      "insight": "This announcement signifies a promotional launch event involving free access to services, which typically serves as a marketing initiative rather than a fundamental change in financial performance or corporate structure. Shareholders should view this as an administrative or promotional update with limited immediate material impact on valuation.",
       "key_themes": [
-        "Customer Acquisition",
-        "SaaS Growth Strategy"
+        "Marketing",
+        "Product Launch",
+        "Corporate Update"
       ]
     },
     {
@@ -246,12 +261,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/potentially-ai-plc--agi/re-admission-to-aim-and-first-day-of-dealings/9664248",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Re-admission to AIM signals a strategic reset for AGI following its previous delisting, likely aimed at restoring liquidity and investor access after the company's restructuring; this move is critical for any future capital raising or M&A activity in the competitive AI infrastructure sector.",
+      "impact_score": 8,
+      "insight": "This announcement signifies a significant corporate event where shares are re-admitted to trading on the AIM market, marking the first day of dealings for investors. Such events typically involve substantial liquidity changes and heightened market visibility compared to private or suspended status.",
       "key_themes": [
-        "Corporate Restructuring",
-        "Liquidity Restoration",
-        "AIM Listing"
+        "New Listing",
+        "Market Access"
       ]
     }
   ]

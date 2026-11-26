@@ -2,9 +2,23 @@
   "name": "Sirius Real Estate Ltd.",
   "ticker": "SRE",
   "slug": "sirius-real-estate-sre",
-  "announcement_count": 26,
-  "latest_announcement": "2026-11-16T14:00:00",
+  "announcement_count": 27,
+  "latest_announcement": "2026-11-26T10:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T10:00:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/sirius-real-estate-ltd---sre/director-pdmr-shareholding/9895627",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Director shareholding notifications follow recent dividend and rating updates. Shareholders should monitor for further insider activity patterns.",
+      "key_themes": [
+        "Governance",
+        "Insider Dealing"
+      ]
+    },
     {
       "timestamp": "2026-11-16T14:00:00",
       "category": "Dividend",
@@ -12,12 +26,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/sirius-real-estate-ltd---sre/cash-dividend-offer-of-dividend-reinvestment-plan/9877675",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The offer of a Dividend Reinvestment Plan (DRIP) signals management's intent to retain capital for portfolio recycling or debt reduction rather than distributing cash, a common strategy in the UK REIT sector during periods of high interest rates and refinancing uncertainty.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a dividend declaration accompanied by an optional reinvestment plan, which is a standard capital distribution mechanism for shareholders. It allows investors to choose between receiving cash or acquiring additional shares, typically having a neutral to slightly positive impact on shareholder value depending on individual tax circumstances and investment preferences.",
       "key_themes": [
-        "Capital Retention",
-        "UK REIT Sector",
-        "Dividend Policy"
+        "Dividend",
+        "Capital return",
+        "Shareholder options"
       ]
     },
     {
@@ -38,11 +52,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/sirius-real-estate-ltd---sre/fitch-reaffirms-sirius-bbb-credit-rating/9823633",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard credit rating maintenance notification that confirms Sirius's BBB status but offers no new strategic catalysts; in the current UK REIT sector, such announcements are routine administrative updates rather than drivers of equity valuation.",
+      "impact_score": 4,
+      "insight": "This announcement signifies a stable credit profile, which generally supports financial credibility but lacks specific operational details to drive immediate share price movement. It serves as a routine confirmation of existing ratings rather than a new strategic development.",
       "key_themes": [
-        "Credit Rating",
-        "Administrative"
+        "Credit rating",
+        "Finance"
       ]
     },
     {
@@ -52,12 +66,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/sirius-real-estate-ltd---sre/trading-update/9805307",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a major UK listed property owner, Sirius's trading update provides critical visibility into the resilience of its retail and leisure assets amid persistent high interest rates and shifting consumer spending patterns, serving as a bellwether for the broader real estate sector's valuation recovery.",
+      "impact_score": 5,
+      "insight": "A trading update provides shareholders with an interim assessment of the company's performance but does not indicate the direction or magnitude of results from the headline alone.",
       "key_themes": [
-        "UK Property",
-        "Retail Resilience",
-        "Interest Rate Sensitivity"
+        "Trading Update",
+        "Performance"
       ]
     },
     {
@@ -93,10 +106,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements in the UK REIT sector are standard regulatory disclosures with negligible immediate price impact unless accompanied by unusual volume or context suggesting insider sentiment shifts.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with responsibility for managing the company rather than significant strategic shifts. Such disclosures are generally considered low-impact administrative housekeeping for shareholders.",
       "key_themes": [
-        "regulatory-compliance",
-        "low-impact"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -121,10 +134,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements in the UK REIT sector are typically administrative disclosures with negligible immediate price impact unless accompanied by unusual volume or context suggesting insider sentiment shifts.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into corporate strategy but confirms insider ownership changes.",
       "key_themes": [
         "Director Dealing",
-        "Administrative"
+        "Governance"
       ]
     },
     {
@@ -134,11 +147,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/sirius-real-estate-ltd---sre/results-of-dividend-reinvestment-plan/9722647",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a standard administrative update regarding the mechanics of a DRP rather than a substantive corporate event; in the current high-rate UK property environment, such plans are often under-subscribed or irrelevant due to share price discounts to NAV.",
+      "impact_score": 4,
+      "insight": "This announcement confirms the operational outcome of a dividend reinvestment plan, indicating how many new shares were issued to participating shareholders. It serves as an administrative update on capital allocation rather than a strategic shift or financial performance indicator.",
       "key_themes": [
-        "Corporate Action",
-        "Capital Management"
+        "Dividend",
+        "Capital allocation",
+        "Shareholder action"
       ]
     },
     {
@@ -148,10 +162,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/sirius-real-estate-ltd---sre/dealing-in-securities-/9721268",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing for individual director transactions, which carries negligible market impact compared to institutional flows or corporate strategy shifts in the UK REIT sector.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that directors or substantial shareholders have bought or sold shares in the company. Such dealings are routine administrative disclosures and typically carry minimal immediate impact on the company's operational outlook or share price.",
       "key_themes": [
-        "Corporate Governance",
+        "Director Dealings",
         "Insider Activity"
       ]
     },
@@ -163,10 +177,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard PDMR notification lacking volume context suggests routine personal liquidity management rather than a significant signal of insider conviction or divergence in UK real estate sentiment.",
+      "insight": "This announcement indicates a transaction by a person discharging managerial responsibilities, which is a routine regulatory disclosure. It generally signifies standard compliance activity rather than a significant strategic shift for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -177,10 +191,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Sirius Real Estate's valuation or strategy, reflecting normal liquidity management rather than a signal of insider sentiment.",
+      "insight": "This announcement relates to director dealings, which typically signifies routine compliance reporting rather than a significant strategic event for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -191,10 +205,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Sirius Real Estate's valuation or operational trajectory, reflecting normal insider activity rather than a strategic shift in the UK property sector.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that confirm insider trading activity but do not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -205,10 +219,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements typically carry minimal market impact unless accompanied by unusual volume or context; without details on the nature of the transaction (buy/sell) or size, this is classified as standard administrative disclosure.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that confirm compliance with insider dealing regulations rather than signaling specific strategic changes.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -258,10 +272,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory disclosure of individual director transactions which provides minimal signal regarding corporate strategy or fundamental value; in the current UK REIT sector, such isolated deals are often noise rather than indicative of broader institutional sentiment shifts.",
+      "insight": "This announcement indicates that individuals with senior management responsibilities have executed transactions in the company's shares. Such filings are routine regulatory disclosures that provide transparency into insider activity but do not inherently signal a change in corporate strategy or performance.",
       "key_themes": [
-        "PDMR Dealing",
-        "Low Impact"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -271,11 +285,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/sirius-real-estate-ltd---sre/result-of-annual-general-meeting/9654615",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine AGM results typically confirm shareholder approval of standard governance matters rather than signaling strategic shifts; in the current UK REIT landscape, such announcements are administrative by nature unless they reveal unexpected dissent on executive pay or strategy.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of shareholder votes held at the Annual General Meeting, which typically involves routine governance matters such as director reappointments or auditor appointments.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder vote"
       ]
     },
     {
@@ -311,10 +325,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of a Person Controlling an Announcements obligation (PCA) transaction, likely reflecting routine portfolio rebalancing or liquidity management rather than a strategic shift. In the current UK REIT sector, such filings are common administrative events that rarely signal immediate directional change without accompanying commentary on valuation or asset disposal.",
+      "insight": "This announcement indicates that a person close to a director has executed a transaction involving the company's shares. Such filings are routine regulatory disclosures that confirm compliance with insider dealing rules rather than signaling any immediate change in corporate strategy or value.",
       "key_themes": [
-        "Regulatory Compliance",
-        "Routine Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -324,11 +338,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/sirius-real-estate-ltd---sre/annual-report-and-notice-of-annual-general-meeting/9600257",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine administrative filing for UK REITs; while critical for maintaining tax status and shareholder approval of director remuneration, it carries no immediate price-sensitive catalyst compared to quarterly portfolio updates or financing announcements.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a scheduled governance event where shareholders will review annual performance and vote on routine matters. It generally serves as an administrative update rather than a catalyst for immediate strategic change or financial revaluation.",
       "key_themes": [
-        "Corporate Governance",
-        "REIT Compliance"
+        "Governance",
+        "Annual Report",
+        "Shareholder Meeting"
       ]
     },
     {
@@ -338,12 +353,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/sirius-real-estate-ltd---sre/cash-dividend-offer-of-dividend-reinvestment-plan/9595398",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The introduction of a DRP signals management's confidence in long-term cash flow stability within the UK property sector, aiming to retain capital for reinvestment rather than distributing it, which is a strategic differentiator in a high-interest-rate environment.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a dividend declaration accompanied by an optional reinvestment plan, which is a standard capital distribution mechanism for shareholders. It signifies routine income policy rather than a transformative corporate event.",
       "key_themes": [
-        "capital retention",
-        "dividend policy",
-        "UK real estate"
+        "Dividend",
+        "Capital return"
       ]
     },
     {
@@ -353,12 +367,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/sirius-real-estate-ltd---sre/changes-to-the-board-and-to-the-audit-committee-/9585682",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Board changes in the UK REIT sector often signal underlying governance friction or strategic pivots during periods of high interest rates and asset repricing; while routine on its face, such shifts at Sirius Real Estate warrant scrutiny regarding potential leadership instability or strategic realignment amidst a challenging property market.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the composition of the board and its audit committee, which is a standard governance update. Such changes generally reflect routine administrative adjustments or succession planning rather than immediate strategic shifts.",
       "key_themes": [
         "Governance",
-        "Leadership Change",
-        "UK REIT"
+        "Board Change"
       ]
     }
   ]

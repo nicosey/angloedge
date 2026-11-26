@@ -57,10 +57,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on share price dynamics or valuation, reflecting normal liquidity management rather than strategic shifts.",
+      "insight": "This announcement discloses share transactions by a person discharging managerial responsibilities, which is a routine regulatory filing. It provides transparency into insider activity but does not inherently signal a change in the company's strategic direction or financial performance.",
       "key_themes": [
-        "regulatory compliance",
-        "minor administrative"
+        "Governance",
+        "Insider Dealing"
       ]
     },
     {
@@ -70,12 +70,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/everplay-group-plc--evpl/wardogs-passes-one-million-copies-sold/9766711",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Reaching one million copies sold validates Everplay's 'games-as-a-service' pivot and demonstrates product-market fit in a competitive mobile market, though the financial impact depends on conversion rates to recurring revenue rather than just downloads.",
+      "impact_score": 2,
+      "insight": "This headline reports a milestone achieved by an external entity named Wardogs, which is not identified as the company itself. Consequently, this appears to be marketing material or news about another organization with no direct bearing on Everplay Group plc's shareholders.",
       "key_themes": [
-        "product_validation",
-        "mobile_gaming",
-        "revenue_momentum"
+        "Marketing",
+        "External News"
       ]
     },
     {
@@ -85,12 +84,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/everplay-group-plc--evpl/notice-of-interim-results-investor-presentation/9716760",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a small-cap gaming publisher, Everplay's interim results are critical for validating its pivot to mobile-first monetisation and assessing cash burn rates in a competitive sector where user acquisition costs remain elevated.",
+      "impact_score": 5,
+      "insight": "This announcement indicates that the company is releasing its interim financial results alongside an investor presentation, which provides shareholders with scheduled updates on recent performance and strategic outlook.",
       "key_themes": [
-        "interim results",
-        "mobile gaming",
-        "small cap"
+        "Results",
+        "Investor Relations"
       ]
     },
     {
@@ -134,10 +132,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory disclosure of director shareholding changes, which is routine administrative noise in the UK equity markets and lacks the strategic weight of M&A or capital raises.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals in charge of managing the company rather than significant strategic shifts. Such disclosures are standard governance requirements and generally carry low immediate impact on shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     }
   ]

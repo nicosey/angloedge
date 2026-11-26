@@ -26,11 +26,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/metals-one--met1/update-re-barbrook-business-rescue-plan/9818879",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Barbrook's entry into business rescue signals severe liquidity distress within the UK waste management sector, raising counterparty risk for MET1 and potentially triggering contract renegotiations or write-downs given the industry's reliance on long-term operational stability.",
+      "impact_score": 8,
+      "insight": "This update concerns a business rescue plan, which typically indicates significant financial distress and potential insolvency proceedings that could severely dilute or wipe out existing equity value.",
       "key_themes": [
-        "counterparty_risk",
-        "sector_distress"
+        "Business Rescue",
+        "Insolvency",
+        "Corporate Action"
       ]
     },
     {
@@ -40,12 +41,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/metals-one--met1/adviser-appointments-atm-facility/9804438",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "The appointment of advisers and establishment of an ATM facility signals a likely capital raise to fund exploration or development, a common but dilutive necessity for junior miners in the current high-interest-rate environment.",
+      "impact_score": 6,
+      "insight": "The appointment of advisers and establishment of an ATM facility typically signals a potential capital raise or strategic transaction, which may lead to share dilution. This type of board-level change often precedes significant corporate actions that could impact shareholder value.",
       "key_themes": [
         "Capital Raise",
-        "Junior Mining",
-        "Dilution Risk"
+        "Governance",
+        "Corporate Action"
       ]
     },
     {
@@ -68,12 +69,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/metals-one--met1/updates-re-barbrook-business-rescue-plan/9758912",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Barbrook's business rescue plan signals severe liquidity distress and potential equity dilution or write-downs, reflecting the broader fragility in the UK small-cap mining sector amid high financing costs.",
+      "impact_score": 8,
+      "insight": "This announcement indicates a formal business rescue process is underway for a significant part of the group, which typically signals severe financial distress and high uncertainty regarding the survival of the affected operations. Shareholders should anticipate potential dilution, loss of value in the distressed assets, or changes to the corporate structure.",
       "key_themes": [
-        "business rescue",
-        "liquidity risk",
-        "equity dilution"
+        "Business Rescue",
+        "Insolvency",
+        "Corporate Restructuring"
       ]
     },
     {
@@ -83,12 +84,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/metals-one--met1/-4-0m-funding-issue-of-warrants-change-of-nomad/9755177",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The £4.0m raise provides essential liquidity for a junior explorer but highlights the dilution risks inherent in small-cap mining finance; the NOMAD change may signal a strategic shift or dissatisfaction with current advisory support.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a capital raise accompanied by the issuance of warrants, which typically dilutes existing shareholding and may indicate financial restructuring. The change of NOMAD suggests a significant shift in regulatory oversight or corporate governance structure.",
       "key_themes": [
-        "Capital Raise",
-        "NOMAD Change",
-        "Dilution"
+        "Capital raise",
+        "Warrants",
+        "Governance"
       ]
     },
     {
@@ -99,10 +100,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "As a junior explorer, this update likely represents incremental technical data rather than a commercial catalyst; without disclosed resource estimates or financing, the market will view this as low-impact noise amidst broader commodity price volatility.",
+      "insight": "This update likely provides progress on exploration or development activities for specific projects, which is routine for companies in this sector. Without details on results or financial implications, the immediate impact on shareholder value is limited.",
       "key_themes": [
-        "exploration_update",
-        "gold_sector"
+        "Project Update",
+        "Exploration"
       ]
     },
     {

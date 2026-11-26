@@ -2,9 +2,24 @@
   "name": "EJF Investments Ltd NPV",
   "ticker": "EJFI",
   "slug": "ejf-investments-ejfi",
-  "announcement_count": 10,
-  "latest_announcement": "2026-10-28T09:42:00",
+  "announcement_count": 11,
+  "latest_announcement": "2026-11-25T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T07:00:00",
+      "category": null,
+      "headline": "Preferred Share Offering",
+      "url": "https://www.investegate.co.uk/announcement/rns/ejf-investments-ltd-npv--ejfi/preferred-share-offering/9892192",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "This announcement signifies a capital raise through the issuance of preferred shares, which typically dilutes existing equity holders and may introduce new rights or obligations. It represents a material financial event that could alter the company's capital structure and shareholder value.",
+      "key_themes": [
+        "Capital raise",
+        "Equity dilution",
+        "Corporate finance"
+      ]
+    },
     {
       "timestamp": "2026-10-28T09:42:00",
       "category": null,
@@ -26,11 +41,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ejf-investments-ltd-npv--ejfi/directorate-change/9755158",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine administrative update regarding board composition for a small-cap investment trust; without details on the appointee's background or specific mandate, this lacks immediate strategic weight compared to major capital events.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the board composition, which is a standard governance event that may influence strategic oversight but does not inherently signal immediate financial or operational shifts without further detail.",
       "key_themes": [
-        "corporate_governance",
-        "small_cap"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -54,8 +69,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Cessation of reinvestment signals a shift from aggressive growth to capital preservation, likely reflecting a lack of attractive investment opportunities or a desire to return cash to shareholders via dividends/buybacks rather than dilutive issuance.",
-      "key_themes": []
+      "insight": "This announcement indicates a change in the investment management strategy regarding reinvestment, which may affect the fund's growth trajectory and income distribution for shareholders.",
+      "key_themes": [
+        "Investment Policy",
+        "Fund Management"
+      ]
     },
     {
       "timestamp": "2026-07-27T07:00:00",
@@ -78,11 +96,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ejf-investments-ltd-npv--ejfi/recent-investment-announcement/9664006",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "The vague headline 'Recent Investment Announcement' without disclosed figures or asset details suggests a minor portfolio adjustment typical of small-cap investment trusts, lacking the materiality to drive significant valuation re-rating.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a new investment activity by the company, which may signal strategic expansion or portfolio adjustment but lacks specific details regarding size or impact.",
       "key_themes": [
-        "portfolio_activity",
-        "low_materiality"
+        "Investment",
+        "Corporate Action"
       ]
     },
     {

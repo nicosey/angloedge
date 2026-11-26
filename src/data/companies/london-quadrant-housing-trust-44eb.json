@@ -2,23 +2,33 @@
   "name": "LONDON & QUADRANT HOUSING TRUST",
   "ticker": "44EB",
   "slug": "london-quadrant-housing-trust-44eb",
-  "announcement_count": 6,
-  "latest_announcement": "2026-11-12T15:16:00",
+  "announcement_count": 7,
+  "latest_announcement": "2026-11-25T14:10:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T14:10:00",
+      "category": "Appointment",
+      "headline": "Board Appointments",
+      "url": "https://www.investegate.co.uk/announcement/rns/london-quadrant-housing-trust--44eb/board-appointments/9894000",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "Board appointments follow the Group Board change in September. Shareholders should monitor governance implications.",
+      "key_themes": [
+        "Governance",
+        "Board Change"
+      ]
+    },
     {
       "timestamp": "2026-11-12T15:16:00",
       "category": null,
       "headline": "EMTN Programme Update",
       "url": "https://www.investegate.co.uk/announcement/rns/london-quadrant-housing-trust--44eb/emtn-programme-update-/9873145",
-      "routine_type": null,
-      "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative update regarding the issuance framework for London & Quadrant Housing Trust's debt instruments, indicating no immediate change in capital structure or strategic direction. Such announcements are routine for housing associations to maintain liquidity and funding flexibility without signaling specific market-moving events.",
-      "key_themes": [
-        "Corporate Finance",
-        "Debt Issuance",
-        "Housing Sector"
-      ]
+      "routine_type": "Debt Notices",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-11-06T09:00:00",
@@ -27,12 +37,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/london-quadrant-housing-trust--44eb/q2-trading-statement/9862598",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a listed social housing REIT, this update provides critical visibility into rental growth trajectories and void rates amidst the current cost-of-living crisis, directly influencing dividend sustainability assessments for income-focused investors.",
+      "impact_score": 5,
+      "insight": "This trading update provides periodic performance information for shareholders, but the headline does not indicate whether the results are positive or negative.",
       "key_themes": [
-        "Rental Growth",
-        "Dividend Outlook",
-        "Social Housing Sector"
+        "Trading Update",
+        "Financial Results"
       ]
     },
     {
@@ -56,11 +65,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/london-quadrant-housing-trust--44eb/q1-trading-statement/9711038",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "As a private registered provider of social housing, L&Q's Q1 update lacks the public market liquidity and volatility drivers typical of listed equities; such updates are primarily for regulatory compliance and stakeholder assurance rather than price discovery.",
+      "impact_score": 5,
+      "insight": "This announcement provides a scheduled update on the company's operational performance for the first quarter, allowing shareholders to assess current progress against expectations.",
       "key_themes": [
-        "Social Housing",
-        "Regulatory Compliance"
+        "Trading Update",
+        "Results"
       ]
     },
     {
@@ -70,11 +79,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/london-quadrant-housing-trust--44eb/l-q-doubles-resident-representation-on-group-board/9700778",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a governance adjustment within a private housing association, not a listed equity event; it has zero direct financial impact on L&Q's capital structure or valuation.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in board composition regarding resident representation, which is a governance matter. Such structural adjustments typically have limited immediate financial impact but signal ongoing compliance or stakeholder engagement efforts.",
       "key_themes": [
         "Governance",
-        "Private Sector"
+        "Board Change"
       ]
     },
     {
@@ -84,11 +93,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/london-quadrant-housing-trust--44eb/sale-of-l-q-prs-co-ltd-to-msrei-for-1-045m/9621428",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This £1.045bn disposal represents a significant portfolio exit for L&Q, likely reflecting the ongoing pressure on social housing providers to monetize PRS assets to fund new build targets and manage balance sheets amid rising interest rates.",
+      "impact_score": 8,
+      "insight": "This headline indicates a formal sale process involving a significant disposal of assets or business units. Such material divestments typically represent a strategic shift and a substantial realization of value for shareholders.",
       "key_themes": [
-        "Portfolio Rationalization",
-        "PRS Market Liquidity"
+        "Asset disposal",
+        "Strategic review"
       ]
     }
   ]

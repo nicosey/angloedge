@@ -56,10 +56,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements in the small-cap mining sector typically carry minimal immediate market impact unless accompanied by unusual volume or timing relative to price action; without specific deal details, this is classified as administrative.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities rather than significant corporate events.",
       "key_themes": [
-        "Corporate Governance",
-        "Small Cap Mining"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -81,10 +81,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible pricing impact for DGQ given its micro-cap status and low liquidity; lacks the scale or strategic weight to influence market sentiment.",
+      "insight": "This announcement indicates that a director has exercised warrants to acquire shares, which is a standard corporate action reflecting individual investment decisions rather than a strategic shift for the company.",
       "key_themes": [
-        "Corporate Governance",
-        "Low Impact"
+        "Director Dealing",
+        "Warrant Exercise"
       ]
     },
     {
@@ -117,10 +117,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements in the speculative mining sector typically carry negligible fundamental weight unless accompanied by large-scale insider buying or selling; without volume or price context, this remains an administrative disclosure with no immediate strategic implication for DGQ's valuation.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with significant roles rather than major corporate events. Such filings generally have limited immediate impact on shareholder value unless they signal a broader strategic shift.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -131,10 +131,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory disclosure of director shareholding changes, which is routine administrative noise in the absence of significant volume or unusual timing relative to price action.",
+      "insight": "This announcement relates to director dealings, which is typically considered a minor event for shareholders unless it involves significant volume or unusual patterns not evident from the headline alone.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -145,10 +145,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements in the speculative mining sector typically carry minimal market-moving weight unless accompanied by significant volume or insider trading patterns, which are not indicated here.",
+      "insight": "This announcement relates to director shareholdings, which typically signifies routine regulatory disclosure of insider transactions rather than a material corporate event. Such filings provide transparency regarding individual director positions but generally carry low immediate impact on the company's operational outlook or valuation.",
       "key_themes": [
-        "Corporate Governance",
-        "Minor Administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -158,11 +158,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/delta-gold-technologies-plc--dgq/delta-gold-technologies-shares-available-to-b-/9594081",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Listing on the Frankfurt Stock Exchange is a standard liquidity expansion tactic for AIM-listed small caps seeking European institutional exposure, but it carries minimal fundamental weight compared to operational milestones or capital raises.",
+      "impact_score": 4,
+      "insight": "This announcement indicates that shares are now available for purchase on the Frankfurt Stock Exchange, suggesting a listing expansion or secondary market access. It represents a structural change to share availability rather than an operational or financial event.",
       "key_themes": [
-        "market_expansion",
-        "liquidity"
+        "Listing",
+        "Market Access"
       ]
     }
   ]

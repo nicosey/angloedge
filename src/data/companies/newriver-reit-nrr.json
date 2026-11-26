@@ -2,9 +2,36 @@
   "name": "NewRiver REIT",
   "ticker": "NRR",
   "slug": "newriver-reit-nrr",
-  "announcement_count": 14,
-  "latest_announcement": "2026-11-24T07:00:00",
+  "announcement_count": 16,
+  "latest_announcement": "2026-11-26T15:52:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T15:52:00",
+      "category": "Dividend",
+      "headline": "Dividend Declaration",
+      "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/dividend-declaration/9896411",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "NewRiver REIT declares a dividend following its September 2026 results. This follows the July board appointments and August scrip allotment.",
+      "key_themes": [
+        "Dividend",
+        "Governance"
+      ]
+    },
+    {
+      "timestamp": "2026-11-25T07:00:00",
+      "category": "Results",
+      "headline": "Results for the period ended 30 September 2026",
+      "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/results-for-the-period-ended-30-september-2026/9892163",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled financial results for the specified period, which is a standard regulatory requirement for listed companies. The headline does not indicate the direction or magnitude of the performance, so the impact on shareholders depends entirely on the undisclosed content.",
+      "key_themes": [
+        "Results"
+      ]
+    },
     {
       "timestamp": "2026-11-24T07:00:00",
       "category": null,
@@ -46,10 +73,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard administrative notice confirming the publication date of results rather than disclosing financial data itself; for NewRiver REIT, market focus will remain on its ongoing transition to a growth-oriented portfolio and execution of its strategic reset.",
+      "insight": "This headline indicates a scheduled results announcement, which is a routine update for shareholders regarding the company's financial performance. The specific direction or magnitude of the results is not disclosed in the headline.",
       "key_themes": [
-        "Administrative",
-        "REIT Sector"
+        "Results",
+        "Scheduled Update"
       ]
     },
     {
@@ -71,10 +98,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on share price or capital structure, reflecting individual portfolio management rather than corporate strategy shifts.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine changes in shareholding by individuals with senior management responsibilities. Such disclosures are standard governance requirements and generally carry limited immediate impact on shareholder value unless they signal a significant shift in insider sentiment.",
       "key_themes": [
-        "regulatory compliance",
-        "minor administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -96,10 +123,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard administrative allotment of shares under the existing scrip dividend facility, indicating no new capital raise or strategic shift. While it confirms shareholder preference for reinvestment over cash, it has negligible immediate impact on NewRiver's liquidity or valuation compared to core operational metrics.",
+      "insight": "This announcement signifies the issuance of new shares to shareholders who have elected to receive their dividend in stock rather than cash. It represents a minor capital action that may result in slight dilution for those not participating while providing an alternative income method for others.",
       "key_themes": [
-        "Corporate Action",
-        "Capital Structure"
+        "Dividend",
+        "Capital raise",
+        "Corporate action"
       ]
     },
     {
@@ -151,12 +179,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/dividend-declaration-scrip-dividend-scheme/9604515",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The introduction of a scrip dividend scheme is a strategic capital management move typical for UK REITs to preserve cash during high-interest rate environments, though it may signal limited organic growth opportunities or a desire to avoid dilutive equity raises.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a dividend declaration accompanied by a scrip dividend scheme, which allows shareholders to elect for new shares instead of cash. This type of corporate action generally signifies a method for capital retention and potential share dilution rather than a fundamental change in business operations.",
       "key_themes": [
-        "Capital Allocation",
-        "Cash Preservation",
-        "REIT Sector Strategy"
+        "Dividend",
+        "Capital allocation"
       ]
     },
     {
@@ -166,12 +193,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/preliminary-results-for-year-ended-31-march-2026/9596006",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a major UK listed REIT, NewRiver's annual results are critical for assessing exposure to the distressed retail and logistics sectors amid rising interest rates and economic uncertainty, directly influencing dividend sustainability and NAV estimates.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled annual financial results for the company. It provides shareholders with the official performance data for the specified fiscal year but does not indicate the direction or magnitude of the outcome.",
       "key_themes": [
-        "REIT Results",
-        "UK Property",
-        "Dividend Outlook"
+        "Results"
       ]
     },
     {
@@ -181,12 +206,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/full-year-results-details-investor-presentation/9594214",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Full year results for a UK REIT are standard periodic disclosures that typically confirm dividend sustainability and portfolio performance rather than signaling immediate strategic shifts, though they provide critical data for yield-seeking investors in the current high-rate environment.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled full-year financial results and an accompanying investor presentation, which are routine updates for shareholders.",
       "key_themes": [
-        "UK REIT",
-        "Dividend Yield",
-        "Portfolio Performance"
+        "Results",
+        "Investor Relations"
       ]
     }
   ]

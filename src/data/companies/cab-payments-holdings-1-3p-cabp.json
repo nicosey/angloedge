@@ -2,9 +2,31 @@
   "name": "CAB Payments Holdings 1/3P (WI)",
   "ticker": "CABP",
   "slug": "cab-payments-holdings-1-3p-cabp",
-  "announcement_count": 5,
-  "latest_announcement": "2026-11-24T11:56:00",
+  "announcement_count": 7,
+  "latest_announcement": "2026-11-26T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T07:00:00",
+      "category": null,
+      "headline": "Form 8 - CAB Payments Holdings plc",
+      "url": "https://www.investegate.co.uk/announcement/rns/cab-payments-holdings-1-3p-wi---cabp/form-8-cab-payments-holdings-plc/9894430",
+      "routine_type": "Form 8 Disclosure",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-25T11:51:00",
+      "category": null,
+      "headline": "Form 8 - CAB Payments Holdings plc",
+      "url": "https://www.investegate.co.uk/announcement/rns/cab-payments-holdings-1-3p-wi---cabp/form-8-cab-payments-holdings-plc/9893682",
+      "routine_type": "Form 8 Disclosure",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-24T11:56:00",
       "category": null,
@@ -54,11 +76,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/cab-payments-holdings-1-3p-wi---cabp/response-to-helios-consortium-announcement/9720842",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a defensive administrative response to activist pressure rather than a fundamental operational update; CABP's history of resisting Helios suggests the status quo will likely persist without a negotiated settlement.",
+      "impact_score": 8,
+      "insight": "This announcement indicates a formal response to an external consortium, suggesting a potential offer, sale process, or strategic review that could significantly alter the company's ownership or direction.",
       "key_themes": [
-        "Activist Investor",
-        "Corporate Governance"
+        "M&A",
+        "Corporate Action"
       ]
     },
     {
@@ -68,11 +90,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/cab-payments-holdings-1-3p-wi---cabp/board-update/9707478",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine board updates for CABP typically signal administrative continuity rather than strategic shifts; without details on significant leadership changes or capital allocation, the market impact is likely muted given the stock's low liquidity and niche payment processing sector.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a board change, which is typically classified as a standard governance update. Without specific details on the nature of the appointment or its strategic implications, it represents a routine administrative event for shareholders.",
       "key_themes": [
-        "corporate_governance",
-        "low_liquidity"
+        "Governance",
+        "Board Change"
       ]
     }
   ]

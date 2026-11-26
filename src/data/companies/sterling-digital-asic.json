@@ -12,11 +12,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/sterling-digital-plc--asic/west-texas-mining-site-fully-operational-/9878221",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement reflects operational progress for a micro-cap entity with negligible market capitalization, offering no material financial impact or sector-wide precedent despite the headline's mining context.",
+      "impact_score": 1,
+      "insight": "The headline references a 'West Texas Mining Site', which is geographically inconsistent with the company name 'Sterling Digital Plc' and suggests this announcement may relate to an unrelated third party or be misattributed. Without confirmation of operational relevance to Sterling Digital, this appears to be administrative housekeeping or irrelevant press material.",
       "key_themes": [
-        "operational_update",
-        "micro_cap"
+        "Operational Update",
+        "Geographic Mismatch"
       ]
     },
     {
@@ -27,10 +27,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Site commissioning is a standard operational milestone for digital infrastructure developers, indicating progress in asset readiness rather than immediate revenue generation; while it validates the project pipeline, it lacks the transformative financial impact of M&A or major capital raises.",
+      "insight": "This announcement indicates a procedural step in the development or operational phase of an asset, which is typical for ongoing project execution. It suggests progress but lacks specific details on financial impact or timeline that would significantly alter shareholder valuation.",
       "key_themes": [
-        "Operational Progress",
-        "Infrastructure Development"
+        "Operational Update",
+        "Project Progress"
       ]
     },
     {
@@ -56,10 +56,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine administrative disclosures regarding director dealings and equipment purchases indicate standard corporate governance compliance rather than significant strategic shifts or insider sentiment signals.",
+      "insight": "This announcement primarily concerns director dealings, which typically have a low direct impact on shareholder value unless they signal significant insider sentiment shifts. The inclusion of subscription and RPT details suggests additional corporate actions that require monitoring for potential dilution or related-party risks.",
       "key_themes": [
-        "Corporate Governance",
-        "Minor Administrative"
+        "Director Dealings",
+        "Related Party Transaction",
+        "Capital Raise"
       ]
     },
     {
@@ -69,11 +70,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/sterling-digital-plc--asic/installation-works-commence-at-west-texas-site-/9614832",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard operational update confirming construction progress for the West Texas facility, lacking any immediate financial metrics or revenue guidance that would alter valuation models.",
+      "impact_score": 3,
+      "insight": "This announcement indicates operational progress at a specific site, which may signal execution of business activities but lacks details on financial impact or scale. Without further context, it represents routine operational development rather than a material event for shareholders.",
       "key_themes": [
-        "Infrastructure Development",
-        "Operational Update"
+        "Operational Update",
+        "Infrastructure"
       ]
     },
     {
@@ -83,11 +84,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/sterling-digital-plc--asic/entry-into-gas-purchase-agreement-/9605501",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "The announcement of a gas purchase agreement is operationally significant for Sterling Digital's data centre infrastructure but lacks the transformative financial weight of M&A or major capital raises, reflecting standard supply chain management rather than strategic pivoting.",
+      "impact_score": 5,
+      "insight": "This announcement signifies that the company has entered into a commercial agreement, which typically indicates business development activity but lacks specific financial details to assess immediate value.",
       "key_themes": [
-        "infrastructure",
-        "energy procurement"
+        "Commercial Agreement",
+        "Business Development"
       ]
     },
     {
@@ -97,12 +98,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/sterling-digital-plc--asic/contract-for-mining-site-coinbase-account/9596002",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement signals a strategic pivot into crypto mining infrastructure, likely leveraging Sterling Digital's existing data centre capabilities to monetize idle capacity; however, as ASICs are typically small-cap entities with limited liquidity, the immediate financial impact is marginal unless accompanied by significant capital commitment or power procurement deals.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a new contractual arrangement involving operational assets and financial infrastructure, which may indicate business expansion or diversification for shareholders.",
       "key_themes": [
-        "Crypto Mining",
-        "Infrastructure Monetization",
-        "Strategic Pivot"
+        "Contract",
+        "Asset Acquisition"
       ]
     }
   ]

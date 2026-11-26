@@ -12,11 +12,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/seeen--seen/attendance-at-mellolondon-investor-conference/9875798",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Attendance at investor conferences is a standard visibility exercise for small-cap tech firms like Seeen, offering no immediate financial catalyst or material change in fundamentals.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that a director or executive attended an investor conference, which is typically a routine engagement activity. Such events generally serve to facilitate dialogue with the market rather than signaling immediate material financial changes.",
       "key_themes": [
         "Investor Relations",
-        "Market Visibility"
+        "Conference Attendance"
       ]
     },
     {
@@ -27,10 +27,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "Investor webinars are standard IR maintenance activities that rarely signal material fundamental shifts or immediate catalysts for SEEN's valuation.",
+      "insight": "This announcement indicates an investor webinar, which is typically a communication event rather than a substantive corporate action. It generally signifies routine engagement with shareholders without immediate financial or strategic implications.",
       "key_themes": [
-        "investor_relations",
-        "routine_communication"
+        "Investor Relations",
+        "Communication"
       ]
     },
     {
@@ -41,10 +41,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in the small-cap tech space typically signal low institutional interest and limited near-term catalysts, reflecting standard liquidity management rather than strategic shifts.",
+      "insight": "This announcement discloses transactions by directors in the company's shares, which is a routine regulatory filing. It provides transparency regarding insider activity but does not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "low_volatility",
-        "small_cap"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -68,11 +68,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/seeen--seen/result-of-agm/9754865",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no immediate financial or strategic weight for Seeen's valuation.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or auditor appointments. It signifies standard corporate governance activity with no immediate material financial implications for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -93,11 +93,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/seeen--seen/restoration-seeen-plc/9700555",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Restoration announcements are typically administrative updates regarding the reinstatement of a company's listing status following a period of suspension or delisting risk, rather than fundamental operational changes. For SEEN, this signals regulatory compliance and liquidity restoration but does not inherently alter the underlying business valuation or growth trajectory.",
+      "impact_score": 9,
+      "insight": "The term 'Restoration' in an RNS headline typically signifies the reinstatement of shares to trading after a suspension, indicating a resolution of prior regulatory or compliance issues. This is a critical event for shareholders as it restores liquidity and market access to the stock.",
       "key_themes": [
-        "Corporate Governance",
-        "Regulatory Compliance"
+        "Suspension",
+        "Governance",
+        "Trading Status"
       ]
     },
     {
@@ -122,10 +123,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "Suspension of SEEN plc signals severe liquidity crisis or potential insolvency, a critical red flag in the current UK micro-cap sector where delisting risks are elevated for distressed tech firms.",
+      "insight": "This announcement signifies the suspension of shares, which halts trading and prevents shareholders from buying or selling stock until further notice. This status typically indicates significant regulatory concerns or pending corporate actions that require immediate attention.",
       "key_themes": [
-        "Liquidity Crisis",
-        "Delisting Risk"
+        "Suspension",
+        "Trading Halt"
       ]
     },
     {

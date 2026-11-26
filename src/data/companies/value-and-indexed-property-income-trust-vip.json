@@ -2,9 +2,23 @@
   "name": "Value and Indexed Property Income Trust",
   "ticker": "VIP",
   "slug": "value-and-indexed-property-income-trust-vip",
-  "announcement_count": 8,
-  "latest_announcement": "2026-10-13T13:37:00",
+  "announcement_count": 9,
+  "latest_announcement": "2026-11-25T10:04:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T10:04:00",
+      "category": "Results",
+      "headline": "Half-year Financial Report",
+      "url": "https://www.investegate.co.uk/announcement/rns/value-and-indexed-property-income-trust--vip/half-year-financial-report/9893414",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This scheduled half-year financial report provides shareholders with essential updates on the company's operational performance and financial position for the first six months of the year. The specific direction of results or any changes to dividends cannot be determined from the headline alone.",
+      "key_themes": [
+        "Results",
+        "Financial Reporting"
+      ]
+    },
     {
       "timestamp": "2026-10-13T13:37:00",
       "category": null,
@@ -13,10 +27,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Investor presentations are standard communication tools for investment trusts like VIP, offering transparency on portfolio positioning and dividend policy but lacking the immediate catalystic weight of earnings surprises or M&A activity.",
+      "insight": "This announcement indicates a scheduled investor meeting where management may present performance updates or strategic information to shareholders. It generally signifies an opportunity for engagement but does not inherently imply immediate financial impact or significant corporate action.",
       "key_themes": [
-        "Investment Trust",
-        "Investor Relations"
+        "Investor Relations",
+        "Corporate Update"
       ]
     },
     {
@@ -37,11 +51,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/value-and-indexed-property-income-trust--vip/statement-re-mar/9804132",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "MAR statements are standard regulatory notifications for share dealings by directors or connected persons; without specific details on volume or direction, this represents routine administrative disclosure with no immediate market-moving implication.",
+      "impact_score": 3,
+      "insight": "A MAR statement typically signifies that the company is in discussions regarding a possible inside information event, such as a transaction or development, but has not yet reached a stage where disclosure is mandatory. For shareholders, this indicates potential future activity but provides no immediate details on terms or outcomes.",
       "key_themes": [
-        "Regulatory Compliance",
-        "Insider Dealing"
+        "MAR",
+        "Inside Information",
+        "Corporate Action"
       ]
     },
     {
@@ -51,12 +66,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/value-and-indexed-property-income-trust--vip/portfolio-update-and-half-year-portfolio-valuation/9803041",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a closed-end fund, VIP's half-year valuation update is critical for assessing NAV discount/premium dynamics and dividend sustainability in the current high-rate property environment; any deviation from consensus expectations will directly impact share price relative to underlying asset value.",
+      "impact_score": 5,
+      "insight": "This announcement provides a scheduled update on the portfolio performance and valuation for the half-year period. It signifies routine financial reporting that allows shareholders to assess the current state of the investment fund without indicating specific directional outcomes.",
       "key_themes": [
-        "NAV Update",
-        "Property Sector",
-        "Dividend Sustainability"
+        "Results",
+        "Portfolio Update"
       ]
     },
     {
@@ -77,11 +91,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/value-and-indexed-property-income-trust--vip/dividend-declaration/9765836",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine dividend declaration for a closed-end investment trust; while yield maintenance is critical for VIP's investor base, this action lacks the transformative catalysts required to move valuation multiples or signal strategic shifts in the current UK property sector.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a standard dividend declaration, which is typically classified as a minor corporate action with limited strategic implication for shareholders.",
       "key_themes": [
         "Dividend",
-        "Income Trust"
+        "Corporate Action"
       ]
     },
     {
@@ -91,11 +105,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/value-and-indexed-property-income-trust--vip/result-of-agm/9673047",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard post-meeting disclosure confirming the outcome of routine shareholder votes for an investment trust; without specific details on voting margins or contested resolutions, it carries no immediate strategic weight or market-moving implication.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which is a standard governance procedure for shareholder approvals. It signifies that routine resolutions were put to a vote, but provides no indication of material changes or strategic shifts.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -105,11 +119,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/value-and-indexed-property-income-trust--vip/2026-annual-report-and-notice-of-agm/9621417",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard annual report release for a closed-end investment trust, serving primarily as a regulatory compliance requirement rather than a catalyst for immediate price action. While it provides essential data on NAV performance and dividend policy, such routine disclosures rarely drive significant volatility in the UK property income sector without accompanying strategic shifts.",
+      "impact_score": 3,
+      "insight": "This announcement signifies the convening of an Annual General Meeting and the publication of annual reports, which are routine governance events for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Investment Trusts"
+        "Governance",
+        "AGM"
       ]
     }
   ]

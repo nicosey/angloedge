@@ -2,9 +2,23 @@
   "name": "Schroder European Real Estate Investment Trust",
   "ticker": "SERE",
   "slug": "schroder-european-real-estate-investment-trust-sere",
-  "announcement_count": 12,
-  "latest_announcement": "2026-10-12T14:30:00",
+  "announcement_count": 13,
+  "latest_announcement": "2026-11-26T14:30:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T14:30:00",
+      "category": "Results",
+      "headline": "Notice of Full Year Results",
+      "url": "https://www.investegate.co.uk/announcement/rns/schroder-european-real-estate-investment-trust--sere/notice-of-full-year-results/9896234",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Schroder European Real Estate Investment Trust has issued a notice of full year results. This follows earlier dividend and valuation announcements in October.",
+      "key_themes": [
+        "Results",
+        "Governance"
+      ]
+    },
     {
       "timestamp": "2026-10-12T14:30:00",
       "category": "Dividend",
@@ -12,11 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-european-real-estate-investment-trust--sere/dividend-currency-exchange-rate-sterling-/9818676",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative disclosure regarding FX translation for dividend payments, carrying no fundamental impact on SERE's asset base or NAV. Such notices are routine in UK REITs and do not signal strategic shifts or performance changes.",
+      "impact_score": 3,
+      "insight": "This announcement relates to the currency exchange rate applied to a dividend payment in sterling. It signifies administrative details regarding shareholder returns rather than a change in the underlying business performance or strategy.",
       "key_themes": [
-        "Administrative",
-        "FX Translation"
+        "Dividend",
+        "Currency"
       ]
     },
     {
@@ -26,12 +40,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-european-real-estate-investment-trust--sere/property-portfolio-valuation/9816835",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine valuation updates are standard operational disclosures for REITs and rarely move share prices unless they signal a significant divergence from market consensus or trigger covenant breaches; SERE's portfolio remains niche and illiquid, limiting immediate catalyst potential.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled update on the valuation of the company's assets, which is critical for determining net asset value and dividend capacity in this sector. The specific direction or magnitude of any change is not disclosed in the headline.",
       "key_themes": [
-        "REIT",
-        "Valuation",
-        "UK Property"
+        "Asset Valuation",
+        "NAV Update"
       ]
     },
     {
@@ -55,11 +68,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-european-real-estate-investment-trust--sere/result-of-general-meeting/9754512",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the Annual General Meeting, which typically involves routine matters such as director re-elections and auditor appointments without altering the company's strategic trajectory or capital structure.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which is a standard governance procedure for shareholders to vote on proposed resolutions. It provides transparency on whether specific shareholder-approved actions have been authorized by the company's owners.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder Vote",
+        "General Meeting"
       ]
     },
     {
@@ -80,11 +94,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-european-real-estate-investment-trust--sere/publication-of-circular-and-notice-of-gm/9709674",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Administrative disclosure for a General Meeting; while SERE's ongoing capital reduction process is critical for NAV realisation, the circular itself is procedural rather than transformative.",
+      "impact_score": 5,
+      "insight": "The publication of a circular and notice for a General Meeting indicates that significant corporate actions are scheduled for shareholder approval. This type of announcement generally signifies that decisions requiring formal consent will be made, which may impact the company's governance or strategic direction.",
       "key_themes": [
-        "Corporate Governance",
-        "Capital Reduction"
+        "Governance",
+        "Shareholder vote"
       ]
     },
     {
@@ -94,11 +108,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-european-real-estate-investment-trust--sere/dividend-currency-exchange-rate-sterling-/9677948",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative disclosure regarding FX translation for dividend payments, lacking any substantive impact on the REIT's underlying asset value or operational strategy.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a change in the currency used for dividend payments, which affects how shareholders receive their income but does not alter the underlying value of the investment.",
       "key_themes": [
-        "Administrative",
-        "FX Translation"
+        "Dividend",
+        "Currency"
       ]
     },
     {
@@ -108,12 +122,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-european-real-estate-investment-trust--sere/property-portfolio-valuation-/9664235",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a closed-ended fund, SERE's valuation update directly impacts the NAV discount/premium to shares, serving as a critical sentiment barometer for the UK listed property sector amid rising interest rates and office vacancy concerns.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled update on the valuation of the company's property portfolio, which is a routine disclosure for real estate investment trusts. Shareholders should expect this to provide transparency on asset values but does not inherently indicate a change in financial performance or strategy.",
       "key_themes": [
-        "NAV",
-        "UK Property",
-        "CREF"
+        "Valuation",
+        "Asset Update",
+        "Real Estate"
       ]
     },
     {
@@ -163,11 +177,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-european-real-estate-investment-trust--sere/notice-of-results/9600304",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a standard administrative notice confirming the publication date of results rather than the results themselves; without disclosed NAV or dividend data, it carries no immediate pricing impact for SERE's UK REIT peers.",
+      "impact_score": 3,
+      "insight": "This announcement serves as a notice that financial results will be published, allowing shareholders to review the company's performance. It does not disclose specific financial outcomes or strategic changes at this stage.",
       "key_themes": [
-        "administrative",
-        "results_announcement"
+        "Results",
+        "Financial Reporting"
       ]
     }
   ]

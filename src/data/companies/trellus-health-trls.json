@@ -28,11 +28,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "Appointment of administrators signals imminent insolvency and total equity dilution/wipeout for shareholders, a catastrophic outcome for any listed entity regardless of sector stage.",
+      "insight": "The intention to appoint administrators signifies imminent insolvency proceedings, which typically results in the loss of equity value for shareholders.",
       "key_themes": [
         "Insolvency",
-        "Equity Wipeout",
-        "Corporate Failure"
+        "Administration"
       ]
     },
     {
@@ -42,12 +41,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/trellus-health--trls/loan-and-related-party-transaction/9716769",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Related party loans in biotech often signal liquidity constraints or internal capital allocation inefficiencies rather than organic growth; this raises governance concerns for a pre-revenue entity dependent on external funding rounds.",
+      "impact_score": 6,
+      "insight": "This announcement indicates a financial arrangement involving related parties, which typically requires shareholder scrutiny to ensure fairness and transparency in corporate governance. Such transactions can impact the company's capital structure or cash flow but are standard administrative disclosures unless they signal distress.",
       "key_themes": [
-        "governance",
-        "liquidity",
-        "related_party_transaction"
+        "Governance",
+        "Related Party Transaction",
+        "Financing"
       ]
     },
     {
@@ -71,11 +70,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/trellus-health--trls/trellus-health/9654735",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "The absence of substantive content in the RNS headline suggests a routine administrative filing or boilerplate update with no immediate financial or strategic implications for shareholders.",
+      "impact_score": 1,
+      "insight": "The headline consists solely of the company name without any descriptive text, indicating an administrative filing or housekeeping announcement that likely has no immediate financial implication for shareholders.",
       "key_themes": [
         "Administrative",
-        "No Material Change"
+        "Housekeeping"
       ]
     },
     {
@@ -99,11 +98,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/trellus-health--trls/update/9626575",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Without the specific text of the update, this is classified as administrative; however, Trellus Health's reliance on clinical trial milestones means any non-material progress report has negligible immediate financial impact compared to binary outcome events.",
+      "impact_score": 3,
+      "insight": "An 'Update' announcement typically signifies a routine operational progress report or minor corporate action that lacks specific financial or strategic detail in the headline. Without further information, it generally indicates low immediate materiality for shareholders compared to major corporate events.",
       "key_themes": [
-        "Biotech",
-        "Clinical Development"
+        "Operational Update",
+        "Corporate Communication"
       ]
     }
   ]

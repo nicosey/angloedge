@@ -2,9 +2,37 @@
   "name": "ActiveOps",
   "ticker": "AOM",
   "slug": "activeops-aom",
-  "announcement_count": 22,
-  "latest_announcement": "2026-11-06T07:00:00",
+  "announcement_count": 24,
+  "latest_announcement": "2026-11-25T11:33:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T11:33:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Dealing",
+      "url": "https://www.investegate.co.uk/announcement/rns/activeops--aom/director-pdmr-dealing/9893611",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "ActiveOps recorded another director dealing event in November. This follows similar filings in September and October, indicating ongoing insider transactions.",
+      "key_themes": [
+        "Governance",
+        "Director Dealing"
+      ]
+    },
+    {
+      "timestamp": "2026-11-25T09:46:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Dealing",
+      "url": "https://www.investegate.co.uk/announcement/rns/activeops--aom/director-pdmr-dealing/9893249",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has engaged in trading activity involving the company's shares. Such disclosures are routine regulatory requirements and generally carry low immediate investment significance unless accompanied by unusual volume or context.",
+      "key_themes": [
+        "Governance",
+        "Director Dealing"
+      ]
+    },
     {
       "timestamp": "2026-11-06T07:00:00",
       "category": "Results",
@@ -13,10 +41,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard administrative notice confirming the release of financial results rather than the results themselves; without disclosed figures, it carries no immediate valuation impact for ActiveOps.",
+      "insight": "This announcement indicates that scheduled financial results and related presentations are forthcoming, signaling a routine update for shareholders without disclosing performance direction.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Disclosure"
+        "Results",
+        "Corporate Update"
       ]
     },
     {
@@ -49,10 +77,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing in the small-cap tech space typically signals negligible immediate market impact unless accompanied by volume anomalies or insider cluster activity; without specific transaction values, this remains an administrative disclosure with no strategic implication.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has engaged in a transaction involving the company's shares. Such dealings are routine governance disclosures and generally do not signal immediate strategic changes or material financial impact for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Small Cap"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -114,10 +142,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing in the small-cap tech space typically signals low immediate market impact unless accompanied by significant volume or insider cluster activity; without details on direction or size, this is classified as administrative.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has engaged in share dealing activity. Such disclosures are routine regulatory requirements and generally carry low immediate investment significance unless accompanied by context regarding the volume or direction of trades.",
       "key_themes": [
-        "Corporate Governance",
-        "Small Cap"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -138,11 +166,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/activeops--aom/posting-of-annual-report-and-notice-of-agm/9734409",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing for the Annual Report and Notice of AGM, indicating no immediate material corporate action or financial shock. For ActiveOps, such routine disclosures are common in the post-IPO phase but carry negligible short-term price impact compared to earnings releases.",
+      "impact_score": 3,
+      "insight": "This announcement signifies the standard procedural step of making the Annual Report and Notice of Meeting available to shareholders ahead of the General Meeting. It confirms the logistical arrangements for shareholder engagement rather than conveying new strategic or financial developments.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Shareholder Meeting"
       ]
     },
     {
@@ -153,10 +181,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory disclosure for individual director transactions which typically carries negligible price impact unless aggregated across the board; lacks the strategic weight of M&A or capital raises.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has engaged in a transaction involving the company's shares. Such dealings are routine regulatory disclosures and generally carry low immediate impact on shareholder value unless they signal significant insider sentiment shifts.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -177,11 +205,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/activeops--aom/grant-of-contingent-share-award/9721544",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative disclosure regarding executive compensation rather than a material corporate event; contingent share awards are routine retention tools in the UK tech sector and do not indicate immediate strategic shifts or financial distress.",
+      "impact_score": 3,
+      "insight": "This announcement typically signifies the allocation of equity-based incentives to key individuals, which is a standard governance practice for aligning management interests with shareholder value. It generally represents a minor dilutive event or administrative action rather than a material change in the company's strategic direction or financial position.",
       "key_themes": [
-        "executive_compensation",
-        "corporate_governance"
+        "Governance",
+        "Executive Compensation",
+        "Shareholder Dilution"
       ]
     },
     {
@@ -227,11 +256,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/activeops--aom/results-for-the-year-ended-31-march-2026/9648420",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a micro-cap AIM stock with limited liquidity, this annual results release provides essential visibility on revenue growth and cash burn rates critical for assessing the company's runway ahead of potential fundraising needs.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled annual results for the company. The headline does not indicate the direction or magnitude of the financial performance, so it represents a standard reporting event rather than a material market-moving development.",
       "key_themes": [
-        "annual results",
-        "AIM micro-cap"
+        "Results"
       ]
     },
     {
@@ -266,10 +294,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on share price or corporate strategy, reflecting normal liquidity management rather than significant insider sentiment shifts.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with responsibility for managing the company rather than significant strategic shifts. Such disclosures are standard governance requirements and generally carry low immediate impact on shareholder value unless accompanied by other material information.",
       "key_themes": [
-        "regulatory compliance",
-        "minor administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {

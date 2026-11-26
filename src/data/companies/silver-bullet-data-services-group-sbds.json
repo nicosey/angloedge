@@ -23,11 +23,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/silver-bullet-data-services-group--sbds/silver-bullet-data-services-group/9648254",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "The headline lacks substantive content, suggesting a boilerplate filing or administrative update with no immediate material impact on valuation or strategy.",
+      "impact_score": 1,
+      "insight": "The headline merely repeats the company name without disclosing any specific transaction, financial result, or corporate action. This suggests an administrative update or a generic filing that provides no new material information for shareholders to evaluate.",
       "key_themes": [
-        "administrative",
-        "low-impact"
+        "Administrative",
+        "Corporate Update"
       ]
     },
     {
@@ -38,11 +38,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "Suspension of a AIM-listed data services firm typically signals severe liquidity constraints, potential insolvency, or material undisclosed information, creating high binary risk for shareholders and often preceding administration or forced delisting.",
+      "insight": "The suspension of shares indicates that trading in the company's stock has been halted, likely due to unresolved regulatory concerns or a lack of required information. This action significantly restricts shareholder liquidity and introduces substantial uncertainty regarding the future status of the investment.",
       "key_themes": [
-        "liquidity crisis",
-        "regulatory risk",
-        "AIM volatility"
+        "Suspension",
+        "Governance",
+        "Liquidity Risk"
       ]
     },
     {
@@ -106,11 +106,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/silver-bullet-data-services-group--sbds/proposed-aim-delisting-notice-of-general-meeting/9607769",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Delisting from AIM typically signals a transition to private ownership or a move to a larger exchange, often resulting in immediate liquidity loss for retail investors and potential valuation discounts due to the lack of public market scrutiny.",
+      "impact_score": 8,
+      "insight": "This announcement indicates a potential change in the company's listing status on the AIM market, which typically involves a formal sale process or strategic review. Shareholders should anticipate significant governance changes and potential liquidity implications as a general meeting is convened to discuss these matters.",
       "key_themes": [
-        "AIM Delisting",
-        "Liquidity Risk"
+        "Delisting",
+        "Governance",
+        "Strategic Review"
       ]
     }
   ]

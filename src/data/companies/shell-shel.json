@@ -2,9 +2,31 @@
   "name": "Shell",
   "ticker": "SHEL",
   "slug": "shell-shel",
-  "announcement_count": 124,
-  "latest_announcement": "2026-11-24T10:35:00",
+  "announcement_count": 126,
+  "latest_announcement": "2026-11-26T09:51:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T09:51:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/gnw/shell--shel/transaction-in-own-shares/9895550",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-25T09:12:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/gnw/shell--shel/transaction-in-own-shares/9893193",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-24T10:35:00",
       "category": null,
@@ -211,10 +233,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in Shell are standard operational noise with negligible price impact, reflecting normal portfolio management rather than strategic signaling amidst current energy market volatility.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into corporate strategy but confirms compliance with insider dealing regulations.",
       "key_themes": [
-        "Corporate Governance",
-        "Low Impact"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -224,11 +246,11 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/shell--shel/voting-rights-and-capital/9852932",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing confirming the total number of voting rights following routine capital movements, likely related to existing share schemes or minor transactions rather than strategic shifts. It carries no immediate pricing implication for SHEL as it lacks material M&A, dividend changes, or significant insider activity.",
+      "impact_score": 3,
+      "insight": "This announcement typically signifies a routine update regarding the number of voting rights held by major shareholders or changes in the company's share capital structure. It generally indicates standard regulatory compliance rather than a material event affecting shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Rights"
+        "Governance",
+        "Capital"
       ]
     },
     {
@@ -394,10 +416,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate impact on Shell's valuation or strategic direction, reflecting normal liquidity management rather than significant insider sentiment shifts.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has engaged in share transactions. Such filings are routine regulatory disclosures that confirm compliance with insider dealing rules rather than signaling significant strategic shifts.",
       "key_themes": [
-        "Corporate Governance",
-        "Regulatory Compliance"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -785,10 +807,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in major oil majors like Shell are standard administrative events with negligible impact on share price dynamics or long-term valuation.",
+      "insight": "This announcement relates to director shareholdings, which typically signifies routine compliance filings regarding individual transactions by persons discharging managerial responsibilities. Such disclosures generally have minimal direct impact on the company's operational performance or valuation.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -1010,10 +1032,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements for a mega-cap like Shell are standard regulatory disclosures with negligible market impact, as individual insider transactions rarely signal strategic shifts compared to broader commodity cycles or capital allocation decisions.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into corporate strategy but confirms compliance with insider dealing regulations.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -1045,11 +1067,11 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/shell--shel/voting-rights-and-capital/9700894",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing for voting rights disclosure, common in UK equity markets with no immediate price-sensitive implications or strategic shifts.",
+      "impact_score": 3,
+      "insight": "This announcement typically signifies a routine update regarding the number of voting rights held by major shareholders or changes to the company's share capital structure. It generally has limited immediate impact on share price unless it indicates a significant shift in ownership control.",
       "key_themes": [
-        "regulatory_compliance",
-        "shareholder_structure"
+        "Governance",
+        "Capital Structure"
       ]
     },
     {
@@ -1215,11 +1237,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "As a major integrated energy player, Shell's final results are critical for gauging resilience against volatile oil prices and the pace of capital reallocation to lower-carbon assets, setting the tone for peer performance in the sector.",
+      "insight": "This announcement signifies the conclusion of exchange offers, which typically involves the settlement of securities and may impact shareholder equity structures. It represents a standard corporate action event rather than a change in operational performance or strategic direction.",
       "key_themes": [
-        "Energy Sector",
-        "Quarterly Results",
-        "Capital Allocation"
+        "Corporate Action",
+        "Securities Settlement",
+        "Results"
       ]
     },
     {
@@ -1230,10 +1252,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings are standard administrative disclosures with negligible impact on Shell's valuation or strategic trajectory, especially given the company's massive market cap and complex capital structure.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. Such filings provide transparency regarding individual holdings but do not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -1257,12 +1279,12 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/shell--shel/shell-announces-pause-in-share-buyback-progra-/9616551",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The pause signals a strategic pivot toward capital discipline and upstream investment, aligning with the broader energy sector's shift from aggressive shareholder returns to balance sheet resilience amid volatile oil prices.",
+      "impact_score": 5,
+      "insight": "A pause in a share buyback programme generally signals that management is prioritizing capital preservation or alternative uses of cash over returning funds to shareholders at this time. This action may be viewed as a neutral to slightly negative indicator regarding immediate shareholder returns.",
       "key_themes": [
-        "capital allocation",
-        "energy sector trends",
-        "shareholder returns"
+        "Capital allocation",
+        "Shareholder returns",
+        "Corporate governance"
       ]
     },
     {
@@ -1316,11 +1338,12 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/shell--shel/shell-plc-commences-registered-exchange-offer-/9607365",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative step to convert private placement notes into registered securities, facilitating liquidity without altering Shell's capital structure or balance sheet. It reflects routine debt management practices common among major energy majors and carries no strategic or financial impact.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a standard debt management process involving the exchange of existing notes for new ones. It generally signifies routine capital structure maintenance rather than a significant strategic shift or material financial event for shareholders.",
       "key_themes": [
-        "Debt Management",
-        "Administrative"
+        "Debt",
+        "Capital structure",
+        "Corporate action"
       ]
     },
     {
@@ -1396,11 +1419,11 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/shell--shel/voting-rights-and-capital/9592875",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing updating the register of voting rights, likely reflecting minor shareholding changes by institutional investors or fund managers rather than strategic corporate action. It carries no immediate implication for Shell's capital allocation strategy or operational outlook.",
+      "impact_score": 3,
+      "insight": "This announcement typically signifies a routine update regarding the number of voting rights held by major shareholders or changes to the company's share capital structure. It generally has limited immediate impact on share price unless it indicates a significant shift in ownership control.",
       "key_themes": [
-        "regulatory_compliance",
-        "shareholder_structure"
+        "Governance",
+        "Capital Structure"
       ]
     },
     {

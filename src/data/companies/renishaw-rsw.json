@@ -2,9 +2,23 @@
   "name": "Renishaw",
   "ticker": "RSW",
   "slug": "renishaw-rsw",
-  "announcement_count": 4,
-  "latest_announcement": "2026-10-22T12:00:00",
+  "announcement_count": 5,
+  "latest_announcement": "2026-11-25T14:20:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T14:20:00",
+      "category": "AGM/EGM",
+      "headline": "Result of AGM",
+      "url": "https://www.investegate.co.uk/announcement/rns/renishaw--rsw/result-of-agm/9894009",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The AGM results confirm shareholder approval of matters raised. This follows earlier capital markets and director shareholding updates.",
+      "key_themes": [
+        "Governance",
+        "Shareholder approval"
+      ]
+    },
     {
       "timestamp": "2026-10-22T12:00:00",
       "category": "Director Dealing",
@@ -40,11 +54,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/renishaw--rsw/notice-of-results/9767942",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a notice of results rather than the full report, immediate market impact is limited to positioning ahead of the data release; however, Renishaw's status as a high-quality industrial tech play means any deviation in guidance or margin commentary will likely trigger significant repricing relative to its historical premium.",
+      "impact_score": 5,
+      "insight": "This announcement indicates that scheduled financial results are being released, but the headline provides no information regarding the direction or magnitude of the performance.",
       "key_themes": [
-        "Industrial Tech",
-        "Results Release"
+        "Results"
       ]
     },
     {
@@ -54,11 +67,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/renishaw--rsw/capital-markets-day/9619650",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Capital Markets Days serve as critical inflection points for industrial firms to reset growth narratives; for Renishaw, this event likely focuses on high-margin software transition and automation tailwinds, directly influencing long-term valuation multiples in the precision engineering sector.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a scheduled event where management will present strategic updates to investors, which may influence future valuation but does not confirm specific financial outcomes or operational changes.",
       "key_themes": [
-        "Strategic Roadmap",
-        "Growth Narrative"
+        "Investor Relations",
+        "Strategy",
+        "Capital Markets Day"
       ]
     }
   ]

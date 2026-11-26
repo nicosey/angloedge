@@ -2,9 +2,23 @@
   "name": "Nelly Group AB",
   "ticker": "0O6Z",
   "slug": "nelly-group-0o6z",
-  "announcement_count": 3,
-  "latest_announcement": "2026-09-25T11:00:00",
+  "announcement_count": 4,
+  "latest_announcement": "2026-11-26T10:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T10:00:00",
+      "category": "Appointment",
+      "headline": "Nelly Group appoints Lars Gezelius as new CEO",
+      "url": "https://www.investegate.co.uk/announcement/mfn/nelly-group-ab--0o6z/nelly-group-appoints-lars-gezelius-as-new-ceo/9895578",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "Lars Gezelius replaces Josefin Dalum as CFO. This leadership change coincides with an ongoing share repurchase programme initiated in July.",
+      "key_themes": [
+        "Governance",
+        "Capital return"
+      ]
+    },
     {
       "timestamp": "2026-09-25T11:00:00",
       "category": "Appointment",
@@ -26,11 +40,11 @@
       "url": "https://www.investegate.co.uk/announcement/mfn/nelly-group-ab--0o6z/repurchases-of-ordinary-shares-in-nelly-group-/9783026",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine share repurchase in the fast-fashion sector signals management's confidence in cash flow but lacks transformative strategic weight; typical for mature retailers like Nelly Group to return capital rather than pursue aggressive growth.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a routine update on share repurchases, which generally signifies management's view on valuation and provides a mechanism for returning capital to shareholders. The specific financial impact or strategic intent cannot be determined from the headline alone.",
       "key_themes": [
-        "share buyback",
-        "capital allocation"
+        "Share buyback",
+        "Capital return"
       ]
     },
     {
@@ -40,12 +54,11 @@
       "url": "https://www.investegate.co.uk/announcement/mfn/nelly-group-ab--0o6z/nelly-group-initiates-share-repurchase-progra-/9669774",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This move signals management's confidence in Nelly Group's valuation and cash flow generation amidst the competitive UK fashion retail landscape, serving as a defensive measure to support the share price rather than indicating transformative growth.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a return of capital to shareholders through share repurchases, which may support the share price but typically represents a routine capital management action rather than a transformative event.",
       "key_themes": [
-        "capital return",
-        "shareholder yield",
-        "retail sector"
+        "Share Buyback",
+        "Capital Return"
       ]
     }
   ]

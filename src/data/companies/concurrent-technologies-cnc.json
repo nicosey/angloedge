@@ -2,9 +2,20 @@
   "name": "Concurrent Technologies",
   "ticker": "CNC",
   "slug": "concurrent-technologies-cnc",
-  "announcement_count": 9,
-  "latest_announcement": "2026-11-20T13:30:00",
+  "announcement_count": 10,
+  "latest_announcement": "2026-11-25T14:27:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T14:27:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/concurrent-technologies--cnc/holding-s-in-company/9894023",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T13:30:00",
       "category": "Placing",
@@ -12,11 +23,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/concurrent-technologies--cnc/result-of-retail-offer/9886974",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "The conclusion of the retail offer confirms the final subscription levels for the placing but carries no new strategic weight; in the current UK micro-cap environment, such announcements are routine administrative closures that rarely influence share price momentum without a concurrent institutional commitment.",
+      "impact_score": 7,
+      "insight": "This announcement confirms the outcome of a retail share offer, indicating a capital raise event that may dilute existing shareholders. The result signifies whether the company has successfully secured new equity funding from public investors.",
       "key_themes": [
-        "Capital Raising",
-        "Administrative Closure"
+        "Capital raise",
+        "Shareholder dilution",
+        "Equity financing"
       ]
     },
     {
@@ -87,12 +99,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/concurrent-technologies--cnc/appointment-of-chief-financial-officer/9675781",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This appointment signals a critical step in Concurrent Technologies' capital raising efforts, aiming to restore investor confidence following the significant dilution and governance issues associated with its recent £15m placement. In the volatile AIM tech sector, securing seasoned financial leadership is often a prerequisite for stabilizing share price and facilitating future institutional investment.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in senior management structure, which may indicate strategic shifts or operational adjustments within the company. Shareholders should monitor subsequent disclosures for details on the new executive's background and any associated governance implications.",
       "key_themes": [
-        "Corporate Governance",
-        "Capital Raising",
-        "AIM Tech"
+        "Governance",
+        "Management Change"
       ]
     },
     {
@@ -113,11 +124,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/concurrent-technologies--cnc/result-of-agm/9613223",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard post-AGM result announcement confirming routine shareholder approvals for Concurrent Technologies, carrying no new strategic direction or material financial implications beyond existing governance structures.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or auditor appointments. It signifies standard corporate governance compliance rather than any material change to the company's strategic direction or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Administration"
+        "Governance",
+        "Shareholder approval"
       ]
     }
   ]

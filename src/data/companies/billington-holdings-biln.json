@@ -2,9 +2,20 @@
   "name": "Billington Holdings",
   "ticker": "BILN",
   "slug": "billington-holdings-biln",
-  "announcement_count": 5,
-  "latest_announcement": "2026-08-27T07:00:00",
+  "announcement_count": 6,
+  "latest_announcement": "2026-11-26T10:01:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T10:01:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/billington-holdings--biln/holding-s-in-company/9895655",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-08-27T07:00:00",
       "category": "Appointment",
@@ -62,11 +73,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/billington-holdings--biln/result-of-annual-general-meeting/9597758",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine AGM results typically confirm shareholder approval for standard administrative matters rather than signaling strategic shifts; without details on specific resolutions passed, the market impact is negligible compared to earnings or M&A announcements.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of shareholder votes at a general meeting, which is a standard governance procedure. It provides information on how specific resolutions were decided but does not indicate any immediate financial or strategic change.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder vote"
       ]
     }
   ]

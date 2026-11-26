@@ -12,11 +12,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ceiba-investments-limited-npv--cba/notice-of-an-order-of-the-royal-court-of-guernsey/9730286",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing for a Guernsey-registered investment company to maintain transparency regarding court orders, likely related to routine governance or minor administrative matters rather than substantive corporate restructuring.",
+      "impact_score": 9,
+      "insight": "An order from the Royal Court of Guernsey typically signifies significant legal proceedings, such as insolvency, administration, or a formal restructuring process for the entity. This represents a severe event that could lead to suspension of shares or fundamental changes in ownership and control.",
       "key_themes": [
-        "Corporate Governance",
-        "Regulatory Compliance"
+        "Legal",
+        "Insolvency",
+        "Governance"
       ]
     },
     {
@@ -26,11 +27,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ceiba-investments-limited-npv--cba/update-board-management-resignations/9726182",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 9,
-      "insight": "Simultaneous Board & Management resignations in a small-cap investment trust signal severe governance failure or impending crisis, often preceding liquidation or forced sale of assets; this mirrors the collapse seen in recent distressed UK AIC members.",
+      "impact_score": 7,
+      "insight": "The simultaneous resignation of both the board and management indicates a significant governance crisis or leadership vacuum, which is typically classified as a departure of key executives. This level of turnover suggests potential instability and requires immediate shareholder attention to assess the company's future direction.",
       "key_themes": [
-        "Governance Crisis",
-        "Executive Departure"
+        "Governance",
+        "Management Change"
       ]
     },
     {
@@ -41,11 +42,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "Appointment of an administrator signals imminent insolvency for a listed entity, effectively wiping out equity value and triggering severe liquidity crisis; this is the highest severity outcome for any UK RNS announcement.",
+      "insight": "The resignation of an administrator typically indicates that the company has entered administration, a form of insolvency procedure where control passes to an appointed administrator. This is a severe corporate event that usually leads to the suspension of shares and significant uncertainty for shareholders regarding the recovery of their investment.",
       "key_themes": [
         "Insolvency",
-        "Equity Wipeout",
-        "Corporate Failure"
+        "Governance",
+        "Corporate Action"
       ]
     },
     {
@@ -155,11 +156,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ceiba-investments-limited-npv--cba/trading-update/9604077",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "As a private investment vehicle, CEIBA's RNS is likely a routine regulatory filing with no material impact on public market dynamics or sector trends.",
+      "impact_score": 5,
+      "insight": "This announcement provides a general trading update, but without specific details in the headline regarding performance direction or magnitude, its immediate impact on shareholder value remains ambiguous.",
       "key_themes": [
-        "Private Equity",
-        "Regulatory Filing"
+        "Trading Update",
+        "Performance"
       ]
     },
     {

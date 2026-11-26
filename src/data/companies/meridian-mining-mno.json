@@ -2,9 +2,20 @@
   "name": "Meridian Mining plc",
   "ticker": "MNO",
   "slug": "meridian-mining-mno",
-  "announcement_count": 21,
-  "latest_announcement": "2026-11-13T07:00:00",
+  "announcement_count": 22,
+  "latest_announcement": "2026-11-26T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T07:00:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/meridian-mining-plc--mno/holding-s-in-company/9894463",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-13T07:00:00",
       "category": null,
@@ -12,12 +23,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/meridian-mining-plc--mno/meridian-announces-q3-financial-statements-md-a/9873578",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a junior explorer with limited production history, Q3 results primarily serve as a liquidity and cash burn check rather than a fundamental value driver; investors will scrutinize the balance sheet for runway extension needs amidst the current capital-intensive mining sector environment.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled quarterly financial results and management commentary, which provides shareholders with standard periodic updates on the company's performance.",
       "key_themes": [
-        "exploration",
-        "cash_burn",
-        "liquidity"
+        "Results",
+        "Financial reporting"
       ]
     },
     {
@@ -28,11 +38,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "Progress toward FID signals Meridian Mining is moving from exploration to development, a critical value inflection point for junior miners that reduces execution risk but introduces capital intensity concerns in the current high-interest-rate environment.",
+      "insight": "This update likely provides progress on a project moving toward a final investment decision, which is a critical milestone for capital allocation and future revenue generation in resource companies.",
       "key_themes": [
-        "Project Development",
-        "FID Progress",
-        "Junior Mining"
+        "Project Update",
+        "Capital Allocation"
       ]
     },
     {
@@ -43,11 +52,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "The DFS Technical Report is a critical milestone for Meridian Mining, providing the independent valuation necessary to attract institutional capital and secure project financing in the current hard-market environment. This filing signals progress toward production or a potential sale, reducing execution risk but offering no immediate liquidity event.",
+      "insight": "This announcement signifies the submission of a Definitive Feasibility Study Technical Report, which is a critical milestone in project evaluation and typically precedes major investment decisions or resource estimation updates. Shareholders should anticipate potential future developments regarding the commercial viability or next steps for the company's assets.",
       "key_themes": [
-        "DFS",
-        "Project Finance",
-        "Exploration & Mining"
+        "Technical Report",
+        "Project Update"
       ]
     },
     {
@@ -135,11 +143,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "Inclusion in the GDXJ provides Meridian Mining with access to a major institutional index fund, likely driving passive inflows and enhancing liquidity for this small-cap explorer. While not transformative like an acquisition, it serves as a significant validation of the company's scale and operational maturity within the junior gold sector.",
+      "insight": "Inclusion in a major index typically signifies increased visibility and potential passive investment inflows for shareholders. This type of announcement generally indicates a recognition of the company's market standing without implying immediate operational changes.",
       "key_themes": [
-        "Index Inclusion",
-        "Liquidity Boost",
-        "Institutional Access"
+        "Index inclusion",
+        "Market visibility"
       ]
     },
     {
@@ -150,10 +157,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard procedural filing for share admission, likely related to a previous placement or option exercise, rather than a standalone catalyst. While it confirms liquidity availability, the lack of accompanying capital raise details suggests limited immediate strategic implication for Meridian Mining's exploration progress.",
+      "insight": "This announcement indicates a procedural step to list shares on a stock exchange, which is typically an administrative action rather than a direct indicator of immediate financial performance or strategic change.",
       "key_themes": [
-        "Corporate Action",
-        "Administrative"
+        "Administrative",
+        "Listing"
       ]
     },
     {
@@ -164,10 +171,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine PDMR disclosures in the junior mining sector typically reflect standard tax compliance or minor liquidity management rather than strategic conviction shifts, offering negligible signal for share price direction amidst broader commodity volatility.",
+      "insight": "This announcement indicates that persons discharging managerial responsibilities have engaged in transactions involving the company's shares. Such filings are routine regulatory disclosures that confirm compliance with insider dealing rules but do not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Minor Administrative"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -177,11 +184,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/meridian-mining-plc--mno/application-for-admission-of-shares/9734448",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing required for listing new shares, likely stemming from an existing placement or option exercise rather than a transformative capital raise. Without details on the size or purpose of the issuance, it carries no immediate strategic weight for Meridian Mining's valuation.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a procedural step in the process of listing shares on a stock exchange, which is typically an administrative requirement for admission rather than a direct operational event. It signifies that the company is taking steps to make its shares tradable but does not inherently imply immediate financial value or strategic change.",
       "key_themes": [
-        "administrative",
-        "listing_update"
+        "Capital raise",
+        "Listing"
       ]
     },
     {
@@ -191,11 +198,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/meridian-mining-plc--mno/meridian-drills-stacked-vms-layers-at-santa-helena/9714362",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The identification of stacked VMS layers at Santa Helena suggests a potential expansion of the resource base beyond initial models, offering upside to valuation if drill widths and grades hold up in subsequent infill drilling. This aligns with the current market appetite for junior miners demonstrating multi-stage exploration success to de-risk asset scale.",
+      "impact_score": 4,
+      "insight": "This announcement signifies ongoing exploration activities at a specific site, which is routine for mining companies but does not indicate a commercial discovery or financial result. Shareholders should view this as standard operational reporting rather than a material event affecting valuation.",
       "key_themes": [
-        "Exploration Upside",
-        "Resource Expansion"
+        "Exploration",
+        "Operational Update"
       ]
     },
     {
@@ -231,10 +238,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard disclosure of Personal Data Manager transactions which provides limited forward-looking signal compared to substantive corporate actions like M&A or capital raises.",
+      "insight": "This announcement discloses transactions by persons discharging managerial responsibilities, which is a standard governance filing. It provides information on insider activity but does not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -284,11 +291,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "Discovery of a second VMS layer at Santa Helena significantly de-risks the project's resource base and extends mine life potential, addressing key valuation drivers for junior exploration stocks in the current capital-constrained environment.",
+      "insight": "This announcement signifies a positive development in exploration success, which typically enhances investor interest in resource companies by validating the presence of additional mineralized zones.",
       "key_themes": [
-        "resource expansion",
-        "exploration success",
-        "de-risking"
+        "Exploration",
+        "Resource discovery"
       ]
     }
   ]

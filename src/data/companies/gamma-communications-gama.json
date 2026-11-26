@@ -2,9 +2,31 @@
   "name": "Gamma Communications",
   "ticker": "GAMA",
   "slug": "gamma-communications-gama",
-  "announcement_count": 67,
-  "latest_announcement": "2026-11-24T13:36:00",
+  "announcement_count": 69,
+  "latest_announcement": "2026-11-26T08:53:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T08:53:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/gamma-communications--gama/holding-s-in-company/9895474",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-25T07:00:00",
+      "category": null,
+      "headline": "Rule 2.9 Announcement",
+      "url": "https://www.investegate.co.uk/announcement/rns/gamma-communications--gama/rule-2-9-announcement/9892206",
+      "routine_type": "Form 8 Disclosure",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-24T13:36:00",
       "category": null,
@@ -188,11 +210,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/gamma-communications--gama/result-of-meeting/9853257",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative disclosure confirming the conclusion of a board meeting, likely related to routine governance or minor corporate actions rather than transformative strategy. Without specific details on the outcome, it lacks the materiality to influence Gamma's valuation or sector positioning in the current UK telecoms infrastructure market.",
+      "impact_score": 3,
+      "insight": "This announcement typically signifies that a general meeting has concluded and provides details on the resolutions passed by shareholders. It is generally of low immediate financial impact unless specific governance or strategic changes were approved.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Disclosure"
+        "Governance",
+        "Shareholder Meeting"
       ]
     },
     {
@@ -559,14 +581,11 @@
       "category": null,
       "headline": "Berry Street Form 8 (Opening Position Disclosure)",
       "url": "https://www.investegate.co.uk/announcement/rns/gamma-communications--gama/berry-street-form-8-opening-position-disclosure-/9789858",
-      "routine_type": null,
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement indicates that an external entity has disclosed a new shareholding position in the company, which is a standard regulatory filing. It signals potential investor interest but does not inherently imply any immediate change to the company's operations or value.",
-      "key_themes": [
-        "Shareholder disclosure",
-        "Governance"
-      ]
+      "routine_type": "Form 8 Disclosure",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-09-24T11:43:00",
@@ -608,12 +627,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/gamma-communications--gama/statement-regarding-possible-offer/9768659",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 9,
-      "insight": "Gamma Communications is a high-growth fibre-to-the-premises (FTTP) operator in the UK; a potential offer signals strategic consolidation in the fragmented broadband sector and validates the asset's value at premium multiples following recent infrastructure investments.",
+      "impact_score": 7,
+      "insight": "This headline indicates a potential takeover bid or sale process, which typically triggers significant share price volatility and speculative trading activity among investors.",
       "key_themes": [
         "M&A",
-        "Telecoms Consolidation",
-        "Infrastructure"
+        "Corporate Action"
       ]
     },
     {
@@ -624,10 +642,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine PDMR disclosures typically signal low immediate market impact unless accompanied by unusual volume or timing relative to price action; without specific deal details, this remains an administrative filing with no strategic implication for Gamma's connectivity sector positioning.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such disclosures are routine regulatory requirements and typically have minimal immediate impact on shareholder value unless they signal significant insider sentiment shifts.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -648,11 +666,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/gamma-communications--gama/response-to-press-speculation/9734396",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Standard market integrity response to unfounded rumors; while it prevents short-term volatility, it offers no fundamental catalyst for Gamma's core connectivity and cloud services growth trajectory.",
+      "impact_score": 4,
+      "insight": "This announcement indicates management is addressing market rumors to clarify the company's position and prevent misinformation from affecting share price volatility.",
       "key_themes": [
-        "Market Rumour",
-        "Corporate Governance"
+        "Press speculation",
+        "Corporate communications"
       ]
     },
     {
@@ -673,11 +691,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/gamma-communications--gama/extension-of-pusu-deadline/9707010",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This is a procedural extension of the Put/Call Option Settlement Undertaking (PUSU) deadline, likely related to the exit of minority shareholder JTC Group following the takeover by CVC Capital Partners. It carries no fundamental operational impact or new strategic direction, merely confirming the timeline for the finalization of the previous acquisition structure.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a procedural delay in the timeline for a potential transaction, suggesting that the process is ongoing but has not yet concluded. It reflects administrative housekeeping rather than a definitive change in value or strategic direction.",
       "key_themes": [
-        "Corporate Governance",
-        "Post-Takeover Administration"
+        "M&A",
+        "Process update"
       ]
     },
     {
@@ -698,12 +716,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/gamma-communications--gama/extension-of-pusu-deadline/9659353",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This is a procedural extension of the Puttable Unsecured Subordinated Notes (PUSU) deadline, indicating no immediate liquidity crisis but highlighting ongoing refinancing dependencies for Gamma's debt maturity wall. It reflects routine capital structure management rather than a strategic shift or material operational change.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a procedural delay in the acceptance period for a proposed transaction, suggesting that the deal is still active but requires more time to finalize. It signals ongoing negotiation dynamics without confirming the ultimate success or failure of the acquisition.",
       "key_themes": [
-        "Debt Maturity",
-        "Capital Structure",
-        "Administrative"
+        "M&A",
+        "Regulatory Process"
       ]
     },
     {
@@ -764,11 +781,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 8,
-      "insight": "A 'Possible Offer' for a specialist telecoms infrastructure provider like Gamma signals potential strategic consolidation in the fragmented UK connectivity market, likely at a significant premium to current valuations.",
+      "insight": "This announcement indicates a potential takeover bid or sale process, which typically triggers significant share price volatility and speculative trading activity. Shareholders should anticipate possible premium valuations but also face uncertainty regarding the final outcome of the negotiations.",
       "key_themes": [
         "M&A",
-        "Telecoms Infrastructure",
-        "Strategic Consolidation"
+        "Possible Offer",
+        "Corporate Action"
       ]
     },
     {
@@ -778,11 +795,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/gamma-communications--gama/extension-of-pusu-deadline/9611975",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This is a procedural extension of the Put/Call Option Settlement Undertaking deadline, indicating no immediate change in control dynamics but reflecting ongoing negotiations or administrative delays regarding potential share transfers.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a procedural delay in the acceptance period for a proposed transaction, suggesting that the deal remains under negotiation but has not yet been finalized or abandoned. It reflects standard administrative timing rather than a change in the fundamental status of the offer.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Structure"
+        "M&A",
+        "Process update"
       ]
     }
   ]

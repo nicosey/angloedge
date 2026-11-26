@@ -2,9 +2,23 @@
   "name": "ITV",
   "ticker": "ITV",
   "slug": "itv-itv",
-  "announcement_count": 32,
-  "latest_announcement": "2026-11-23T11:04:00",
+  "announcement_count": 33,
+  "latest_announcement": "2026-11-26T09:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T09:00:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/itv--itv/director-pdmr-shareholding/9895485",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Director shareholdings were reported in September. This follows a share repurchase programme announced in July.",
+      "key_themes": [
+        "Governance",
+        "Capital return"
+      ]
+    },
     {
       "timestamp": "2026-11-23T11:04:00",
       "category": null,
@@ -23,11 +37,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/itv--itv/directorate-change/9881341",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine board-level personnel adjustments are standard governance updates that rarely alter ITV's strategic trajectory or valuation metrics in the short term.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the board composition, which is a standard governance event that may signal strategic shifts but lacks specific details on the nature or significance of the appointment. Shareholders should monitor subsequent filings for context regarding whether this represents routine succession or a response to performance issues.",
       "key_themes": [
-        "Corporate Governance",
-        "Board Composition"
+        "Governance",
+        "Board change"
       ]
     },
     {
@@ -38,10 +52,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory filings with negligible immediate price impact; ITV's current valuation is driven by structural streaming headwinds and advertising cyclicality rather than individual insider transactions.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a standard governance disclosure. It provides transparency into insider trading activity but does not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "regulatory_compliance",
-        "low_materiality"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -140,10 +154,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine PDMR disclosures typically carry negligible market impact unless they signal coordinated insider sentiment shifts; without volume data indicating significant accumulation or divestment, this remains an administrative filing with no immediate strategic implication for ITV's valuation.",
+      "insight": "This announcement relates to director shareholdings, which typically indicates routine compliance reporting of individual transactions rather than a significant corporate event. Such filings generally have minimal immediate impact on shareholder value unless they signal unusual collective behavior by the board.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -198,10 +212,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on ITV's valuation or strategic direction in the competitive streaming and advertising market.",
+      "insight": "This announcement relates to director shareholdings, which typically indicates routine compliance reporting rather than a significant strategic event. It generally signifies standard governance activity with limited immediate impact on shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -288,11 +302,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/itv--itv/results-of-consent-solicitation-2032-notes/9706646",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a standard administrative update regarding the consent solicitation for ITV's 2032 notes, confirming debt restructuring terms rather than signaling operational shifts or strategic pivots.",
+      "impact_score": 3,
+      "insight": "This announcement relates to a consent solicitation for specific debt notes, which typically involves seeking shareholder approval for amendments to bond terms rather than reporting operational performance. It signifies a potential change in the capital structure or covenants but does not indicate a fundamental shift in business strategy or financial health on its own.",
       "key_themes": [
-        "Corporate Action",
-        "Debt Management"
+        "Debt",
+        "Governance",
+        "Capital Structure"
       ]
     },
     {
@@ -352,10 +367,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/itv--itv/substitution-of-rating-agency-2026-2032-notes/9653138",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative update regarding the credit rating agency for existing debt instruments, likely reflecting routine industry practice of dual-rating or provider consolidation rather than a change in ITV's creditworthiness.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a change in the financial institution responsible for rating the company's debt securities. It is primarily an administrative update regarding credit ratings rather than a fundamental shift in business operations or strategy.",
       "key_themes": [
-        "Corporate Governance",
+        "Governance",
         "Debt Management"
       ]
     },
@@ -366,11 +381,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/itv--itv/directorate-change/9619801",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine board-level personnel adjustments are standard governance updates that rarely alter ITV's strategic trajectory or valuation metrics in the short term.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the board composition, which is a standard governance update. It indicates a shift in leadership structure but does not inherently suggest a strategic pivot or material financial impact without further details.",
       "key_themes": [
-        "Corporate Governance",
-        "Board Composition"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -381,10 +396,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on ITV's valuation or strategic trajectory, reflecting normal liquidity management rather than significant insider sentiment shifts.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with responsibility for managing the company rather than significant strategic shifts. Such disclosures are generally considered administrative housekeeping with limited immediate impact on shareholder value.",
       "key_themes": [
-        "regulatory compliance",
-        "insider activity"
+        "Governance",
+        "Director Dealing"
       ]
     }
   ]

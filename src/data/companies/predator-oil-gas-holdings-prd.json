@@ -13,10 +13,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a minor administrative correction to a previous PDMR notification, indicating no change in the underlying transaction or sentiment. In the volatile E&P sector, such clerical updates are noise and carry zero strategic weight for valuation.",
+      "insight": "This announcement indicates a correction to a previous notification regarding dealings by persons discharging managerial responsibilities. It generally signifies routine regulatory compliance rather than new substantive corporate activity or financial impact.",
       "key_themes": [
-        "Administrative",
-        "Corporate Governance"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -27,10 +27,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard PDMR notification for a micro-cap exploration company with negligible liquidity; without volume or price context, this offers no actionable signal on insider conviction or capital commitment.",
+      "insight": "This announcement signifies a standard regulatory disclosure of transactions by persons discharging managerial responsibilities, which is routine administrative housekeeping rather than a signal of strategic change.",
       "key_themes": [
-        "micro-cap",
-        "regulatory-compliance"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -41,10 +41,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard PDMR notification with no disclosed transaction details, rendering it neutral for immediate price action; in the volatile E&P sector, such opaque filings are typically ignored by institutional investors unless accompanied by significant volume or strategic context.",
+      "insight": "This announcement signifies a standard regulatory disclosure of transactions by persons discharging managerial responsibilities, which is routine governance compliance rather than a strategic event.",
       "key_themes": [
-        "Corporate Governance",
-        "Low Impact"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -55,10 +55,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard PDMR notification with no disclosed transaction details, rendering it informationally neutral for immediate price action. In the current UK E&P sector, such routine filings are common and lack the strategic weight of major M&A or capital raises.",
+      "insight": "This announcement signifies a standard regulatory disclosure of transactions by persons discharging managerial responsibilities, which is routine governance compliance rather than a strategic event.",
       "key_themes": [
-        "PDMR",
-        "Routine Filing"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -119,11 +119,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/placing-to-raise-2-5-million/9824456",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This £2.5m placing represents a modest capital injection typical for junior E&P firms to fund exploration drilling or working capital, avoiding immediate dilution panic but signaling continued reliance on equity markets in a high-interest-rate environment.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a capital raise through a placing, which typically involves issuing new shares and may lead to dilution of existing shareholders' stakes. The specific terms and use of proceeds are not disclosed in the headline.",
       "key_themes": [
-        "Capital Raise",
-        "Junior E&P"
+        "Capital raise",
+        "Share dilution"
       ]
     },
     {
@@ -133,11 +133,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/result-of-annual-general-meeting/9823154",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes, which carries no intrinsic value impact for Predator Oil & Gas given its history of operational stagnation and lack of recent material corporate actions.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a routine Annual General Meeting, which typically involves standard governance matters such as director reappointments and auditor approvals. It generally signifies the completion of statutory obligations rather than any material change in the company's strategic direction or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Shareholder Meeting"
       ]
     },
     {
@@ -147,11 +147,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/mou-6-morocco-and-snowcap-3-trinidad-/9821361",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "The MOU for Morocco's NPV block is exploratory with no guaranteed value, while the Snowcap-3 well in Trinidad represents a standard operational update; neither constitutes a material financial event or immediate catalyst for PRD.",
+      "impact_score": 4,
+      "insight": "This announcement signifies a non-binding memorandum of understanding regarding potential exploration activities in Morocco and Trinidad. Such agreements typically indicate early-stage strategic development but carry low immediate financial certainty for shareholders.",
       "key_themes": [
         "Exploration",
-        "Operational Update"
+        "Partnership",
+        "Strategy"
       ]
     },
     {
@@ -161,11 +162,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/agm-presentation-/9821360",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Standard AGM presentations for small-cap E&P firms are routine governance events with negligible immediate price impact, reflecting the sector's current focus on operational execution and capital discipline rather than strategic shifts.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that a presentation will be provided in connection with an Annual General Meeting, which is typically an informational update for shareholders regarding governance and operational matters.",
       "key_themes": [
-        "Corporate Governance",
-        "Investor Relations"
+        "Governance",
+        "Shareholder Update"
       ]
     },
     {
@@ -189,11 +190,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/agm-notice-/9780824",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine administrative notice for an AGM of a small-cap exploration company; without details on agenda items like capital raises or director changes, this carries no immediate pricing impact.",
+      "impact_score": 3,
+      "insight": "This notice indicates that a general meeting of shareholders is being convened, which typically involves routine governance matters such as approving accounts or reappointing directors.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Governance",
+        "Shareholder Meeting"
       ]
     },
     {
@@ -203,12 +204,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/predator-oil-gas-holdings-npv--prd/morocco-commencement-mou-6-drilling-operations/9780770",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Commencement of drilling operations marks a critical value-inflection point for PRD, transitioning the asset from exploration to potential production and validating the Morocco play's technical viability amidst a broader sector focus on efficient E&P execution.",
+      "impact_score": 5,
+      "insight": "The commencement of drilling operations signifies a transition from exploration to potential production, which is a critical milestone for value realization in this sector. This development suggests progress in asset monetization but carries inherent technical and execution risks that shareholders must monitor.",
       "key_themes": [
-        "Drilling Operations",
-        "Morocco Asset Development",
-        "Exploration Progress"
+        "Operational Update",
+        "Exploration & Production",
+        "Capital Expenditure"
       ]
     },
     {
@@ -230,10 +231,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard PDMR notification for a micro-cap E&P firm; without volume data, this is routine administrative disclosure with negligible immediate market impact.",
+      "insight": "This announcement signifies standard regulatory compliance regarding insider dealing notifications by persons discharging managerial responsibilities. It provides transparency into individual director transactions but does not inherently signal a strategic shift or material corporate event for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Micro-cap"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {

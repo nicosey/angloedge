@@ -2,9 +2,23 @@
   "name": "Star Energy Group Plc",
   "ticker": "STAR",
   "slug": "star-energy-group-star",
-  "announcement_count": 8,
-  "latest_announcement": "2026-10-14T12:59:00",
+  "announcement_count": 9,
+  "latest_announcement": "2026-11-26T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T07:00:00",
+      "category": null,
+      "headline": "Release of Croatian Performance Bonds",
+      "url": "https://www.investegate.co.uk/announcement/rns/star-energy-group-plc--star/release-of-croatian-performance-bonds/9894479",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "Star Energy Group Plc has released Croatian Performance Bonds following the October completion of its Croatian geothermal company sale. Shareholders should monitor how these instruments relate to the disposed asset.",
+      "key_themes": [
+        "Debt",
+        "Asset disposal"
+      ]
+    },
     {
       "timestamp": "2026-10-14T12:59:00",
       "category": null,
@@ -12,11 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/star-energy-group-plc--star/completion-of-sale-of-croatian-geothermal-company/9823011",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This divestment aligns with Star Energy's strategic pivot away from international geothermal assets toward its core UK renewable portfolio, likely generating a modest one-off gain but offering limited long-term growth catalysts for the share price.",
+      "impact_score": 7,
+      "insight": "The completion of a disposal signifies the finalization of a strategic asset sale, which typically results in cash proceeds for the company and may indicate a shift in business focus or portfolio optimization. Shareholders should consider the potential impact on future earnings and capital allocation from this completed transaction.",
       "key_themes": [
-        "Asset Divestment",
-        "Strategic Refocus"
+        "Asset disposal",
+        "Corporate strategy"
       ]
     },
     {
@@ -73,11 +87,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/star-energy-group-plc--star/result-of-agm/9625969",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which carries no intrinsic financial value or strategic shift for Star Energy Group.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director re-elections or auditor appointments. It signifies standard corporate governance compliance rather than any material change to the company's strategic direction or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -88,10 +102,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard investor relations activity with no immediate financial or operational implications for Star Energy Group's valuation or strategy.",
+      "insight": "This announcement signifies a routine corporate communications update intended to inform shareholders of new marketing materials. It does not indicate any immediate financial, strategic, or operational changes affecting shareholder value.",
       "key_themes": [
-        "Investor Relations",
-        "Corporate Communications"
+        "Corporate Communications",
+        "Investor Relations"
       ]
     },
     {
@@ -102,10 +116,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Star Energy's valuation or operational trajectory, reflecting standard insider compliance rather than strategic shifts.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into the company's operational performance but may signal individual confidence or lack thereof depending on the direction of the trade.",
       "key_themes": [
-        "regulatory compliance",
-        "insider activity"
+        "Director Dealing",
+        "Governance"
       ]
     }
   ]

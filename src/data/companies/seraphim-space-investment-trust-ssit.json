@@ -2,9 +2,37 @@
   "name": "Seraphim Space Investment Trust",
   "ticker": "SSIT",
   "slug": "seraphim-space-investment-trust-ssit",
-  "announcement_count": 24,
-  "latest_announcement": "2026-11-17T07:00:00",
+  "announcement_count": 26,
+  "latest_announcement": "2026-11-25T13:27:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T13:27:00",
+      "category": "AGM/EGM",
+      "headline": "Result of AGM",
+      "url": "https://www.investegate.co.uk/announcement/rns/seraphim-space-investment-trust--ssit/result-of-agm/9893927",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Shareholders should note the AGM results. This follows earlier announcements regarding C share conversions and fundraising in October and November.",
+      "key_themes": [
+        "Governance",
+        "Capital raise"
+      ]
+    },
+    {
+      "timestamp": "2026-11-25T07:01:00",
+      "category": null,
+      "headline": "First C Share Conversion and Voting Rights",
+      "url": "https://www.investegate.co.uk/announcement/rns/seraphim-space-investment-trust--ssit/first-c-share-conversion-and-voting-rights/9892343",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "This announcement indicates a structural change to the share class mechanics and voting rights within the investment trust. It represents a minor governance adjustment that may affect shareholder influence but does not signal a strategic shift or financial event.",
+      "key_themes": [
+        "Governance",
+        "Capital structure"
+      ]
+    },
     {
       "timestamp": "2026-11-17T07:00:00",
       "category": null,
@@ -12,11 +40,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/seraphim-space-investment-trust--ssit/iceye-announces-tender-offer-for-avio/9878199",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a portfolio company event rather than a direct SSIT corporate action; while Avio's acquisition by ICEYE signals consolidation in the satellite imagery sector, it does not immediately alter SSIT's NAV or governance structure.",
+      "impact_score": 2,
+      "insight": "This announcement concerns a third party rather than Seraphim Space Investment Trust itself, indicating it is likely an informational update or press release about another organization. It has no direct bearing on the company's shareholders as it does not describe any action taken by or affecting the trust.",
       "key_themes": [
-        "portfolio_update",
-        "satellite_sector_consolidation"
+        "Third-party news",
+        "M&A"
       ]
     },
     {
@@ -27,10 +55,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard periodic newsletter lacking material price-sensitive information, reflecting the ongoing consolidation of the UK space sector rather than any specific corporate catalyst for SSIT.",
+      "insight": "This announcement appears to be a sector newsletter or marketing material rather than a substantive regulatory filing affecting the company's operations or financial position. It likely serves an informational or promotional purpose with no direct bearing on shareholder value.",
       "key_themes": [
         "Sector Update",
-        "Non-Price Sensitive"
+        "Marketing"
       ]
     },
     {
@@ -51,12 +79,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/seraphim-space-investment-trust--ssit/full-year-results-/9823598",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a closed-end fund in the high-growth space sector, SSIT's full-year results are critical for assessing NAV performance against the broader tech sell-off and determining if the discount to NAV is widening or narrowing. The outcome will signal whether the trust can maintain its premium/discount dynamics amidst recent volatility in listed space equities.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled full year results, which provides shareholders with a comprehensive review of the company's financial performance and position over the past twelve months.",
       "key_themes": [
-        "NAV Performance",
-        "Space Sector Volatility",
-        "Discount/Premium Dynamics"
+        "Results",
+        "Financial Reporting"
       ]
     },
     {
@@ -67,11 +94,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "This capital raise signals active deployment into the Xona Space Systems venture, highlighting Seraphim's strategy to back high-growth UK deep-tech IPOs while managing liquidity needs in a volatile space sector environment.",
+      "insight": "This announcement indicates a new investment by the trust into Xona, which may alter the portfolio composition but lacks details on size or strategic significance. Without further information on the transaction value or rationale, it represents a standard operational update rather than a material event.",
       "key_themes": [
-        "Space Sector",
-        "Capital Raise",
-        "Venture Deployment"
+        "Investment",
+        "Portfolio Update"
       ]
     },
     {
@@ -93,10 +119,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard periodic newsletter with no price-sensitive information, capital actions, or governance changes; it serves only as marketing material to maintain investor engagement rather than signaling any fundamental shift in the trust's strategy or NAV.",
+      "insight": "This appears to be a marketing newsletter or informational update regarding the broader sector rather than a substantive corporate announcement. It likely has no direct financial impact or strategic implication for shareholders.",
       "key_themes": [
-        "Investor Relations",
-        "Sector Marketing"
+        "Sector Update",
+        "Marketing"
       ]
     },
     {
@@ -106,12 +132,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/seraphim-space-investment-trust--ssit/iceye-series-f-financing-round-and-c-share-update/9766206",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The ICEYE Series F round validates the commercial viability of the space infrastructure sub-sector, reinforcing Seraphim's thesis on downstream data monetization rather than launch capacity; however, as a portfolio company event, it offers limited direct NAV uplift for SSIT compared to broader market sentiment shifts.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a funding event for an external entity and a corporate action regarding the trust's own share class, which may affect liquidity or valuation metrics for shareholders.",
       "key_themes": [
-        "Space Economy",
-        "Portfolio Validation",
-        "Satellite Data"
+        "Capital raise",
+        "Share update"
       ]
     },
     {
@@ -122,10 +147,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard monthly marketing newsletter with no price-sensitive information, capital events, or operational updates that would alter the trust's valuation or investment thesis.",
+      "insight": "This announcement appears to be a sector newsletter or marketing material rather than a substantive corporate update, suggesting it has minimal direct impact on shareholder value.",
       "key_themes": [
-        "marketing",
-        "no material impact"
+        "Sector Update",
+        "Marketing"
       ]
     },
     {
@@ -135,11 +160,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/seraphim-space-investment-trust--ssit/c-share-portfolio-investment-in-hubble/9726207",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This represents a standard portfolio disclosure for an investment trust rather than a transformative event; while Hubble is a prominent UK tech IPO, the incremental impact on SSIT's NAV depends entirely on the position size relative to the fund's total assets.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a new investment by the company's C Share portfolio, which expands its asset base but requires further details to assess financial significance. It represents a standard operational activity for an investment trust rather than a transformative corporate event.",
       "key_themes": [
-        "Portfolio Disclosure",
-        "UK Tech Exposure"
+        "Portfolio Investment",
+        "Capital Allocation"
       ]
     },
     {
@@ -150,10 +175,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a periodic marketing newsletter rather than a material corporate action, offering no new financial data or strategic shifts to influence valuation.",
+      "insight": "This announcement appears to be a sector newsletter or marketing material rather than a substantive regulatory filing, suggesting it has no direct bearing on the company's financial performance or governance.",
       "key_themes": [
-        "Investor Relations",
-        "Sector Commentary"
+        "Marketing",
+        "Sector Update"
       ]
     },
     {
@@ -163,11 +188,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/seraphim-space-investment-trust--ssit/initial-investments-for-c-share-portfolio/9702449",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine disclosure of initial investments for a new share class indicates standard portfolio construction rather than strategic pivots; lacks the transformative catalysts required for significant price re-rating in the current space sector volatility.",
+      "impact_score": 5,
+      "insight": "This announcement indicates the initiation of investment activities for a specific share class portfolio, signaling active management decisions that may influence future performance. It suggests operational progress but lacks details on scale or expected returns to assess immediate financial impact.",
       "key_themes": [
-        "portfolio expansion",
-        "capital deployment"
+        "Investment activity",
+        "Portfolio management"
       ]
     },
     {
@@ -177,12 +202,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/seraphim-space-investment-trust--ssit/acquisition-of-all-space-by-york-space-systems/9659730",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 9,
-      "insight": "This acquisition signals a decisive pivot from passive fund management to active asset ownership in the high-growth space infrastructure sector, leveraging York's launch capabilities to capture downstream value chains and differentiate SSIT in a crowded investment trust landscape.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a material acquisition by the investment trust, which typically alters its portfolio composition and strategic focus. Shareholders should anticipate potential changes in the fund's risk profile and future performance drivers as it integrates the new asset.",
       "key_themes": [
-        "Space Economy",
-        "Vertical Integration",
-        "Strategic Pivot"
+        "Acquisition",
+        "Portfolio Change",
+        "Strategic Investment"
       ]
     },
     {
@@ -192,12 +217,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/seraphim-space-investment-trust--ssit/acquisition-of-all-space-by-york-space-systems/9659193",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 9,
-      "insight": "This acquisition of ALL.SPACE marks a significant vertical integration into the launch services segment for SSIT, diversifying beyond its traditional satellite manufacturing focus and positioning it to capture value across the entire space supply chain in a high-growth sector.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a material acquisition that may alter the investment trust's portfolio composition and strategic direction. Shareholders should consider the potential impact of this new holding on the fund's overall risk profile and performance.",
       "key_themes": [
-        "Vertical Integration",
-        "Launch Services",
-        "Space Infrastructure"
+        "Acquisition",
+        "Portfolio change"
       ]
     },
     {
@@ -208,10 +232,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard monthly marketing update with no material financial data or corporate action, reflecting the routine communication cadence of closed-end funds rather than a substantive market-moving event.",
+      "insight": "This announcement appears to be a sector newsletter or marketing material rather than a substantive regulatory filing affecting the company's operations or financial position. It likely provides general industry commentary without conveying specific information relevant to shareholders.",
       "key_themes": [
-        "Investor Relations",
-        "Sector Marketing"
+        "Sector Update",
+        "Marketing"
       ]
     },
     {
@@ -268,12 +292,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/seraphim-space-investment-trust--ssit/iceye-financing-round-/9608514",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The financing round for ICEYE, a key portfolio holding, signals continued institutional confidence in the commercial satellite imagery sector despite broader space tech volatility; this validates Seraphim's thesis on data monetization but highlights the illiquidity risks inherent in their private market strategy.",
+      "impact_score": 3,
+      "insight": "This headline references a financing event involving a third party rather than the investment trust itself, suggesting it is likely an informational update regarding one of its portfolio holdings. Such announcements typically have limited direct impact on the trust's immediate financial position or share price unless the portfolio company is of exceptional significance.",
       "key_themes": [
-        "Space Economy",
-        "Portfolio Performance",
-        "Private Equity"
+        "Portfolio Update",
+        "Investment Activity"
       ]
     },
     {
@@ -284,11 +307,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "Inclusion in the FTSE 250 triggers mandatory buying from passive index funds and enhances liquidity, providing a significant valuation premium for this niche space-focused investment trust amidst high interest rate pressures.",
+      "insight": "Admission to a major index like the FTSE 250 typically signifies increased visibility and mandatory inclusion by passive funds, which can drive significant inflows of capital. This event generally enhances liquidity and market profile for shareholders without implying immediate operational changes.",
       "key_themes": [
-        "FTSE 250",
-        "Passive Flows",
-        "Space Sector"
+        "Index Inclusion",
+        "Market Visibility"
       ]
     },
     {
@@ -299,10 +321,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory disclosure of individual director transactions which, without volume or direction context, carries negligible market impact for a closed-end investment trust where NAV and portfolio composition drive valuation.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity.",
       "key_themes": [
-        "Corporate Governance",
-        "Minor Administrative"
+        "Director dealings",
+        "Governance"
       ]
     },
     {
@@ -313,10 +335,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures typically carry minimal market impact unless involving substantial block trades or insider trading alerts; without volume or price context, this remains an administrative filing with no immediate strategic implication for SSIT's valuation.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has engaged in a transaction involving the company's shares. Such disclosures are routine regulatory requirements that provide transparency into insider trading activity but typically do not signal immediate strategic changes.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -327,9 +349,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard periodic newsletter with no price-sensitive information or material corporate actions, reflecting routine investor relations activity rather than a catalyst for share price movement.",
+      "insight": "This appears to be a marketing newsletter or press release regarding an external sector rather than a substantive regulatory announcement affecting the company's operations or finances. It likely serves as promotional material with no direct bearing on shareholder value.",
       "key_themes": [
-        "Investor Relations",
+        "Marketing",
         "Sector Update"
       ]
     }

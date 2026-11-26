@@ -2,9 +2,20 @@
   "name": "Renalytix (Reg S)",
   "ticker": "RENX",
   "slug": "renalytix-renx",
-  "announcement_count": 44,
-  "latest_announcement": "2026-11-18T07:00:00",
+  "announcement_count": 45,
+  "latest_announcement": "2026-11-25T15:47:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T15:47:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/renalytix-reg-s---renx/holding-s-in-company/9894189",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-18T07:00:00",
       "category": "AGM/EGM",
@@ -12,11 +23,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/renalytix-reg-s---renx/notice-of-2026-annual-general-meeting/9880573",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative notice for the 2026 AGM, indicating no immediate material corporate actions or strategic shifts. For Renalytix, a pre-revenue biotech, routine governance meetings are low-impact events compared to clinical trial results or financing rounds.",
+      "impact_score": 3,
+      "insight": "This notice confirms the scheduling of a standard annual general meeting, which is a routine governance event for shareholders. It typically involves procedural matters such as the approval of accounts and director reappointments rather than significant strategic changes.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Administration"
+        "Governance",
+        "Shareholder Meeting"
       ]
     },
     {
@@ -38,10 +49,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "Conference attendance announcements are standard investor relations activities with negligible immediate financial impact; for Renalytix, the focus remains on clinical validation and commercialization milestones rather than event logistics.",
+      "insight": "This announcement indicates attendance at an investor event, which is typically a marketing or networking activity with no immediate financial impact on shareholders.",
       "key_themes": [
         "Investor Relations",
-        "Biotech Sector"
+        "Conference"
       ]
     },
     {
@@ -52,10 +63,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard regulatory filing for third-party research publication with no intrinsic corporate action or financial data; such announcements are routine noise in the biotech sector and do not alter the fundamental investment thesis or valuation.",
+      "insight": "This announcement signifies the publication of third-party research rather than a corporate action by the company itself. It generally provides external analyst views but does not convey new material information or strategic developments for shareholders.",
       "key_themes": [
-        "Regulatory Filing",
-        "Market Noise"
+        "Analyst Report",
+        "Market Commentary"
       ]
     },
     {
@@ -113,10 +124,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory filing for a PDMR shareholding update, likely reflecting routine compliance rather than significant insider sentiment shifts; in the volatile biotech sector, such administrative disclosures rarely drive immediate price action without accompanying fundamental catalysts.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. While it provides transparency on individual holdings, it typically carries low immediate significance for general shareholders unless accompanied by context regarding the volume or direction of the trade.",
       "key_themes": [
-        "Regulatory Compliance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -149,10 +160,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard regulatory requirements with negligible immediate market impact for Renalytix, a small-cap biotech where value is driven by clinical trial outcomes rather than insider trading activity.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Regulatory Compliance",
-        "Low Impact"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -246,11 +257,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/renalytix-reg-s---renx/additional-ceo-share-purchase/9775262",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "While CEO purchases signal personal confidence in Renalytix's AI-driven diagnostic pipeline, the market prioritizes clinical validation milestones and commercial partnerships over insider trading activity for pre-revenue biotech firms.",
+      "impact_score": 4,
+      "insight": "This announcement signifies a director dealing where the CEO has purchased shares, which may indicate internal confidence in the company's prospects. Such transactions are routine governance disclosures that typically carry low immediate financial impact for shareholders.",
       "key_themes": [
-        "Insider Dealing",
-        "Biotech Sentiment"
+        "Director dealings",
+        "Governance"
       ]
     },
     {
@@ -272,9 +283,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a purely administrative filing regarding the company's financial year-end date, carrying no immediate commercial or financial weight. While such changes can signal upcoming restructuring or alignment with parent entities, it lacks the substantive catalysts required for market movement in the current biotech sector.",
+      "insight": "This announcement signifies a routine administrative change to the company's financial reporting calendar. It has no immediate bearing on shareholder value as it does not disclose operational or financial performance.",
       "key_themes": [
-        "Corporate Governance",
+        "Governance",
         "Administrative"
       ]
     },
@@ -307,11 +318,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/renalytix-reg-s---renx/ceo-share-purchase/9766690",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "While CEO purchases signal internal confidence, the Reg S designation implies offshore trading which may limit immediate impact on UK liquidity; in the current biotech sentiment climate, such deals are routine confidence-building measures rather than transformative catalysts.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by the Chief Executive Officer. Such transactions generally signal internal confidence in the company's prospects but are standard regulatory disclosures with limited immediate financial impact.",
       "key_themes": [
-        "Insider Dealing",
-        "Biotech Sentiment"
+        "Director dealings",
+        "Governance"
       ]
     },
     {
@@ -365,12 +376,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/renalytix-reg-s---renx/capital-access-window-renalytix-plc/9760526",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard regulatory notification for the opening of a capital raising window, likely for a placing or open offer to fund R&D and commercialization; while essential for growth-stage biotechs, it carries dilution risk without guaranteeing successful subscription in the current volatile market.",
+      "impact_score": 7,
+      "insight": "This headline indicates a formal process to access capital markets, which typically signifies a significant fundraise or financing arrangement that could dilute existing shareholders. Such announcements are material as they directly impact the company's liquidity and ownership structure.",
       "key_themes": [
-        "Capital Raise",
-        "Dilution Risk",
-        "Biotech Funding"
+        "Capital raise",
+        "Financing"
       ]
     },
     {
@@ -380,11 +390,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/renalytix-reg-s---renx/result-of-wrap-retail-offer-/9759852",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "The conclusion of a WRAP retail offer typically indicates a modest capital raise aimed at extending the cash runway rather than funding transformative growth, reflecting the persistent liquidity constraints common in small-cap biotech.",
+      "impact_score": 7,
+      "insight": "This announcement confirms the outcome of a retail capital raising initiative, indicating whether funds have been secured for the company. Such results are significant for shareholders as they determine the immediate availability of new capital and potential dilution.",
       "key_themes": [
-        "capital_raise",
-        "biotech_funding"
+        "Capital raise",
+        "Fundraising",
+        "Shareholder action"
       ]
     },
     {
@@ -405,11 +416,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/renalytix-reg-s---renx/wrap-retail-offer-for-up-to-1-000-000-/9753045",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "A £1m retail placing via WRAP is a negligible capital raise for Renalytix, indicating no immediate dilution risk to existing shareholders and reflecting the company's likely reliance on larger institutional funding or grant income rather than public market fundraising.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a capital raise through a placing to retail investors, which typically results in share dilution for existing holders. The involvement of WRAP suggests a structured distribution channel, indicating an effort to broaden the shareholder base.",
       "key_themes": [
-        "capital_raise",
-        "retail_offer"
+        "Capital raise",
+        "Placing",
+        "Dilution"
       ]
     },
     {
@@ -419,12 +431,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/renalytix-reg-s---renx/result-of-fundraise/9752873",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This capital raise is critical for Renalytix to extend its cash runway amidst the protracted commercialisation challenges in the AI diagnostics sector, mitigating immediate insolvency risk but likely diluting existing shareholders.",
+      "impact_score": 7,
+      "insight": "This announcement confirms the outcome of a capital raising exercise, which typically involves issuing new shares and may lead to dilution for existing shareholders.",
       "key_themes": [
-        "Capital Raise",
-        "Dilution",
-        "Cash Runway"
+        "Capital raise",
+        "Fundraising"
       ]
     },
     {
@@ -456,11 +467,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/renalytix-reg-s---renx/capital-access-window-renalytix-plc/9748669",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement confirms the opening of a capital raising window but lacks specific pricing or size details, rendering it neutral until execution; for Renalytix, the critical implication is dilution risk versus survival cash runway in a competitive diagnostics sector.",
+      "impact_score": 7,
+      "insight": "This headline indicates a formal engagement with a Capital Access Window, which typically signifies an active process to secure external funding or investment. For shareholders, this suggests potential dilution or significant changes to the capital structure as the company seeks financial resources.",
       "key_themes": [
-        "Capital Raise",
-        "Dilution Risk"
+        "Capital raise",
+        "Funding",
+        "Corporate finance"
       ]
     },
     {
@@ -470,12 +482,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/renalytix-reg-s---renx/proposed-fundraise/9747833",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This capital raise is critical for Renalytix to extend its cash runway amidst the protracted commercialization timeline of AI diagnostics in the UK NHS and global markets. It mitigates immediate insolvency risk but signals continued reliance on external funding before achieving sustainable revenue scale.",
+      "impact_score": 7,
+      "insight": "A proposed fundraise typically indicates a need for new capital, which may lead to share dilution for existing holders. This type of announcement is significant as it often reflects strategic financing or liquidity requirements.",
       "key_themes": [
-        "Capital Raise",
-        "Biotech Funding",
-        "Cash Burn"
+        "Capital raise",
+        "Dilution risk",
+        "Corporate finance"
       ]
     },
     {

@@ -2,9 +2,23 @@
   "name": "Empire Metals Limited NPV (DI)",
   "ticker": "EEE",
   "slug": "empire-metals-eee",
-  "announcement_count": 8,
-  "latest_announcement": "2026-11-16T07:30:00",
+  "announcement_count": 9,
+  "latest_announcement": "2026-11-25T12:35:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T12:35:00",
+      "category": null,
+      "headline": "Prospectus Lodged with ASIC and ASX",
+      "url": "https://www.investegate.co.uk/announcement/rns/empire-metals-limited-npv-di---eee/prospectus-lodged-with-asic-and-asx-/9893838",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "Following the November capital access window, lodging a prospectus indicates progress in raising funds. This suggests the company is advancing its financing efforts to support operations.",
+      "key_themes": [
+        "Capital raise",
+        "Corporate action"
+      ]
+    },
     {
       "timestamp": "2026-11-16T07:30:00",
       "category": null,
@@ -12,11 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/empire-metals-limited-npv-di---eee/capital-access-window-empire-metals-limited/9876566",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard investor relations update regarding capital raising capabilities rather than a substantive corporate action or financial result; for junior explorers like Empire Metals, such announcements are routine maintenance and lack immediate price catalysts without accompanying specific funding terms.",
+      "impact_score": 7,
+      "insight": "This announcement indicates a potential fundraise or capital raising activity, which is significant for existing shareholders due to the risk of dilution and the need for new investment.",
       "key_themes": [
-        "Capital Markets",
-        "Investor Relations"
+        "Capital raise",
+        "Funding"
       ]
     },
     {
@@ -26,12 +40,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/empire-metals-limited-npv-di---eee/capital-access-window-trading-halt/9875788",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Trading halts for capital access are standard procedure to ensure fair pricing during fundraising; while necessary, they signal potential dilution risk and liquidity suspension without guaranteeing successful capital raising in the current junior mining sentiment.",
+      "impact_score": 9,
+      "insight": "A trading halt indicates a significant event requiring immediate market attention, often preceding news of a capital raise, corporate action, or suspension. This creates substantial uncertainty for shareholders regarding the company's status and future liquidity.",
       "key_themes": [
-        "Capital Raising",
-        "Liquidity Risk",
-        "Junior Mining"
+        "Trading Halt",
+        "Capital Access Window",
+        "Market Suspension"
       ]
     },
     {
@@ -41,11 +55,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/empire-metals-limited-npv-di---eee/partnership-with-cmci-crc/9773984",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Partnerships with research bodies like CMCI CRC are standard for junior explorers to validate resource estimates but rarely drive immediate valuation changes without a defined path to production or funding.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a new partnership or collaboration, which may indicate strategic development but lacks specific details regarding financial impact or scale in the headline.",
       "key_themes": [
-        "exploration",
-        "strategic alliance"
+        "Partnership",
+        "Strategic alliance"
       ]
     },
     {
@@ -70,10 +84,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Technical upgrades at early-stage exploration assets like Pitfield are routine operational updates that rarely drive immediate valuation changes without confirmed resource expansion or financing; the market typically discounts such announcements until production feasibility is established.",
+      "insight": "This announcement indicates an operational update regarding a specific project, which typically signifies progress in exploration or development activities rather than immediate financial impact. Without details on scale or results, it represents routine corporate activity for shareholders.",
       "key_themes": [
-        "exploration",
-        "operational_update"
+        "Operational Update",
+        "Project Development"
       ]
     },
     {
@@ -83,11 +97,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/empire-metals-limited-npv-di---eee/long-term-incentive-plan-and-grant-of-awards/9671302",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative update regarding executive compensation structures, common in junior mining firms to retain talent during exploration phases; it carries no immediate financial or operational significance for shareholders.",
+      "impact_score": 4,
+      "insight": "This announcement signifies a governance-related incentive scheme for staff, which is a standard administrative action. It does not indicate any immediate financial impact or strategic shift for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Executive Compensation"
+        "Governance",
+        "Incentives"
       ]
     },
     {
@@ -108,11 +122,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/empire-metals-limited-npv-di---eee/appointment-of-joint-corporate-broker-/9600719",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Appointment of a joint corporate broker is standard administrative housekeeping for AIM-listed junior miners like Empire Metals, aimed at maintaining liquidity and investor access rather than signaling immediate strategic shifts or capital raises.",
+      "impact_score": 4,
+      "insight": "This appointment signifies a change in the firm's financial advisory representation, which is typically an administrative governance matter rather than a direct indicator of operational or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "AIM Administration"
+        "Governance",
+        "Corporate Services"
       ]
     }
   ]

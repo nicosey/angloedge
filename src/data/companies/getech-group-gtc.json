@@ -2,9 +2,23 @@
   "name": "GETECH Group",
   "ticker": "GTC",
   "slug": "getech-group-gtc",
-  "announcement_count": 15,
-  "latest_announcement": "2026-10-15T10:00:00",
+  "announcement_count": 16,
+  "latest_announcement": "2026-11-26T14:31:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T14:31:00",
+      "category": null,
+      "headline": "New Globe Release Pioneers Next-Generation Pa...",
+      "url": "https://www.investegate.co.uk/announcement/ukn/getech-group--gtc/new-globe-release-pioneers-next-generation-pa-/9896236",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "The announcement follows the notice of results and investor presentation. Shareholders should watch for details in the upcoming investor presentation.",
+      "key_themes": [
+        "Results",
+        "Investor Relations"
+      ]
+    },
     {
       "timestamp": "2026-10-15T10:00:00",
       "category": null,
@@ -34,12 +48,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/getech-group--gtc/notice-of-results-investor-presentation/9778565",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a small-cap industrial services firm, GTC's results are critical for validating its post-acquisition integration strategy and margin resilience in a high-interest-rate environment; the accompanying investor presentation will likely focus on order book visibility and cost control rather than transformative growth.",
+      "impact_score": 5,
+      "insight": "This announcement indicates that scheduled financial results and an accompanying investor presentation are forthcoming, signaling a routine update on the company's performance without revealing specific outcomes or guidance in the headline.",
       "key_themes": [
-        "earnings_release",
-        "small_cap",
-        "industrial_services"
+        "Results",
+        "Investor Relations"
       ]
     },
     {
@@ -64,10 +77,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible signal for institutional investors compared to aggregate insider sentiment or corporate strategy shifts.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Regulatory Compliance",
-        "Minor Administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -78,10 +91,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures typically carry minimal market impact unless accompanied by unusual volume or timing relative to price action; without specific transaction details in the headline, this is classified as standard administrative reporting.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with responsibility for managing the company. Such disclosures are standard governance requirements and generally carry low immediate impact on shareholder value unless they signal significant insider sentiment shifts.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -179,11 +192,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/getech-group--gtc/result-of-agm/9597442",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard post-meeting confirmation of shareholder resolutions for GETECH Group, carrying no new financial data or strategic shifts. Such announcements are routine administrative updates with negligible immediate impact on share price or valuation.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or auditor appointments. It signifies standard corporate governance activity rather than any material change to the company's strategic direction or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder approval"
       ]
     }
   ]

@@ -2,9 +2,22 @@
   "name": "Cooks Coffee Company Limited",
   "ticker": "COOK",
   "slug": "cooks-coffee-company-cook",
-  "announcement_count": 6,
-  "latest_announcement": "2026-11-10T07:00:00",
+  "announcement_count": 7,
+  "latest_announcement": "2026-11-25T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T07:00:00",
+      "category": "Results",
+      "headline": "Interim Results",
+      "url": "https://www.investegate.co.uk/announcement/rns/cooks-coffee-company-limited--cook/interim-results/9892155",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled interim results release, which provides shareholders with an update on the company's financial performance and operational progress for the first half of the year.",
+      "key_themes": [
+        "Results"
+      ]
+    },
     {
       "timestamp": "2026-11-10T07:00:00",
       "category": "Trading Update",
@@ -12,12 +25,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/cooks-coffee-company-limited--cook/trading-update-/9866455",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a high-beta consumer discretionary stock, COOK's trading update is critical for gauging the resilience of the premium coffee chain model against persistent cost-of-living pressures and wage inflation in the UK hospitality sector.",
+      "impact_score": 5,
+      "insight": "A trading update is a scheduled disclosure that provides shareholders with an interim view of the company's performance, though the specific direction or magnitude of the results remains unknown from the headline alone.",
       "key_themes": [
-        "Consumer Discretionary",
-        "UK Retail",
-        "Trading Update"
+        "Trading Update",
+        "Performance"
       ]
     },
     {
@@ -42,11 +54,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/cooks-coffee-company-limited--cook/appointment-of-group-marketing-director/9769150",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard operational appointment within the high-turnover hospitality sector; while key hires signal strategic focus on brand revitalization, it lacks the transformative weight of M&A or executive succession required to move the stock price significantly.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in senior management structure, which may influence the company's strategic direction and operational focus. Shareholders should monitor subsequent disclosures for details on how this appointment aligns with broader corporate objectives.",
       "key_themes": [
-        "Corporate Governance",
-        "Operational Management"
+        "Governance",
+        "Management Change"
       ]
     },
     {

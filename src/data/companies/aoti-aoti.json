@@ -24,11 +24,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of individual director transactions with no aggregate volume data provided, rendering it immaterial for immediate price action. In the absence of significant block trades or coordinated insider selling patterns, this falls under routine administrative reporting.",
+      "insight": "This announcement discloses transactions by directors or persons discharging managerial responsibilities, which is a standard regulatory requirement for transparency. It generally signifies routine compliance rather than a material event affecting the company's strategic direction or financial performance.",
       "key_themes": [
-        "Director Dealing",
-        "Regulatory Compliance",
-        "Low Impact"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -53,10 +52,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard Employee Stock Purchase Plan (ESPP) transaction with negligible market impact, reflecting routine compensation rather than strategic insider sentiment or capital movement.",
+      "insight": "This announcement relates to director shareholdings under an Employee Share Purchase Plan, which is a routine governance filing. It generally signifies standard compliance activity rather than a material change in corporate strategy or financial position.",
       "key_themes": [
-        "ESPP",
-        "Routine Dealing"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -106,11 +105,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of a director's personal share purchase, which provides limited actionable insight into corporate strategy or financial health compared to institutional flows or executive option exercises.",
+      "insight": "This announcement indicates that a director has purchased shares in the company, which may signal internal confidence in the business. Such transactions are routine regulatory disclosures and typically carry limited immediate impact on share price unless part of a larger pattern.",
       "key_themes": [
-        "Director Dealing",
-        "Insider Activity",
-        "Routine Disclosure"
+        "Director dealings",
+        "Governance"
       ]
     }
   ]

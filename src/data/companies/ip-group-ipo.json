@@ -2,9 +2,20 @@
   "name": "IP Group",
   "ticker": "IPO",
   "slug": "ip-group-ipo",
-  "announcement_count": 26,
-  "latest_announcement": "2026-11-04T13:01:00",
+  "announcement_count": 27,
+  "latest_announcement": "2026-11-26T11:01:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T11:01:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/ip-group--ipo/holding-s-in-company/9895810",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-04T13:01:00",
       "category": null,
@@ -34,12 +45,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ip-group--ipo/ip-group-appointed-to-manage-uk-growth-portfolio/9851911",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This appointment signals a strategic pivot towards asset-light management fees, leveraging IP Group's core competency to generate recurring revenue from the UK government's £10bn growth portfolio initiative, thereby diversifying income streams beyond traditional licensing.",
+      "impact_score": 5,
+      "insight": "This appointment signifies a potential shift in strategic focus or operational structure for the company. Shareholders should monitor subsequent announcements for details regarding the scope and financial implications of this new management role.",
       "key_themes": [
-        "Strategic Expansion",
-        "Recurring Revenue",
-        "Government Partnership"
+        "Appointment",
+        "Strategic Change"
       ]
     },
     {
@@ -63,11 +73,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ip-group--ipo/microbiotica-raises-36m-in-series-c-financing/9825996",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a portfolio event for IP Group's Microbiotica holding; while the £36m raise validates the asset's valuation and provides runway, it represents dilution to IP Group's stake rather than a direct corporate action by the listed entity.",
+      "impact_score": 1,
+      "insight": "This announcement concerns a third party rather than the named company, indicating no direct operational or financial impact for its shareholders.",
       "key_themes": [
-        "Portfolio Valuation",
-        "Venture Capital Funding"
+        "Third-party news",
+        "Capital raise"
       ]
     },
     {
@@ -77,12 +87,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ip-group--ipo/ip-group-leads-round-in-matter-machine/9816863",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This investment aligns with IP Group's core strategy of monetising intellectual property through venture capital, but as a minority stake in a pre-revenue deep tech firm, it poses minimal immediate financial impact compared to their core licensing revenue streams.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a strategic investment or partnership where the company is leading a funding round for another entity, indicating active capital deployment. For shareholders, this suggests ongoing business development activity but lacks specific details on financial impact or valuation.",
       "key_themes": [
-        "Venture Capital",
-        "IP Monetisation",
-        "Deep Tech"
+        "Investment",
+        "Capital deployment",
+        "Partnership"
       ]
     },
     {
@@ -103,11 +113,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ip-group--ipo/ip-group-completes-partial-realisation-in-ont/9803045",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This partial realisation represents a standard liquidity event for early-stage venture capital holdings rather than a strategic shift in IP Group's core business model, reflecting routine portfolio management within the high-risk tech investment sector.",
+      "impact_score": 7,
+      "insight": "The partial realisation of an asset indicates a strategic move to monetize holdings, which can provide liquidity or reduce risk for shareholders. This type of disposal is typically considered a material event that may influence the company's capital structure and future investment capacity.",
       "key_themes": [
-        "Venture Capital",
-        "Portfolio Realisation"
+        "Asset disposal",
+        "Capital management",
+        "Strategic review"
       ]
     },
     {
@@ -129,10 +140,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard administrative notice confirming the release of financial results rather than the results themselves; it carries no immediate pricing impact or strategic signal for IP Group's intellectual property licensing model.",
+      "insight": "This announcement indicates that scheduled financial results are being released, but the headline provides no information regarding the direction or magnitude of the performance. Shareholders should anticipate a standard update on the company's financial position without any immediate indication of positive or negative surprises.",
       "key_themes": [
-        "administrative",
-        "routine"
+        "Results",
+        "Financial reporting"
       ]
     },
     {
@@ -165,10 +176,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of individual director transactions rather than a corporate strategic event; without details on direction or volume, it holds no immediate predictive value for IP Group's valuation.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with significant shareholdings rather than a strategic corporate event. Such filings are standard governance disclosures and generally carry low immediate impact on shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -179,10 +190,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director purchases in IP Group typically signal low-level confidence rather than strategic shifts, given the company's niche position in IP monetization and the lack of transformative catalysts in recent trading updates.",
+      "insight": "This announcement indicates that directors have purchased shares in the company, which may signal internal confidence in its future prospects. Such dealings are routine governance disclosures and typically carry limited immediate impact on share price compared to strategic corporate actions.",
       "key_themes": [
-        "minor_administrative",
-        "director_confidence"
+        "Director Dealings",
+        "Governance"
       ]
     },
     {
@@ -232,12 +243,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ip-group--ipo/further-statement-re-possible-offer/9675649",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This announcement signals active M&A execution for IP Group's venture capital arm, likely targeting early-stage tech assets to diversify revenue streams beyond traditional patent monetization, aligning with the sector's shift toward direct equity investment.",
+      "impact_score": 8,
+      "insight": "This headline indicates a potential offer is being considered, which typically triggers speculation regarding a change in control or strategic direction for shareholders. Such announcements often lead to increased share price volatility as the market assesses the likelihood and terms of a possible transaction.",
       "key_themes": [
-        "M&A Activity",
-        "Venture Capital",
-        "Strategic Diversification"
+        "M&A",
+        "Corporate Action"
       ]
     },
     {
@@ -247,11 +257,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ip-group--ipo/ip-group-plc-opd/9650371",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "An OPD filing is a standard administrative disclosure for the cancellation of unexercised options, typically having negligible impact on share price or capital structure unless tied to a specific executive departure or restructuring event.",
+      "impact_score": 5,
+      "insight": "The headline indicates a standard regulatory filing regarding Ordinary Dividend Payment (OPD), which typically signifies a scheduled distribution of profits to shareholders. Without further details on the amount or timing, this represents routine income generation rather than a strategic shift.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Dividend",
+        "Income"
       ]
     },
     {
@@ -286,11 +296,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ip-group--ipo/result-of-agm/9626000",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard post-meeting confirmation of shareholder resolutions for IP Group, typically rubber-stamping routine governance items or minor administrative approvals rather than signaling strategic shifts or material capital events.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or remuneration reports. It signifies standard corporate governance activity rather than a material change in the company's strategic or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -300,11 +310,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ip-group--ipo/istesso-starts-trial-of-leramistat-in-sarcopenia/9619664",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement reflects a standard licensing milestone for IP Group's portfolio company Istesso rather than direct corporate activity, offering limited immediate financial visibility given the early trial phase of leramistat in sarcopenia.",
+      "impact_score": 1,
+      "insight": "This announcement concerns a trial initiated by Istesso, an entity distinct from IP Group, indicating no direct operational or financial impact on the company for shareholders.",
       "key_themes": [
-        "Licensing",
-        "Clinical Trials"
+        "Third-party activity",
+        "Clinical trial"
       ]
     },
     {

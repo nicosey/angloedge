@@ -2,9 +2,23 @@
   "name": "Arbuthnot Banking Group",
   "ticker": "ARBB",
   "slug": "arbuthnot-banking-group-arbb",
-  "announcement_count": 4,
-  "latest_announcement": "2026-11-02T12:35:00",
+  "announcement_count": 5,
+  "latest_announcement": "2026-11-26T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T07:00:00",
+      "category": null,
+      "headline": "Withdrawal from Aquis Growth Market",
+      "url": "https://www.investegate.co.uk/announcement/rns/arbuthnot-banking-group--arbb/withdrawal-from-aquis-growth-market/9894480",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Withdrawal from Aquis Growth Market follows recent directorate changes and shareholding updates. Shareholders should monitor for further strategic direction.",
+      "key_themes": [
+        "Governance",
+        "Market Listing"
+      ]
+    },
     {
       "timestamp": "2026-11-02T12:35:00",
       "category": null,
@@ -35,14 +49,11 @@
       "category": null,
       "headline": "Hardman & Co Research: 1H26 accelerating franchise growth",
       "url": "https://www.investegate.co.uk/announcement/ukn/arbuthnot-banking-group--arbb/hardman-co-research-1h26-accelerating-fran-/9695923",
-      "routine_type": null,
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This headline indicates a research report issued by an external third party rather than a direct corporate announcement from the company. Such reports generally provide independent analysis but do not constitute material information or operational updates for shareholders.",
-      "key_themes": [
-        "Research",
-        "Analyst Report"
-      ]
+      "routine_type": "Third-party Research",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-07-21T11:00:00",
@@ -51,11 +62,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/arbuthnot-banking-group--arbb/directorate-change/9679768",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine board-level restructuring typical of UK banking governance compliance rather than a strategic inflection point; lacks the signal of executive turnover or capital allocation shifts that drive ARBB's valuation multiples.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the board composition, which is a standard governance event that may influence strategic oversight but does not inherently indicate a shift in financial performance or corporate control.",
       "key_themes": [
-        "Corporate Governance",
-        "Board Composition"
+        "Governance",
+        "Board Change"
       ]
     }
   ]

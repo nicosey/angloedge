@@ -79,10 +79,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of insider shareholding changes with no inherent market-moving significance; without details on the direction (buy/sell) or volume, it remains an administrative filing rather than a signal of strategic intent.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a standard regulatory disclosure. It provides limited insight into future performance but signals insider activity that shareholders may monitor for sentiment clues.",
       "key_themes": [
-        "regulatory_compliance",
-        "insider_activity"
+        "Director Dealing",
+        "Governance"
       ]
     },
     {
@@ -92,11 +92,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/fidelity-emerging-markets-limited-ptg-npv--feml/final-dividend-exchange-rate/9874873",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement clarifies the GBP conversion rate for the final dividend rather than altering the payout amount, indicating no fundamental change to shareholder yield expectations.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a final dividend declaration where the payout amount is determined by exchange rate fluctuations. Shareholders should anticipate that the actual value received may vary depending on currency movements relative to the reporting period.",
       "key_themes": [
-        "FX mechanics",
-        "Routine disclosure"
+        "Dividend",
+        "Currency risk"
       ]
     },
     {
@@ -953,11 +953,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/fidelity-emerging-markets-limited-ptg-npv--feml/result-of-meeting/9590038",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "As a closed-end fund, FEML's 'Result of Meeting' typically confirms routine governance matters such as director re-elections or fee approvals rather than strategic shifts; without specific details on NAV discounts or premium/discount management, the market impact is negligible.",
+      "impact_score": 3,
+      "insight": "This announcement typically signifies the conclusion of a board or shareholder meeting, which may involve routine governance matters or minor corporate actions. Without further detail, it represents standard administrative housekeeping with limited immediate financial impact.",
       "key_themes": [
-        "Corporate Governance",
-        "Closed-End Fund"
+        "Governance",
+        "Meeting results"
       ]
     },
     {

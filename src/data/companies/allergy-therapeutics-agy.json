@@ -2,9 +2,23 @@
   "name": "Allergy Therapeutics",
   "ticker": "AGY",
   "slug": "allergy-therapeutics-agy",
-  "announcement_count": 7,
-  "latest_announcement": "2026-11-17T07:00:00",
+  "announcement_count": 8,
+  "latest_announcement": "2026-11-26T15:16:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T15:16:00",
+      "category": null,
+      "headline": "Interim analysis of the G308 paediatric study",
+      "url": "https://www.investegate.co.uk/announcement/rns/allergy-therapeutics--agy/interim-analysis-of-the-g308-paediatric-study/9896323",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Following the Nov 2026 admission cancellation proposals, this interim analysis is critical. It likely determines whether the proposed cancellation proceeds or if the company continues trading.",
+      "key_themes": [
+        "Regulatory",
+        "Corporate Action"
+      ]
+    },
     {
       "timestamp": "2026-11-17T07:00:00",
       "category": null,
@@ -12,11 +26,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/allergy-therapeutics--agy/proposed-cancellation-/9878230",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Cancellation of a proposed share issue is typically an administrative reversal that removes immediate dilution risk rather than signaling new strategic direction, resulting in negligible fundamental impact.",
+      "impact_score": 9,
+      "insight": "A proposed cancellation of shares typically indicates a significant corporate restructuring, such as a reverse split to meet listing requirements or a capital reduction, which can materially alter the share structure and liquidity for existing shareholders.",
       "key_themes": [
-        "administrative",
-        "no_dilution"
+        "Corporate action",
+        "Governance",
+        "Capital structure"
       ]
     },
     {
@@ -27,10 +42,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "As a small-cap biotech, AGY's results are critical for assessing cash runway and the commercialisation progress of its immunotherapy pipeline, particularly in light of sector-wide funding constraints for pre-revenue life sciences firms.",
+      "insight": "This announcement signifies the release of scheduled audited financial results and the annual report, which are critical for assessing the company's past performance and future outlook. The headline does not indicate any specific positive or negative direction, so it represents a standard periodic update rather than a material event.",
       "key_themes": [
-        "biotech_pipeline",
-        "cash_runway"
+        "Results",
+        "Governance"
       ]
     },
     {
@@ -41,11 +56,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "This represents a definitive delisting event for Allergy Therapeutics, effectively ending its status as a listed equity and likely signaling the conclusion of its independent corporate existence or a full buyout by a private entity. For investors, this is a terminal liquidity event requiring immediate exit strategies, distinct from standard market volatility.",
+      "insight": "This announcement signifies the imminent removal of the company's shares from official listing, which typically results in a total loss of liquidity and value for public shareholders.",
       "key_themes": [
         "Delisting",
-        "Corporate Action",
-        "Liquidity Risk"
+        "Corporate action"
       ]
     },
     {
@@ -83,11 +97,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/allergy-therapeutics--agy/long-term-incentive-awards-/9617239",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative disclosure regarding employee compensation structures, common in biotech firms to retain talent, but it carries no immediate financial or strategic weight for shareholders.",
+      "impact_score": 3,
+      "insight": "This announcement typically signifies the grant or vesting of long-term incentive awards to employees or directors, which is a standard governance matter. It generally has a neutral impact on shareholder value unless it indicates significant dilution or changes in executive compensation structures.",
       "key_themes": [
-        "Corporate Governance",
-        "HR Administration"
+        "Governance",
+        "Executive Compensation"
       ]
     },
     {
@@ -97,11 +111,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/allergy-therapeutics--agy/allergy-therapeutics-to-present-at-eaaci-2026/9614850",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Presentation at a major congress like EAACI serves as low-visibility marketing for Allergy Therapeutics' SLIT products rather than a catalyst for immediate financial change; without accompanying clinical data release or commercial partnership news, the market impact remains negligible.",
+      "impact_score": 2,
+      "insight": "This announcement signifies a marketing or scientific presentation activity at an external conference, which is generally considered administrative housekeeping with no immediate financial impact for shareholders.",
       "key_themes": [
-        "Scientific Conference",
-        "Marketing"
+        "Marketing",
+        "Conference"
       ]
     }
   ]

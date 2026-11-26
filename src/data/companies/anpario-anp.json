@@ -34,12 +34,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/anpario--anp/interim-results/9761843",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Anpario's interim results highlight the operational challenges within the specialty chemicals sector, specifically regarding margin pressure from raw material volatility and supply chain disruptions, which is a recurring theme for UK-listed chemical firms in the current macro environment.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled release of interim financial results, which provides shareholders with an update on the company's performance for the first half of the financial year. The specific direction or magnitude of the results is not indicated in the headline.",
       "key_themes": [
-        "interim results",
-        "specialty chemicals",
-        "margin pressure"
+        "Results"
       ]
     },
     {
@@ -49,11 +47,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/anpario--anp/death-of-non-executive-director/9723839",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "While the loss of a Non-Executive Director is an administrative governance event rather than a fundamental business shock, it introduces minor uncertainty regarding board oversight and committee continuity in a small-cap biotech sector where key relationships are critical.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the board composition, which is a standard governance event. While the loss of a non-executive director may require interim arrangements, it typically does not indicate immediate strategic disruption or financial impact.",
       "key_themes": [
         "Governance",
-        "Board Composition"
+        "Board Change"
       ]
     },
     {
@@ -73,13 +71,10 @@
       "headline": "Transaction in Own Shares & Completion of Buyback",
       "url": "https://www.investegate.co.uk/announcement/rns/anpario--anp/transaction-in-own-shares-completion-of-buyback/9688603",
       "routine_type": "Transaction in Own Shares",
-      "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement confirms the completion of a share buyback program, which generally signifies that the company has repurchased its own shares from the market. This action can reduce the number of outstanding shares and potentially increase earnings per share for remaining shareholders.",
-      "key_themes": [
-        "Share Buyback",
-        "Capital Return"
-      ]
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-07-20T10:50:00",
@@ -165,11 +160,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/anpario--anp/result-of-agm/9625892",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director re-elections and auditor appointments rather than strategic shifts or capital allocation changes.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director re-elections or statutory resolutions. It signifies standard corporate governance activity rather than a material change in the company's strategic or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -223,11 +218,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/anpario--anp/posting-of-annual-report-and-notice-of-agm/9588714",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing for the Annual General Meeting, indicating no immediate material corporate action or financial disclosure beyond routine governance requirements.",
+      "impact_score": 3,
+      "insight": "This announcement signifies the scheduling of the Annual General Meeting and the availability of the annual report, which are routine governance events. It provides shareholders with the opportunity to vote on key matters and review the company's performance for the year.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Shareholder meeting"
       ]
     }
   ]

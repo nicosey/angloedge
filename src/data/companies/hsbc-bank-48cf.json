@@ -2,9 +2,20 @@
   "name": "HSBC BANK PLC",
   "ticker": "48CF",
   "slug": "hsbc-bank-48cf",
-  "announcement_count": 72,
-  "latest_announcement": "2026-11-20T09:31:00",
+  "announcement_count": 73,
+  "latest_announcement": "2026-11-26T08:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T08:00:00",
+      "category": null,
+      "headline": "Post Stabilisation Notice",
+      "url": "https://www.investegate.co.uk/announcement/rns/hsbc-bank-plc--48cf/post-stabilisation-notice/9895286",
+      "routine_type": "Debt Notices",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T09:31:00",
       "category": null,
@@ -408,11 +419,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-bank-plc--48cf/half-year-report/9703513",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a core UK banking benchmark, HSBC's half-year results provide critical visibility into net interest margin resilience and credit cost normalization amidst high-rate environments, directly influencing FTSE 100 index weighting and peer valuation multiples.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled half-year results report, which provides shareholders with an update on the company's financial performance and operational progress for the first six months of the fiscal year.",
       "key_themes": [
-        "Interim Results",
-        "Banking Sector"
+        "Results",
+        "Financial Reporting"
       ]
     },
     {
@@ -708,11 +719,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-bank-plc--48cf/publication-of-a-prospectus/9616910",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing required for the distribution of debt securities or capital instruments, reflecting routine treasury operations rather than strategic shifts or equity dilution.",
+      "impact_score": 7,
+      "insight": "The publication of a prospectus typically signifies a significant capital raising activity or a major corporate transaction requiring regulatory approval. This event is likely to have substantial implications for shareholder equity and ownership structure.",
       "key_themes": [
-        "Capital Management",
-        "Regulatory Compliance"
+        "Capital raise",
+        "Regulatory filing"
       ]
     },
     {
@@ -722,11 +733,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/hsbc-bank-plc--48cf/publication-of-a-prospectus/9616906",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing required for the issuance of debt securities or capital instruments, reflecting routine treasury operations rather than strategic shifts or equity dilution.",
+      "impact_score": 8,
+      "insight": "The publication of a prospectus typically signifies a significant capital raising activity or a major corporate transaction requiring regulatory approval. This event is likely to have substantial implications for shareholder equity dilution or ownership structure.",
       "key_themes": [
-        "Capital Management",
-        "Debt Issuance"
+        "Capital raise",
+        "Regulatory filing"
       ]
     },
     {

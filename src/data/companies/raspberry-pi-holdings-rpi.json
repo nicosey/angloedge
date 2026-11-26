@@ -2,9 +2,23 @@
   "name": "Raspberry PI Holdings (WI)",
   "ticker": "RPI",
   "slug": "raspberry-pi-holdings-rpi",
-  "announcement_count": 10,
-  "latest_announcement": "2026-11-24T07:00:00",
+  "announcement_count": 11,
+  "latest_announcement": "2026-11-26T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T07:00:00",
+      "category": "Appointment",
+      "headline": "Board Appointment",
+      "url": "https://www.investegate.co.uk/announcement/rns/raspberry-pi-holdings-wi---rpi/board-appointment/9894489",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "Raspberry PI Holdings (WI) confirmed a directorate change and granted LTIP awards in November. This board update follows recent PDMR shareholding notifications.",
+      "key_themes": [
+        "Governance",
+        "Board Change"
+      ]
+    },
     {
       "timestamp": "2026-11-24T07:00:00",
       "category": "Director Dealing",
@@ -26,11 +40,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/raspberry-pi-holdings-wi---rpi/confirmation-of-directorate-change-grant-of-ltip/9863435",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine administrative update regarding board composition and executive compensation; while LTIP grants align management incentives with long-term shareholder value, they do not signal immediate strategic shifts or material financial impact for Raspberry Pi Holdings.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the board composition and the granting of long-term incentives, which are standard governance updates that may influence executive alignment but typically do not signal immediate strategic shifts or financial performance changes.",
       "key_themes": [
-        "Corporate Governance",
-        "Executive Compensation"
+        "Governance",
+        "Executive Compensation",
+        "Board Change"
       ]
     },
     {
@@ -41,10 +56,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in the consumer electronics retail sector typically signal internal alignment rather than strategic shifts, especially given RPI's recent focus on margin expansion and inventory management amidst a challenging high-street environment.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that provide transparency into insider activity but do not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Retail Sector"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -69,10 +84,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard results announcement for a high-growth consumer electronics retailer; while critical for assessing margin resilience amid inflationary pressures and supply chain normalization, it lacks the transformative catalysts required for an 8+ score.",
+      "insight": "This announcement indicates that scheduled financial results and related presentations are forthcoming, but the headline does not disclose the direction or magnitude of the performance.",
       "key_themes": [
-        "Consumer Discretionary",
-        "Retail Results"
+        "Results",
+        "Investor Relations"
       ]
     },
     {
@@ -105,10 +120,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of insider shareholding changes, which provides transparency but lacks the strategic weight of M&A or earnings guidance. In the current consumer discretionary sector, such routine filings are common and do not signal immediate directional shifts in company performance.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine compliance reporting rather than significant corporate action. It generally signifies standard governance activity without implying immediate strategic shifts or material financial impacts for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -118,11 +133,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/raspberry-pi-holdings-wi---rpi/trading-update/9603039",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "The announcement lacks specific financial metrics or strategic shifts, indicating a routine administrative filing with no immediate material implication for valuation or investor sentiment.",
+      "impact_score": 5,
+      "insight": "This announcement provides a trading update, but the headline does not indicate whether performance is positive or negative. Shareholders should await the full text to assess any material changes to financial guidance or operational metrics.",
       "key_themes": [
-        "Administrative",
-        "No Material Change"
+        "Trading Update",
+        "Performance"
       ]
     },
     {
@@ -132,11 +147,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/raspberry-pi-holdings-wi---rpi/result-of-agm/9602926",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of the Annual General Meeting, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital allocation changes.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of the Annual General Meeting, which typically involves routine shareholder approvals such as director reappointments and auditor appointments. It signifies standard corporate governance compliance rather than any material change to the company's strategic or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Shareholder approval"
       ]
     }
   ]

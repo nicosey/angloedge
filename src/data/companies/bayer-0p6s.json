@@ -2,9 +2,20 @@
   "name": "Bayer AG",
   "ticker": "0P6S",
   "slug": "bayer-0p6s",
-  "announcement_count": 14,
-  "latest_announcement": "2026-09-29T11:40:00",
+  "announcement_count": 15,
+  "latest_announcement": "2026-11-25T11:57:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T11:57:00",
+      "category": null,
+      "headline": "EQS-PVR: Bayer AG: Release according to Artic...",
+      "url": "https://www.investegate.co.uk/announcement/eqs/bayer-ag--0p6s/eqs-pvr-bayer-ag-release-according-to-artic-/9893881",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-09-29T11:40:00",
       "category": "Dividend",
@@ -56,12 +67,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/bayer-ag--0p6s/eqs-adhoc-bayer-aktiengesellschaft-bayer-se-/9661910",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 8,
-      "insight": "This €3bn raise is a critical liquidity intervention for Bayer, signaling urgent need to deleverage following the failed Monsanto acquisition and ongoing litigation over Roundup liabilities. It underscores the severe capital intensity required to stabilize the pharma giant's balance sheet amidst high interest rates and legal headwinds.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a significant capital raise aimed at restructuring the company's financial position. Such actions typically indicate a strategic effort to optimize liquidity and balance sheet strength for existing shareholders.",
       "key_themes": [
-        "Deleveraging",
-        "Liquidity Management",
-        "Pharma Balance Sheet Stress"
+        "Capital raise",
+        "Capital structure"
       ]
     },
     {

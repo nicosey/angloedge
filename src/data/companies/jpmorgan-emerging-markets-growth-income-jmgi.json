@@ -46,10 +46,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of individual director transactions with no material impact on the fund's NAV or strategy; routine PDMR dealings are common in closed-end funds and do not signal significant insider sentiment shifts.",
+      "insight": "This announcement relates to director dealings, which typically signifies routine compliance reporting rather than a significant strategic shift. It generally indicates standard governance activity with limited immediate impact on shareholder value.",
       "key_themes": [
-        "Regulatory Compliance",
-        "Closed-End Fund"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -93,10 +93,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard investor relations event with no immediate price-sensitive information or corporate action; such webinars are routine for closed-end funds to maintain engagement but do not signal strategic shifts or material financial changes.",
+      "insight": "This announcement indicates a scheduled investor webinar, which is generally considered administrative housekeeping or marketing material with no immediate bearing on shareholder value.",
       "key_themes": [
         "Investor Relations",
-        "Closed-End Fund"
+        "Communication"
       ]
     },
     {
@@ -106,11 +106,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-emerging-markets-growth-income-plc--jmgi/directorate-change/9856685",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine board-level personnel changes in closed-end funds typically signal continuity rather than strategic shift, lacking the material financial impact of M&A or earnings warnings.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the board composition, which may affect governance oversight but does not inherently indicate a shift in strategic direction or financial performance. Shareholders should monitor subsequent filings for details on the specific roles and qualifications of any new appointees.",
       "key_themes": [
-        "Corporate Governance",
-        "Closed-End Fund"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -120,11 +120,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-emerging-markets-growth-income-plc--jmgi/result-of-agm/9856680",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of an Annual General Meeting, which typically involves routine matters such as director re-elections and auditor appointments rather than strategic shifts or capital changes.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of the Annual General Meeting, which typically involves routine shareholder approvals such as director reappointments and auditor appointments. It signifies standard corporate governance compliance rather than any material change to the company's strategic direction or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "AGM Results"
       ]
     },
     {
@@ -647,10 +647,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of insider shareholding changes, which provides transparency but lacks the materiality to influence valuation or sentiment for an established investment trust.",
+      "insight": "This announcement signifies a standard disclosure of shareholding changes by a person discharging managerial responsibilities, which is routine regulatory housekeeping. It provides transparency regarding insider ownership but does not inherently signal a strategic shift or material financial event.",
       "key_themes": [
-        "Regulatory Compliance",
-        "Low Materiality"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -671,12 +671,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-emerging-markets-growth-income-plc--jmgi/dividend-declaration/9648143",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a closed-end fund, JMGI's dividend declaration signals management's confidence in underlying portfolio performance and liquidity, serving as a key metric for income-focused investors amidst volatile emerging market conditions.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a dividend declaration, which is typically classified as a minor corporate action with limited strategic impact compared to major financial events.",
       "key_themes": [
-        "closed-end fund",
-        "income distribution",
-        "emerging markets"
+        "Dividend",
+        "Income"
       ]
     },
     {

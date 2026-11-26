@@ -2,9 +2,20 @@
   "name": "Anglo-Eastern Plantations",
   "ticker": "AEP",
   "slug": "anglo-eastern-plantations-aep",
-  "announcement_count": 21,
-  "latest_announcement": "2026-11-20T07:00:00",
+  "announcement_count": 22,
+  "latest_announcement": "2026-11-25T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T07:00:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/anglo-eastern-plantations--aep/transaction-in-own-shares/9892140",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T07:00:00",
       "category": null,
@@ -45,12 +56,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/anglo-eastern-plantations--aep/replacement-trading-update-dividend-declaration/9818519",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The declaration of a replacement dividend signals management's intent to maintain shareholder returns despite potential underlying earnings volatility, reflecting the sector's focus on capital discipline amidst fluctuating commodity prices.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a change in dividend policy alongside a trading update, which provides shareholders with information on income distribution and recent operational performance.",
       "key_themes": [
-        "dividend_policy",
-        "capital_allocation",
-        "commodity_cyclicality"
+        "Dividend",
+        "Trading Update"
       ]
     },
     {
@@ -115,11 +125,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/anglo-eastern-plantations--aep/notice-of-results/9733207",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a notice of results for a commodity-linked plantation stock, this event carries moderate weight given the current volatility in rubber and palm oil prices; investors will scrutinize margin resilience against input cost inflation.",
+      "impact_score": 5,
+      "insight": "This announcement indicates that the company is scheduled to release its financial results, a routine event whose direction and significance cannot be determined from the headline alone.",
       "key_themes": [
-        "commodity cycle",
-        "earnings release"
+        "Results",
+        "Financial reporting"
       ]
     },
     {
@@ -173,11 +183,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/anglo-eastern-plantations--aep/share-buyback-programme/9653029",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine capital return mechanism typical for mature plantation firms with stable cash flows; lacks the transformative scale of major M&A or significant profit warnings, reflecting standard shareholder yield management rather than strategic pivot.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a formal intention to repurchase shares, which generally signifies management's confidence in the business and a potential mechanism for returning capital or supporting the share price.",
       "key_themes": [
-        "capital allocation",
-        "shareholder yield"
+        "Share Buyback",
+        "Capital Return"
       ]
     },
     {
@@ -213,10 +223,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements in the plantation sector typically reflect personal portfolio management rather than strategic shifts, especially given the sector's current focus on commodity price volatility and ESG compliance rather than insider trading signals.",
+      "insight": "This announcement relates to director dealing disclosures, which are routine regulatory filings that typically have minimal immediate impact on shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -226,11 +236,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/anglo-eastern-plantations--aep/result-of-agm/9619130",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of an Annual General Meeting, which carries no intrinsic financial value or strategic shift for Anglo-Eastern Plantations.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of the Annual General Meeting, which typically involves routine shareholder approvals such as director reappointments and auditor appointments. It signifies standard corporate governance compliance rather than a material change in the company's strategic or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -240,11 +250,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/anglo-eastern-plantations--aep/agm-trading-update/9617345",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard administrative filing for an AGM trading update, typical for UK-listed commodity producers like AEP to maintain transparency without signaling major strategic shifts or material financial volatility.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a scheduled trading update presented at an Annual General Meeting, which provides shareholders with interim performance information but lacks directional cues regarding financial results.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Disclosure"
+        "Trading Update",
+        "Governance",
+        "Shareholder Communication"
       ]
     },
     {

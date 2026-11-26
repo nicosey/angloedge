@@ -2,9 +2,22 @@
   "name": "British Smaller Companies VCT",
   "ticker": "BSV",
   "slug": "british-smaller-companies-vct-bsv",
-  "announcement_count": 7,
-  "latest_announcement": "2026-11-03T09:03:00",
+  "announcement_count": 8,
+  "latest_announcement": "2026-11-26T11:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T11:00:00",
+      "category": "Results",
+      "headline": "Half-year Financial Report",
+      "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct--bsv/half-year-financial-report/9895804",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "BSV publishes its half-year financial report, following the September AGM results and November dividend declaration. Shareholders should monitor subsequent quarterly updates for performance trends.",
+      "key_themes": [
+        "Results"
+      ]
+    },
     {
       "timestamp": "2026-11-03T09:03:00",
       "category": "Dividend",
@@ -12,12 +25,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct--bsv/dividend-declaration/9855544",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a VCT, the dividend declaration is the primary value driver for income-focused investors, directly reflecting the fund's ability to generate taxable income and maintain its tax-efficient status in a challenging small-cap equity environment.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a distribution of profits to shareholders, which is a standard operational event for investment vehicles. It confirms the payment of income but does not indicate any strategic change or material financial shift.",
       "key_themes": [
-        "VCT",
-        "Income Distribution",
-        "Tax Efficiency"
+        "Dividend",
+        "Income"
       ]
     },
     {
@@ -49,12 +61,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct--bsv/1st-quarter-results/9767720",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a VCT, quarterly results primarily signal dividend sustainability and NAV stability rather than operational growth; in the current high-yield environment, this update is critical for income-focused investors assessing the fund's ability to maintain tax-efficient payouts amidst volatile smaller-cap markets.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled quarterly performance results for shareholders. As the headline does not specify the direction of the results, it represents a routine update rather than a material event.",
       "key_themes": [
-        "VCT",
-        "Dividend Sustainability",
-        "NAV Performance"
+        "Results",
+        "Quarterly Update"
       ]
     },
     {
@@ -64,11 +75,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct--bsv/result-of-agm/9765639",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of an Annual General Meeting for a Venture Capital Trust, which typically involves routine approvals such as fee payments and director re-elections rather than strategic shifts or capital events.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine governance matters such as the approval of accounts or director reappointments. It signifies standard shareholder engagement rather than any material change to the company's strategic direction or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "VCT"
+        "Governance",
+        "Shareholder Meeting"
       ]
     },
     {
@@ -78,12 +89,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/british-smaller-companies-vct--bsv/payment-of-dividend-and-issue-of-equity/9674987",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The dual announcement of a dividend payment alongside an equity issue is standard operational mechanics for VCTs to maintain liquidity and meet investment targets, but the capital raise dilutes existing shareholders slightly while ensuring continued tax-advantaged exposure to the smaller cap sector.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a routine distribution of profits to shareholders alongside a capital increase, likely through the issuance of new shares. Such actions are standard operational events for investment trusts and do not inherently indicate a change in strategic direction or financial health.",
       "key_themes": [
-        "VCT",
-        "Capital Raising",
-        "Dividend"
+        "Dividend",
+        "Capital raise"
       ]
     },
     {
@@ -94,11 +104,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "As a VCT, the annual report primarily confirms dividend eligibility and NAV stability rather than signaling transformative growth; without specific data on new investments or NAV movement, this is standard regulatory disclosure for income-focused vehicles.",
+      "insight": "This announcement signifies the release of scheduled annual financial results, which are essential for shareholders to assess the fund's performance and distribution policy. The headline does not indicate any specific positive or negative direction regarding the outcomes.",
       "key_themes": [
-        "VCT",
-        "Annual Report",
-        "Income"
+        "Results",
+        "Annual Report"
       ]
     }
   ]

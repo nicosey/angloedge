@@ -2,9 +2,23 @@
   "name": "Amigo Holdings",
   "ticker": "AMGO",
   "slug": "amigo-holdings-amgo",
-  "announcement_count": 20,
-  "latest_announcement": "2026-11-13T07:00:00",
+  "announcement_count": 21,
+  "latest_announcement": "2026-11-25T07:16:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T07:16:00",
+      "category": "Appointment",
+      "headline": "Appointment of Chief Financial Officer",
+      "url": "https://www.investegate.co.uk/announcement/rns/amigo-holdings--amgo/appointment-of-chief-financial-officer-/9892977",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in senior management structure, which may impact operational oversight and financial reporting. Such appointments are standard governance updates that require monitoring for long-term strategic implications.",
+      "key_themes": [
+        "Governance",
+        "Management Change"
+      ]
+    },
     {
       "timestamp": "2026-11-13T07:00:00",
       "category": null,
@@ -12,12 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/amigo-holdings--amgo/draft-prospectus-submitted-to-fca/9873580",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 9,
-      "insight": "Submission of a draft prospectus signals imminent capital raising or listing activity, which is critical for Amigo's survival given its history of liquidity constraints and reliance on external funding to support its P2P lending model.",
+      "impact_score": 8,
+      "insight": "The submission of a draft prospectus indicates a significant capital raising event or listing process is underway, which typically involves substantial dilution for existing shareholders and introduces execution risk.",
       "key_themes": [
-        "Capital Raise",
-        "Corporate Action",
-        "Liquidity"
+        "Capital raise",
+        "Regulatory filing"
       ]
     },
     {
@@ -68,11 +81,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/amigo-holdings--amgo/integrated-copper-pgm-recovery-/9817621",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "The headline suggests a strategic pivot into mining or recycling, which is highly incongruous with Amigo Holdings' established identity as a credit intermediary; this likely indicates a severe misalignment between the RNS metadata and the actual corporate activity, rendering it administratively negligible for equity valuation.",
+      "impact_score": 1,
+      "insight": "This headline appears to be a generic keyword tag rather than a substantive regulatory announcement, likely resulting from an automated categorization error. It provides no specific information regarding corporate actions, financial performance, or strategic developments for shareholders.",
       "key_themes": [
-        "metadata_error",
-        "strategic_incongruity"
+        "Administrative",
+        "Categorization Error"
       ]
     },
     {
@@ -132,11 +145,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/amigo-holdings--amgo/application-to-admit-employee-shares/9761275",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing to list shares held by employees under the company's share scheme, indicating no immediate change in control or capital structure. Such routine disclosures are common for liquidity purposes and do not signal strategic shifts or material financial events.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a standard administrative procedure to list shares held by employees, which typically has minimal immediate financial impact on the broader shareholder base. It reflects routine corporate governance actions rather than strategic shifts or material financial events.",
       "key_themes": [
         "Corporate Governance",
-        "Share Scheme"
+        "Shareholder Information"
       ]
     },
     {
@@ -171,11 +184,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/amigo-holdings--amgo/senior-management-transition/9673559",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Leadership changes in the sub-prime lending sector are critical given Amigo's ongoing regulatory scrutiny and credit cycle volatility; this transition signals a potential strategic pivot to stabilize margins or address governance concerns amidst tightening capital requirements.",
+      "impact_score": 7,
+      "insight": "A senior management transition typically signals a significant change in leadership or strategic direction, which can materially affect shareholder confidence and future performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Sub-prime Lending",
+        "Governance",
         "Leadership Change"
       ]
     },
@@ -211,12 +223,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/amigo-holdings--amgo/interim-financial-results-/9625727",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a high-yield alternative credit lender, Amigo's interim results are critical for assessing credit loss provisions and dividend sustainability amidst rising UK household debt stress and potential regulatory tightening on affordability checks.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled release of interim financial results, which provides shareholders with an update on the company's performance for the period but does not indicate the direction or magnitude of that performance from the headline alone.",
       "key_themes": [
-        "Alternative Credit",
-        "Dividend Sustainability",
-        "Credit Risk"
+        "Results"
       ]
     },
     {
@@ -237,12 +247,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/amigo-holdings--amgo/significant-geochemical-results-kabete-project/9611604",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "While geochemical results are foundational for resource exploration, they are preliminary data points that do not constitute economic mineralization or resource estimates, limiting immediate market valuation impact compared to drilling results.",
+      "impact_score": 3,
+      "insight": "The headline indicates a results announcement, but the category label 'Results' is likely incorrect given the content refers to geochemical data rather than financial performance. This type of operational update generally signifies progress in exploration activities without providing immediate financial metrics for shareholders.",
       "key_themes": [
-        "exploration",
-        "Kabete Project",
-        "preliminary data"
+        "Exploration",
+        "Operational Update"
       ]
     },
     {
@@ -263,11 +272,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/amigo-holdings--amgo/admission-of-subscription-shares/9607131",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard administrative filing for the listing of new shares following a subscription event, likely related to a previous capital raise or convertible note conversion. It confirms liquidity but carries no intrinsic strategic value or immediate market-moving catalyst.",
+      "impact_score": 6,
+      "insight": "This announcement signifies a capital raising activity through the admission of new shares, which typically results in share dilution for existing holders. The specific financial impact and terms are not disclosed in the headline.",
       "key_themes": [
-        "Corporate Action",
-        "Administrative"
+        "Capital raise",
+        "Dilution"
       ]
     }
   ]

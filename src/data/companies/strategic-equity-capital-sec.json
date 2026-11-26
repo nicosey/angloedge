@@ -2,9 +2,20 @@
   "name": "Strategic Equity Capital",
   "ticker": "SEC",
   "slug": "strategic-equity-capital-sec",
-  "announcement_count": 27,
-  "latest_announcement": "2026-11-24T16:12:00",
+  "announcement_count": 28,
+  "latest_announcement": "2026-11-26T09:51:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T09:51:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/prn/strategic-equity-capital--sec/holding-s-in-company/9895552",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-24T16:12:00",
       "category": null,
@@ -34,11 +45,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/strategic-equity-capital--sec/result-of-agm/9872851",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, typically rubber-stamping routine resolutions without material strategic shifts or capital events.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or auditor appointments. It signifies standard corporate governance compliance rather than any material change to the company's operations or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -219,11 +230,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/strategic-equity-capital--sec/directorate-changes/9704216",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine board-level administrative change typical for investment trusts; without details on the appointee's background or a concurrent strategy shift, this holds negligible immediate impact on valuation or operational direction.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the board composition, which is a standard governance event. Such changes can influence strategic direction but are typically considered routine unless they involve key leadership roles.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Governance",
+        "Board Change"
       ]
     },
     {

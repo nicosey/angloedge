@@ -2,9 +2,20 @@
   "name": "Critical Metals",
   "ticker": "CRTM",
   "slug": "critical-metals-crtm",
-  "announcement_count": 7,
-  "latest_announcement": "2026-11-05T07:00:00",
+  "announcement_count": 8,
+  "latest_announcement": "2026-11-26T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T07:00:00",
+      "category": "AGM/EGM",
+      "headline": "Notice of AGM",
+      "url": "https://www.investegate.co.uk/announcement/rns/critical-metals--crtm/notice-of-agm/9894482",
+      "routine_type": "Meeting Notices",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-05T07:00:00",
       "category": null,
@@ -12,11 +23,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/critical-metals--crtm/block-modelling-confirms-mineralisation-at-molulu-/9859322",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a technical exploration update confirming geological continuity rather than commercial viability; for junior miners like CRTM, such announcements are routine milestones that rarely move the stock without subsequent resource estimation or financing.",
+      "impact_score": 4,
+      "insight": "This announcement confirms the presence of mineralisation at a specific site, which is a standard technical update for exploration-stage entities. It signifies progress in resource definition but does not indicate commercial viability or immediate financial impact.",
       "key_themes": [
         "Exploration",
-        "Mineralisation"
+        "Resource Update"
       ]
     },
     {
@@ -38,10 +49,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "Standard regulatory disclosure for price volatility in a highly speculative small-cap explorer; lacks substantive operational catalysts or financial data to alter fundamental valuation.",
+      "insight": "This announcement is an administrative housekeeping notification regarding routine share price fluctuations and does not convey any specific corporate action or financial news.",
       "key_themes": [
-        "Compliance",
-        "Volatility"
+        "Administrative",
+        "Share Price Movement"
       ]
     },
     {
@@ -52,10 +63,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Field work commencement marks a necessary but low-value technical milestone in the exploration cycle, offering no immediate revenue visibility or de-risking of resource estimates compared to assay results. For junior explorers like CRTM, this is routine operational progress that rarely moves the share price without concurrent high-grade drill results.",
+      "insight": "This announcement signifies the start of operational field work, which is a standard procedural step for exploration or development companies but lacks specific details regarding scale or financial impact. Without further information on the scope or potential value of this activity, it represents routine progress rather than a material event for shareholders.",
       "key_themes": [
-        "Exploration",
-        "Operational Update"
+        "Operational Update",
+        "Exploration"
       ]
     },
     {
@@ -88,11 +99,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "This facility provides essential liquidity for CRTM's exploration and development phase without immediate equity dilution, a critical lifeline for junior miners in the current high-interest rate environment where traditional debt is scarce.",
+      "insight": "This announcement signifies that the company has secured a new source of debt financing through convertible loan notes, which may provide capital but also introduces potential future dilution for existing shareholders if conversion occurs.",
       "key_themes": [
-        "capital_raise",
-        "liquidity",
-        "mining_exploration"
+        "Capital raise",
+        "Debt financing",
+        "Dilution risk"
       ]
     }
   ]

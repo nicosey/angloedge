@@ -12,11 +12,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/saxon-weald-capital-plc--56qk/further-re-related-announcement/9884952",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 1,
-      "insight": "The vague headline 'Further re related announcement' is characteristic of boilerplate RNS filings used to update shareholders on ongoing administrative matters without disclosing material price-sensitive information, indicating negligible immediate market impact.",
+      "impact_score": 3,
+      "insight": "This headline indicates a follow-up to a previous disclosure, suggesting the content is likely administrative or supplementary rather than a standalone major event. Without specific details, it generally signifies routine regulatory compliance or minor updates that may not significantly alter shareholder value.",
       "key_themes": [
-        "Administrative",
-        "Low Impact"
+        "Regulatory Update",
+        "Corporate Governance"
       ]
     },
     {
@@ -26,12 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/saxon-weald-capital-plc--56qk/trading-update/9884174",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a small-cap investment trust with high volatility, any trading update significantly influences sentiment regarding its discount/premium dynamics and liquidity; however, without specific financial metrics in the prompt, it is classified as notable but routine rather than transformative.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled update on the company's trading performance, but the headline provides no indication of whether the results are positive or negative. Shareholders should await the full text to determine if there are any material changes to financial guidance or operational status.",
       "key_themes": [
-        "investment-trust",
-        "small-cap",
-        "sentiment-driver"
+        "Trading Update",
+        "Financial Performance"
       ]
     },
     {
@@ -41,12 +40,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/saxon-weald-capital-plc--56qk/annual-financial-report/9775512",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a small-cap AIM-listed investment trust, the annual report is critical for assessing NAV performance relative to peers and dividend sustainability in a high-rate environment, though it lacks the transformative catalysts of major M&A or strategic pivots.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled annual financial results, which provides shareholders with a comprehensive review of the company's performance and financial position over the past year. The specific direction or magnitude of the results remains unknown from the headline alone.",
       "key_themes": [
-        "AIM",
-        "Investment Trust",
-        "Annual Results"
+        "Results",
+        "Financial Reporting"
       ]
     },
     {
@@ -56,12 +54,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/saxon-weald-capital-plc--56qk/annual-financial-report-31-march-2026/9713113",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a closed-end investment trust focused on UK small-cap equities, the annual report provides critical data on net asset value (NAV) performance and discount levels relative to peers like Baillie Gifford or Scottish Mortgage. The primary market implication hinges on whether the reported NAV growth outpaces the FTSE SmallCap index and if the share discount has narrowed, signaling potential for mean reversion or dividend sustainability.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the release of scheduled annual financial results for the fiscal year ending 31 March 2026. It provides shareholders with a comprehensive overview of the company's performance and financial position over the past year.",
       "key_themes": [
-        "NAV Performance",
-        "Discount/Preimum Analysis",
-        "Small Cap Exposure"
+        "Results",
+        "Annual Report"
       ]
     }
   ]

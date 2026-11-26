@@ -57,10 +57,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard investor relations event with no immediate financial impact on the trust's NAV or distribution policy; it serves primarily as a platform for management to articulate strategy rather than signal material change.",
+      "insight": "This headline indicates attendance at an external event hosted by another organization, which constitutes a press release about another organisation with no direct bearing on the company's shareholders.",
       "key_themes": [
         "Investor Relations",
-        "Emerging Markets"
+        "External Event"
       ]
     },
     {
@@ -104,10 +104,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in closed-end investment trusts like Mobius rarely signal immediate strategic shifts or material value changes compared to open-market equities, as holdings are often static or part of long-term alignment strategies.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into the company's operational performance but may signal individual confidence or lack thereof depending on the nature of the transaction.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -117,11 +117,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/mobius-investment-trust--mmit/company-secretary-change/9585964",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing regarding company secretarial arrangements, which carries no direct financial or strategic weight for the investment trust's portfolio performance.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the company's corporate governance structure, specifically regarding the appointment of a new Company Secretary. Such board-level administrative changes are routine and typically have no immediate financial impact on shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Governance",
+        "Board Change"
       ]
     }
   ]

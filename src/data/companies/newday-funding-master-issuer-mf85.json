@@ -23,11 +23,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/newday-funding-master-issuer-plc--mf85/company-announcement/9673333",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "As a non-operating special purpose vehicle (SPV), this announcement likely pertains to routine administrative filings or minor capital structure adjustments rather than operational performance, rendering it immaterial for equity valuation.",
+      "impact_score": 1,
+      "insight": "The headline provides no substantive information regarding the company's operations or financial position, indicating this is likely an administrative housekeeping notice with no immediate bearing on shareholder value.",
       "key_themes": [
-        "SPV",
-        "Administrative"
+        "Administrative",
+        "Housekeeping"
       ]
     },
     {
@@ -46,14 +46,11 @@
       "category": null,
       "headline": "Notice in respect of Base Prospectus",
       "url": "https://www.investegate.co.uk/announcement/rns/newday-funding-master-issuer-plc--mf85/notice-in-respect-of-base-prospectus/9616759",
-      "routine_type": null,
-      "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing for the Base Prospectus, likely facilitating future debt issuances or securitization activities typical for a finance company like Newday. It carries no immediate pricing impact or strategic shift, serving merely as regulatory housekeeping for ongoing capital markets operations.",
-      "key_themes": [
-        "Regulatory Compliance",
-        "Capital Markets"
-      ]
+      "routine_type": "Debt Notices",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     }
   ]
 }

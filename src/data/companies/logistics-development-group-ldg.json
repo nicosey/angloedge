@@ -12,11 +12,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/logistics-development-group--ldg/statement-re-possible-offer-and-extension-of-pusu-/9861239",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The extension of the Put/Call Option Agreement (PUSU) indicates a delay in resolving the controlling shareholder's exit strategy rather than immediate value creation; this prolongs uncertainty regarding liquidity and corporate governance for LDG investors.",
+      "impact_score": 7,
+      "insight": "This announcement indicates a potential takeover bid for the company, which typically triggers significant share price volatility and requires shareholder consideration. The extension of the PUSU suggests procedural developments in the offer timeline that may impact the urgency of the decision-making process.",
       "key_themes": [
-        "Governance Risk",
-        "Liquidity Constraint"
+        "M&A",
+        "Takeover",
+        "Corporate Action"
       ]
     },
     {
@@ -24,14 +25,11 @@
       "category": null,
       "headline": "From 8 Opening Position Disclosure",
       "url": "https://www.investegate.co.uk/announcement/rns/logistics-development-group--ldg/from-8-opening-position-disclosure/9824807",
-      "routine_type": null,
-      "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory disclosure of a new shareholding position, likely by an institutional investor or fund manager, rather than a corporate action by LDG itself. Such filings provide no immediate insight into the company's operational performance or strategic direction.",
-      "key_themes": [
-        "regulatory filing",
-        "ownership structure"
-      ]
+      "routine_type": "Form 8 Disclosure",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-10-01T13:03:00",
@@ -76,11 +74,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/logistics-development-group--ldg/result-of-agm/9625961",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of an Annual General Meeting, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital allocation changes.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or statutory resolutions. It signifies standard corporate governance activity rather than a material change in the company's strategic or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Shareholder approval"
       ]
     }
   ]

@@ -2,9 +2,20 @@
   "name": "Bodycote",
   "ticker": "BOY",
   "slug": "bodycote-boy",
-  "announcement_count": 81,
-  "latest_announcement": "2026-11-20T11:01:00",
+  "announcement_count": 82,
+  "latest_announcement": "2026-11-26T08:56:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T08:56:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/prn/bodycote--boy/holding-s-in-company/9895481",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T11:01:00",
       "category": null,
@@ -313,10 +324,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "As a standard 'Result of Meeting' RNS for Bodycote, this likely confirms routine shareholder approval for minor administrative matters or director mandates rather than transformative strategic shifts, reflecting the company's stable but mature position in the heat treatment sector.",
+      "insight": "This announcement typically signifies the outcome of a board or shareholder meeting, which may involve routine governance matters or minor strategic decisions. Without further detail, it represents standard corporate activity with limited immediate financial impact.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Administration"
+        "Governance",
+        "Meeting results"
       ]
     },
     {
@@ -611,11 +622,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/bodycote--boy/suspension-of-share-buyback-programme/9752650",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Suspension of a buyback programme signals management's prioritization of liquidity preservation over shareholder returns, often reflecting caution regarding near-term cash flow visibility or investment opportunities within the industrial services sector.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a pause in the company's share repurchase activity, which may suggest management is reassessing capital allocation priorities or facing liquidity constraints. It serves as a neutral-to-negative signal regarding near-term shareholder returns without implying fundamental operational distress.",
       "key_themes": [
-        "capital_allocation",
-        "liquidity_management"
+        "Capital return",
+        "Corporate governance"
       ]
     },
     {
@@ -647,12 +658,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/bodycote--boy/statement-regarding-possible-offer/9748674",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 8,
-      "insight": "A 'Possible Offer' RNS signals imminent control change or major strategic shift in the industrial services sector, typically triggering significant volatility and potential premium valuation for Bodycote's heat treatment assets amidst ongoing industry consolidation.",
+      "impact_score": 7,
+      "insight": "This announcement indicates a potential offer for the company, which may lead to a change in control or strategic direction. Shareholders should anticipate increased volatility and the possibility of a formal bid process.",
       "key_themes": [
         "M&A",
-        "Control Change",
-        "Industrial Services"
+        "Corporate Action"
       ]
     },
     {
@@ -739,12 +749,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/bodycote--boy/statement-regarding-possible-offers-for-bodycote/9707009",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 9,
-      "insight": "This announcement signals a potential change of control for Bodycote, a key player in the heat treatment and engineering services sector, likely triggering a premium bid amid industry consolidation trends. Such events typically result in significant share price re-rating and strategic realignment for the target.",
+      "impact_score": 8,
+      "insight": "This announcement indicates a potential change in control or strategic direction for the company, which typically triggers significant shareholder interest and volatility. Shareholders should anticipate possible negotiations regarding a formal offer or sale process.",
       "key_themes": [
         "M&A",
-        "Change of Control",
-        "Industrial Services"
+        "Corporate Action"
       ]
     },
     {
@@ -867,12 +876,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/bodycote--boy/response-to-statement-by-apollo/9603324",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This RNS addresses the ongoing strategic review following Apollo's stake accumulation, signaling potential for a premium takeover bid or significant governance shift in the heat treatment sector. The outcome is critical as it resolves uncertainty over Bodycote's independence and valuation relative to its industrial peers.",
+      "impact_score": 7,
+      "insight": "This announcement indicates a formal response to a statement by Apollo, suggesting a potential offer, sale process, or significant strategic engagement that could materially affect shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "M&A Speculation",
-        "Private Equity Activity"
+        "M&A",
+        "Corporate Action"
       ]
     },
     {
@@ -882,11 +890,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/bodycote--boy/rule-2-8-announcement/9603054",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Rule 2.8 announcements typically serve as market-sounding mechanisms for potential corporate activity without confirming a deal; while it creates short-term speculation, the lack of concrete details limits immediate fundamental impact compared to confirmed M&A or earnings updates.",
+      "impact_score": 5,
+      "insight": "A Rule 2.8 announcement typically signifies that the board has received an approach regarding the company, which may lead to a potential offer or formal sale process.",
       "key_themes": [
-        "Corporate Action",
-        "Market Sounding"
+        "Potential Offer",
+        "Corporate Action"
       ]
     },
     {
@@ -929,11 +937,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/bodycote--boy/result-of-agm/9588295",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of annual shareholder meetings, which typically rubber-stamps routine governance matters like director reappointments and auditor appointments without altering the strategic or financial trajectory of the industrial services group.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which is a routine governance event for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Meeting results"
       ]
     }
   ]

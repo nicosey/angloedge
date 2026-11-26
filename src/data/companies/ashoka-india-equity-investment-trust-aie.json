@@ -45,12 +45,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ashoka-india-equity-investment-trust--aie/dividend-declaration/9802582",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a closed-end fund, the dividend declaration is a critical signal of distributable income generation in the volatile Indian equity market; investors will scrutinize whether this payout reflects sustainable underlying NAV performance or reliance on capital gains recycling.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a formal declaration of dividends by the investment trust, which is a routine income distribution event for shareholders.",
       "key_themes": [
-        "closed-end fund",
-        "income distribution",
-        "india exposure"
+        "Dividend",
+        "Income"
       ]
     },
     {
@@ -60,11 +59,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ashoka-india-equity-investment-trust--aie/voluntary-redemption-of-ordinary-shares/9756535",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard administrative capital management action for an investment trust, likely aimed at optimizing the discount/premium dynamics or managing liquidity rather than signaling fundamental performance shifts.",
+      "impact_score": 8,
+      "insight": "A voluntary redemption of shares typically indicates a capital reduction or return of capital to shareholders, which can materially alter the share price and ownership structure. This action often signals a strategic decision to optimize the balance sheet or distribute excess funds directly to investors.",
       "key_themes": [
-        "Capital Management",
-        "Investment Trusts"
+        "Capital reduction",
+        "Shareholder return",
+        "Corporate action"
       ]
     },
     {
@@ -85,11 +85,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ashoka-india-equity-investment-trust--aie/voluntary-redemption-of-ordinary-shares/9711654",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is a standard administrative closure of the company's share class following its transition to an open-ended fund (OEIC), reflecting the final stage of the merger with Ashoka India Equity Income Trust rather than a new strategic event.",
+      "impact_score": 8,
+      "insight": "A voluntary redemption of shares typically indicates a capital return to investors or a reduction in share count, which can significantly impact shareholder value and ownership percentages. This action often signals a strategic decision regarding capital allocation rather than operational performance.",
       "key_themes": [
-        "Fund Closure",
-        "Administrative"
+        "Capital return",
+        "Shareholder value",
+        "Corporate action"
       ]
     },
     {
@@ -100,10 +101,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures are standard administrative filings with negligible immediate market impact; however, sustained insider buying in closed-end funds like AIE can signal management confidence in the underlying Indian equity portfolio's valuation.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -114,10 +115,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine disclosure of individual director transactions in a closed-end investment trust typically carries negligible market impact unless the volume is substantial relative to float; without specific deal details, this remains an administrative filing with no strategic implication for AIE's NAV or mandate.",
+      "insight": "This announcement signifies a standard disclosure of share transactions by a person discharging managerial responsibilities, which is routine regulatory compliance. It provides transparency regarding insider activity but does not inherently signal a change in the company's strategic direction or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Minor/Administrative"
+        "Governance",
+        "Director Dealing"
       ]
     }
   ]

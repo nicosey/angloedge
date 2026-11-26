@@ -13,10 +13,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures that rarely signal immediate strategic shifts or material value changes for the issuer.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a standard governance disclosure. It provides insight into insider trading activity but does not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -27,10 +27,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on share price or corporate strategy, reflecting normal liquidity management rather than significant insider sentiment shifts.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities. Such filings are standard governance requirements and generally carry low immediate significance for shareholder value unless accompanied by other material disclosures.",
       "key_themes": [
-        "regulatory compliance",
-        "minor administrative"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -88,10 +88,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "As a junior explorer in the post-merger integration phase of the Ecora/Albion Metals merger, this dividend is likely nominal or non-existent given the capital-intensive nature of developing the Llynvi Valley project; any payout signals minimal cash generation capability rather than shareholder return.",
+      "insight": "This announcement signifies a scheduled dividend declaration, which typically provides income to shareholders but is generally considered routine corporate action rather than a transformative event.",
       "key_themes": [
-        "Capital Allocation",
-        "Junior Mining"
+        "Dividend",
+        "Shareholder return"
       ]
     },
     {
@@ -101,12 +101,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ecora-resources--ecor/update-on-the-phalaborwa-rare-earths-project-dfs/9647339",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The DFS completion de-risks the Phalaborwa project's path to production, addressing critical ESG hurdles regarding tailings management that have historically stalled UK-listed rare earth developers. This milestone is pivotal for securing offtake agreements and financing in a sector where geopolitical supply chain diversification is currently driving valuation premiums.",
+      "impact_score": 7,
+      "insight": "This announcement provides an update on a Definitive Feasibility Study, which is a critical milestone for project development and valuation. It signifies progress in assessing the technical and economic viability of the Phalaborwa Rare Earths Project.",
       "key_themes": [
-        "Rare Earths",
-        "DFS Completion",
-        "ESG Mitigation"
+        "Project Update",
+        "Feasibility Study"
       ]
     },
     {
@@ -116,11 +115,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ecora-resources--ecor/agm-2026-voting-results/9602831",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This is a routine administrative filing confirming the outcome of the Annual General Meeting, which carries no intrinsic financial value or strategic shift for Ecora Resources beyond standard corporate governance compliance.",
+      "impact_score": 3,
+      "insight": "This announcement provides the outcome of shareholder votes at an annual general meeting, which is a standard governance procedure. It confirms the results of resolutions put to investors but does not indicate any material change in the company's financial position or strategic direction.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Governance",
+        "Shareholder Meeting"
       ]
     }
   ]

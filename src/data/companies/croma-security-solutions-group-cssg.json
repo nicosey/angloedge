@@ -2,9 +2,20 @@
   "name": "Croma Security Solutions Group",
   "ticker": "CSSG",
   "slug": "croma-security-solutions-group-cssg",
-  "announcement_count": 10,
-  "latest_announcement": "2026-11-18T16:20:00",
+  "announcement_count": 11,
+  "latest_announcement": "2026-11-25T12:45:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T12:45:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/croma-security-solutions-group--cssg/holding-s-in-company/9893863",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-18T16:20:00",
       "category": "Director Dealing",
@@ -13,10 +24,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in the security sector typically reflect individual portfolio management rather than corporate strategy shifts; without disclosed volumes or specific transaction types (buy/sell), this lacks the signal strength to influence valuation models.",
+      "insight": "This announcement discloses transactions by directors and the principal compliance adviser, which is a standard regulatory requirement for insider dealing transparency. It provides information on individual trading activity but does not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealings"
       ]
     },
     {
@@ -38,10 +49,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of executive option exercises and dealings, common in the security sector where performance-linked incentives are prevalent; without volume or price context, it signals no immediate strategic shift.",
+      "insight": "This announcement relates to director dealings and the exercise of options, which are routine corporate governance disclosures. Such filings generally signify standard compliance activity rather than a significant strategic shift or material event for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Director Dealing",
+        "Governance"
       ]
     },
     {
@@ -96,10 +107,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements in the security sector typically reflect individual portfolio management rather than strategic shifts, offering limited signal for broader equity valuation without accompanying volume or price context.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine changes in shareholding by individuals with senior management responsibilities. Such disclosures are standard regulatory requirements and generally carry low immediate impact on shareholder value unless they signal a significant shift in insider sentiment.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -110,10 +121,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealings in the security sector typically reflect personal portfolio management rather than strategic shifts, offering limited signal for institutional investors compared to broader market volatility.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine changes in shareholding by individuals with senior management responsibilities. Such disclosures are standard governance requirements and generally carry low immediate impact on shareholder value unless accompanied by other significant corporate events.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -124,10 +135,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine implementation of a Share Incentive Plan is standard governance practice for talent retention in the competitive UK security sector, offering no immediate catalyst for share price appreciation or fundamental valuation change.",
+      "insight": "This announcement relates to a Share Incentive Plan, which typically signifies the implementation of employee retention or alignment mechanisms. Such administrative governance updates generally have limited immediate financial impact on shareholder value compared to strategic or operational news.",
       "key_themes": [
-        "Corporate Governance",
-        "HR Policy"
+        "Governance",
+        "Employee incentives"
       ]
     }
   ]

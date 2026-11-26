@@ -2,9 +2,20 @@
   "name": "City of London Inv Trust",
   "ticker": "CTY",
   "slug": "city-of-london-inv-trust-cty",
-  "announcement_count": 32,
-  "latest_announcement": "2026-11-20T13:11:00",
+  "announcement_count": 33,
+  "latest_announcement": "2026-11-25T16:04:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T16:04:00",
+      "category": null,
+      "headline": "Issue of Equity",
+      "url": "https://www.investegate.co.uk/announcement/rns/city-of-london-inv-trust--cty/issue-of-equity/9894205",
+      "routine_type": "Block Listing / Admission",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T13:11:00",
       "category": null,
@@ -136,11 +147,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/city-of-london-inv-trust--cty/portfolio-update/9807398",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine portfolio updates are standard disclosures for investment trusts and rarely move share prices unless they signal a significant shift in strategy or performance relative to the benchmark.",
+      "impact_score": 5,
+      "insight": "This announcement provides a scheduled update on the portfolio composition or performance, which is routine for investment trusts but lacks specific directional indicators in the headline.",
       "key_themes": [
-        "Investment Trust",
-        "Portfolio Disclosure"
+        "Portfolio Update",
+        "Investment Trust"
       ]
     },
     {
@@ -172,11 +183,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/city-of-london-inv-trust--cty/dividend-declaration/9754917",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a closed-end investment trust, dividend declarations are the primary mechanism for income distribution and yield maintenance; this action signals management's confidence in underlying asset performance but offers no structural change to the NAV or governance framework.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a formal declaration of a dividend by the investment trust, indicating a distribution of income to shareholders. It confirms the company's intention to pay out profits, which is a standard operational event for this type of entity.",
       "key_themes": [
-        "Income Distribution",
-        "Investment Trusts"
+        "Dividend",
+        "Income Distribution"
       ]
     },
     {
@@ -241,11 +252,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/city-of-london-inv-trust--cty/dividend-declaration/9661773",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a closed-end fund, dividend declarations are the primary mechanism for investor returns, making this a critical signal of management's confidence in distributable income and capital preservation amidst current UK equity volatility.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a decision regarding shareholder returns, which is a routine governance matter for investment trusts. It indicates that the board has considered and acted upon the distribution of profits to investors.",
       "key_themes": [
-        "Income Distribution",
-        "Closed-End Fund Dynamics"
+        "Dividend",
+        "Shareholder Returns",
+        "Governance"
       ]
     },
     {

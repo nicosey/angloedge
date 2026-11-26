@@ -24,14 +24,11 @@
       "category": null,
       "headline": "Publication of supplementary admission particulars",
       "url": "https://www.investegate.co.uk/announcement/rns/wessex-water-services-finance-plc--38bm/publication-of-supplementary-admission-particulars/9681595",
-      "routine_type": null,
-      "enriched": true,
-      "impact_score": 7,
-      "insight": "This announcement indicates a formal process to admit new securities to trading, typically associated with a significant capital raise or debt issuance. It suggests potential dilution for existing shareholders or an increase in the company's leverage.",
-      "key_themes": [
-        "Capital raise",
-        "Admission of securities"
-      ]
+      "routine_type": "Debt Notices",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-06-02T09:34:00",
@@ -40,11 +37,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wessex-water-services-finance-plc--38bm/directorate-change/9597166",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine administrative update to the board composition of a regulated utility subsidiary; without details on the appointee's background or specific mandate, this carries no immediate strategic weight for equity valuation.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the board composition, which is a standard governance event that may affect oversight but typically carries limited immediate financial impact unless linked to executive departure or strategic shifts.",
       "key_themes": [
-        "Corporate Governance",
-        "Regulated Utilities"
+        "Governance",
+        "Board Change"
       ]
     }
   ]

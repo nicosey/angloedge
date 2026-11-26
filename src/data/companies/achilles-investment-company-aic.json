@@ -2,9 +2,20 @@
   "name": "Achilles Investment Company Limited",
   "ticker": "AIC",
   "slug": "achilles-investment-company-aic",
-  "announcement_count": 17,
-  "latest_announcement": "2026-11-16T18:18:00",
+  "announcement_count": 18,
+  "latest_announcement": "2026-11-25T15:11:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T15:11:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/achilles-investment-company-limited--aic/holding-s-in-company/9894108",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-16T18:18:00",
       "category": null,
@@ -56,12 +67,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/achilles-investment-company-limited--aic/annual-financial-report/9814518",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a major UK investment trust, AIC's annual report is critical for assessing its exposure to the current high-interest-rate environment and private equity liquidity constraints; any deviation in NAV growth or dividend policy signals broader sentiment shifts in the closed-end fund sector.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the publication of scheduled annual financial results, which are essential for shareholders to assess the company's performance and governance over the past year.",
       "key_themes": [
-        "investment trust",
-        "NAV performance",
-        "dividend sustainability"
+        "Results",
+        "Financial Reporting"
       ]
     },
     {
@@ -195,11 +205,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/achilles-investment-company-limited--aic/directorate-change/9626436",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine board-level personnel changes in closed-end investment trusts typically signal governance continuity rather than strategic pivots; without details on the departing/arriving directors' track records or specific mandates, this lacks the catalyst potential for immediate price re-rating.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the board composition, which is a standard governance update. While such changes can influence strategic direction, the headline alone does not specify the nature or significance of the appointment for shareholders.",
       "key_themes": [
         "Governance",
-        "Management Continuity"
+        "Board Change"
       ]
     }
   ]

@@ -2,9 +2,22 @@
   "name": "Helical",
   "ticker": "HLCL",
   "slug": "helical-hlcl",
-  "announcement_count": 21,
-  "latest_announcement": "2026-10-22T14:30:00",
+  "announcement_count": 22,
+  "latest_announcement": "2026-11-25T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T07:00:00",
+      "category": "Results",
+      "headline": "Half-year Financial Report",
+      "url": "https://www.investegate.co.uk/announcement/rns/helical--hlcl/half-year-financial-report/9892178",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled release of half-year financial results, which provides shareholders with essential data on the company's operational performance and financial position for the period.",
+      "key_themes": [
+        "Results"
+      ]
+    },
     {
       "timestamp": "2026-10-22T14:30:00",
       "category": null,
@@ -27,10 +40,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard administrative notice confirming the release of results rather than the results themselves; without underlying financial data, it carries no immediate pricing impact for Helical.",
+      "insight": "This announcement indicates that scheduled financial results are being released, but the headline does not specify whether the outcome is positive or negative. Shareholders should await the full details to assess the financial performance and future outlook.",
       "key_themes": [
-        "Administrative",
-        "Results Release"
+        "Results",
+        "Financial Reporting"
       ]
     },
     {
@@ -77,10 +90,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard regulatory disclosure of insider shareholding changes, which provides transparency but lacks the transformative catalysts required for significant price movement in the construction sector.",
+      "insight": "This announcement signifies standard regulatory disclosure of transactions by persons discharging managerial responsibilities, which provides transparency into insider trading activity but typically carries limited immediate financial impact.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -102,10 +115,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory filings with negligible immediate impact on Helical's valuation or operational trajectory, reflecting normal liquidity management rather than strategic shifts.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures and generally carry low immediate impact for shareholders unless part of a larger pattern.",
       "key_themes": [
-        "regulatory compliance",
-        "minor administrative"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -115,12 +128,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/helical--hlcl/return-of-capital-update-/9678447",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Return of capital typically signals a lack of high-return internal growth opportunities in the infrastructure sector, potentially capping multiple expansion despite providing immediate shareholder yield.",
+      "impact_score": 4,
+      "insight": "This update likely concerns a return of capital to shareholders, which may involve a special dividend or share buyback. Such announcements typically signal a distribution of excess funds rather than operational performance changes.",
       "key_themes": [
-        "capital allocation",
-        "infrastructure",
-        "shareholder return"
+        "Capital return",
+        "Shareholder distribution"
       ]
     },
     {
@@ -130,12 +142,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/helical--hlcl/return-of-capital-update/9675801",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Return of capital announcements for Helical typically involve the distribution of surplus cash from completed infrastructure projects rather than strategic restructuring, reflecting a mature business model with limited organic growth avenues in the current high-rate environment.",
+      "impact_score": 4,
+      "insight": "This update likely concerns a return of capital to shareholders, which may involve a dividend payment or share buyback. Such announcements generally signify a distribution of value to investors rather than operational changes.",
       "key_themes": [
-        "capital return",
-        "infrastructure sector",
-        "cash distribution"
+        "Capital return",
+        "Shareholder distribution"
       ]
     },
     {
@@ -145,11 +156,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/helical--hlcl/result-of-general-meeting-/9672988",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard post-meeting confirmation of shareholder approvals for routine corporate governance matters, carrying no immediate financial or strategic weight for Helical's valuation.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which is a standard governance event for shareholders. It typically involves the ratification of routine matters or voting on specific proposals without indicating major strategic shifts.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder vote"
       ]
     },
     {
@@ -159,11 +170,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/helical--hlcl/result-of-agm/9672987",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard post-meeting confirmation of shareholder resolutions with no new strategic directives or capital allocation changes, reflecting routine corporate governance rather than market-moving news.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or auditor appointments. It signifies standard corporate governance compliance rather than any material change to the company's strategic direction or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -173,11 +184,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/helical--hlcl/trading-update/9671332",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "As a standard administrative trading update for a niche infrastructure contractor, this lacks the materiality to shift valuation multiples or signal strategic pivots in the current high-interest-rate environment.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled update on the company's operational performance or financial position, though the specific direction (positive or negative) is not disclosed in the headline.",
       "key_themes": [
-        "Administrative",
-        "Status Quo"
+        "Trading Update",
+        "Performance"
       ]
     },
     {
@@ -187,11 +198,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/helical--hlcl/helical-lets-the-12th-floor-at-the-bower/9671313",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard commercial lease update for an existing asset within Helical's portfolio, reflecting routine property management rather than strategic growth or financial distress. Such minor tenancy changes have negligible impact on the group's overall valuation or earnings trajectory.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a standard leasing activity for one unit within a property portfolio. Such routine operational updates typically have minimal immediate financial impact on shareholders unless part of a larger strategic transaction.",
       "key_themes": [
-        "Commercial Real Estate",
-        "Routine Operations"
+        "Leasing",
+        "Operational Update"
       ]
     },
     {
@@ -202,10 +213,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements for Helical typically involve small-scale transactions that lack the materiality to signal significant insider sentiment shifts or strategic pivots in the current UK infrastructure sector.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that confirm compliance with insider dealing rules but generally do not signal significant strategic changes on their own.",
       "key_themes": [
-        "minor_administrative",
-        "director_dealing"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -240,11 +251,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/helical--hlcl/publication-of-2026-annual-report-notice-of-agm/9622970",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing for the upcoming AGM and annual report, typical for Helical's reporting cycle with no immediate catalyst for share price movement.",
+      "impact_score": 3,
+      "insight": "This announcement signifies the publication of annual results and the convening of a general meeting for shareholder approval. It represents routine corporate governance activity rather than a material event affecting share value.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Results",
+        "Governance"
       ]
     },
     {
@@ -254,12 +265,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/helical--hlcl/further-letting-activity-at-the-bower/9610072",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Continued letting activity at The Bower validates the asset's rental trajectory in a tight London office market, providing tangible evidence of demand for high-quality Grade A space despite broader economic headwinds.",
+      "impact_score": 4,
+      "insight": "This announcement indicates ongoing operational activity at a specific asset, which is generally positive for income-generating businesses but lacks the scale to be transformative. Without details on volume or financial impact, it represents routine business development rather than a significant strategic shift.",
       "key_themes": [
-        "Commercial Real Estate",
-        "Rental Growth",
-        "Asset Performance"
+        "Operational Update",
+        "Asset Management"
       ]
     },
     {
@@ -269,12 +279,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/helical--hlcl/launch-of-share-buyback-programme/9605505",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Helical's launch of a share buyback programme signals management's confidence in the firm's valuation and cash flow generation within the competitive UK infrastructure and construction sector, aiming to support the share price amid broader market volatility.",
+      "impact_score": 4,
+      "insight": "This announcement signifies a potential return of capital to shareholders through share repurchases, which may support the share price by reducing the number of shares in circulation. The specific financial impact remains undefined as the headline provides no details on the scale or terms of the programme.",
       "key_themes": [
-        "capital allocation",
-        "shareholder return",
-        "infrastructure sector"
+        "Share Buyback",
+        "Capital Return"
       ]
     },
     {
@@ -285,10 +294,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible immediate impact on Helical's valuation or strategic direction, reflecting normal insider activity rather than a signal of material corporate change.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine governance disclosure. It provides limited insight into future performance without details on the direction or size of the transaction.",
       "key_themes": [
-        "regulatory_compliance",
-        "insider_activity"
+        "Director Dealing",
+        "Governance"
       ]
     }
   ]

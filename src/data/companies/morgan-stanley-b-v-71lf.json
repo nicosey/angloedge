@@ -23,11 +23,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-20-11-2026/9886953",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley BV, a routine capital structure adjustment with no material impact on UK equity valuations or the broader market.",
+      "impact_score": 1,
+      "insight": "This announcement appears to be an administrative notification regarding the partial retirement of a debt instrument issued by the entity, which is standard housekeeping for financial institutions and does not indicate any material change in operational performance or strategic direction.",
       "key_themes": [
-        "Debt Management",
-        "Administrative"
+        "Administrative",
+        "Debt Instrument"
       ]
     },
     {
@@ -48,11 +48,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-17-11-2026/9879933",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This RNS pertains to Morgan Stanley Bank NV, a non-UK incorporated entity, rendering it immaterial for UK equity market participants. The 'partial retirement' of securities is a standard administrative capital management action with no strategic implications for listed companies.",
+      "impact_score": 1,
+      "insight": "This announcement appears to be an administrative notice regarding a partial retirement of securities under the ISM framework, which typically signifies routine operational housekeeping rather than a material event for shareholders.",
       "key_themes": [
-        "administrative",
-        "non-uk-entity"
+        "Administrative",
+        "Securities"
       ]
     },
     {
@@ -73,11 +73,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-retirement-16-11-2026/9877689",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This RNS concerns Morgan Stanley B.V., a non-UK incorporated entity, rendering it irrelevant to UK equity market dynamics; the 'retirement' notification is an administrative personnel update with zero strategic or financial implication for listed companies.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a board-level change involving the retirement of an individual associated with Morgan Stanley B.V. Such governance updates are standard administrative events that typically have minimal direct financial impact on shareholders.",
       "key_themes": [
-        "Administrative",
-        "Non-UK Entity"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -99,10 +99,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 1,
-      "insight": "This is a standard administrative retirement of an ISIN code for Morgan Stanley B.V., indicating no change in the underlying equity value or corporate strategy.",
+      "insight": "This announcement appears to be an administrative notice regarding the retirement of a specific individual associated with the entity, which typically constitutes routine housekeeping with no direct financial impact on shareholders.",
       "key_themes": [
-        "administrative",
-        "isin_retirement"
+        "Governance",
+        "Personnel"
       ]
     },
     {
@@ -124,10 +124,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 1,
-      "insight": "This is a standard administrative filing by Morgan Stanley B.V., a non-UK incorporated entity, regarding the retirement of securities; it carries no material implication for UK-listed equities or market sentiment.",
+      "insight": "This announcement appears to be an administrative notice regarding a retirement date for Morgan Stanley B.V., likely indicating routine personnel changes or internal record-keeping rather than a material event for shareholders.",
       "key_themes": [
         "Administrative",
-        "Non-Material"
+        "Personnel"
       ]
     },
     {
@@ -159,11 +159,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-retirement-04-11-2026/9858645",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is an administrative filing for Morgan Stanley B.V., a non-listed special purpose vehicle used for debt issuance, not the listed UK entity MSIG or related equities. Retirement of a senior note has no direct impact on UK equity valuations or corporate governance.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a board-level change involving retirement, which typically affects corporate governance and leadership continuity but does not immediately alter the company's strategic direction or financial position.",
       "key_themes": [
-        "administrative",
-        "debt_maturity"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -282,9 +282,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, a routine capital management action with no material impact on UK equity valuations or the broader market.",
+      "insight": "This announcement appears to be an administrative notice regarding a partial retirement event, likely related to debt instruments or internal corporate records rather than equity shareholder value.",
       "key_themes": [
-        "Debt Management",
+        "Administrative",
         "Corporate Action"
       ]
     },
@@ -317,11 +317,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-retirement-16-10-2026/9827981",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This RNS concerns Morgan Stanley B.V., a non-UK incorporated entity, rendering it irrelevant to UK equity market dynamics; additionally, the date 16-10-2026 is in the future, suggesting a data error or placeholder rather than an actionable event.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a scheduled change in personnel, which is typically an administrative matter with limited immediate financial impact for shareholders unless it involves key leadership.",
       "key_themes": [
-        "irrelevant_entity",
-        "future_date"
+        "Governance",
+        "Personnel"
       ]
     },
     {
@@ -331,11 +331,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-issuer-call-xs3242815333-15th-oct-26/9825716",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard issuer call for a Morgan Stanley bond (XS3242815333), not an equity announcement; it serves as routine investor relations activity with no direct impact on UK listed equities.",
+      "impact_score": 1,
+      "insight": "This announcement appears to be an administrative notice regarding a specific bond instrument rather than a corporate event affecting shareholder equity. It signifies routine debt market activity with no direct implication for the value or governance of the company's shares.",
       "key_themes": [
-        "Debt Capital Markets",
-        "Investor Relations"
+        "Debt issuance",
+        "Administrative"
       ]
     },
     {
@@ -345,11 +345,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_partial-retirment_15-10-2026/9825714",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley B.V., a routine capital structure adjustment for a global investment bank rather than an equity-moving event. Such transactions are administrative in nature and do not signal strategic shifts or financial distress in the UK market.",
+      "impact_score": 3,
+      "insight": "The headline indicates a partial retirement of securities, which typically signifies a routine capital management action rather than a strategic shift. This type of announcement generally has limited immediate impact on shareholder value compared to major corporate events.",
       "key_themes": [
-        "Debt Management",
-        "Corporate Action"
+        "Capital management",
+        "Securities"
       ]
     },
     {
@@ -381,11 +381,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-08-10-2026/9814166",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, reflecting routine liability management rather than equity market-moving events.",
+      "impact_score": 1,
+      "insight": "This announcement appears to be an administrative notice regarding the partial retirement of a specific instrument or listing, likely having minimal direct impact on the equity value of Morgan Stanley B.V. as it pertains to debt or structured finance instruments rather than corporate governance or performance.",
       "key_themes": [
-        "Debt Management",
-        "Corporate Action"
+        "Administrative",
+        "Instrument Retirement"
       ]
     },
     {
@@ -396,10 +396,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 1,
-      "insight": "This is an issuer call for a Morgan Stanley B.V. senior unsecured note (XS3242731662), representing routine debt market communication rather than equity-moving corporate action.",
+      "insight": "This announcement appears to be an administrative notice regarding a specific debt instrument call, which is routine for bondholders rather than equity shareholders. It does not indicate any material change in the company's strategic direction or financial health relevant to share price movement.",
       "key_themes": [
-        "Debt Issuance",
-        "Investor Relations"
+        "Debt",
+        "Administrative"
       ]
     },
     {
@@ -410,10 +410,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 1,
-      "insight": "This is an administrative cancellation of a partial retirement for Morgan Stanley's own debt securities, not an equity event; it has zero implication for UK listed equities.",
+      "insight": "This announcement appears to be an administrative notice regarding the partial retirement or cancellation of a specific instrument or listing reference, likely related to Morgan Stanley's debt securities rather than the equity of the listed entity itself. It signifies routine housekeeping with no direct bearing on the company's operational performance or shareholder value.",
       "key_themes": [
-        "administrative",
-        "debt"
+        "Administrative",
+        "Instrument Cancellation"
       ]
     },
     {
@@ -423,11 +423,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-06-10-2026/9809703",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This RNS pertains to Morgan Stanley B.V., a non-UK listed entity, rendering it immaterial for UK equity market analysis; the partial retirement of debt instruments is a standard capital management activity with no direct impact on domestic equities.",
+      "impact_score": 1,
+      "insight": "This announcement appears to be an administrative notice regarding the partial retirement of a specific instrument or listing, likely having no direct operational impact on the parent entity's shareholders.",
       "key_themes": [
-        "Non-UK Entity",
-        "Debt Instrument"
+        "Administrative",
+        "Corporate Action"
       ]
     },
     {
@@ -611,11 +611,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-17-09-2026/9778175",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, reflecting routine liability management rather than equity market-moving news. Such administrative actions are common for global banks to optimize funding structures and have no direct implication for UK-listed equities.",
+      "impact_score": 1,
+      "insight": "This announcement appears to be an administrative update regarding a partial retirement event, which typically signifies routine operational or personnel changes with no direct financial impact on shareholders.",
       "key_themes": [
-        "Debt Management",
-        "Administrative"
+        "Administrative",
+        "Personnel"
       ]
     },
     {
@@ -625,11 +625,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-16-09-2026/9775795",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, reflecting routine liability management rather than a strategic shift in the UK equity landscape.",
+      "impact_score": 1,
+      "insight": "This announcement appears to be an administrative notice regarding the partial retirement of a specific instrument or facility issued by Morgan Stanley B.V., which is generally routine housekeeping with no direct impact on equity shareholders.",
       "key_themes": [
-        "Debt Management",
-        "Corporate Action"
+        "Administrative",
+        "Debt Instrument"
       ]
     },
     {
@@ -650,11 +650,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-11-09-2026/9768780",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, reflecting routine liability management rather than a strategic shift in the UK equity landscape.",
+      "impact_score": 1,
+      "insight": "This announcement appears to be an administrative notice regarding the partial retirement of a specific instrument or listing, likely having no direct operational impact on the parent entity's shareholders.",
       "key_themes": [
-        "Debt Management",
-        "Corporate Action"
+        "Administrative",
+        "Listing update"
       ]
     },
     {
@@ -676,10 +676,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, reflecting routine liability management rather than equity-moving news; such capital structure adjustments are common for global banks and have negligible impact on UK-listed equities.",
+      "insight": "This announcement appears to be an administrative notice regarding the partial retirement of a specific instrument or facility, which typically represents routine housekeeping with no direct impact on shareholder value.",
       "key_themes": [
-        "Debt Management",
-        "Corporate Action"
+        "Administrative",
+        "Instrument update"
       ]
     },
     {
@@ -701,9 +701,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 1,
-      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, a routine liability management operation with no material impact on UK equity fundamentals or valuation.",
+      "insight": "This announcement appears to be an administrative notice regarding the partial retirement of a specific instrument or entity associated with Morgan Stanley B.V., likely involving standard regulatory filings rather than strategic corporate actions. It signifies routine operational housekeeping with no immediate bearing on shareholder value.",
       "key_themes": [
-        "Debt Management",
+        "Administrative",
         "Corporate Action"
       ]
     },
@@ -714,11 +714,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-retirement-03-09-2026/9754958",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing for Morgan Stanley B.V., a non-UK listed SPV entity, indicating a routine personnel change rather than a strategic shift in the parent UK-listed bank. Such filings have negligible impact on equity valuation or market sentiment.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a board-level personnel change, which typically affects corporate governance and leadership continuity. The specific impact on shareholder value depends on the role of the departing individual and the strategic implications of the retirement.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative Filing"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -797,11 +797,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-21-08-2026/9734898",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, reflecting routine liability management rather than equity-moving news. Such administrative actions are common for global banks to optimize capital structure and have no direct implication for UK-listed equities.",
+      "impact_score": 1,
+      "insight": "This announcement appears to be an administrative notice regarding the partial retirement of a specific instrument or listing code, which typically signifies routine housekeeping rather than a material event for shareholders.",
       "key_themes": [
-        "Debt Management",
-        "Administrative"
+        "Administrative",
+        "Corporate Action"
       ]
     },
     {
@@ -812,9 +812,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 1,
-      "insight": "This is an administrative issuer call for a Morgan Stanley bond (XS3280137384), not an equity event for a UK-listed company; it has zero impact on UK equity valuations or corporate governance.",
+      "insight": "This announcement appears to be an administrative notice regarding a specific debt instrument call, which is routine operational housekeeping for bondholders rather than a significant event for equity shareholders.",
       "key_themes": [
-        "Corporate Bond",
+        "Debt",
         "Administrative"
       ]
     },
@@ -847,11 +847,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-18-08-2026/9728123",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, reflecting routine liability management rather than equity-moving news for UK-listed entities.",
+      "impact_score": 1,
+      "insight": "This announcement appears to be an administrative notice regarding the partial retirement of a specific instrument or facility, which typically represents routine operational housekeeping with no direct impact on shareholder value.",
       "key_themes": [
-        "Debt Management",
-        "Corporate Action"
+        "Administrative",
+        "Instrument management"
       ]
     },
     {
@@ -883,11 +883,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-13-08-2026/9721172",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley BV, a routine capital structure adjustment with no material impact on UK equity valuations or the broader market.",
+      "impact_score": 1,
+      "insight": "This announcement appears to be an administrative notice regarding the partial retirement of a specific instrument or facility issued by Morgan Stanley B.V., which is likely unrelated to the equity performance of any associated listed entity. Such notices typically represent routine operational housekeeping with no direct bearing on shareholder value.",
       "key_themes": [
-        "Debt Management",
-        "Corporate Action"
+        "Administrative",
+        "Instrument Retirement"
       ]
     },
     {
@@ -919,11 +919,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-retirement-11-08-2026/9716448",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard personnel change at Morgan Stanley B.V., an SPV typically used for debt issuance rather than operational equity risk; such administrative updates have negligible impact on UK-listed equities or broader market sentiment.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a board-level personnel change within the entity. Such appointments are standard governance updates that inform shareholders of leadership structure without implying immediate financial or strategic shifts.",
       "key_themes": [
-        "Corporate Administration",
-        "Personnel Change"
+        "Governance",
+        "Appointment"
       ]
     },
     {
@@ -944,11 +944,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-ca-carrefour-10-08-2026/9713828",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing for Morgan Stanley's holding in Carrefour, likely reflecting routine portfolio adjustments or compliance reporting rather than a material strategic shift in the UK equity landscape.",
+      "impact_score": 1,
+      "insight": "This announcement appears to be an administrative record of a transaction involving Morgan Stanley B.V. and Carrefour, likely related to securities lending or collateral management rather than a strategic corporate event for either entity.",
       "key_themes": [
-        "Morgan Stanley",
-        "Carrefour"
+        "Administrative",
+        "Transaction Record"
       ]
     },
     {
@@ -959,10 +959,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is an administrative issuer call for a Morgan Stanley B.V. senior unsecured note (XS3280089551) maturing in 2026, indicating routine debt management or liquidity operations rather than equity-moving corporate action.",
+      "insight": "This announcement appears to be an administrative notice regarding a scheduled call related to a specific instrument identifier, which typically signifies routine operational communication rather than a material event for equity shareholders.",
       "key_themes": [
-        "Debt Issuance",
-        "Corporate Finance"
+        "Administrative",
+        "Instrument Notice"
       ]
     },
     {
@@ -973,10 +973,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 1,
-      "insight": "This is an administrative issuer call for a Morgan Stanley B.V. senior unsecured note (XS2877627476), not a UK-listed equity event; it has zero direct impact on UK equities as it pertains to offshore debt issuance by a US bank's Dutch subsidiary.",
+      "insight": "This announcement appears to be an administrative notice regarding a scheduled call related to a specific instrument identifier, which typically signifies routine operational housekeeping with no direct impact on shareholder value.",
       "key_themes": [
-        "Debt Issuance",
-        "Administrative"
+        "Administrative",
+        "Instrument Update"
       ]
     },
     {
@@ -997,11 +997,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-issuer-call-xs2877627559-05-08-2026/9706847",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 1,
-      "insight": "This is an administrative issuer call for a Morgan Stanley B.V. bond (XS2877627559), not an equity announcement; it has zero impact on UK listed equities as it pertains to debt capital markets and foreign corporate entities.",
+      "impact_score": 2,
+      "insight": "This announcement appears to be an administrative notice regarding a specific debt instrument call, which is routine operational housekeeping for the issuer of that security rather than a material event for general equity shareholders.",
       "key_themes": [
-        "Debt Capital Markets",
-        "Administrative"
+        "Administrative",
+        "Debt Instrument"
       ]
     },
     {
@@ -1012,10 +1012,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 1,
-      "insight": "This is an issuer call for a Morgan Stanley B.V. bond (XS2877627476), not a UK-listed equity company; therefore, it has zero direct impact on UK equity markets.",
+      "insight": "This announcement appears to be an administrative notice regarding a specific debt instrument call, which is routine operational housekeeping for the issuer of that security rather than a material event for equity shareholders.",
       "key_themes": [
-        "Corporate Bond",
-        "No Equity Impact"
+        "Administrative",
+        "Debt Instrument"
       ]
     },
     {
@@ -1036,11 +1036,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-retirement-04-08-2026/9704454",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement concerns a non-UK listed entity (Morgan Stanley B.V.) and likely represents an administrative personnel change rather than a material corporate event for UK equity markets.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a board change within the entity, which typically affects corporate governance structures but is generally considered an administrative update for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Governance",
+        "Appointment"
       ]
     },
     {
@@ -1196,11 +1196,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-retirement-08-07-2026/9659384",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This is an administrative filing for Morgan Stanley B.V., a non-UK incorporated entity, indicating a routine personnel change rather than a strategic shift in the UK equity landscape.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a board-level personnel change involving retirement, which typically represents a routine governance update rather than a strategic shift. Shareholders should view this as an administrative transition with no immediate financial implications.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -1315,11 +1315,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-retirement-19-06-2026/9628405",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard personnel change announcement for Morgan Stanley B.V., a non-UK listed entity, resulting in zero material impact on UK equity markets or investor sentiment.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a routine personnel change involving retirement, which typically has minimal direct financial impact on shareholders. Such administrative updates are standard corporate governance matters rather than strategic events.",
       "key_themes": [
-        "Corporate Governance",
-        "Personnel Change"
+        "Governance",
+        "Personnel"
       ]
     },
     {
@@ -1329,11 +1329,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-19-06-2026/9628403",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley's Dutch subsidiary, reflecting routine liability management rather than equity-moving news for UK-listed entities.",
+      "impact_score": 1,
+      "insight": "This announcement appears to be an administrative notice regarding the partial retirement of a specific instrument or tranche, likely involving debt securities rather than equity. It signifies routine operational housekeeping with no direct bearing on the company's share price or shareholder value.",
       "key_themes": [
-        "Debt Management",
-        "Corporate Action"
+        "Administrative",
+        "Instrument Retirement"
       ]
     },
     {
@@ -1399,10 +1399,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 1,
-      "insight": "This is an issuer call for a Morgan Stanley B.V. senior unsecured bond (XS2877363551), not a UK-listed equity announcement; it represents routine debt investor relations activity with zero direct impact on UK equity valuations.",
+      "insight": "This announcement appears to be an administrative notice regarding a specific debt instrument call, which is routine for non-equity securities and typically has no direct impact on ordinary shareholders.",
       "key_themes": [
-        "Debt Issuance",
-        "Investor Relations"
+        "Debt",
+        "Administrative"
       ]
     },
     {
@@ -1423,10 +1423,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial-retirement-10-06-2026/9612088",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard partial retirement of an ISM (Internal Shareholding Model) award by Morgan Stanley B.V., a non-listed entity, indicating routine internal equity administration rather than a market-moving event for UK equities.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a partial retirement of debt instruments by Morgan Stanley B.V., which is an administrative capital management action. Such transactions typically have minimal direct impact on equity shareholders as they relate to the issuer's liability structure rather than its operational performance or governance.",
       "key_themes": [
-        "Corporate Governance",
+        "Capital management",
+        "Debt issuance",
         "Administrative"
       ]
     },
@@ -1438,10 +1439,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard regulatory filing for Morgan Stanley B.V., a non-UK incorporated entity, indicating routine personnel changes rather than a material event for UK-listed equities or the broader market.",
+      "insight": "This announcement appears to be an administrative record of a retirement event initiated by Morgan Stanley B.V., likely involving internal personnel changes rather than strategic corporate actions. Such routine staffing updates typically have no material bearing on the company's financial performance or shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Administrative",
+        "Personnel"
       ]
     },
     {
@@ -1462,11 +1463,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-ca-kering-09-06-2026/9609749",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This RNS represents a standard disclosure of a derivative position by Morgan Stanley BV regarding Kering, likely reflecting hedging activity rather than a directional equity stake change; without specific volume or delta data, it lacks the materiality to influence Kering's valuation or strategic outlook.",
+      "impact_score": 1,
+      "insight": "This appears to be an administrative filing or correspondence related to Morgan Stanley B.V. rather than a substantive corporate event for its shareholders.",
       "key_themes": [
-        "Derivative Position",
-        "Luxury Sector"
+        "Administrative",
+        "Corporate Action"
       ]
     },
     {
@@ -1488,10 +1489,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 1,
-      "insight": "This is a standard issuer call notification from Morgan Stanley B.V., a non-UK listed entity, providing no material information for UK equity investors.",
+      "insight": "This headline indicates an issuer call related to the ISM, which is typically a routine administrative or informational update rather than a substantive corporate event affecting shareholder value.",
       "key_themes": [
-        "Corporate Communications",
-        "Non-Material"
+        "Administrative",
+        "Investor Relations"
       ]
     },
     {
@@ -1523,11 +1524,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-all-partial_retirement-02-05-2026/9598059",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard partial retirement of debt securities by Morgan Stanley B.V., a routine capital structure adjustment for an investment-grade issuer with no material implication for UK equity markets or the broader sector.",
+      "impact_score": 1,
+      "insight": "This announcement appears to be an administrative notice regarding the partial retirement of a specific instrument or facility, which typically signifies routine housekeeping rather than a material event for shareholders.",
       "key_themes": [
-        "Capital Management",
-        "Debt Retirement"
+        "Administrative",
+        "Instrument update"
       ]
     },
     {
@@ -1559,11 +1560,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism-msbv-partial_retirement-28-05-2026/9590616",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is an administrative partial retirement of debt securities by Morgan Stanley BV, a routine capital structure adjustment with no direct impact on UK equity valuations.",
+      "impact_score": 1,
+      "insight": "This announcement appears to be an administrative notice regarding the partial retirement of a specific instrument or listing, likely having no direct operational impact on the parent entity.",
       "key_themes": [
-        "Capital Management",
-        "Administrative"
+        "Administrative",
+        "Listing update"
       ]
     },
     {
@@ -1574,10 +1575,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 1,
-      "insight": "This is a standard ISM notification of a shareholding change by Morgan Stanley BV in Glencore, reflecting routine portfolio management rather than a strategic shift or material market-moving event.",
+      "insight": "This appears to be an administrative filing or data transmission record rather than a substantive corporate announcement. It contains no information regarding the company's operations, strategy, or financial position.",
       "key_themes": [
-        "Shareholding Change",
-        "Institutional Investor"
+        "Administrative",
+        "Data Transmission"
       ]
     }
   ]

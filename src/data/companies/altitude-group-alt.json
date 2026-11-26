@@ -2,9 +2,23 @@
   "name": "Altitude Group",
   "ticker": "ALT",
   "slug": "altitude-group-alt",
-  "announcement_count": 10,
-  "latest_announcement": "2026-10-08T12:22:00",
+  "announcement_count": 11,
+  "latest_announcement": "2026-11-26T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T07:00:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/altitude-group--alt/director-pdmr-shareholding/9894494",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Director/PDMR Shareholding filing follows earlier director appointments. Shareholders should monitor for further changes in board composition.",
+      "key_themes": [
+        "Governance",
+        "Director Dealing"
+      ]
+    },
     {
       "timestamp": "2026-10-08T12:22:00",
       "category": null,
@@ -52,10 +66,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements for Altitude Group typically reflect minor personal portfolio adjustments rather than significant insider sentiment shifts, given the company's niche position in the UK leisure and hospitality sector.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine compliance reporting rather than a significant strategic shift. Shareholders should view this as standard governance disclosure without immediate implications for valuation or corporate direction.",
       "key_themes": [
-        "Director Dealing",
-        "Minor Administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -65,11 +79,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/altitude-group--alt/directorate-changes/9650686",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine board restructuring typical for Altitude Group's asset-light model; without accompanying strategic shifts or significant capital allocation changes, this has negligible immediate price impact.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the board composition, which is a standard governance event that may signal strategic shifts but lacks specific details on the nature or significance of the appointment. Shareholders should monitor subsequent filings for context regarding the new director's background and potential impact on leadership stability.",
       "key_themes": [
-        "Corporate Governance",
-        "Board Composition"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -105,10 +119,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing announcements are standard regulatory disclosures with negligible fundamental impact on Altitude Group's valuation or strategic trajectory.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has executed a transaction in the company's shares. Such dealings are routine regulatory disclosures and generally carry low immediate significance for shareholders unless accompanied by further context regarding volume or intent.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -119,10 +133,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory disclosure of director shareholding changes, which is routine administrative noise in the UK equity markets and lacks the transformative catalysts or significant insider sentiment shifts required to move the stock price meaningfully.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure under market abuse regulations. It provides limited insight into future performance but may signal insider sentiment regarding the stock.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Director Dealing",
+        "Governance"
       ]
     },
     {

@@ -12,11 +12,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/leverage-shares-public-limited-company--amds/consolidation-notice-3xfutu-3x-ai-1x-amd-3x-ewt/9661331",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative consolidation of leveraged ETN product lines rather than a corporate event for the issuer itself, reflecting routine ETF industry housekeeping to manage liquidity or consolidate underperforming tracks.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a consolidation of shares for specific leveraged ETF products, which is an administrative action affecting the structure of those investment vehicles rather than the underlying company's operational performance.",
       "key_themes": [
-        "ETF Consolidation",
-        "Administrative Action"
+        "Corporate Action",
+        "Fund Restructuring"
       ]
     },
     {
@@ -26,11 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/leverage-shares-public-limited-company--amds/results-of-adjourned-meeting-1x-amd-etp/9661290",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement pertains to the administrative conclusion of a meeting for an Exchange Traded Product (ETP) rather than the listed parent company's operational performance, indicating no direct fundamental impact on LEVERAGE SHARES' equity value.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that a meeting regarding an Exchange Traded Product has been adjourned, which is typically an administrative procedural update rather than a substantive corporate event.",
       "key_themes": [
-        "administrative",
-        "etp_structure"
+        "Governance",
+        "Meeting results"
       ]
     },
     {
@@ -54,11 +54,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/leverage-shares-public-limited-company--amds/etp-noteholder-meeting-notice-1x-amd/9592837",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative notice for an ETP product, indicating routine governance rather than fundamental corporate activity; it carries no direct equity impact on underlying AMD holdings.",
+      "impact_score": 3,
+      "insight": "This notice indicates a scheduled meeting of noteholders for an Exchange Traded Product, which is a standard governance procedure. It signifies routine administrative action rather than a material event affecting the issuer's fundamental value.",
       "key_themes": [
-        "ETP Governance",
-        "Administrative"
+        "Governance",
+        "ETP",
+        "Meeting Notice"
       ]
     }
   ]

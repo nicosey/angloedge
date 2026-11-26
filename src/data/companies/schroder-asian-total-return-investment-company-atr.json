@@ -2,9 +2,20 @@
   "name": "Schroder Asian Total Return Investment Company",
   "ticker": "ATR",
   "slug": "schroder-asian-total-return-investment-company-atr",
-  "announcement_count": 36,
-  "latest_announcement": "2026-11-20T17:31:00",
+  "announcement_count": 37,
+  "latest_announcement": "2026-11-25T16:22:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T16:22:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/schroder-asian-total-return-investment-company--atr/transaction-in-own-shares/9894222",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T17:31:00",
       "category": null,
@@ -254,11 +265,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This is a standard administrative filing for an Investment Trust, likely containing details on dividend payments, share class information, or regulatory updates rather than material corporate action. Such circulars are routine compliance requirements with no immediate impact on the fund's NAV or strategic direction.",
+      "insight": "A circular typically disseminates detailed information regarding a specific corporate action, such as a meeting, offer, or capital change, requiring shareholder attention. The actual significance depends entirely on the underlying proposal contained within the document.",
       "key_themes": [
-        "Investment Trust",
-        "Regulatory Compliance",
-        "Corporate Governance"
+        "Corporate Action",
+        "Shareholder Communication"
       ]
     },
     {
@@ -401,10 +411,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 2,
-      "insight": "This is a standard investor relations update designed to manage market sentiment during periods of volatility rather than signal fundamental operational changes. In the current high-interest-rate environment for Asian fixed income and equities, such communications aim to retain AUM by reassuring shareholders of the manager's strategic discipline.",
+      "insight": "This announcement appears to be a marketing update or investor relations content release rather than a substantive corporate event. It provides no new financial data, strategic direction, or governance changes that would materially affect shareholder value.",
       "key_themes": [
         "Investor Relations",
-        "Asset Management"
+        "Marketing"
       ]
     },
     {

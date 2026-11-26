@@ -12,11 +12,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wilmington--wil/result-of-agm/9881600",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of shareholder votes at the Annual General Meeting, which typically involves routine matters such as director reappointments and auditor ratification rather than strategic shifts or capital allocation changes.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or auditor appointments. It signifies standard corporate governance compliance rather than any material change to the company's strategic direction or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder approval"
       ]
     },
     {
@@ -27,10 +27,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible signal for institutional investors compared to aggregate insider buying/selling trends.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities rather than significant corporate events. Such filings are standard governance disclosures and generally carry low immediate impact on shareholder value.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_event"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -41,10 +41,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory disclosure of individual director transactions which typically carries negligible signal for institutional investors compared to aggregate insider sentiment or major corporate actions.",
+      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with significant roles rather than strategic corporate events. Such disclosures are generally considered low-impact administrative housekeeping for shareholders.",
       "key_themes": [
-        "regulatory_compliance",
-        "minor_administrative"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -54,11 +54,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wilmington--wil/completion-of-the-audit/9804644",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the completion of statutory accounts, which provides no new forward-looking guidance or material financial data to alter market valuation.",
+      "impact_score": 5,
+      "insight": "This announcement signifies the conclusion of the annual audit process, which is a standard procedural step preceding the release of final financial results. It indicates that the company has completed its statutory reporting obligations but provides no information on the financial performance or strategic direction.",
       "key_themes": [
-        "Corporate Governance",
-        "Regulatory Compliance"
+        "Governance",
+        "Results"
       ]
     },
     {
@@ -69,10 +69,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory disclosure for Wilmington Group, a specialist recruitment firm; without volume or price data, this routine filing offers no actionable signal on insider sentiment or company performance.",
+      "insight": "This announcement indicates a change in the shareholding of a person discharging managerial responsibilities, which is a routine regulatory disclosure. It signals standard insider activity rather than a significant corporate event or strategic shift.",
       "key_themes": [
-        "regulatory_compliance",
-        "recruitment_sector"
+        "Governance",
+        "Director Dealing"
       ]
     },
     {
@@ -118,10 +118,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This is a standard administrative notice confirming the publication date for annual results rather than disclosing financial data or strategic shifts; without specific figures or commentary on the property sector's recovery, it holds no immediate market-moving weight.",
+      "insight": "This announcement indicates that the company is scheduled to publish its annual financial results, a routine event for listed entities. The headline does not specify the nature or magnitude of the findings, so it generally signifies an update on the company's financial performance for the period.",
       "key_themes": [
-        "administrative",
-        "results_announcement"
+        "Results",
+        "Financial reporting"
       ]
     },
     {
@@ -146,10 +146,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine director dealing disclosures typically carry minimal market impact unless accompanied by unusual volume or timing relative to price movements; without specific transaction details in the headline, this is classified as standard administrative reporting.",
+      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. While it provides transparency on individual holdings, it typically carries low immediate impact for general shareholders unless accompanied by context regarding the nature or size of the transaction.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Director Dealing",
+        "Governance"
       ]
     }
   ]

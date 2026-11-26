@@ -2,9 +2,37 @@
   "name": "Emmerson NPV",
   "ticker": "EML",
   "slug": "emmerson-eml",
-  "announcement_count": 8,
-  "latest_announcement": "2026-11-24T16:09:00",
+  "announcement_count": 10,
+  "latest_announcement": "2026-11-26T11:30:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T11:30:00",
+      "category": "AGM/EGM",
+      "headline": "Result of AGM",
+      "url": "https://www.investegate.co.uk/announcement/rns/emmerson-npv--eml/result-of-agm/9895881",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Shareholders should note the AGM result follows the November capital raise announcements. This confirms the procedural completion of the recent fundraising activities.",
+      "key_themes": [
+        "Governance",
+        "Capital raise"
+      ]
+    },
+    {
+      "timestamp": "2026-11-26T07:30:00",
+      "category": null,
+      "headline": "Capital Access Window - Emmerson Plc",
+      "url": "https://www.investegate.co.uk/announcement/rns/emmerson-npv--eml/capital-access-window-emmerson-plc/9895268",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "Following the November placing and subscription results, this Capital Access Window likely facilitates further capital raising. Shareholders should monitor for subsequent offer details or execution steps.",
+      "key_themes": [
+        "Capital raise",
+        "Fundraising"
+      ]
+    },
     {
       "timestamp": "2026-11-24T16:09:00",
       "category": "Placing",
@@ -56,11 +84,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/emmerson-npv--eml/capital-access-window-emmerson-plc/9883738",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative notice regarding the reopening of the company's capital access window for share dealings, indicating no immediate material corporate action or strategic shift.",
+      "impact_score": 7,
+      "insight": "This announcement likely signifies a formal process to access capital markets or secure funding, which is a significant event for shareholder value and dilution risk. It suggests a strategic move to raise funds rather than routine administrative updates.",
       "key_themes": [
-        "Corporate Governance",
-        "Share Dealing"
+        "Capital raise",
+        "Funding"
       ]
     },
     {
@@ -70,11 +98,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/emmerson-npv--eml/capital-access-window/9882953",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement confirms the operational launch of a secondary capital raise mechanism rather than disclosing specific transaction terms or pricing, limiting immediate quantitative impact. While it signals management's intent to optimize the balance sheet, the actual market reaction will depend entirely on the size and dilution profile of subsequent tranches.",
+      "impact_score": 6,
+      "insight": "This announcement likely signifies a new initiative to improve liquidity or access to funding for the company. It suggests a structural change in how capital is managed but lacks specific details on terms or outcomes.",
       "key_themes": [
-        "capital_raise",
-        "balance_sheet_management"
+        "Capital Access",
+        "Liquidity"
       ]
     },
     {
@@ -84,11 +112,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/emmerson-npv--eml/agm-notice-/9853814",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative notice for an Annual General Meeting, typical for routine shareholder approvals such as director re-elections and auditor appointments. It carries no immediate financial or strategic weight for the equity valuation.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that a general meeting of shareholders is being convened, which typically allows for routine governance matters to be addressed. It signifies standard corporate administration rather than any material change in the company's strategic or financial position.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Governance",
+        "Shareholder Meeting"
       ]
     },
     {
@@ -112,10 +140,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "While proprietary processing technology offers potential margin advantages for critical mineral extraction, IP announcements for pre-revenue juniors rarely drive immediate valuation re-ratings without proven commercial scale or offtake agreements.",
+      "insight": "This announcement indicates a development in intellectual property rights, which may suggest potential future monetization or strategic value but lacks specific financial details to assess immediate impact. Shareholders should view this as a procedural update regarding asset protection rather than a direct catalyst for valuation.",
       "key_themes": [
-        "IP",
-        "Processing Technology"
+        "Intellectual Property",
+        "Asset Development"
       ]
     }
   ]

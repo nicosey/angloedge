@@ -12,12 +12,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/publication-of-a-prospectus/9854188",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory filing for a Closed-Ended Fund (CEF) to launch a new investment vehicle, indicating routine capital formation rather than operational news for existing shareholders. In the current high-interest-rate environment, such VCT launches are common as managers seek fresh equity to deploy into tax-efficient portfolios.",
+      "impact_score": 8,
+      "insight": "The publication of a prospectus typically signifies a significant capital raising activity or the admission of securities to trading, which can materially affect shareholder dilution and liquidity. This type of announcement is critical for investors as it outlines the terms and risks associated with new shares being issued.",
       "key_themes": [
-        "VCT",
-        "Capital Raise",
-        "Closed-Ended Fund"
+        "Capital raise",
+        "Prospectus",
+        "Share issuance"
       ]
     },
     {
@@ -27,11 +27,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/dividend-declaration/9854186",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Routine dividend declaration for a closed-end investment trust with limited market liquidity; typical income distribution rather than a signal of fundamental value creation or strategic shift.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a distribution of profits to shareholders, which is a standard corporate action for investment trusts. It confirms that income has been generated and allocated, but provides no details on the amount or sustainability.",
       "key_themes": [
-        "income_distribution",
-        "closed_end_fund"
+        "Dividend",
+        "Income"
       ]
     },
     {
@@ -41,11 +41,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/portfolio-update/9834722",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "As a Venture Capital Trust, portfolio updates are standard disclosures detailing asset performance rather than corporate strategy shifts; without specific details on significant disposals or new investments in this headline, the market impact is negligible.",
+      "impact_score": 5,
+      "insight": "This announcement provides a scheduled update on the performance of the investment portfolio held by the fund. It allows shareholders to assess the current value and progress of their holdings without indicating any specific directional change or material event.",
       "key_themes": [
-        "VCT",
-        "Portfolio Management"
+        "Portfolio Update",
+        "Performance Report"
       ]
     },
     {
@@ -55,12 +55,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/half-year-report-/9822605",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a VCT, this is a standard regulatory filing rather than a market-moving event; however, the half-year results are critical for investors to assess dividend sustainability and NAV erosion in the current high-interest-rate environment.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled half-year report for the entity, providing shareholders with periodic performance data. The headline does not indicate any specific financial direction or material events that would alter the immediate investment thesis.",
       "key_themes": [
-        "VCT",
-        "Interim Results",
-        "Dividend Sustainability"
+        "Results",
+        "Half-year Report"
       ]
     },
     {
@@ -168,11 +167,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/puma-vct-13--pu13/portfolio-update/9679427",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "As a VCT, this update likely reflects standard portfolio valuation adjustments or dividend declarations rather than transformative corporate events; without specific material transaction details in the headline, it falls under routine administrative reporting for closed-end funds.",
+      "impact_score": 5,
+      "insight": "This announcement provides a scheduled update on the performance of the investment portfolio held by the fund. It signifies routine reporting to shareholders regarding asset management activities without indicating any immediate strategic change or material event.",
       "key_themes": [
-        "VCT",
-        "Portfolio Management"
+        "Portfolio Update",
+        "Fund Reporting"
       ]
     },
     {
@@ -227,10 +226,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "As a closed-end investment trust, the annual report primarily confirms NAV performance and dividend policy rather than triggering immediate price discovery; without evidence of significant NAV growth or special dividends in the headline, this is routine compliance for income-focused investors.",
+      "insight": "This announcement signifies the publication of scheduled annual financial results for the specified period. It provides shareholders with the standard comprehensive financial performance data required to assess the company's position.",
       "key_themes": [
-        "NAV Performance",
-        "Dividend Policy"
+        "Results",
+        "Annual Report"
       ]
     },
     {

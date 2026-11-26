@@ -12,11 +12,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ceps--ceps/acquisition-by-aford-awards/9809948",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This is a standard disclosure of a director's shareholding change rather than a corporate M&A event; the headline 'Acquisition' refers to personal portfolio accumulation, indicating no strategic shift or capital deployment for CEPS.",
+      "impact_score": 8,
+      "insight": "This headline indicates a potential formal sale process or offer for CEPS, which typically represents a significant strategic event and potential liquidity event for shareholders.",
       "key_themes": [
-        "Director Dealing",
-        "Insider Activity"
+        "M&A",
+        "Corporate Action"
       ]
     },
     {
@@ -26,11 +26,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ceps--ceps/liquidation-of-milano-international-limited-ar17/9674801",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "The liquidation of a subsidiary is a standard administrative cleanup for non-core assets, indicating no immediate operational disruption to CEPS's primary business lines.",
+      "impact_score": 8,
+      "insight": "The liquidation of a subsidiary typically signifies a strategic retreat from specific operations or the disposal of non-core assets, which can materially affect the group's structure and financial profile. This action may indicate a focus on streamlining the business or realizing value from underperforming entities.",
       "key_themes": [
-        "Corporate Restructuring",
-        "Administrative"
+        "Corporate restructuring",
+        "Asset disposal",
+        "Governance"
       ]
     },
     {
@@ -40,11 +41,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ceps--ceps/liquidation-of-milano-international-limited/9653998",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Liquidation of a subsidiary is typically an administrative housekeeping exercise or the closure of a non-core asset, indicating no immediate strategic shift or material financial impact on CEPS's core operations.",
+      "impact_score": 9,
+      "insight": "The liquidation of a subsidiary typically signifies the closure of a business unit, which may result in impairment charges and reduced operational scope for the parent company. This action often indicates a strategic withdrawal from specific markets or assets, impacting future revenue streams.",
       "key_themes": [
-        "Corporate Governance",
-        "Administrative"
+        "Insolvency",
+        "Asset Disposal",
+        "Corporate Restructuring"
       ]
     },
     {
@@ -54,11 +56,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ceps--ceps/result-of-annual-general-meeting/9619281",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing confirming the outcome of routine shareholder votes, carrying no new strategic direction or financial data that would alter valuation models.",
+      "impact_score": 3,
+      "insight": "This announcement confirms the outcome of a routine Annual General Meeting, which typically involves standard shareholder approvals and governance matters rather than significant strategic shifts or financial events.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Approval"
+        "Governance",
+        "Shareholder approval"
       ]
     }
   ]

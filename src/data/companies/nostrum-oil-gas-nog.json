@@ -12,11 +12,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nostrum-oil-gas--nog/notice-of-purchase-of-senior-unsecured-notes-/9882526",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement indicates a third-party acquisition of debt rather than company-initiated capital raising, suggesting no immediate liquidity pressure but offering limited insight into management's strategic direction compared to equity issuance.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a transaction involving the company's debt instruments, which may affect its capital structure and financial obligations. Shareholders should consider how this activity influences the firm's leverage profile and credit risk.",
       "key_themes": [
-        "Debt Market",
-        "Corporate Action"
+        "Debt",
+        "Capital Structure"
       ]
     },
     {
@@ -26,11 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nostrum-oil-gas--nog/operational-update-for-9m-ended-30-september-2026/9862961",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a pure-play E&P with high leverage, operational updates directly dictate cash flow visibility and refinancing risk in the current high-rate environment; any deviation from production guidance significantly impacts valuation multiples for this sector.",
+      "impact_score": 5,
+      "insight": "This operational update provides a scheduled performance review for the period ended 30 September 2026. As the headline does not specify the direction of results, it represents a standard informational release rather than a material event.",
       "key_themes": [
-        "production_guidance",
-        "cash_flow_visibility"
+        "Operational Update",
+        "Performance Review"
       ]
     },
     {
@@ -91,11 +91,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nostrum-oil-gas--nog/mandatory-purchase-of-suns-and-initial-cash-amount/9832675",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This mandatory purchase of SUNs (Subordinated Unsecured Notes) represents a standard debt restructuring mechanism to manage liquidity and extend maturity profiles rather than an equity-affecting event. While it reduces near-term refinancing risk for Nostrum, it does not signal strategic growth or operational improvement in the current high-cost capital environment.",
+      "impact_score": 8,
+      "insight": "This announcement signifies a mandatory purchase process involving specific financial instruments, which typically indicates a formal sale process or significant capital restructuring event. Such actions are material to shareholders as they often lead to changes in ownership structure or potential exit opportunities.",
       "key_themes": [
-        "Debt Restructuring",
-        "Liquidity Management"
+        "Mandatory Purchase",
+        "Capital Restructuring",
+        "Shareholder Action"
       ]
     },
     {
@@ -105,12 +106,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nostrum-oil-gas--nog/sale-of-kazakhstan-operations-redemption-of-ssns/9825990",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "This represents a definitive strategic pivot for Nostrum, exiting the high-risk Kazakhstan jurisdiction to focus on its core UK assets, thereby reducing geopolitical exposure and potential valuation discounts associated with emerging market operations.",
+      "impact_score": 8,
+      "insight": "This announcement signifies a material disposal of operations and a capital return mechanism via the redemption of SSNs, indicating a significant strategic shift and potential liquidity event for shareholders.",
       "key_themes": [
-        "Strategic Restructuring",
-        "Geopolitical Risk Mitigation",
-        "Capital Return"
+        "Asset disposal",
+        "Capital return",
+        "Strategic review"
       ]
     },
     {
@@ -120,12 +121,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nostrum-oil-gas--nog/consent-solicitation-results-announcement/9800291",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This solicitation is a critical procedural step for Nostrum to bypass the UK Takeover Code's mandatory bid rule triggered by its acquisition of Core Energy assets, allowing it to consolidate control without an immediate cash offer to minority shareholders. It signals management's intent to streamline ownership following significant upstream consolidation, reducing fragmentation and aligning with recent sector trends of junior E&Ps seeking scale through targeted M&A.",
+      "impact_score": 5,
+      "insight": "This announcement indicates that formal results are being released alongside a consent solicitation, suggesting significant corporate action or governance changes requiring shareholder approval. The combination implies that the financial performance is being presented in the context of a critical vote on company matters.",
       "key_themes": [
-        "Corporate Governance",
-        "M&A Consolidation",
-        "Takeover Code"
+        "Results",
+        "Governance",
+        "Shareholder Vote"
       ]
     },
     {
@@ -150,11 +151,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nostrum-oil-gas--nog/consent-solicitation/9761287",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Consent solicitations are standard governance mechanisms for amending bond covenants, typically indicating management is navigating existing debt constraints rather than executing transformative growth; this aligns with the broader E&P sector's focus on liquidity preservation over expansion.",
+      "impact_score": 7,
+      "insight": "A consent solicitation typically seeks shareholder approval for significant corporate actions, such as amendments to governing documents or support for a transaction, which can materially alter the company's structure or future direction.",
       "key_themes": [
-        "Corporate Governance",
-        "Debt Restructuring"
+        "Governance",
+        "Shareholder vote"
       ]
     },
     {
@@ -164,12 +165,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nostrum-oil-gas--nog/consent-solicitation-and-tender-offer-update/9756787",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This update signals active capital restructuring efforts to address liquidity constraints in a high-interest-rate environment, reflecting the broader struggle of independent UK E&P firms to refinance debt without diluting existing shareholders.",
+      "impact_score": 7,
+      "insight": "This update relates to a consent solicitation and tender offer, which typically indicates a significant corporate action such as a potential change in control or capital structure that requires shareholder approval.",
       "key_themes": [
-        "Capital Restructuring",
-        "Liquidity Management",
-        "UK E&P Sector Stress"
+        "Corporate action",
+        "Shareholder vote",
+        "Tender offer"
       ]
     },
     {
@@ -179,12 +180,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nostrum-oil-gas--nog/transaction-update-tender-offer-supplement/9728557",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The tender offer signals management's confidence in underlying asset value and provides an exit for minority shareholders, a common tactic in UK E&P to consolidate ownership during periods of low liquidity or price dislocation.",
+      "impact_score": 8,
+      "insight": "This announcement indicates a formal tender offer process is underway, which typically represents a significant event for shareholders as it may lead to a change in control or exit opportunity. The inclusion of a transaction update suggests active progress in negotiations or execution that could materially affect the company's future.",
       "key_themes": [
-        "capital allocation",
-        "shareholder return",
-        "ownership consolidation"
+        "Tender Offer",
+        "M&A",
+        "Transaction Update"
       ]
     },
     {
@@ -194,11 +195,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nostrum-oil-gas--nog/agreement-to-sell-kazakhstan-operations/9723815",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This divestment signals a strategic pivot away from geopolitical risk in Kazakhstan towards core UK assets, aligning with the broader E&P sector trend of portfolio simplification and de-risking to attract capital amid volatile commodity prices.",
+      "impact_score": 8,
+      "insight": "This announcement signifies a material disposal of operations, which typically involves strategic restructuring and potential cash generation for shareholders. Such transactions often indicate a shift in the company's focus or an effort to optimize its asset portfolio.",
       "key_themes": [
-        "Portfolio Rationalization",
-        "Geopolitical De-risking"
+        "Asset disposal",
+        "Strategic review"
       ]
     },
     {
@@ -208,12 +209,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nostrum-oil-gas--nog/financial-results-for-6m-ended-30-june-2026/9714365",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "As a pure-play E&P with high leverage, Nostrum's interim results are critical for assessing liquidity and debt covenants amidst volatile Brent prices; any deviation from consensus will heavily influence the stock's near-term volatility and refinancing prospects.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a scheduled half-yearly financial update, which is a routine disclosure event for listed companies. The headline does not indicate any specific direction or magnitude of performance that would suggest a material impact on shareholder value.",
       "key_themes": [
-        "Interim Results",
-        "Liquidity Assessment",
-        "Debt Covenants"
+        "Results"
       ]
     },
     {
@@ -237,12 +236,12 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nostrum-oil-gas--nog/consent-solicitation/9677799",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Consent solicitations are standard procedural mechanisms for UK-listed oil & gas firms to bypass shareholder approval thresholds for related-party transactions or capital raises under the UK Corporate Governance Code. While essential for operational agility in a high-cost exploration environment, this specific action carries no intrinsic valuation impact unless accompanied by a concurrent material transaction announcement.",
+      "impact_score": 7,
+      "insight": "A consent solicitation indicates an attempt to modify existing contractual terms, often associated with debt restructuring or facilitating a sale process. This suggests potential significant changes to the company's capital structure or strategic direction that could materially affect shareholder value.",
       "key_themes": [
-        "Corporate Governance",
-        "Shareholder Rights",
-        "Procedural"
+        "Governance",
+        "Debt Restructuring",
+        "Corporate Action"
       ]
     },
     {
@@ -281,11 +280,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nostrum-oil-gas--nog/notification-of-interest-payments-on-the-notes/9614591",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine debt servicing notification with no strategic implication for equity valuation; reflects standard covenant compliance rather than capital structure transformation.",
+      "impact_score": 4,
+      "insight": "This announcement confirms the payment of interest on outstanding notes, indicating the company is meeting its debt service obligations. It serves as a routine confirmation of financial compliance rather than a signal of distress or strategic change.",
       "key_themes": [
-        "debt_management",
-        "corporate_actions"
+        "Debt",
+        "Corporate Action"
       ]
     },
     {
@@ -295,11 +294,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/nostrum-oil-gas--nog/publication-of-annual-report-and-notice-of-agm/9593408",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing for Nostrum Oil & Gas, serving primarily to convene the Annual General Meeting and distribute statutory reports rather than signaling any immediate strategic shift or material financial event.",
+      "impact_score": 3,
+      "insight": "This announcement signifies the publication of the annual report and notice for an Annual General Meeting, which is a standard governance requirement. It generally allows shareholders to review past performance and vote on routine matters without indicating immediate financial or strategic changes.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Filing"
+        "Governance",
+        "Annual Report"
       ]
     }
   ]

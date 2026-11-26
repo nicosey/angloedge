@@ -2,9 +2,20 @@
   "name": "Sequoia Economic Infrastructure Income Fund Limited",
   "ticker": "SEQI",
   "slug": "sequoia-economic-infrastructure-income-fund-seqi",
-  "announcement_count": 15,
-  "latest_announcement": "2026-11-24T07:00:00",
+  "announcement_count": 16,
+  "latest_announcement": "2026-11-25T07:01:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-25T07:01:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/sequoia-economic-infrastructure-income-fund-limited--seqi/transaction-in-own-shares/9892342",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-24T07:00:00",
       "category": "Results",
@@ -63,10 +74,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine dividend declaration for a closed-end infrastructure fund; while critical for yield-seeking income investors, it reflects standard distribution policy rather than transformative corporate action.",
+      "insight": "This announcement indicates a formal declaration of a dividend payment by the company. For shareholders, this typically signifies a distribution of profits and confirms the continuation of income returns.",
       "key_themes": [
         "Dividend",
-        "Infrastructure"
+        "Income"
       ]
     },
     {
@@ -152,11 +163,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Routine dividend declaration for a closed-end infrastructure fund; while critical for yield-seeking investors, it lacks the transformative catalysts required to drive significant capital appreciation in the current rate environment.",
+      "insight": "This announcement signifies a dividend declaration, which is typically classified as a minor corporate action with limited strategic impact. It generally indicates routine income distribution rather than significant operational or financial change.",
       "key_themes": [
         "Dividend",
-        "Infrastructure",
-        "Yield"
+        "Income"
       ]
     },
     {
@@ -178,11 +188,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "As a listed infrastructure income fund, SEQI's results are critical for tracking yield sustainability and NAV performance in a high-interest-rate environment, though this is a standard reporting event rather than a strategic inflection point.",
+      "insight": "This announcement indicates that scheduled financial results are being released alongside a call for investor engagement. It signifies a routine reporting event where shareholders can expect to review performance metrics and hear management commentary.",
       "key_themes": [
-        "Infrastructure Income",
-        "Yield Sustainability",
-        "NAV Performance"
+        "Results",
+        "Investor Relations"
       ]
     },
     {

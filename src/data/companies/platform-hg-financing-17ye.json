@@ -10,14 +10,11 @@
       "category": null,
       "headline": "Publication of Programme Admission Particulars",
       "url": "https://www.investegate.co.uk/announcement/rns/platform-hg-financing-plc--17ye/publication-of-programme-admission-particulars/9768790",
-      "routine_type": null,
-      "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative filing for the Euro Medium Term Note (EMTN) programme, facilitating future debt issuance rather than signaling an immediate capital event or strategic shift.",
-      "key_themes": [
-        "Corporate Finance",
-        "Debt Issuance"
-      ]
+      "routine_type": "Debt Notices",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
     },
     {
       "timestamp": "2026-08-10T07:00:00",
@@ -26,11 +23,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/platform-hg-financing-plc--17ye/directorate-change/9711906",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Routine administrative update regarding board composition for a SPAC vehicle; lacks immediate strategic catalysts or material financial implications for the underlying asset.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the board composition, which is a standard governance update. Such changes are routine and typically do not signal immediate strategic shifts or material financial impacts for shareholders.",
       "key_themes": [
-        "Corporate Governance",
-        "SPAC Administration"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -41,10 +38,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "As a SPAC vehicle with no underlying operating business, this annual report is purely administrative compliance; it holds zero fundamental value for investors given the entity's likely dissolution or lack of operational activity.",
+      "insight": "This announcement signifies the release of scheduled annual financial results, which provides shareholders with a comprehensive review of the company's performance over the past year. The headline does not indicate the direction of the results or any specific material events, so it represents standard periodic reporting rather than a catalyst for immediate price movement.",
       "key_themes": [
-        "SPAC",
-        "Administrative"
+        "Results",
+        "Annual Report"
       ]
     }
   ]

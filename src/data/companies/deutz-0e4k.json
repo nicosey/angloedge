@@ -56,11 +56,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-helmut-ernst-buy/9885102",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard insider dealing notification under MAR, indicating routine personal trading activity by an executive rather than a strategic corporate event. Such disclosures are administrative in nature and carry no immediate implication for the company's valuation or operational direction.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by an individual named in the headline. Such transactions generally signal personal investment activity rather than a corporate event with immediate financial implications for shareholders.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Director dealings",
+        "Insider transaction"
       ]
     },
     {
@@ -70,11 +70,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-helmut-ernst-kauf/9885101",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement reflects a routine insider share purchase by Helmut Ernst, likely indicating personal confidence in the company's valuation rather than a strategic shift. Such minor director dealings are common administrative disclosures with negligible immediate impact on Deutz AG's equity dynamics or sector positioning.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the company's board composition, which is relevant to corporate governance but does not inherently signal immediate financial performance or strategic shifts.",
       "key_themes": [
-        "insider_dealing",
-        "corporate_governance"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -84,11 +84,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-melanie-freytag-buy/9885100",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a routine insider transaction for the CFO rather than a transformative corporate event; such individual director dealings are standard governance disclosures with negligible immediate impact on share price or company strategy.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a director dealing, specifically a purchase by Melanie Freytag, which signals insider activity but does not inherently suggest a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Director dealings",
+        "Insider buying"
       ]
     },
     {
@@ -98,11 +98,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-melanie-freytag-kauf/9885099",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement reflects a routine personal transaction by executive Melanie Freytag rather than a strategic corporate move, indicating no immediate shift in Deutz AG's operational direction or control structure.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the company's board composition, which is relevant to corporate governance and leadership structure.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Governance",
+        "Board change"
       ]
     },
     {
@@ -112,11 +112,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-simone-voggenreiter-ka-/9885098",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard insider dealing notification for Dr. Simone Voggenreiter, likely reflecting routine personal financial management rather than strategic corporate signaling. Such minor director transactions have negligible impact on Deutz AG's valuation or market sentiment.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the company's management structure, specifically involving an individual named Dr. Simone Voggenreiter. Such personnel changes are typically classified as board or executive appointments, which can influence corporate governance and strategic direction.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Governance",
+        "Management Change"
       ]
     },
     {
@@ -126,11 +126,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-simone-voggenreiter-bu-/9885097",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard insider dealing notification for a non-executive director, indicating routine personal portfolio management rather than strategic corporate action. Such disclosures have negligible fundamental impact on Deutz AG's valuation or operational trajectory.",
+      "impact_score": 4,
+      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by an individual named in the headline. Such transactions are routine insider dealings that provide limited insight into the company's fundamental value or future performance.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Director dealings",
+        "Insider trading"
       ]
     },
     {
@@ -140,11 +140,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-dietmar-voggenreiter-k-/9885095",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement reflects a standard personal transaction by Dr. Dietmar Voggenreiter, likely in his capacity as Chairman of the Supervisory Board rather than Executive Management, indicating no immediate operational shift or insider sentiment signal regarding company performance.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the company's board composition, which is a standard governance event. Such changes are typically monitored by shareholders for implications on leadership continuity and strategic oversight.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Activity"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -154,11 +154,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-dietmar-voggenreiter-b-/9885094",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory disclosure of a director's share purchase, indicating personal confidence but lacking the scale or strategic weight to influence institutional positioning or valuation metrics.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by Dr. Dietmar Voggenreiter, which signals personal confidence in the company but typically has limited immediate financial impact on shareholders.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Director dealings",
+        "Insider buying"
       ]
     },
     {
@@ -245,11 +245,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-sebastian-c-schulte-b-/9860516",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard insider dealing notification for a non-executive director, indicating routine personal portfolio management rather than strategic corporate action. Such disclosures are common administrative requirements with no material implication for Deutz AG's equity valuation or operational direction.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a director dealing, specifically a purchase by an individual named in the headline. Such transactions generally signal personal investment activity rather than a corporate event affecting shareholder value.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Director dealings",
+        "Insider buying"
       ]
     },
     {
@@ -259,11 +259,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-sebastian-c-schulte-k-/9860514",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This RNS discloses a personal transaction by Dr. Sebastian C. Schulte, likely a routine director dealing rather than a significant insider signal; without context on volume or price relative to recent trading ranges, it holds minimal strategic weight for equity valuation.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the company's board composition, which is a standard governance event. Such appointments are routine administrative updates that typically have limited immediate financial impact on shareholders.",
       "key_themes": [
-        "Director Dealing",
-        "Corporate Governance"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -273,11 +273,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-nvr-deutz-aktiengesellschaft-release-ac-/9860482",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory notification under the German WpHG regarding a capital measure, likely a dividend or buyback, rather than an operational update; without specific financial figures, it lacks immediate market-moving catalysts compared to earnings releases.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a regulatory disclosure regarding a transaction involving the company's shares, likely related to shareholding thresholds or insider dealings. It serves as a compliance update for shareholders rather than indicating a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Corporate Action",
-        "Regulatory Compliance"
+        "Shareholding",
+        "Regulatory Disclosure"
       ]
     },
     {
@@ -287,11 +287,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-news-deutz-generates-double-digit-growth-/9859044",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "Double-digit growth and margin expansion in the industrial engine sector signal strong demand recovery in construction and agriculture, though as a private entity, this update lacks direct liquidity impact for UK equity investors.",
+      "impact_score": 7,
+      "insight": "This announcement indicates a significant positive shift in financial performance, suggesting improved operational efficiency and earnings potential for shareholders. Such double-digit growth and profitability increases typically warrant a re-rating of the equity valuation.",
       "key_themes": [
-        "Industrial Performance",
-        "Margin Expansion"
+        "Results",
+        "Profitability"
       ]
     },
     {
@@ -301,11 +301,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-melanie-freytag-kauf/9853126",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This RNS confirms a standard insider share acquisition by Melanie Freytag, likely reflecting routine personal portfolio management rather than a strategic signal. In the absence of concurrent corporate actions or performance updates, such minor director dealings carry negligible immediate impact on Deutz AG's equity valuation.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the company's board composition, which is a standard governance event. Such changes are generally routine and do not inherently signal significant strategic shifts or financial implications for shareholders.",
       "key_themes": [
-        "insider_dealing",
-        "corporate_governance"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -315,11 +315,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-melanie-freytag-buy/9853124",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard insider dealing notification for a non-executive director, indicating routine compliance activity rather than strategic intent. Such disclosures are common administrative events with no material implication for Deutz AG's valuation or operational outlook.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by an individual named in the headline. Such transactions provide insight into insider sentiment but typically have limited immediate impact on the company's operational outlook or share price.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Director dealings",
+        "Insider activity"
       ]
     },
     {
@@ -455,11 +455,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-dietmar-voggenreiter-b-/9814293",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard regulatory disclosure of a director's share purchase, indicating personal confidence but lacking the scale or strategic weight to influence institutional sentiment or valuation.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by an individual named in the headline. Such transactions are typically monitored for insider trading compliance and may signal management confidence, but generally carry limited immediate financial impact compared to corporate actions.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Director dealings",
+        "Insider activity"
       ]
     },
     {
@@ -469,11 +469,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-dietmar-voggenreiter-k-/9814292",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard insider dealing notification for Dr. Dietmar Voggenreiter, likely the CFO or senior executive, rather than a strategic corporate event. Such routine disclosures are common in German DAX/MIDCAP equities and carry no inherent signal regarding company performance or future direction.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the company's board composition, which is a standard governance event. Such changes are generally monitored by shareholders for continuity of leadership but do not inherently signal immediate financial or strategic shifts.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -483,11 +483,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-rudolf-maier-buy/9808810",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a routine insider transaction disclosure for Dr. Rudolf Maier, likely reflecting standard personal liquidity needs rather than a strategic signal; such minor director dealings have negligible impact on Deutz AG's valuation or operational trajectory.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a director dealing, specifically a purchase by an individual named in the headline. Such transactions generally signify insider activity but do not inherently alter the company's strategic or financial outlook for shareholders.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Director dealings",
+        "Insider buying"
       ]
     },
     {
@@ -497,11 +497,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-rudolf-maier-kauf/9808809",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard insider dealing notification for Dr. Rudolf Maier's acquisition of shares, which provides no new strategic signal regarding company performance or direction. Such routine transactions are common among executive teams and do not indicate a shift in corporate strategy or market sentiment.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a change in the company's board composition, which is relevant to shareholders as it may affect corporate governance and strategic oversight.",
       "key_themes": [
-        "insider_dealing",
-        "corporate_governance"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -539,11 +539,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-helmut-ernst-buy/9777422",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard insider dealing notification for a non-executive director, which carries no intrinsic signal regarding the company's operational performance or strategic direction. In the context of Deutz AG, such routine disclosures are common and do not indicate a shift in institutional sentiment or corporate governance risk.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by Helmut Ernst. Such transactions generally signify insider activity but typically have limited immediate impact on shareholder value compared to strategic corporate events.",
       "key_themes": [
-        "insider_dealing",
-        "corporate_governance"
+        "Director dealings",
+        "Insider buying"
       ]
     },
     {
@@ -553,11 +553,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-helmut-ernst-kauf/9777421",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard insider dealing notification for a non-executive director (Helmut Ernst) of Deutz AG, indicating routine personal transaction activity rather than strategic corporate action or significant sentiment shift.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the company's board composition, which is a standard governance event. Such changes are generally routine and do not inherently signal a shift in strategic direction or financial performance.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -567,12 +567,12 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-adhoc-deutz-ag-successfully-completes-ca-/9772408",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "The successful cash capital increase via accelerated bookbuilding provides essential liquidity for Deutz AG to fund its transition to electric powertrains and strengthen its balance sheet amidst the ongoing heavy-duty truck cycle downturn. This action mitigates dilution risks associated with open offers but signals a strategic necessity to secure funding without relying on debt markets during volatile credit conditions.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a completed cash capital increase via accelerated bookbuilding, indicating a successful fundraise that will likely dilute existing shareholdings while providing new equity capital to the company.",
       "key_themes": [
-        "Capital Raise",
-        "EV Transition",
-        "Liquidity Management"
+        "Capital raise",
+        "Equity financing",
+        "Dilution"
       ]
     },
     {
@@ -593,11 +593,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-sebastian-c-schulte-v-/9714004",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard director share sale with no indication of distress or strategic shift; in the heavy machinery sector, routine executive dealing is common and rarely impacts valuation unless accompanied by broader insider selling patterns.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a director dealing involving the sale of shares by an individual named in the headline. Such transactions are routine insider dealings that typically have minimal direct impact on the company's operational outlook or share price.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Dealing"
+        "Director dealings",
+        "Insider transaction"
       ]
     },
     {
@@ -607,11 +607,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-sebastian-c-schulte-s-/9714003",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a routine insider transaction by a non-executive director (Dr. Schulte) rather than an executive, indicating no immediate strategic shift or distress signal within the industrial engine sector.",
+      "impact_score": 3,
+      "insight": "This announcement signifies a director dealing, specifically a sale of shares by an individual named in the headline. Such transactions are routine insider dealings that typically have minimal direct impact on the company's operational outlook or share price.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Director dealings",
+        "Insider trading"
       ]
     },
     {
@@ -621,11 +621,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-katharina-kr-ger-buy/9711312",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard insider dealing notification for a non-executive director, indicating routine compliance activity rather than strategic intent. Such disclosures are ubiquitous in the DAX and carry negligible pricing impact or signal regarding company fundamentals.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by Katharina Krüger. Such transactions are routine insider dealings that provide limited insight into the company's future performance.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Director dealings",
+        "Insider trading"
       ]
     },
     {
@@ -635,11 +635,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-katharina-kr-ger-kauf/9711311",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This RNS confirms a routine personal transaction by Katharina Krüger, likely a member of the supervisory board or executive management, rather than a strategic corporate action. In the context of Deutz AG's current focus on electrification and commercial vehicle cycles, individual director dealings are standard governance disclosures with negligible immediate impact on share price or company strategy.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the company's board composition, which is relevant to corporate governance and leadership structure. Shareholders should review the full filing for details regarding the new appointment and its potential impact on strategic direction.",
       "key_themes": [
-        "Corporate Governance",
-        "Insider Dealing"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -649,11 +649,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-melanie-freytag-buy/9709424",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard insider dealing notification for a non-executive director, indicating routine compliance activity rather than a strategic shift. Such minor administrative disclosures have negligible impact on Deutz AG's valuation or market sentiment.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a director dealing, specifically a purchase by Melanie Freytag, which signals insider activity but typically carries limited immediate financial impact for general shareholders.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Director dealings",
+        "Insider buying"
       ]
     },
     {
@@ -663,11 +663,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-melanie-freytag-kauf/9709423",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement reflects a routine personal transaction by an executive rather than a corporate strategic move, indicating no immediate change in control or company direction within the commercial engine sector.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a board change involving the appointment of Melanie Freytag to the Kauf role. Such governance updates are standard corporate actions that inform shareholders of leadership structure adjustments.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -677,11 +677,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-dietmar-voggenreiter-k-/9709390",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a routine insider dealing notification for Dr. Dietmar Voggenreiter, likely reflecting personal liquidity needs rather than a strategic signal, given the absence of accompanying corporate guidance or sector-wide M&A activity in the commercial vehicle space.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the company's board composition, which is a governance matter of moderate interest to shareholders. It signifies an update to the leadership structure without implying immediate financial or strategic consequences.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -691,11 +691,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-dietmar-voggenreiter-b-/9709389",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard insider dealing notification regarding the purchase of shares by Dr. Dietmar Voggenreiter, likely the CEO or a senior executive. Such routine director purchases signal personal confidence but carry negligible immediate impact on share price or corporate strategy compared to major corporate actions.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by Dr. Dietmar Voggenreiter. Such transactions are generally monitored for insider sentiment but typically carry limited immediate financial impact compared to corporate actions.",
       "key_themes": [
-        "insider_dealing",
-        "corporate_governance"
+        "Director dealings",
+        "Governance"
       ]
     },
     {
@@ -705,11 +705,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-oliver-neu-buy/9709099",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard insider dealing notification for a non-executive director, indicating routine personal portfolio management rather than strategic corporate activity. Such disclosures are administrative in nature and carry no material implication for Deutz AG's operational outlook or valuation.",
+      "impact_score": 3,
+      "insight": "This announcement likely concerns director dealings involving an individual named in the headline. Such filings are routine regulatory disclosures that typically have minimal immediate impact on shareholder value.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Director dealings",
+        "Governance"
       ]
     },
     {
@@ -719,11 +719,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-oliver-neu-kauf/9709098",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard insider dealing notification under MAR, indicating a routine purchase by executive Oliver Neu rather than a strategic corporate event. Such transactions are common for aligning interests and carry negligible immediate impact on share price or company fundamentals.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the board composition of Deutz AG. Such governance updates are standard corporate actions that inform shareholders of new leadership appointments.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -733,11 +733,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/original-research-deutz-ag-von-quirin-priva-/9709093",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is an external research note from a private bank rather than a company-initiated disclosure, carrying no new fundamental data or corporate action. Such third-party commentary typically has negligible immediate impact on share price or liquidity compared to official RNS filings.",
+      "impact_score": 3,
+      "insight": "This headline indicates an external research report assigning a 'BUY' recommendation to the company. Such analyst ratings generally signal positive market sentiment but do not constitute corporate action or material news for shareholders.",
       "key_themes": [
-        "external_research",
-        "no_material_disclosure"
+        "Analyst Rating",
+        "Research"
       ]
     },
     {
@@ -747,11 +747,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-sebastian-c-schulte-k-/9709092",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard insider dealing notification for Dr. Sebastian C. Schulte, likely a non-executive director given the 'Kauf' (purchase) designation without executive context. Such routine transactions carry negligible market impact and do not signal strategic shifts in the heavy machinery sector.",
+      "impact_score": 5,
+      "insight": "This announcement indicates a change in the company's board composition, which is a standard governance event. Such changes are generally monitored for their potential impact on leadership continuity and strategic oversight.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Governance",
+        "Board Change"
       ]
     },
     {
@@ -761,11 +761,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-sebastian-c-schulte-b-/9709091",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard insider dealing notification for a non-executive director, which carries negligible fundamental impact on Deutz AG's valuation or operational trajectory compared to executive transactions.",
+      "impact_score": 3,
+      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by an individual named in the headline. Such transactions generally signal personal investment activity rather than a material corporate event for shareholders.",
       "key_themes": [
-        "Insider Dealing",
-        "Corporate Governance"
+        "Director dealings",
+        "Insider trading"
       ]
     },
     {
@@ -776,11 +776,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 8,
-      "insight": "The acceleration of long-term targets via a billion-euro transaction signals a fundamental strategic pivot or major M&A activity rather than organic growth alone, suggesting significant scale expansion or consolidation in the industrial machinery sector.",
+      "insight": "The announcement indicates significant financial acceleration and the completion of a major transaction that materially alters the company's strategic outlook. Shareholders should anticipate potential valuation re-rating due to the early achievement of long-term targets.",
       "key_themes": [
-        "M&A",
-        "Strategic Acceleration",
-        "Capital Raise"
+        "Strategic milestone",
+        "Major transaction",
+        "Performance update"
       ]
     },
     {
@@ -826,11 +826,12 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-news-deutz-accelerates-transformation-wi-/9659988",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "The announcement concerns Deutz AG (a German entity), not the UK-listed Deutz plc (0E4K); therefore, it has zero direct financial impact on the target equity despite potential indirect sentiment spillover in the industrial sector.",
+      "impact_score": 7,
+      "insight": "This announcement indicates a significant strategic transaction involving substantial financial value, suggesting a major shift in the company's business focus or asset base. Shareholders should anticipate potential changes to the company's operational profile and future growth trajectory.",
       "key_themes": [
-        "Corporate Action",
-        "Sector News"
+        "Strategic Transaction",
+        "Business Transformation",
+        "M&A"
       ]
     },
     {
@@ -841,11 +842,11 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 8,
-      "insight": "This acquisition of FFG marks a strategic pivot for Deutz into heavy-duty commercial vehicle powertrains, diversifying beyond its traditional agricultural and construction equipment base to capture growth in the electric and hydrogen mobility sectors.",
+      "insight": "This announcement signifies a material acquisition involving both cash and equity issuance, which may dilute existing shareholders while potentially expanding the company's operational scope. The use of newly issued shares to fund the deal indicates a strategic capital raise component alongside the purchase.",
       "key_themes": [
-        "Strategic Diversification",
-        "Commercial Vehicle Powertrains",
-        "M&A"
+        "M&A",
+        "Capital raise",
+        "Strategic expansion"
       ]
     },
     {
@@ -877,11 +878,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-news-market-entry-in-brazil-deutz-expan-/9588503",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "Strategic expansion into Brazil diversifies revenue streams for Deutz's engine division but represents a marginal operational shift with negligible immediate financial impact on the parent company's valuation.",
+      "impact_score": 5,
+      "insight": "This announcement signifies a strategic expansion into a new geographic market, which may indicate growth opportunities for shareholders but lacks specific financial details to assess immediate impact.",
       "key_themes": [
-        "Geographic Expansion",
-        "Emerging Markets"
+        "Market entry",
+        "Strategic expansion"
       ]
     },
     {
@@ -891,11 +892,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-adhoc-deutz-ag-acquires-brazilian-genera-/9588502",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This acquisition expands Deutz's footprint in the Brazilian power generation market but represents a marginal strategic move for a German engine manufacturer, lacking the transformative scale of major M&A or significant financial impact.",
+      "impact_score": 7,
+      "insight": "This announcement signifies a material acquisition that may expand the company's operational footprint into new geographic markets. Shareholders should monitor subsequent filings for details on financial terms and integration strategy.",
       "key_themes": [
-        "Emerging Markets Expansion",
-        "Power Generation"
+        "M&A",
+        "International expansion"
       ]
     }
   ]

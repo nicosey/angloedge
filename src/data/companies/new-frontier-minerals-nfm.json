@@ -2,9 +2,23 @@
   "name": "New Frontier Minerals Limited",
   "ticker": "NFM",
   "slug": "new-frontier-minerals-nfm",
-  "announcement_count": 7,
-  "latest_announcement": "2026-10-29T12:30:00",
+  "announcement_count": 8,
+  "latest_announcement": "2026-11-26T09:06:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T09:06:00",
+      "category": "AGM/EGM",
+      "headline": "Result of AGM",
+      "url": "https://www.investegate.co.uk/announcement/rns/new-frontier-minerals-limited--nfm/result-of-agm/9895497",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Shareholders should note the AGM results follow the October final results. This confirms routine governance proceedings for New Frontier Minerals Limited.",
+      "key_themes": [
+        "Governance",
+        "AGM"
+      ]
+    },
     {
       "timestamp": "2026-10-29T12:30:00",
       "category": "Results",
@@ -39,11 +53,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/new-frontier-minerals-limited--nfm/date-of-agm-closing-date-for-director-nominations/9811085",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This is a standard administrative notice regarding the Annual General Meeting schedule and director nomination deadlines for New Frontier Minerals, a junior exploration company with no immediate transformative catalysts implied.",
+      "impact_score": 3,
+      "insight": "This announcement sets the date for the Annual General Meeting and the deadline for director nominations, which are routine governance events. It signifies standard shareholder engagement opportunities without indicating any immediate financial or strategic change.",
       "key_themes": [
-        "Corporate Governance",
-        "Routine Administration"
+        "Governance",
+        "AGM"
       ]
     },
     {
@@ -67,11 +81,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/new-frontier-minerals-limited--nfm/release-from-escrow/9724641",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "Release from escrow is a standard administrative procedure for early-stage mining firms, typically unlocking shares held by founders or advisors post-listing; it carries no intrinsic operational value and often signals potential future liquidity overhang rather than strategic progress.",
+      "impact_score": 3,
+      "insight": "This announcement indicates that shares previously held in escrow are now available for trading, which may increase liquidity but also introduces potential selling pressure from former insiders or investors.",
       "key_themes": [
-        "Corporate Governance",
-        "Liquidity Risk"
+        "Governance",
+        "Liquidity"
       ]
     },
     {
@@ -96,10 +110,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "Standard regulatory filing for director interest changes, which is routine administrative disclosure in the UK equity market and carries no immediate strategic weight or signal regarding company fundamentals.",
+      "insight": "This announcement signifies a routine update to the register of directors' interests, which is a standard regulatory requirement for listed companies. It provides transparency regarding individual director holdings but does not inherently signal a change in corporate strategy or financial performance.",
       "key_themes": [
-        "Corporate Governance",
-        "Regulatory Compliance"
+        "Governance",
+        "Director Dealing"
       ]
     }
   ]
