@@ -2,9 +2,20 @@
   "name": "Aviva",
   "ticker": "AV.",
   "slug": "aviva-av",
-  "announcement_count": 86,
-  "latest_announcement": "2026-11-19T14:44:00",
+  "announcement_count": 87,
+  "latest_announcement": "2026-11-27T12:59:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T12:59:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/aviva--av./holding-s-in-company/9897973",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-19T14:44:00",
       "category": null,
@@ -24,10 +35,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that confirm compliance with insider dealing rules rather than signaling specific strategic changes.",
+      "insight": "Director/PDMR Shareholding filings indicate routine insider activity. This follows earlier dealings in August and October 2026.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Director Dealing"
       ]
     },
     {
@@ -71,10 +82,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This trading update provides interim performance data for the third quarter of 2026, offering shareholders insight into the company's operational progress during this period. The specific financial direction or magnitude of results is not disclosed in the headline.",
+      "insight": "Aviva provides a Q3 trading update following its August half-year results. This scheduled reporting offers interim performance visibility for shareholders.",
       "key_themes": [
-        "Trading Update",
-        "Interim Results"
+        "Results",
+        "Trading Update"
       ]
     },
     {
@@ -107,10 +118,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director share dealings, which typically have a low direct impact on shareholder value unless accompanied by significant context. It serves primarily as a transparency measure regarding insider activity rather than a strategic corporate event.",
+      "insight": "Director shareholding updates follow recent results and buyback completion. Shareholders monitor executive alignment with capital return policies.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Capital Return"
       ]
     },
     {
@@ -187,10 +198,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a scheduled investor briefing aimed at communicating current strategic priorities to the market. It serves as a routine engagement tool rather than a disclosure of material financial or operational changes.",
+      "insight": "Following the completed buyback and half-year results, this briefing likely updates shareholders on capital allocation. It serves as a follow-up to recent financial disclosures.",
       "key_themes": [
-        "Investor Relations",
-        "Communications"
+        "Capital return",
+        "Investor relations"
       ]
     },
     {
@@ -223,10 +234,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director share dealings, which typically signifies routine compliance with insider dealing regulations rather than a significant strategic shift. It generally indicates standard governance activity without implying immediate material impact on shareholder value.",
+      "insight": "Director shareholdings are reported following the completion of a £350m buyback in July and half-year results in August. This reflects standard post-transaction compliance rather than new strategic developments.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Capital return"
       ]
     },
     {
@@ -270,10 +281,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director shareholding transactions, which are routine regulatory disclosures indicating changes in insider ownership. Such filings generally have minimal immediate impact on shareholder value unless they signal a significant shift in confidence or substantial buying/selling activity.",
+      "insight": "Director shareholding details follow the completion of a £350m buyback in July. This routine filing reflects individual transactions rather than corporate strategy.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Capital return"
       ]
     },
     {
@@ -350,10 +361,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director shareholding transactions, which are routine regulatory disclosures indicating standard insider activity rather than significant corporate events. It generally signifies compliance with market abuse regulations and does not inherently suggest a change in the company's strategic direction or financial health.",
+      "insight": "Director dealings follow recent capital returns including a completed buyback and tender offer. Shareholders monitor insider activity for alignment with management confidence.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Capital return"
       ]
     },
     {
@@ -375,9 +386,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This scheduled half-year results announcement provides shareholders with a periodic update on the company's financial performance for the first six months of the fiscal year. The headline does not indicate any specific direction or magnitude of results, so it represents a standard reporting event rather than a material corporate action.",
+      "insight": "Half Year Results follow a completed £350m share buyback in July. Shareholders should watch for financial performance details.",
       "key_themes": [
-        "Results"
+        "Results",
+        "Capital return"
       ]
     },
     {
@@ -520,11 +532,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 4,
-      "insight": "This announcement signifies the conclusion of a capital return initiative, which typically indicates management's confidence in the company's financial position and commitment to returning value to investors. The completion of such a programme is generally viewed as a positive governance signal regarding capital allocation.",
+      "insight": "The buyback completes the sequence initiated in May and June. This reduces share count for holders.",
       "key_themes": [
-        "Capital Return",
-        "Shareholder Value",
-        "Corporate Action"
+        "Capital return",
+        "Corporate action"
       ]
     },
     {
@@ -721,11 +732,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/aviva--av./notice-of-special-redemption-price/9621208",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "A notice of special redemption price typically signals a capital return to shareholders, such as a share buyback or tender offer, which can be materially positive for equity value. This type of announcement often indicates a strategic decision to reduce the share count or return excess capital.",
+      "impact_score": 8,
+      "insight": "Aviva sets the special redemption price following the May tender offer results. This finalizes the capital action for shareholders.",
       "key_themes": [
         "Capital return",
-        "Shareholder action"
+        "Redemption"
       ]
     },
     {
@@ -900,12 +911,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/aviva--av./final-result-of-tender-offer/9592641",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This announcement confirms the conclusion of a tender offer process, which typically results in a change in shareholding structure or control for the company. Shareholders should anticipate potential implications regarding liquidity and future corporate governance following the completion of this transaction.",
+      "impact_score": 5,
+      "insight": "Aviva has published final tender offer results following its May indicative update. Shareholders should monitor subsequent filings for details on the outcome and next steps.",
       "key_themes": [
         "Tender Offer",
-        "Corporate Action",
-        "Shareholder Rights"
+        "Corporate Action"
       ]
     },
     {
@@ -938,11 +948,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement indicates that the company is conducting a tender offer, which typically involves buying back shares from shareholders. It signifies a potential capital return or reduction in share count, though the specific terms and financial impact remain undefined by the headline.",
+      "insight": "Aviva has released indicative results of a tender offer. Shareholders should monitor for subsequent formal offers or court sanction details.",
       "key_themes": [
-        "Share buyback",
-        "Capital management",
-        "Indicative results"
+        "Results",
+        "Tender Offer"
       ]
     },
     {

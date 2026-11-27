@@ -2,9 +2,34 @@
   "name": "Tesco",
   "ticker": "TSCO",
   "slug": "tesco-tsco",
-  "announcement_count": 44,
-  "latest_announcement": "2026-11-23T17:34:00",
+  "announcement_count": 46,
+  "latest_announcement": "2026-11-26T17:30:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T17:30:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/tesco--tsco/director-pdmr-shareholding/9896488",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Director shareholdings are reported periodically. This filing is part of a series of regular updates on insider transactions.",
+      "key_themes": [
+        "Governance",
+        "Insider Dealing"
+      ]
+    },
+    {
+      "timestamp": "2026-11-26T17:11:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/tesco--tsco/transaction-in-own-shares/9896467",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T17:34:00",
       "category": null,
@@ -35,10 +60,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director share dealings, which typically have limited immediate impact on shareholder value compared to strategic or financial disclosures. It signifies standard regulatory compliance regarding insider transactions rather than a material corporate event.",
+      "insight": "Director dealings are routine governance updates. Shareholders should monitor the ongoing share buyback programme for capital return signals.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Capital return"
       ]
     },
     {
@@ -121,7 +146,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a person discharging managerial responsibilities has engaged in share transactions. Such disclosures are routine regulatory requirements and generally have minimal direct impact on shareholder value.",
+      "insight": "Director shareholdings are reported following the interim results and buyback continuation. This routine filing reflects standard compliance rather than strategic shifts.",
       "key_themes": [
         "Governance",
         "Director dealings"
@@ -189,11 +214,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/tesco--tsco/continuation-of-share-buyback-programme/9828281",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "This announcement signifies a continuation of existing capital management activities rather than a new strategic initiative. It generally indicates that the company is returning cash to shareholders through share repurchases.",
+      "impact_score": 3,
+      "insight": "Tesco continues its share buyback programme. This follows interim results published in October and recent director shareholding disclosures.",
       "key_themes": [
         "Capital return",
-        "Shareholder value"
+        "Governance"
       ]
     },
     {
@@ -204,10 +229,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director share transactions, which typically have a neutral impact on shareholder value unless they signal significant insider sentiment shifts. Such disclosures are standard regulatory requirements for monitoring insider activity rather than indicators of corporate strategy or performance.",
+      "insight": "Director shareholdings are reported. This follows earlier filings in July and recent results in October.",
       "key_themes": [
-        "Director Dealing",
-        "Governance"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -218,7 +243,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement indicates a change in the board composition, which is a standard governance update. Such changes are routine and typically do not signal immediate strategic shifts or material financial impacts for shareholders.",
+      "insight": "Tesco has announced a directorate change. This board adjustment follows recent interim results and ESG note satisfaction.",
       "key_themes": [
         "Governance",
         "Board Change"
@@ -232,10 +257,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies a scheduled interim results release for the reporting period ending in 2026/27. It provides shareholders with an update on the company's financial performance and operational progress during this half-year.",
+      "insight": "Interim results provide scheduled financial performance data. Shareholders should monitor subsequent director shareholding activity for management confidence signals.",
       "key_themes": [
         "Results",
-        "Financial Reporting"
+        "Governance"
       ]
     },
     {
@@ -246,10 +271,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. Such filings provide transparency regarding individual holdings but typically do not signal significant strategic changes or material financial events for shareholders.",
+      "insight": "Director shareholdings are reported. This follows earlier ESG note satisfaction and a prospectus publication.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Capital raise"
       ]
     },
     {
@@ -260,10 +285,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director share dealings, which typically have a low direct impact on shareholder value unless they signal significant confidence or lack thereof by insiders. Such disclosures are routine regulatory requirements that provide transparency into individual executive transactions rather than corporate strategy.",
+      "insight": "Director shareholdings are reported. This follows earlier ESG note satisfaction and a prospectus publication.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Capital raise"
       ]
     },
     {
@@ -274,10 +299,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director share dealings, which typically signifies routine compliance with insider dealing regulations rather than a significant strategic shift. Shareholders should view this as standard governance disclosure with limited immediate impact on company valuation.",
+      "insight": "Director shareholdings are reported. This follows earlier ESG note satisfaction and a prospectus publication.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Capital raise"
       ]
     },
     {
@@ -288,10 +313,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director share dealings, which typically indicates routine compliance with insider dealing regulations rather than a significant strategic shift. Shareholders should view this as standard governance disclosure with limited immediate investment implication.",
+      "insight": "Director shareholdings are reported. This follows earlier ESG note satisfaction and prospectus publication.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Capital raise"
       ]
     },
     {
@@ -302,10 +327,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates standard regulatory disclosure of share transactions by individuals with senior management responsibilities. Such filings are routine compliance requirements and typically do not signal significant strategic shifts or material changes in shareholder value.",
+      "insight": "Director shareholding updates are routine regulatory filings. Shareholders should monitor these for patterns in insider trading activity.",
       "key_themes": [
         "Governance",
-        "Director dealings"
+        "Insider Dealing"
       ]
     },
     {
@@ -338,10 +363,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director share dealings, which typically indicates routine compliance reporting rather than significant strategic shifts. Shareholders should note that such disclosures are standard governance requirements and generally carry low immediate investment impact.",
+      "insight": "Director shareholdings are updated following earlier June filings. This reflects routine insider activity rather than strategic shifts.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Insider Dealing"
       ]
     },
     {
@@ -352,7 +377,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 8,
-      "insight": "The publication of a prospectus typically signifies a significant capital raising activity or a major corporate transaction requiring regulatory approval. This type of announcement is critical for shareholders as it often leads to share dilution or indicates a fundamental change in the company's structure.",
+      "insight": "A prospectus publication typically signals a capital raise or major corporate action. This follows recent share buybacks and ESG note satisfaction, suggesting a significant shift in capital strategy.",
       "key_themes": [
         "Capital raise",
         "Corporate action"
@@ -366,11 +391,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a specific condition attached to a financial instrument has been met, which is typically an administrative update regarding debt covenants or bond terms. It signifies compliance with existing obligations rather than a change in strategic direction or financial performance.",
+      "insight": "Tesco satisfied the GHG KPI for its 2029 ESG Note, following the similar satisfaction of the 2028 note condition in July. This confirms ongoing compliance with debt covenants.",
       "key_themes": [
-        "Debt",
-        "Compliance",
-        "Corporate Actions"
+        "ESG",
+        "Debt"
       ]
     },
     {
@@ -380,12 +404,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/tesco--tsco/satisfaction-of-2028-esg-note-ghg-kpi-condition/9649543",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "This announcement confirms that a specific condition attached to a financial instrument has been met, which is likely administrative in nature. It signifies compliance with existing debt covenants rather than indicating new strategic developments or financial performance.",
+      "impact_score": 3,
+      "insight": "Tesco satisfied a KPI condition for its 2028 ESG Note. This follows recent AGM results and share buyback announcements.",
       "key_themes": [
-        "Debt",
-        "Compliance",
-        "Governance"
+        "ESG",
+        "Debt"
       ]
     },
     {
@@ -396,10 +419,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director share dealings, which typically signifies routine compliance with disclosure regulations rather than a significant strategic shift. Shareholders should view this as standard governance activity unless specific transaction details are provided in the full filing.",
+      "insight": "Director shareholding details follow the June AGM and buyback continuation. This confirms ongoing insider activity alongside capital return measures.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Capital Return"
       ]
     },
     {
@@ -421,10 +444,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director shareholding transactions, which are routine regulatory disclosures indicating standard insider trading activity rather than significant corporate events.",
+      "insight": "Director shareholding updates follow recent trading statements and a share buyback continuation. Shareholders should monitor if these dealings align with the ongoing capital return programme.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Capital return"
       ]
     },
     {
@@ -434,12 +457,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/tesco--tsco/continuation-of-share-buyback-programme/9630757",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "This announcement indicates the ongoing execution of a capital return program, which typically signals management confidence in cash generation and provides incremental support to share price through reduced equity supply. The continuation nature suggests routine policy implementation rather than a sudden strategic shift or material change in value.",
+      "impact_score": 3,
+      "insight": "Share buybacks reduce equity dilution. This follows recent trading updates and AGM results.",
       "key_themes": [
-        "Capital Return",
-        "Shareholder Value",
-        "Corporate Action"
+        "Capital return",
+        "Governance"
       ]
     },
     {
@@ -461,10 +483,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of a scheduled annual general meeting, which typically involves routine shareholder approvals and governance matters rather than significant strategic changes.",
+      "insight": "The AGM results were released alongside the Q1 trading statement in June. Shareholders should monitor future governance updates.",
       "key_themes": [
         "Governance",
-        "AGM Results"
+        "Results"
       ]
     },
     {
@@ -475,10 +497,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or auditor appointments. It signifies standard corporate governance compliance rather than any material change to the company's strategic direction or financial position.",
+      "insight": "Shareholders should monitor governance outcomes following the recent Q1 trading update.",
       "key_themes": [
         "Governance",
-        "Shareholder approval"
+        "AGM"
       ]
     },
     {
@@ -489,10 +511,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This trading update provides periodic performance data for the specified period, but the headline does not indicate whether the results are positive or negative. Shareholders should await the full announcement to assess the company's operational direction and financial health.",
+      "insight": "Tesco issued a Q1 trading statement for 2026/27. This follows a June 2026 director shareholding update.",
       "key_themes": [
         "Trading Update",
-        "Performance"
+        "Governance"
       ]
     },
     {
@@ -525,10 +547,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically have a low direct impact on shareholder value unless they signal significant insider sentiment shifts. Such disclosures are routine regulatory requirements that provide transparency into individual executive transactions rather than corporate strategy changes.",
+      "insight": "Director dealing activity is recorded. Shareholders should monitor future filings for patterns in insider trading behavior.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Insider Dealing"
       ]
     },
     {

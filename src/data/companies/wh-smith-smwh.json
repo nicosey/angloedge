@@ -2,9 +2,23 @@
   "name": "WH Smith",
   "ticker": "SMWH",
   "slug": "wh-smith-smwh",
-  "announcement_count": 13,
-  "latest_announcement": "2026-11-12T07:00:00",
+  "announcement_count": 14,
+  "latest_announcement": "2026-11-27T11:24:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T11:24:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/wh-smith--smwh/director-pdmr-shareholding/9897813",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Director shareholding updates follow the June capital raise. Shareholders should monitor these filings for insider activity signals.",
+      "key_themes": [
+        "Governance",
+        "Capital raise"
+      ]
+    },
     {
       "timestamp": "2026-11-12T07:00:00",
       "category": "Results",
@@ -13,9 +27,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies a scheduled release of financial performance data, which is critical for shareholders to assess the company's operational health and future outlook.",
+      "insight": "Preliminary results follow the June capital raise. Shareholders should assess if the new funds improved performance.",
       "key_themes": [
-        "Results"
+        "Results",
+        "Capital raise"
       ]
     },
     {
@@ -26,10 +41,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities rather than significant corporate events. Such disclosures generally have a neutral impact on shareholder value unless they signal unusual confidence or lack thereof.",
+      "insight": "Director shareholdings are reported following the June capital raise. This reflects standard post-fundraising compliance rather than a strategic shift.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Capital raise"
       ]
     },
     {
@@ -87,10 +102,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement discloses transactions by persons discharging managerial responsibilities, which is a standard regulatory requirement for insider dealing transparency. It provides visibility into individual director activity but does not inherently signal a change in the company's strategic direction or financial performance.",
+      "insight": "Director dealing follows the June capital raise. Shareholders should monitor if insiders adjust positions post-fundraising.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Capital raise"
       ]
     },
     {
@@ -100,11 +115,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wh-smith--smwh/results-of-capital-raise-/9611974",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement signifies a scheduled release of financial results combined with a capital raise, indicating a need for external funding but leaving the specific terms and implications for shareholders unclear.",
+      "impact_score": 7,
+      "insight": "The capital raise follows the June proposals. Shareholders should monitor the outcome of this funding effort.",
       "key_themes": [
-        "Results",
-        "Capital raise"
+        "Capital raise",
+        "Results"
       ]
     },
     {
@@ -114,12 +129,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/wh-smith--smwh/retail-offer/9610090",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "A retail offer typically indicates a capital raising activity, which can dilute existing shareholders but may provide necessary funds for growth or debt reduction. The specific impact depends on the pricing and size of the issue relative to the company's current market value.",
+      "impact_score": 5,
+      "insight": "WH Smith has issued a retail offer via placing. Shareholders should monitor subsequent filings for details on proceeds and dilution.",
       "key_themes": [
         "Capital raise",
-        "Equity financing",
-        "Shareholder dilution"
+        "Equity offering"
       ]
     },
     {
@@ -130,10 +144,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "A proposed capital raise typically indicates a need for new funding, which can dilute existing shareholder equity but may be necessary to support growth or strengthen the balance sheet.",
+      "insight": "A proposed capital raise is announced. This may dilute existing shareholders' stakes.",
       "key_themes": [
-        "Capital raise",
-        "Fundraising"
+        "Capital raise"
       ]
     },
     {
@@ -144,10 +157,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies a scheduled trading update where the direction of performance is not disclosed in the headline. Shareholders should await the full text to determine if the update contains positive or negative financial indicators.",
+      "insight": "A trading update has been issued. Shareholders should await further details to assess performance.",
       "key_themes": [
-        "Trading Update",
-        "Financial Results"
+        "Trading Update"
       ]
     },
     {

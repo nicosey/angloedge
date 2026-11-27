@@ -2,9 +2,20 @@
   "name": "Jpmorgan Uk Small Cap Growth & Income",
   "ticker": "JUGI",
   "slug": "jpmorgan-uk-small-cap-growth-income-jugi",
-  "announcement_count": 87,
-  "latest_announcement": "2026-11-23T17:56:00",
+  "announcement_count": 88,
+  "latest_announcement": "2026-11-26T17:07:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T17:07:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-uk-small-cap-growth-income--jugi/transaction-in-own-shares/9896462",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T17:56:00",
       "category": null,
@@ -13,7 +24,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement typically signifies that a meeting has concluded, which may involve routine governance matters or minor updates. Without further details in the headline, it represents low immediate financial significance for shareholders.",
+      "insight": "The AGM results follow the October annual report and circular. Shareholders should note the outcome of the meeting.",
       "key_themes": [
         "Governance",
         "Meeting results"
@@ -27,10 +38,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or auditor appointments. It signifies standard governance compliance rather than any material change to the fund's strategy or value.",
+      "insight": "Shareholders should note the AGM results follow the October circular. This confirms the outcome of the recent meeting.",
       "key_themes": [
         "Governance",
-        "AGM Results"
+        "Meeting Results"
       ]
     },
     {
@@ -264,10 +275,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies the release of scheduled annual financial results for the fund, which is a routine disclosure event. It provides shareholders with standard performance and governance information without indicating any specific directional outcome or material change.",
+      "insight": "JUGI publishes its Annual Financial Report. Shareholders should monitor the proposed combination with AUSC mentioned in September for further developments.",
       "key_themes": [
         "Results",
-        "Annual Report"
+        "M&A"
       ]
     },
     {
@@ -288,11 +299,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-uk-small-cap-growth-income--jugi/investor-webinar-13th-october-2026-10-00-a-m-/9818884",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement is a marketing invitation to an investor webinar, which serves as informational outreach rather than a substantive corporate event. It has no direct bearing on the company's financial position or shareholder value.",
+      "impact_score": 3,
+      "insight": "JUGI schedules an investor webinar following recent dividend and cross-holding notifications. Shareholders should monitor this event for updates on the proposed combination with AUSC.",
       "key_themes": [
         "Investor Relations",
-        "Marketing"
+        "M&A"
       ]
     },
     {
@@ -313,11 +324,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-uk-small-cap-growth-income--jugi/notification-of-cross-holding-/9809677",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This notification indicates a change in shareholding levels, which is standard regulatory disclosure for investment funds. It provides transparency regarding ownership concentration but does not inherently signal a strategic shift or material event for the fund itself.",
+      "impact_score": 8,
+      "insight": "The proposed combination with AUSC continues. Shareholders should monitor subsequent regulatory filings for the next steps in this process.",
       "key_themes": [
-        "Governance",
-        "Disclosure"
+        "M&A",
+        "Corporate action"
       ]
     },
     {
@@ -350,10 +361,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a formal declaration of a dividend payment to shareholders. It generally indicates that the fund has generated distributable income and is returning value to investors.",
+      "insight": "A dividend declaration is announced. This follows a proposed combination with AUSC in September 2026 and a directorate change in July.",
       "key_themes": [
         "Dividend",
-        "Income Distribution"
+        "M&A"
       ]
     },
     {
@@ -451,12 +462,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-uk-small-cap-growth-income--jugi/proposed-combination-with-ausc/9778562",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 8,
-      "insight": "This headline indicates a potential strategic restructuring or consolidation involving the fund, which may lead to changes in investment strategy, fees, or liquidity for shareholders. Such proposals typically require shareholder approval and could result in the termination of the current vehicle.",
+      "impact_score": 7,
+      "insight": "Proposed combination with AUSC follows a July directorate change. Shareholders should watch for next steps in this potential strategic shift.",
       "key_themes": [
         "M&A",
-        "Fund Restructuring",
-        "Corporate Action"
+        "Governance"
       ]
     },
     {
@@ -742,7 +752,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement indicates a change in the board composition of the investment trust, which may influence governance oversight and strategic direction. Shareholders should monitor subsequent disclosures to understand the qualifications and potential impact of the new director.",
+      "insight": "Jpmorgan Uk Small Cap Growth & Income (JUGI) has announced a change to its board of directors. Shareholders should monitor for details on how this affects governance and management continuity.",
       "key_themes": [
         "Governance",
         "Board Change"

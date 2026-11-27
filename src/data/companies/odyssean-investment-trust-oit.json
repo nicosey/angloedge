@@ -2,9 +2,20 @@
   "name": "Odyssean Investment Trust",
   "ticker": "OIT",
   "slug": "odyssean-investment-trust-oit",
-  "announcement_count": 60,
-  "latest_announcement": "2026-11-16T15:24:00",
+  "announcement_count": 61,
+  "latest_announcement": "2026-11-27T14:57:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T14:57:00",
+      "category": null,
+      "headline": "Issue of Equity",
+      "url": "https://www.investegate.co.uk/announcement/rns/odyssean-investment-trust--oit/issue-of-equity/9898161",
+      "routine_type": "Block Listing / Admission",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-16T15:24:00",
       "category": null,
@@ -34,11 +45,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/odyssean-investment-trust--oit/presentation-at-mellolondon-2026/9863972",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement indicates participation in an external event, which typically serves as a marketing or networking activity rather than a substantive corporate action affecting shareholder value.",
+      "impact_score": 3,
+      "insight": "Director shareholdings in June and October suggest ongoing monitoring of insider activity. The presentation follows recent AGM results and new research releases.",
       "key_themes": [
-        "Marketing",
-        "Event"
+        "Governance",
+        "Investor Relations"
       ]
     },
     {
@@ -258,10 +269,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies routine director dealings, which are standard regulatory disclosures indicating changes in shareholding by individuals with senior management responsibilities. Such filings generally have minimal immediate impact on shareholder value unless they signal a significant shift in insider sentiment.",
+      "insight": "Director shareholding updates follow recent AGM results. Shareholders should monitor for further PDMR activity.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Director dealings"
       ]
     },
     {
@@ -305,10 +316,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director re-elections or mandate renewals. It signifies standard governance procedures rather than any material change to the company's strategic direction or financial position.",
+      "insight": "Shareholders should note the AGM results. This follows recent director shareholding updates and new research publications in June and August.",
       "key_themes": [
         "Governance",
-        "Shareholder approval"
+        "Meetings"
       ]
     },
     {
@@ -373,11 +384,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/odyssean-investment-trust--oit/odyssean-investment-trust-new-research/9735293",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement appears to be a research report or marketing material rather than a substantive corporate event, indicating minimal direct impact on shareholder value.",
+      "impact_score": 5,
+      "insight": "Odyssean Investment Trust has published new research following earlier availability of multiple growth sources. Shareholders should monitor for subsequent investment decisions or portfolio adjustments derived from this analysis.",
       "key_themes": [
         "Research",
-        "Housekeeping"
+        "Strategy"
       ]
     },
     {
@@ -398,11 +409,11 @@
       "url": "https://www.investegate.co.uk/announcement/ukn/odyssean-investment-trust--oit/new-research-available-multiple-sources-of-g-/9734460",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 1,
-      "insight": "This announcement appears to be a marketing release for external research rather than a substantive corporate update, offering no immediate insight into the company's operational or financial performance.",
+      "impact_score": 3,
+      "insight": "Following recent director shareholding updates in June, this research release highlights growth potential. Shareholders should monitor for subsequent corporate actions or strategic developments.",
       "key_themes": [
         "Research",
-        "Marketing"
+        "Governance"
       ]
     },
     {
@@ -622,10 +633,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director shareholdings, which typically indicates routine regulatory disclosure of insider transactions rather than a significant corporate event. It generally signifies standard compliance activity with limited immediate impact on shareholder value.",
+      "insight": "Director/PDMR Shareholding filings were recorded in June. This indicates routine insider activity rather than a strategic shift.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Insider Dealing"
       ]
     },
     {
@@ -658,10 +669,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into the company's operational performance but may signal individual confidence or lack thereof depending on the nature of the deal.",
+      "insight": "Director/PDMR Shareholding was announced in June. This follows an earlier filing of the same type.",
       "key_themes": [
-        "Director Dealings",
-        "Governance"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -672,7 +683,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies standard regulatory disclosure of shareholding changes by directors or persons discharging managerial responsibilities. It provides transparency regarding insider activity but does not inherently indicate a strategic shift or material financial event.",
+      "insight": "Director dealings are recorded. This is the first such filing on record for Odyssean Investment Trust.",
       "key_themes": [
         "Governance",
         "Director Dealing"

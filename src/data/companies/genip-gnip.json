@@ -2,9 +2,23 @@
   "name": "Genip",
   "ticker": "GNIP",
   "slug": "genip-gnip",
-  "announcement_count": 9,
-  "latest_announcement": "2026-11-17T14:00:00",
+  "announcement_count": 10,
+  "latest_announcement": "2026-11-27T07:30:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T07:30:00",
+      "category": null,
+      "headline": "Capital Access Window - GenIP Plc",
+      "url": "https://www.investegate.co.uk/announcement/rns/genip--gnip/capital-access-window-genip-plc/9897401",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Trading is suspended following the Capital Access Window. Shareholders should monitor for further developments regarding the company's capital structure.",
+      "key_themes": [
+        "Suspension",
+        "Capital raise"
+      ]
+    },
     {
       "timestamp": "2026-11-17T14:00:00",
       "category": null,
@@ -13,10 +27,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "The suspension of trading indicates a severe disruption to liquidity and suggests significant underlying issues requiring immediate regulatory scrutiny. This status typically signals high uncertainty regarding the company's future viability or corporate governance until trading resumes.",
+      "insight": "Trading suspension halts shareholder access to GNIP shares. This follows recent operational updates and platform launches, raising uncertainty about the firm's immediate status.",
       "key_themes": [
         "Suspension",
-        "Liquidity Risk",
         "Governance"
       ]
     },
@@ -27,11 +40,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/genip--gnip/capital-access-window-genip-plc/9880042",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "This headline suggests a formal process regarding capital access, which typically signifies a potential fundraise or significant financial restructuring that could materially affect shareholder value and ownership dilution.",
+      "impact_score": 3,
+      "insight": "Shareholders should monitor this for details on how the new platform launch impacts future capital requirements.",
       "key_themes": [
-        "Capital raise",
-        "Financial restructuring"
+        "Corporate Update",
+        "Product Launch"
       ]
     },
     {
@@ -42,7 +55,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a product launch or platform release, which typically indicates operational progress but lacks specific financial metrics to assess immediate shareholder value. Without details on revenue impact or adoption rates, the materiality of this event for valuation remains unclear.",
+      "insight": "GenIP launches a new platform following recent operational updates. Shareholders should monitor for subsequent details on adoption and commercial impact.",
       "key_themes": [
         "Product Launch",
         "Operational Update"
@@ -56,10 +69,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement provides a scheduled operational update and invites investors to a webinar, which typically offers insights into recent performance without disclosing specific financial metrics or directional guidance in the headline.",
+      "insight": "Genip provides an operational update following its June corporate update and August contract wins. This suggests continued execution of recent commercial activity.",
       "key_themes": [
-        "Operational Update",
-        "Investor Relations"
+        "Operational update",
+        "Contract wins"
       ]
     },
     {
@@ -70,10 +83,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement indicates that the company has secured new business, which typically signals revenue generation and operational activity. Without details on contract size or duration, the financial significance remains unclear.",
+      "insight": "New contract wins follow the June corporate update, indicating ongoing business activity. Shareholders should monitor subsequent updates for financial details.",
       "key_themes": [
         "Contract wins",
-        "Business development"
+        "Corporate Update"
       ]
     },
     {
@@ -98,10 +111,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of an Annual General Meeting, which typically involves routine shareholder approvals such as director reappointments and auditor appointments. It signifies standard corporate governance compliance rather than a material change in the company's strategic or financial position.",
+      "insight": "The AGM results follow the June innovation roundtable. Shareholders should monitor for subsequent strategic actions arising from these governance updates.",
       "key_themes": [
         "Governance",
-        "Shareholder approval"
+        "AGM"
       ]
     },
     {
@@ -112,9 +125,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a governance or strategic engagement activity, likely involving stakeholder dialogue or advisory input. It suggests ongoing corporate development but lacks specific financial or operational details that would materially impact shareholder value.",
+      "insight": "Genip has convened an innovation roundtable. Shareholders should monitor for subsequent filings detailing any strategic outcomes or partnerships arising from this event.",
       "key_themes": [
-        "Governance",
+        "Corporate Events",
         "Strategy"
       ]
     },

@@ -2,9 +2,20 @@
   "name": "Schroder Real Estate Investment Trust Ltd",
   "ticker": "SREI",
   "slug": "schroder-real-estate-investment-trust-srei",
-  "announcement_count": 17,
-  "latest_announcement": "2026-11-26T07:01:00",
+  "announcement_count": 18,
+  "latest_announcement": "2026-11-27T16:18:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T16:18:00",
+      "category": null,
+      "headline": "Results analysis from Kepler Trust Intelligence",
+      "url": "https://www.investegate.co.uk/announcement/rns/schroder-real-estate-investment-trust-ltd--srei/results-analysis-from-kepler-trust-intelligence/9898290",
+      "routine_type": "Third-party Research",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-26T07:01:00",
       "category": "Dividend",
@@ -75,10 +86,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of shareholder votes at the Annual General Meeting, which is a standard governance procedure. It provides no indication of strategic changes or financial performance.",
+      "insight": "Shareholders should note the AGM results following recent board changes and dividend declarations. Governance updates are now complete for this period.",
       "key_themes": [
         "Governance",
-        "Meeting results"
+        "AGM"
       ]
     },
     {
@@ -89,10 +100,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has transacted in the company's shares. Such filings are routine regulatory disclosures that confirm insider activity but do not inherently signal a change in corporate strategy or financial performance.",
+      "insight": "Director/PDMR Shareholding details follow recent Board Changes. This filing records individual transactions rather than strategic shifts.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Director Dealing"
       ]
     },
     {
@@ -103,10 +114,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has engaged in share transactions, which is a routine disclosure of personal trading activity. It provides limited insight into the company's operational performance but confirms adherence to insider dealing regulations.",
+      "insight": "Director dealings are routine. Shareholders should monitor future filings for significant changes in insider holdings.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Insider Dealing"
       ]
     },
     {
@@ -139,10 +150,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a formal declaration of a dividend payment by the company. It generally indicates that the board has approved a distribution of profits to shareholders, subject to standard regulatory procedures.",
+      "insight": "A dividend declaration follows the annual financial report. Shareholders should monitor future distributions for consistency.",
       "key_themes": [
         "Dividend",
-        "Shareholder return"
+        "Governance"
       ]
     },
     {
@@ -153,10 +164,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement provides a scheduled update on the net asset value for the specified quarter, which is essential for shareholders to assess the underlying performance of their investment. The headline does not indicate any specific directional change or material event, suggesting it is a routine reporting requirement.",
+      "insight": "The NAV update follows the annual report and board changes. Shareholders should monitor how these governance shifts influence future valuation metrics.",
       "key_themes": [
-        "NAV update",
-        "Quarterly results"
+        "Valuation",
+        "Governance"
       ]
     },
     {
@@ -167,10 +178,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies a change in the board composition, which is a standard governance event that may influence oversight but typically carries moderate immediate impact compared to strategic or financial disclosures.",
+      "insight": "Board changes follow recent financial reporting. Shareholders should monitor for any strategic implications of this governance update.",
       "key_themes": [
         "Governance",
-        "Board Changes"
+        "Board change"
       ]
     },
     {
@@ -181,10 +192,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies the publication of annual financial results, which provides shareholders with a comprehensive review of the company's performance and financial position over the past year.",
+      "insight": "SREI publishes its Annual Financial Report following a July results notice. Shareholders should review the detailed financial performance contained within.",
       "key_themes": [
-        "Results",
-        "Financial Reporting"
+        "Results"
       ]
     },
     {
@@ -205,11 +215,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/schroder-real-estate-investment-trust-ltd--srei/notice-of-results/9654914",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This notice indicates that scheduled financial results are imminent, which is a standard regulatory requirement for listed companies. It signals an upcoming event where shareholder value will be assessed based on reported performance, though the headline does not disclose the direction or magnitude of those results.",
+      "impact_score": 3,
+      "insight": "Schroder Real Estate Investment Trust Ltd has issued a notice of results. This follows its June 2026 dividend declaration.",
       "key_themes": [
         "Results",
-        "Financial Reporting"
+        "Dividend"
       ]
     },
     {
@@ -220,10 +230,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies that the board has declared a dividend, which is a routine capital distribution event for shareholders. It confirms the timing of the payment but provides no details on the amount or sustainability.",
+      "insight": "Schroder Real Estate Investment Trust Ltd has declared a dividend. Shareholders should monitor subsequent announcements for payment details and record dates.",
       "key_themes": [
-        "Dividend",
-        "Capital Distribution"
+        "Dividend"
       ]
     }
   ]

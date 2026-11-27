@@ -2,9 +2,20 @@
   "name": "BlackRock Greater Europe Inv Trust",
   "ticker": "BRGE",
   "slug": "blackrock-greater-europe-inv-trust-brge",
-  "announcement_count": 110,
-  "latest_announcement": "2026-11-20T17:25:00",
+  "announcement_count": 111,
+  "latest_announcement": "2026-11-26T17:37:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T17:37:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/prn/blackrock-greater-europe-inv-trust--brge/transaction-in-own-shares/9896492",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T17:25:00",
       "category": null,
@@ -78,11 +89,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-greater-europe-inv-trust--brge/submission-of-documents/9875186",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 1,
-      "insight": "This announcement typically signifies routine administrative compliance or filing requirements rather than a substantive corporate event. It generally has no immediate bearing on shareholder value or investment decisions.",
+      "impact_score": 3,
+      "insight": "Submission of Documents follows the September tender offer. Shareholders should monitor for further court-related filings to finalize the process.",
       "key_themes": [
-        "Administrative",
-        "Compliance"
+        "Corporate action",
+        "Governance"
       ]
     },
     {
@@ -170,10 +181,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in corporate strategy or financial performance.",
+      "insight": "Director dealings are routine governance updates. Shareholders should monitor future portfolio updates for investment strategy shifts.",
       "key_themes": [
         "Governance",
-        "Director dealings"
+        "Director Dealing"
       ]
     },
     {
@@ -184,10 +195,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement provides transparency into the fund's current asset allocation, which is routine for investment trusts. It allows shareholders to assess the portfolio composition without indicating any immediate strategic change or performance impact.",
+      "insight": "BlackRock Greater Europe Inv Trust provides a portfolio update following earlier disclosures. Shareholders should monitor subsequent filings for changes in holdings.",
       "key_themes": [
-        "Portfolio Disclosure",
-        "Transparency"
+        "Portfolio Update"
       ]
     },
     {
@@ -241,11 +251,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-greater-europe-inv-trust--brge/portfolio-update/9844189",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "A portfolio update generally provides shareholders with information on the fund's holdings and performance but typically does not signal immediate financial events or strategic changes. It serves as an informational disclosure rather than a material corporate action.",
+      "impact_score": 3,
+      "insight": "A portfolio update follows a tender offer in September. Shareholders should monitor subsequent filings for details on the offer's outcome.",
       "key_themes": [
         "Portfolio Update",
-        "Information Disclosure"
+        "Tender Offer"
       ]
     },
     {
@@ -541,12 +551,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-greater-europe-inv-trust--brge/tender-offer/9782952",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 8,
-      "insight": "A tender offer typically signifies a formal process for acquiring shares, often indicating a potential change in control or a significant capital return mechanism for investors. This type of announcement generally suggests a material event that could fundamentally alter the company's ownership structure or strategic direction.",
+      "impact_score": 3,
+      "insight": "A tender offer follows the June portfolio updates, indicating a potential capital return mechanism for shareholders.",
       "key_themes": [
-        "Tender Offer",
-        "Capital Return",
-        "Corporate Action"
+        "Capital return",
+        "Tender offer"
       ]
     },
     {
@@ -788,10 +797,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement provides a routine update on the portfolio composition of the investment trust. It offers shareholders visibility into current holdings but does not indicate any immediate strategic changes or financial events.",
+      "insight": "A portfolio update follows an Edison report. Shareholders should monitor for subsequent strategic developments.",
       "key_themes": [
         "Portfolio Update",
-        "Investment Trust"
+        "Research"
       ]
     },
     {
@@ -1043,11 +1052,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-greater-europe-inv-trust--brge/portfolio-update/9623994",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement provides a scheduled update on the portfolio composition, which is routine for investment trusts but offers insight into current asset allocation without indicating specific performance outcomes.",
+      "impact_score": 3,
+      "insight": "Following Edison's report in June, this portfolio update provides performance context for shareholders. It reflects ongoing management activity rather than a strategic shift.",
       "key_themes": [
         "Portfolio Update",
-        "Investment Trust"
+        "Performance"
       ]
     },
     {
@@ -1068,11 +1077,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/blackrock-greater-europe-inv-trust--brge/edison-issues-report-on-blackrock-greater-eur-/9621569",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement indicates that an external research firm has published a report on the company, which typically provides independent analysis or commentary for investors. It does not signify any immediate corporate action, transaction, or change in financial performance.",
+      "impact_score": 2,
+      "insight": "Edison issues a report on BlackRock Greater Europe Investment Trust. This follows a submission of documents in June.",
       "key_themes": [
         "Research",
-        "Analysis"
+        "Housekeeping"
       ]
     },
     {
@@ -1104,11 +1113,10 @@
       "url": "https://www.investegate.co.uk/announcement/prn/blackrock-greater-europe-inv-trust--brge/submission-of-documents/9616440",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement signifies routine administrative compliance rather than a substantive corporate event. It generally indicates that standard regulatory filings have been submitted to the market without implying any immediate change in value or strategy for shareholders.",
+      "impact_score": 1,
+      "insight": "BlackRock Greater Europe Inv Trust has submitted documents. This appears to be routine administrative housekeeping with no immediate impact on shareholders.",
       "key_themes": [
-        "Administrative",
-        "Compliance"
+        "Administrative"
       ]
     },
     {

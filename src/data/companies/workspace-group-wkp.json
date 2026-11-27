@@ -2,9 +2,31 @@
   "name": "Workspace Group",
   "ticker": "WKP",
   "slug": "workspace-group-wkp",
-  "announcement_count": 51,
-  "latest_announcement": "2026-11-25T14:40:00",
+  "announcement_count": 53,
+  "latest_announcement": "2026-11-27T14:38:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T14:38:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/workspace-group--wkp/holding-s-in-company/9898124",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-26T17:14:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/workspace-group--wkp/holding-s-in-company/9896472",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-25T14:40:00",
       "category": null,
@@ -35,10 +57,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a standard governance disclosure. It provides insight into insider trading activity but does not inherently signal a change in corporate strategy or financial performance.",
+      "insight": "Director/PDMR Shareholding filings indicate routine insider activity. This follows earlier dealings in June and July, suggesting normal trading patterns rather than a strategic shift.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Insider Dealing"
       ]
     },
     {
@@ -82,9 +104,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies a scheduled half-year results release, which provides shareholders with periodic financial performance data but does not indicate the direction of those results from the headline alone.",
+      "insight": "Workspace Group PLC has released its half year results. Shareholders should review the accompanying annual report and AGM notice for further details.",
       "key_themes": [
-        "Results"
+        "Results",
+        "Governance"
       ]
     },
     {
@@ -304,10 +327,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically indicates routine changes in shareholding by individuals with senior management responsibilities. Such disclosures are standard governance requirements and generally carry low immediate financial impact for shareholders.",
+      "insight": "Director/PDMR Shareholding filings indicate insider trading activity. This follows earlier governance updates in June 2026.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Insider Dealing"
       ]
     },
     {
@@ -351,11 +374,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a presentation responding to previous inquiries has been published, which typically serves to clarify management's position or address stakeholder questions. It suggests ongoing engagement with investors or regulators but does not inherently signal a change in financial performance or strategic direction.",
+      "insight": "This follows the June governance updates. Shareholders should watch for further details on the earnings-focused transformation.",
       "key_themes": [
-        "Investor Relations",
         "Governance",
-        "Communication"
+        "Strategy"
       ]
     },
     {
@@ -366,10 +388,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies standard regulatory disclosure of insider share transactions, which provides transparency into director activity but typically carries limited immediate financial impact for general shareholders.",
+      "insight": "Director/PDMR Shareholding details follow the June 2026 AGM notice. This routine filing tracks insider activity post-annual report.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Director Dealing"
       ]
     },
     {
@@ -380,7 +402,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with responsibility for managing the company rather than significant strategic shifts. Such disclosures are generally considered low-impact administrative updates for shareholders.",
+      "insight": "Director dealings follow the shift to an earnings-focused strategy. Shareholders should monitor if this aligns with the new governance approach.",
       "key_themes": [
         "Governance",
         "Director Dealing"
@@ -438,10 +460,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement typically signifies routine updates to a shareholder's voting rights or changes in the company's share capital structure. It generally reflects administrative compliance rather than significant strategic shifts or material financial events.",
+      "insight": "Voting rights updates follow the AGM notice published in June. Shareholders should monitor the upcoming meeting for any formal resolutions.",
       "key_themes": [
         "Governance",
-        "Share Capital"
+        "Shareholder Meeting"
       ]
     },
     {
@@ -463,10 +485,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies the publication of annual reports and the notice for an Annual General Meeting, which are routine governance events. It allows shareholders to review the company's performance and vote on standard matters without indicating any immediate financial or strategic changes.",
+      "insight": "Shareholders should watch for the AGM proceedings following the recent shift to an earnings-focused strategy.",
       "key_themes": [
         "Governance",
-        "Annual Report"
+        "Strategy"
       ]
     },
     {
@@ -499,10 +521,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms receipt of correspondence from a shareholder, indicating active engagement but providing no immediate financial or strategic details. It generally signifies routine governance interaction rather than a material corporate event.",
+      "insight": "Workspace Group acknowledges a letter to shareholders following its June 2026 announcement regarding transformation to an earnings-focused business.",
       "key_themes": [
         "Governance",
-        "Shareholder Engagement"
+        "Corporate Communications"
       ]
     },
     {
@@ -567,11 +589,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/workspace-group--wkp/transforming-to-an-earnings-focused-business/9610047",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This announcement signifies a scheduled results release where management is signaling a strategic shift towards prioritizing earnings. The specific financial performance and the success of this transformation remain undisclosed in the headline.",
+      "impact_score": 5,
+      "insight": "Workspace Group reports results under a new earnings-focused strategy. Shareholders should monitor execution of this shift.",
       "key_themes": [
         "Results",
-        "Strategic Shift"
+        "Strategy"
       ]
     },
     {

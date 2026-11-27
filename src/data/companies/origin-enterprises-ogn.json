@@ -2,9 +2,20 @@
   "name": "Origin Enterprises (CDI)",
   "ticker": "OGN",
   "slug": "origin-enterprises-ogn",
-  "announcement_count": 34,
-  "latest_announcement": "2026-11-19T16:15:00",
+  "announcement_count": 35,
+  "latest_announcement": "2026-11-27T12:58:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T12:58:00",
+      "category": null,
+      "headline": "Re-issue of Treasury Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/origin-enterprises-cdi---ogn/re-issue-of-treasury-shares/9897971",
+      "routine_type": "Treasury Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-19T16:15:00",
       "category": "AGM/EGM",
@@ -13,10 +24,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or auditor appointments. It signifies standard corporate governance procedures rather than any material change to the company's financial position or strategic direction.",
+      "insight": "The AGM results confirm shareholder approval of routine matters following the October annual report. This is a standard governance step with no immediate financial impact.",
       "key_themes": [
         "Governance",
-        "Shareholder approval"
+        "AGM"
       ]
     },
     {
@@ -26,12 +37,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/origin-enterprises-cdi---ogn/capital-markets-day-2026/9878413",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "A Capital Markets Day typically signifies a strategic review or guidance change where management outlines future plans to investors. This event is significant for shareholders as it often reveals new strategies or financial targets that could influence the company's valuation.",
+      "impact_score": 5,
+      "insight": "Origin Enterprises hosts a Capital Markets Day following its Q1 trading update. Shareholders should watch for strategic updates presented at this event.",
       "key_themes": [
-        "Strategy",
         "Investor Relations",
-        "Guidance"
+        "Strategy"
       ]
     },
     {
@@ -42,10 +52,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement provides a periodic update on the company's operational performance for the first quarter. The specific direction of the results is not indicated in the headline, so it represents standard scheduled reporting rather than a material event.",
+      "insight": "Origin Enterprises issued a Q1 trading update following its October 2026 annual report. Shareholders should monitor for subsequent performance data or strategic commentary.",
       "key_themes": [
-        "Trading Update",
-        "Results"
+        "Results",
+        "Governance"
       ]
     },
     {
@@ -78,10 +88,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which generally signifies routine compliance with insider dealing regulations rather than a significant strategic event for shareholders.",
+      "insight": "Director/PDMR Shareholding filings occurred in July and October. These routine updates follow the posting of the Annual Report.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Director dealings"
       ]
     },
     {
@@ -103,10 +113,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with responsibility for managing the company rather than significant strategic shifts. Such disclosures are standard regulatory requirements and generally carry low immediate impact on shareholder value unless they signal unusual concentration of ownership.",
+      "insight": "Director/PDMR Shareholding filings were recorded in July and October. These routine disclosures indicate standard insider activity rather than strategic shifts.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Director dealings"
       ]
     },
     {
@@ -139,10 +149,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with responsibility for managing the company rather than significant strategic shifts. Such disclosures are standard governance requirements and generally carry low immediate impact on shareholder value.",
+      "insight": "Director/PDMR Shareholding filings indicate routine insider transactions. This follows earlier dealings in July and a change of nominated adviser in June.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Insider Dealing"
       ]
     },
     {
@@ -153,7 +163,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies the scheduling of the Annual General Meeting and the publication of the annual report, which are routine governance events for shareholders.",
+      "insight": "The AGM notice follows the October annual report. Shareholders should watch for voting outcomes on director remuneration and adviser changes.",
       "key_themes": [
         "Governance",
         "AGM"
@@ -167,7 +177,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies the release of scheduled annual results and sustainability reporting, which provides shareholders with essential financial performance data and strategic updates for the period.",
+      "insight": "Origin Enterprises published its 2026 Annual Report. This follows a nominated adviser change in June and director shareholding updates in July.",
       "key_themes": [
         "Results",
         "Governance"
@@ -214,7 +224,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with responsibility for managing the company rather than significant corporate events.",
+      "insight": "Director/PDMR Shareholding filings follow earlier director dealings in July. These routine updates reflect individual transactions rather than strategic shifts.",
       "key_themes": [
         "Governance",
         "Director Dealing"
@@ -228,10 +238,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically indicates routine changes in shareholding by individuals with managerial responsibilities. Such disclosures are standard governance requirements and generally carry low immediate impact on shareholder value unless they signal significant insider sentiment shifts.",
+      "insight": "Director/PDMR Shareholding filings follow earlier Nominated Adviser changes. This indicates routine insider activity rather than strategic shifts.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Insider Dealing"
       ]
     },
     {
@@ -242,10 +252,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with responsibility for managing the company rather than significant strategic shifts. Such disclosures provide transparency regarding insider activity but generally carry low immediate impact on shareholder value.",
+      "insight": "Director/PDMR Shareholding follows a Change of Nominated Adviser in June. This indicates routine insider activity rather than strategic shifts.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Insider Dealing"
       ]
     },
     {
@@ -322,7 +332,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with responsibility for managing the company rather than significant strategic shifts. Such disclosures are standard governance requirements and generally carry low immediate impact on shareholder value unless they signal unusual confidence or lack thereof.",
+      "insight": "Director dealings are reported. This follows a nominated adviser change in June 2026.",
       "key_themes": [
         "Governance",
         "Director Dealing"
@@ -412,11 +422,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/origin-enterprises-cdi---ogn/change-of-nominated-adviser/9596013",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "This announcement signifies a routine administrative change in the firm responsible for providing regulatory advice to the company. It generally reflects standard governance housekeeping rather than any immediate strategic shift or financial implication for shareholders.",
+      "impact_score": 5,
+      "insight": "Origin Enterprises has appointed a new nominated adviser. Shareholders should monitor subsequent filings for details on any strategic changes or corporate actions resulting from this appointment.",
       "key_themes": [
         "Governance",
-        "Administrative"
+        "Corporate Action"
       ]
     }
   ]

@@ -2,9 +2,20 @@
   "name": "Alliance Witan",
   "ticker": "ALW",
   "slug": "alliance-witan-alw",
-  "announcement_count": 61,
-  "latest_announcement": "2026-11-23T17:20:00",
+  "announcement_count": 62,
+  "latest_announcement": "2026-11-26T17:17:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T17:17:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/alliance-witan--alw/transaction-in-own-shares/9896477",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T17:20:00",
       "category": null,
@@ -346,10 +357,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that directors have disclosed their shareholdings, which is a routine regulatory requirement for transparency. It generally signifies standard compliance activity rather than a material change in the company's strategic direction or financial position.",
+      "insight": "Director dealings are recorded alongside a July dividend declaration. Shareholders should monitor future filings for changes in insider ownership patterns.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Dividend"
       ]
     },
     {

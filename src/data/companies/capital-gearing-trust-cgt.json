@@ -2,9 +2,20 @@
   "name": "Capital Gearing Trust",
   "ticker": "CGT",
   "slug": "capital-gearing-trust-cgt",
-  "announcement_count": 38,
-  "latest_announcement": "2026-11-23T17:17:00",
+  "announcement_count": 39,
+  "latest_announcement": "2026-11-26T17:17:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T17:17:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/prn/capital-gearing-trust--cgt/transaction-in-own-shares/9896478",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T17:17:00",
       "category": null,
@@ -221,11 +232,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/capital-gearing-trust--cgt/quarterly-portfolio-update/9804969",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement provides a scheduled update on the portfolio composition, which is standard for investment trusts but lacks specific performance data or strategic shifts in the headline.",
+      "impact_score": 3,
+      "insight": "This quarterly update follows the July AGM results. Shareholders should monitor for any changes in portfolio composition or strategy.",
       "key_themes": [
         "Portfolio Update",
-        "Investment Trust"
+        "Governance"
       ]
     },
     {
@@ -357,10 +368,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine governance matters such as director elections or auditor appointments. It signifies standard shareholder engagement without indicating any material financial or strategic changes.",
+      "insight": "Shareholders should monitor how the proposed share split discussed in June progresses following this meeting.",
       "key_themes": [
         "Governance",
-        "Shareholder Meeting"
+        "Capital action"
       ]
     },
     {
@@ -370,11 +381,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/capital-gearing-trust--cgt/quarterly-portfolio-update/9654324",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement provides a scheduled update on the portfolio composition, which is routine for investment trusts but lacks specific performance data or strategic changes in the headline.",
+      "impact_score": 3,
+      "insight": "Capital Gearing Trust issued a quarterly portfolio update following its June 2026 proposed share split. Shareholders should monitor subsequent filings for details on how the split proceeds or impacts holdings.",
       "key_themes": [
         "Portfolio Update",
-        "Investment Trust"
+        "Corporate Action"
       ]
     },
     {
@@ -418,9 +429,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "A proposed share split is a structural change that typically does not alter the underlying value of the investment but may affect liquidity and marketability. This type of announcement generally signifies administrative housekeeping rather than a fundamental shift in the company's financial position.",
+      "insight": "Capital Gearing Trust proposes a share split. This is a small capital action affecting share structure rather than fundamental value.",
       "key_themes": [
-        "Capital structure",
+        "Capital action",
         "Governance"
       ]
     },

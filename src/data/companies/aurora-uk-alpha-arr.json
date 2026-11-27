@@ -2,9 +2,20 @@
   "name": "Aurora UK Alpha plc",
   "ticker": "ARR",
   "slug": "aurora-uk-alpha-arr",
-  "announcement_count": 86,
-  "latest_announcement": "2026-11-23T17:10:00",
+  "announcement_count": 87,
+  "latest_announcement": "2026-11-26T16:48:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T16:48:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/aurora-uk-alpha-plc--arr/transaction-in-own-shares/9896444",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T17:10:00",
       "category": null,
@@ -287,11 +298,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/aurora-uk-alpha-plc--arr/annual-investor-event/9819260",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement signifies a scheduled investor event where management will likely present strategic updates or financial performance to the market. The specific direction of any guidance or results is not disclosed in the headline.",
+      "impact_score": 3,
+      "insight": "A second annual investor event follows the June AGM. Shareholders should watch for updates on governance or strategy presented at this gathering.",
       "key_themes": [
-        "Investor Relations",
-        "Strategic Update"
+        "Governance",
+        "Investor Relations"
       ]
     },
     {
@@ -346,10 +357,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a scheduled engagement with investors, which typically serves to communicate current operational status or strategic updates rather than signaling immediate corporate action.",
+      "insight": "Aurora UK Alpha plc holds an annual investor event following its June AGM. Shareholders should monitor for updates on corporate governance or strategic direction.",
       "key_themes": [
-        "Investor Relations",
-        "Corporate Update"
+        "Governance",
+        "Investor Relations"
       ]
     },
     {
@@ -844,10 +855,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or auditor appointments. It signifies standard corporate governance compliance rather than any material change to the company's strategic direction or financial position.",
+      "insight": "Shareholders should note the outcome of the Annual General Meeting. This filing confirms the results of the vote held.",
       "key_themes": [
         "Governance",
-        "Shareholder approval"
+        "Meeting results"
       ]
     },
     {

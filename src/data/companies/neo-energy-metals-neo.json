@@ -2,9 +2,23 @@
   "name": "Neo Energy Metals",
   "ticker": "NEO",
   "slug": "neo-energy-metals-neo",
-  "announcement_count": 15,
-  "latest_announcement": "2026-11-12T12:00:00",
+  "announcement_count": 16,
+  "latest_announcement": "2026-11-27T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T07:00:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/neo-energy-metals--neo/director-pdmr-shareholding/9896703",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Director shareholding details follow recent management changes and a capital raise. Shareholders should monitor for further insider activity signals.",
+      "key_themes": [
+        "Governance",
+        "Capital raise"
+      ]
+    },
     {
       "timestamp": "2026-11-12T12:00:00",
       "category": null,
@@ -12,11 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/neo-energy-metals--neo/updated-corporate-presentation-and-imc-webinar/9872709",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement represents a marketing update or investor relations activity rather than a substantive corporate event. It provides no information regarding financial performance, strategic changes, or shareholder value.",
+      "impact_score": 3,
+      "insight": "Neo Energy Metals updates investors following its September placement and management changes. Shareholders should monitor for further developments on the Beisa transaction.",
       "key_themes": [
-        "Investor Relations",
-        "Corporate Update"
+        "Corporate governance",
+        "Investor relations"
       ]
     },
     {
@@ -27,10 +41,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which generally signifies routine compliance reporting of share transactions by individuals with managerial responsibilities. Such disclosures provide transparency regarding insider activity but typically carry limited immediate impact on the company's operational outlook or valuation.",
+      "insight": "Director dealings follow recent management changes and a capital raise. Shareholders should monitor if insiders are adjusting positions after the September funding.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Capital raise"
       ]
     },
     {
@@ -41,11 +55,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "This announcement signifies a capital raise through a placement of shares, which typically results in share dilution for existing shareholders. The event indicates an immediate need for external funding to support the company's operations or strategic initiatives.",
+      "insight": "Neo Energy Metals raises £1.75 million via placement, following senior management appointments in September. This capital injection supports the Beisa transaction update issued in August.",
       "key_themes": [
         "Capital raise",
-        "Share dilution",
-        "Fundraising"
+        "Corporate actions"
       ]
     },
     {
@@ -56,10 +69,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies a change in senior leadership, which may indicate strategic shifts or operational adjustments within the company. Shareholders should monitor subsequent disclosures for details on the new CFO's background and any associated governance implications.",
+      "insight": "Neo Energy Metals appoints a new CFO following earlier directorate changes. This governance update may signal continued senior team restructuring.",
       "key_themes": [
         "Governance",
-        "Management Change"
+        "Management"
       ]
     },
     {
@@ -69,11 +82,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/neo-energy-metals--neo/new-beisa-transaction-update/9726186",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "An update on a transaction suggests potential progress in a strategic initiative, which could materially affect shareholder value depending on the outcome.",
+      "impact_score": 5,
+      "insight": "Neo Energy Metals updates the Beisa Transaction following earlier site access agreements. Shareholders should monitor for further developments in this ongoing process.",
       "key_themes": [
-        "Transaction Update",
-        "Strategic Development"
+        "Corporate Development",
+        "Governance"
       ]
     },
     {
@@ -83,10 +96,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/neo-energy-metals--neo/new-company-website/9723861",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 1,
-      "insight": "This announcement represents administrative housekeeping or minor marketing activity with no immediate financial or strategic implications for shareholders.",
+      "impact_score": 2,
+      "insight": "Neo Energy Metals launched a new website following recent governance changes. This is likely administrative housekeeping with minimal immediate shareholder impact.",
       "key_themes": [
-        "Corporate communications",
+        "Governance",
         "Administrative"
       ]
     },
@@ -108,8 +121,8 @@
       "url": "https://www.investegate.co.uk/announcement/rns/neo-energy-metals--neo/directorate-change/9723183",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement signifies a change in the board composition, which is a standard governance update that may influence strategic oversight but does not inherently indicate immediate financial or operational shifts.",
+      "impact_score": 6,
+      "insight": "Neo Energy Metals appoints a new director following the CFO suspension in June. This governance change addresses the leadership gap created earlier this year.",
       "key_themes": [
         "Governance",
         "Board Change"
@@ -123,11 +136,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies a contractual development regarding site access, which is typically a prerequisite for operational progress in resource exploration. Shareholders should view this as a procedural step that may facilitate future fieldwork or assessment activities.",
+      "insight": "Neo Energy Metals confirms site access following the CFO suspension. This implementation step follows Strate’s cross-border removals.",
       "key_themes": [
-        "Operational Progress",
-        "Contractual Agreement",
-        "Exploration"
+        "Governance",
+        "Operations"
       ]
     },
     {
@@ -137,11 +149,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/neo-energy-metals--neo/implementation-of-strate-s-cross-border-removals/9656919",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement appears to be an administrative update regarding a third-party service provider rather than a direct operational event for the company. It signifies routine compliance or technical implementation with no immediate bearing on shareholder value.",
+      "impact_score": 5,
+      "insight": "Neo Energy Metals implements Strate’s Cross-border Removals. This follows the June CFO suspension, suggesting ongoing administrative restructuring.",
       "key_themes": [
-        "Administrative",
-        "Compliance"
+        "Governance",
+        "Administration"
       ]
     },
     {
@@ -184,11 +196,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/neo-energy-metals--neo/suspension-of-cfo/9605500",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 8,
-      "insight": "The departure of a Chief Financial Officer is a significant governance event that may signal internal instability or strategic shifts. Shareholders should anticipate potential uncertainty regarding financial oversight and future leadership appointments.",
+      "impact_score": 7,
+      "insight": "Suspension of CFO indicates potential governance instability. Shareholders should monitor for further leadership appointments.",
       "key_themes": [
         "Governance",
-        "Executive Change"
+        "Management"
       ]
     },
     {

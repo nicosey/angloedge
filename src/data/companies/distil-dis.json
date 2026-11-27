@@ -2,9 +2,23 @@
   "name": "Distil",
   "ticker": "DIS",
   "slug": "distil-dis",
-  "announcement_count": 12,
-  "latest_announcement": "2026-11-20T16:16:00",
+  "announcement_count": 13,
+  "latest_announcement": "2026-11-26T18:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T18:00:00",
+      "category": "Appointment",
+      "headline": "Administrators appointed to Distil Company Limited",
+      "url": "https://www.investegate.co.uk/announcement/rns/distil--dis/administrators-appointed-to-distil-company-limited/9896502",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 10,
+      "insight": "Administrators have been appointed following the CEO's resignation and suspension. Shareholders face total loss of equity value as the company enters insolvency proceedings.",
+      "key_themes": [
+        "Insolvency",
+        "Suspension"
+      ]
+    },
     {
       "timestamp": "2026-11-20T16:16:00",
       "category": "Appointment",
@@ -12,12 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/distil--dis/intends-to-appoint-admin-rs-to-subsid-ceo-resigns/9887264",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 8,
-      "insight": "The appointment of administrators to a subsidiary combined with the CEO's resignation signals significant operational distress and potential governance instability for shareholders.",
+      "impact_score": 9,
+      "insight": "Following suspension in October, the CEO resignation and appointment of administrators confirm insolvency proceedings. Shareholders face total loss of equity value.",
       "key_themes": [
         "Insolvency",
-        "Leadership Change",
-        "Corporate Governance"
+        "Governance"
       ]
     },
     {
@@ -28,10 +41,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "The suspension of shares indicates that trading in the company's stock has been halted, likely due to unresolved regulatory or corporate governance issues requiring immediate attention from investors.",
+      "insight": "Shares are suspended following the September funding update. Shareholders must await further developments regarding the company's financial position and potential restructuring.",
       "key_themes": [
         "Suspension",
-        "Governance"
+        "Funding"
       ]
     },
     {
@@ -41,12 +54,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/distil--dis/delay-in-annual-results-update-funding-progress/9794754",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This announcement indicates a delay in publishing annual results alongside updates on funding progress, suggesting potential liquidity concerns or operational hurdles that may impact shareholder confidence. The inclusion of funding updates implies ongoing efforts to secure financial stability, which is a material factor for investors.",
+      "impact_score": 5,
+      "insight": "Distil delays annual results while updating on funding progress. This follows recent directorate changes and distribution appointments.",
       "key_themes": [
         "Results",
-        "Funding",
-        "Governance"
+        "Funding"
       ]
     },
     {
@@ -57,10 +69,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies a change in the board composition, which is a standard governance update. Such changes typically have a neutral to low immediate financial impact unless they involve the departure of key leadership figures.",
+      "insight": "Distil has changed its directorate. This follows recent updates on distribution management and US orders.",
       "key_themes": [
         "Governance",
-        "Board change"
+        "Corporate actions"
       ]
     },
     {
@@ -71,10 +83,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of the Annual General Meeting, which typically involves routine shareholder approvals such as director reappointments and auditor appointments. It signifies standard corporate governance compliance rather than any material change to the company's strategic direction or financial position.",
+      "insight": "Shareholders should note the AGM results follow recent governance updates including related party transactions and board appointments.",
       "key_themes": [
         "Governance",
-        "Shareholder approval"
+        "AGM"
       ]
     },
     {
@@ -95,11 +107,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/distil--dis/u-s-order-for-blavod/9719103",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This announcement indicates a new commercial contract, which typically signifies revenue generation and business development for shareholders. The specific financial impact remains unknown as the headline does not disclose the value or duration of the order.",
+      "impact_score": 5,
+      "insight": "Distil secured a U.S. order for Blavod, following its July distribution appointment. This expands market reach but lacks financial detail.",
       "key_themes": [
-        "Contract",
-        "Commercial"
+        "Commercial",
+        "Expansion"
       ]
     },
     {
@@ -121,10 +133,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a change in the management of UK distribution activities, which may affect operational efficiency but does not disclose financial terms or strategic direction. Shareholders should monitor subsequent updates for details on how this appointment impacts overall business performance.",
+      "insight": "Distil appoints Fortitude to manage UK distribution. This follows the July Ardgowan update and June CLN conversion.",
       "key_themes": [
-        "Governance",
-        "Operational Change"
+        "Operations",
+        "Governance"
       ]
     },
     {
@@ -134,11 +146,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/distil--dis/ardgowan-update-/9661711",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This update likely provides a scheduled progress report or operational review for shareholders, though the specific direction or financial implications remain undefined by the headline.",
+      "impact_score": 7,
+      "insight": "Ardgowan Update follows the June CLN conversion. Shareholders should monitor for further related party transaction developments.",
       "key_themes": [
-        "Trading Update",
-        "Operational Review"
+        "Related Party Transactions",
+        "Capital Structure"
       ]
     },
     {
@@ -148,12 +160,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/distil--dis/early-cln-conversion-related-party-transactions-/9601860",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 8,
-      "insight": "This announcement indicates a potential change in control or significant restructuring through an early conversion event, coupled with related party transactions that may raise governance concerns. Shareholders should anticipate material implications for their equity stake and the company's future direction.",
+      "impact_score": 9,
+      "insight": "Distil announces an early CLN conversion and related party transactions. This suggests significant capital structure changes or potential insolvency proceedings affecting shareholder value.",
       "key_themes": [
-        "Corporate action",
-        "Governance",
-        "Restructuring"
+        "Capital Structure",
+        "Related Party Transactions"
       ]
     },
     {

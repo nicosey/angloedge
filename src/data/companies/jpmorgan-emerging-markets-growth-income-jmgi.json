@@ -2,9 +2,20 @@
   "name": "JPMorgan Emerging Markets Growth & Income plc",
   "ticker": "JMGI",
   "slug": "jpmorgan-emerging-markets-growth-income-jmgi",
-  "announcement_count": 72,
-  "latest_announcement": "2026-11-23T11:35:00",
+  "announcement_count": 73,
+  "latest_announcement": "2026-11-26T17:02:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T17:02:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-emerging-markets-growth-income-plc--jmgi/transaction-in-own-shares/9896460",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T11:35:00",
       "category": null,
@@ -46,7 +57,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically signifies routine compliance reporting rather than a significant strategic shift. It generally indicates standard governance activity with limited immediate impact on shareholder value.",
+      "insight": "Director/PDMR Shareholding filings record individual transactions. This follows earlier directorate changes and AGM results.",
       "key_themes": [
         "Governance",
         "Director Dealing"
@@ -92,11 +103,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/jpmorgan-emerging-markets-growth-income-plc--jmgi/investor-webinar-friday-6th-november-2026/9859324",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement indicates a scheduled investor webinar, which is generally considered administrative housekeeping or marketing material with no immediate bearing on shareholder value.",
+      "impact_score": 3,
+      "insight": "JPMorgan Emerging Markets Growth & Income plc has scheduled an investor webinar following its recent AGM results and directorate changes. Shareholders should monitor this event for further updates on governance or strategy.",
       "key_themes": [
-        "Investor Relations",
-        "Communication"
+        "Governance",
+        "Investor Relations"
       ]
     },
     {
@@ -107,7 +118,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies a change in the board composition, which may affect governance oversight but does not inherently indicate a shift in strategic direction or financial performance. Shareholders should monitor subsequent filings for details on the specific roles and qualifications of any new appointees.",
+      "insight": "Directorate change follows recent AGM results. Shareholders should monitor governance stability.",
       "key_themes": [
         "Governance",
         "Board Change"
@@ -121,10 +132,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of the Annual General Meeting, which typically involves routine shareholder approvals such as director reappointments and auditor appointments. It signifies standard corporate governance compliance rather than any material change to the company's strategic direction or financial position.",
+      "insight": "Shareholders should monitor subsequent filings for details on how these AGM outcomes align with the recent dividend declarations in July and September.",
       "key_themes": [
         "Governance",
-        "AGM Results"
+        "Dividend"
       ]
     },
     {
@@ -647,10 +658,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a standard disclosure of shareholding changes by a person discharging managerial responsibilities, which is routine regulatory housekeeping. It provides transparency regarding insider ownership but does not inherently signal a strategic shift or material financial event.",
+      "insight": "Director dealings are reported alongside a July dividend declaration. Shareholders should monitor subsequent filings for further insider activity or corporate updates.",
       "key_themes": [
         "Governance",
-        "Director dealings"
+        "Dividend"
       ]
     },
     {
@@ -672,10 +683,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a dividend declaration, which is typically classified as a minor corporate action with limited strategic impact compared to major financial events.",
+      "insight": "JMGI has declared a dividend. This is the first such filing on record for the company.",
       "key_themes": [
-        "Dividend",
-        "Income"
+        "Dividend"
       ]
     },
     {

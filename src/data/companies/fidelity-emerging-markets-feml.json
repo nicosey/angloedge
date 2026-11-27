@@ -2,9 +2,20 @@
   "name": "Fidelity Emerging Markets Limited Ptg NPV",
   "ticker": "FEML",
   "slug": "fidelity-emerging-markets-feml",
-  "announcement_count": 87,
-  "latest_announcement": "2026-11-23T17:50:00",
+  "announcement_count": 88,
+  "latest_announcement": "2026-11-27T14:59:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T14:59:00",
+      "category": null,
+      "headline": "Monthly Factsheet",
+      "url": "https://www.investegate.co.uk/announcement/prn/fidelity-emerging-markets-limited-ptg-npv--feml/monthly-factsheet/9898178",
+      "routine_type": "Portfolio Disclosure",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T17:50:00",
       "category": null,
@@ -79,10 +90,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a standard regulatory disclosure. It provides limited insight into future performance but signals insider activity that shareholders may monitor for sentiment clues.",
+      "insight": "Director dealings are reported. This follows a meeting result in May and a final dividend notice in November.",
       "key_themes": [
-        "Director Dealing",
-        "Governance"
+        "Governance",
+        "Dividend"
       ]
     },
     {
@@ -93,10 +104,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a final dividend declaration where the payout amount is determined by exchange rate fluctuations. Shareholders should anticipate that the actual value received may vary depending on currency movements relative to the reporting period.",
+      "insight": "A final dividend is declared, noting an exchange rate factor. This follows the May 2026 meeting results.",
       "key_themes": [
         "Dividend",
-        "Currency risk"
+        "Results"
       ]
     },
     {
@@ -954,7 +965,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement typically signifies the conclusion of a board or shareholder meeting, which may involve routine governance matters or minor corporate actions. Without further detail, it represents standard administrative housekeeping with limited immediate financial impact.",
+      "insight": "Fidelity Emerging Markets Limited Ptg NPV (FEML) has announced the result of a meeting. Shareholders should monitor subsequent filings for details on any resulting actions or decisions.",
       "key_themes": [
         "Governance",
         "Meeting results"

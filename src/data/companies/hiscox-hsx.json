@@ -2,9 +2,20 @@
   "name": "Hiscox Limited (DI)",
   "ticker": "HSX",
   "slug": "hiscox-hsx",
-  "announcement_count": 22,
-  "latest_announcement": "2026-11-13T09:40:00",
+  "announcement_count": 23,
+  "latest_announcement": "2026-11-27T13:52:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T13:52:00",
+      "category": null,
+      "headline": "TR-1:Standard form-notification of major holdings",
+      "url": "https://www.investegate.co.uk/announcement/rns/hiscox-limited-di---hsx/tr-1-standard-form-notification-of-major-holdings/9898051",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-13T09:40:00",
       "category": "Results",
@@ -13,10 +24,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement provides scheduled results and estimates for specific syndicates, indicating a routine financial update rather than a transformative event. The headline does not disclose the direction of performance, so it represents standard reporting activity for shareholders.",
+      "insight": "Hiscox Limited reports results for Syndicates 33 and 6104. This follows earlier director shareholding updates and precedes an update on the share repurchase programme.",
       "key_themes": [
         "Results",
-        "Financial Reporting"
+        "Governance"
       ]
     },
     {
@@ -104,11 +115,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that the interim dividend will be paid in a currency different from the company's reporting currency due to exchange rate fluctuations. It signifies standard administrative handling of foreign currency payments rather than a change in dividend policy or financial performance.",
+      "insight": "Hiscox Limited announces an interim dividend currency exchange rate. This follows a May notice of dividend currency exchange rate.",
       "key_themes": [
-        "Dividend",
-        "Currency",
-        "Corporate Action"
+        "Dividend"
       ]
     },
     {
@@ -163,10 +172,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 4,
-      "insight": "This update likely provides progress on an existing share repurchase programme, which generally signals management's view on valuation and commitment to returning capital to shareholders.",
+      "insight": "Share repurchases reduce equity base, potentially boosting earnings per share. This follows recent dividend and director holding updates.",
       "key_themes": [
-        "Share Buyback",
-        "Capital Return"
+        "Capital return",
+        "Governance"
       ]
     },
     {
@@ -177,10 +186,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement provides scheduled results and estimates for specific syndicates, indicating a standard reporting event rather than a transformative corporate action. Shareholders should expect routine financial performance data without immediate indication of significant strategic shifts or material surprises.",
+      "insight": "Hiscox Limited reports results for Syndicates 33 and 6104. This follows earlier notices regarding dividend currency rates and director shareholdings in May and June 2026.",
       "key_themes": [
-        "Results",
-        "Financial Reporting"
+        "Results"
       ]
     },
     {
@@ -224,10 +232,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that provide transparency but typically carry limited immediate investment significance compared to strategic corporate actions.",
+      "insight": "Director/PDMR Shareholding details are reported. This follows a dividend currency exchange rate notice in May and another shareholding filing in June.",
       "key_themes": [
         "Governance",
-        "Director dealings"
+        "Dividend"
       ]
     },
     {
@@ -238,10 +246,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director has transacted in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into the company's operational performance or strategic direction.",
+      "insight": "Director dealing activity is reported. Shareholders should monitor for further insider transaction disclosures.",
       "key_themes": [
-        "Director Dealings",
-        "Governance"
+        "Governance",
+        "Insider Dealing"
       ]
     },
     {
@@ -263,10 +271,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to the mechanics of dividend payments rather than a change in the dividend amount or policy itself. It signifies standard administrative information regarding currency conversion for shareholders.",
+      "insight": "Hiscox Limited has issued a notice regarding dividend currency exchange rates. Shareholders should monitor subsequent filings for actual payment details.",
       "key_themes": [
-        "Dividend",
-        "Administrative"
+        "Dividend"
       ]
     }
   ]

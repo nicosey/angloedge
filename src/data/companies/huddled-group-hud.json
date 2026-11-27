@@ -2,9 +2,20 @@
   "name": "Huddled Group",
   "ticker": "HUD",
   "slug": "huddled-group-hud",
-  "announcement_count": 24,
-  "latest_announcement": "2026-11-26T07:30:00",
+  "announcement_count": 25,
+  "latest_announcement": "2026-11-27T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T07:00:00",
+      "category": null,
+      "headline": "Notice of GM",
+      "url": "https://www.investegate.co.uk/announcement/rns/huddled-group--hud/notice-of-gm/9896722",
+      "routine_type": "Meeting Notices",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-26T07:30:00",
       "category": null,
@@ -26,11 +37,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/huddled-group--hud/capital-access-window-huddled-group-plc/9890731",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "The headline suggests a formal process related to accessing capital, which typically signifies a potential fundraise or financial restructuring that could materially affect shareholder equity and dilution.",
+      "impact_score": 8,
+      "insight": "This follows the Nov RetailBook Offer, indicating a subsequent step in that transaction process. Shareholders should monitor for further developments regarding the offer's progress.",
       "key_themes": [
-        "Capital raise",
-        "Financial restructuring"
+        "M&A",
+        "Capital raise"
       ]
     },
     {
@@ -40,11 +51,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/huddled-group--hud/retailbook-offer/9890211",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 9,
-      "insight": "The term 'Offer' in the headline typically signifies a firm proposal for the acquisition of the company, which represents a transformative event for shareholders. This type of announcement generally indicates a potential change of control or exit opportunity.",
+      "impact_score": 7,
+      "insight": "The RetailBook Offer follows the Oct acquisition of AEWW Ltd, suggesting a strategic sale process for this new asset.",
       "key_themes": [
         "M&A",
-        "Takeover"
+        "Strategic review"
       ]
     },
     {
@@ -55,10 +66,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "This announcement signifies a material acquisition, which typically indicates strategic expansion or diversification for the acquiring entity. Shareholders should anticipate potential changes to the company's asset base and future operational scope.",
+      "insight": "This acquisition accelerates the live commerce strategy previously announced in August. Shareholders should monitor integration progress following the recent trading update.",
       "key_themes": [
-        "M&A",
-        "Strategic Expansion"
+        "Acquisition",
+        "Strategy"
       ]
     },
     {
@@ -79,11 +90,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/huddled-group--hud/trading-update/9778507",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement signifies a scheduled update on the company's operational performance, but the headline provides no indication of whether the results are positive or negative.",
+      "impact_score": 7,
+      "insight": "The live commerce strategy is accelerated following the TikTok JV. This update confirms progress from the August partnership announcements.",
       "key_themes": [
-        "Trading Update",
-        "Performance"
+        "Strategy",
+        "Partnership"
       ]
     },
     {
@@ -93,12 +104,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/huddled-group--hud/live-commerce-strategy-accelerated-with-tiktok-jv/9735287",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement signifies a strategic partnership aimed at accelerating the company's live commerce capabilities through a joint venture. Shareholders should view this as a potential growth initiative, though the specific financial terms and operational details remain undisclosed.",
+      "impact_score": 7,
+      "insight": "Following the August software launch, this TikTok JV accelerates the live commerce strategy. Shareholders should monitor execution of this partnership.",
       "key_themes": [
-        "Strategic Partnership",
-        "Joint Venture",
-        "Business Development"
+        "Strategic partnership",
+        "Product launch"
       ]
     },
     {
@@ -109,11 +119,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "The launch of proprietary software and a joint venture suggests a strategic initiative to expand commercial capabilities, though the absence of financial details limits immediate assessment of shareholder value.",
+      "insight": "The launch of proprietary software and a joint venture follows recent fundraising. Shareholders should monitor execution progress.",
       "key_themes": [
-        "Product Launch",
-        "Joint Venture",
-        "Strategic Partnership"
+        "Partnership",
+        "Product Launch"
       ]
     },
     {
@@ -179,10 +188,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "The issuance of share options typically serves as a mechanism to align management interests with shareholder value through long-term incentives. This type of announcement generally signifies standard governance practices rather than immediate financial or strategic shifts.",
+      "insight": "Share options are issued following the recent retail offer. This aligns with standard post-fundraising personnel incentives.",
       "key_themes": [
-        "Governance",
-        "Incentives"
+        "Capital raise",
+        "Governance"
       ]
     },
     {
@@ -225,12 +234,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/huddled-group--hud/result-of-oversubscribed-retail-offer-fundraise/9648417",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "This announcement signifies a completed fundraising exercise with oversubscribed retail demand, indicating strong investor interest and successful capital acquisition. It suggests the company has secured necessary funds, which may support future operations or strategic initiatives without specifying the scale or use of proceeds.",
+      "impact_score": 8,
+      "insight": "Following the June offer announcement, this update confirms the retail portion was oversubscribed. This validates investor appetite for the ongoing fundraise.",
       "key_themes": [
         "Capital raise",
-        "Fundraising",
-        "Investor demand"
+        "Shareholder demand"
       ]
     },
     {
@@ -280,10 +288,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies that the annual report and notice of an Annual General Meeting are being made available to shareholders. It generally indicates routine corporate governance activities rather than significant strategic or financial events.",
+      "insight": "Shareholders should watch for the AGM results following the June full year results and trading update.",
       "key_themes": [
         "Governance",
-        "AGM"
+        "Results"
       ]
     },
     {
@@ -294,10 +302,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "A trading update provides shareholders with information on the company's recent performance, but without specific details in the headline, the direction and magnitude of any impact remain unknown.",
+      "insight": "Huddled Group issued a trading update following its full year results for December 2025. Shareholders should monitor this filing for any directional guidance or performance commentary.",
       "key_themes": [
-        "Trading Update",
-        "Performance"
+        "Results",
+        "Trading Update"
       ]
     },
     {
@@ -308,7 +316,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies the release of scheduled annual financial results, which is a routine event for shareholders to assess the company's performance over the specified period.",
+      "insight": "Huddled Group has published its full year results for the period ending 31 December 2025. Shareholders should review the filing for performance details.",
       "key_themes": [
         "Results"
       ]

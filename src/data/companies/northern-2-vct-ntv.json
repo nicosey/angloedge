@@ -2,9 +2,20 @@
   "name": "Northern 2 VCT",
   "ticker": "NTV",
   "slug": "northern-2-vct-ntv",
-  "announcement_count": 15,
-  "latest_announcement": "2026-11-20T14:01:00",
+  "announcement_count": 16,
+  "latest_announcement": "2026-11-27T13:15:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T13:15:00",
+      "category": null,
+      "headline": "Issue of equity and total voting rights",
+      "url": "https://www.investegate.co.uk/announcement/gnw/northern-2-vct--ntv/issue-of-equity-and-total-voting-rights/9897993",
+      "routine_type": "Total Voting Rights",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T14:01:00",
       "category": "Dividend",
@@ -13,10 +24,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a dividend declaration, which is typically classified as a minor corporate action with limited strategic impact. It generally indicates routine income distribution rather than significant operational or financial change.",
+      "insight": "A dividend declaration follows the Nov half-yearly report. Shareholders should monitor subsequent filings for details on the payment and any further corporate actions.",
       "key_themes": [
         "Dividend",
-        "Shareholder Return"
+        "Results"
       ]
     },
     {
@@ -26,9 +37,10 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-2-vct--ntv/half-yearly-financial-report-for-the-six-mont-/9887045",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement signifies a scheduled half-yearly financial report, providing shareholders with standard periodic performance data without indicating specific directional outcomes in the headline.",
+      "impact_score": 7,
+      "insight": "Following the September offer document, this report provides financial context for the ongoing subscription process. Shareholders should monitor the outcome of the capital raise initiated earlier this month.",
       "key_themes": [
+        "Capital raise",
         "Results"
       ]
     },
@@ -54,10 +66,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "The publication of an offer document typically signifies a formal proposal for acquisition or a significant capital transaction, which may lead to a change in control or substantial value realization for shareholders.",
+      "insight": "Following the June intention to fundraise, this offer document details the capital raise. Shareholders should monitor the AGM results and recent director resignation for context.",
       "key_themes": [
-        "Offer",
-        "Corporate Action"
+        "Capital raise",
+        "Governance"
       ]
     },
     {
@@ -79,7 +91,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement indicates a change in the board composition, which is a standard governance event for shareholders to monitor. It signifies a potential shift in oversight or strategic direction but does not inherently imply immediate financial impact.",
+      "insight": "A director resignation follows an amendment to the Investment Management Agreement in August. This board change may signal ongoing governance adjustments within Northern 2 VCT.",
       "key_themes": [
         "Governance",
         "Board Change"
@@ -104,10 +116,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a modification to the contractual terms governing the investment management relationship. It generally signifies administrative adjustments to the fee structure, service scope, or operational procedures between the fund and its manager.",
+      "insight": "Northern 2 VCT amended its investment management agreement following the July AGM. Shareholders should monitor for further details on how this affects future fundraising efforts.",
       "key_themes": [
         "Governance",
-        "Contractual Amendment"
+        "Fundraising"
       ]
     },
     {
@@ -129,10 +141,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or fee structures. It signifies standard governance activity rather than any material change to the company's financial position or strategic direction.",
+      "insight": "Shareholders should note the AGM results follow the June fundraising intention. This confirms the outcome of the meeting called to discuss capital raising.",
       "key_themes": [
         "Governance",
-        "Shareholder approval"
+        "Capital raise"
       ]
     },
     {
@@ -154,7 +166,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies the publication of annual financial results and the convening of an Annual General Meeting, which are routine scheduled events for shareholders.",
+      "insight": "Northern 2 VCT publishes its annual report following earlier dividend and fundraising statements. Shareholders should monitor the AGM for updates on the intended capital raise.",
       "key_themes": [
         "Results",
         "Governance"
@@ -168,10 +180,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "This announcement indicates an intention to raise capital through a placing, which typically involves issuing new shares. This action can lead to dilution of existing shareholders' stakes and may signal a need for fresh funding.",
+      "insight": "Northern 2 VCT intends to fundraise following its June 2026 results. Shareholders should watch for details of this capital raise.",
       "key_themes": [
         "Capital raise",
-        "Dilution",
         "Fundraising"
       ]
     },
@@ -183,10 +194,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a dividend declaration, which typically indicates income distribution to shareholders but is classified as a lower-impact event compared to strategic or financial results.",
+      "insight": "Northern 2 VCT declares a dividend following its March 2026 annual report. Shareholders should monitor subsequent filings for payment details.",
       "key_themes": [
         "Dividend",
-        "Income"
+        "Results"
       ]
     },
     {
@@ -197,10 +208,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies the release of scheduled annual results for the reporting period. Shareholders will receive detailed financial performance data and governance updates relevant to their investment assessment.",
+      "insight": "Northern 2 VCT published its annual report for the year ended 31 March 2026. Shareholders should review the financial statements for performance details.",
       "key_themes": [
-        "Results",
-        "Governance"
+        "Results"
       ]
     }
   ]

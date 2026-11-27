@@ -2,9 +2,34 @@
   "name": "Imperial Brands",
   "ticker": "IMB",
   "slug": "imperial-brands-imb",
-  "announcement_count": 112,
-  "latest_announcement": "2026-11-26T13:06:00",
+  "announcement_count": 114,
+  "latest_announcement": "2026-11-27T07:45:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T07:45:00",
+      "category": null,
+      "headline": "Disclosure Table",
+      "url": "https://www.investegate.co.uk/announcement/rns/imperial-brands--imb/disclosure-table/9897405",
+      "routine_type": "Disclosure Table",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-26T17:18:00",
+      "category": "Acquisition",
+      "headline": "Statement re Possible Offer",
+      "url": "https://www.investegate.co.uk/announcement/rns/imperial-brands--imb/statement-re-possible-offer/9896479",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 7,
+      "insight": "A possible offer follows a £750m buyback and dividend declaration. Shareholders should watch for confirmation of terms in subsequent filings.",
+      "key_themes": [
+        "M&A",
+        "Capital return"
+      ]
+    },
     {
       "timestamp": "2026-11-26T13:06:00",
       "category": null,
@@ -49,10 +74,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a formal declaration of a dividend payment to shareholders. It generally indicates that the board has approved a distribution of profits, which may influence investor sentiment regarding income returns.",
+      "insight": "A dividend declaration follows recent share buybacks and director dealings. Shareholders should monitor future capital allocation decisions.",
       "key_themes": [
         "Dividend",
-        "Shareholder return"
+        "Capital return"
       ]
     },
     {
@@ -74,10 +99,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director shareholding transactions, which are routine regulatory disclosures indicating standard insider trading activity rather than significant strategic shifts. It generally signifies compliance with market conduct rules and provides transparency into individual executive positions without implying a specific directional bias.",
+      "insight": "Director/PDMR Shareholding filings record individual transactions. These are routine updates following earlier dealings in July and October.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Director Dealings"
       ]
     },
     {
@@ -187,10 +212,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically signifies routine compliance reporting rather than a significant strategic shift. Shareholders should view this as standard governance disclosure with limited immediate financial impact.",
+      "insight": "Director shareholding updates follow the recent £750 million buyback tranche. This confirms ongoing insider activity within the established capital return program.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Capital return"
       ]
     },
     {
@@ -200,12 +225,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/imperial-brands--imb/share-buyback-tranche-of-up-to-750-million-/9812491",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "This announcement signifies a substantial capital return to shareholders through a significant share buyback program. It indicates management's confidence in the company's financial position and commitment to enhancing shareholder value by reducing the equity base.",
+      "impact_score": 5,
+      "insight": "This tranche follows the Black Buffalo acquisition. Shareholders should watch for further capital allocation details.",
       "key_themes": [
-        "Capital return",
-        "Shareholder value",
-        "Buyback"
+        "Capital allocation",
+        "M&A"
       ]
     },
     {
@@ -293,10 +317,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director shareholdings, which typically signifies routine compliance with insider dealing regulations rather than a significant strategic shift. It generally indicates standard governance activity without implying immediate material impact on shareholder value.",
+      "insight": "Director/PDMR Shareholding follows the Acquisition of Black Buffalo. This filing records individual share transactions by those involved in the earlier deal.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "M&A"
       ]
     },
     {
@@ -934,10 +958,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into corporate strategy but confirms compliance with insider dealing regulations.",
+      "insight": "Director dealing activity is reported. This follows the May acquisition of Black Buffalo.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "M&A"
       ]
     },
     {
@@ -1245,11 +1269,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "This announcement signifies a material acquisition that may alter the company's strategic direction or asset base. Shareholders should anticipate potential changes to the firm's operational scope or financial structure as a result of this transaction.",
+      "insight": "Imperial Brands acquires Black Buffalo. This material acquisition may alter the company's portfolio and strategic direction for shareholders.",
       "key_themes": [
         "M&A",
-        "Acquisition",
-        "Strategic expansion"
+        "Acquisition"
       ]
     },
     {

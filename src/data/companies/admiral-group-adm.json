@@ -2,9 +2,20 @@
   "name": "Admiral Group",
   "ticker": "ADM",
   "slug": "admiral-group-adm",
-  "announcement_count": 13,
-  "latest_announcement": "2026-11-12T12:44:00",
+  "announcement_count": 14,
+  "latest_announcement": "2026-11-26T17:15:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T17:15:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/gnw/admiral-group--adm/holding-s-in-company/9896471",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-12T12:44:00",
       "category": null,
@@ -35,10 +46,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities. Such disclosures are standard governance requirements and generally carry low immediate impact on shareholder value.",
+      "insight": "Director shareholdings are reported following the Flock acquisition. This routine filing reflects standard governance compliance rather than strategic change.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "M&A"
       ]
     },
     {
@@ -49,10 +60,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities rather than significant corporate events. Such filings are standard regulatory requirements and generally carry low immediate impact on shareholder value.",
+      "insight": "Director shareholdings are reported following the Flock acquisition. This routine filing reflects standard post-deal compliance rather than strategic shifts.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "M&A"
       ]
     },
     {
@@ -63,10 +74,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with senior management responsibilities. Such filings are standard regulatory requirements and generally carry low immediate impact on shareholder value unless they signal a significant change in insider sentiment.",
+      "insight": "Following the June acquisition of Flock, multiple director shareholdings were recorded. This indicates routine insider activity rather than a strategic shift.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "M&A"
       ]
     },
     {
@@ -77,10 +88,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities rather than significant corporate events. Such disclosures are standard governance requirements and generally carry low immediate impact on shareholder value.",
+      "insight": "Director shareholdings are reported following the Flock acquisition. This routine filing reflects standard post-deal compliance rather than strategic shifts.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "M&A"
       ]
     },
     {
@@ -102,10 +113,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a person with senior management responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It generally signifies standard regulatory compliance rather than a specific strategic shift or material event for shareholders.",
+      "insight": "Director shareholdings are reported following the Flock acquisition. This reflects routine insider activity rather than a strategic shift.",
       "key_themes": [
         "Governance",
-        "Director dealings"
+        "M&A"
       ]
     },
     {
@@ -116,10 +127,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure under market regulations. It provides limited insight into future performance but confirms insider activity.",
+      "insight": "Director shareholdings are reported following the Flock acquisition in June. This routine filing reflects standard post-deal compliance rather than strategic shifts.",
       "key_themes": [
         "Governance",
-        "Director dealings"
+        "M&A"
       ]
     },
     {
@@ -130,10 +141,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically have a low direct impact on shareholder value compared to strategic or financial disclosures. It signifies routine compliance with insider dealing regulations rather than a material change in the company's direction.",
+      "insight": "Director shareholding details follow the June acquisition of Flock. This routine filing reflects standard post-deal compliance rather than strategic shifts.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "M&A"
       ]
     },
     {
@@ -144,7 +155,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with managerial responsibilities rather than significant corporate events. Such disclosures are standard governance requirements and generally have minimal direct impact on shareholder value.",
+      "insight": "Director shareholding changes are routine governance updates. Shareholders should monitor subsequent filings for any significant shifts in insider ownership.",
       "key_themes": [
         "Governance",
         "Director Dealing"
@@ -158,11 +169,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "This announcement signifies a completed acquisition, which typically indicates strategic expansion or diversification for the acquiring entity. Shareholders should view this as a material corporate action that may alter the company's operational scope or growth trajectory.",
+      "insight": "Admiral Group completes acquisition of Flock. This material acquisition expands the business portfolio without disclosed financial terms.",
       "key_themes": [
         "M&A",
-        "Acquisition",
-        "Strategic Expansion"
+        "Corporate action"
       ]
     },
     {

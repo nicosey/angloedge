@@ -2,9 +2,20 @@
   "name": "Octopus Future Generations Vct",
   "ticker": "OFG",
   "slug": "octopus-future-generations-vct-ofg",
-  "announcement_count": 5,
-  "latest_announcement": "2026-11-16T17:20:00",
+  "announcement_count": 6,
+  "latest_announcement": "2026-11-27T10:30:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T10:30:00",
+      "category": null,
+      "headline": "Admission of Further Securities to Trading",
+      "url": "https://www.investegate.co.uk/announcement/gnw/octopus-future-generations-vct--ofg/admission-of-further-securities-to-trading/9897659",
+      "routine_type": "Block Listing / Admission",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-16T17:20:00",
       "category": null,
@@ -23,11 +34,11 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/octopus-future-generations-vct--ofg/half-yearly-report/9785131",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement signifies a scheduled half-yearly results report, which provides shareholders with periodic performance updates but does not indicate the direction of those results from the headline alone.",
+      "impact_score": 3,
+      "insight": "The half-yearly report follows the June AGM results. Shareholders should monitor this filing for performance updates.",
       "key_themes": [
         "Results",
-        "Half-Yearly Report"
+        "Governance"
       ]
     },
     {
@@ -49,11 +60,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of shareholder votes at the annual general meeting, which typically involves routine governance matters such as director reappointments and auditor appointments. For shareholders, this provides transparency on how their voting rights were exercised regarding standard corporate administration.",
+      "insight": "The Annual General Meeting results have been announced. Shareholders should monitor subsequent filings for any further corporate actions or updates.",
       "key_themes": [
         "Governance",
-        "Shareholder Vote",
-        "AGM"
+        "Meeting Results"
       ]
     },
     {

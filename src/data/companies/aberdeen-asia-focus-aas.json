@@ -2,9 +2,20 @@
   "name": "Aberdeen Asia Focus",
   "ticker": "AAS",
   "slug": "aberdeen-asia-focus-aas",
-  "announcement_count": 74,
-  "latest_announcement": "2026-11-23T13:36:00",
+  "announcement_count": 75,
+  "latest_announcement": "2026-11-26T17:07:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T17:07:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/aberdeen-asia-focus--aas/transaction-in-own-shares/9896463",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T13:36:00",
       "category": null,
@@ -90,10 +101,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies the declaration of an interim dividend, which typically indicates ongoing cash generation and a commitment to returning capital to shareholders. It serves as a routine income event rather than a transformative corporate action.",
+      "insight": "AAS declares a first interim dividend, following the fourth interim payment in August. This indicates a continuation of its distribution schedule.",
       "key_themes": [
-        "Dividend",
-        "Income"
+        "Dividend"
       ]
     },
     {
@@ -136,8 +146,8 @@
       "url": "https://www.investegate.co.uk/announcement/rns/aberdeen-asia-focus--aas/doc-re-annual-report-/9856467",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement signifies the publication of the company's annual report, which is a scheduled regulatory filing providing shareholders with comprehensive details on financial performance and governance for the past year.",
+      "impact_score": 3,
+      "insight": "The annual report follows the August dividend declaration. Shareholders should review the document for performance details linked to the earlier tender test.",
       "key_themes": [
         "Results",
         "Governance"
@@ -503,10 +513,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a routine distribution of profits to shareholders. It indicates that the fund is generating returns, but without specific details on yield or growth, it represents standard income generation rather than a significant corporate event.",
+      "insight": "A fourth interim dividend is declared. This follows a performance-linked tender test satisfied in August.",
       "key_themes": [
         "Dividend",
-        "Income"
+        "Capital return"
       ]
     },
     {
@@ -528,11 +538,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement indicates that performance-linked tender conditions have been met and renewed, suggesting a continuation of existing share buyback or capital management arrangements for shareholders.",
+      "insight": "Aberdeen Asia Focus confirms a performance-linked tender test is satisfied and renewed. Shareholders should monitor subsequent steps in this process.",
       "key_themes": [
-        "Capital return",
-        "Governance",
-        "Shareholder action"
+        "Corporate action",
+        "Governance"
       ]
     },
     {

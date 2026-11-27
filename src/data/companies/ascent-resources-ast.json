@@ -2,9 +2,23 @@
   "name": "Ascent Resources",
   "ticker": "AST",
   "slug": "ascent-resources-ast",
-  "announcement_count": 4,
-  "latest_announcement": "2026-07-08T12:19:00",
+  "announcement_count": 5,
+  "latest_announcement": "2026-11-27T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T07:00:00",
+      "category": null,
+      "headline": "Operational and corporate update",
+      "url": "https://www.investegate.co.uk/announcement/rns/ascent-resources--ast/operational-and-corporate-update/9896623",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Shares remain suspended following the final ICSID award. Shareholders must await further developments regarding the Slovenia ECT claim resolution.",
+      "key_themes": [
+        "Legal",
+        "Suspension"
+      ]
+    },
     {
       "timestamp": "2026-07-08T12:19:00",
       "category": null,
@@ -13,11 +27,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "A final award from an international tribunal typically signifies the conclusion of a significant legal dispute, which can result in substantial financial liability or recovery for the company. This event represents a definitive resolution to a major risk factor, directly impacting shareholder value and future cash flows.",
+      "insight": "Ascent Resources plc faces suspension following the ICSID Tribunal's Final Award. This legal conclusion likely precipitates the trading halt announced in July.",
       "key_themes": [
         "Legal",
-        "Litigation",
-        "Resolution"
+        "Suspension"
       ]
     },
     {
@@ -28,10 +41,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "A suspension of shares indicates that trading in the company's stock has been halted, likely due to uncertainty or pending news, preventing investors from buying or selling until further clarification is provided.",
+      "insight": "Ascent Resources plc shares are suspended following the June delay to final results. Shareholders should await the next update regarding the Slovenia ECT claim.",
       "key_themes": [
         "Suspension",
-        "Trading Halt"
+        "Governance"
       ]
     },
     {
@@ -41,11 +54,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ascent-resources--ast/update-on-slovenia-ect-claim-/9624291",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This update likely provides progress on a legal dispute involving the company, which could have significant financial implications depending on the outcome. Shareholders should monitor for details regarding potential liabilities or recoveries associated with this claim.",
+      "impact_score": 8,
+      "insight": "Ascent Resources updates its Slovenia ECT claim following the June suspension. Shareholders should monitor for further developments regarding this legal dispute.",
       "key_themes": [
         "Legal",
-        "Litigation"
+        "Suspension"
       ]
     },
     {
@@ -55,11 +68,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ascent-resources--ast/delay-to-final-results-and-temporary-suspension/9616523",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 9,
-      "insight": "The temporary suspension of shares indicates a significant disruption to trading and potential liquidity risks for investors. The delay in final results suggests underlying issues that may negatively impact shareholder confidence.",
+      "impact_score": 8,
+      "insight": "Ascent Resources faces a delay to final results and temporary suspension of its shares. Shareholders should monitor for updates regarding the resumption of trading.",
       "key_themes": [
         "Suspension",
-        "Results Delay"
+        "Results"
       ]
     }
   ]

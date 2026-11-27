@@ -2,9 +2,20 @@
   "name": "Ormonde Mining (CDI)",
   "ticker": "ORM",
   "slug": "ormonde-mining-orm",
-  "announcement_count": 8,
-  "latest_announcement": "2026-10-27T16:11:00",
+  "announcement_count": 9,
+  "latest_announcement": "2026-11-27T14:14:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T14:14:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/ormonde-mining-cdi---orm/holding-s-in-company/9898081",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-10-27T16:11:00",
       "category": "AGM/EGM",
@@ -12,12 +23,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ormonde-mining-cdi---orm/result-of-egm/9844332",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement discloses the outcome of an Extraordinary General Meeting, which typically involves shareholder votes on specific corporate matters such as governance changes or capital adjustments. The impact depends entirely on the specific resolutions passed, which are not detailed in the headline.",
+      "impact_score": 4,
+      "insight": "The EGM result follows the October notice of a proposed capital reorganisation. Shareholders should note the outcome of this structural change.",
       "key_themes": [
-        "Governance",
-        "Shareholder vote",
-        "Corporate action"
+        "Capital reorganisation",
+        "Governance"
       ]
     },
     {
@@ -27,12 +37,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ormonde-mining-cdi---orm/proposed-capital-reorganisation-notice-of-egm/9807236",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "A proposed capital reorganisation typically involves significant structural changes to a company's equity, such as consolidating shares or altering share classes, which can materially affect shareholder value and voting rights. The convening of an Extraordinary General Meeting indicates that shareholder approval is required for these potentially transformative corporate actions.",
+      "impact_score": 3,
+      "insight": "Ormonde Mining (CDI) has issued a notice of EGM to propose a capital reorganisation. This follows the posting of the annual report and AGM results in August and September.",
       "key_themes": [
-        "Capital reorganisation",
-        "Governance",
-        "Shareholder vote"
+        "Capital Reorganisation",
+        "Governance"
       ]
     },
     {
@@ -43,7 +52,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies the release of scheduled interim financial results, which provide shareholders with an update on the company's performance for the first half of the financial year.",
+      "insight": "Interim Results follow the Final Results posted in June. Shareholders should review the interim performance relative to the prior year-end figures.",
       "key_themes": [
         "Results"
       ]
@@ -56,10 +65,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or fee structures. It signifies standard corporate governance compliance rather than any material change to the company's operations or financial position.",
+      "insight": "The AGM results follow the posting of the Annual Report in August. Shareholders should monitor subsequent filings for any governance changes.",
       "key_themes": [
         "Governance",
-        "Shareholder approval"
+        "AGM"
       ]
     },
     {
@@ -70,10 +79,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies the standard procedural step of making annual reports and meeting notices available to shareholders. It indicates that a general meeting is scheduled but does not disclose any specific resolutions or outcomes that would materially affect share value.",
+      "insight": "Shareholders should note the posting of the Annual Report following the June results. The July Peak Nickel update may provide context for the upcoming AGM proceedings.",
       "key_themes": [
         "Governance",
-        "Shareholder Meeting"
+        "Results"
       ]
     },
     {
@@ -109,7 +118,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies the publication of final results for the reporting period, providing shareholders with the audited financial performance and position of the company.",
+      "insight": "Ormonde Mining (CDI) has released its final results. Shareholders should review these figures for performance indicators.",
       "key_themes": [
         "Results"
       ]

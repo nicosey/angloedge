@@ -2,9 +2,31 @@
   "name": "Fidelity European Trust",
   "ticker": "FEV",
   "slug": "fidelity-european-trust-fev",
-  "announcement_count": 70,
-  "latest_announcement": "2026-11-20T17:04:00",
+  "announcement_count": 72,
+  "latest_announcement": "2026-11-27T15:03:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T15:03:00",
+      "category": null,
+      "headline": "Monthly Factsheet",
+      "url": "https://www.investegate.co.uk/announcement/prn/fidelity-european-trust--fev/monthly-factsheet/9898181",
+      "routine_type": "Portfolio Disclosure",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-26T17:10:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/prn/fidelity-european-trust--fev/transaction-in-own-shares/9896466",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T17:04:00",
       "category": null,
@@ -123,10 +145,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into the company's operational performance but confirms insider transparency.",
+      "insight": "Director dealings are routine governance updates. Shareholders should monitor subsequent portfolio managers' updates for investment strategy changes.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Director Dealing"
       ]
     },
     {
@@ -324,7 +346,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement indicates a change in the board composition, which is a standard governance update. It signifies an adjustment to the leadership structure but does not inherently imply a strategic shift or material financial impact.",
+      "insight": "A board change occurs following recent portfolio updates. Shareholders should monitor how this appointment affects future management strategy.",
       "key_themes": [
         "Governance",
         "Board Change"
@@ -436,11 +458,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/fidelity-european-trust--fev/portfolio-managers-update/9760086",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement provides a scheduled update from portfolio managers, which is a routine communication for investment trusts that offers insight into fund management but does not indicate immediate financial or strategic changes.",
+      "impact_score": 3,
+      "insight": "Portfolio Managers' Update follows the September dividend declaration. Shareholders should monitor for subsequent financial performance disclosures.",
       "key_themes": [
-        "Management Update",
-        "Investment Trust"
+        "Dividend",
+        "Update"
       ]
     },
     {
@@ -451,10 +473,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a standard dividend declaration, which is typically classified as a routine corporate action with limited immediate strategic impact. It confirms the distribution of profits to shareholders but does not indicate any change in business direction or financial health.",
+      "insight": "A dividend declaration has been made. This is a routine income distribution event for shareholders.",
       "key_themes": [
-        "Dividend",
-        "Shareholder return"
+        "Dividend"
       ]
     },
     {

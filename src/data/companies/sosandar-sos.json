@@ -2,9 +2,20 @@
   "name": "Sosandar",
   "ticker": "SOS",
   "slug": "sosandar-sos",
-  "announcement_count": 18,
-  "latest_announcement": "2026-11-23T07:00:00",
+  "announcement_count": 19,
+  "latest_announcement": "2026-11-26T18:01:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T18:01:00",
+      "category": null,
+      "headline": "Transaction in Own Shares and Total Voting Rights",
+      "url": "https://www.investegate.co.uk/announcement/rns/sosandar--sos/transaction-in-own-shares-and-total-voting-rights/9896504",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T07:00:00",
       "category": null,
@@ -45,11 +56,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/sosandar--sos/notice-of-results-and-investor-presentation/9819246",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement indicates that scheduled financial results and an accompanying investor presentation are forthcoming, signaling a routine update on the company's performance without revealing specific outcomes or guidance changes in the headline.",
+      "impact_score": 3,
+      "insight": "Sosandar has issued a notice of results and investor presentation. This follows its appointment of a nominated adviser in June.",
       "key_themes": [
-        "Results",
-        "Investor Relations"
+        "Results"
       ]
     },
     {
@@ -82,10 +92,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of shareholder votes at the Annual General Meeting, which typically involves routine governance matters such as director reappointments or auditor appointments. It provides transparency on how shareholders have exercised their voting rights but does not indicate any immediate strategic or financial changes.",
+      "insight": "The AGM results follow the August notice. Shareholders should monitor subsequent filings for any resolutions passed.",
       "key_themes": [
         "Governance",
-        "Shareholder Vote",
         "AGM"
       ]
     },
@@ -119,10 +128,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies the scheduling of a standard annual general meeting, which is a routine governance event for shareholders. It typically involves the approval of accounts and director re-elections rather than material corporate changes.",
+      "insight": "Sosandar posts its Annual Report and Notice of AGM following recent results. Shareholders should note the upcoming meeting date.",
       "key_themes": [
         "Governance",
-        "AGM"
+        "Results"
       ]
     },
     {
@@ -176,11 +185,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/sosandar--sos/notice-of-results-investor-presentation/9637346",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement indicates that scheduled financial results and an accompanying investor presentation are forthcoming, signaling a routine update for shareholders regarding the company's performance.",
+      "impact_score": 3,
+      "insight": "Sosandar has issued a notice regarding results and an investor presentation. Shareholders should watch for the subsequent release of financial data.",
       "key_themes": [
-        "Results",
-        "Investor Relations"
+        "Results"
       ]
     },
     {
@@ -191,10 +199,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This appointment signifies a structural change in the company's advisory relationships, which may facilitate future capital raising or transactional activities. It represents a standard governance update that informs shareholders of the current professional support structure.",
+      "insight": "Sosandar appoints a nominated adviser and broker. This board change may signal upcoming strategic developments for shareholders to monitor.",
       "key_themes": [
         "Governance",
-        "Advisory"
+        "Corporate Action"
       ]
     },
     {

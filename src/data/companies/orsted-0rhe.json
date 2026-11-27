@@ -2,9 +2,23 @@
   "name": "Orsted A/S",
   "ticker": "0RHE",
   "slug": "orsted-0rhe",
-  "announcement_count": 6,
-  "latest_announcement": "2026-10-29T07:00:00",
+  "announcement_count": 7,
+  "latest_announcement": "2026-11-27T08:52:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T08:52:00",
+      "category": null,
+      "headline": "Ørsted’s financial calendar 2027",
+      "url": "https://www.investegate.co.uk/announcement/eqs/orsted-a-s--0rhe/-rsted-s-financial-calendar-2027/9897615",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Ørsted published its financial calendar for 2027. This follows the Q3 2026 results presentation scheduled for November.",
+      "key_themes": [
+        "Results",
+        "Corporate actions"
+      ]
+    },
     {
       "timestamp": "2026-10-29T07:00:00",
       "category": "Results",
@@ -27,10 +41,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "This announcement signifies a material acquisition that consolidates full ownership of specific assets, likely impacting the company's capital allocation and future revenue streams from these holdings.",
+      "insight": "Full ownership of Gunfleet Sands 1 & 2 follows recent operational progress. This consolidation strengthens control over UK assets.",
       "key_themes": [
-        "Acquisition",
-        "Asset consolidation"
+        "Asset acquisition",
+        "Operational update"
       ]
     },
     {
@@ -40,12 +54,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/orsted-a-s--0rhe/major-shareholder-announcement/9763045",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "A major shareholder announcement typically signals a significant change in ownership structure or control, which can materially affect governance and share price dynamics. This type of disclosure often indicates a formal sale process, a substantial stake acquisition, or a strategic review by key investors.",
+      "impact_score": 3,
+      "insight": "Shareholders should monitor this major shareholder announcement for potential changes in ownership structure following recent operational updates.",
       "key_themes": [
         "Governance",
-        "Ownership Change",
-        "Strategic Review"
+        "Ownership"
       ]
     },
     {
@@ -69,8 +82,8 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/orsted-a-s--0rhe/-rsted-continues-its-strategic-progress-deli-/9719345",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This headline indicates a scheduled update confirming that operational performance is solid and financial guidance targets are being met. Such updates generally signify stability to shareholders but lack the transformative catalysts required for higher impact scores.",
+      "impact_score": 5,
+      "insight": "Following the Q2 results presentation notice, this update confirms operational performance and progress toward 2026 financial guidance.",
       "key_themes": [
         "Results",
         "Guidance"
@@ -84,10 +97,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement serves as a notice of the date for the upcoming results presentation, which is a standard administrative update. It does not provide any financial data or performance indicators to assess shareholder value at this time.",
+      "insight": "The company has scheduled its Q2 2026 results presentation for 13 August. Shareholders should watch for this upcoming financial disclosure.",
       "key_themes": [
-        "Results",
-        "Corporate Action"
+        "Results"
       ]
     }
   ]

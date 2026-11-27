@@ -2,9 +2,34 @@
   "name": "KR1 Plc",
   "ticker": "KR1",
   "slug": "kr1-kr1",
-  "announcement_count": 12,
-  "latest_announcement": "2026-11-26T12:27:00",
+  "announcement_count": 14,
+  "latest_announcement": "2026-11-27T14:12:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T14:12:00",
+      "category": "Director Dealing",
+      "headline": "Director / PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/kr1-plc--kr1/director-pdmr-shareholding-/9898080",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Director dealings are routine governance updates. Shareholders should monitor future filings for any significant changes in insider ownership following recent infrastructure launches.",
+      "key_themes": [
+        "Governance",
+        "Insider Activity"
+      ]
+    },
+    {
+      "timestamp": "2026-11-27T14:06:00",
+      "category": null,
+      "headline": "TR-1: Notification of Major Holdings",
+      "url": "https://www.investegate.co.uk/announcement/rns/kr1-plc--kr1/tr-1-notification-of-major-holdings-/9898069",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-26T12:27:00",
       "category": "AGM/EGM",
@@ -27,10 +52,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "The launch of new operations signifies a strategic milestone that may indicate business expansion or revenue generation potential for shareholders.",
+      "insight": "KR1 Plc launches DIEM Infrastructure Operations, following its October Bittensor launch. This expands its infrastructure income holdings.",
       "key_themes": [
-        "Operational Launch",
-        "Business Development"
+        "Infrastructure",
+        "Operations"
       ]
     },
     {
@@ -69,10 +94,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a new operational initiative but lacks specific details regarding financial impact or strategic significance for shareholders. Without further information on scale or expected returns, it represents a standard business development rather than a material event.",
+      "insight": "KR1 Plc launches dedicated Ethereum validators following its interim results. This operational update follows recent income reports and investor materials.",
       "key_themes": [
-        "Operational Update",
-        "Technology Launch"
+        "Operations",
+        "Technology"
       ]
     },
     {
@@ -82,11 +107,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/kr1-plc--kr1/publication-of-new-investor-materials/9812294",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement signifies the release of marketing or informational materials for investors, which is typically administrative housekeeping with no direct financial impact on shareholders.",
+      "impact_score": 3,
+      "insight": "KR1 Plc updates investors following its September interim results. This likely supports ongoing income reporting.",
       "key_themes": [
         "Investor Relations",
-        "Housekeeping"
+        "Income"
       ]
     },
     {
@@ -125,10 +150,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement appears to be a periodic update regarding infrastructure income and holdings, likely serving as an administrative report for shareholders. It does not indicate any immediate strategic shifts or material financial events.",
+      "insight": "KR1 Plc issued its monthly Infrastructure Income & Holdings update for July 2026, continuing the series started in May. This routine reporting provides ongoing performance data to shareholders.",
       "key_themes": [
-        "Income Update",
-        "Holdings Report"
+        "Results",
+        "Reporting"
       ]
     },
     {
@@ -166,11 +191,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/kr1-plc--kr1/infrastructure-income-holdings-april-26-/9590921",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement appears to be a periodic report or update regarding infrastructure income and holdings for April 2026. It likely provides routine performance data rather than signaling a material corporate event or strategic shift.",
+      "impact_score": 1,
+      "insight": "This appears to be an administrative filing regarding infrastructure holdings. Shareholders should monitor future announcements for substantive corporate developments.",
       "key_themes": [
-        "Income Report",
-        "Periodic Update"
+        "Corporate governance",
+        "Asset management"
       ]
     }
   ]

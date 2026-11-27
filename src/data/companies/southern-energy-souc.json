@@ -2,9 +2,23 @@
   "name": "Southern Energy Corp. NPV (DI)",
   "ticker": "SOUC",
   "slug": "southern-energy-souc",
-  "announcement_count": 3,
-  "latest_announcement": "2026-09-04T07:00:00",
+  "announcement_count": 4,
+  "latest_announcement": "2026-11-27T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T07:00:00",
+      "category": null,
+      "headline": "RESTRICTED SHARE AWARD GRANT",
+      "url": "https://www.investegate.co.uk/announcement/rns/southern-energy-corp-npv-di---souc/restricted-share-award-grant-/9896632",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Southern Energy Corp. NPV (DI) issued a restricted share award grant following its Q2 results. This aligns with standard executive compensation practices rather than strategic shifts.",
+      "key_themes": [
+        "Governance",
+        "Executive Compensation"
+      ]
+    },
     {
       "timestamp": "2026-09-04T07:00:00",
       "category": null,
@@ -13,10 +27,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a restricted share award grant, which is typically an administrative action related to employee compensation or incentive schemes. It generally signifies governance activity rather than a material financial event for shareholders.",
+      "insight": "Southern Energy Corp. NPV (DI) grants restricted shares, likely aligning management incentives following its recent Q2 results.",
       "key_themes": [
         "Governance",
-        "Shareholder Rights"
+        "Incentives"
       ]
     },
     {
@@ -27,7 +41,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies the release of scheduled financial and operating results for the specified period, which is a standard regulatory disclosure providing shareholders with performance data.",
+      "insight": "Southern Energy Corp. NPV (DI) reports Q2 2026 financial results following its August operations update.",
       "key_themes": [
         "Results"
       ]
@@ -39,11 +53,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/southern-energy-corp-npv-di---souc/operations-update/9717518",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "An operations update typically provides shareholders with a progress report on business activities, though the headline does not indicate whether the news is positive or negative.",
+      "impact_score": 3,
+      "insight": "Southern Energy Corp. NPV (DI) (SOUC) has issued an operations update. Shareholders should monitor for further details regarding operational changes.",
       "key_themes": [
-        "Operations Update",
-        "Corporate Reporting"
+        "Operations"
       ]
     }
   ]

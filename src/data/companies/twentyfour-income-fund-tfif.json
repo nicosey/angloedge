@@ -2,9 +2,20 @@
   "name": "Twentyfour Income Fund Limited Ord Red",
   "ticker": "TFIF",
   "slug": "twentyfour-income-fund-tfif",
-  "announcement_count": 28,
-  "latest_announcement": "2026-11-13T16:20:00",
+  "announcement_count": 29,
+  "latest_announcement": "2026-11-27T16:05:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T16:05:00",
+      "category": null,
+      "headline": "Issue of Equity",
+      "url": "https://www.investegate.co.uk/announcement/prn/twentyfour-income-fund-limited-ord-red--tfif/issue-of-equity/9898284",
+      "routine_type": "Block Listing / Admission",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-13T16:20:00",
       "category": null,
@@ -101,11 +112,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of shareholder votes held at the Annual General Meeting, which typically involves routine governance matters such as director reappointments and auditor ratifications.",
+      "insight": "The meeting results follow recent director dealings and dividend corrections. Shareholders should monitor subsequent corporate actions for further developments.",
       "key_themes": [
         "Governance",
-        "Shareholder Vote",
-        "AGM"
+        "Dividend"
       ]
     },
     {
@@ -226,7 +236,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director has engaged in a transaction involving the company's shares, which is a routine regulatory disclosure. It provides limited insight into the company's operational performance or strategic direction.",
+      "insight": "Director Dealing involves personal transactions by insiders. This is routine governance activity unrelated to the recent dividend correction or final results.",
       "key_themes": [
         "Governance",
         "Director Dealing"
@@ -240,7 +250,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This correction to a dividend announcement indicates an administrative adjustment to previously declared income distributions. Shareholders should review the corrected details to ensure accurate tax reporting and payment expectations.",
+      "insight": "TFIF issued a correction to its dividend announcement. This follows the June results notice, ensuring accurate shareholder information.",
       "key_themes": [
         "Dividend",
         "Correction"

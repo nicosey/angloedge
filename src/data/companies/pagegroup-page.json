@@ -2,9 +2,20 @@
   "name": "Pagegroup",
   "ticker": "PAGE",
   "slug": "pagegroup-page",
-  "announcement_count": 8,
-  "latest_announcement": "2026-10-20T15:24:00",
+  "announcement_count": 9,
+  "latest_announcement": "2026-11-27T12:40:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T12:40:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/pagegroup--page/holding-s-in-company/9897952",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-10-20T15:24:00",
       "category": "Director Dealing",
@@ -13,10 +24,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies standard regulatory disclosure of insider share transactions, which provides transparency into director holdings but typically carries limited immediate financial impact for general shareholders.",
+      "insight": "Director dealing activity is routine governance. Shareholders should monitor upcoming trading updates for performance signals.",
       "key_themes": [
         "Governance",
-        "Director dealings"
+        "Trading Update"
       ]
     },
     {
@@ -27,10 +38,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement indicates a scheduled update on the company's trading performance for the third quarter of 2026. It signifies that financial results or operational metrics will be disclosed to shareholders at a future date.",
+      "insight": "PageGroup issues a third quarter trading update following its second quarter update and half year results. This continues the regular reporting cycle without indicating a strategic shift.",
       "key_themes": [
         "Trading Update",
-        "Results"
+        "Governance"
       ]
     },
     {
@@ -41,10 +52,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "The appointment of a new Chair represents a significant change in senior leadership and corporate governance. This type of departure typically signals a shift in strategic oversight or board dynamics that warrants shareholder attention.",
+      "insight": "Appointment of a new Chair follows the planned rebrand to Michael Page. This governance change accompanies the ongoing strategic transformation.",
       "key_themes": [
         "Governance",
-        "Leadership Change"
+        "Strategy"
       ]
     },
     {
@@ -55,10 +66,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement serves as a notice of the date for the upcoming half-year results, indicating a scheduled reporting event rather than disclosing financial performance or strategic changes at this stage.",
+      "insight": "PageGroup has scheduled its 2026 Half Year Results. This follows the Q2 trading update and rebrand announcement in July.",
       "key_themes": [
         "Results",
-        "Corporate Governance"
+        "Corporate updates"
       ]
     },
     {
@@ -69,10 +80,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a corporate rebranding initiative, which is typically an administrative or marketing action rather than a fundamental change in financial performance or ownership structure. Shareholders should view this as a branding update with no immediate material impact on valuation.",
+      "insight": "PageGroup plans a rebrand to Michael Page. This follows earlier governance filings and a trading update in July 2026.",
       "key_themes": [
-        "Rebrand",
-        "Corporate Action"
+        "Governance",
+        "Corporate actions"
       ]
     },
     {
@@ -83,10 +94,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement indicates that the company is scheduled to release its interim financial performance for the second quarter of 2026. It signifies a routine reporting event where shareholders can assess recent operational progress, though the headline does not reveal whether the results will be positive or negative.",
+      "insight": "PageGroup issues a second quarter trading update. This follows an AGM result in May and a director declaration in June.",
       "key_themes": [
-        "Results",
-        "Trading Update"
+        "Trading Update",
+        "Governance"
       ]
     },
     {
@@ -97,10 +108,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement typically signifies routine regulatory compliance regarding director holdings or interests rather than a strategic corporate event. It generally has minimal immediate impact on shareholder value unless it reveals significant changes in insider sentiment.",
+      "insight": "PageGroup filed a director declaration following its AGM results. Shareholders should monitor for subsequent board changes or insider trading disclosures.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Director dealings"
       ]
     },
     {
@@ -111,10 +122,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of the Annual General Meeting, which typically involves routine shareholder approvals such as director reappointments and auditor appointments. It signifies standard corporate governance compliance rather than a material change in the company's strategic or financial position.",
+      "insight": "The AGM results are published. Shareholders should monitor subsequent filings for any further corporate actions or governance updates.",
       "key_themes": [
         "Governance",
-        "Shareholder approval"
+        "AGM"
       ]
     }
   ]

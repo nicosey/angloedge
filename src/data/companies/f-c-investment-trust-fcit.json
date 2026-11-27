@@ -2,9 +2,20 @@
   "name": "F&C Investment Trust",
   "ticker": "FCIT",
   "slug": "f-c-investment-trust-fcit",
-  "announcement_count": 59,
-  "latest_announcement": "2026-11-25T12:36:00",
+  "announcement_count": 60,
+  "latest_announcement": "2026-11-26T17:27:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T17:27:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/f-c-investment-trust--fcit/transaction-in-own-shares/9896486",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-25T12:36:00",
       "category": "Director Dealing",
@@ -126,10 +137,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into future performance but confirms compliance with insider dealing regulations.",
+      "insight": "Director shareholding details are reported. This follows recent portfolio updates and dividend declarations in August, September, October, and late October.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Dividend"
       ]
     },
     {
@@ -140,10 +151,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into future performance but confirms compliance with insider dealing regulations.",
+      "insight": "Director/PDMR Shareholding updates track insider activity. This follows earlier portfolio and dividend announcements.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Insider Activity"
       ]
     },
     {
@@ -234,10 +245,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in corporate strategy or financial performance.",
+      "insight": "Director/PDMR Shareholding filings record individual transactions. This follows earlier financial reports and dividend declarations.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Director dealings"
       ]
     },
     {
@@ -247,11 +258,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/f-c-investment-trust--fcit/portfolio-update/9802357",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement provides a scheduled update on the portfolio composition or performance, which is routine for investment trusts but offers insight into current holdings without indicating specific directional changes.",
+      "impact_score": 3,
+      "insight": "The portfolio update follows earlier directorate changes and half-year results. Shareholders should monitor subsequent dividend declarations for further developments.",
       "key_themes": [
-        "Portfolio Update",
-        "Investment Trust"
+        "Portfolio",
+        "Governance"
       ]
     },
     {
@@ -306,10 +317,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a standard dividend declaration, which is typically classified as a routine corporate action with limited immediate strategic impact. It confirms the payment of income to shareholders but does not indicate any major financial shifts or operational changes.",
+      "insight": "A dividend declaration follows the half-year financial report from August. Shareholders should monitor subsequent portfolio updates for context.",
       "key_themes": [
         "Dividend",
-        "Shareholder Return"
+        "Governance"
       ]
     },
     {
@@ -386,10 +397,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement provides a scheduled update on the portfolio composition or performance, which is routine for investment trusts but offers insight into current holdings without indicating specific directional changes.",
+      "insight": "Portfolio Update follows the August Half-year Financial Report. Shareholders should monitor subsequent filings for performance context.",
       "key_themes": [
-        "Portfolio Update",
-        "Investment Trust"
+        "Results",
+        "Governance"
       ]
     },
     {
@@ -444,10 +455,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies standard regulatory disclosure of shareholding changes by directors or persons discharging managerial responsibilities. It provides transparency regarding insider transactions but does not inherently indicate a change in corporate strategy or financial performance.",
+      "insight": "Director shareholding disclosures follow recent dividend declarations and a half-year report. Shareholders should monitor subsequent director dealings for further signals.",
       "key_themes": [
         "Governance",
-        "Director dealings"
+        "Dividend"
       ]
     },
     {
@@ -458,7 +469,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a standard governance disclosure. It provides limited insight into future performance but confirms insider activity.",
+      "insight": "Director shareholdings are reported following recent dividend declarations and a half-year financial report. This routine disclosure reflects standard governance compliance rather than strategic shifts.",
       "key_themes": [
         "Governance",
         "Director Dealing"
@@ -483,10 +494,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This scheduled half-year financial report provides shareholders with essential performance data for the first six months of the fiscal year. The specific direction of results or strategic implications cannot be determined from the headline alone.",
+      "insight": "Half-year financial results are released following June dividend declarations. Shareholders should monitor the portfolio update for performance context.",
       "key_themes": [
         "Results",
-        "Financial Reporting"
+        "Dividends"
       ]
     },
     {
@@ -497,7 +508,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement indicates a change in the board composition, which is a standard governance event for investment trusts. It signifies an update to the leadership structure but does not inherently imply a strategic shift or material financial impact.",
+      "insight": "Directorate change follows recent dividend declarations and portfolio updates. Shareholders should monitor how this governance shift affects future investment strategy.",
       "key_themes": [
         "Governance",
         "Board Change"
@@ -566,10 +577,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that confirm insider activity but do not inherently signal a change in strategy or performance.",
+      "insight": "F&C Investment Trust filed another director shareholding update in July. This follows earlier holdings disclosures in June.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Director dealings"
       ]
     },
     {
@@ -580,10 +591,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically indicates routine compliance reporting of share transactions by individuals with managerial responsibilities. Such filings generally have minimal immediate impact on shareholder value unless they signal a significant shift in insider sentiment.",
+      "insight": "Director shareholding updates follow recent dividend declarations. Shareholders should monitor for further changes in insider positions.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Dividend"
       ]
     },
     {
@@ -627,10 +638,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a correction to a previously issued dividend declaration, suggesting an administrative adjustment rather than a change in financial performance. It signifies that the company is maintaining its commitment to shareholder returns while rectifying prior documentation.",
+      "insight": "A replacement dividend declaration follows the June filing. Shareholders should monitor for any further adjustments to this distribution.",
       "key_themes": [
         "Dividend",
-        "Administrative"
+        "Corporate Action"
       ]
     },
     {
@@ -641,10 +652,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a standard dividend declaration, which is a routine corporate action providing income to shareholders without indicating major strategic shifts or financial distress.",
+      "insight": "A dividend declaration follows recent portfolio updates. Shareholders should monitor subsequent filings for payment details.",
       "key_themes": [
         "Dividend",
-        "Shareholder Return"
+        "Governance"
       ]
     },
     {
@@ -654,11 +665,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/f-c-investment-trust--fcit/portfolio-update/9628498",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement provides a scheduled update on the portfolio composition, which is routine for investment trusts but does not disclose performance direction or specific changes.",
+      "impact_score": 3,
+      "insight": "F&C Investment Trust provides a portfolio update following recent director shareholding disclosures in June. Shareholders should monitor subsequent filings for further governance or investment activity.",
       "key_themes": [
         "Portfolio Update",
-        "Investment Trust"
+        "Governance"
       ]
     },
     {
@@ -669,7 +680,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It generally signifies standard regulatory compliance rather than a material change in the company's strategic direction or financial health.",
+      "insight": "F&C Investment Trust filed a director shareholding update. This follows an earlier filing in June 2026, indicating ongoing monitoring of insider positions.",
       "key_themes": [
         "Governance",
         "Director Dealings"
@@ -683,7 +694,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into the company's operational performance but may signal individual confidence or lack thereof depending on the nature of the deal.",
+      "insight": "Director dealings are recorded. Shareholders should monitor for subsequent filings indicating the scale or intent of these transactions.",
       "key_themes": [
         "Governance",
         "Director Dealing"

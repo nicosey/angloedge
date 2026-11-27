@@ -2,9 +2,23 @@
   "name": "GCM Resources",
   "ticker": "GCM",
   "slug": "gcm-resources-gcm",
-  "announcement_count": 7,
-  "latest_announcement": "2026-11-26T12:45:00",
+  "announcement_count": 8,
+  "latest_announcement": "2026-11-27T16:25:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T16:25:00",
+      "category": null,
+      "headline": "Suspension of CEO & Requisition Letter",
+      "url": "https://www.investegate.co.uk/announcement/rns/gcm-resources--gcm/suspension-of-ceo-requisition-letter/9898294",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 8,
+      "insight": "GCM Resources has suspended its CEO following a Letter Before Claim. Shareholders should monitor further legal developments.",
+      "key_themes": [
+        "Governance",
+        "Legal"
+      ]
+    },
     {
       "timestamp": "2026-11-26T12:45:00",
       "category": "Director Dealing",
@@ -26,12 +40,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/gcm-resources--gcm/further-update-on-receipt-of-letter-before-claim/9870388",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This update signifies ongoing legal proceedings where a claim has been initiated against the company, which may result in financial liability or reputational risk. Shareholders should monitor future disclosures for details on the claim's merits and potential settlement terms.",
+      "impact_score": 5,
+      "insight": "GCM provides a further update on the Letter Before Claim received in October. Shareholders should monitor subsequent legal developments following this initial notification.",
       "key_themes": [
         "Legal",
-        "Litigation",
-        "Risk"
+        "Governance"
       ]
     },
     {
@@ -41,11 +54,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/gcm-resources--gcm/update-on-receipt-of-letter-before-claim/9856595",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This announcement indicates the initiation of legal proceedings against the company, which introduces litigation risk and potential financial liability for shareholders. The outcome is uncertain, but such claims can significantly impact reputation and future operations.",
+      "impact_score": 5,
+      "insight": "GCM Resources updates on a Letter Before Claim received in October. This follows an equity issue in August and director shareholding disclosures.",
       "key_themes": [
-        "Litigation",
-        "Legal Risk"
+        "Legal",
+        "Capital raise"
       ]
     },
     {
@@ -70,10 +83,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in corporate strategy or financial performance.",
+      "insight": "Director dealings follow the August warrant exercise. Shareholders should monitor if this indicates confidence in the post-issuance share price.",
       "key_themes": [
         "Governance",
-        "Director dealings"
+        "Capital raise"
       ]
     },
     {
@@ -84,10 +97,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies a capital event involving the exercise of warrants and the subsequent issuance of new equity, which typically results in share dilution for existing shareholders. The specific financial impact depends on the number of shares issued relative to the current share count, which is not disclosed in the headline.",
+      "insight": "GCM Resources issued equity following warrants exercise. This follows a prior government commentary statement in August 2026.",
       "key_themes": [
         "Capital raise",
-        "Dilution",
         "Corporate action"
       ]
     },
@@ -99,10 +111,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement likely addresses external commentary regarding the company, which may influence market sentiment but does not inherently indicate a change in operational performance or corporate structure.",
+      "insight": "GCM Resources addresses government commentary. Shareholders should monitor subsequent filings for concrete operational or financial implications.",
       "key_themes": [
-        "Governance",
-        "Public Relations"
+        "Regulatory",
+        "Government"
       ]
     }
   ]

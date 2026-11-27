@@ -2,9 +2,20 @@
   "name": "Motorpoint Group",
   "ticker": "MOTR",
   "slug": "motorpoint-group-motr",
-  "announcement_count": 10,
-  "latest_announcement": "2026-11-17T12:43:00",
+  "announcement_count": 11,
+  "latest_announcement": "2026-11-27T15:25:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T15:25:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/motorpoint-group--motr/holding-s-in-company/9898242",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-17T12:43:00",
       "category": null,
@@ -24,10 +35,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically indicates routine changes in shareholding by individuals with senior management responsibilities. Such disclosures are standard regulatory requirements and generally carry low immediate impact on shareholder value unless accompanied by unusual volume or context.",
+      "insight": "Director/PDMR Dealings follows earlier FY results and AGM outcomes. This routine filing updates shareholding records without indicating strategic shifts.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Director dealings"
       ]
     },
     {
@@ -85,10 +96,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has executed a transaction in the company's shares. Such dealings are routine regulatory disclosures and generally do not signal a specific strategic shift or material change in value on their own.",
+      "insight": "Director dealings follow the FY26 results and AGM. Shareholders should monitor for further insider activity signals.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Insider Dealing"
       ]
     },
     {
@@ -99,10 +110,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of the Annual General Meeting, which typically involves routine shareholder approvals such as director reappointments and auditor appointments. It signifies standard corporate governance compliance rather than any material strategic or financial change.",
+      "insight": "Shareholders should note the AGM results follow the FY26 Annual Report. This confirms routine governance matters were addressed.",
       "key_themes": [
         "Governance",
-        "Shareholder approval"
+        "AGM"
       ]
     },
     {
@@ -123,8 +134,8 @@
       "url": "https://www.investegate.co.uk/announcement/rns/motorpoint-group--motr/fy26-annual-report-and-accounts-and-notice-of-agm/9634450",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement signifies the publication of annual financial results and the convening of a general meeting for shareholder consideration. It provides standard governance updates and performance data without indicating any immediate strategic shifts or material events.",
+      "impact_score": 3,
+      "insight": "Motorpoint Group has published its FY26 Annual Report and Accounts alongside the Notice of AGM. Shareholders should review the filing for governance updates and voting requirements.",
       "key_themes": [
         "Results",
         "Governance"

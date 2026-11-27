@@ -2,9 +2,31 @@
   "name": "Mitie Group",
   "ticker": "MTO",
   "slug": "mitie-group-mto",
-  "announcement_count": 77,
-  "latest_announcement": "2026-11-24T12:30:00",
+  "announcement_count": 79,
+  "latest_announcement": "2026-11-27T13:01:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T13:01:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/mitie-group--mto/holding-s-in-company/9897977",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-27T13:00:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/mitie-group--mto/holding-s-in-company/9897975",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-24T12:30:00",
       "category": null,
@@ -67,8 +89,8 @@
       "url": "https://www.investegate.co.uk/announcement/rns/mitie-group--mto/offer-update-/9879607",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "An 'Offer update' typically signifies a formal sale process or potential acquisition activity involving the company. This type of announcement is significant for shareholders as it may lead to a change in control or substantial value realization.",
+      "impact_score": 9,
+      "insight": "Mitie Group issued an offer update following shareholder meetings in September. This suggests a transaction is progressing toward finalization.",
       "key_themes": [
         "M&A",
         "Corporate action"
@@ -246,12 +268,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/mitie-group--mto/update-on-regulatory-conditions/9836104",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement likely provides an update on compliance with regulatory requirements, which is significant for governance but lacks specific details on financial or operational impact in the headline.",
+      "impact_score": 7,
+      "insight": "Mitie Group provides an update on regulatory conditions following shareholder meetings in September. This suggests progress toward a potential offer or transaction requiring formal approval.",
       "key_themes": [
-        "Regulatory",
-        "Governance",
-        "Compliance"
+        "M&A",
+        "Regulatory"
       ]
     },
     {
@@ -272,12 +293,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/mitie-group--mto/update-on-regulatory-conditions-/9833749",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This announcement likely addresses compliance with regulatory requirements, which is critical for maintaining operational licenses and avoiding potential sanctions. Shareholders should monitor the outcome to assess any risks to the company's standing or future operations.",
+      "impact_score": 8,
+      "insight": "Following the August offer update and September shareholder meetings, this regulatory condition update is a critical next step in the transaction process for shareholders.",
       "key_themes": [
-        "Regulatory",
-        "Compliance",
-        "Governance"
+        "M&A",
+        "Regulatory"
       ]
     },
     {
@@ -299,10 +319,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which are typically considered low-impact administrative disclosures for shareholders. It signifies standard regulatory compliance regarding insider shareholding changes rather than strategic corporate developments.",
+      "insight": "Director shareholdings are reported following the offer update and shareholder meetings. This reflects standard compliance rather than a strategic shift.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "M&A"
       ]
     },
     {
@@ -448,10 +468,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that shareholder meetings have concluded, which is a routine governance event. It does not convey specific financial performance or strategic changes from the headline alone.",
+      "insight": "Shareholder meetings followed the August offer update. Governance changes continue alongside director shareholding disclosures.",
       "key_themes": [
         "Governance",
-        "Shareholder Meetings"
+        "Offer"
       ]
     },
     {
@@ -473,10 +493,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into the company's operational performance but may signal individual confidence or lack thereof to shareholders.",
+      "insight": "Director shareholdings are recorded alongside an offer update. Shareholders should monitor subsequent filings for details on the offer's progress.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "M&A"
       ]
     },
     {
@@ -519,11 +539,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/mitie-group--mto/director-pdmr-shareholding/9759616",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which generally signifies routine changes in shareholding by individuals with senior management responsibilities. Such disclosures are standard governance requirements and typically have limited immediate impact on shareholder value unless they indicate a significant shift in insider sentiment.",
+      "impact_score": 4,
+      "insight": "Director shareholdings are reported following an offer update in August. Shareholders should monitor subsequent filings for further transaction details.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "M&A"
       ]
     },
     {
@@ -545,10 +565,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such filings are routine regulatory disclosures that provide transparency into insider trading activity but typically do not signal immediate strategic changes.",
+      "insight": "Director/PDMR Shareholding filings follow an offer update in August. These routine disclosures track insider activity without indicating strategic shifts.",
       "key_themes": [
         "Governance",
-        "Director dealings"
+        "Insider Dealing"
       ]
     },
     {
@@ -558,11 +578,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/mitie-group--mto/offer-update/9746440",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "An 'Offer update' typically signifies a development in a potential takeover bid or formal sale process, which is a material event for shareholders as it may lead to a change in control or a premium on the share price.",
+      "impact_score": 8,
+      "insight": "Mitie Group provides an update on its offer process. This follows earlier confirmations regarding Marlowe and director shareholding changes.",
       "key_themes": [
         "M&A",
-        "Corporate action"
+        "Governance"
       ]
     },
     {
@@ -617,10 +637,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director share dealings, which typically indicates routine transactions by individuals with managerial responsibilities. Such disclosures are standard governance requirements and generally carry low immediate financial impact for shareholders.",
+      "insight": "Mitie Group filed director shareholdings in July and August. These routine disclosures follow a directorship change earlier in August.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Director dealings"
       ]
     },
     {
@@ -631,7 +651,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director shareholding transactions, which are routine regulatory disclosures indicating changes in insider ownership rather than strategic corporate developments. Such filings generally have minimal immediate impact on shareholder value unless they signal a significant shift in management confidence.",
+      "insight": "Mitie Group reports director shareholdings, continuing a pattern seen in July and August. This routine disclosure provides limited immediate insight for shareholders.",
       "key_themes": [
         "Governance",
         "Director dealings"
@@ -667,10 +687,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically indicates routine transactions by individuals with responsibility for managing the company. Such disclosures are standard governance requirements and generally carry low immediate investment significance unless they signal unusual confidence or lack thereof.",
+      "insight": "Mitie Group filed another Director/PDMR Shareholding notice in August. This follows similar filings in July and earlier August dates.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Director dealings"
       ]
     },
     {
@@ -681,7 +701,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement indicates a change in the board composition, which is a standard governance event that may signal strategic shifts but lacks specific details on the nature or significance of the appointment.",
+      "insight": "Mitie Group announces a directorate change. This follows recent AGM results and shareholding disclosures, indicating routine governance updates rather than strategic shifts.",
       "key_themes": [
         "Governance",
         "Board Change"
@@ -717,10 +737,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically have a low immediate impact on shareholder value unless they signal significant changes in insider confidence. It serves as a routine disclosure of individual transactions rather than a corporate strategic event.",
+      "insight": "Director shareholding updates follow the recommended cash acquisition announcement in July. This confirms ongoing insider activity during the takeover process.",
       "key_themes": [
-        "Governance",
-        "Director Dealing"
+        "M&A",
+        "Governance"
       ]
     },
     {
@@ -763,11 +783,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/mitie-group--mto/rule-19-6-c-confirmation-with-regard-to-marlowe/9704117",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement serves as a regulatory confirmation regarding Rule 19.6(c), which typically relates to the disclosure of dealings in the company's shares by directors or their close associates. For shareholders, this indicates standard compliance with market abuse regulations rather than a strategic corporate event.",
+      "impact_score": 9,
+      "insight": "Mitie Group confirms a recommended cash acquisition following July announcements. This regulatory step advances the takeover process for shareholders.",
       "key_themes": [
-        "Governance",
-        "Regulatory Compliance"
+        "M&A",
+        "Corporate action"
       ]
     },
     {
@@ -822,9 +842,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into future performance but confirms compliance with insider dealing regulations.",
+      "insight": "Director dealing follows the recommended cash acquisition announced in July. Shareholders should monitor further developments regarding the offer.",
       "key_themes": [
-        "Director Dealing",
+        "M&A",
         "Governance"
       ]
     },
@@ -835,12 +855,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/mitie-group--mto/result-of-agm/9680223",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or statutory resolutions. It signifies standard corporate governance activity rather than any material change to the company's strategic direction or financial position.",
+      "impact_score": 9,
+      "insight": "Shareholders should expect a recommended cash acquisition to proceed following the July offer. The AGM results likely confirm shareholder approval for this transformative transaction.",
       "key_themes": [
-        "Governance",
-        "Shareholder approval",
-        "Corporate actions"
+        "M&A",
+        "Governance"
       ]
     },
     {
@@ -861,12 +880,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/mitie-group--mto/intention-to-suspend-share-buyback-programme/9678704",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "Suspending a share buyback programme typically indicates that management is pausing capital returns to shareholders, which may suggest a need to preserve liquidity or reassess valuation levels. This action removes a source of potential demand for the shares until the programme resumes.",
+      "impact_score": 9,
+      "insight": "The recommended cash acquisition follows the Q1 update. The intention to suspend the buyback aligns with this takeover process.",
       "key_themes": [
-        "Capital return",
-        "Shareholder value",
-        "Liquidity management"
+        "M&A",
+        "Capital return"
       ]
     },
     {
@@ -877,7 +895,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "A recommended cash acquisition headline signifies a definitive offer for the company, typically implying a premium price and a likely change of control for shareholders.",
+      "insight": "Mitie Group plc is subject to a recommended cash acquisition. Shareholders should monitor subsequent filings for offer terms and court sanction dates.",
       "key_themes": [
         "M&A",
         "Takeover"
@@ -891,10 +909,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This trading update provides an interim performance review for the first quarter of the financial year. The headline does not indicate whether the results are positive or negative, so the specific impact on shareholder value remains unclear.",
+      "insight": "Mitie Group issued a Q1 FY27 trading update following its June 2026 annual report. Shareholders should monitor for subsequent quarterly updates to track performance trends.",
       "key_themes": [
         "Trading Update",
-        "Interim Results"
+        "Results"
       ]
     },
     {
@@ -916,7 +934,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies the release of scheduled annual financial results, which is a routine disclosure for shareholders. The headline does not indicate the direction or magnitude of the performance, nor any specific strategic changes.",
+      "insight": "Mitie Group has published its Annual Financial Report. Shareholders should review the filing for performance details.",
       "key_themes": [
         "Results"
       ]

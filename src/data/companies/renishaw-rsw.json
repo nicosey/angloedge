@@ -2,9 +2,23 @@
   "name": "Renishaw",
   "ticker": "RSW",
   "slug": "renishaw-rsw",
-  "announcement_count": 5,
-  "latest_announcement": "2026-11-25T14:20:00",
+  "announcement_count": 6,
+  "latest_announcement": "2026-11-27T10:04:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T10:04:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/renishaw--rsw/director-pdmr-shareholding/9897634",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Renishaw reports director shareholdings following its September results. This routine update reflects standard post-results compliance rather than strategic shifts.",
+      "key_themes": [
+        "Governance",
+        "Director dealings"
+      ]
+    },
     {
       "timestamp": "2026-11-25T14:20:00",
       "category": "AGM/EGM",
@@ -27,10 +41,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically signifies routine compliance filings rather than significant corporate events. Shareholders should note that such disclosures are standard governance requirements and do not inherently indicate a change in the company's strategic direction or financial performance.",
+      "insight": "Director/PDMR Shareholding follows the September results notice. This routine filing updates holdings after the recent Capital Markets Day and financial reporting.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Results"
       ]
     },
     {
@@ -54,10 +68,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/renishaw--rsw/notice-of-results/9767942",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement indicates that scheduled financial results are being released, but the headline provides no information regarding the direction or magnitude of the performance.",
+      "impact_score": 3,
+      "insight": "Renishaw has issued a notice of results. Shareholders should await the full financial details following the June capital markets day.",
       "key_themes": [
-        "Results"
+        "Results",
+        "Corporate"
       ]
     },
     {
@@ -68,11 +83,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement indicates a scheduled event where management will present strategic updates to investors, which may influence future valuation but does not confirm specific financial outcomes or operational changes.",
+      "insight": "Renishaw hosts a Capital Markets Day, providing a platform to update shareholders on strategy and financial outlook. Investors should watch for details on future growth plans.",
       "key_themes": [
         "Investor Relations",
-        "Strategy",
-        "Capital Markets Day"
+        "Strategy"
       ]
     }
   ]

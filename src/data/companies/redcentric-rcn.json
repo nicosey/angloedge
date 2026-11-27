@@ -2,9 +2,20 @@
   "name": "Redcentric",
   "ticker": "RCN",
   "slug": "redcentric-rcn",
-  "announcement_count": 30,
-  "latest_announcement": "2026-11-24T07:00:00",
+  "announcement_count": 31,
+  "latest_announcement": "2026-11-27T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T07:00:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/redcentric--rcn/transaction-in-own-shares/9896620",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-24T07:00:00",
       "category": "Results",
@@ -13,10 +24,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement indicates that the company is publishing its interim financial results, a scheduled event that provides shareholders with an update on recent performance. The headline does not specify the direction of the results or any material changes, so it represents a standard reporting milestone rather than a specific catalyst.",
+      "insight": "Redcentric has issued a notice of interim results. This follows its H1 trading update in October and precedes potential capital actions like the announced share buyback.",
       "key_themes": [
         "Results",
-        "Financial Reporting"
+        "Capital return"
       ]
     },
     {
@@ -102,10 +113,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement provides a scheduled update on the company's trading performance for the first half of the year. It signifies routine financial reporting without indicating specific outcomes or material changes in the headline.",
+      "insight": "Redcentric provides a H1 trading update following its final results notice in September. Shareholders should monitor for subsequent performance indicators.",
       "key_themes": [
-        "Trading Update",
-        "Results"
+        "Results",
+        "Trading Update"
       ]
     },
     {
@@ -116,10 +127,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or statutory resolutions. It signifies standard corporate governance activity rather than a material change in the company's strategic or financial position.",
+      "insight": "The AGM results confirm shareholder approval of matters raised at the meeting. This follows earlier updates on director holdings and share buybacks.",
       "key_themes": [
         "Governance",
-        "Shareholder approval"
+        "Shareholder Approval"
       ]
     },
     {
@@ -151,11 +162,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/redcentric--rcn/notice-of-final-results-/9780818",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement signifies that the company is publishing its final annual results, a scheduled event that provides shareholders with comprehensive financial performance data and strategic updates.",
+      "impact_score": 3,
+      "insight": "Redcentric announces final results following its July capital reduction and tender offer. Shareholders should monitor subsequent director shareholdings and buyback activity.",
       "key_themes": [
         "Results",
-        "Financial reporting"
+        "Capital Reduction"
       ]
     },
     {
@@ -210,10 +221,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in corporate strategy or financial performance.",
+      "insight": "Director shareholdings are reported following the capital reduction and tender offer. This reflects standard compliance rather than a strategic shift.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Capital actions"
       ]
     },
     {
@@ -278,12 +289,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/redcentric--rcn/share-buyback-programme-and-disposal-proceeds/9714392",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "This announcement indicates a return of capital to shareholders through share buybacks alongside proceeds from asset disposals. While it signals active capital management, the lack of specific details in the headline limits the immediate assessment of its financial significance.",
+      "impact_score": 5,
+      "insight": "Following the July completion of a capital reduction, proceeds are now being deployed. This indicates active management of the post-reduction balance sheet.",
       "key_themes": [
-        "Capital return",
-        "Asset disposal",
-        "Shareholder value"
+        "Capital management",
+        "Corporate action"
       ]
     },
     {
@@ -294,10 +304,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement discloses shareholdings of directors or persons discharging managerial responsibilities, which is a standard governance update. It provides transparency into insider ownership but does not indicate specific trading activity or strategic changes.",
+      "insight": "Director shareholdings are reported following the completion of the capital reduction and tender offer in July. This routine disclosure reflects post-transaction ownership updates.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Capital actions"
       ]
     },
     {
@@ -308,10 +318,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director shareholdings, which is typically a routine disclosure of insider trading activity. Such filings generally have limited immediate impact on shareholder value unless they signal significant confidence or lack thereof by management.",
+      "insight": "Director shareholdings are reported following the completed capital reduction and tender offer. This reflects standard post-transaction compliance rather than a new strategic development.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Capital actions"
       ]
     },
     {
@@ -321,10 +331,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/redcentric--rcn/result-of-tender-offer/9682031",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "A tender offer result indicates a formal process for acquiring shares has concluded, which may signal a potential change in control or significant capital event. This type of announcement is critical for shareholders as it often precedes major strategic shifts or ownership changes.",
+      "impact_score": 5,
+      "insight": "Redcentric confirms the tender offer outcome following the July capital reduction. Shareholders should monitor subsequent corporate actions arising from this completed process.",
       "key_themes": [
-        "M&A",
+        "Capital reduction",
         "Shareholder action"
       ]
     },
@@ -335,11 +345,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/redcentric--rcn/completion-of-capital-reduction/9656918",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement signifies a corporate action that may alter the share capital structure, potentially affecting share price per unit and voting rights. It generally represents a routine governance or financial engineering step rather than a strategic shift in operations.",
+      "impact_score": 8,
+      "insight": "The capital reduction follows the June tender offer proposal. This finalizes the structural changes to share capital initiated earlier this year.",
       "key_themes": [
         "Capital reduction",
-        "Governance",
         "Corporate action"
       ]
     },
@@ -350,11 +359,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/redcentric--rcn/result-of-general-meeting-/9656916",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement confirms the outcome of a general meeting, which is a standard governance event for shareholders to note.",
+      "impact_score": 7,
+      "insight": "The GM result follows the June tender offer notice. Shareholders should watch for the next step in this process.",
       "key_themes": [
-        "Governance",
-        "Meeting results"
+        "Tender Offer",
+        "Governance"
       ]
     },
     {
@@ -364,11 +373,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/redcentric--rcn/proposed-90-million-tender-offer-notice-of-gm-/9626421",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 9,
-      "insight": "This headline indicates a significant corporate action involving a substantial capital return to shareholders via a tender offer, accompanied by a general meeting notice which typically signals a need for shareholder approval or formal notification of the transaction.",
+      "impact_score": 7,
+      "insight": "A tender offer follows the June CFO appointment. Shareholders should watch for the GM outcome.",
       "key_themes": [
-        "Shareholder return",
-        "Corporate action",
+        "Capital raise",
         "Governance"
       ]
     },
@@ -380,10 +388,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 6,
-      "insight": "This announcement signifies a change in senior management structure, which may indicate strategic shifts or operational adjustments within the organization. Shareholders should monitor subsequent disclosures for details on how this appointment influences corporate governance and financial oversight.",
+      "insight": "Redcentric has appointed a new Chief Financial Officer. This board change may influence future financial reporting and governance oversight.",
       "key_themes": [
         "Governance",
-        "Management Change"
+        "Board change"
       ]
     }
   ]

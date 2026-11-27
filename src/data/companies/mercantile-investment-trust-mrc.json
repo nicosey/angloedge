@@ -2,9 +2,20 @@
   "name": "Mercantile Investment Trust (The)",
   "ticker": "MRC",
   "slug": "mercantile-investment-trust-mrc",
-  "announcement_count": 97,
-  "latest_announcement": "2026-11-23T17:26:00",
+  "announcement_count": 98,
+  "latest_announcement": "2026-11-26T17:04:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T17:04:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/mercantile-investment-trust-the---mrc/transaction-in-own-shares/9896461",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T17:26:00",
       "category": null,
@@ -354,10 +365,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a routine disclosure of cross-holdings within the investment trust structure, which is standard administrative housekeeping for shareholders.",
+      "insight": "Mercantile Investment Trust (The) notified a cross holding. This follows recent director appointments and dividend declarations.",
       "key_themes": [
         "Governance",
-        "Disclosure"
+        "Corporate Action"
       ]
     },
     {
@@ -478,10 +489,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a scheduled investor engagement event, which is typically an informational update rather than a substantive corporate action. It generally signifies routine communication efforts by the board to maintain shareholder dialogue without implying immediate financial or strategic changes.",
+      "insight": "Mercantile Investment Trust (The) announces an investor webinar following a September dividend declaration. Shareholders should watch for management commentary on recent financial decisions.",
       "key_themes": [
-        "Investor Relations",
-        "Corporate Communication"
+        "Dividend",
+        "Investor Relations"
       ]
     },
     {
@@ -492,10 +503,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a standard dividend declaration, which typically confirms income distribution to shareholders but does not indicate major strategic shifts or financial distress.",
+      "insight": "A dividend declaration has been made. Shareholders should monitor the upcoming investor webinar for further details.",
       "key_themes": [
         "Dividend",
-        "Income"
+        "Governance"
       ]
     },
     {
@@ -869,7 +880,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies a change in the board composition, which is a standard governance update. It indicates that the company is maintaining its leadership structure but does not inherently suggest a strategic shift or material financial impact.",
+      "insight": "Mercantile Investment Trust (The) has appointed a new director. This board change follows an investor webinar in May 2026.",
       "key_themes": [
         "Governance",
         "Board Change"
@@ -1069,11 +1080,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/mercantile-investment-trust-the---mrc/investor-webinar-1st-june-2026-15-00-bst/9590950",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement indicates a scheduled investor engagement event, which serves as a routine communication channel for management to update shareholders on performance and strategy. It does not convey specific financial results or material corporate actions.",
+      "impact_score": 1,
+      "insight": "Mercantile Investment Trust (The) has scheduled an investor webinar for 1st June 2026. This administrative event provides a forum for shareholder engagement but lacks immediate financial implications.",
       "key_themes": [
         "Investor Relations",
-        "Communication"
+        "Corporate Events"
       ]
     },
     {

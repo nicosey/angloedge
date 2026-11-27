@@ -68,10 +68,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has transacted shares in the company. Such filings are routine regulatory disclosures of personal trading activity and do not inherently signal a change in corporate strategy or performance.",
+      "insight": "Director dealings indicate routine insider trading activity. This follows recent dividend declarations and a corporate broker change.",
       "key_themes": [
         "Governance",
-        "Director dealings"
+        "Insider Trading"
       ]
     },
     {
@@ -115,10 +115,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a dividend declaration, which is a routine corporate action informing shareholders of an upcoming distribution. It generally indicates that the company has generated sufficient profits to return capital to investors.",
+      "insight": "A dividend declaration follows a previous one in July. Shareholders should monitor for further income distributions or changes to the board.",
       "key_themes": [
         "Dividend",
-        "Income"
+        "Governance"
       ]
     },
     {
@@ -140,10 +140,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a change in cross-holdings within the investment trust structure, which is typically an administrative update regarding share ownership rather than a strategic event. It generally signifies routine portfolio management activity with limited immediate impact on shareholder value.",
+      "insight": "JPMorgan Claverhouse Inv Trust filed a cross holding notification. This follows an earlier filing in July and precedes subsequent dividend and governance updates.",
       "key_themes": [
         "Governance",
-        "Cross-holding"
+        "Corporate actions"
       ]
     },
     {
@@ -187,7 +187,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement indicates a change in the board composition, which is a standard governance event for investment trusts. Shareholders should monitor subsequent filings to understand the specific nature of the directorate change and its potential impact on fund management.",
+      "insight": "Directorate change follows a corporate broker switch. Shareholders should monitor governance stability.",
       "key_themes": [
         "Governance",
         "Board Change"
@@ -245,10 +245,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a routine administrative change in the appointment of the corporate broker, which is standard operational housekeeping for investment trusts. It does not indicate any immediate strategic shift or material financial impact for shareholders.",
+      "insight": "JPMorgan Claverhouse Inv Trust has changed its corporate broker. This follows a dividend declaration in July 2026.",
       "key_themes": [
         "Governance",
-        "Administrative"
+        "Corporate Actions"
       ]
     },
     {
@@ -347,10 +347,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a dividend declaration, which is typically classified as a routine corporate action with standard financial implications for income-focused investors.",
+      "insight": "JPMorgan Claverhouse Inv Trust declares a dividend. This follows a cross holding notification in July 2026.",
       "key_themes": [
         "Dividend",
-        "Income"
+        "Corporate action"
       ]
     },
     {
@@ -372,7 +372,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a regulatory disclosure of shareholding changes by a major investor, which is standard governance practice rather than a strategic event. It provides transparency regarding ownership concentration but does not indicate any immediate change in the company's operations or value.",
+      "insight": "JPMorgan Claverhouse Inv Trust filed a cross holding notification. This indicates a change in shareholding structure requiring regulatory disclosure to the market.",
       "key_themes": [
         "Governance",
         "Shareholding"

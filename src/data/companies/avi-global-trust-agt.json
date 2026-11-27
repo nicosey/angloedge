@@ -2,9 +2,20 @@
   "name": "AVI Global Trust",
   "ticker": "AGT",
   "slug": "avi-global-trust-agt",
-  "announcement_count": 70,
-  "latest_announcement": "2026-11-20T13:10:00",
+  "announcement_count": 71,
+  "latest_announcement": "2026-11-26T17:12:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T17:12:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/avi-global-trust--agt/transaction-in-own-shares/9896468",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T13:10:00",
       "category": null,
@@ -13,10 +24,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "This announcement indicates a potential formal sale process for a significant asset held by the company, which could materially affect shareholder value through capital return or strategic shift.",
+      "insight": "Following the October acquisition completion, a tender offer for a portfolio holding indicates active asset management. Shareholders should monitor subsequent filings for details on this disposal.",
       "key_themes": [
-        "Asset disposal",
-        "Capital return"
+        "M&A",
+        "Corporate action"
       ]
     },
     {
@@ -225,10 +236,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a scheduled engagement or investor relations event featuring company representatives. It generally signifies an opportunity for shareholders to gain insight into management's views but does not convey specific financial or strategic developments.",
+      "insight": "This appears to be a promotional event rather than a substantive regulatory filing. Shareholders should refer to the October completion announcements for material developments.",
       "key_themes": [
-        "Investor Relations",
-        "Engagement"
+        "Governance",
+        "Other"
       ]
     },
     {
@@ -293,10 +304,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/avi-global-trust--agt/listing-rule-15-6-8-/9811637",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement relates to Listing Rule 15.6.8, which typically signifies a change in the company's share capital structure or voting rights, often due to the exercise of options or conversion of securities. Shareholders should review the full text to understand the specific dilution effects or structural changes involved.",
+      "impact_score": 9,
+      "insight": "The acquisition of AVI by Pacific Asset Management completed in October. Shareholders should monitor director shareholdings reported in September and October for further signals.",
       "key_themes": [
-        "Share Capital",
+        "M&A",
         "Governance"
       ]
     },
@@ -308,10 +319,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into future performance but confirms compliance with insider dealing regulations.",
+      "insight": "Director shareholding updates follow the October completion of the acquisition by Pacific Asset Management. Shareholders should monitor for further governance changes.",
       "key_themes": [
-        "Director dealings",
-        "Governance"
+        "Governance",
+        "M&A"
       ]
     },
     {
@@ -344,11 +355,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 8,
-      "insight": "This announcement signifies the completion of a significant acquisition involving the company, which typically represents a material strategic shift or expansion for shareholders. The use of 'completion' confirms the transaction has been finalized, removing uncertainty regarding its execution.",
+      "insight": "The sale of AVI to Pacific Asset Management announced in August is now complete. This finalizes the disposal process initiated earlier this year.",
       "key_themes": [
         "M&A",
-        "Acquisition",
-        "Corporate Action"
+        "Disposal"
       ]
     },
     {
@@ -447,10 +457,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in corporate strategy or financial performance.",
+      "insight": "Director dealings follow the agreement to sell AVI in August. Shareholders should monitor if this signals confidence in the transaction.",
       "key_themes": [
-        "Governance",
-        "Director Dealings"
+        "M&A",
+        "Governance"
       ]
     },
     {
@@ -527,11 +537,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 8,
-      "insight": "This headline indicates a formal sale process for the company itself, which typically represents a significant strategic shift or potential exit for current shareholders. Such transactions often lead to changes in control, management structure, or investment strategy.",
+      "insight": "AVI Global Trust is selling AVI to Pacific Asset Management. This follows a listing rule notice in July 2026 and a June director appointment.",
       "key_themes": [
         "M&A",
-        "Strategic Review",
-        "Corporate Action"
+        "Governance"
       ]
     },
     {
@@ -640,11 +649,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/avi-global-trust--agt/listing-rule-15-6-8-/9656581",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement relates to Listing Rule 15.6.8, which typically concerns the maintenance of a company's listing status or compliance with ongoing regulatory obligations rather than specific corporate events.",
+      "impact_score": 5,
+      "insight": "AVI Global Trust has appointed a new Non-Executive Director. Shareholders should monitor governance changes.",
       "key_themes": [
-        "Regulatory Compliance",
-        "Listing Status"
+        "Governance",
+        "Board change"
       ]
     },
     {
@@ -710,7 +719,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies a change in the board composition, which is a standard governance update. It indicates that the company is adjusting its leadership structure but does not inherently suggest a strategic shift or material financial impact.",
+      "insight": "AVI Global Trust has appointed a new Non-Executive Director. This board change may influence governance oversight and strategic direction for shareholders.",
       "key_themes": [
         "Governance",
         "Board Change"

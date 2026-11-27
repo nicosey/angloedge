@@ -2,9 +2,20 @@
   "name": "Netcall",
   "ticker": "NET",
   "slug": "netcall-net",
-  "announcement_count": 12,
-  "latest_announcement": "2026-11-25T07:00:00",
+  "announcement_count": 13,
+  "latest_announcement": "2026-11-27T11:10:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T11:10:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/netcall--net/holding-s-in-company/9897794",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-25T07:00:00",
       "category": null,
@@ -46,10 +57,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies a new partnership or collaboration, which may indicate strategic expansion or revenue opportunities for shareholders. The specific financial impact or terms of this arrangement are not disclosed in the headline.",
+      "insight": "Netcall announces a collaboration with Box. This follows its FY26 trading update and final results for the year ended 30 June 2026.",
       "key_themes": [
         "Partnership",
-        "Strategic alliance"
+        "Strategy"
       ]
     },
     {
@@ -60,10 +71,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies the publication of the company's annual financial performance for the specified period. It provides shareholders with essential data to assess the firm's operational results and financial health over the year.",
+      "insight": "Netcall publishes its final results for the year ended 30 June 2026, following the July trading update and September notice. Shareholders should review the financial outcomes.",
       "key_themes": [
-        "Results",
-        "Annual Report"
+        "Results"
       ]
     },
     {
@@ -98,7 +108,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This trading update provides new performance data for the full financial year but does not indicate the direction of the results in the headline. Shareholders should await the detailed figures to assess whether the company is meeting expectations.",
+      "insight": "Netcall has issued its first recorded FY26 trading update. Shareholders should monitor this filing for initial performance indicators.",
       "key_themes": [
         "Results",
         "Trading Update"

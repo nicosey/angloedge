@@ -2,9 +2,20 @@
   "name": "Fidelity Special Values",
   "ticker": "FSV",
   "slug": "fidelity-special-values-fsv",
-  "announcement_count": 20,
-  "latest_announcement": "2026-11-20T07:00:00",
+  "announcement_count": 21,
+  "latest_announcement": "2026-11-27T15:04:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T15:04:00",
+      "category": null,
+      "headline": "Monthly Factsheet",
+      "url": "https://www.investegate.co.uk/announcement/prn/fidelity-special-values--fsv/monthly-factsheet/9898182",
+      "routine_type": "Portfolio Disclosure",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T07:00:00",
       "category": null,
@@ -24,10 +35,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a standard dividend declaration, which typically indicates ongoing shareholder returns but does not inherently suggest significant strategic shifts or financial distress without further details.",
+      "insight": "A dividend declaration follows recent portfolio updates and director shareholding disclosures. Shareholders should monitor future filings for details on payment timing.",
       "key_themes": [
         "Dividend",
-        "Shareholder Returns"
+        "Governance"
       ]
     },
     {
@@ -92,11 +103,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/fidelity-special-values--fsv/portfolio-update/9749661",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement provides a scheduled update on the portfolio composition or performance of the fund, which is routine for investment trusts. It offers shareholders insight into current holdings and strategy without indicating any immediate material change or event.",
+      "impact_score": 3,
+      "insight": "Fidelity Special Values issued a portfolio update, following an earlier director shareholding announcement in August. This suggests ongoing monitoring of insider activity and fund composition.",
       "key_themes": [
         "Portfolio Update",
-        "Performance Review"
+        "Governance"
       ]
     },
     {
@@ -129,10 +140,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in corporate strategy or financial performance.",
+      "insight": "Director dealings are recorded alongside a recent portfolio update. Shareholders should monitor for further insider activity.",
       "key_themes": [
         "Governance",
-        "Director dealings"
+        "Insider Dealing"
       ]
     },
     {
@@ -220,11 +231,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement typically signifies a scheduled update on the fund's performance or portfolio composition, providing shareholders with information on investment decisions and strategy execution without indicating immediate financial direction.",
+      "insight": "Fidelity Special Values has issued a portfolio update. Shareholders should monitor this for changes in holdings that may affect future performance.",
       "key_themes": [
         "Portfolio Update",
-        "Fund Performance",
-        "Investment Strategy"
+        "Investment"
       ]
     },
     {

@@ -2,9 +2,20 @@
   "name": "Solid State",
   "ticker": "SOLI",
   "slug": "solid-state-soli",
-  "announcement_count": 8,
-  "latest_announcement": "2026-11-26T12:12:00",
+  "announcement_count": 9,
+  "latest_announcement": "2026-11-27T12:50:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T12:50:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/solid-state--soli/holding-s-in-company/9897960",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-26T12:12:00",
       "category": null,
@@ -23,11 +34,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/solid-state--soli/capital-markets-day-/9892188",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "A Capital Markets Day typically signifies a strategic review or presentation of future plans to investors, which can materially influence market perception and valuation.",
+      "impact_score": 5,
+      "insight": "Solid State holds a Capital Markets Day in October, following June results and September director dealings. Shareholders should watch for strategic updates or guidance changes presented at this event.",
       "key_themes": [
-        "Strategy",
-        "Investor Relations"
+        "Investor Relations",
+        "Strategy"
       ]
     },
     {
@@ -48,12 +59,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/solid-state--soli/capital-markets-day-/9819254",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "A Capital Markets Day typically signifies a strategic review or guidance change where management presents long-term plans to investors. This event is significant for shareholders as it often reveals new targets, growth strategies, or financial outlooks that can materially influence valuation.",
+      "impact_score": 5,
+      "insight": "Solid State holds a Capital Markets Day following recent PDMR dealings. Shareholders should watch for strategic updates or guidance changes presented at this event.",
       "key_themes": [
-        "Strategy",
         "Investor Relations",
-        "Guidance"
+        "Strategy"
       ]
     },
     {
@@ -64,7 +74,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies standard regulatory compliance regarding transactions by persons discharging managerial responsibilities and their close associates. It provides transparency into insider trading activity but does not inherently indicate a change in corporate strategy or financial performance.",
+      "insight": "Solid State filed PDMR & PCA Dealings, following a similar notice in September. Shareholders should monitor for further insider trading activity.",
       "key_themes": [
         "Governance",
         "Director Dealings"
@@ -78,10 +88,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to standard regulatory disclosures regarding transactions by persons discharging managerial responsibilities and treasury share movements. Such filings are routine administrative requirements that typically have no immediate impact on the company's operational outlook or share price.",
+      "insight": "Director dealings and treasury transfers occur alongside scheduled results. Shareholders should monitor the upcoming analyst briefing for further details.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Results"
       ]
     },
     {
@@ -103,10 +113,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement indicates that scheduled financial results are being released alongside an analyst briefing and investor presentation. It signifies a routine update for shareholders regarding the company's performance without disclosing specific financial direction or magnitude in the headline.",
+      "insight": "Solid State is issuing results alongside an analyst briefing and investor presentation. This scheduled update provides new financial data for shareholder review.",
       "key_themes": [
-        "Results",
-        "Investor Relations"
+        "Results"
       ]
     }
   ]

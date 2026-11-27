@@ -2,9 +2,20 @@
   "name": "Central Asia Metals",
   "ticker": "CAML",
   "slug": "central-asia-metals-caml",
-  "announcement_count": 44,
-  "latest_announcement": "2026-11-25T14:03:00",
+  "announcement_count": 45,
+  "latest_announcement": "2026-11-27T14:53:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T14:53:00",
+      "category": null,
+      "headline": "TR-1: Notification of major holdings",
+      "url": "https://www.investegate.co.uk/announcement/rns/central-asia-metals--caml/tr-1-notification-of-major-holdings-/9898153",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-25T14:03:00",
       "category": null,
@@ -24,10 +35,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This notification indicates that a person discharging managerial responsibilities has traded shares in the company. Such filings are routine regulatory disclosures that confirm compliance with insider dealing rules rather than signaling specific strategic changes.",
+      "insight": "Director shareholding notifications follow court approval for the Cygnus Transaction in October. This confirms insider activity related to the recent corporate restructuring.",
       "key_themes": [
         "Governance",
-        "Director dealings"
+        "M&A"
       ]
     },
     {
@@ -38,10 +49,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a director has purchased shares, which may signal internal confidence in the company's prospects. Such transactions are routine governance disclosures that provide limited insight into immediate financial performance or strategic shifts.",
+      "insight": "A director purchased shares following court approval in October. This personal transaction follows earlier regulatory approvals and admission applications.",
       "key_themes": [
-        "Director dealings",
-        "Governance"
+        "Governance",
+        "M&A"
       ]
     },
     {
@@ -99,10 +110,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a director has purchased shares, which may signal internal confidence in the company's prospects. Such transactions are routine regulatory disclosures that provide limited insight into the firm's broader financial health or strategic direction.",
+      "insight": "A director purchased shares following court approval of the Cygnus Transaction in October. This aligns with the earlier admission application and regulatory approvals.",
       "key_themes": [
-        "Director dealings",
-        "Governance"
+        "Governance",
+        "M&A"
       ]
     },
     {
@@ -124,10 +135,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a person with senior management responsibilities has engaged in share transactions, which is a standard disclosure of insider activity. It provides limited insight into future performance but confirms compliance with regulatory reporting requirements.",
+      "insight": "Director dealing follows court approval in October. Shareholders should monitor for further updates regarding the Cygnus Transaction.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "M&A"
       ]
     },
     {
@@ -159,12 +170,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/central-asia-metals--caml/application-for-admission/9841794",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 8,
-      "insight": "An application for admission typically signifies a significant corporate action such as a listing of new shares, a reverse takeover, or a major restructuring that fundamentally alters the company's capital structure and shareholder base.",
+      "impact_score": 9,
+      "insight": "Following court approval in October, admission marks the Cygnus Transaction's completion. Shareholders should expect immediate share trading under the new structure.",
       "key_themes": [
-        "Capital raise",
-        "Corporate action",
-        "Listing"
+        "M&A",
+        "Corporate action"
       ]
     },
     {
@@ -207,11 +217,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/central-asia-metals--caml/court-approval-for-the-cygnus-transaction/9822738",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "Court approval for a transaction typically signifies the successful completion of a formal process, such as a sale, merger, or restructuring, which is a significant event for shareholders. This suggests that a material corporate action has been finalized, potentially altering the company's structure or ownership.",
+      "impact_score": 8,
+      "insight": "Following September meetings and October regulatory approval, court sanction finalizes the Cygnus Transaction. This marks a critical step in the ongoing Scheme of Arrangement process for shareholders.",
       "key_themes": [
         "M&A",
-        "Corporate Action",
         "Regulatory Approval"
       ]
     },
@@ -223,10 +232,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies that a necessary regulatory hurdle has been cleared, which is typically a prerequisite for proceeding with a specific corporate action or transaction. For shareholders, this reduces execution risk and suggests momentum in the underlying deal process.",
+      "insight": "Kazakh regulatory approval follows September court meetings and hearings. This step advances the Scheme of Arrangement process for shareholders.",
       "key_themes": [
-        "Regulatory approval",
-        "Corporate action"
+        "M&A",
+        "Regulatory"
       ]
     },
     {
@@ -258,11 +267,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/central-asia-metals--caml/adjournment-of-the-second-court-hearing/9786821",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "This announcement indicates a delay in legal proceedings, suggesting ongoing litigation that may have material implications for the company's future or financial position. Shareholders should anticipate uncertainty regarding the timing and potential outcome of these court hearings.",
+      "impact_score": 5,
+      "insight": "The second court hearing for the Scheme of Arrangement is adjourned. Shareholders should monitor subsequent updates regarding the TSX listing and new share allotment.",
       "key_themes": [
-        "Legal",
-        "Litigation"
+        "M&A",
+        "Regulatory"
       ]
     },
     {
@@ -273,11 +282,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 8,
-      "insight": "This update signifies a critical stage in a formal takeover process, indicating that progress is being made toward a potential change of control for the company. Shareholders should anticipate imminent decisions regarding the acceptance and completion of the scheme.",
+      "insight": "Following the September Scheme Meeting result, this update advances the TSX listing process. Shareholders should monitor for final sanction to complete the acquisition.",
       "key_themes": [
         "M&A",
-        "Scheme of Arrangement",
-        "Corporate Action"
+        "Listing"
       ]
     },
     {
@@ -287,11 +295,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/central-asia-metals--caml/result-of-the-cygnus-scheme-meeting-/9779851",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement indicates the outcome of a scheme meeting, which is a procedural step in corporate restructuring or capital management. Shareholders should review the full text to understand the specific implications for their holdings.",
+      "impact_score": 8,
+      "insight": "Following the August scheme book and September updates, this meeting result is a critical step toward the TSX listing and new share allotment authorized in September.",
       "key_themes": [
-        "Governance",
-        "Corporate Action"
+        "M&A",
+        "Corporate action"
       ]
     },
     {
@@ -301,11 +309,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/central-asia-metals--caml/update-regarding-the-scheme-of-arrangement/9769109",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 8,
-      "insight": "An update regarding a Scheme of Arrangement typically signifies progress in a formal takeover or restructuring process, which is a material event for shareholders as it may lead to a change in control or liquidity.",
+      "impact_score": 9,
+      "insight": "Following the August scheme booklet and September authorisation, this update advances the acquisition process. Shareholders should monitor for the next procedural step in the scheme of arrangement.",
       "key_themes": [
-        "M&A",
-        "Corporate action"
+        "Acquisition",
+        "Scheme of Arrangement"
       ]
     },
     {
@@ -315,12 +323,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/central-asia-metals--caml/authorisation-granted-to-allot-new-caml-shares/9756515",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This announcement signifies that regulatory approval has been obtained to issue new shares, which is a necessary step in a capital raising process. Shareholders should anticipate potential dilution of their existing holdings once the new shares are formally allotted and issued.",
+      "impact_score": 8,
+      "insight": "Following conditional TSX listing approval in September, authorisation to allot new shares enables the capital raise needed for the international expansion.",
       "key_themes": [
         "Capital raise",
-        "Share issuance",
-        "Regulatory approval"
+        "Listing"
       ]
     },
     {
@@ -352,11 +359,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/central-asia-metals--caml/conditional-approval-of-tsx-listing/9747535",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "This announcement indicates a potential expansion of the company's investor base through a listing on the Toronto Stock Exchange, which may enhance liquidity and visibility for shareholders.",
+      "impact_score": 8,
+      "insight": "Following the August scheme booklet, this TSX listing approval advances the takeover process. Shareholders should monitor for the next court sanction step.",
       "key_themes": [
-        "Listing",
-        "Capital markets"
+        "M&A",
+        "Listing"
       ]
     },
     {
@@ -378,10 +385,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies a scheduled interim results release for the specified six-month period. It provides shareholders with an update on the company's financial performance and operational progress during that timeframe.",
+      "insight": "Interim results follow the June trading update. Shareholders should watch for details in the scheme booklet.",
       "key_themes": [
         "Results",
-        "Financial Reporting"
+        "Corporate action"
       ]
     },
     {
@@ -391,12 +398,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/central-asia-metals--caml/availability-of-the-scheme-booklet-and-circular-/9721565",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 8,
-      "insight": "This announcement indicates that a formal scheme of arrangement is underway, requiring shareholder approval to proceed. It signifies a significant corporate action that could fundamentally alter the company's ownership or structure.",
+      "impact_score": 9,
+      "insight": "The Scheme Booklet follows the June acquisition proposal, advancing the deal toward shareholder approval. This step is critical for finalizing the proposed transaction.",
       "key_themes": [
-        "Corporate action",
-        "Scheme of arrangement",
-        "Shareholder vote"
+        "M&A",
+        "Corporate action"
       ]
     },
     {
@@ -418,9 +424,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies that the company is releasing its interim financial results, providing shareholders with an update on performance for the period.",
+      "insight": "Interim results follow the June trading update and acquisition proposal. Shareholders should watch for financial details confirming the Cygnus Metals deal progress.",
       "key_themes": [
-        "Results"
+        "Results",
+        "M&A"
       ]
     },
     {
@@ -464,10 +471,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement typically signifies a governance mechanism used to align management interests with long-term shareholder value through equity incentives. It generally represents a non-cash administrative action rather than a direct financial event for the company.",
+      "insight": "Director share purchases follow the proposed acquisition of Cygnus Metals Limited. This aligns with the subsequent trading update and outlook released in June.",
       "key_themes": [
         "Governance",
-        "Executive Compensation"
+        "M&A"
       ]
     },
     {
@@ -510,11 +517,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/central-asia-metals--caml/trading-update-and-outlook/9610046",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement provides a general update on trading performance and future outlook, but the headline does not indicate whether the news is positive or negative. Shareholders should expect routine operational commentary rather than a material event such as a profit warning or major strategic shift.",
+      "impact_score": 7,
+      "insight": "Following the June acquisition proposal, this update signals progress in the sale process. Shareholders should monitor for further developments regarding Cygnus Metals.",
       "key_themes": [
-        "Trading Update",
-        "Outlook"
+        "M&A",
+        "Trading Update"
       ]
     },
     {
@@ -536,10 +543,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a director has purchased shares, which may signal internal confidence in the company's prospects. Such transactions are routine regulatory disclosures that typically have limited immediate impact on share price.",
+      "insight": "A director has purchased shares. This follows the June proposal to acquire Cygnus Metals Limited.",
       "key_themes": [
-        "Director dealings",
-        "Governance"
+        "Governance",
+        "M&A"
       ]
     },
     {
@@ -550,10 +557,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "This headline indicates a potential strategic expansion through acquisition, which typically signals growth intentions but carries execution risk for shareholders.",
+      "insight": "Central Asia Metals is proposing to acquire Cygnus Metals Limited. This represents a potential material acquisition for the company.",
       "key_themes": [
-        "M&A",
-        "Strategic Growth"
+        "Acquisition",
+        "M&A"
       ]
     }
   ]

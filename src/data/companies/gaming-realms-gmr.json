@@ -2,9 +2,20 @@
   "name": "Gaming Realms",
   "ticker": "GMR",
   "slug": "gaming-realms-gmr",
-  "announcement_count": 25,
-  "latest_announcement": "2026-11-26T07:00:00",
+  "announcement_count": 26,
+  "latest_announcement": "2026-11-27T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T07:00:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/gaming-realms--gmr/transaction-in-own-shares/9896633",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-26T07:00:00",
       "category": null,
@@ -24,10 +35,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This update likely provides progress details on an existing share buyback programme, which generally signifies capital return to shareholders but requires further disclosure for full assessment.",
+      "insight": "Shareholders should monitor this update following the August results notice to assess capital allocation decisions.",
       "key_themes": [
-        "Share Buyback",
-        "Capital Return"
+        "Capital return",
+        "Governance"
       ]
     },
     {
@@ -147,11 +158,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/gaming-realms--gmr/notice-of-results/9746155",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement indicates that scheduled financial results are being released, but the headline does not disclose the direction or magnitude of the performance. Shareholders should await the full details to assess the company's recent financial health.",
+      "impact_score": 3,
+      "insight": "Gaming Realms has issued a notice of results. This follows earlier governance updates in June 2026 regarding options and AGM outcomes.",
       "key_themes": [
         "Results",
-        "Financial reporting"
+        "Governance"
       ]
     },
     {
@@ -250,10 +261,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or fee ratifications. It signifies standard corporate governance compliance rather than any material change to the company's strategic direction or financial position.",
+      "insight": "Shareholders should note the AGM results. This follows the June option grant, indicating routine governance proceedings.",
       "key_themes": [
         "Governance",
-        "Shareholder approval"
+        "Meeting results"
       ]
     },
     {
@@ -275,10 +286,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies the granting of options to directors or employees, which is a standard governance matter related to remuneration and retention. It typically has a neutral to low immediate financial impact on shareholders unless associated with significant performance conditions.",
+      "insight": "Gaming Realms grants options to directors or employees. This aligns with standard governance practices for staff retention and incentive alignment.",
       "key_themes": [
         "Governance",
-        "Remuneration"
+        "Incentives"
       ]
     },
     {

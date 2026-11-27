@@ -2,9 +2,23 @@
   "name": "LEVERAGE SHARES PUBLIC LIMITED COMPANY",
   "ticker": "2GOO",
   "slug": "leverage-shares-2goo",
-  "announcement_count": 3,
-  "latest_announcement": "2026-10-30T15:46:00",
+  "announcement_count": 4,
+  "latest_announcement": "2026-11-26T16:49:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T16:49:00",
+      "category": "Appointment",
+      "headline": "Appointment of Additional Authorised Participant",
+      "url": "https://www.investegate.co.uk/announcement/rns/leverage-shares-public-limited-company--2goo/appointment-of-additional-authorised-participant/9896445",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "Leverage Shares appointed an additional authorised participant following earlier termination and replacement broker dealer announcements in October. This expands operational capacity.",
+      "key_themes": [
+        "Governance",
+        "Operations"
+      ]
+    },
     {
       "timestamp": "2026-10-30T15:46:00",
       "category": null,
@@ -41,10 +55,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies a governance change involving the appointment of an authorised participant, which is a standard operational requirement for exchange-traded products to ensure liquidity and market access. It does not indicate a material financial event or strategic shift, but rather confirms necessary structural arrangements for the vehicle's functioning.",
+      "insight": "Leverage Shares Public Limited Company appointed an Authorised Participant. This board-level appointment may affect operational structure but lacks financial detail.",
       "key_themes": [
         "Governance",
-        "Operational"
+        "Appointment"
       ]
     }
   ]

@@ -2,9 +2,20 @@
   "name": "Bankers Inv Trust",
   "ticker": "BNKR",
   "slug": "bankers-inv-trust-bnkr",
-  "announcement_count": 100,
-  "latest_announcement": "2026-11-23T17:50:00",
+  "announcement_count": 101,
+  "latest_announcement": "2026-11-26T17:23:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T17:23:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/bankers-inv-trust--bnkr/transaction-in-own-shares/9896481",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T17:50:00",
       "category": null,
@@ -442,10 +453,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a formal declaration of a dividend payment to shareholders. It generally indicates that the company is returning capital to investors from its profits.",
+      "insight": "Dividend Declaration follows the Half-year Update. Shareholders should monitor subsequent filings for payment details.",
       "key_themes": [
         "Dividend",
-        "Capital return"
+        "Governance"
       ]
     },
     {
@@ -489,10 +500,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has engaged in share transactions, which is a standard regulatory disclosure. It provides limited insight into future performance but signals insider activity that investors may monitor for sentiment cues.",
+      "insight": "BNKR filed another Director/PDMR Shareholding notice, following similar filings in June and September. This indicates routine insider activity tracking rather than a strategic shift.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Director dealings"
       ]
     },
     {
@@ -558,10 +569,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates routine compliance reporting of share transactions by directors or persons discharging managerial responsibilities. It generally signifies transparency in insider dealings rather than a specific strategic event for shareholders.",
+      "insight": "Bankers Inv Trust filed another Director/PDMR Shareholding announcement in September, following similar filings in June and a Half-year Update in July.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Director dealings"
       ]
     },
     {
@@ -572,10 +583,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in corporate strategy or financial performance.",
+      "insight": "Bankers Inv Trust filed director shareholding updates following its half-year update. This routine disclosure tracks insider holdings without indicating immediate strategic shifts.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Director dealings"
       ]
     },
     {
@@ -838,11 +849,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/bankers-inv-trust--bnkr/half-year-update-/9649903",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement signifies a scheduled interim performance update for shareholders, providing visibility into the company's operational progress during the first half of the financial year.",
+      "impact_score": 3,
+      "insight": "Half-year Update follows June director shareholding filings. Shareholders should watch for financial performance details in this update.",
       "key_themes": [
         "Results",
-        "Trading Update"
+        "Governance"
       ]
     },
     {
@@ -974,10 +985,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into future performance but confirms compliance with insider dealing regulations.",
+      "insight": "Bankers Inv Trust filed a Director/PDMR Shareholding notice. This follows an identical filing in June 2026.",
       "key_themes": [
-        "Director Dealing",
-        "Governance"
+        "Governance",
+        "Director dealings"
       ]
     },
     {
@@ -988,7 +999,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in corporate strategy or financial performance.",
+      "insight": "Bankers Inv Trust recorded a director dealing. This is an initial filing with no prior context to indicate significance for shareholders.",
       "key_themes": [
         "Governance",
         "Director Dealing"

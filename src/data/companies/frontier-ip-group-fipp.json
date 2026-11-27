@@ -2,9 +2,23 @@
   "name": "Frontier IP Group",
   "ticker": "FIPP",
   "slug": "frontier-ip-group-fipp",
-  "announcement_count": 18,
-  "latest_announcement": "2026-11-26T07:00:00",
+  "announcement_count": 19,
+  "latest_announcement": "2026-11-27T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T07:00:00",
+      "category": "AGM/EGM",
+      "headline": "Posting of Annual Report & Accounts, Notice of AGM",
+      "url": "https://www.investegate.co.uk/announcement/rns/frontier-ip-group--fipp/posting-of-annual-report-accounts-notice-of-agm/9896710",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Frontier IP Group posts its annual report following the final results for June 2026. Shareholders should note the scheduled AGM to approve these accounts.",
+      "key_themes": [
+        "Results",
+        "Governance"
+      ]
+    },
     {
       "timestamp": "2026-11-26T07:00:00",
       "category": "Results",
@@ -26,7 +40,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that the company has secured funding through a grant, which may provide non-dilutive capital for its operations. The specific financial impact or strategic implications for shareholders remain undefined by the headline.",
+      "insight": "Portfolio companies TVG and APHA secured Innovate UK grants. This follows earlier funding news for InSignals Neurotech, CRI, and Pulsiv.",
       "key_themes": [
         "Grant",
         "Funding"
@@ -73,11 +87,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement indicates a new commercial agreement or partnership involving the company's portfolio assets, which may signal business development activity but lacks specific financial terms or performance metrics in the headline.",
+      "insight": "Frontier IP Group announces a Pulsiv agreement with Delta Matrix. This follows recent portfolio investments and grant wins, indicating continued activity within its investment holdings.",
       "key_themes": [
-        "Partnership",
-        "Commercial Agreement",
-        "Portfolio News"
+        "Portfolio news",
+        "Partnership"
       ]
     },
     {
@@ -87,11 +100,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/frontier-ip-group--fipp/portfolio-news-cri-wins-eu-grant/9680725",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "The headline references 'CRI' winning an EU grant, which is not the listed company Frontier IP Group. This appears to be a press release about another organization with no direct bearing on the company's shareholders.",
+      "impact_score": 3,
+      "insight": "Portfolio news follows earlier grant announcements in July. This indicates continued activity within the investment portfolio.",
       "key_themes": [
-        "Grant",
-        "Other"
+        "Portfolio",
+        "Grant"
       ]
     },
     {
@@ -124,7 +137,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a third-party entity has received a grant, which is typically an administrative update regarding external funding rather than a direct financial event for the company. It generally signifies no immediate material impact on shareholder value unless the company is explicitly named as the recipient.",
+      "insight": "InSignals Neurotech Grant is an administrative update. It follows recent capital raising and portfolio investments but lacks specific financial details for shareholders.",
       "key_themes": [
         "Grant",
         "Administrative"
@@ -170,11 +183,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/frontier-ip-group--fipp/portfolio-news-investment-in-fieldwork-robotics/9633223",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement indicates a new investment in the company's portfolio, which may signal strategic expansion but lacks specific details on financial impact or valuation. Shareholders should await further disclosure to assess the materiality of this transaction.",
+      "impact_score": 3,
+      "insight": "Following the June capital raise, this investment signals deployment of funds. Shareholders should monitor execution progress.",
       "key_themes": [
-        "Investment",
-        "Portfolio news"
+        "Capital allocation",
+        "Investment"
       ]
     },
     {
@@ -195,12 +208,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/frontier-ip-group--fipp/result-of-retail-offer-/9626423",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This announcement provides the outcome of a retail share offer, indicating whether new shares have been issued to public investors. It signifies a capital raising activity that may result in share dilution for existing holders.",
+      "impact_score": 5,
+      "insight": "Frontier IP Group announces the retail offer result following the June placing. This completes the capital raising sequence initiated earlier in the month.",
       "key_themes": [
         "Capital raise",
-        "Share issuance",
-        "Retail offering"
+        "Fundraising"
       ]
     },
     {
@@ -211,11 +223,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "This announcement confirms the outcome of a placing and subscription, indicating that the company has successfully raised capital from investors. This typically signifies a capital raise event which may dilute existing shareholdings but provides new funding.",
+      "insight": "Frontier IP Group has completed a placing following its June retail offer. This capital raise likely alters the shareholder register and funding position.",
       "key_themes": [
         "Capital raise",
-        "Placing",
-        "Subscription"
+        "Fundraising"
       ]
     },
     {
@@ -225,11 +236,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/frontier-ip-group--fipp/retail-offer-/9621637",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "A retail offer typically indicates a capital raise or listing event, which can be dilutive to existing shareholders but may also signal growth or liquidity initiatives.",
+      "impact_score": 5,
+      "insight": "Frontier IP Group has issued a retail offer. This represents a capital raising activity for the company.",
       "key_themes": [
         "Capital raise",
-        "Retail offering"
+        "Placing"
       ]
     }
   ]

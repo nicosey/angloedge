@@ -2,9 +2,23 @@
   "name": "Eutelsat Communications S.A. (CDI)",
   "ticker": "ETL",
   "slug": "eutelsat-communications-etl",
-  "announcement_count": 5,
-  "latest_announcement": "2026-11-18T10:08:00",
+  "announcement_count": 6,
+  "latest_announcement": "2026-11-26T17:17:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T17:17:00",
+      "category": "AGM/EGM",
+      "headline": "Combined Annual General Meeting of Eutelsat C...",
+      "url": "https://www.investegate.co.uk/announcement/bzw/eutelsat-communications-s-a-cdi---etl/combined-annual-general-meeting-of-eutelsat-c-/9896475",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "The tender offer launched in November follows the senior notes offering. Shareholders should monitor the maximum acceptance amount announced later that month.",
+      "key_themes": [
+        "M&A",
+        "Capital raise"
+      ]
+    },
     {
       "timestamp": "2026-11-18T10:08:00",
       "category": null,
@@ -12,12 +26,11 @@
       "url": "https://www.investegate.co.uk/announcement/bzw/eutelsat-communications-s-a-cdi---etl/eutelsat-s-a-announces-the-maximum-acceptan-/9881629",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This announcement confirms the outcome of a tender offer for outstanding debt, which is a significant capital structure event that may affect the company's leverage and cash flow profile. It signals active management of the bond portfolio but does not inherently indicate a change in equity value or corporate control.",
+      "impact_score": 7,
+      "insight": "Following the November launch of a tender offer, this filing sets the maximum acceptance amount for holders of the €600m senior notes due 2028.",
       "key_themes": [
-        "Debt",
-        "Capital structure",
-        "Corporate action"
+        "Debt restructuring",
+        "Capital management"
       ]
     },
     {
@@ -27,11 +40,11 @@
       "url": "https://www.investegate.co.uk/announcement/bzw/eutelsat-communications-s-a-cdi---etl/eutelsat-s-a-announces-the-launch-of-a-tende-/9876664",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 8,
-      "insight": "A tender offer typically indicates a potential change in control or a significant strategic shift for the company. This type of announcement often leads to substantial volatility and is classified as a possible offer or formal sale process.",
+      "impact_score": 7,
+      "insight": "A tender offer follows the November debt issuance. Shareholders should monitor the outcome of this potential acquisition process.",
       "key_themes": [
         "M&A",
-        "Corporate action"
+        "Capital raise"
       ]
     },
     {
@@ -42,7 +55,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "This announcement indicates a significant capital raise through new debt issuance alongside an active bond buyback program. Such actions typically signal efforts to manage the company's leverage profile and optimize its cost of capital for shareholders.",
+      "insight": "Eutelsat raises €400m via senior notes while launching a cash offer for its outstanding bonds due 2028. This follows earlier notices of preparatory documents for a combined registration.",
       "key_themes": [
         "Capital raise",
         "Debt management"
@@ -70,10 +83,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates the availability of a standard annual regulatory filing, which provides routine governance and financial data for shareholder review. It does not signal any immediate strategic changes or material events.",
+      "insight": "Eutelsat Communications S.A. has published its Universal Registration Document for the year ending June 30, 2026, providing standard annual reporting details to shareholders.",
       "key_themes": [
-        "Regulatory filing",
-        "Governance"
+        "Governance",
+        "Regulatory filing"
       ]
     }
   ]

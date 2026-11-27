@@ -2,9 +2,20 @@
   "name": "City of London Inv Trust",
   "ticker": "CTY",
   "slug": "city-of-london-inv-trust-cty",
-  "announcement_count": 33,
-  "latest_announcement": "2026-11-25T16:04:00",
+  "announcement_count": 34,
+  "latest_announcement": "2026-11-26T17:08:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T17:08:00",
+      "category": null,
+      "headline": "Issue of Equity",
+      "url": "https://www.investegate.co.uk/announcement/rns/city-of-london-inv-trust--cty/issue-of-equity/9896465",
+      "routine_type": "Block Listing / Admission",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-25T16:04:00",
       "category": null,
@@ -147,11 +158,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/city-of-london-inv-trust--cty/portfolio-update/9807398",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement provides a scheduled update on the portfolio composition or performance, which is routine for investment trusts but lacks specific directional indicators in the headline.",
+      "impact_score": 3,
+      "insight": "A portfolio update follows recent dividend declarations. Shareholders should monitor for further distribution details.",
       "key_themes": [
         "Portfolio Update",
-        "Investment Trust"
+        "Dividend"
       ]
     },
     {
@@ -184,10 +195,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a formal declaration of a dividend by the investment trust, indicating a distribution of income to shareholders. It confirms the company's intention to pay out profits, which is a standard operational event for this type of entity.",
+      "insight": "City of London Inv Trust declared a dividend, following an earlier declaration in July 2026. This indicates a recurring income distribution to shareholders.",
       "key_themes": [
-        "Dividend",
-        "Income Distribution"
+        "Dividend"
       ]
     },
     {
@@ -253,11 +263,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a decision regarding shareholder returns, which is a routine governance matter for investment trusts. It indicates that the board has considered and acted upon the distribution of profits to investors.",
+      "insight": "City of London Inv Trust has declared a dividend. This is the first such filing on record for the company.",
       "key_themes": [
-        "Dividend",
-        "Shareholder Returns",
-        "Governance"
+        "Dividend"
       ]
     },
     {

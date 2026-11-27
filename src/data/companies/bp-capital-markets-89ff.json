@@ -2,9 +2,20 @@
   "name": "BP CAPITAL MARKETS PLC",
   "ticker": "89FF",
   "slug": "bp-capital-markets-89ff",
-  "announcement_count": 6,
-  "latest_announcement": "2026-11-25T12:10:00",
+  "announcement_count": 7,
+  "latest_announcement": "2026-11-27T16:27:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T16:27:00",
+      "category": null,
+      "headline": "Notice of Redemption to Noteholders",
+      "url": "https://www.investegate.co.uk/announcement/rns/bp-capital-markets-plc--89ff/notice-of-redemption-to-noteholders-/9898295",
+      "routine_type": "Debt Notices",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-25T12:10:00",
       "category": "Results",
@@ -26,12 +37,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/bp-capital-markets-plc--89ff/tender-offer-indicative-results/9893215",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement provides the indicative outcome of a tender offer, which is a significant corporate action affecting shareholder value and ownership structure. The specific financial implications or terms are not disclosed in the headline.",
+      "impact_score": 8,
+      "insight": "Following the November tender offer, indicative results suggest a potential change in control. Shareholders should monitor for formal acceptance conditions.",
       "key_themes": [
-        "Tender Offer",
-        "Capital Return",
-        "Shareholder Action"
+        "M&A",
+        "Tender Offer"
       ]
     },
     {
@@ -41,11 +51,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/bp-capital-markets-plc--89ff/tender-offer/9879597",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 8,
-      "insight": "A tender offer headline typically signals a formal sale process or potential acquisition, which represents a significant strategic event for shareholders.",
+      "impact_score": 9,
+      "insight": "A tender offer follows the August prospectus, indicating a potential change of control. Shareholders should monitor for further developments regarding this transaction.",
       "key_themes": [
         "M&A",
-        "Corporate action"
+        "Capital raise"
       ]
     },
     {
@@ -66,11 +76,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/bp-capital-markets-plc--89ff/publication-of-a-prospectus/9711507",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "The publication of a prospectus generally signifies that the company is preparing to raise capital from the public or list its securities, which can be dilutive to existing shareholders.",
+      "impact_score": 5,
+      "insight": "BP CAPITAL MARKETS PLC has published a prospectus. Shareholders should monitor this filing for details regarding the specific capital raising or offering being proposed.",
       "key_themes": [
         "Capital raise",
-        "Prospectus"
+        "Regulatory filing"
       ]
     },
     {

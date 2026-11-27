@@ -2,9 +2,22 @@
   "name": "INVESTEC BANK PLC",
   "ticker": "IM88",
   "slug": "investec-bank-im88",
-  "announcement_count": 3,
-  "latest_announcement": "2026-09-22T15:00:00",
+  "announcement_count": 4,
+  "latest_announcement": "2026-11-27T13:30:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T13:30:00",
+      "category": "Results",
+      "headline": "Half-year Financial Report",
+      "url": "https://www.investegate.co.uk/announcement/rns/investec-bank-plc--im88/half-year-financial-report/9898006",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "The half-year report follows the May unaudited data and June annual filing. Shareholders should monitor for detailed performance metrics.",
+      "key_themes": [
+        "Results"
+      ]
+    },
     {
       "timestamp": "2026-09-22T15:00:00",
       "category": null,
@@ -24,10 +37,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies the release of scheduled annual financial results, which provides shareholders with a comprehensive review of the company's performance over the past year. The specific financial direction or magnitude of the results is not indicated by the headline alone.",
+      "insight": "The annual financial report follows the May 2026 unaudited condensed financial information, providing a comprehensive view of performance for shareholders.",
       "key_themes": [
-        "Results",
-        "Annual Report"
+        "Results"
       ]
     },
     {
@@ -38,7 +50,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement provides unaudited condensed financial information, which typically serves as a scheduled interim update for shareholders to monitor performance between full annual reports. The headline does not specify the direction of results or any material events, limiting its immediate impact assessment.",
+      "insight": "Investec Bank PLC has released unaudited condensed financial information. Shareholders should monitor subsequent filings for detailed performance metrics and strategic updates.",
       "key_themes": [
         "Results",
         "Financial Reporting"

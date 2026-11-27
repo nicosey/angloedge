@@ -2,9 +2,20 @@
   "name": "IWG",
   "ticker": "IWG",
   "slug": "iwg-iwg",
-  "announcement_count": 24,
-  "latest_announcement": "2026-11-20T07:00:00",
+  "announcement_count": 25,
+  "latest_announcement": "2026-11-27T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T07:00:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/iwg--iwg/transaction-in-own-shares/9896624",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-20T07:00:00",
       "category": null,
@@ -57,10 +68,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has executed a transaction in the company's shares. Such dealings are routine regulatory disclosures and typically carry low immediate significance for shareholders unless accompanied by further context regarding volume or intent.",
+      "insight": "Director/PDMR Transaction filings occurred in August. Shareholders should monitor for further insider activity patterns.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Insider Dealing"
       ]
     },
     {
@@ -151,10 +162,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has executed a transaction in the company's shares. Such dealings are routine regulatory disclosures and typically carry low immediate significance for shareholders unless accompanied by context regarding volume or intent.",
+      "insight": "Director/PDMR Transaction filings in August follow a June buyback increase. Shareholders should monitor these dealings for signals regarding management confidence.",
       "key_themes": [
-        "Director Dealing",
-        "Governance"
+        "Governance",
+        "Shareholder returns"
       ]
     },
     {
@@ -176,10 +187,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has engaged in a transaction involving the company's shares. Such dealings are routine governance disclosures that provide insight into insider activity but do not inherently signal a change in corporate strategy or financial performance.",
+      "insight": "Director dealing activity is reported. This follows a previous transaction in June and an August filing, indicating ongoing insider trading.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Director dealings"
       ]
     },
     {
@@ -190,10 +201,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies a change in the firm's financial intermediation arrangements, which is typically classified as a board-level governance update. It indicates an administrative shift in how the company manages its market-facing relationships rather than a fundamental change to its business operations or strategy.",
+      "insight": "IWG appoints joint brokers. This follows recent director transactions and a share buyback increase.",
       "key_themes": [
         "Governance",
-        "Corporate Services"
+        "Capital management"
       ]
     },
     {
@@ -204,10 +215,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has executed a transaction in the company's shares. Such dealings are routine governance disclosures and typically have minimal direct impact on shareholder value unless they signal significant insider sentiment shifts.",
+      "insight": "Director dealing activity follows recent leadership changes and a share buyback increase. Shareholders should monitor if these transactions align with the company's capital return strategy.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Capital return"
       ]
     },
     {
@@ -218,11 +229,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a routine disclosure of non-financial reporting, which generally indicates adherence to governance standards rather than immediate financial impact. It provides information relevant to ESG-focused investors but does not suggest material changes to the company's operational or financial position.",
+      "insight": "IWG published its first Sustainability Report. This follows recent leadership changes and a share buyback increase in June.",
       "key_themes": [
         "Governance",
-        "ESG",
-        "Corporate Reporting"
+        "ESG"
       ]
     },
     {
@@ -258,10 +268,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has executed a transaction in the company's shares. Such dealings are routine governance disclosures and typically carry low immediate investment significance unless they signal unusual insider sentiment.",
+      "insight": "Director dealing activity follows recent leadership changes. Shareholders should monitor for further executive transactions.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Leadership"
       ]
     },
     {
@@ -282,11 +292,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/iwg--iwg/tap-issuance-/9622056",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "The issuance of tap securities typically indicates a continuation of an existing funding program, suggesting the company is raising additional capital. This action can dilute existing shareholders but may also provide necessary liquidity for operations or growth.",
+      "impact_score": 3,
+      "insight": "IWG announces Tap Issuance following June leadership changes. Shareholders should monitor for further details on this capital action.",
       "key_themes": [
         "Capital raise",
-        "Debt issuance"
+        "Governance"
       ]
     },
     {
@@ -297,10 +307,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "Leadership changes often signal a shift in strategic direction or operational oversight, which can significantly influence shareholder confidence and future performance.",
+      "insight": "Leadership changes at IWG may signal strategic shifts. Shareholders should monitor for subsequent announcements detailing the new management's direction.",
       "key_themes": [
         "Governance",
-        "Management Change"
+        "Management"
       ]
     }
   ]

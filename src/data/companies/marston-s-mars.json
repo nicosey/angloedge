@@ -2,9 +2,23 @@
   "name": "Marston's",
   "ticker": "MARS",
   "slug": "marston-s-mars",
-  "announcement_count": 12,
-  "latest_announcement": "2026-11-24T07:00:00",
+  "announcement_count": 13,
+  "latest_announcement": "2026-11-27T11:16:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T11:16:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/marston-s--mars/director-pdmr-shareholding/9897805",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Director shareholding changes follow preliminary results. Shareholders should monitor for further insider activity.",
+      "key_themes": [
+        "Governance",
+        "Results"
+      ]
+    },
     {
       "timestamp": "2026-11-24T07:00:00",
       "category": "Results",
@@ -13,7 +27,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies the release of scheduled preliminary financial results, which are critical for shareholders to assess the company's recent performance and future outlook. The specific direction or magnitude of the results is not indicated by the headline alone.",
+      "insight": "Marston's has released preliminary results. Shareholders should await further details to assess financial performance.",
       "key_themes": [
         "Results"
       ]
@@ -114,7 +128,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director share dealings, which typically signifies routine insider trading activity rather than a significant corporate event. While it provides transparency into executive holdings, it generally has limited immediate impact on shareholder value compared to strategic or financial disclosures.",
+      "insight": "Marston's director dealings are recorded. Shareholders should monitor future filings for significant changes in insider shareholding levels.",
       "key_themes": [
         "Governance",
         "Director Dealing"

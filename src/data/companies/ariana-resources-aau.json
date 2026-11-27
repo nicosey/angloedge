@@ -2,9 +2,20 @@
   "name": "Ariana Resources",
   "ticker": "AAU",
   "slug": "ariana-resources-aau",
-  "announcement_count": 11,
-  "latest_announcement": "2026-11-26T11:30:00",
+  "announcement_count": 12,
+  "latest_announcement": "2026-11-27T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T07:00:00",
+      "category": null,
+      "headline": "Notice of General Meeting",
+      "url": "https://www.investegate.co.uk/announcement/rns/ariana-resources--aau/notice-of-general-meeting-/9896720",
+      "routine_type": "Meeting Notices",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-26T11:30:00",
       "category": "Director Dealing",
@@ -27,10 +38,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director dealings, which typically indicates routine compliance filings rather than significant strategic shifts. Shareholders should note that such disclosures are standard governance requirements and do not inherently signal major corporate events.",
+      "insight": "Director dealing activity follows the proposed secondary listing. Shareholders should monitor for further updates on the VFEX debut.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Secondary Listing"
       ]
     },
     {
@@ -52,11 +63,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "This announcement indicates a significant capital raising activity through a secondary listing on the VFEX, which typically involves issuing new shares and diluting existing holdings. It signals an expansion of the investor base and potential access to new funding sources for the company.",
+      "insight": "Proposed secondary listing follows Executive Chairman appointment. This suggests strategic restructuring to enhance capital access.",
       "key_themes": [
         "Capital raise",
-        "Secondary listing",
-        "Market expansion"
+        "Governance"
       ]
     },
     {
@@ -81,10 +91,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement represents third-party broker commentary rather than a direct corporate disclosure from the company. It generally signifies external market analysis and opinions, which may influence investor sentiment but does not constitute material corporate action or financial data.",
+      "insight": "This is an external broker note, not a company announcement. Shareholders should monitor the upcoming events calendar for substantive corporate updates.",
       "key_themes": [
         "Broker Note",
-        "Market Commentary"
+        "External Commentary"
       ]
     },
     {
@@ -94,11 +104,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/ariana-resources--aau/upcoming-events-calendar/9817993",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This announcement is an administrative update providing a calendar of upcoming events, which typically serves as housekeeping information for shareholders without conveying immediate financial or strategic significance.",
+      "impact_score": 3,
+      "insight": "Ariana Resources shares a calendar of upcoming events. Shareholders should monitor these dates for further corporate updates following recent governance changes.",
       "key_themes": [
-        "Corporate Actions",
-        "Governance"
+        "Governance",
+        "Corporate Actions"
       ]
     },
     {
@@ -109,10 +119,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "The appointment of an Executive Chairman represents a significant change in senior leadership and governance structure. This type of departure or appointment at the chair level is typically considered a material event for shareholders as it may signal strategic shifts or operational changes.",
+      "insight": "Appointment of Executive Chairman follows recent director holding updates. This leadership change may signal strategic shifts for shareholders.",
       "key_themes": [
         "Governance",
-        "Leadership Change"
+        "Leadership"
       ]
     },
     {
@@ -137,7 +147,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a transaction by a person discharging managerial responsibilities, which is a routine regulatory disclosure. It generally signifies standard compliance with insider dealing regulations rather than a material change in the company's strategic direction or financial position.",
+      "insight": "Director dealing activity is reported. Shareholders should monitor subsequent filings for context relative to the May AGM.",
       "key_themes": [
         "Governance",
         "Director Dealing"
@@ -151,7 +161,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of a general meeting and provides an updated corporate presentation, which typically serves to inform shareholders of governance decisions and current strategic positioning.",
+      "insight": "Shareholders should note the AGM results and updated corporate presentation. This filing provides governance outcomes without indicating immediate strategic shifts.",
       "key_themes": [
         "Governance",
         "Corporate Update"

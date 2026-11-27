@@ -2,9 +2,23 @@
   "name": "Time Finance",
   "ticker": "TIME",
   "slug": "time-finance-time",
-  "announcement_count": 5,
-  "latest_announcement": "2026-11-05T11:01:00",
+  "announcement_count": 6,
+  "latest_announcement": "2026-11-27T13:42:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T13:42:00",
+      "category": null,
+      "headline": "Update on Regulatory Conditions",
+      "url": "https://www.investegate.co.uk/announcement/rns/time-finance--time/update-on-regulatory-conditions/9898026",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Following the recommended cash acquisition in August and court meetings in October, this update addresses regulatory conditions for the deal. Shareholders should monitor progress toward final sanction.",
+      "key_themes": [
+        "M&A",
+        "Regulatory"
+      ]
+    },
     {
       "timestamp": "2026-11-05T11:01:00",
       "category": "AGM/EGM",
@@ -23,11 +37,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/time-finance--time/results-of-court-meeting-and-general-meeting/9802279",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement discloses the outcomes of shareholder votes held at a court meeting and general meeting, which typically relate to corporate governance matters or specific structural approvals.",
+      "impact_score": 9,
+      "insight": "Following the August recommended cash acquisition notice, this court meeting result is a critical step in finalizing the takeover deal for shareholders.",
       "key_themes": [
-        "Governance",
-        "Shareholder vote"
+        "M&A",
+        "Regulatory"
       ]
     },
     {
@@ -49,11 +63,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "A recommended cash acquisition typically signifies a definitive offer to acquire the company, often resulting in a premium for shareholders and the potential end of independent listing. This type of announcement generally indicates a high probability of a change in control or delisting.",
+      "insight": "Time Finance faces a recommended cash acquisition. Shareholders should monitor the outcome of this offer following the Q4 update.",
       "key_themes": [
         "M&A",
-        "Takeover",
-        "Cash Offer"
+        "Acquisition"
       ]
     },
     {
@@ -63,11 +76,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/time-finance--time/lending-book-milestone-notice-of-q4-update/9607736",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This announcement indicates a scheduled update regarding financial performance or operational metrics, which is significant for assessing the company's current standing. The inclusion of a milestone suggests potential positive momentum, but the specific direction and magnitude remain undefined by the headline.",
+      "impact_score": 5,
+      "insight": "Time Finance reports a lending book milestone and notices a Q4 update. Shareholders should await the Q4 update for further details.",
       "key_themes": [
-        "Results",
-        "Operational Update"
+        "Trading update",
+        "Corporate announcement"
       ]
     }
   ]

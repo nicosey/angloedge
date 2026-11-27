@@ -2,9 +2,24 @@
   "name": "Coral Products",
   "ticker": "CRU",
   "slug": "coral-products-cru",
-  "announcement_count": 5,
-  "latest_announcement": "2026-11-03T14:47:00",
+  "announcement_count": 6,
+  "latest_announcement": "2026-11-27T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T07:00:00",
+      "category": "Results",
+      "headline": "Further re Final Results, Broker & Funding",
+      "url": "https://www.investegate.co.uk/announcement/rns/coral-products--cru/further-re-final-results-broker-funding/9896619",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 9,
+      "insight": "Shares are suspended following directorate changes, board updates, related party transactions, and a trading update. This RNS addresses final results, brokers, and funding amid the suspension.",
+      "key_themes": [
+        "Suspension",
+        "Results",
+        "Governance"
+      ]
+    },
     {
       "timestamp": "2026-11-03T14:47:00",
       "category": null,
@@ -24,10 +39,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "A suspension of shares indicates that trading in the company's stock has been halted, typically due to unresolved regulatory issues or significant uncertainty requiring immediate disclosure. This event prevents shareholders from buying or selling the stock and often signals potential volatility or risk upon resumption.",
+      "insight": "Shares are suspended following related party transactions. Shareholders should monitor for further updates regarding the company's status.",
       "key_themes": [
         "Suspension",
-        "Trading Halt"
+        "Governance"
       ]
     },
     {
@@ -38,10 +53,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies a disclosure of transactions between the company and its related parties, which is a standard governance requirement to ensure transparency. Shareholders should review the details to assess whether these dealings are on an arm's length basis and do not present conflicts of interest.",
+      "insight": "Coral Products discloses related party transactions following recent board changes. Shareholders should monitor governance implications arising from these director-level updates.",
       "key_themes": [
         "Governance",
-        "Related Party Transactions"
+        "Board Changes"
       ]
     },
     {
@@ -51,12 +66,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/coral-products--cru/board-changes-and-further-trading-update/9789631",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This announcement combines a trading update with board changes, indicating potential shifts in leadership alongside performance reporting. The specific financial direction and the nature of the personnel changes are not disclosed in the headline.",
+      "impact_score": 5,
+      "insight": "Coral Products announced board changes following a September directive update. This trading update provides further operational context for shareholders.",
       "key_themes": [
-        "Trading Update",
         "Governance",
-        "Board Changes"
+        "Trading Update"
       ]
     },
     {
@@ -67,7 +81,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement indicates a change in the board composition, which is a standard governance event that may signal strategic shifts but lacks specific details regarding the nature or significance of the appointment.",
+      "insight": "Coral Products has announced a change to its board of directors. Shareholders should monitor subsequent filings for details on the specific individuals involved and their roles.",
       "key_themes": [
         "Governance",
         "Board Change"

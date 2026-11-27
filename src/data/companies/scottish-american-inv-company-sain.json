@@ -2,9 +2,20 @@
   "name": "Scottish American Inv Company",
   "ticker": "SAIN",
   "slug": "scottish-american-inv-company-sain",
-  "announcement_count": 31,
-  "latest_announcement": "2026-11-17T16:47:00",
+  "announcement_count": 32,
+  "latest_announcement": "2026-11-26T16:48:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T16:48:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/scottish-american-inv-company--sain/transaction-in-own-shares/9896443",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-17T16:47:00",
       "category": null,
@@ -79,10 +90,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a standard dividend declaration, which generally indicates the board's confidence in cash flow and commitment to returning capital to investors. It is a routine corporate action that typically has a limited immediate impact on share price volatility compared to strategic or financial performance updates.",
+      "insight": "A dividend declaration has been made. This is the first such filing on record for the company.",
       "key_themes": [
-        "Dividend",
-        "Shareholder return"
+        "Dividend"
       ]
     },
     {

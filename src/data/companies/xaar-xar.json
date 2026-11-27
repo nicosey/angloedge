@@ -2,9 +2,31 @@
   "name": "Xaar",
   "ticker": "XAR",
   "slug": "xaar-xar",
-  "announcement_count": 10,
-  "latest_announcement": "2026-11-25T07:02:00",
+  "announcement_count": 12,
+  "latest_announcement": "2026-11-27T15:35:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T15:35:00",
+      "category": null,
+      "headline": "Holding(s) in Company - Replacement",
+      "url": "https://www.investegate.co.uk/announcement/rns/xaar--xar/holding-s-in-company-replacement/9898260",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-27T14:11:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/xaar--xar/holding-s-in-company/9898079",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-25T07:02:00",
       "category": "Placing",
@@ -12,12 +34,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/xaar--xar/launch-of-retail-offer/9892407",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "This announcement signifies a capital raise through a retail share offering, which typically results in share dilution for existing holders while providing the company with new equity funding.",
+      "impact_score": 5,
+      "insight": "The retail offer follows the November placing. Shareholders should monitor the outcome of this new capital raising effort.",
       "key_themes": [
         "Capital raise",
-        "Equity financing",
-        "Shareholder dilution"
+        "Corporate action"
       ]
     },
     {
@@ -27,12 +48,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/xaar--xar/result-of-placing/9892204",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "This announcement confirms the outcome of a placing, which typically involves raising new capital by issuing shares. For shareholders, this signifies potential dilution of existing equity stakes while providing the company with additional funds.",
+      "impact_score": 5,
+      "insight": "Board changes in October precede this placing result. Shareholders should monitor how new leadership influences capital allocation.",
       "key_themes": [
         "Capital raise",
-        "Share issuance",
-        "Dilution"
+        "Governance"
       ]
     },
     {
@@ -43,10 +63,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director share dealings, which typically have a low direct impact on shareholder value unless they signal significant insider sentiment shifts. Such filings are routine regulatory disclosures that provide transparency into individual executive transactions rather than corporate strategy.",
+      "insight": "Director dealings follow recent board changes. Shareholders should monitor for further governance shifts.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Director Dealing"
       ]
     },
     {
@@ -57,10 +77,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies a change in the company's board composition, which may indicate shifts in governance or strategic direction. Such changes are typically monitored by shareholders to assess potential impacts on leadership stability and oversight.",
+      "insight": "Board changes are announced. Shareholders should monitor for any strategic implications following the recent AGM and product launch.",
       "key_themes": [
         "Governance",
-        "Board Change"
+        "Board change"
       ]
     },
     {
@@ -71,10 +91,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 1,
-      "insight": "This announcement concerns a product launch by an external entity and does not indicate any direct activity, transaction, or strategic development for Xaar.",
+      "insight": "This concerns a third-party product launch unrelated to Xaar. Shareholders should note this has no bearing on the company.",
       "key_themes": [
-        "Press release",
-        "External event"
+        "Other"
       ]
     },
     {
@@ -129,10 +148,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director reappointments or statutory resolutions. It signifies standard corporate governance activity rather than a material change in the company's strategic or financial position.",
+      "insight": "Shareholders should note the outcome of the Annual General Meeting. This result confirms the decisions made by the membership.",
       "key_themes": [
         "Governance",
-        "Shareholder approval"
+        "Meeting results"
       ]
     }
   ]

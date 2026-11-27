@@ -2,9 +2,34 @@
   "name": "Northern 3 VCT",
   "ticker": "NTN",
   "slug": "northern-3-vct-ntn",
-  "announcement_count": 14,
-  "latest_announcement": "2026-11-20T14:01:00",
+  "announcement_count": 16,
+  "latest_announcement": "2026-11-27T13:15:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T13:15:00",
+      "category": null,
+      "headline": "Issue of equity and total voting rights",
+      "url": "https://www.investegate.co.uk/announcement/gnw/northern-3-vct--ntn/issue-of-equity-and-total-voting-rights/9897992",
+      "routine_type": "Total Voting Rights",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-27T13:15:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Dealings",
+      "url": "https://www.investegate.co.uk/announcement/gnw/northern-3-vct--ntn/director-pdmr-dealings/9897991",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Director dealings follow recent dividend declarations and financial reports. Shareholders should monitor for further insider activity signals.",
+      "key_themes": [
+        "Governance",
+        "Dividend"
+      ]
+    },
     {
       "timestamp": "2026-11-20T14:01:00",
       "category": "Dividend",
@@ -13,10 +38,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a standard dividend declaration, which typically indicates ongoing income distribution to shareholders but does not inherently suggest significant strategic changes or financial distress.",
+      "insight": "Northern 3 VCT declares a dividend. This follows the half-yearly financial report for the six months ended 30 September 2026.",
       "key_themes": [
         "Dividend",
-        "Income"
+        "Results"
       ]
     },
     {
@@ -26,11 +51,11 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/northern-3-vct--ntn/half-yearly-financial-report-for-the-six-mont-/9887040",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This scheduled half-yearly financial report provides shareholders with standard performance data for the period ended 30 September 2026. The headline does not indicate any specific direction or magnitude of results, so it represents routine disclosure rather than a material event.",
+      "impact_score": 9,
+      "insight": "Northern 3 VCT is pursuing a formal offer for subscription following the August agreement amendment. Shareholders should monitor the subsequent court meeting and sanction steps.",
       "key_themes": [
-        "Results",
-        "Financial Reporting"
+        "Capital raise",
+        "M&A"
       ]
     },
     {
@@ -55,10 +80,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "The publication of an offer document typically signifies a formal proposal for acquisition or a significant corporate transaction, which may lead to a change in control or substantial value realization for shareholders.",
+      "insight": "Following the June intention to fundraise, this offer document details the capital raising process. Shareholders should monitor the AGM results and management agreement amendments for context.",
       "key_themes": [
-        "Corporate action",
-        "Offer document"
+        "Capital raise",
+        "Governance"
       ]
     },
     {
@@ -91,7 +116,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a routine amendment to the terms governing the investment management relationship, which is standard administrative housekeeping for investment trusts. It does not indicate any immediate change in strategy or financial performance.",
+      "insight": "Northern 3 VCT amended its investment management agreement following the June AGM results. Shareholders should monitor for further details on how this affects future fund management.",
       "key_themes": [
         "Governance",
         "Administration"
@@ -141,7 +166,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies the release of annual financial results and the convening of an Annual General Meeting, which are standard scheduled events for shareholders to review performance and exercise voting rights.",
+      "insight": "Northern 3 VCT publishes its annual financial report alongside a notice for the Annual General Meeting. This follows earlier dividend and fundraising statements issued in June 2026.",
       "key_themes": [
         "Results",
         "Governance"
@@ -155,7 +180,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "This announcement indicates an intention to raise capital, which typically involves issuing new shares and may lead to dilution of existing holdings. It signals a potential change in the company's capital structure or funding strategy.",
+      "insight": "Northern 3 VCT intends to fundraise following its June 2026 results. Shareholders should watch for details of this capital raise.",
       "key_themes": [
         "Capital raise",
         "Fundraising"
@@ -169,10 +194,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a dividend declaration, which is generally considered a routine corporate action for income-focused investors. It confirms the distribution of profits to shareholders without indicating any strategic shifts or material financial changes.",
+      "insight": "Northern 3 VCT declared a dividend following its March 2026 annual report. Shareholders should monitor subsequent filings for payment details.",
       "key_themes": [
-        "Dividend",
-        "Shareholder return"
+        "Dividend"
       ]
     },
     {
@@ -183,10 +207,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies the publication of the annual financial statements for the reporting period ending in March. Shareholders will use this document to assess the fund's performance and distribution policy for the year.",
+      "insight": "Northern 3 VCT has published its annual report for the year ended 31 March 2026. Shareholders should review the financial statements to assess performance.",
       "key_themes": [
-        "Results",
-        "Governance"
+        "Results"
       ]
     }
   ]

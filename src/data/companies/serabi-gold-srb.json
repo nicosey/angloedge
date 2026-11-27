@@ -2,9 +2,23 @@
   "name": "Serabi Gold",
   "ticker": "SRB",
   "slug": "serabi-gold-srb",
-  "announcement_count": 6,
-  "latest_announcement": "2026-10-21T06:00:00",
+  "announcement_count": 7,
+  "latest_announcement": "2026-11-27T06:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T06:00:00",
+      "category": "Results",
+      "headline": "Unaudited interim results for the three-and n...",
+      "url": "https://www.investegate.co.uk/announcement/gnw/serabi-gold--srb/unaudited-interim-results-for-the-three-and-n-/9896534",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 5,
+      "insight": "Serabi Gold released interim results for the period ending June 2026, following its May dividend notice and October operational update.",
+      "key_themes": [
+        "Results",
+        "Operational Update"
+      ]
+    },
     {
       "timestamp": "2026-10-21T06:00:00",
       "category": null,
@@ -13,10 +27,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement provides a scheduled operational update regarding production figures for the specified quarter. It signifies routine performance monitoring without indicating specific financial outcomes or strategic shifts.",
+      "insight": "Serabi Gold reports Q3-2026 production highlights following its June interim results. Shareholders should monitor operational performance trends relative to previous reporting periods.",
       "key_themes": [
         "Operational Update",
-        "Production Data"
+        "Production"
       ]
     },
     {
@@ -27,10 +41,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement provides scheduled interim financial results for the first half of the year, which is a standard regulatory requirement for listed companies. The specific direction of the results is not indicated in the headline, so it represents routine disclosure rather than a material event.",
+      "insight": "Unaudited interim results for the three-and six-month periods ended 30 June 2026 are published. This follows the May dividend information and June AGM statement.",
       "key_themes": [
-        "Results",
-        "Interim Report"
+        "Results"
       ]
     },
     {
@@ -41,10 +54,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the holding of an Annual General Meeting, which is a standard governance event for shareholders to vote on routine matters and receive updates from management.",
+      "insight": "Serabi Gold holds its Annual General Meeting. This follows the May dividend information, confirming shareholder approval of the payout.",
       "key_themes": [
         "Governance",
-        "AGM"
+        "Dividend"
       ]
     },
     {
@@ -77,10 +90,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to dividend information, which typically signifies a routine update regarding shareholder returns. Without specific details on amounts or changes, it represents a standard corporate action with limited immediate impact.",
+      "insight": "Serabi Gold has issued a dividend information announcement. This represents a capital return to shareholders.",
       "key_themes": [
-        "Dividend",
-        "Shareholder Returns"
+        "Dividend"
       ]
     }
   ]

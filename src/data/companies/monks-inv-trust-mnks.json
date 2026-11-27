@@ -2,9 +2,20 @@
   "name": "Monks Inv Trust",
   "ticker": "MNKS",
   "slug": "monks-inv-trust-mnks",
-  "announcement_count": 26,
-  "latest_announcement": "2026-11-02T14:11:00",
+  "announcement_count": 27,
+  "latest_announcement": "2026-11-26T16:47:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T16:47:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/monks-inv-trust--mnks/transaction-in-own-shares/9896441",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-02T14:11:00",
       "category": null,
@@ -101,10 +112,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. It provides transparency regarding individual holdings but does not inherently signal a change in corporate strategy or financial performance.",
+      "insight": "Director dealings are reported. This follows recent general meeting results regarding share buyback authority.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Shareholder action"
       ]
     },
     {
@@ -115,10 +126,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine governance matters such as the re-election of directors or approval of fees. It signifies standard shareholder engagement rather than any material change to the company's strategic direction or financial position.",
+      "insight": "The AGM results confirm the renewal of share buyback authority previously proposed in May. This follows the earlier GM notice and finalizes the capital return mechanism.",
       "key_themes": [
         "Governance",
-        "Shareholder Meeting"
+        "Capital Return"
       ]
     },
     {
@@ -239,10 +250,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of a general meeting, which is a standard governance event for shareholders. It typically involves routine matters such as director reappointments or administrative approvals rather than significant strategic changes.",
+      "insight": "The general meeting results conclude the authority to buy back shares announced in May. Shareholders should monitor subsequent trading activity for execution of this renewed mandate.",
       "key_themes": [
         "Governance",
-        "Shareholder Meeting"
+        "Capital return"
       ]
     },
     {
@@ -297,10 +308,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that the company is seeking shareholder approval to renew its authority to repurchase shares, a routine governance procedure. It signifies an ongoing capacity for capital return but does not confirm any immediate buyback activity or specific terms.",
+      "insight": "Monks Inv Trust seeks shareholder approval to renew its share buyback authority. This routine governance update allows continued capital return without specifying new terms or amounts.",
       "key_themes": [
         "Governance",
-        "Capital Return"
+        "Capital return"
       ]
     }
   ]

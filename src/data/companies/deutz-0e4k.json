@@ -2,9 +2,31 @@
   "name": "Deutz AG",
   "ticker": "0E4K",
   "slug": "deutz-0e4k",
-  "announcement_count": 67,
-  "latest_announcement": "2026-11-23T19:21:00",
+  "announcement_count": 69,
+  "latest_announcement": "2026-11-27T14:46:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T14:46:00",
+      "category": null,
+      "headline": "EQS-PVR: DEUTZ Aktiengesellschaft: Release ac...",
+      "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-pvr-deutz-aktiengesellschaft-release-ac-/9898268",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
+    {
+      "timestamp": "2026-11-27T09:29:00",
+      "category": null,
+      "headline": "EQS-PVR: Deutz AG: Release according to Artic...",
+      "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-pvr-deutz-ag-release-according-to-artic-/9897661",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-23T19:21:00",
       "category": null,
@@ -57,10 +79,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by an individual named in the headline. Such transactions generally signal personal investment activity rather than a corporate event with immediate financial implications for shareholders.",
+      "insight": "Helmut Ernst buys shares, continuing a pattern of insider purchases seen in November. This suggests ongoing confidence from management.",
       "key_themes": [
-        "Director dealings",
-        "Insider transaction"
+        "Director dealings"
       ]
     },
     {
@@ -70,11 +91,10 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-helmut-ernst-kauf/9885101",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement indicates a change in the company's board composition, which is relevant to corporate governance but does not inherently signal immediate financial performance or strategic shifts.",
+      "impact_score": 3,
+      "insight": "Helmut Ernst purchased shares, continuing a pattern of insider buying seen in November alongside Dr. Dietmar Voggenreiter and Melanie Freytag.",
       "key_themes": [
-        "Governance",
-        "Board Change"
+        "Director dealings"
       ]
     },
     {
@@ -85,10 +105,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a director dealing, specifically a purchase by Melanie Freytag, which signals insider activity but does not inherently suggest a change in corporate strategy or financial performance.",
+      "insight": "Melanie Freytag’s buy follows earlier purchases by Dr. Dietmar Voggenreiter and Dr. Simone Voggenreiter in November 2026, indicating continued insider confidence.",
       "key_themes": [
-        "Director dealings",
-        "Insider buying"
+        "Director dealings"
       ]
     },
     {
@@ -98,11 +117,10 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-melanie-freytag-kauf/9885099",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement indicates a change in the company's board composition, which is relevant to corporate governance and leadership structure.",
+      "impact_score": 3,
+      "insight": "Melanie Freytag’s purchase follows earlier buys by Dr. Dietmar Voggenreiter and Dr. Simone Voggenreiter in November 2026.",
       "key_themes": [
-        "Governance",
-        "Board change"
+        "Director dealings"
       ]
     },
     {
@@ -112,11 +130,10 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-simone-voggenreiter-ka-/9885098",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement indicates a change in the company's management structure, specifically involving an individual named Dr. Simone Voggenreiter. Such personnel changes are typically classified as board or executive appointments, which can influence corporate governance and strategic direction.",
+      "impact_score": 3,
+      "insight": "Dr. Simone Voggenreiter purchased shares, following similar transactions by Dr. Dietmar Voggenreiter in November and Dr. Sebastian C. Schulte earlier that month.",
       "key_themes": [
-        "Governance",
-        "Management Change"
+        "Director dealings"
       ]
     },
     {
@@ -126,11 +143,10 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-simone-voggenreiter-bu-/9885097",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by an individual named in the headline. Such transactions are routine insider dealings that provide limited insight into the company's fundamental value or future performance.",
+      "impact_score": 3,
+      "insight": "Dr. Simone Voggenreiter’s buy follows earlier purchases by Dr. Sebastian C. Schulte and Dr. Dietmar Voggenreiter in November 2026.",
       "key_themes": [
-        "Director dealings",
-        "Insider trading"
+        "Director dealings"
       ]
     },
     {
@@ -140,11 +156,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-dietmar-voggenreiter-k-/9885095",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement indicates a change in the company's board composition, which is a standard governance event. Such changes are typically monitored by shareholders for implications on leadership continuity and strategic oversight.",
+      "impact_score": 3,
+      "insight": "Dr. Dietmar Voggenreiter purchased shares, following similar buys by Dr. Schulte and Melanie Freytag in November. This signals insider confidence alongside reported profit growth.",
       "key_themes": [
-        "Governance",
-        "Board Change"
+        "Director dealings",
+        "Insider buying"
       ]
     },
     {
@@ -155,10 +171,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by Dr. Dietmar Voggenreiter, which signals personal confidence in the company but typically has limited immediate financial impact on shareholders.",
+      "insight": "Dr. Dietmar Voggenreiter buys shares following similar purchases by Melanie Freytag and Dr. Sebastian C. Schulte in November.",
       "key_themes": [
-        "Director dealings",
-        "Insider buying"
+        "Director dealings"
       ]
     },
     {
@@ -246,10 +261,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a director dealing, specifically a purchase by an individual named in the headline. Such transactions generally signal personal investment activity rather than a corporate event affecting shareholder value.",
+      "insight": "Dr. Sebastian C. Schulte has executed a buy transaction. This follows similar director dealings by Melanie Freytag in November.",
       "key_themes": [
-        "Director dealings",
-        "Insider buying"
+        "Director dealings"
       ]
     },
     {
@@ -259,11 +273,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-sebastian-c-schulte-k-/9860514",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement indicates a change in the company's board composition, which is a standard governance event. Such appointments are routine administrative updates that typically have limited immediate financial impact on shareholders.",
+      "impact_score": 3,
+      "insight": "Dr. Sebastian C. Schulte has executed a purchase of shares. This follows similar insider buying activity by Melanie Freytag in November.",
       "key_themes": [
-        "Governance",
-        "Board Change"
+        "Director dealings",
+        "Insider trading"
       ]
     },
     {
@@ -274,10 +288,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a regulatory disclosure regarding a transaction involving the company's shares, likely related to shareholding thresholds or insider dealings. It serves as a compliance update for shareholders rather than indicating a change in corporate strategy or financial performance.",
+      "insight": "Deutz AG announces a dividend distribution. This follows recent profit growth reported in November.",
       "key_themes": [
-        "Shareholding",
-        "Regulatory Disclosure"
+        "Dividend",
+        "Results"
       ]
     },
     {
@@ -287,11 +301,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-news-deutz-generates-double-digit-growth-/9859044",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "This announcement indicates a significant positive shift in financial performance, suggesting improved operational efficiency and earnings potential for shareholders. Such double-digit growth and profitability increases typically warrant a re-rating of the equity valuation.",
+      "impact_score": 5,
+      "insight": "Deutz AG reports double-digit growth and increased profitability for the first nine months of 2026. This follows preliminary announcements in October regarding quarterly report publications.",
       "key_themes": [
         "Results",
-        "Profitability"
+        "Trading update"
       ]
     },
     {
@@ -301,11 +315,10 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-melanie-freytag-kauf/9853126",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement indicates a change in the company's board composition, which is a standard governance event. Such changes are generally routine and do not inherently signal significant strategic shifts or financial implications for shareholders.",
+      "impact_score": 3,
+      "insight": "Melanie Freytag has purchased shares, following similar buys by Dr. Simone Voggenreiter and Helmut Ernst in October.",
       "key_themes": [
-        "Governance",
-        "Board Change"
+        "Director dealings"
       ]
     },
     {
@@ -316,10 +329,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by an individual named in the headline. Such transactions provide insight into insider sentiment but typically have limited immediate impact on the company's operational outlook or share price.",
+      "insight": "Melanie Freytag buys shares, following similar transactions by Dr. Simone Voggenreiter and Helmut Ernst in October.",
       "key_themes": [
-        "Director dealings",
-        "Insider activity"
+        "Director dealings"
       ]
     },
     {
@@ -343,11 +355,10 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-helmut-ernst-kauf/9841620",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement indicates a change in the company's board composition, which typically affects corporate governance and leadership structure. Shareholders should review the full details to understand the specific roles and responsibilities of the new appointee.",
+      "impact_score": 3,
+      "insight": "Helmut Ernst purchased shares, adding to recent buying activity by Dr. Dietmar and Dr. Simone Voggenreiter in October.",
       "key_themes": [
-        "Governance",
-        "Board Change"
+        "Director dealings"
       ]
     },
     {
@@ -358,10 +369,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by an individual named in the headline. Such transactions are routine insider activity that provides limited insight into the company's broader financial health or strategic direction.",
+      "insight": "Helmut Ernst bought shares, following similar director dealings by Dr. Dietmar and Dr. Simone Voggenreiter in October.",
       "key_themes": [
-        "Director dealings",
-        "Insider trading"
+        "Director dealings"
       ]
     },
     {
@@ -372,10 +382,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by Dr. Simone Voggenreiter. Such transactions generally signal personal investment activity rather than corporate strategic shifts.",
+      "insight": "Dr. Simone Voggenreiter’s buy follows earlier dealings by both Dr. Dietmar and Dr. Simone Voggenreiter in October 2026.",
       "key_themes": [
-        "Director dealings",
-        "Insider buying"
+        "Director dealings"
       ]
     },
     {
@@ -385,11 +394,10 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-simone-voggenreiter-ka-/9838632",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement indicates a change in the company's management structure, specifically involving an appointment or departure of a named individual. Such governance changes are significant for shareholders as they may signal strategic shifts or leadership transitions within the organization.",
+      "impact_score": 3,
+      "insight": "Dr. Simone Voggenreiter purchased shares, following earlier buys by Dr. Dietmar Voggenreiter in October.",
       "key_themes": [
-        "Governance",
-        "Management Change"
+        "Director dealings"
       ]
     },
     {
@@ -400,10 +408,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by an individual named in the headline. Such transactions are typically low-impact events that signal personal investment activity rather than corporate strategy changes.",
+      "insight": "Dr. Simone Voggenreiter’s purchase follows earlier dealings by Dr. Dietmar Voggenreiter in October. This indicates continued insider buying activity within the same family.",
       "key_themes": [
-        "Director dealings",
-        "Insider trading"
+        "Director dealings"
       ]
     },
     {
@@ -413,11 +420,10 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-simone-voggenreiter-ka-/9838529",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement indicates a change in the company's management structure, specifically involving an individual named Dr. Simone Voggenreiter. Such personnel changes are typically monitored by shareholders as they may signal strategic shifts or governance updates within the organization.",
+      "impact_score": 3,
+      "insight": "Dr. Simone Voggenreiter buys shares, continuing a pattern of insider purchases seen in October by Dr. Dietmar Voggenreiter and Dr. Rudolf Maier.",
       "key_themes": [
-        "Governance",
-        "Management Change"
+        "Director dealings"
       ]
     },
     {
@@ -428,10 +434,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by Dr. Dietmar Voggenreiter, which signals personal confidence in the company but typically carries limited immediate financial impact for general shareholders.",
+      "insight": "Dr. Dietmar Voggenreiter purchased shares again in October, following earlier buys in September and October. This confirms ongoing insider buying activity.",
       "key_themes": [
-        "Director dealings",
-        "Insider buying"
+        "Director dealings"
       ]
     },
     {
@@ -441,11 +446,10 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-dietmar-voggenreiter-k-/9838455",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement indicates a change in the company's board composition, which is a standard governance event. Such appointments are generally routine and do not inherently signal immediate strategic shifts or financial impacts for shareholders.",
+      "impact_score": 3,
+      "insight": "Dr. Dietmar Voggenreiter purchased shares again in October, following earlier buys in September and October. This indicates continued insider confidence.",
       "key_themes": [
-        "Governance",
-        "Board Change"
+        "Director dealings"
       ]
     },
     {
@@ -456,10 +460,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by an individual named in the headline. Such transactions are typically monitored for insider trading compliance and may signal management confidence, but generally carry limited immediate financial impact compared to corporate actions.",
+      "insight": "Dr. Dietmar Voggenreiter’s buy follows his earlier September filing, indicating continued insider purchasing activity.",
       "key_themes": [
-        "Director dealings",
-        "Insider activity"
+        "Director dealings"
       ]
     },
     {
@@ -469,11 +472,10 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-dietmar-voggenreiter-k-/9814292",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement indicates a change in the company's board composition, which is a standard governance event. Such changes are generally monitored by shareholders for continuity of leadership but do not inherently signal immediate financial or strategic shifts.",
+      "impact_score": 3,
+      "insight": "Dr. Dietmar Voggenreiter purchased shares again in September, following an earlier buy that month. This indicates continued insider confidence in the company.",
       "key_themes": [
-        "Governance",
-        "Board Change"
+        "Director dealings"
       ]
     },
     {
@@ -484,10 +486,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a director dealing, specifically a purchase by an individual named in the headline. Such transactions generally signify insider activity but do not inherently alter the company's strategic or financial outlook for shareholders.",
+      "insight": "Dr. Rudolf Maier has bought shares, following similar transactions by Helmut Ernst and Dr. Dietmar Voggenreiter in September.",
       "key_themes": [
-        "Director dealings",
-        "Insider buying"
+        "Director dealings"
       ]
     },
     {
@@ -497,11 +498,10 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-rudolf-maier-kauf/9808809",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement signifies a change in the company's board composition, which is relevant to shareholders as it may affect corporate governance and strategic oversight.",
+      "impact_score": 3,
+      "insight": "Dr. Rudolf Maier’s purchase follows recent insider buying by Helmut Ernst and Dr. Dietmar Voggenreiter in September, suggesting continued internal confidence.",
       "key_themes": [
-        "Governance",
-        "Board Change"
+        "Director dealings"
       ]
     },
     {
@@ -511,11 +511,10 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-dietmar-voggenreiter-k-/9789697",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 6,
-      "insight": "This announcement indicates a change in the company's board composition, which is typically classified as a governance matter. Such changes can influence corporate strategy and oversight but are generally considered standard administrative updates unless they involve key executive departures.",
+      "impact_score": 3,
+      "insight": "Dr. Dietmar Voggenreiter buys shares, following earlier transactions by Dr. Schulte and Helmut Ernst. This indicates ongoing insider activity within the management team.",
       "key_themes": [
-        "Governance",
-        "Board Change"
+        "Director dealings"
       ]
     },
     {
@@ -526,10 +525,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by Dr. Dietmar Voggenreiter, which signals personal confidence in the company but typically has limited immediate financial impact on shareholders.",
+      "insight": "Dr. Dietmar Voggenreiter buys shares, following similar purchases by Helmut Ernst in September and sales by Dr. Sebastian C. Schulte in August.",
       "key_themes": [
-        "Director dealings",
-        "Insider buying"
+        "Director dealings"
       ]
     },
     {
@@ -540,10 +538,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by Helmut Ernst. Such transactions generally signify insider activity but typically have limited immediate impact on shareholder value compared to strategic corporate events.",
+      "insight": "Helmut Ernst buys shares, following Katharina Krüger’s earlier purchase and Dr. Schulte’s sale. This follows the recent cash capital increase.",
       "key_themes": [
         "Director dealings",
-        "Insider buying"
+        "Capital raise"
       ]
     },
     {
@@ -553,11 +551,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-helmut-ernst-kauf/9777421",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement indicates a change in the company's board composition, which is a standard governance event. Such changes are generally routine and do not inherently signal a shift in strategic direction or financial performance.",
+      "impact_score": 3,
+      "insight": "Helmut Ernst purchased shares, adding to recent insider activity. This follows a capital increase and mixed director trading earlier in the year.",
       "key_themes": [
-        "Governance",
-        "Board Change"
+        "Director dealings",
+        "Capital raise"
       ]
     },
     {
@@ -567,12 +565,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-adhoc-deutz-ag-successfully-completes-ca-/9772408",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "This announcement signifies a completed cash capital increase via accelerated bookbuilding, indicating a successful fundraise that will likely dilute existing shareholdings while providing new equity capital to the company.",
+      "impact_score": 3,
+      "insight": "Director dealings preceded this capital increase. Shareholders should monitor subsequent filings for further corporate actions.",
       "key_themes": [
         "Capital raise",
-        "Equity financing",
-        "Dilution"
+        "Director dealings"
       ]
     },
     {
@@ -594,10 +591,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a director dealing involving the sale of shares by an individual named in the headline. Such transactions are routine insider dealings that typically have minimal direct impact on the company's operational outlook or share price.",
+      "insight": "Dr. Sebastian C. Schulte sold shares, contrasting with recent purchases by Voggenreiter, Freytag and Krüger in August.",
       "key_themes": [
-        "Director dealings",
-        "Insider transaction"
+        "Director dealings"
       ]
     },
     {
@@ -608,10 +604,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies a director dealing, specifically a sale of shares by an individual named in the headline. Such transactions are routine insider dealings that typically have minimal direct impact on the company's operational outlook or share price.",
+      "insight": "Dr. Sebastian C. Schulte sold shares, contrasting with recent purchases by Voggenreiter, Freytag and Krüger in August.",
       "key_themes": [
-        "Director dealings",
-        "Insider trading"
+        "Director dealings"
       ]
     },
     {
@@ -622,10 +617,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by Katharina Krüger. Such transactions are routine insider dealings that provide limited insight into the company's future performance.",
+      "insight": "Katharina Krüger’s buy follows earlier purchases by Oliver Neu, Dr. Dietmar Voggenreiter and Melanie Freytag in August 2026, indicating continued insider confidence.",
       "key_themes": [
-        "Director dealings",
-        "Insider trading"
+        "Director dealings"
       ]
     },
     {
@@ -635,11 +629,10 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-katharina-kr-ger-kauf/9711311",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement indicates a change in the company's board composition, which is relevant to corporate governance and leadership structure. Shareholders should review the full filing for details regarding the new appointment and its potential impact on strategic direction.",
+      "impact_score": 3,
+      "insight": "Katharina Krüger’s purchase follows earlier buys by Neu, Voggenreiter and Freytag in August. This pattern suggests continued insider confidence in the company.",
       "key_themes": [
-        "Governance",
-        "Board Change"
+        "Director dealings"
       ]
     },
     {
@@ -650,10 +643,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a director dealing, specifically a purchase by Melanie Freytag, which signals insider activity but typically carries limited immediate financial impact for general shareholders.",
+      "insight": "Analysts issue buy ratings following earlier recommendations in August. This suggests sustained positive sentiment from research providers regarding the stock.",
       "key_themes": [
-        "Director dealings",
-        "Insider buying"
+        "Analyst Rating",
+        "Sentiment"
       ]
     },
     {
@@ -663,11 +656,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-melanie-freytag-kauf/9709423",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement signifies a board change involving the appointment of Melanie Freytag to the Kauf role. Such governance updates are standard corporate actions that inform shareholders of leadership structure adjustments.",
+      "impact_score": 3,
+      "insight": "Melanie Freytag’s purchase follows earlier buy recommendations from Oliver Neu and Dr. Dietmar Voggenreiter in August 2026, indicating continued insider confidence.",
       "key_themes": [
-        "Governance",
-        "Board Change"
+        "Director dealings",
+        "Insider buying"
       ]
     },
     {
@@ -677,11 +670,10 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-dietmar-voggenreiter-k-/9709390",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement indicates a change in the company's board composition, which is a governance matter of moderate interest to shareholders. It signifies an update to the leadership structure without implying immediate financial or strategic consequences.",
+      "impact_score": 3,
+      "insight": "Dr. Dietmar Voggenreiter’s purchase follows earlier buys by Dr. Sebastian C. Schulte and Oliver Neu in August 2026, indicating continued insider confidence.",
       "key_themes": [
-        "Governance",
-        "Board Change"
+        "Director dealings"
       ]
     },
     {
@@ -691,11 +683,10 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-dr-dietmar-voggenreiter-b-/9709389",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by Dr. Dietmar Voggenreiter. Such transactions are generally monitored for insider sentiment but typically carry limited immediate financial impact compared to corporate actions.",
+      "impact_score": 4,
+      "insight": "Dr. Dietmar Voggenreiter’s buy follows earlier director purchases by Dr. Schulte and Oliver Neu in August 2026, indicating continued insider confidence.",
       "key_themes": [
-        "Director dealings",
-        "Governance"
+        "Director dealings"
       ]
     },
     {
@@ -706,10 +697,9 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement likely concerns director dealings involving an individual named in the headline. Such filings are routine regulatory disclosures that typically have minimal immediate impact on shareholder value.",
+      "insight": "Oliver Neu has bought shares. This follows similar director purchases by Dr. Sebastian C. Schulte in August.",
       "key_themes": [
-        "Director dealings",
-        "Governance"
+        "Director dealings"
       ]
     },
     {
@@ -719,11 +709,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-dd-deutz-ag-oliver-neu-kauf/9709098",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement indicates a change in the board composition of Deutz AG. Such governance updates are standard corporate actions that inform shareholders of new leadership appointments.",
+      "impact_score": 3,
+      "insight": "Oliver Neu has purchased shares, following similar insider buying by Dr. Sebastian C. Schulte in August. This reinforces recent management confidence.",
       "key_themes": [
-        "Governance",
-        "Board Change"
+        "Director dealings",
+        "Insider buying"
       ]
     },
     {
@@ -733,11 +723,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/original-research-deutz-ag-von-quirin-priva-/9709093",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This headline indicates an external research report assigning a 'BUY' recommendation to the company. Such analyst ratings generally signal positive market sentiment but do not constitute corporate action or material news for shareholders.",
+      "impact_score": 8,
+      "insight": "Deutz AG receives a BUY recommendation from von Quirin Privatbank Kapitalmarktgeschäft. This follows recent defense sector expansion and H1 2030 growth targets.",
       "key_themes": [
         "Analyst Rating",
-        "Research"
+        "Strategic Expansion"
       ]
     },
     {
@@ -748,10 +738,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement indicates a change in the company's board composition, which is a standard governance event. Such changes are generally monitored for their potential impact on leadership continuity and strategic oversight.",
+      "insight": "Dr. Sebastian C. Schulte was appointed to the board. This follows recent strategic moves including a billion-euro defense transaction and an acquisition of FFG.",
       "key_themes": [
         "Governance",
-        "Board Change"
+        "M&A"
       ]
     },
     {
@@ -762,10 +752,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a director dealing, specifically a purchase of shares by an individual named in the headline. Such transactions generally signal personal investment activity rather than a material corporate event for shareholders.",
+      "insight": "Dr. Sebastian C. Schulte has bought shares. This director dealing follows recent strategic moves including a defense sector transaction and Brazil market entry.",
       "key_themes": [
         "Director dealings",
-        "Insider trading"
+        "Corporate governance"
       ]
     },
     {
@@ -776,11 +766,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 8,
-      "insight": "The announcement indicates significant financial acceleration and the completion of a major transaction that materially alters the company's strategic outlook. Shareholders should anticipate potential valuation re-rating due to the early achievement of long-term targets.",
+      "insight": "Double-digit H1 growth accelerates 2030 targets ahead of schedule. This follows the May Brazil entry and July defense transaction, confirming strategic momentum.",
       "key_themes": [
-        "Strategic milestone",
-        "Major transaction",
-        "Performance update"
+        "Results",
+        "M&A"
       ]
     },
     {
@@ -813,10 +802,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement confirms the publication of financial reports as required by German securities law, indicating a routine disclosure event. It signifies that financial data is now available for shareholder review but does not reveal the content or performance metrics.",
+      "insight": "Deutz AG publishes financial reports as required by German law. This follows recent acquisitions in Brazil and defense sectors announced in May and July.",
       "key_themes": [
-        "Financial reporting",
-        "Regulatory compliance"
+        "Regulatory",
+        "Financial Reporting"
       ]
     },
     {
@@ -826,12 +815,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-news-deutz-accelerates-transformation-wi-/9659988",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "This announcement indicates a significant strategic transaction involving substantial financial value, suggesting a major shift in the company's business focus or asset base. Shareholders should anticipate potential changes to the company's operational profile and future growth trajectory.",
+      "impact_score": 8,
+      "insight": "Deutz AG accelerates transformation via a billion-euro defense sector transaction. This follows its May entry into Brazil and July agreement to acquire FFG Flensburger Fahrzeugbau.",
       "key_themes": [
-        "Strategic Transaction",
-        "Business Transformation",
-        "M&A"
+        "M&A",
+        "Strategic expansion"
       ]
     },
     {
@@ -842,11 +830,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 8,
-      "insight": "This announcement signifies a material acquisition involving both cash and equity issuance, which may dilute existing shareholders while potentially expanding the company's operational scope. The use of newly issued shares to fund the deal indicates a strategic capital raise component alongside the purchase.",
+      "insight": "DEUTZ AG pursues further expansion by acquiring FFG Flensburger Fahrzeugbau Gesellschaft mbH. This follows its May 2026 entry into Brazil, indicating continued international growth.",
       "key_themes": [
         "M&A",
-        "Capital raise",
-        "Strategic expansion"
+        "Expansion"
       ]
     },
     {
@@ -878,11 +865,11 @@
       "url": "https://www.investegate.co.uk/announcement/eqs/deutz-ag--0e4k/eqs-news-market-entry-in-brazil-deutz-expan-/9588503",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement signifies a strategic expansion into a new geographic market, which may indicate growth opportunities for shareholders but lacks specific financial details to assess immediate impact.",
+      "impact_score": 7,
+      "insight": "DEUTZ AG acquires Brazilian generator manufacturer Maxi Trust Power Ltda. This expands its energy business in Latin America.",
       "key_themes": [
-        "Market entry",
-        "Strategic expansion"
+        "M&A",
+        "Expansion"
       ]
     },
     {
@@ -893,7 +880,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "This announcement signifies a material acquisition that may expand the company's operational footprint into new geographic markets. Shareholders should monitor subsequent filings for details on financial terms and integration strategy.",
+      "insight": "Deutz AG acquires Brazilian generator manufacturer Maxi Trust Power Ltda. This material acquisition expands its operational footprint and represents a strategic move for shareholders.",
       "key_themes": [
         "M&A",
         "International expansion"

@@ -2,9 +2,20 @@
   "name": "Intertek Group",
   "ticker": "ITRK",
   "slug": "intertek-group-itrk",
-  "announcement_count": 63,
-  "latest_announcement": "2026-11-26T14:47:00",
+  "announcement_count": 64,
+  "latest_announcement": "2026-11-27T09:35:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T09:35:00",
+      "category": null,
+      "headline": "Holding(s) in Company",
+      "url": "https://www.investegate.co.uk/announcement/rns/intertek-group--itrk/holding-s-in-company/9897601",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-26T14:47:00",
       "category": null,
@@ -290,11 +301,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/intertek-group--itrk/update-on-bidco-s-financing-arrangements/9816642",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "This announcement indicates a potential change in control or significant corporate restructuring involving the company, which typically carries substantial implications for shareholder value and future direction.",
+      "impact_score": 8,
+      "insight": "Following the September lender presentation, this update signals progress in Bidco’s financing, a critical step for the proposed transaction.",
       "key_themes": [
         "M&A",
-        "Corporate Action"
+        "Financing"
       ]
     },
     {
@@ -392,12 +403,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/intertek-group--itrk/publ-of-offering-memorandum-other-documents/9787611",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 7,
-      "insight": "The publication of an offering memorandum typically signifies a capital raising activity, such as a new share issue or debt issuance, which can dilute existing shareholders or alter the company's financial structure. This type of announcement generally indicates a significant corporate finance event that may impact share price and ownership percentages.",
+      "impact_score": 9,
+      "insight": "Intertek Group publishes an offering memorandum following the recommended final cash offer, court meetings, and lender presentations. This document details terms for the ongoing bid process.",
       "key_themes": [
-        "Capital raise",
-        "Fundraising",
-        "Corporate action"
+        "M&A",
+        "Offer"
       ]
     },
     {
@@ -440,11 +450,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/intertek-group--itrk/offer-update-lender-presentation-/9777997",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement indicates that the company is providing an update regarding a lender presentation, which typically serves to maintain transparency with debt providers rather than signaling immediate strategic shifts for equity holders. Such communications are generally administrative or informational in nature and do not imply changes to share value or corporate control.",
+      "impact_score": 9,
+      "insight": "Following the June recommended offer and July financing update, this presentation supports the bid process. Shareholders should monitor the September equity co-investor update for final deal terms.",
       "key_themes": [
-        "Lender Relations",
-        "Corporate Update"
+        "M&A",
+        "Offer Update"
       ]
     },
     {
@@ -520,11 +530,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/intertek-group--itrk/update-on-equity-co-investors-2-september-2026-/9752644",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement likely provides an update on the status of equity co-investors, which may involve changes in shareholding structure or strategic partnerships. Such updates are relevant to shareholders for understanding governance and ownership dynamics but typically do not indicate immediate financial performance shifts.",
+      "impact_score": 9,
+      "insight": "Following the recommended offer and court meetings in June and August, this update confirms the bidco financing arrangements are proceeding. Shareholders should anticipate the finalization of the takeover process.",
       "key_themes": [
-        "Governance",
-        "Shareholder Update"
+        "M&A",
+        "Bid Financing"
       ]
     },
     {
@@ -556,12 +566,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/intertek-group--itrk/results-of-court-meeting-and-general-meeting/9709222",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement confirms the outcomes of shareholder votes held at a court meeting and general meeting. It signifies standard corporate governance activities where shareholders have formally approved or rejected specific proposals.",
+      "impact_score": 9,
+      "insight": "The court meeting results follow the June recommended offer and July financing update. This step is critical for finalizing the bid.",
       "key_themes": [
-        "Governance",
-        "Shareholder vote",
-        "Meeting results"
+        "M&A",
+        "Regulatory"
       ]
     },
     {
@@ -674,7 +683,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 9,
-      "insight": "A recommended final cash offer typically signifies a definitive proposal for the acquisition of the company, which usually results in a premium valuation and a change of control for shareholders.",
+      "insight": "A recommended final cash offer follows the June statement re possible offer. This confirms a transaction is proceeding to completion.",
       "key_themes": [
         "M&A",
         "Takeover"
@@ -688,10 +697,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 7,
-      "insight": "This announcement indicates a potential offer for the company, which typically triggers speculation regarding valuation, control changes, and shareholder returns. Shareholders should anticipate increased market activity and uncertainty until the status of the possible offer is clarified.",
+      "insight": "Intertek Group faces a possible offer. Shareholders should monitor for subsequent filings detailing terms or outcomes.",
       "key_themes": [
         "M&A",
-        "Corporate Action"
+        "Governance"
       ]
     },
     {
@@ -724,10 +733,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director share dealings, which typically indicates routine insider trading activity rather than a significant corporate event. Such disclosures are standard governance requirements and generally carry low immediate impact on shareholder value.",
+      "insight": "Intertek Group filed a Director Dealing RNS. Shareholders should monitor future filings for context on insider activity.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Director Dealings"
       ]
     }
   ]

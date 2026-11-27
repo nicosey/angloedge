@@ -2,9 +2,20 @@
   "name": "Finsbury Growth & Income Trust",
   "ticker": "FGT",
   "slug": "finsbury-growth-income-trust-fgt",
-  "announcement_count": 80,
-  "latest_announcement": "2026-11-19T09:58:00",
+  "announcement_count": 81,
+  "latest_announcement": "2026-11-26T17:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-26T17:00:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/prn/finsbury-growth-income-trust--fgt/transaction-in-own-shares/9896458",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-19T09:58:00",
       "category": "Director Dealing",
@@ -13,7 +24,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such disclosures are routine regulatory requirements and generally have limited immediate impact on shareholder value unless part of a larger pattern.",
+      "insight": "This follows earlier director dealing filings in November. Shareholders should monitor subsequent transactions for trends.",
       "key_themes": [
         "Governance",
         "Director Dealing"
@@ -27,10 +38,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine governance disclosure. It provides transparency into insider activity but does not inherently signal a change in corporate strategy or financial performance.",
+      "insight": "Director/PDMR Shareholding filings indicate insider transactions. This follows a general meeting in July that renewed share buy-back authority.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Insider Dealing"
       ]
     },
     {
@@ -41,7 +52,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares. Such transactions are routine governance disclosures and typically have minimal immediate impact on shareholder value.",
+      "insight": "Director shareholding details were reported in November. This follows earlier updates on the general meeting results and dividend declaration.",
       "key_themes": [
         "Governance",
         "Director Dealing"
@@ -66,10 +77,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into future performance but confirms adherence to insider dealing regulations.",
+      "insight": "Director dealings are routine governance updates. Shareholders should monitor subsequent filings for any significant changes in insider holdings.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Director Dealing"
       ]
     },
     {
@@ -344,10 +355,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies the declaration of a second interim dividend, which is a routine income distribution to shareholders. It confirms the continuation of the company's dividend policy without providing details on the amount or yield.",
+      "insight": "A second interim dividend is declared. This follows the renewal of share buy-back authority in July.",
       "key_themes": [
         "Dividend",
-        "Income"
+        "Capital return"
       ]
     },
     {
@@ -600,10 +611,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 4,
-      "insight": "This announcement confirms the outcome of a general meeting and the renewal of authority to repurchase shares. It signifies ongoing capital management activities but does not indicate a material change in strategy or immediate financial impact.",
+      "insight": "Shareholders should note the renewal of share buy-back authority following the June general meeting notice. This confirms the outcome of the earlier convened meeting.",
       "key_themes": [
         "Governance",
-        "Share buy-back"
+        "Capital return"
       ]
     },
     {
@@ -844,11 +855,11 @@
       "url": "https://www.investegate.co.uk/announcement/prn/finsbury-growth-income-trust--fgt/publication-of-circular-and-notice-of-general-/9602860",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "This announcement indicates that a general meeting is being convened and relevant documentation has been released for shareholder consideration. It signifies standard governance procedures requiring shareholder attention to the matters to be voted upon.",
+      "impact_score": 3,
+      "insight": "Shareholders should note the upcoming general meeting to vote on matters outlined in the circular. This follows an Edison report issued in June.",
       "key_themes": [
         "Governance",
-        "General Meeting"
+        "Meeting"
       ]
     },
     {
@@ -859,7 +870,7 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement signifies an independent review by a third-party research firm, which typically provides analysis or commentary rather than binding corporate actions. Shareholders should expect general market perspective rather than immediate financial or strategic changes to the company.",
+      "insight": "Edison issues a report on Finsbury Growth & Income Trust. Shareholders should watch for potential influence on investment decisions.",
       "key_themes": [
         "Research",
         "Analysis"

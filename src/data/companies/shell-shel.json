@@ -2,9 +2,20 @@
   "name": "Shell",
   "ticker": "SHEL",
   "slug": "shell-shel",
-  "announcement_count": 126,
-  "latest_announcement": "2026-11-26T09:51:00",
+  "announcement_count": 127,
+  "latest_announcement": "2026-11-27T11:34:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T11:34:00",
+      "category": null,
+      "headline": "Transaction in Own Shares",
+      "url": "https://www.investegate.co.uk/announcement/gnw/shell--shel/transaction-in-own-shares/9897831",
+      "routine_type": "Transaction in Own Shares",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-26T09:51:00",
       "category": null,
@@ -233,10 +244,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into corporate strategy but confirms compliance with insider dealing regulations.",
+      "insight": "Director shareholding updates follow recent dividend payments and a new buyback programme announced in October. These filings reflect routine compliance rather than strategic shifts.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Capital return"
       ]
     },
     {
@@ -246,11 +257,11 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/shell--shel/voting-rights-and-capital/9852932",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement typically signifies a routine update regarding the number of voting rights held by major shareholders or changes in the company's share capital structure. It generally indicates standard regulatory compliance rather than a material event affecting shareholder value.",
+      "impact_score": 4,
+      "insight": "Share buyback commencement follows the interim dividend declaration. Voting rights updates reflect standard capital structure adjustments.",
       "key_themes": [
-        "Governance",
-        "Capital"
+        "Capital return",
+        "Governance"
       ]
     },
     {
@@ -414,10 +425,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has engaged in share transactions. Such filings are routine regulatory disclosures that confirm compliance with insider dealing rules rather than signaling significant strategic shifts.",
+      "insight": "Director/PDMR Shareholding filings indicate routine insider transactions. These follow earlier directorate changes and voting rights updates in July and August.",
       "key_themes": [
         "Governance",
-        "Director dealings"
+        "Insider Dealing"
       ]
     },
     {
@@ -560,10 +571,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a person discharging managerial responsibilities has engaged in share transactions, which is a routine regulatory disclosure. It provides limited insight into future performance but confirms insider activity for transparency purposes.",
+      "insight": "Director/PDMR Shareholding filings indicate routine insider transactions. This follows similar disclosures in August and September.",
       "key_themes": [
         "Governance",
-        "Director Dealing"
+        "Insider Dealing"
       ]
     },
     {
@@ -805,10 +816,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement relates to director shareholdings, which typically signifies routine compliance filings regarding individual transactions by persons discharging managerial responsibilities. Such disclosures generally have minimal direct impact on the company's operational performance or valuation.",
+      "insight": "Director shareholding details follow recent board changes and a share buyback. This routine disclosure reflects standard governance compliance rather than strategic shifts.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Capital return"
       ]
     },
     {
@@ -818,10 +829,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/shell--shel/shell/9746549",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 1,
-      "insight": "The headline provides no substantive information beyond the company name, indicating this is likely an administrative filing or a placeholder entry. Consequently, it offers no insight into shareholder value or corporate developments.",
+      "impact_score": 5,
+      "insight": "Shell announces a share buyback programme following its interim dividend declaration. This capital return action complements recent directorate changes and voting rights updates.",
       "key_themes": [
-        "Administrative"
+        "Capital return",
+        "Governance"
       ]
     },
     {
@@ -1030,10 +1042,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of personal trading activity. It provides limited insight into corporate strategy but confirms compliance with insider dealing regulations.",
+      "insight": "Director dealings are routine. Shareholders should monitor the new share buyback programme announced in July for future capital return signals.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Capital return"
       ]
     },
     {
@@ -1065,11 +1077,11 @@
       "url": "https://www.investegate.co.uk/announcement/gnw/shell--shel/voting-rights-and-capital/9700894",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 3,
-      "insight": "This announcement typically signifies a routine update regarding the number of voting rights held by major shareholders or changes to the company's share capital structure. It generally has limited immediate impact on share price unless it indicates a significant shift in ownership control.",
+      "impact_score": 5,
+      "insight": "This follows the July exchange offer results and buyback commencement. Shareholders should monitor for further capital structure updates.",
       "key_themes": [
-        "Governance",
-        "Capital Structure"
+        "Capital",
+        "Governance"
       ]
     },
     {
@@ -1235,11 +1247,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies the conclusion of exchange offers, which typically involves the settlement of securities and may impact shareholder equity structures. It represents a standard corporate action event rather than a change in operational performance or strategic direction.",
+      "insight": "Shell announces final results of exchange offers following earlier commencement in June. This concludes the capital action initiated mid-year.",
       "key_themes": [
-        "Corporate Action",
-        "Securities Settlement",
-        "Results"
+        "Results",
+        "Capital raise"
       ]
     },
     {
@@ -1250,10 +1261,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates that a director or person discharging managerial responsibilities has dealt in the company's shares, which is a routine disclosure of insider trading activity. Such filings provide transparency regarding individual holdings but do not inherently signal a change in corporate strategy or financial performance.",
+      "insight": "Director dealings are routine. Shareholders should monitor the paused share buyback programme announced in June for future capital allocation signals.",
       "key_themes": [
         "Governance",
-        "Director Dealings"
+        "Capital return"
       ]
     },
     {
@@ -1278,11 +1289,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "A pause in a share buyback programme generally signals that management is prioritizing capital preservation or alternative uses of cash over returning funds to shareholders at this time. This action may be viewed as a neutral to slightly negative indicator regarding immediate shareholder returns.",
+      "insight": "Shell pauses its share buyback programme. This follows earlier capital adjustments and registered exchange offers for notes in May and June 2026.",
       "key_themes": [
-        "Capital allocation",
-        "Shareholder returns",
-        "Corporate governance"
+        "Capital return",
+        "Corporate action"
       ]
     },
     {
@@ -1337,11 +1347,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement indicates a standard debt management process involving the exchange of existing notes for new ones. It generally signifies routine capital structure maintenance rather than a significant strategic shift or material financial event for shareholders.",
+      "insight": "Shell commences registered exchange offers for notes linked to a prior private exchange. This follows the May voting rights update, indicating continued capital structure adjustments.",
       "key_themes": [
-        "Debt",
         "Capital structure",
-        "Corporate action"
+        "Debt management"
       ]
     },
     {
@@ -1418,10 +1427,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement typically signifies a routine update regarding the number of voting rights held by major shareholders or changes to the company's share capital structure. It generally has limited immediate impact on share price unless it indicates a significant shift in ownership control.",
+      "insight": "Shareholders should monitor this filing for details on voting rights and capital changes. No prior context is available to assess the significance of these updates.",
       "key_themes": [
         "Governance",
-        "Capital Structure"
+        "Capital"
       ]
     },
     {

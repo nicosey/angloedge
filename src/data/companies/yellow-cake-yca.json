@@ -2,9 +2,20 @@
   "name": "Yellow Cake",
   "ticker": "YCA",
   "slug": "yellow-cake-yca",
-  "announcement_count": 16,
-  "latest_announcement": "2026-11-06T07:00:00",
+  "announcement_count": 17,
+  "latest_announcement": "2026-11-27T07:00:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T07:00:00",
+      "category": null,
+      "headline": "TR-1: Notification of Major Holdings",
+      "url": "https://www.investegate.co.uk/announcement/rns/yellow-cake--yca/tr-1-notification-of-major-holdings/9896723",
+      "routine_type": "Holding(s) in Company",
+      "enriched": false,
+      "impact_score": null,
+      "insight": null,
+      "key_themes": null
+    },
     {
       "timestamp": "2026-11-06T07:00:00",
       "category": null,
@@ -34,11 +45,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/yellow-cake--yca/quarterly-operating-update/9842339",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement provides a scheduled operational update, which is significant for monitoring progress but lacks directional indicators in the headline to assess immediate financial impact.",
+      "impact_score": 3,
+      "insight": "Yellow Cake issued a quarterly operating update following its July filing. Shareholders should monitor for subsequent delivery updates.",
       "key_themes": [
         "Operational Update",
-        "Quarterly Report"
+        "Governance"
       ]
     },
     {
@@ -60,10 +71,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the results of a scheduled annual general meeting, which typically involves routine governance matters such as director elections and auditor appointments. It signifies standard corporate compliance rather than any material change to the company's financial position or strategic direction.",
+      "insight": "Shareholders should note the AGM results follow the July annual report and August uranium delivery. This confirms routine governance proceedings rather than strategic shifts.",
       "key_themes": [
         "Governance",
-        "Shareholder Meeting"
+        "Results"
       ]
     },
     {
@@ -84,10 +95,10 @@
       "url": "https://www.investegate.co.uk/announcement/rns/yellow-cake--yca/delivery-of-uranium/9716767",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement signifies the physical delivery of uranium, which is a core operational milestone for a company in this sector. It confirms that production or supply chain activities are proceeding as expected, validating business execution without indicating specific financial outcomes.",
+      "impact_score": 3,
+      "insight": "Yellow Cake delivers uranium following its quarterly operating update. This operational step follows the July trading update.",
       "key_themes": [
-        "Operations",
+        "Operational Update",
         "Supply Chain"
       ]
     },
@@ -131,11 +142,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/yellow-cake--yca/quarterly-operating-update/9688448",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement provides a scheduled operational update, which is significant for monitoring progress but lacks directional indicators in the headline to assess immediate financial impact.",
+      "impact_score": 3,
+      "insight": "Yellow Cake issues a quarterly operating update. This follows its annual results and share buyback programme, providing routine operational context to shareholders.",
       "key_themes": [
-        "Operational Update",
-        "Quarterly Report"
+        "Operating Update",
+        "Corporate Governance"
       ]
     },
     {
@@ -146,10 +157,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement signifies the release of scheduled annual results for the financial year ending in March 2026. It provides shareholders with a comprehensive overview of the company's performance and financial position over the past twelve months.",
+      "insight": "Yellow Cake publishes annual results for the year ended 31 March 2026. This follows a share buyback programme announced in June 2026.",
       "key_themes": [
         "Results",
-        "Annual Report"
+        "Capital return"
       ]
     },
     {
@@ -181,11 +192,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/yellow-cake--yca/yellow-cake-begins-share-buyback-programme/9617249",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 4,
-      "insight": "This announcement signifies a potential return of capital to shareholders through share repurchases, which may support the share price and indicate management confidence in the company's valuation.",
+      "impact_score": 5,
+      "insight": "Yellow Cake initiates a share buyback programme. This capital return action may support the share price but lacks specific terms in this initial announcement.",
       "key_themes": [
-        "Share Buyback",
-        "Capital Return"
+        "Capital return",
+        "Shareholder value"
       ]
     },
     {

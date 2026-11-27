@@ -2,9 +2,23 @@
   "name": "Thruvision Group",
   "ticker": "THRU",
   "slug": "thruvision-group-thru",
-  "announcement_count": 7,
-  "latest_announcement": "2026-10-15T07:00:00",
+  "announcement_count": 8,
+  "latest_announcement": "2026-11-27T10:38:00",
   "announcements": [
+    {
+      "timestamp": "2026-11-27T10:38:00",
+      "category": "Director Dealing",
+      "headline": "Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/thruvision-group--thru/director-pdmr-shareholding/9897675",
+      "routine_type": null,
+      "enriched": true,
+      "impact_score": 3,
+      "insight": "Director shareholding changes follow recent contract awards. Shareholders should monitor if this signals confidence in the new orders.",
+      "key_themes": [
+        "Governance",
+        "Orders"
+      ]
+    },
     {
       "timestamp": "2026-10-15T07:00:00",
       "category": null,
@@ -13,10 +27,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement indicates that the company has secured new business contracts, which typically signals revenue growth and operational activity. The lack of specific details regarding value or volume prevents a more precise assessment of the financial impact.",
+      "insight": "Thruvision Group received multiple orders. This follows earlier government contracts and retail distribution updates.",
       "key_themes": [
-        "Commercial",
-        "Contracts"
+        "Orders",
+        "Government"
       ]
     },
     {
@@ -27,10 +41,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 3,
-      "insight": "This announcement confirms the outcome of a general meeting, which typically involves routine shareholder approvals such as director re-elections or auditor appointments. It signifies standard corporate governance activity with no immediate financial implications for shareholders.",
+      "insight": "The AGM results confirm shareholder approvals. This follows earlier updates on government contracts and testing in June and July.",
       "key_themes": [
         "Governance",
-        "Shareholder approval"
+        "AGM"
       ]
     },
     {
@@ -41,11 +55,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "This announcement indicates the award of a government contract, which typically signifies new revenue potential and business validation for shareholders. The specific financial impact remains unknown as the headline provides no details on the contract's size or duration.",
+      "insight": "Thruvision Group secured a Canadian government contract. This follows earlier UK government testing updates and retail distribution orders received.",
       "key_themes": [
-        "Contract Award",
-        "Government",
-        "Revenue"
+        "Contract award",
+        "Government relations"
       ]
     },
     {
@@ -66,11 +79,11 @@
       "url": "https://www.investegate.co.uk/announcement/rns/thruvision-group--thru/uk-government-npsa-testing-update/9662013",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 2,
-      "insight": "This headline references a regulatory update from an external government body rather than disclosing specific corporate actions, financial results, or strategic developments for the company itself.",
+      "impact_score": 3,
+      "insight": "Thruvision Group provides an update on UK Government NPSA testing. This follows earlier notices of results and retail distribution orders received.",
       "key_themes": [
         "Regulatory",
-        "Compliance"
+        "Operations"
       ]
     },
     {
@@ -80,8 +93,8 @@
       "url": "https://www.investegate.co.uk/announcement/rns/thruvision-group--thru/notice-of-results/9632228",
       "routine_type": null,
       "enriched": true,
-      "impact_score": 5,
-      "insight": "This announcement indicates that the company is releasing its financial results, a scheduled event whose positive or negative implications for shareholders cannot be determined from the headline alone.",
+      "impact_score": 3,
+      "insight": "Thruvision Group has issued a notice of results. Shareholders should await further details regarding the outcome.",
       "key_themes": [
         "Results"
       ]
@@ -94,10 +107,10 @@
       "routine_type": null,
       "enriched": true,
       "impact_score": 5,
-      "insight": "The receipt of retail distribution orders indicates commercial activity and potential revenue generation, though the absence of financial details prevents assessment of materiality. This type of announcement generally signifies ongoing business operations rather than a transformative event for shareholders.",
+      "insight": "Thruvision Group reports receiving retail distribution orders for Sensormatic. This contract provides initial revenue visibility but lacks financial details to assess materiality.",
       "key_themes": [
-        "Commercial",
-        "Orders"
+        "Contract",
+        "Revenue"
       ]
     }
   ]
